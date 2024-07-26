@@ -61,6 +61,7 @@ def parse_json(json_doc):
     write_ical(providers, "stodvar")
     write_ical(sports, "flokkar")
     write_ical(sportgroups, "ithrottaflokkar")
+    write_ical(flattened_list, "allt")
     # write_ical(sportgroups)
 
 
