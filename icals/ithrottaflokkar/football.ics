@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Fylkir - Besta deild kvenna - stod2sport
-DTSTART:20240726T175000
-DTEND:20240726T185000
-DTSTAMP:20240726T175000Z
-UID:2024-07-26T17:50:00/Breiðablik - Fylkir
-DESCRIPTION:Breiðablik - Fylkir - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Víkingur R. - Þróttur R. - Besta deild kvenna - stod2sport5
-DTSTART:20240726T175000
-DTEND:20240726T185000
-DTSTAMP:20240726T175000Z
-UID:2024-07-26T17:50:00/Víkingur R. - Þróttur R.
-DESCRIPTION:Víkingur R. - Þróttur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
-DTSTART:20240726T200000
-DTEND:20240726T210000
-DTSTAMP:20240726T200000Z
-UID:2024-07-26T20:00:00/Bestu mörkin
-DESCRIPTION:Bestu mörkin - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vestri - FH - Besta deild karla - stod2sport
 DTSTART:20240727T135000
 DTEND:20240727T145000
@@ -114,20 +90,20 @@ UID:2024-07-29T20:15:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Þór/KA - Besta deild kvenna - stod2sport5
-DTSTART:20240730T175000
-DTEND:20240730T185000
-DTSTAMP:20240730T175000Z
-UID:2024-07-30T17:50:00/Tindastóll - Þór/KA
-DESCRIPTION:Tindastóll - Þór/KA - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þróttur R. - Keflavík - Besta deild kvenna - stod2besta01
 DTSTART:20240730T175000
 DTEND:20240730T185000
 DTSTAMP:20240730T175000Z
 UID:2024-07-30T17:50:00/Þróttur R. - Keflavík
 DESCRIPTION:Þróttur R. - Keflavík - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Þór/KA - Besta deild kvenna - stod2sport5
+DTSTART:20240730T175000
+DTEND:20240730T185000
+DTSTAMP:20240730T175000Z
+UID:2024-07-30T17:50:00/Tindastóll - Þór/KA
+DESCRIPTION:Tindastóll - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Upphitun - Besta deild kvenna - stod2sport
@@ -200,5 +176,29 @@ DTEND:20240801T210000
 DTSTAMP:20240801T200000Z
 UID:2024-08-01T20:00:00/Sumarmótin: Rey Cup
 DESCRIPTION:Sumarmótin: Rey Cup - Sumarmótin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borussia Monchengladbach - Ipswich Town - Æfingaleikur - viaplay
+DTSTART:20240802T122500
+DTEND:20240802T132500
+DTSTAMP:20240802T122500Z
+UID:2024-08-02T12:25:00/Borussia Monchengladbach - Ipswich Town
+DESCRIPTION:Borussia Monchengladbach - Ipswich Town - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln - HSV - 2. Bundesliga - viaplay
+DTSTART:20240802T182500
+DTEND:20240802T192500
+DTSTAMP:20240802T182500Z
+UID:2024-08-02T18:25:00/Köln - HSV
+DESCRIPTION:Köln - HSV - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falkirk - Queen's Park - Scottish Championship - viaplay
+DTSTART:20240802T184000
+DTEND:20240802T194000
+DTSTAMP:20240802T184000Z
+UID:2024-08-02T18:40:00/Falkirk - Queen's Park
+DESCRIPTION:Falkirk - Queen's Park - Scottish Championship
 END:VEVENT
 END:VCALENDAR
