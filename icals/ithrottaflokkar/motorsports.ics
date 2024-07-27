@@ -18,14 +18,6 @@ UID:2024-07-27T09:20:00/Spa-Francorchamps (Tímatökur)
 DESCRIPTION:Spa-Francorchamps (Tímatökur) - Porsche Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 - Belgía: Æfing 3 - Formúla 1 - stod2vodasport
-DTSTART:20240727T102500
-DTEND:20240727T112500
-DTSTAMP:20240727T102500Z
-UID:2024-07-27T10:25:00/F1 - Belgía: Æfing 3
-DESCRIPTION:F1 - Belgía: Æfing 3 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Belgíski Kappaksturinn (Æfing 3) - Formula 1 - viaplay
 DTSTART:20240727T102500
 DTEND:20240727T112500
@@ -34,12 +26,28 @@ UID:2024-07-27T10:25:00/Belgíski Kappaksturinn (Æfing 3)
 DESCRIPTION:Belgíski Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
+SUMMARY:F1 - Belgía: Æfing 3 - Formúla 1 - stod2vodasport
+DTSTART:20240727T102500
+DTEND:20240727T112500
+DTSTAMP:20240727T102500Z
+UID:2024-07-27T10:25:00/F1 - Belgía: Æfing 3
+DESCRIPTION:F1 - Belgía: Æfing 3 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
 DTSTART:20240727T103000
 DTEND:20240727T113000
 DTSTAMP:20240727T103000Z
-UID:2024-07-27T10:30:00/Pitlane (Æfing 3 | Belgium Grand Prix)
-DESCRIPTION:Pitlane (Æfing 3 | Belgium Grand Prix) - Formula 1
+UID:2024-07-27T10:30:00/Onboard (Æfing 3 | Belgium Grand Prix)
+DESCRIPTION:Onboard (Æfing 3 | Belgium Grand Prix) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
+DTSTART:20240727T103000
+DTEND:20240727T113000
+DTSTAMP:20240727T103000Z
+UID:2024-07-27T10:30:00/Timing (Æfing 3 | Belgium Grand Prix)
+DESCRIPTION:Timing (Æfing 3 | Belgium Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Belgium Grand Prix) - Formula 1 - 
@@ -53,20 +61,12 @@ DESCRIPTION:Track Positioning (Æfing 3 | Belgium Grand Prix) - Formula
  1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
 DTSTART:20240727T103000
 DTEND:20240727T113000
 DTSTAMP:20240727T103000Z
-UID:2024-07-27T10:30:00/Timing (Æfing 3 | Belgium Grand Prix)
-DESCRIPTION:Timing (Æfing 3 | Belgium Grand Prix) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
-DTSTART:20240727T103000
-DTEND:20240727T113000
-DTSTAMP:20240727T103000Z
-UID:2024-07-27T10:30:00/Onboard (Æfing 3 | Belgium Grand Prix)
-DESCRIPTION:Onboard (Æfing 3 | Belgium Grand Prix) - Formula 1
+UID:2024-07-27T10:30:00/Pitlane (Æfing 3 | Belgium Grand Prix)
+DESCRIPTION:Pitlane (Æfing 3 | Belgium Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Castellet (Coppa Shell & 488 | Kappakstur 1) - Ferrari Challeng
@@ -113,6 +113,14 @@ UID:2024-07-27T13:55:00/Belgíski Kappaksturinn (Tímatökur)
 DESCRIPTION:Belgíski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Tímatökur | Belgium Grand Prix) - Formula 1 - viaplay
+DTSTART:20240727T140000
+DTEND:20240727T150000
+DTSTAMP:20240727T140000Z
+UID:2024-07-27T14:00:00/Pitlane (Tímatökur | Belgium Grand Prix)
+DESCRIPTION:Pitlane (Tímatökur | Belgium Grand Prix) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Belgium Grand Prix) - Formula 1 - viaplay
 DTSTART:20240727T140000
 DTEND:20240727T150000
@@ -127,14 +135,6 @@ DTEND:20240727T150000
 DTSTAMP:20240727T140000Z
 UID:2024-07-27T14:00:00/Timing (Tímatökur | Belgium Grand Prix)
 DESCRIPTION:Timing (Tímatökur | Belgium Grand Prix) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Belgium Grand Prix) - Formula 1 - viaplay
-DTSTART:20240727T140000
-DTEND:20240727T150000
-DTSTAMP:20240727T140000Z
-UID:2024-07-27T14:00:00/Pitlane (Tímatökur | Belgium Grand Prix)
-DESCRIPTION:Pitlane (Tímatökur | Belgium Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Belgium Grand Prix) - Formula 1
@@ -216,6 +216,17 @@ UID:2024-07-28T12:30:00/Belgíski Kappaksturinn (Kappakstur)
 DESCRIPTION:Belgíski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 1 - 
+ viaplay
+DTSTART:20240728T130000
+DTEND:20240728T140000
+DTSTAMP:20240728T130000Z
+UID:2024-07-28T13:00:00/Track Positioning (Kappakstur | Belgium Grand Prix
+ )
+DESCRIPTION:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 
+ 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Belgium Grand Prix) - Formula 1 - viaplay
 DTSTART:20240728T130000
 DTEND:20240728T140000
@@ -238,17 +249,6 @@ DTEND:20240728T140000
 DTSTAMP:20240728T130000Z
 UID:2024-07-28T13:00:00/Pitlane (Kappakstur | Belgium Grand Prix)
 DESCRIPTION:Pitlane (Kappakstur | Belgium Grand Prix) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 1 - 
- viaplay
-DTSTART:20240728T130000
-DTEND:20240728T140000
-DTSTAMP:20240728T130000Z
-UID:2024-07-28T13:00:00/Track Positioning (Kappakstur | Belgium Grand Prix
- )
-DESCRIPTION:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 
- 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Castellet (Coppa Shell 488 | Kappakstur 2) - Ferrari Challenge 

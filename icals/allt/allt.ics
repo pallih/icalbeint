@@ -10,20 +10,20 @@ UID:2024-07-27T07:45:00/Spa-Francorchamps (Sprettkeppni)
 DESCRIPTION:Spa-Francorchamps (Sprettkeppni) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fimleikar - Ólympíuleikar - ruv2
-DTSTART:20240727T085500
-DTEND:20240727T095500
-DTSTAMP:20240727T085500Z
-UID:2024-07-27T08:55:00/Fimleikar
-DESCRIPTION:Fimleikar - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sund (Anton) - Ólympíuleikar - ruv
 DTSTART:20240727T085500
 DTEND:20240727T095500
 DTSTAMP:20240727T085500Z
 UID:2024-07-27T08:55:00/Sund (Anton)
 DESCRIPTION:Sund (Anton) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fimleikar - Ólympíuleikar - ruv2
+DTSTART:20240727T085500
+DTEND:20240727T095500
+DTSTAMP:20240727T085500Z
+UID:2024-07-27T08:55:00/Fimleikar
+DESCRIPTION:Fimleikar - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spa-Francorchamps (Tímatökur) - Porsche Supercup - viaplay
@@ -34,14 +34,6 @@ UID:2024-07-27T09:20:00/Spa-Francorchamps (Tímatökur)
 DESCRIPTION:Spa-Francorchamps (Tímatökur) - Porsche Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 - Belgía: Æfing 3 - Formúla 1 - stod2vodasport
-DTSTART:20240727T102500
-DTEND:20240727T112500
-DTSTAMP:20240727T102500Z
-UID:2024-07-27T10:25:00/F1 - Belgía: Æfing 3
-DESCRIPTION:F1 - Belgía: Æfing 3 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Belgíski Kappaksturinn (Æfing 3) - Formula 1 - viaplay
 DTSTART:20240727T102500
 DTEND:20240727T112500
@@ -50,20 +42,28 @@ UID:2024-07-27T10:25:00/Belgíski Kappaksturinn (Æfing 3)
 DESCRIPTION:Belgíski Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
-DTSTART:20240727T103000
-DTEND:20240727T113000
-DTSTAMP:20240727T103000Z
-UID:2024-07-27T10:30:00/Pitlane (Æfing 3 | Belgium Grand Prix)
-DESCRIPTION:Pitlane (Æfing 3 | Belgium Grand Prix) - Formula 1
+SUMMARY:F1 - Belgía: Æfing 3 - Formúla 1 - stod2vodasport
+DTSTART:20240727T102500
+DTEND:20240727T112500
+DTSTAMP:20240727T102500Z
+UID:2024-07-27T10:25:00/F1 - Belgía: Æfing 3
+DESCRIPTION:F1 - Belgía: Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fish 'O' Mania - Fiskveiðar - viaplay
+SUMMARY:Onboard (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
 DTSTART:20240727T103000
 DTEND:20240727T113000
 DTSTAMP:20240727T103000Z
-UID:2024-07-27T10:30:00/Fish 'O' Mania
-DESCRIPTION:Fish 'O' Mania - Fiskveiðar
+UID:2024-07-27T10:30:00/Onboard (Æfing 3 | Belgium Grand Prix)
+DESCRIPTION:Onboard (Æfing 3 | Belgium Grand Prix) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
+DTSTART:20240727T103000
+DTEND:20240727T113000
+DTSTAMP:20240727T103000Z
+UID:2024-07-27T10:30:00/Timing (Æfing 3 | Belgium Grand Prix)
+DESCRIPTION:Timing (Æfing 3 | Belgium Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Belgium Grand Prix) - Formula 1 - 
@@ -77,20 +77,20 @@ DESCRIPTION:Track Positioning (Æfing 3 | Belgium Grand Prix) - Formula
  1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
+SUMMARY:Fish 'O' Mania - Fiskveiðar - viaplay
 DTSTART:20240727T103000
 DTEND:20240727T113000
 DTSTAMP:20240727T103000Z
-UID:2024-07-27T10:30:00/Timing (Æfing 3 | Belgium Grand Prix)
-DESCRIPTION:Timing (Æfing 3 | Belgium Grand Prix) - Formula 1
+UID:2024-07-27T10:30:00/Fish 'O' Mania
+DESCRIPTION:Fish 'O' Mania - Fiskveiðar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 3 | Belgium Grand Prix) - Formula 1 - viaplay
 DTSTART:20240727T103000
 DTEND:20240727T113000
 DTSTAMP:20240727T103000Z
-UID:2024-07-27T10:30:00/Onboard (Æfing 3 | Belgium Grand Prix)
-DESCRIPTION:Onboard (Æfing 3 | Belgium Grand Prix) - Formula 1
+UID:2024-07-27T10:30:00/Pitlane (Æfing 3 | Belgium Grand Prix)
+DESCRIPTION:Pitlane (Æfing 3 | Belgium Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dýfingar - Ólympíuleikar - ruv
@@ -117,14 +117,6 @@ UID:2024-07-27T11:30:00/The Senior Open
 DESCRIPTION:The Senior Open - The Senior Open
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Króatía - Japan (handb. kk) - Ólympíuleikar - ruv
-DTSTART:20240727T115000
-DTEND:20240727T125000
-DTSTAMP:20240727T115000Z
-UID:2024-07-27T11:50:00/Króatía - Japan (handb. kk)
-DESCRIPTION:Króatía - Japan (handb. kk) - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le Castellet (Coppa Shell & 488 | Kappakstur 1) - Ferrari Challeng
  e Europe - viaplay
 DTSTART:20240727T115000
@@ -133,6 +125,14 @@ DTSTAMP:20240727T115000Z
 UID:2024-07-27T11:50:00/Le Castellet (Coppa Shell & 488 | Kappakstur 1)
 DESCRIPTION:Le Castellet (Coppa Shell & 488 | Kappakstur 1) - Ferrari Chal
  lenge Europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Króatía - Japan (handb. kk) - Ólympíuleikar - ruv
+DTSTART:20240727T115000
+DTEND:20240727T125000
+DTSTAMP:20240727T115000Z
+UID:2024-07-27T11:50:00/Króatía - Japan (handb. kk)
+DESCRIPTION:Króatía - Japan (handb. kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spa-Francorchamps (Sprettkeppni) - Formula 2 - viaplay
@@ -185,6 +185,14 @@ UID:2024-07-27T13:55:00/F1 - Belgía: Tímataka
 DESCRIPTION:F1 - Belgía: Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ipswich - Fortuna Dusseldorf - Æfingaleikur - viaplay
+DTSTART:20240727T135500
+DTEND:20240727T145500
+DTSTAMP:20240727T135500Z
+UID:2024-07-27T13:55:00/Ipswich - Fortuna Dusseldorf
+DESCRIPTION:Ipswich - Fortuna Dusseldorf - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Belgíski Kappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20240727T135500
 DTEND:20240727T145500
@@ -193,12 +201,12 @@ UID:2024-07-27T13:55:00/Belgíski Kappaksturinn (Tímatökur)
 DESCRIPTION:Belgíski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Fortuna Dusseldorf - Æfingaleikur - viaplay
-DTSTART:20240727T135500
-DTEND:20240727T145500
-DTSTAMP:20240727T135500Z
-UID:2024-07-27T13:55:00/Ipswich - Fortuna Dusseldorf
-DESCRIPTION:Ipswich - Fortuna Dusseldorf - Æfingaleikur
+SUMMARY:Pitlane (Tímatökur | Belgium Grand Prix) - Formula 1 - viaplay
+DTSTART:20240727T140000
+DTEND:20240727T150000
+DTSTAMP:20240727T140000Z
+UID:2024-07-27T14:00:00/Pitlane (Tímatökur | Belgium Grand Prix)
+DESCRIPTION:Pitlane (Tímatökur | Belgium Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Belgium Grand Prix) - Formula 1 - viaplay
@@ -209,29 +217,12 @@ UID:2024-07-27T14:00:00/Onboard (Tímatökur | Belgium Grand Prix)
 DESCRIPTION:Onboard (Tímatökur | Belgium Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:King George and Queen Elizabeth Stakes - Crown Jewels Racing - via
- play
-DTSTART:20240727T140000
-DTEND:20240727T150000
-DTSTAMP:20240727T140000Z
-UID:2024-07-27T14:00:00/King George and Queen Elizabeth Stakes
-DESCRIPTION:King George and Queen Elizabeth Stakes - Crown Jewels Racing
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Tímatökur | Belgium Grand Prix) - Formula 1 - viaplay
 DTSTART:20240727T140000
 DTEND:20240727T150000
 DTSTAMP:20240727T140000Z
 UID:2024-07-27T14:00:00/Timing (Tímatökur | Belgium Grand Prix)
 DESCRIPTION:Timing (Tímatökur | Belgium Grand Prix) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Belgium Grand Prix) - Formula 1 - viaplay
-DTSTART:20240727T140000
-DTEND:20240727T150000
-DTSTAMP:20240727T140000Z
-UID:2024-07-27T14:00:00/Pitlane (Tímatökur | Belgium Grand Prix)
-DESCRIPTION:Pitlane (Tímatökur | Belgium Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Belgium Grand Prix) - Formula 1
@@ -243,6 +234,15 @@ UID:2024-07-27T14:00:00/Track Positioning (Tímatökur | Belgium Grand P
  rix)
 DESCRIPTION:Track Positioning (Tímatökur | Belgium Grand Prix) - Formu
  la 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:King George and Queen Elizabeth Stakes - Crown Jewels Racing - via
+ play
+DTSTART:20240727T140000
+DTEND:20240727T150000
+DTSTAMP:20240727T140000Z
+UID:2024-07-27T14:00:00/King George and Queen Elizabeth Stakes
+DESCRIPTION:King George and Queen Elizabeth Stakes - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Castellet (Coppa Shell AM | Kappakstur 1) - Ferrari Challenge E
@@ -457,6 +457,25 @@ UID:2024-07-28T12:45:00/Fimleikar
 DESCRIPTION:Fimleikar - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 1 - 
+ viaplay
+DTSTART:20240728T130000
+DTEND:20240728T140000
+DTSTAMP:20240728T130000Z
+UID:2024-07-28T13:00:00/Track Positioning (Kappakstur | Belgium Grand Prix
+ )
+DESCRIPTION:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rey Cup - Rey Cup - stod2sport
+DTSTART:20240728T130000
+DTEND:20240728T140000
+DTSTAMP:20240728T130000Z
+UID:2024-07-28T13:00:00/Rey Cup
+DESCRIPTION:Rey Cup - Rey Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Belgium Grand Prix) - Formula 1 - viaplay
 DTSTART:20240728T130000
 DTEND:20240728T140000
@@ -479,25 +498,6 @@ DTEND:20240728T140000
 DTSTAMP:20240728T130000Z
 UID:2024-07-28T13:00:00/Pitlane (Kappakstur | Belgium Grand Prix)
 DESCRIPTION:Pitlane (Kappakstur | Belgium Grand Prix) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rey Cup - Rey Cup - stod2sport
-DTSTART:20240728T130000
-DTEND:20240728T140000
-DTSTAMP:20240728T130000Z
-UID:2024-07-28T13:00:00/Rey Cup
-DESCRIPTION:Rey Cup - Rey Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 1 - 
- viaplay
-DTSTART:20240728T130000
-DTEND:20240728T140000
-DTSTAMP:20240728T130000Z
-UID:2024-07-28T13:00:00/Track Positioning (Kappakstur | Belgium Grand Prix
- )
-DESCRIPTION:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 
- 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Castellet (Coppa Shell 488 | Kappakstur 2) - Ferrari Challenge 
@@ -632,20 +632,20 @@ UID:2024-07-28T18:55:00/Bandaríkin - Þýskaland (fótb. kvk)
 DESCRIPTION:Bandaríkin - Þýskaland (fótb. kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víkingur R. - HK - Besta deild karla - stod2sport
-DTSTART:20240728T190500
-DTEND:20240728T200500
-DTSTAMP:20240728T190500Z
-UID:2024-07-28T19:05:00/Víkingur R. - HK
-DESCRIPTION:Víkingur R. - HK - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - Valur - Besta deild karla - stod2sport5
 DTSTART:20240728T190500
 DTEND:20240728T200500
 DTSTAMP:20240728T190500Z
 UID:2024-07-28T19:05:00/Fram - Valur
 DESCRIPTION:Fram - Valur - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - HK - Besta deild karla - stod2sport
+DTSTART:20240728T190500
+DTEND:20240728T200500
+DTSTAMP:20240728T190500Z
+UID:2024-07-28T19:05:00/Víkingur R. - HK
+DESCRIPTION:Víkingur R. - HK - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diamondbacks - Pirates - MLB - stod2vodasport
@@ -824,20 +824,20 @@ UID:2024-07-29T19:00:00/Orioles - Blue Jays
 DESCRIPTION:Orioles - Blue Jays - MLB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
-DTSTART:20240729T201500
-DTEND:20240729T211500
-DTSTAMP:20240729T201500Z
-UID:2024-07-29T20:15:00/Ólympíukvöld
-DESCRIPTION:Ólympíukvöld - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stúkan - Besta deild karla - stod2sport
 DTSTART:20240729T201500
 DTEND:20240729T211500
 DTSTAMP:20240729T201500Z
 UID:2024-07-29T20:15:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
+DTSTART:20240729T201500
+DTEND:20240729T211500
+DTSTAMP:20240729T201500Z
+UID:2024-07-29T20:15:00/Ólympíukvöld
+DESCRIPTION:Ólympíukvöld - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Sox - Mariners - MLB - stod2vodasport
@@ -888,20 +888,20 @@ UID:2024-07-30T12:25:00/Borðtennis
 DESCRIPTION:Borðtennis - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Premier Padel - Premier Padel - stod2vodasport
-DTSTART:20240730T130000
-DTEND:20240730T140000
-DTSTAMP:20240730T130000Z
-UID:2024-07-30T13:00:00/Premier Padel
-DESCRIPTION:Premier Padel - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Finland P2 - Premier Padel - viaplay
 DTSTART:20240730T130000
 DTEND:20240730T140000
 DTSTAMP:20240730T130000Z
 UID:2024-07-30T13:00:00/Finland P2
 DESCRIPTION:Finland P2 - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premier Padel - Premier Padel - stod2vodasport
+DTSTART:20240730T130000
+DTEND:20240730T140000
+DTSTAMP:20240730T130000Z
+UID:2024-07-30T13:00:00/Premier Padel
+DESCRIPTION:Premier Padel - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skotfimi - Ólympíuleikar - ruv
@@ -1312,14 +1312,6 @@ UID:2024-08-02T07:00:00/Finland P2
 DESCRIPTION:Finland P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Borðtennis - Ólympíuleikar - ruv2
-DTSTART:20240802T075500
-DTEND:20240802T085500
-DTSTAMP:20240802T075500Z
-UID:2024-08-02T07:55:00/Borðtennis
-DESCRIPTION:Borðtennis - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
 DTSTART:20240802T075500
 DTEND:20240802T085500
@@ -1334,6 +1326,14 @@ DTEND:20240802T085500
 DTSTAMP:20240802T075500Z
 UID:2024-08-02T07:55:00/British Grand Prix (Frjáls æfing 1)
 DESCRIPTION:British Grand Prix (Frjáls æfing 1) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borðtennis - Ólympíuleikar - ruv2
+DTSTART:20240802T075500
+DTEND:20240802T085500
+DTSTAMP:20240802T075500Z
+UID:2024-08-02T07:55:00/Borðtennis
+DESCRIPTION:Borðtennis - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Frjáls æfing 1) - Moto2 - viaplay
@@ -1408,20 +1408,20 @@ UID:2024-08-02T13:00:00/Silverstone Kappaksturinn (Æfing)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silverstone Kappaksturinn (Æfing) - MotoGP - viaplay
-DTSTART:20240802T135000
-DTEND:20240802T145000
-DTSTAMP:20240802T135000Z
-UID:2024-08-02T13:50:00/Silverstone Kappaksturinn (Æfing)
-DESCRIPTION:Silverstone Kappaksturinn (Æfing) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þýskaland - Spánn (handb. kk) - Ólympíuleikar - ruv
 DTSTART:20240802T135000
 DTEND:20240802T145000
 DTSTAMP:20240802T135000Z
 UID:2024-08-02T13:50:00/Þýskaland - Spánn (handb. kk)
 DESCRIPTION:Þýskaland - Spánn (handb. kk) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Æfing) - MotoGP - viaplay
+DTSTART:20240802T135000
+DTEND:20240802T145000
+DTSTAMP:20240802T135000Z
+UID:2024-08-02T13:50:00/Silverstone Kappaksturinn (Æfing)
+DESCRIPTION:Silverstone Kappaksturinn (Æfing) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Badminton - Ólympíuleikar - ruv2
@@ -1456,20 +1456,20 @@ UID:2024-08-02T17:00:00/3x3 körfubolti
 DESCRIPTION:3x3 körfubolti - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köln - HSV - 2. Bundesliga - viaplay
-DTSTART:20240802T182500
-DTEND:20240802T192500
-DTSTAMP:20240802T182500Z
-UID:2024-08-02T18:25:00/Köln - HSV
-DESCRIPTION:Köln - HSV - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sund - Ólympíuleikar - ruv2
 DTSTART:20240802T182500
 DTEND:20240802T192500
 DTSTAMP:20240802T182500Z
 UID:2024-08-02T18:25:00/Sund
 DESCRIPTION:Sund - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln - HSV - 2. Bundesliga - viaplay
+DTSTART:20240802T182500
+DTEND:20240802T192500
+DTSTAMP:20240802T182500Z
+UID:2024-08-02T18:25:00/Köln - HSV
+DESCRIPTION:Köln - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falkirk - Queen's Park - Scottish Championship - viaplay
