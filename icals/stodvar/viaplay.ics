@@ -52,12 +52,15 @@ UID:2024-07-28T12:30:00/Belgíski Kappaksturinn (Kappakstur)
 DESCRIPTION:Belgíski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Belgium Grand Prix) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 1 - 
+ viaplay
 DTSTART:20240728T130000
 DTEND:20240728T140000
 DTSTAMP:20240728T130000Z
-UID:2024-07-28T13:00:00/Timing (Kappakstur | Belgium Grand Prix)
-DESCRIPTION:Timing (Kappakstur | Belgium Grand Prix) - Formula 1
+UID:2024-07-28T13:00:00/Track Positioning (Kappakstur | Belgium Grand Prix
+ )
+DESCRIPTION:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 
+ 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Belgium Grand Prix) - Formula 1 - viaplay
@@ -68,23 +71,20 @@ UID:2024-07-28T13:00:00/Pitlane (Kappakstur | Belgium Grand Prix)
 DESCRIPTION:Pitlane (Kappakstur | Belgium Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Belgium Grand Prix) - Formula 1 - viaplay
+DTSTART:20240728T130000
+DTEND:20240728T140000
+DTSTAMP:20240728T130000Z
+UID:2024-07-28T13:00:00/Timing (Kappakstur | Belgium Grand Prix)
+DESCRIPTION:Timing (Kappakstur | Belgium Grand Prix) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Belgium Grand Prix) - Formula 1 - viaplay
 DTSTART:20240728T130000
 DTEND:20240728T140000
 DTSTAMP:20240728T130000Z
 UID:2024-07-28T13:00:00/Onboard (Kappakstur | Belgium Grand Prix)
 DESCRIPTION:Onboard (Kappakstur | Belgium Grand Prix) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 1 - 
- viaplay
-DTSTART:20240728T130000
-DTEND:20240728T140000
-DTSTAMP:20240728T130000Z
-UID:2024-07-28T13:00:00/Track Positioning (Kappakstur | Belgium Grand Prix
- )
-DESCRIPTION:Track Positioning (Kappakstur | Belgium Grand Prix) - Formula 
- 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Castellet (Coppa Shell 488 | Kappakstur 2) - Ferrari Challenge 
@@ -275,20 +275,20 @@ UID:2024-08-03T09:45:00/Silverstone Kappaksturinn (Tímatökur)
 DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20240803T105500
-DTEND:20240803T115500
-DTSTAMP:20240803T105500Z
-UID:2024-08-03T10:55:00/Magdeburg - Elversberg
-DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hertha BSC - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20240803T105500
 DTEND:20240803T115500
 DTSTAMP:20240803T105500Z
 UID:2024-08-03T10:55:00/Hertha BSC - Paderborn
 DESCRIPTION:Hertha BSC - Paderborn - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher SC - Nürnberg - 2. Bundesliga - viaplay
+DTSTART:20240803T105500
+DTEND:20240803T115500
+DTSTAMP:20240803T105500Z
+UID:2024-08-03T10:55:00/Karlsruher SC - Nürnberg
+DESCRIPTION:Karlsruher SC - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover 96 - Jahn Regensburg - 2. Bundesliga - viaplay
@@ -299,12 +299,12 @@ UID:2024-08-03T10:55:00/Hannover 96 - Jahn Regensburg
 DESCRIPTION:Hannover 96 - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher SC - Nürnberg - 2. Bundesliga - viaplay
+SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20240803T105500
 DTEND:20240803T115500
 DTSTAMP:20240803T105500Z
-UID:2024-08-03T10:55:00/Karlsruher SC - Nürnberg
-DESCRIPTION:Karlsruher SC - Nürnberg - 2. Bundesliga
+UID:2024-08-03T10:55:00/Magdeburg - Elversberg
+DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Tottenham - Æfingaleikur - viaplay
