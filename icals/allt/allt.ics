@@ -50,20 +50,20 @@ UID:2024-07-29T11:55:00/Hjólreiðar
 DESCRIPTION:Hjólreiðar - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tennis (Nadal - Djokovic) - Ólympíuleikar - ruv2
+DTSTART:20240729T120000
+DTEND:20240729T130000
+DTSTAMP:20240729T120000Z
+UID:2024-07-29T12:00:00/Tennis (Nadal - Djokovic)
+DESCRIPTION:Tennis (Nadal - Djokovic) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skotfimi - Ólympíuleikar - ruv
 DTSTART:20240729T134500
 DTEND:20240729T144500
 DTSTAMP:20240729T134500Z
 UID:2024-07-29T13:45:00/Skotfimi
 DESCRIPTION:Skotfimi - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Svíþjóð - Spánn (handb. kk) - Ólympíuleikar - ruv2
-DTSTART:20240729T135000
-DTEND:20240729T145000
-DTSTAMP:20240729T135000Z
-UID:2024-07-29T13:50:00/Svíþjóð - Spánn (handb. kk)
-DESCRIPTION:Svíþjóð - Spánn (handb. kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dýfingar - Ólympíuleikar - ruv
@@ -138,20 +138,20 @@ UID:2024-07-29T19:00:00/Orioles - Blue Jays
 DESCRIPTION:Orioles - Blue Jays - MLB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - stod2sport
-DTSTART:20240729T201500
-DTEND:20240729T211500
-DTSTAMP:20240729T201500Z
-UID:2024-07-29T20:15:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
 DTSTART:20240729T201500
 DTEND:20240729T211500
 DTSTAMP:20240729T201500Z
 UID:2024-07-29T20:15:00/Ólympíukvöld
 DESCRIPTION:Ólympíukvöld - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stúkan - Besta deild karla - stod2sport
+DTSTART:20240729T201500
+DTEND:20240729T211500
+DTSTAMP:20240729T201500Z
+UID:2024-07-29T20:15:00/Stúkan
+DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kanó siglingar - Ólympíuleikar - ruv2
@@ -634,6 +634,14 @@ UID:2024-08-02T07:00:00/Finland P2
 DESCRIPTION:Finland P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
+DTSTART:20240802T075500
+DTEND:20240802T085500
+DTSTAMP:20240802T075500Z
+UID:2024-08-02T07:55:00/Frjálsíþróttir
+DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:British Grand Prix (Frjáls æfing 1) - Moto3 - viaplay
 DTSTART:20240802T075500
 DTEND:20240802T085500
@@ -648,14 +656,6 @@ DTEND:20240802T085500
 DTSTAMP:20240802T075500Z
 UID:2024-08-02T07:55:00/Borðtennis
 DESCRIPTION:Borðtennis - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
-DTSTART:20240802T075500
-DTEND:20240802T085500
-DTSTAMP:20240802T075500Z
-UID:2024-08-02T07:55:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Frjáls æfing 1) - Moto2 - viaplay
@@ -714,12 +714,12 @@ UID:2024-08-02T12:10:00/British Grand Prix (Æfing)
 DESCRIPTION:British Grand Prix (Æfing) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Borussia Monchengladbach - Ipswich Town - Æfingaleikur - viaplay
+SUMMARY:Mönchengladbach - Ipswich - Æfingaleikur - viaplay
 DTSTART:20240802T122500
 DTEND:20240802T132500
 DTSTAMP:20240802T122500Z
-UID:2024-08-02T12:25:00/Borussia Monchengladbach - Ipswich Town
-DESCRIPTION:Borussia Monchengladbach - Ipswich Town - Æfingaleikur
+UID:2024-08-02T12:25:00/Mönchengladbach - Ipswich
+DESCRIPTION:Mönchengladbach - Ipswich - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Æfing) - Moto2 - viaplay
@@ -730,20 +730,20 @@ UID:2024-08-02T13:00:00/Silverstone Kappaksturinn (Æfing)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Spánn (handb. kk) - Ólympíuleikar - ruv
-DTSTART:20240802T135000
-DTEND:20240802T145000
-DTSTAMP:20240802T135000Z
-UID:2024-08-02T13:50:00/Þýskaland - Spánn (handb. kk)
-DESCRIPTION:Þýskaland - Spánn (handb. kk) - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Æfing) - MotoGP - viaplay
 DTSTART:20240802T135000
 DTEND:20240802T145000
 DTSTAMP:20240802T135000Z
 UID:2024-08-02T13:50:00/Silverstone Kappaksturinn (Æfing)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þýskaland - Spánn (handb. kk) - Ólympíuleikar - ruv
+DTSTART:20240802T135000
+DTEND:20240802T145000
+DTSTAMP:20240802T135000Z
+UID:2024-08-02T13:50:00/Þýskaland - Spánn (handb. kk)
+DESCRIPTION:Þýskaland - Spánn (handb. kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Badminton - Ólympíuleikar - ruv2
@@ -906,28 +906,12 @@ UID:2024-08-03T10:40:00/Tennis
 DESCRIPTION:Tennis - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Jahn Regensburg - 2. Bundesliga - viaplay
-DTSTART:20240803T105000
-DTEND:20240803T115000
-DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
-DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
 UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
 DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
-DTSTART:20240803T105000
-DTEND:20240803T115000
-DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Karlsruher - Nürnberg
-DESCRIPTION:Karlsruher - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
@@ -938,6 +922,22 @@ UID:2024-08-03T10:50:00/Magdeburg - Elversberg
 DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
+DTSTART:20240803T105000
+DTEND:20240803T115000
+DTSTAMP:20240803T105000Z
+UID:2024-08-03T10:50:00/Karlsruher - Nürnberg
+DESCRIPTION:Karlsruher - Nürnberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover - Jahn Regensburg - 2. Bundesliga - viaplay
+DTSTART:20240803T105000
+DTEND:20240803T115000
+DTSTAMP:20240803T105000Z
+UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
+DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayern München - Tottenham - Æfingaleikur - viaplay
 DTSTART:20240803T105500
 DTEND:20240803T115500
@@ -946,12 +946,12 @@ UID:2024-08-03T10:55:00/Bayern München - Tottenham
 DESCRIPTION:Bayern München - Tottenham - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heart of Midlothian - Rangers - Premier Sports Cup - viaplay
+SUMMARY:Hearts - Rangers - Premier Sports Cup - viaplay
 DTSTART:20240803T112500
 DTEND:20240803T122500
 DTSTAMP:20240803T112500Z
-UID:2024-08-03T11:25:00/Heart of Midlothian - Rangers
-DESCRIPTION:Heart of Midlothian - Rangers - Premier Sports Cup
+UID:2024-08-03T11:25:00/Hearts - Rangers
+DESCRIPTION:Hearts - Rangers - Premier Sports Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Tímatökur) - Moto3 - viaplay
@@ -1123,14 +1123,6 @@ UID:2024-08-04T11:15:00/Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
-DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ulm - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20240804T112000
 DTEND:20240804T122000
@@ -1145,6 +1137,14 @@ DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
 UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
 DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20240804T112000
+DTEND:20240804T122000
+DTSTAMP:20240804T112000Z
+UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
+DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee United - Dundee - Scottish Premiership - viaplay
