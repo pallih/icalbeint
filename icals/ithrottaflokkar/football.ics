@@ -10,20 +10,20 @@ UID:2024-07-29T17:45:00/KR - KA
 DESCRIPTION:KR - KA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KR - KA - Besta deild karla - stod2sport5
-DTSTART:20240729T175000
-DTEND:20240729T185000
-DTSTAMP:20240729T175000Z
-UID:2024-07-29T17:50:00/KR - KA
-DESCRIPTION:KR - KA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stúkan - Besta deild karla - stod2sport
 DTSTART:20240729T201500
 DTEND:20240729T211500
 DTSTAMP:20240729T201500Z
 UID:2024-07-29T20:15:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drita - Breiðablik - Forkeppni Sambandsdeildarinnar - stod2sport
+DTSTART:20240730T145000
+DTEND:20240730T155000
+DTSTAMP:20240730T145000Z
+UID:2024-07-30T14:50:00/Drita - Breiðablik
+DESCRIPTION:Drita - Breiðablik - Forkeppni Sambandsdeildarinnar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - Þór/KA - Besta deild kvenna - stod2sport5
@@ -40,14 +40,6 @@ DTEND:20240730T185000
 DTSTAMP:20240730T175000Z
 UID:2024-07-30T17:50:00/Þróttur R. - Keflavík
 DESCRIPTION:Þróttur R. - Keflavík - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Upphitun - Besta deild kvenna - stod2sport
-DTSTART:20240730T184500
-DTEND:20240730T194500
-DTSTAMP:20240730T184500Z
-UID:2024-07-30T18:45:00/Bestu mörkin - Upphitun
-DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fylkir - Stjarnan - Besta deild kvenna - stod2sport
@@ -106,12 +98,37 @@ UID:2024-07-31T20:00:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paide - Stjarnan - Forkeppni Sambandsdeildarinnar - stod2besta01
+DTSTART:20240801T162000
+DTEND:20240801T172000
+DTSTAMP:20240801T162000Z
+UID:2024-08-01T16:20:00/Paide - Stjarnan
+DESCRIPTION:Paide - Stjarnan - Forkeppni Sambandsdeildarinnar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sumarmótin: Rey Cup - Sumarmótin - stod2sport
-DTSTART:20240801T200000
-DTEND:20240801T210000
-DTSTAMP:20240801T200000Z
-UID:2024-08-01T20:00:00/Sumarmótin: Rey Cup
+DTSTART:20240801T175000
+DTEND:20240801T185000
+DTSTAMP:20240801T175000Z
+UID:2024-08-01T17:50:00/Sumarmótin: Rey Cup
 DESCRIPTION:Sumarmótin: Rey Cup - Sumarmótin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Mirren - Valur - Forkeppni Sambandsdeildarinnar - stod2sport
+DTSTART:20240801T183500
+DTEND:20240801T193500
+DTSTAMP:20240801T183500Z
+UID:2024-08-01T18:35:00/St. Mirren - Valur
+DESCRIPTION:St. Mirren - Valur - Forkeppni Sambandsdeildarinnar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Egnetia - Víkingur R. - Forkeppni Sambandsdeildarinnar - stod2spo
+ rt5
+DTSTART:20240801T185000
+DTEND:20240801T195000
+DTSTAMP:20240801T185000Z
+UID:2024-08-01T18:50:00/Egnetia - Víkingur R.
+DESCRIPTION:Egnetia - Víkingur R. - Forkeppni Sambandsdeildarinnar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Ipswich - Æfingaleikur - viaplay
@@ -128,6 +145,14 @@ DTEND:20240802T192000
 DTSTAMP:20240802T182000Z
 UID:2024-08-02T18:20:00/Köln - HSV
 DESCRIPTION:Köln - HSV - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln - Hamburger SV - 2. Bundesliga - stod2vodasport
+DTSTART:20240802T182500
+DTEND:20240802T192500
+DTSTAMP:20240802T182500Z
+UID:2024-08-02T18:25:00/Köln - Hamburger SV
+DESCRIPTION:Köln - Hamburger SV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falkirk - Queen's Park - Scottish Championship - viaplay
@@ -202,20 +227,20 @@ UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
 DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
-DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
 DTSTART:20240804T112000
 DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
 UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
 DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greuther Fürth - Preußen Münster - 2. Bundesliga - viaplay
+DTSTART:20240804T112000
+DTEND:20240804T122000
+DTSTAMP:20240804T112000Z
+UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
+DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee United - Dundee - Scottish Premiership - viaplay
