@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Danmörk - Noregur (handb. kvk) - Ólympíuleikar - ruv2
-DTSTART:20240728T135000
-DTEND:20240728T145000
-DTSTAMP:20240728T135000Z
-UID:2024-07-28T13:50:00/Danmörk - Noregur (handb. kvk)
-DESCRIPTION:Danmörk - Noregur (handb. kvk) - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japan - Þýskaland (handb. kk) - Ólympíuleikar - ruv
 DTSTART:20240729T065000
 DTEND:20240729T075000
@@ -112,5 +104,13 @@ DTEND:20240803T180000
 DTSTAMP:20240803T170000Z
 UID:2024-08-03T17:00:00/Noregur - Þýskaland (handb. kvk)
 DESCRIPTION:Noregur - Þýskaland (handb. kvk) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Noregur (handb. kk) - Ólympíuleikar - ruv2
+DTSTART:20240804T170000
+DTEND:20240804T180000
+DTSTAMP:20240804T170000Z
+UID:2024-08-04T17:00:00/Danmörk - Noregur (handb. kk)
+DESCRIPTION:Danmörk - Noregur (handb. kk) - Ólympíuleikar
 END:VEVENT
 END:VCALENDAR
