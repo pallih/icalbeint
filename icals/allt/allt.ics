@@ -122,12 +122,20 @@ UID:2024-07-30T17:50:00/Þróttur R. - Keflavík
 DESCRIPTION:Þróttur R. - Keflavík - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sund - Ólympíuleikar - ruv
+SUMMARY:Sund (Anton undanúrslit) - Ólympíuleikar - ruv
 DTSTART:20240730T182500
 DTEND:20240730T192500
 DTSTAMP:20240730T182500Z
-UID:2024-07-30T18:25:00/Sund
-DESCRIPTION:Sund - Ólympíuleikar
+UID:2024-07-30T18:25:00/Sund (Anton undanúrslit)
+DESCRIPTION:Sund (Anton undanúrslit) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Upphitun - Besta deild kvenna - stod2sport
+DTSTART:20240730T183500
+DTEND:20240730T193500
+DTSTAMP:20240730T183500Z
+UID:2024-07-30T18:35:00/Bestu mörkin - Upphitun
+DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Svíþjóð - Danmörk (handb. kvk) - Ólympíuleikar - ruv2
@@ -330,7 +338,7 @@ UID:2024-07-31T20:00:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv2
+SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
 DTSTART:20240731T203500
 DTEND:20240731T213500
 DTSTAMP:20240731T203500Z
@@ -499,20 +507,20 @@ UID:2024-08-02T07:00:00/Finland P2
 DESCRIPTION:Finland P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
-DTSTART:20240802T075500
-DTEND:20240802T085500
-DTSTAMP:20240802T075500Z
-UID:2024-08-02T07:55:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Borðtennis - Ólympíuleikar - ruv2
 DTSTART:20240802T075500
 DTEND:20240802T085500
 DTSTAMP:20240802T075500Z
 UID:2024-08-02T07:55:00/Borðtennis
 DESCRIPTION:Borðtennis - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
+DTSTART:20240802T075500
+DTEND:20240802T085500
+DTSTAMP:20240802T075500Z
+UID:2024-08-02T07:55:00/Frjálsíþróttir
+DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:British Grand Prix (Frjáls æfing 1) - Moto3 - viaplay
@@ -668,20 +676,20 @@ UID:2024-08-02T18:20:00/Köln - HSV
 DESCRIPTION:Köln - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sund - Ólympíuleikar - ruv2
-DTSTART:20240802T182500
-DTEND:20240802T192500
-DTSTAMP:20240802T182500Z
-UID:2024-08-02T18:25:00/Sund
-DESCRIPTION:Sund - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Köln - Hamburger SV - 2. Bundesliga - stod2vodasport
 DTSTART:20240802T182500
 DTEND:20240802T192500
 DTSTAMP:20240802T182500Z
 UID:2024-08-02T18:25:00/Köln - Hamburger SV
 DESCRIPTION:Köln - Hamburger SV - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sund - Ólympíuleikar - ruv2
+DTSTART:20240802T182500
+DTEND:20240802T192500
+DTSTAMP:20240802T182500Z
+UID:2024-08-02T18:25:00/Sund
+DESCRIPTION:Sund - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falkirk - Queen's Park - Scottish Championship - viaplay
@@ -812,12 +820,12 @@ UID:2024-08-03T10:40:00/Tennis
 DESCRIPTION:Tennis - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
+SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Karlsruher - Nürnberg
-DESCRIPTION:Karlsruher - Nürnberg - 2. Bundesliga
+UID:2024-08-03T10:50:00/Magdeburg - Elversberg
+DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Paderborn - 2. Bundesliga - viaplay
@@ -828,12 +836,12 @@ UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
 DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
+SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Magdeburg - Elversberg
-DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
+UID:2024-08-03T10:50:00/Karlsruher - Nürnberg
+DESCRIPTION:Karlsruher - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover - Jahn Regensburg - 2. Bundesliga - viaplay
@@ -844,7 +852,7 @@ UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
 DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Tottenham - Æfingaleikur - stod2vodasport
+SUMMARY:Bayern München - Tottenham - Æfingaleikur - viaplay
 DTSTART:20240803T105500
 DTEND:20240803T115500
 DTSTAMP:20240803T105500Z
@@ -852,7 +860,7 @@ UID:2024-08-03T10:55:00/Bayern München - Tottenham
 DESCRIPTION:Bayern München - Tottenham - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Tottenham - Æfingaleikur - viaplay
+SUMMARY:Bayern München - Tottenham - Æfingaleikur - stod2vodasport
 DTSTART:20240803T105500
 DTEND:20240803T115500
 DTSTAMP:20240803T105500Z
@@ -1061,14 +1069,6 @@ UID:2024-08-04T11:15:00/Strandblak
 DESCRIPTION:Strandblak - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ulm - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
-DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
 DTSTART:20240804T112000
 DTEND:20240804T122000
@@ -1085,12 +1085,12 @@ UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
 DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Golf karla (dagur 4) - Ólympíuleikar - ruv2
-DTSTART:20240804T112500
-DTEND:20240804T122500
-DTSTAMP:20240804T112500Z
-UID:2024-08-04T11:25:00/Golf karla (dagur 4)
-DESCRIPTION:Golf karla (dagur 4) - Ólympíuleikar
+SUMMARY:Ulm - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20240804T112000
+DTEND:20240804T122000
+DTSTAMP:20240804T112000Z
+UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
+DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee United - Dundee - Scottish Premiership - viaplay
@@ -1099,6 +1099,14 @@ DTEND:20240804T122500
 DTSTAMP:20240804T112500Z
 UID:2024-08-04T11:25:00/Dundee United - Dundee
 DESCRIPTION:Dundee United - Dundee - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golf karla (dagur 4) - Ólympíuleikar - ruv2
+DTSTART:20240804T112500
+DTEND:20240804T122500
+DTSTAMP:20240804T112500Z
+UID:2024-08-04T11:25:00/Golf karla (dagur 4)
+DESCRIPTION:Golf karla (dagur 4) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fimleikar - Ólympíuleikar - ruv
