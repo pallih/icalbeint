@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:KR - KA - Besta deild karla - stod2sport
-DTSTART:20240729T174500
-DTEND:20240729T184500
-DTSTAMP:20240729T174500Z
-UID:2024-07-29T17:45:00/KR - KA
-DESCRIPTION:KR - KA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - stod2sport
-DTSTART:20240729T201500
-DTEND:20240729T211500
-DTSTAMP:20240729T201500Z
-UID:2024-07-29T20:15:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drita - Breiðablik - Forkeppni Sambandsdeildarinnar - stod2sport
 DTSTART:20240730T145000
 DTEND:20240730T155000
@@ -26,20 +10,20 @@ UID:2024-07-30T14:50:00/Drita - Breiðablik
 DESCRIPTION:Drita - Breiðablik - Forkeppni Sambandsdeildarinnar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Þór/KA - Besta deild kvenna - stod2sport5
-DTSTART:20240730T175000
-DTEND:20240730T185000
-DTSTAMP:20240730T175000Z
-UID:2024-07-30T17:50:00/Tindastóll - Þór/KA
-DESCRIPTION:Tindastóll - Þór/KA - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þróttur R. - Keflavík - Besta deild kvenna - stod2besta01
 DTSTART:20240730T175000
 DTEND:20240730T185000
 DTSTAMP:20240730T175000Z
 UID:2024-07-30T17:50:00/Þróttur R. - Keflavík
 DESCRIPTION:Þróttur R. - Keflavík - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Þór/KA - Besta deild kvenna - stod2sport5
+DTSTART:20240730T175000
+DTEND:20240730T185000
+DTSTAMP:20240730T175000Z
+UID:2024-07-30T17:50:00/Tindastóll - Þór/KA
+DESCRIPTION:Tindastóll - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fylkir - Stjarnan - Besta deild kvenna - stod2sport
@@ -171,12 +155,12 @@ UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
 DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
+SUMMARY:Hannover - Jahn Regensburg - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Magdeburg - Elversberg
-DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
+UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
+DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
@@ -187,12 +171,12 @@ UID:2024-08-03T10:50:00/Karlsruher - Nürnberg
 DESCRIPTION:Karlsruher - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Jahn Regensburg - 2. Bundesliga - viaplay
+SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
-DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
+UID:2024-08-03T10:50:00/Magdeburg - Elversberg
+DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Tottenham - Æfingaleikur - viaplay
@@ -227,20 +211,20 @@ UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
 DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
-DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20240804T112000
 DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
 UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
 DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20240804T112000
+DTEND:20240804T122000
+DTSTAMP:20240804T112000Z
+UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
+DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee United - Dundee - Scottish Premiership - viaplay
@@ -257,5 +241,29 @@ DTEND:20240804T162500
 DTSTAMP:20240804T152500Z
 UID:2024-08-04T15:25:00/Celtic - Kilmarnock
 DESCRIPTION:Celtic - Kilmarnock - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undanúrslit karla í fótbolta - Ólympíuleikar - ruv2
+DTSTART:20240805T155000
+DTEND:20240805T165000
+DTSTAMP:20240805T155000Z
+UID:2024-08-05T15:50:00/Undanúrslit karla í fótbolta
+DESCRIPTION:Undanúrslit karla í fótbolta - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undanúrslit karla í fótbolta - Ólympíuleikar - ruv2
+DTSTART:20240805T185000
+DTEND:20240805T195000
+DTSTAMP:20240805T185000Z
+UID:2024-08-05T18:50:00/Undanúrslit karla í fótbolta
+DESCRIPTION:Undanúrslit karla í fótbolta - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Johnstone - Aberdeen - Scottish Premiership - viaplay
+DTSTART:20240805T185500
+DTEND:20240805T195500
+DTSTAMP:20240805T185500Z
+UID:2024-08-05T18:55:00/St Johnstone - Aberdeen
+DESCRIPTION:St Johnstone - Aberdeen - Scottish Premiership
 END:VEVENT
 END:VCALENDAR

@@ -170,12 +170,12 @@ UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
 DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
+SUMMARY:Hannover - Jahn Regensburg - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Magdeburg - Elversberg
-DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
+UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
+DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
@@ -186,12 +186,12 @@ UID:2024-08-03T10:50:00/Karlsruher - Nürnberg
 DESCRIPTION:Karlsruher - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Jahn Regensburg - 2. Bundesliga - viaplay
+SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
-DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
+UID:2024-08-03T10:50:00/Magdeburg - Elversberg
+DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Tottenham - Æfingaleikur - viaplay
@@ -290,20 +290,20 @@ UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
 DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
-DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20240804T112000
 DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
 UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
 DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20240804T112000
+DTEND:20240804T122000
+DTSTAMP:20240804T112000Z
+UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
+DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee United - Dundee - Scottish Premiership - viaplay
@@ -328,5 +328,13 @@ DTEND:20240804T162500
 DTSTAMP:20240804T152500Z
 UID:2024-08-04T15:25:00/Celtic - Kilmarnock
 DESCRIPTION:Celtic - Kilmarnock - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Johnstone - Aberdeen - Scottish Premiership - viaplay
+DTSTART:20240805T185500
+DTEND:20240805T195500
+DTSTAMP:20240805T185500Z
+UID:2024-08-05T18:55:00/St Johnstone - Aberdeen
+DESCRIPTION:St Johnstone - Aberdeen - Scottish Premiership
 END:VEVENT
 END:VCALENDAR
