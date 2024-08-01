@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
 SUMMARY:Finland P2 - Premier Padel - viaplay
-DTSTART:20240731T070000
-DTEND:20240731T080000
-DTSTAMP:20240731T070000Z
-UID:2024-07-31T07:00:00/Finland P2
-DESCRIPTION:Finland P2 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:K League Allstars - Tottenham - Æfingaleikur - viaplay
-DTSTART:20240731T105500
-DTEND:20240731T115500
-DTSTAMP:20240731T105500Z
-UID:2024-07-31T10:55:00/K League Allstars - Tottenham
-DESCRIPTION:K League Allstars - Tottenham - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sussex Stakes - Crown Jewels Racing - viaplay
-DTSTART:20240731T140000
-DTEND:20240731T150000
-DTSTAMP:20240731T140000Z
-UID:2024-07-31T14:00:00/Sussex Stakes
-DESCRIPTION:Sussex Stakes - Crown Jewels Racing
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finland P2 - Premier Padel - viaplay
 DTSTART:20240801T070000
 DTEND:20240801T080000
 DTSTAMP:20240801T070000Z
@@ -154,14 +130,6 @@ UID:2024-08-03T09:45:00/Silverstone Kappaksturinn (Tímatökur)
 DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20240803T105000
-DTEND:20240803T115000
-DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
-DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
@@ -184,6 +152,14 @@ DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
 UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
 DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hertha Berlin - Paderborn - 2. Bundesliga - viaplay
+DTSTART:20240803T105000
+DTEND:20240803T115000
+DTSTAMP:20240803T105000Z
+UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
+DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Tottenham - Æfingaleikur - viaplay
@@ -274,12 +250,12 @@ UID:2024-08-04T11:15:00/Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ulm - Kaiserslautern - 2. Bundesliga - viaplay
+SUMMARY:Greuther Fürth - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20240804T112000
 DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
-DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
+UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
+DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
@@ -290,12 +266,12 @@ UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
 DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Preußen Münster - 2. Bundesliga - viaplay
+SUMMARY:Ulm - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20240804T112000
 DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
-DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
+UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
+DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee United - Dundee - Scottish Premiership - viaplay
@@ -344,5 +320,21 @@ DTEND:20240806T090000
 DTSTAMP:20240806T080000Z
 UID:2024-08-06T08:00:00/European Open Pool Championship
 DESCRIPTION:European Open Pool Championship - Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Open Pool Championship - Pool - viaplay
+DTSTART:20240807T080000
+DTEND:20240807T090000
+DTSTAMP:20240807T080000Z
+UID:2024-08-07T08:00:00/European Open Pool Championship
+DESCRIPTION:European Open Pool Championship - Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Women's Amateur - Golf - viaplay
+DTSTART:20240807T190000
+DTEND:20240807T200000
+DTSTAMP:20240807T190000Z
+UID:2024-08-07T19:00:00/U.S. Women's Amateur
+DESCRIPTION:U.S. Women's Amateur - Golf
 END:VEVENT
 END:VCALENDAR
