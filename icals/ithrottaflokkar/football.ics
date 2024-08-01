@@ -18,21 +18,21 @@ UID:2024-08-01T17:50:00/Sumarmótin: Rey Cup
 DESCRIPTION:Sumarmótin: Rey Cup - Sumarmótin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Egnetia - Víkingur R. - Forkeppni Sambandsdeildarinnar - stod2spo
+ rt5
+DTSTART:20240801T175000
+DTEND:20240801T185000
+DTSTAMP:20240801T175000Z
+UID:2024-08-01T17:50:00/Egnetia - Víkingur R.
+DESCRIPTION:Egnetia - Víkingur R. - Forkeppni Sambandsdeildarinnar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:St. Mirren - Valur - Forkeppni Sambandsdeildarinnar - stod2sport
 DTSTART:20240801T183500
 DTEND:20240801T193500
 DTSTAMP:20240801T183500Z
 UID:2024-08-01T18:35:00/St. Mirren - Valur
 DESCRIPTION:St. Mirren - Valur - Forkeppni Sambandsdeildarinnar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Egnetia - Víkingur R. - Forkeppni Sambandsdeildarinnar - stod2spo
- rt5
-DTSTART:20240801T185000
-DTEND:20240801T195000
-DTSTAMP:20240801T185000Z
-UID:2024-08-01T18:50:00/Egnetia - Víkingur R.
-DESCRIPTION:Egnetia - Víkingur R. - Forkeppni Sambandsdeildarinnar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Ipswich - Æfingaleikur - viaplay
@@ -67,12 +67,12 @@ UID:2024-08-02T18:40:00/Falkirk - Queen's Park
 DESCRIPTION:Falkirk - Queen's Park - Scottish Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
+SUMMARY:Hertha Berlin - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Magdeburg - Elversberg
-DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
+UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
+DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
@@ -91,12 +91,12 @@ UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
 DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Paderborn - 2. Bundesliga - viaplay
+SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
-DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
+UID:2024-08-03T10:50:00/Magdeburg - Elversberg
+DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Tottenham - Æfingaleikur - viaplay
@@ -131,20 +131,20 @@ UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
 DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
-DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ulm - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20240804T112000
 DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
 UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
 DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20240804T112000
+DTEND:20240804T122000
+DTSTAMP:20240804T112000Z
+UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
+DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee United - Dundee - Scottish Premiership - viaplay
@@ -219,6 +219,14 @@ UID:2024-08-06T19:00:00/FH - Víkingur R.
 DESCRIPTION:FH - Víkingur R. - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KA - Valur - Besta deild karla - stod2sport5
+DTSTART:20240806T190500
+DTEND:20240806T200500
+DTSTAMP:20240806T190500Z
+UID:2024-08-06T19:05:00/KA - Valur
+DESCRIPTION:KA - Valur - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fram - Stjarnan - Besta deild karla - stod2besta01
 DTSTART:20240806T190500
 DTEND:20240806T200500
@@ -233,14 +241,6 @@ DTEND:20240806T200500
 DTSTAMP:20240806T190500Z
 UID:2024-08-06T19:05:00/Breiðablik - Fylkir
 DESCRIPTION:Breiðablik - Fylkir - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KA - Valur - Besta deild karla - stod2sport5
-DTSTART:20240806T190500
-DTEND:20240806T200500
-DTSTAMP:20240806T190500Z
-UID:2024-08-06T19:05:00/KA - Valur
-DESCRIPTION:KA - Valur - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ísey Tilþrifin - Besta deild karla - stod2sport
