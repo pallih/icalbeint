@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - other - ical
 BEGIN:VEVENT
-SUMMARY:Borðtennis  - Ólympíuleikar - ruv2
-DTSTART:20240802T075500
-DTEND:20240802T085500
-DTSTAMP:20240802T075500Z
-UID:2024-08-02T07:55:00/Borðtennis 
-DESCRIPTION:Borðtennis  - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
 DTSTART:20240802T075500
 DTEND:20240802T085500
 DTSTAMP:20240802T075500Z
 UID:2024-08-02T07:55:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borðtennis  - Ólympíuleikar - ruv2
+DTSTART:20240802T075500
+DTEND:20240802T085500
+DTSTAMP:20240802T075500Z
+UID:2024-08-02T07:55:00/Borðtennis 
+DESCRIPTION:Borðtennis  - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MotoGP - Bretland: Æfing - MotoGP - stod2vodasport
@@ -124,10 +124,10 @@ DESCRIPTION:Tennis (úrslit í einliðaleik kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Tottenham - Æfingaleikur - stod2vodasport
-DTSTART:20240803T105500
-DTEND:20240803T115500
-DTSTAMP:20240803T105500Z
-UID:2024-08-03T10:55:00/Bayern München - Tottenham
+DTSTART:20240803T105000
+DTEND:20240803T115000
+DTSTAMP:20240803T105000Z
+UID:2024-08-03T10:50:00/Bayern München - Tottenham
 DESCRIPTION:Bayern München - Tottenham - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
@@ -140,10 +140,10 @@ DESCRIPTION:Borðtennis (úrslit í einliðaleik kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MotoGP - Bretland: Sprettkeppni - MotoGP - stod2vodasport
-DTSTART:20240803T135500
-DTEND:20240803T145500
-DTSTAMP:20240803T135500Z
-UID:2024-08-03T13:55:00/MotoGP - Bretland: Sprettkeppni
+DTSTART:20240803T135000
+DTEND:20240803T145000
+DTSTAMP:20240803T135000Z
+UID:2024-08-03T13:50:00/MotoGP - Bretland: Sprettkeppni
 DESCRIPTION:MotoGP - Bretland: Sprettkeppni - MotoGP
 END:VEVENT
 BEGIN:VEVENT
@@ -193,6 +193,14 @@ DTEND:20240804T161000
 DTSTAMP:20240804T151000Z
 UID:2024-08-04T15:10:00/Borðtennis (úrslit í einliðaleik kk)
 DESCRIPTION:Borðtennis (úrslit í einliðaleik kk) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celtic - Kilmarnock - Scottish Premiership - stod2vodasport
+DTSTART:20240804T152500
+DTEND:20240804T162500
+DTSTAMP:20240804T152500Z
+UID:2024-08-04T15:25:00/Celtic - Kilmarnock
+DESCRIPTION:Celtic - Kilmarnock - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hjólreiðar - Ólympíuleikar - ruv
@@ -281,6 +289,14 @@ DTEND:20240805T175500
 DTSTAMP:20240805T165500Z
 UID:2024-08-05T16:55:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Johnstone - Aberdeen - Scottish Premiership - stod2vodasport
+DTSTART:20240805T185500
+DTEND:20240805T195500
+DTSTAMP:20240805T185500Z
+UID:2024-08-05T18:55:00/St. Johnstone - Aberdeen
+DESCRIPTION:St. Johnstone - Aberdeen - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv

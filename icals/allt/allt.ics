@@ -10,12 +10,12 @@ UID:2024-08-02T07:00:00/Finland P2
 DESCRIPTION:Finland P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:British Grand Prix (Frjáls æfing 1) - Moto3 - viaplay
+SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
 DTSTART:20240802T075500
 DTEND:20240802T085500
 DTSTAMP:20240802T075500Z
-UID:2024-08-02T07:55:00/British Grand Prix (Frjáls æfing 1)
-DESCRIPTION:British Grand Prix (Frjáls æfing 1) - Moto3
+UID:2024-08-02T07:55:00/Frjálsíþróttir
+DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Borðtennis  - Ólympíuleikar - ruv2
@@ -26,12 +26,12 @@ UID:2024-08-02T07:55:00/Borðtennis
 DESCRIPTION:Borðtennis  - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
+SUMMARY:British Grand Prix (Frjáls æfing 1) - Moto3 - viaplay
 DTSTART:20240802T075500
 DTEND:20240802T085500
 DTSTAMP:20240802T075500Z
-UID:2024-08-02T07:55:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
+UID:2024-08-02T07:55:00/British Grand Prix (Frjáls æfing 1)
+DESCRIPTION:British Grand Prix (Frjáls æfing 1) - Moto3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Frjáls æfing 1) - Moto2 - viaplay
@@ -108,10 +108,10 @@ DESCRIPTION:Mönchengladbach - Ipswich U21 - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Æfing) - Moto2 - viaplay
-DTSTART:20240802T130000
-DTEND:20240802T140000
-DTSTAMP:20240802T130000Z
-UID:2024-08-02T13:00:00/Silverstone Kappaksturinn (Æfing)
+DTSTART:20240802T125500
+DTEND:20240802T135500
+DTSTAMP:20240802T125500Z
+UID:2024-08-02T12:55:00/Silverstone Kappaksturinn (Æfing)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing) - Moto2
 END:VEVENT
 BEGIN:VEVENT
@@ -323,20 +323,28 @@ UID:2024-08-03T10:40:00/Tennis (úrslit í einliðaleik kvk)
 DESCRIPTION:Tennis (úrslit í einliðaleik kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hannover - Jahn Regensburg - 2. Bundesliga - viaplay
+DTSTART:20240803T105000
+DTEND:20240803T115000
+DTSTAMP:20240803T105000Z
+UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
+DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Tottenham - Æfingaleikur - stod2vodasport
+DTSTART:20240803T105000
+DTEND:20240803T115000
+DTSTAMP:20240803T105000Z
+UID:2024-08-03T10:50:00/Bayern München - Tottenham
+DESCRIPTION:Bayern München - Tottenham - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
 UID:2024-08-03T10:50:00/Karlsruher - Nürnberg
 DESCRIPTION:Karlsruher - Nürnberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20240803T105000
-DTEND:20240803T115000
-DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
-DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
@@ -347,20 +355,12 @@ UID:2024-08-03T10:50:00/Magdeburg - Elversberg
 DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Jahn Regensburg - 2. Bundesliga - viaplay
+SUMMARY:Hertha Berlin - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20240803T105000
 DTEND:20240803T115000
 DTSTAMP:20240803T105000Z
-UID:2024-08-03T10:50:00/Hannover - Jahn Regensburg
-DESCRIPTION:Hannover - Jahn Regensburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Tottenham - Æfingaleikur - stod2vodasport
-DTSTART:20240803T105500
-DTEND:20240803T115500
-DTSTAMP:20240803T105500Z
-UID:2024-08-03T10:55:00/Bayern München - Tottenham
-DESCRIPTION:Bayern München - Tottenham - Æfingaleikur
+UID:2024-08-03T10:50:00/Hertha Berlin - Paderborn
+DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Tottenham - Æfingaleikur - viaplay
@@ -420,10 +420,10 @@ DESCRIPTION:Silverstone Kappaksturinn (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MotoGP - Bretland: Sprettkeppni - MotoGP - stod2vodasport
-DTSTART:20240803T135500
-DTEND:20240803T145500
-DTSTAMP:20240803T135500Z
-UID:2024-08-03T13:55:00/MotoGP - Bretland: Sprettkeppni
+DTSTART:20240803T135000
+DTEND:20240803T145000
+DTSTAMP:20240803T135000Z
+UID:2024-08-03T13:50:00/MotoGP - Bretland: Sprettkeppni
 DESCRIPTION:MotoGP - Bretland: Sprettkeppni - MotoGP
 END:VEVENT
 BEGIN:VEVENT
@@ -460,20 +460,20 @@ UID:2024-08-03T17:05:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Women´s Open: Dagur 1 - US Open - stod2vodasport
-DTSTART:20240803T180000
-DTEND:20240803T190000
-DTSTAMP:20240803T180000Z
-UID:2024-08-03T18:00:00/Women´s Open: Dagur 1
-DESCRIPTION:Women´s Open: Dagur 1 - US Open
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:U.S. Senior Women's Open - Golf - viaplay
 DTSTART:20240803T180000
 DTEND:20240803T190000
 DTSTAMP:20240803T180000Z
 UID:2024-08-03T18:00:00/U.S. Senior Women's Open
 DESCRIPTION:U.S. Senior Women's Open - Golf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women´s Open: Dagur 1 - US Open - stod2vodasport
+DTSTART:20240803T180000
+DTEND:20240803T190000
+DTSTAMP:20240803T180000Z
+UID:2024-08-03T18:00:00/Women´s Open: Dagur 1
+DESCRIPTION:Women´s Open: Dagur 1 - US Open
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schalke - Braunschweig - 2. Bundesliga - viaplay
@@ -517,10 +517,10 @@ DESCRIPTION:Golf karla (dagur 3) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tigers - Royals - MLB - stod2vodasport
-DTSTART:20240803T220000
-DTEND:20240803T230000
-DTSTAMP:20240803T220000Z
-UID:2024-08-03T22:00:00/Tigers - Royals
+DTSTART:20240803T215500
+DTEND:20240803T225500
+DTSTAMP:20240803T215500Z
+UID:2024-08-03T21:55:00/Tigers - Royals
 DESCRIPTION:Tigers - Royals - MLB
 END:VEVENT
 BEGIN:VEVENT
@@ -564,12 +564,12 @@ UID:2024-08-04T10:00:00/British Grand Prix (Kappakstur)
 DESCRIPTION:British Grand Prix (Kappakstur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Strandblak - Ólympíuleikar - ruv
+SUMMARY:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar - ruv2
 DTSTART:20240804T111500
 DTEND:20240804T121500
 DTSTAMP:20240804T111500Z
-UID:2024-08-04T11:15:00/Strandblak
-DESCRIPTION:Strandblak - Ólympíuleikar
+UID:2024-08-04T11:15:00/Tennis (úrslit í einliðaleik kk)
+DESCRIPTION:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Kappakstur) - MotoGP - viaplay
@@ -580,12 +580,12 @@ UID:2024-08-04T11:15:00/Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar - ruv2
+SUMMARY:Strandblak - Ólympíuleikar - ruv
 DTSTART:20240804T111500
 DTEND:20240804T121500
 DTSTAMP:20240804T111500Z
-UID:2024-08-04T11:15:00/Tennis (úrslit í einliðaleik kk)
-DESCRIPTION:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar
+UID:2024-08-04T11:15:00/Strandblak
+DESCRIPTION:Strandblak - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulm - Kaiserslautern - 2. Bundesliga - viaplay
@@ -594,6 +594,14 @@ DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
 UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
 DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Fortuna Düsseldorf - 2. Bundesliga - stod2vodasport
+DTSTART:20240804T112000
+DTEND:20240804T122000
+DTSTAMP:20240804T112000Z
+UID:2024-08-04T11:20:00/Darmstadt - Fortuna Düsseldorf
+DESCRIPTION:Darmstadt - Fortuna Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
@@ -628,20 +636,20 @@ UID:2024-08-04T12:55:00/Fimleikar
 DESCRIPTION:Fimleikar - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Golf karla (dagur 4) - Ólympíuleikar - ruv2
-DTSTART:20240804T131500
-DTEND:20240804T141500
-DTSTAMP:20240804T131500Z
-UID:2024-08-04T13:15:00/Golf karla (dagur 4)
-DESCRIPTION:Golf karla (dagur 4) - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Kappakstur) - Moto2 - viaplay
 DTSTART:20240804T131500
 DTEND:20240804T141500
 DTSTAMP:20240804T131500Z
 UID:2024-08-04T13:15:00/Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golf karla (dagur 4) - Ólympíuleikar - ruv2
+DTSTART:20240804T131500
+DTEND:20240804T141500
+DTSTAMP:20240804T131500Z
+UID:2024-08-04T13:15:00/Golf karla (dagur 4)
+DESCRIPTION:Golf karla (dagur 4) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Borðtennis (úrslit í einliðaleik kk) - Ólympíuleikar - ruv
@@ -653,6 +661,14 @@ DESCRIPTION:Borðtennis (úrslit í einliðaleik kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celtic - Kilmarnock - Scottish Premiership - viaplay
+DTSTART:20240804T152500
+DTEND:20240804T162500
+DTSTAMP:20240804T152500Z
+UID:2024-08-04T15:25:00/Celtic - Kilmarnock
+DESCRIPTION:Celtic - Kilmarnock - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celtic - Kilmarnock - Scottish Premiership - stod2vodasport
 DTSTART:20240804T152500
 DTEND:20240804T162500
 DTSTAMP:20240804T152500Z
@@ -690,6 +706,14 @@ DTEND:20240804T184500
 DTSTAMP:20240804T174500Z
 UID:2024-08-04T17:45:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women´s Open: Dagur 2 - US Open - stod2vodasport
+DTSTART:20240804T175500
+DTEND:20240804T185500
+DTSTAMP:20240804T175500Z
+UID:2024-08-04T17:55:00/Women´s Open: Dagur 2
+DESCRIPTION:Women´s Open: Dagur 2 - US Open
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Senior Women's Open - Golf - viaplay
@@ -730,6 +754,14 @@ DTEND:20240804T233000
 DTSTAMP:20240804T223000Z
 UID:2024-08-04T22:30:00/Portland Classic
 DESCRIPTION:Portland Classic - LPGA Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cubs - Cardinals - MLB - stod2vodasport
+DTSTART:20240804T230000
+DTEND:20240805T000000
+DTSTAMP:20240804T230000Z
+UID:2024-08-04T23:00:00/Cubs - Cardinals
+DESCRIPTION:Cubs - Cardinals - MLB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þríþraut  - Ólympíuleikar - ruv2
@@ -852,6 +884,22 @@ UID:2024-08-05T18:55:00/St Johnstone - Aberdeen
 DESCRIPTION:St Johnstone - Aberdeen - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:St. Johnstone - Aberdeen - Scottish Premiership - stod2vodasport
+DTSTART:20240805T185500
+DTEND:20240805T195500
+DTSTAMP:20240805T185500Z
+UID:2024-08-05T18:55:00/St. Johnstone - Aberdeen
+DESCRIPTION:St. Johnstone - Aberdeen - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Víkingur R. - Besta deild karla - stod2sport
+DTSTART:20240805T190000
+DTEND:20240805T200000
+DTSTAMP:20240805T190000Z
+UID:2024-08-05T19:00:00/FH - Víkingur R.
+DESCRIPTION:FH - Víkingur R. - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
 DTSTART:20240805T201500
 DTEND:20240805T211500
@@ -866,6 +914,14 @@ DTEND:20240805T215500
 DTSTAMP:20240805T205500Z
 UID:2024-08-05T20:55:00/3x3 körfubolti
 DESCRIPTION:3x3 körfubolti - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardinals - Mets - MLB - stod2vodasport
+DTSTART:20240805T210000
+DTEND:20240805T220000
+DTSTAMP:20240805T210000Z
+UID:2024-08-05T21:00:00/Cardinals - Mets
+DESCRIPTION:Cardinals - Mets - MLB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
@@ -940,12 +996,20 @@ UID:2024-08-06T18:50:00/Undanúrslit kvenna í fótbolta
 DESCRIPTION:Undanúrslit kvenna í fótbolta - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Víkingur R. - Besta deild karla - stod2sport
-DTSTART:20240806T190000
-DTEND:20240806T200000
-DTSTAMP:20240806T190000Z
-UID:2024-08-06T19:00:00/FH - Víkingur R.
-DESCRIPTION:FH - Víkingur R. - Besta deild karla
+SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2sport
+DTSTART:20240806T190500
+DTEND:20240806T200500
+DTSTAMP:20240806T190500Z
+UID:2024-08-06T19:05:00/Breiðablik - Fylkir
+DESCRIPTION:Breiðablik - Fylkir - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KA - Valur - Besta deild karla - stod2sport5
+DTSTART:20240806T190500
+DTEND:20240806T200500
+DTSTAMP:20240806T190500Z
+UID:2024-08-06T19:05:00/KA - Valur
+DESCRIPTION:KA - Valur - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2besta02
@@ -964,14 +1028,6 @@ UID:2024-08-06T19:05:00/Fram - Stjarnan
 DESCRIPTION:Fram - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KA - Valur - Besta deild karla - stod2sport5
-DTSTART:20240806T190500
-DTEND:20240806T200500
-DTSTAMP:20240806T190500Z
-UID:2024-08-06T19:05:00/KA - Valur
-DESCRIPTION:KA - Valur - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
 DTSTART:20240806T201500
 DTEND:20240806T211500
@@ -986,6 +1042,14 @@ DTEND:20240806T222000
 DTSTAMP:20240806T212000Z
 UID:2024-08-06T21:20:00/Ísey Tilþrifin
 DESCRIPTION:Ísey Tilþrifin - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians - Diamondbacks - MLB - stod2vodasport
+DTSTART:20240806T223000
+DTEND:20240806T233000
+DTSTAMP:20240806T223000Z
+UID:2024-08-06T22:30:00/Guardians - Diamondbacks
+DESCRIPTION:Guardians - Diamondbacks - MLB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
@@ -1084,20 +1148,20 @@ UID:2024-08-07T17:50:00/Undanúrslit karla í blaki
 DESCRIPTION:Undanúrslit karla í blaki - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Women's Amateur - Golf - viaplay
-DTSTART:20240807T190000
-DTEND:20240807T200000
-DTSTAMP:20240807T190000Z
-UID:2024-08-07T19:00:00/U.S. Women's Amateur
-DESCRIPTION:U.S. Women's Amateur - Golf
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HK - KR - Besta deild karla - stod2sport
 DTSTART:20240807T190000
 DTEND:20240807T200000
 DTSTAMP:20240807T190000Z
 UID:2024-08-07T19:00:00/HK - KR
 DESCRIPTION:HK - KR - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Women's Amateur - Golf - viaplay
+DTSTART:20240807T190000
+DTEND:20240807T200000
+DTSTAMP:20240807T190000Z
+UID:2024-08-07T19:00:00/U.S. Women's Amateur
+DESCRIPTION:U.S. Women's Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stúkan - Besta deild karla - stod2sport
