@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Danmörk (handb. kvk) - Ólympíuleikar - ruv2
-DTSTART:20240801T165000
-DTEND:20240801T175000
-DTSTAMP:20240801T165000Z
-UID:2024-08-01T16:50:00/Þýskaland - Danmörk (handb. kvk)
-DESCRIPTION:Þýskaland - Danmörk (handb. kvk) - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Króatía - Svíþjóð (handb. kk) - Ólympíuleikar - ruv
 DTSTART:20240802T115000
 DTEND:20240802T125000
@@ -48,5 +40,21 @@ DTEND:20240804T180000
 DTSTAMP:20240804T170000Z
 UID:2024-08-04T17:00:00/Danmörk - Noregur (handb. kk)
 DESCRIPTION:Danmörk - Noregur (handb. kk) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undanúrslit kvenna í handbolta - Ólympíuleikar - ruv
+DTSTART:20240808T142000
+DTEND:20240808T152000
+DTSTAMP:20240808T142000Z
+UID:2024-08-08T14:20:00/Undanúrslit kvenna í handbolta
+DESCRIPTION:Undanúrslit kvenna í handbolta - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undanúrslit kvenna í handbolta - Ólympíuleikar - ruv2
+DTSTART:20240808T204000
+DTEND:20240808T214000
+DTSTAMP:20240808T204000Z
+UID:2024-08-08T20:40:00/Undanúrslit kvenna í handbolta
+DESCRIPTION:Undanúrslit kvenna í handbolta - Ólympíuleikar
 END:VEVENT
 END:VCALENDAR
