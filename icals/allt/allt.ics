@@ -18,20 +18,20 @@ UID:2024-08-04T08:35:00/British Grand Prix (WarmUp)
 DESCRIPTION:British Grand Prix (WarmUp) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Finland P2 - Premier Padel - viaplay
-DTSTART:20240804T090000
-DTEND:20240804T100000
-DTSTAMP:20240804T090000Z
-UID:2024-08-04T09:00:00/Finland P2
-DESCRIPTION:Finland P2 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:British Grand Prix (Kappakstur) - Moto3 - viaplay
 DTSTART:20240804T100000
 DTEND:20240804T110000
 DTSTAMP:20240804T100000Z
 UID:2024-08-04T10:00:00/British Grand Prix (Kappakstur)
 DESCRIPTION:British Grand Prix (Kappakstur) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finland P2 - Premier Padel - viaplay
+DTSTART:20240804T100000
+DTEND:20240804T110000
+DTSTAMP:20240804T100000Z
+UID:2024-08-04T10:00:00/Finland P2
+DESCRIPTION:Finland P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar - ruv2
@@ -42,14 +42,6 @@ UID:2024-08-04T11:15:00/Tennis (úrslit í einliðaleik kk)
 DESCRIPTION:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Strandblak - Ólympíuleikar - ruv
-DTSTART:20240804T111500
-DTEND:20240804T121500
-DTSTAMP:20240804T111500Z
-UID:2024-08-04T11:15:00/Strandblak
-DESCRIPTION:Strandblak - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Kappakstur) - MotoGP - viaplay
 DTSTART:20240804T111500
 DTEND:20240804T121500
@@ -58,12 +50,20 @@ UID:2024-08-04T11:15:00/Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
+SUMMARY:Strandblak - Ólympíuleikar - ruv
+DTSTART:20240804T111500
+DTEND:20240804T121500
+DTSTAMP:20240804T111500Z
+UID:2024-08-04T11:15:00/Strandblak
+DESCRIPTION:Strandblak - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Fortuna Düsseldorf - 2. Bundesliga - stod2vodasport
 DTSTART:20240804T112000
 DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
-DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
+UID:2024-08-04T11:20:00/Darmstadt - Fortuna Düsseldorf
+DESCRIPTION:Darmstadt - Fortuna Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulm - Kaiserslautern - 2. Bundesliga - viaplay
@@ -82,12 +82,12 @@ UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
 DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - Fortuna Düsseldorf - 2. Bundesliga - stod2vodasport
+SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
 DTSTART:20240804T112000
 DTEND:20240804T122000
 DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Darmstadt - Fortuna Düsseldorf
-DESCRIPTION:Darmstadt - Fortuna Düsseldorf - 2. Bundesliga
+UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
+DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee United - Dundee - Scottish Premiership - viaplay
@@ -307,12 +307,13 @@ UID:2024-08-05T15:45:00/3x3 körfubolti
 DESCRIPTION:3x3 körfubolti - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marokkó - Spánn (undanú. fótb. kk) - Ólympíuleikar - ruv2
+SUMMARY:Marokkó - Spánn (undanúrslit fótb. kk) - Ólympíuleikar - ruv
+ 2
 DTSTART:20240805T155000
 DTEND:20240805T165000
 DTSTAMP:20240805T155000Z
-UID:2024-08-05T15:50:00/Marokkó - Spánn (undanú. fótb. kk)
-DESCRIPTION:Marokkó - Spánn (undanú. fótb. kk) - Ólympíuleikar
+UID:2024-08-05T15:50:00/Marokkó - Spánn (undanúrslit fótb. kk)
+DESCRIPTION:Marokkó - Spánn (undanúrslit fótb. kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
@@ -331,13 +332,14 @@ UID:2024-08-05T17:50:00/3x3 körfubolti
 DESCRIPTION:3x3 körfubolti - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frakkland - Egyptaland (undanú. fótb. kk) - Ólympíuleikar - ru
- v2
+SUMMARY:Frakkland - Egyptaland (undanúrslit fótb. kk) - Ólympíuleikar 
+ - ruv2
 DTSTART:20240805T185000
 DTEND:20240805T195000
 DTSTAMP:20240805T185000Z
-UID:2024-08-05T18:50:00/Frakkland - Egyptaland (undanú. fótb. kk)
-DESCRIPTION:Frakkland - Egyptaland (undanú. fótb. kk) - Ólympíuleikar
+UID:2024-08-05T18:50:00/Frakkland - Egyptaland (undanúrslit fótb. kk)
+DESCRIPTION:Frakkland - Egyptaland (undanúrslit fótb. kk) - Ólympíulei
+ kar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St Johnstone - Aberdeen - Scottish Premiership - viaplay
@@ -388,20 +390,20 @@ UID:2024-08-05T21:00:00/Cardinals - Mets
 DESCRIPTION:Cardinals - Mets - MLB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
-DTSTART:20240806T075500
-DTEND:20240806T085500
-DTSTAMP:20240806T075500Z
-UID:2024-08-06T07:55:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Klifur - Ólympíuleikar - ruv2
 DTSTART:20240806T075500
 DTEND:20240806T085500
 DTSTAMP:20240806T075500Z
 UID:2024-08-06T07:55:00/Klifur
 DESCRIPTION:Klifur - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
+DTSTART:20240806T075500
+DTEND:20240806T085500
+DTSTAMP:20240806T075500Z
+UID:2024-08-06T07:55:00/Frjálsíþróttir
+DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Open Pool Championship - Pool - viaplay
@@ -436,14 +438,15 @@ UID:2024-08-06T15:25:00/Hjólabretti
 DESCRIPTION:Hjólabretti - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bandaríkin - Þýskaland (undanú. fótb. kvk) - Ólympíuleikar 
- - ruv2
+SUMMARY:Bandaríkin - Þýskaland (undanúrslit fótb. kvk) - Ólympíulei
+ kar - ruv2
 DTSTART:20240806T155000
 DTEND:20240806T165000
 DTSTAMP:20240806T155000Z
-UID:2024-08-06T15:50:00/Bandaríkin - Þýskaland (undanú. fótb. kvk)
-DESCRIPTION:Bandaríkin - Þýskaland (undanú. fótb. kvk) - Ólympíulei
- kar
+UID:2024-08-06T15:50:00/Bandaríkin - Þýskaland (undanúrslit fótb. kvk
+ )
+DESCRIPTION:Bandaríkin - Þýskaland (undanúrslit fótb. kvk) - Ólympí
+ uleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
@@ -454,15 +457,24 @@ UID:2024-08-06T17:30:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brasilía - Spánn (undanú. fótb. kvk) - Ólympíuleikar - ruv2
+SUMMARY:Brasilía - Spánn (undanúrslit fótb. kvk) - Ólympíuleikar - r
+ uv2
 DTSTART:20240806T185000
 DTEND:20240806T195000
 DTSTAMP:20240806T185000Z
-UID:2024-08-06T18:50:00/Brasilía - Spánn (undanú. fótb. kvk)
-DESCRIPTION:Brasilía - Spánn (undanú. fótb. kvk) - Ólympíuleikar
+UID:2024-08-06T18:50:00/Brasilía - Spánn (undanúrslit fótb. kvk)
+DESCRIPTION:Brasilía - Spánn (undanúrslit fótb. kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2sport
+SUMMARY:Fram - Stjarnan - Besta deild karla - stod2besta01
+DTSTART:20240806T190500
+DTEND:20240806T200500
+DTSTAMP:20240806T190500Z
+UID:2024-08-06T19:05:00/Fram - Stjarnan
+DESCRIPTION:Fram - Stjarnan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2besta02
 DTSTART:20240806T190500
 DTEND:20240806T200500
 DTSTAMP:20240806T190500Z
@@ -470,7 +482,7 @@ UID:2024-08-06T19:05:00/Breiðablik - Fylkir
 DESCRIPTION:Breiðablik - Fylkir - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2besta02
+SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2sport
 DTSTART:20240806T190500
 DTEND:20240806T200500
 DTSTAMP:20240806T190500Z
@@ -484,14 +496,6 @@ DTEND:20240806T200500
 DTSTAMP:20240806T190500Z
 UID:2024-08-06T19:05:00/KA - Valur
 DESCRIPTION:KA - Valur - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fram - Stjarnan - Besta deild karla - stod2besta01
-DTSTART:20240806T190500
-DTEND:20240806T200500
-DTSTAMP:20240806T190500Z
-UID:2024-08-06T19:05:00/Fram - Stjarnan
-DESCRIPTION:Fram - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
@@ -518,20 +522,20 @@ UID:2024-08-06T22:30:00/Guardians - Diamondbacks
 DESCRIPTION:Guardians - Diamondbacks - MLB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Klifur - Ólympíuleikar - ruv2
-DTSTART:20240807T075500
-DTEND:20240807T085500
-DTSTAMP:20240807T075500Z
-UID:2024-08-07T07:55:00/Klifur
-DESCRIPTION:Klifur - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
 DTSTART:20240807T075500
 DTEND:20240807T085500
 DTSTAMP:20240807T075500Z
 UID:2024-08-07T07:55:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klifur - Ólympíuleikar - ruv2
+DTSTART:20240807T075500
+DTEND:20240807T085500
+DTSTAMP:20240807T075500Z
+UID:2024-08-07T07:55:00/Klifur
+DESCRIPTION:Klifur - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Open Pool Championship - Pool - viaplay
@@ -614,20 +618,20 @@ UID:2024-08-07T17:50:00/Undanúrslit karla í blaki
 DESCRIPTION:Undanúrslit karla í blaki - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HK - KR - Besta deild karla - stod2sport
-DTSTART:20240807T190000
-DTEND:20240807T200000
-DTSTAMP:20240807T190000Z
-UID:2024-08-07T19:00:00/HK - KR
-DESCRIPTION:HK - KR - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:U.S. Women's Amateur - Golf - viaplay
 DTSTART:20240807T190000
 DTEND:20240807T200000
 DTSTAMP:20240807T190000Z
 UID:2024-08-07T19:00:00/U.S. Women's Amateur
 DESCRIPTION:U.S. Women's Amateur - Golf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HK - KR - Besta deild karla - stod2sport
+DTSTART:20240807T190000
+DTEND:20240807T200000
+DTSTAMP:20240807T190000Z
+UID:2024-08-07T19:00:00/HK - KR
+DESCRIPTION:HK - KR - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stúkan - Besta deild karla - stod2sport
@@ -814,20 +818,20 @@ UID:2024-08-09T15:50:00/Úrslitaleikur karla í fótbolta
 DESCRIPTION:Úrslitaleikur karla í fótbolta - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20240809T162000
-DTEND:20240809T172000
-DTSTAMP:20240809T162000Z
-UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
-DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jahn Regensburg - Ulm - 2. Bundesliga - viaplay
 DTSTART:20240809T162000
 DTEND:20240809T172000
 DTSTAMP:20240809T162000Z
 UID:2024-08-09T16:20:00/Jahn Regensburg - Ulm
 DESCRIPTION:Jahn Regensburg - Ulm - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20240809T162000
+DTEND:20240809T172000
+DTSTAMP:20240809T162000Z
+UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
+DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:B.93 - HB Køge - Gjensidige Kvindeliga - viaplay
@@ -854,14 +858,6 @@ UID:2024-08-09T17:30:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Fylkir - Besta deild kvenna - stod2sport5
-DTSTART:20240809T175000
-DTEND:20240809T185000
-DTSTAMP:20240809T175000Z
-UID:2024-08-09T17:50:00/FH - Fylkir
-DESCRIPTION:FH - Fylkir - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Þróttur R. - Besta deild kvenna - stod2besta01
 DTSTART:20240809T175000
 DTEND:20240809T185000
@@ -876,6 +872,14 @@ DTEND:20240809T185000
 DTSTAMP:20240809T175000Z
 UID:2024-08-09T17:50:00/Stjarnan - Valur
 DESCRIPTION:Stjarnan - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Fylkir - Besta deild kvenna - stod2sport5
+DTSTART:20240809T175000
+DTEND:20240809T185000
+DTSTAMP:20240809T175000Z
+UID:2024-08-09T17:50:00/FH - Fylkir
+DESCRIPTION:FH - Fylkir - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breakdans kvenna - Ólympíuleikar - ruv2
@@ -894,20 +898,20 @@ UID:2024-08-09T18:25:00/Newcastle - Girona
 DESCRIPTION:Newcastle - Girona - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ayr United - Airdrieonians - Scottish Championship - viaplay
-DTSTART:20240809T184000
-DTEND:20240809T194000
-DTSTAMP:20240809T184000Z
-UID:2024-08-09T18:40:00/Ayr United - Airdrieonians
-DESCRIPTION:Ayr United - Airdrieonians - Scottish Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brentford - Wolfsburg - Æfingaleikur - viaplay
 DTSTART:20240809T184000
 DTEND:20240809T194000
 DTSTAMP:20240809T184000Z
 UID:2024-08-09T18:40:00/Brentford - Wolfsburg
 DESCRIPTION:Brentford - Wolfsburg - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ayr United - Airdrieonians - Scottish Championship - viaplay
+DTSTART:20240809T184000
+DTEND:20240809T194000
+DTSTAMP:20240809T184000Z
+UID:2024-08-09T18:40:00/Ayr United - Airdrieonians
+DESCRIPTION:Ayr United - Airdrieonians - Scottish Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Women's Amateur - Golf - viaplay
@@ -990,14 +994,6 @@ UID:2024-08-10T10:00:00/European Open Pool Championship
 DESCRIPTION:European Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AGF - OB Q - Gjensidige Kvindeliga - viaplay
-DTSTART:20240810T105000
-DTEND:20240810T115000
-DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/AGF - OB Q
-DESCRIPTION:AGF - OB Q - Gjensidige Kvindeliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürnberg - Schalke - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
@@ -1006,20 +1002,28 @@ UID:2024-08-10T10:50:00/Nürnberg - Schalke
 DESCRIPTION:Nürnberg - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Köln - 2. Bundesliga - viaplay
-DTSTART:20240810T105000
-DTEND:20240810T115000
-DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/Elversberg - Köln
-DESCRIPTION:Elversberg - Köln - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
 DTSTAMP:20240810T105000Z
 UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
 DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AGF - OB Q - Gjensidige Kvindeliga - viaplay
+DTSTART:20240810T105000
+DTEND:20240810T115000
+DTSTAMP:20240810T105000Z
+UID:2024-08-10T10:50:00/AGF - OB Q
+DESCRIPTION:AGF - OB Q - Gjensidige Kvindeliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elversberg - Köln - 2. Bundesliga - viaplay
+DTSTART:20240810T105000
+DTEND:20240810T115000
+DTSTAMP:20240810T105000Z
+UID:2024-08-10T10:50:00/Elversberg - Köln
+DESCRIPTION:Elversberg - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Úrslitaleikur karla í blaki - Ólympíuleikar - ruv2
