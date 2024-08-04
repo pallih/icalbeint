@@ -10,20 +10,20 @@ UID:2024-08-04T07:55:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar - ruv2
-DTSTART:20240804T111500
-DTEND:20240804T121500
-DTSTAMP:20240804T111500Z
-UID:2024-08-04T11:15:00/Tennis (úrslit í einliðaleik kk)
-DESCRIPTION:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Strandblak - Ólympíuleikar - ruv
 DTSTART:20240804T111500
 DTEND:20240804T121500
 DTSTAMP:20240804T111500Z
 UID:2024-08-04T11:15:00/Strandblak
 DESCRIPTION:Strandblak - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar - ruv2
+DTSTART:20240804T111500
+DTEND:20240804T121500
+DTSTAMP:20240804T111500Z
+UID:2024-08-04T11:15:00/Tennis (úrslit í einliðaleik kk)
+DESCRIPTION:Tennis (úrslit í einliðaleik kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fimleikar (úrslit stök áhöld kvk og kk) - Ólympíuleikar - ru
@@ -36,10 +36,10 @@ DESCRIPTION:Fimleikar (úrslit stök áhöld kvk og kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Golf karla (dagur 4) - Ólympíuleikar - ruv2
-DTSTART:20240804T131500
-DTEND:20240804T141500
-DTSTAMP:20240804T131500Z
-UID:2024-08-04T13:15:00/Golf karla (dagur 4)
+DTSTART:20240804T141500
+DTEND:20240804T151500
+DTSTAMP:20240804T141500Z
+UID:2024-08-04T14:15:00/Golf karla (dagur 4)
 DESCRIPTION:Golf karla (dagur 4) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
@@ -75,12 +75,12 @@ UID:2024-08-04T17:45:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Götuhjólreiðar kvenna - úrslit - Ólympíuleikar - ruv2
-DTSTART:20240804T183500
-DTEND:20240804T193500
-DTSTAMP:20240804T183500Z
-UID:2024-08-04T18:35:00/Götuhjólreiðar kvenna - úrslit
-DESCRIPTION:Götuhjólreiðar kvenna - úrslit - Ólympíuleikar
+SUMMARY:Spánn - Króatía (handb. kk) - Ólympíuleikar - ruv2
+DTSTART:20240804T185000
+DTEND:20240804T195000
+DTSTAMP:20240804T185000Z
+UID:2024-08-04T18:50:00/Spánn - Króatía (handb. kk)
+DESCRIPTION:Spánn - Króatía (handb. kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
@@ -89,6 +89,14 @@ DTEND:20240804T211500
 DTSTAMP:20240804T201500Z
 UID:2024-08-04T20:15:00/Ólympíukvöld
 DESCRIPTION:Ólympíukvöld - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Götuhjólreiðar kvenna - úrslit - Ólympíuleikar - ruv2
+DTSTART:20240804T203500
+DTEND:20240804T213500
+DTSTAMP:20240804T203500Z
+UID:2024-08-04T20:35:00/Götuhjólreiðar kvenna - úrslit
+DESCRIPTION:Götuhjólreiðar kvenna - úrslit - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þríþraut (blandaður flokkur) - Ólympíuleikar - ruv2
@@ -214,12 +222,12 @@ UID:2024-08-05T20:55:00/3x3 körfubolti
 DESCRIPTION:3x3 körfubolti - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Klifur - Ólympíuleikar - ruv2
-DTSTART:20240806T075500
-DTEND:20240806T085500
-DTSTAMP:20240806T075500Z
-UID:2024-08-06T07:55:00/Klifur
-DESCRIPTION:Klifur - Ólympíuleikar
+SUMMARY:Danmörk - Holland (handb. kvk) - Ólympíuleikar - ruv2
+DTSTART:20240806T072000
+DTEND:20240806T082000
+DTSTAMP:20240806T072000Z
+UID:2024-08-06T07:20:00/Danmörk - Holland (handb. kvk)
+DESCRIPTION:Danmörk - Holland (handb. kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
@@ -230,12 +238,28 @@ UID:2024-08-06T07:55:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit karla í körfubolta - Ólympíuleikar - ruv2
-DTSTART:20240806T122000
-DTEND:20240806T132000
-DTSTAMP:20240806T122000Z
-UID:2024-08-06T12:20:00/8-liða úrslit karla í körfubolta
-DESCRIPTION:8-liða úrslit karla í körfubolta - Ólympíuleikar
+SUMMARY:Þýskaland - Grikkland (körfub. kk) - Ólympíuleikar - ruv2
+DTSTART:20240806T090000
+DTEND:20240806T100000
+DTSTAMP:20240806T090000Z
+UID:2024-08-06T09:00:00/Þýskaland - Grikkland (körfub. kk)
+DESCRIPTION:Þýskaland - Grikkland (körfub. kk) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klifur - Ólympíuleikar - ruv
+DTSTART:20240806T110000
+DTEND:20240806T120000
+DTSTAMP:20240806T110000Z
+UID:2024-08-06T11:00:00/Klifur
+DESCRIPTION:Klifur - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Þýskaland (handb. kvk) - Ólympíuleikar - ruv2
+DTSTART:20240806T112000
+DTEND:20240806T122000
+DTSTAMP:20240806T112000Z
+UID:2024-08-06T11:20:00/Frakkland - Þýskaland (handb. kvk)
+DESCRIPTION:Frakkland - Þýskaland (handb. kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dýfingar - Ólympíuleikar - ruv
@@ -273,13 +297,20 @@ UID:2024-08-06T17:30:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brasilía - Spánn (undanúrslit fótb. kvk) - Ólympíuleikar - r
- uv2
-DTSTART:20240806T185000
-DTEND:20240806T195000
-DTSTAMP:20240806T185000Z
-UID:2024-08-06T18:50:00/Brasilía - Spánn (undanúrslit fótb. kvk)
-DESCRIPTION:Brasilía - Spánn (undanúrslit fótb. kvk) - Ólympíuleikar
+SUMMARY:Frakkland - Kanada (körfub. kk) - Ólympíuleikar - ruv2
+DTSTART:20240806T175000
+DTEND:20240806T185000
+DTSTAMP:20240806T175000Z
+UID:2024-08-06T17:50:00/Frakkland - Kanada (körfub. kk)
+DESCRIPTION:Frakkland - Kanada (körfub. kk) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brasilía - Bandaríkin (körfub. kk) - Ólympíuleikar - ruv2
+DTSTART:20240806T192500
+DTEND:20240806T202500
+DTSTAMP:20240806T192500Z
+UID:2024-08-06T19:25:00/Brasilía - Bandaríkin (körfub. kk)
+DESCRIPTION:Brasilía - Bandaríkin (körfub. kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
@@ -290,12 +321,13 @@ UID:2024-08-06T20:15:00/Ólympíukvöld
 DESCRIPTION:Ólympíukvöld - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
-DTSTART:20240807T075500
-DTEND:20240807T085500
-DTSTAMP:20240807T075500Z
-UID:2024-08-07T07:55:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
+SUMMARY:Brasilía - Spánn (undanúrslit fótb. kvk) - Ólympíuleikar - r
+ uv2
+DTSTART:20240806T211500
+DTEND:20240806T221500
+DTSTAMP:20240806T211500Z
+UID:2024-08-06T21:15:00/Brasilía - Spánn (undanúrslit fótb. kvk)
+DESCRIPTION:Brasilía - Spánn (undanúrslit fótb. kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klifur - Ólympíuleikar - ruv2
@@ -304,6 +336,14 @@ DTEND:20240807T085500
 DTSTAMP:20240807T075500Z
 UID:2024-08-07T07:55:00/Klifur
 DESCRIPTION:Klifur - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
+DTSTART:20240807T075500
+DTEND:20240807T085500
+DTSTAMP:20240807T075500Z
+UID:2024-08-07T07:55:00/Frjálsíþróttir
+DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klifur - Ólympíuleikar - ruv2
