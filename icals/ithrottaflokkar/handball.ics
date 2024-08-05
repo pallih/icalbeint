@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Danmörk - Noregur (handb. kk) - Ólympíuleikar - ruv2
-DTSTART:20240804T170000
-DTEND:20240804T180000
-DTSTAMP:20240804T170000Z
-UID:2024-08-04T17:00:00/Danmörk - Noregur (handb. kk)
-DESCRIPTION:Danmörk - Noregur (handb. kk) - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spánn - Króatía (handb. kk) - Ólympíuleikar - ruv2
-DTSTART:20240804T185000
-DTEND:20240804T195000
-DTSTAMP:20240804T185000Z
-UID:2024-08-04T18:50:00/Spánn - Króatía (handb. kk)
-DESCRIPTION:Spánn - Króatía (handb. kk) - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Danmörk - Holland (handb. kvk) - Ólympíuleikar - ruv2
 DTSTART:20240806T072000
 DTEND:20240806T082000
@@ -72,5 +56,13 @@ DTEND:20240810T135000
 DTSTAMP:20240810T125000Z
 UID:2024-08-10T12:50:00/Úrslitaleikur kvenna i handbolta
 DESCRIPTION:Úrslitaleikur kvenna i handbolta - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Úrslitaleikur karla í handbolta - Ólympíuleikar - ruv
+DTSTART:20240811T112000
+DTEND:20240811T122000
+DTSTAMP:20240811T112000Z
+UID:2024-08-11T11:20:00/Úrslitaleikur karla í handbolta
+DESCRIPTION:Úrslitaleikur karla í handbolta - Ólympíuleikar
 END:VEVENT
 END:VCALENDAR

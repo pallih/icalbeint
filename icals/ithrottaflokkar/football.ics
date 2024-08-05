@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Ulm - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Ulm - Kaiserslautern
-DESCRIPTION:Ulm - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Fortuna Düsseldorf - 2. Bundesliga - stod2vodasport
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Darmstadt - Fortuna Düsseldorf
-DESCRIPTION:Darmstadt - Fortuna Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Darmstadt - Düsseldorf
-DESCRIPTION:Darmstadt - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20240804T112000
-DTEND:20240804T122000
-DTSTAMP:20240804T112000Z
-UID:2024-08-04T11:20:00/Greuther Fürth - Preußen Münster
-DESCRIPTION:Greuther Fürth - Preußen Münster - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dundee United - Dundee - Scottish Premiership - viaplay
-DTSTART:20240804T122500
-DTEND:20240804T132500
-DTSTAMP:20240804T122500Z
-UID:2024-08-04T12:25:00/Dundee United - Dundee
-DESCRIPTION:Dundee United - Dundee - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Celtic - Kilmarnock - Scottish Premiership - viaplay
-DTSTART:20240804T152500
-DTEND:20240804T162500
-DTSTAMP:20240804T152500Z
-UID:2024-08-04T15:25:00/Celtic - Kilmarnock
-DESCRIPTION:Celtic - Kilmarnock - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dregið - Champions League - viaplay
 DTSTART:20240805T100000
 DTEND:20240805T110000
@@ -104,6 +56,22 @@ DESCRIPTION:Bandaríkin - Þýskaland (undanúrslit fótb. kvk) - Ólympí
  uleikar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KA - Valur - Besta deild karla - stod2sport5
+DTSTART:20240806T190500
+DTEND:20240806T200500
+DTSTAMP:20240806T190500Z
+UID:2024-08-06T19:05:00/KA - Valur
+DESCRIPTION:KA - Valur - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2sport
+DTSTART:20240806T190500
+DTEND:20240806T200500
+DTSTAMP:20240806T190500Z
+UID:2024-08-06T19:05:00/Breiðablik - Fylkir
+DESCRIPTION:Breiðablik - Fylkir - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2besta02
 DTSTART:20240806T190500
 DTEND:20240806T200500
@@ -118,22 +86,6 @@ DTEND:20240806T200500
 DTSTAMP:20240806T190500Z
 UID:2024-08-06T19:05:00/Fram - Stjarnan
 DESCRIPTION:Fram - Stjarnan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2sport
-DTSTART:20240806T190500
-DTEND:20240806T200500
-DTSTAMP:20240806T190500Z
-UID:2024-08-06T19:05:00/Breiðablik - Fylkir
-DESCRIPTION:Breiðablik - Fylkir - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KA - Valur - Besta deild karla - stod2sport5
-DTSTART:20240806T190500
-DTEND:20240806T200500
-DTSTAMP:20240806T190500Z
-UID:2024-08-06T19:05:00/KA - Valur
-DESCRIPTION:KA - Valur - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brasilía - Spánn (undanúrslit fótb. kvk) - Ólympíuleikar - r
@@ -185,20 +137,20 @@ UID:2024-08-09T15:50:00/Úrslitaleikur karla í fótbolta
 DESCRIPTION:Úrslitaleikur karla í fótbolta - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20240809T162000
-DTEND:20240809T172000
-DTSTAMP:20240809T162000Z
-UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
-DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jahn Regensburg - Ulm - 2. Bundesliga - viaplay
 DTSTART:20240809T162000
 DTEND:20240809T172000
 DTSTAMP:20240809T162000Z
 UID:2024-08-09T16:20:00/Jahn Regensburg - Ulm
 DESCRIPTION:Jahn Regensburg - Ulm - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20240809T162000
+DTEND:20240809T172000
+DTSTAMP:20240809T162000Z
+UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
+DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:B.93 - HB Køge - Gjensidige Kvindeliga - viaplay
@@ -265,12 +217,12 @@ UID:2024-08-09T18:40:00/Brentford - Wolfsburg
 DESCRIPTION:Brentford - Wolfsburg - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AGF - OB Q - Gjensidige Kvindeliga - viaplay
+SUMMARY:Nürnberg - Schalke - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
 DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/AGF - OB Q
-DESCRIPTION:AGF - OB Q - Gjensidige Kvindeliga
+UID:2024-08-10T10:50:00/Nürnberg - Schalke
+DESCRIPTION:Nürnberg - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Köln - 2. Bundesliga - viaplay
@@ -281,20 +233,20 @@ UID:2024-08-10T10:50:00/Elversberg - Köln
 DESCRIPTION:Elversberg - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Schalke - 2. Bundesliga - viaplay
-DTSTART:20240810T105000
-DTEND:20240810T115000
-DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/Nürnberg - Schalke
-DESCRIPTION:Nürnberg - Schalke - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
 DTSTAMP:20240810T105000Z
 UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
 DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AGF - OB Q - Gjensidige Kvindeliga - viaplay
+DTSTART:20240810T105000
+DTEND:20240810T115000
+DTSTAMP:20240810T105000Z
+UID:2024-08-10T10:50:00/AGF - OB Q
+DESCRIPTION:AGF - OB Q - Gjensidige Kvindeliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ipswich - Nice - Æfingaleikur - viaplay
@@ -367,5 +319,93 @@ DTEND:20240810T192000
 DTSTAMP:20240810T182000Z
 UID:2024-08-10T18:20:00/HSV - Hertha Berlin
 DESCRIPTION:HSV - Hertha Berlin - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brøndby IF - Fortuna Hjørring - Gjensidige Kvindeliga - viaplay
+DTSTART:20240811T102000
+DTEND:20240811T112000
+DTSTAMP:20240811T102000Z
+UID:2024-08-11T10:20:00/Brøndby IF - Fortuna Hjørring
+DESCRIPTION:Brøndby IF - Fortuna Hjørring - Gjensidige Kvindeliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preußen Münster - Hannover - 2. Bundesliga - viaplay
+DTSTART:20240811T112000
+DTEND:20240811T122000
+DTSTAMP:20240811T112000Z
+UID:2024-08-11T11:20:00/Preußen Münster - Hannover
+DESCRIPTION:Preußen Münster - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braunschweig - Magdeburg - 2. Bundesliga - viaplay
+DTSTART:20240811T112000
+DTEND:20240811T122000
+DTSTAMP:20240811T112000Z
+UID:2024-08-11T11:20:00/Braunschweig - Magdeburg
+DESCRIPTION:Braunschweig - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paderborn - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20240811T112000
+DTEND:20240811T122000
+DTSTAMP:20240811T112000Z
+UID:2024-08-11T11:20:00/Paderborn - Darmstadt
+DESCRIPTION:Paderborn - Darmstadt - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hibernian - Celtic - Scottish Premiership - viaplay
+DTSTART:20240811T112500
+DTEND:20240811T122500
+DTSTAMP:20240811T112500Z
+UID:2024-08-11T11:25:00/Hibernian - Celtic
+DESCRIPTION:Hibernian - Celtic - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kristianstad - Norrköping - OBOS Damallsvenskan - viaplay
+DTSTART:20240811T125000
+DTEND:20240811T135000
+DTSTAMP:20240811T125000Z
+UID:2024-08-11T12:50:00/Kristianstad - Norrköping
+DESCRIPTION:Kristianstad - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - Vestri - Besta deild karla - stod2sport
+DTSTART:20240811T135000
+DTEND:20240811T145000
+DTSTAMP:20240811T135000Z
+UID:2024-08-11T13:50:00/Víkingur R. - Vestri
+DESCRIPTION:Víkingur R. - Vestri - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fylkir - KA - Besta deild karla - stod2sport5
+DTSTART:20240811T165000
+DTEND:20240811T175000
+DTSTAMP:20240811T165000Z
+UID:2024-08-11T16:50:00/Fylkir - KA
+DESCRIPTION:Fylkir - KA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Breiðablik - Besta deild karla - stod2sport
+DTSTART:20240811T190000
+DTEND:20240811T200000
+DTSTAMP:20240811T190000Z
+UID:2024-08-11T19:00:00/Stjarnan - Breiðablik
+DESCRIPTION:Stjarnan - Breiðablik - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - HK - Besta deild karla - stod2besta01
+DTSTART:20240811T190500
+DTEND:20240811T200500
+DTSTAMP:20240811T190500Z
+UID:2024-08-11T19:05:00/Valur - HK
+DESCRIPTION:Valur - HK - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísey Tilþrifin - Besta deild karla - stod2sport
+DTSTART:20240811T212000
+DTEND:20240811T222000
+DTSTAMP:20240811T212000Z
+UID:2024-08-11T21:20:00/Ísey Tilþrifin
+DESCRIPTION:Ísey Tilþrifin - Besta deild karla
 END:VEVENT
 END:VCALENDAR
