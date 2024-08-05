@@ -233,20 +233,20 @@ UID:2024-08-06T21:15:00/Brasilía - Spánn (undanúrslit fótb. kvk)
 DESCRIPTION:Brasilía - Spánn (undanúrslit fótb. kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
-DTSTART:20240807T075500
-DTEND:20240807T085500
-DTSTAMP:20240807T075500Z
-UID:2024-08-07T07:55:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Klifur - Ólympíuleikar - ruv2
 DTSTART:20240807T075500
 DTEND:20240807T085500
 DTSTAMP:20240807T075500Z
 UID:2024-08-07T07:55:00/Klifur
 DESCRIPTION:Klifur - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
+DTSTART:20240807T075500
+DTEND:20240807T085500
+DTSTAMP:20240807T075500Z
+UID:2024-08-07T07:55:00/Frjálsíþróttir
+DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klifur - Ólympíuleikar - ruv2
@@ -257,36 +257,46 @@ UID:2024-08-07T10:30:00/Klifur
 DESCRIPTION:Klifur - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit kvenna í körfubolta - Ólympíuleikar - ruv
+SUMMARY:Þýskaland - Frakkland (8-liða handb. kk) - Ólympíuleikar - ru
+ v2
+DTSTART:20240807T112000
+DTEND:20240807T122000
+DTSTAMP:20240807T112000Z
+UID:2024-08-07T11:20:00/Þýskaland - Frakkland (8-liða handb. kk)
+DESCRIPTION:Þýskaland - Frakkland (8-liða handb. kk) - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spánn - Belgía (8-liða körfub. kvk) - Ólympíuleikar - ruv
 DTSTART:20240807T122000
 DTEND:20240807T132000
 DTSTAMP:20240807T122000Z
-UID:2024-08-07T12:20:00/8-liða úrslit kvenna í körfubolta
-DESCRIPTION:8-liða úrslit kvenna í körfubolta - Ólympíuleikar
+UID:2024-08-07T12:20:00/Spánn - Belgía (8-liða körfub. kvk)
+DESCRIPTION:Spánn - Belgía (8-liða körfub. kvk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Undanúrslit karla í blaki - Ólympíuleikar - ruv2
-DTSTART:20240807T135000
-DTEND:20240807T145000
-DTSTAMP:20240807T135000Z
-UID:2024-08-07T13:50:00/Undanúrslit karla í blaki
-DESCRIPTION:Undanúrslit karla í blaki - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lyftingar - Ólympíuleikar - ruv
-DTSTART:20240807T141000
-DTEND:20240807T151000
-DTSTAMP:20240807T141000Z
-UID:2024-08-07T14:10:00/Lyftingar
+SUMMARY:Lyftingar - Ólympíuleikar - ruv2
+DTSTART:20240807T130500
+DTEND:20240807T140500
+DTSTAMP:20240807T130500Z
+UID:2024-08-07T13:05:00/Lyftingar
 DESCRIPTION:Lyftingar - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit kvenna í körfubolta - Ólympíuleikar - ruv2
-DTSTART:20240807T155000
-DTEND:20240807T165000
-DTSTAMP:20240807T155000Z
-UID:2024-08-07T15:50:00/8-liða úrslit kvenna í körfubolta
-DESCRIPTION:8-liða úrslit kvenna í körfubolta - Ólympíuleikar
+SUMMARY:Undanúrslit karla í blaki - Ólympíuleikar - ruv
+DTSTART:20240807T141500
+DTEND:20240807T151500
+DTSTAMP:20240807T141500Z
+UID:2024-08-07T14:15:00/Undanúrslit karla í blaki
+DESCRIPTION:Undanúrslit karla í blaki - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Svíþjóð (8-liða handb. kk) - Ólympíuleikar - ruv
+ 2
+DTSTART:20240807T152000
+DTEND:20240807T162000
+DTSTAMP:20240807T152000Z
+UID:2024-08-07T15:20:00/Danmörk - Svíþjóð (8-liða handb. kk)
+DESCRIPTION:Danmörk - Svíþjóð (8-liða handb. kk) - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hjólabretti - Ólympíuleikar - ruv
@@ -369,7 +379,7 @@ UID:2024-08-08T17:30:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Undanúrslit kvenna í blaki - Ólympíuleikar - ruvis
+SUMMARY:Undanúrslit kvenna í blaki - Ólympíuleikar - ruv2
 DTSTART:20240808T175000
 DTEND:20240808T185000
 DTSTAMP:20240808T175000Z
