@@ -26,14 +26,6 @@ UID:2024-08-05T21:00:00/Cardinals - Mets
 DESCRIPTION:Cardinals - Mets - MLB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - Stjarnan - Besta deild karla - stod2besta01
-DTSTART:20240806T190500
-DTEND:20240806T200500
-DTSTAMP:20240806T190500Z
-UID:2024-08-06T19:05:00/Fram - Stjarnan
-DESCRIPTION:Fram - Stjarnan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KA - Valur - Besta deild karla - stod2sport5
 DTSTART:20240806T190500
 DTEND:20240806T200500
@@ -42,7 +34,7 @@ UID:2024-08-06T19:05:00/KA - Valur
 DESCRIPTION:KA - Valur - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2sport
+SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2besta02
 DTSTART:20240806T190500
 DTEND:20240806T200500
 DTSTAMP:20240806T190500Z
@@ -50,7 +42,15 @@ UID:2024-08-06T19:05:00/Breiðablik - Fylkir
 DESCRIPTION:Breiðablik - Fylkir - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2besta02
+SUMMARY:Fram - Stjarnan - Besta deild karla - stod2besta01
+DTSTART:20240806T190500
+DTEND:20240806T200500
+DTSTAMP:20240806T190500Z
+UID:2024-08-06T19:05:00/Fram - Stjarnan
+DESCRIPTION:Fram - Stjarnan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Fylkir - Besta deild karla - stod2sport
 DTSTART:20240806T190500
 DTEND:20240806T200500
 DTSTAMP:20240806T190500Z
@@ -106,14 +106,6 @@ UID:2024-08-09T17:30:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Þróttur R. - Besta deild kvenna - stod2besta01
-DTSTART:20240809T175000
-DTEND:20240809T185000
-DTSTAMP:20240809T175000Z
-UID:2024-08-09T17:50:00/Tindastóll - Þróttur R.
-DESCRIPTION:Tindastóll - Þróttur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - Valur - Besta deild kvenna - stod2sport
 DTSTART:20240809T175000
 DTEND:20240809T185000
@@ -128,6 +120,14 @@ DTEND:20240809T185000
 DTSTAMP:20240809T175000Z
 UID:2024-08-09T17:50:00/FH - Fylkir
 DESCRIPTION:FH - Fylkir - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Þróttur R. - Besta deild kvenna - stod2besta01
+DTSTART:20240809T175000
+DTEND:20240809T185000
+DTSTAMP:20240809T175000Z
+UID:2024-08-09T17:50:00/Tindastóll - Þróttur R.
+DESCRIPTION:Tindastóll - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Víkingur R. - Besta deild kvenna - stod2sport5
