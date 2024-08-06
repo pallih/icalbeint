@@ -74,20 +74,20 @@ UID:2024-08-09T12:00:00/International Series England
 DESCRIPTION:International Series England - Asian Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20240809T162000
-DTEND:20240809T172000
-DTSTAMP:20240809T162000Z
-UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
-DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jahn Regensburg - Ulm - 2. Bundesliga - viaplay
 DTSTART:20240809T162000
 DTEND:20240809T172000
 DTSTAMP:20240809T162000Z
 UID:2024-08-09T16:20:00/Jahn Regensburg - Ulm
 DESCRIPTION:Jahn Regensburg - Ulm - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20240809T162000
+DTEND:20240809T172000
+DTSTAMP:20240809T162000Z
+UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
+DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Girona - Æfingaleikur - viaplay
@@ -98,6 +98,14 @@ UID:2024-08-09T18:25:00/Newcastle - Girona
 DESCRIPTION:Newcastle - Girona - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ayr United - Airdrieonians - Scottish Championship - viaplay
+DTSTART:20240809T184000
+DTEND:20240809T194000
+DTSTAMP:20240809T184000Z
+UID:2024-08-09T18:40:00/Ayr United - Airdrieonians
+DESCRIPTION:Ayr United - Airdrieonians - Scottish Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brentford - Wolfsburg - Æfingaleikur - viaplay
 DTSTART:20240809T184000
 DTEND:20240809T194000
@@ -106,12 +114,12 @@ UID:2024-08-09T18:40:00/Brentford - Wolfsburg
 DESCRIPTION:Brentford - Wolfsburg - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ayr United - Airdrieonians - Scottish Championship - viaplay
-DTSTART:20240809T184000
-DTEND:20240809T194000
-DTSTAMP:20240809T184000Z
-UID:2024-08-09T18:40:00/Ayr United - Airdrieonians
-DESCRIPTION:Ayr United - Airdrieonians - Scottish Championship
+SUMMARY:Blackburn - Derby - Championship - viaplay
+DTSTART:20240809T185500
+DTEND:20240809T195500
+DTSTAMP:20240809T185500Z
+UID:2024-08-09T18:55:00/Blackburn - Derby
+DESCRIPTION:Blackburn - Derby - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Women's Amateur - Golf - viaplay
@@ -146,12 +154,12 @@ UID:2024-08-10T10:00:00/European Open Pool Championship
 DESCRIPTION:European Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Schalke - 2. Bundesliga - viaplay
+SUMMARY:Elversberg - Köln - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
 DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/Nürnberg - Schalke
-DESCRIPTION:Nürnberg - Schalke - 2. Bundesliga
+UID:2024-08-10T10:50:00/Elversberg - Köln
+DESCRIPTION:Elversberg - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
@@ -162,12 +170,20 @@ UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
 DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Köln - 2. Bundesliga - viaplay
+SUMMARY:Nürnberg - Schalke - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
 DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/Elversberg - Köln
-DESCRIPTION:Elversberg - Köln - 2. Bundesliga
+UID:2024-08-10T10:50:00/Nürnberg - Schalke
+DESCRIPTION:Nürnberg - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oxford - Norwich - Championship - viaplay
+DTSTART:20240810T112500
+DTEND:20240810T122500
+DTSTAMP:20240810T112500Z
+UID:2024-08-10T11:25:00/Oxford - Norwich
+DESCRIPTION:Oxford - Norwich - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ipswich - Nice - Æfingaleikur - viaplay
@@ -178,6 +194,14 @@ UID:2024-08-10T11:25:00/Ipswich - Nice
 DESCRIPTION:Ipswich - Nice - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leeds - Portsmouth - Championship - viaplay
+DTSTART:20240810T112500
+DTEND:20240810T122500
+DTSTAMP:20240810T112500Z
+UID:2024-08-10T11:25:00/Leeds - Portsmouth
+DESCRIPTION:Leeds - Portsmouth - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International Series England - Asian Tour - viaplay
 DTSTART:20240810T120000
 DTEND:20240810T130000
@@ -186,12 +210,28 @@ UID:2024-08-10T12:00:00/International Series England
 DESCRIPTION:International Series England - Asian Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MK Dons - Bradford - League Two - viaplay
+DTSTART:20240810T135500
+DTEND:20240810T145500
+DTSTAMP:20240810T135500Z
+UID:2024-08-10T13:55:00/MK Dons - Bradford
+DESCRIPTION:MK Dons - Bradford - League Two
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Newcastle - Brest - Æfingaleikur - viaplay
 DTSTART:20240810T145500
 DTEND:20240810T155500
 DTSTAMP:20240810T145500Z
 UID:2024-08-10T14:55:00/Newcastle - Brest
 DESCRIPTION:Newcastle - Brest - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birmingham - Reading - League One - viaplay
+DTSTART:20240810T162500
+DTEND:20240810T172500
+DTSTAMP:20240810T162500Z
+UID:2024-08-10T16:25:00/Birmingham - Reading
+DESCRIPTION:Birmingham - Reading - League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee - Hearts - Scottish Premiership - viaplay
@@ -250,6 +290,14 @@ UID:2024-08-11T10:00:00/European Open Pool Championship
 DESCRIPTION:European Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paderborn - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20240811T112000
+DTEND:20240811T122000
+DTSTAMP:20240811T112000Z
+UID:2024-08-11T11:20:00/Paderborn - Darmstadt
+DESCRIPTION:Paderborn - Darmstadt - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Preußen Münster - Hannover - 2. Bundesliga - viaplay
 DTSTART:20240811T112000
 DTEND:20240811T122000
@@ -264,14 +312,6 @@ DTEND:20240811T122000
 DTSTAMP:20240811T112000Z
 UID:2024-08-11T11:20:00/Braunschweig - Magdeburg
 DESCRIPTION:Braunschweig - Magdeburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paderborn - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20240811T112000
-DTEND:20240811T122000
-DTSTAMP:20240811T112000Z
-UID:2024-08-11T11:20:00/Paderborn - Darmstadt
-DESCRIPTION:Paderborn - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hibernian - Celtic - Scottish Premiership - viaplay
@@ -296,6 +336,14 @@ DTEND:20240811T135000
 DTSTAMP:20240811T125000Z
 UID:2024-08-11T12:50:00/Kristianstad - Norrköping
 DESCRIPTION:Kristianstad - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Plymouth - Championship - viaplay
+DTSTART:20240811T145500
+DTEND:20240811T155500
+DTSTAMP:20240811T145500Z
+UID:2024-08-11T14:55:00/Sheffield United - Plymouth
+DESCRIPTION:Sheffield United - Plymouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Open Pool Championship - Pool - viaplay
