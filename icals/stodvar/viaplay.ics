@@ -74,20 +74,20 @@ UID:2024-08-09T12:00:00/International Series England
 DESCRIPTION:International Series England - Asian Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jahn Regensburg - Ulm - 2. Bundesliga - viaplay
-DTSTART:20240809T162000
-DTEND:20240809T172000
-DTSTAMP:20240809T162000Z
-UID:2024-08-09T16:20:00/Jahn Regensburg - Ulm
-DESCRIPTION:Jahn Regensburg - Ulm - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20240809T162000
 DTEND:20240809T172000
 DTSTAMP:20240809T162000Z
 UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
 DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahn Regensburg - Ulm - 2. Bundesliga - viaplay
+DTSTART:20240809T162000
+DTEND:20240809T172000
+DTSTAMP:20240809T162000Z
+UID:2024-08-09T16:20:00/Jahn Regensburg - Ulm
+DESCRIPTION:Jahn Regensburg - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Girona - Æfingaleikur - viaplay
@@ -98,20 +98,20 @@ UID:2024-08-09T18:25:00/Newcastle - Girona
 DESCRIPTION:Newcastle - Girona - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ayr United - Airdrieonians - Scottish Championship - viaplay
-DTSTART:20240809T184000
-DTEND:20240809T194000
-DTSTAMP:20240809T184000Z
-UID:2024-08-09T18:40:00/Ayr United - Airdrieonians
-DESCRIPTION:Ayr United - Airdrieonians - Scottish Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brentford - Wolfsburg - Æfingaleikur - viaplay
 DTSTART:20240809T184000
 DTEND:20240809T194000
 DTSTAMP:20240809T184000Z
 UID:2024-08-09T18:40:00/Brentford - Wolfsburg
 DESCRIPTION:Brentford - Wolfsburg - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ayr United - Airdrieonians - Scottish Championship - viaplay
+DTSTART:20240809T184000
+DTEND:20240809T194000
+DTSTAMP:20240809T184000Z
+UID:2024-08-09T18:40:00/Ayr United - Airdrieonians
+DESCRIPTION:Ayr United - Airdrieonians - Scottish Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blackburn - Derby - Championship - viaplay
@@ -290,14 +290,6 @@ UID:2024-08-11T10:00:00/European Open Pool Championship
 DESCRIPTION:European Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paderborn - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20240811T112000
-DTEND:20240811T122000
-DTSTAMP:20240811T112000Z
-UID:2024-08-11T11:20:00/Paderborn - Darmstadt
-DESCRIPTION:Paderborn - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preußen Münster - Hannover - 2. Bundesliga - viaplay
 DTSTART:20240811T112000
 DTEND:20240811T122000
@@ -312,6 +304,14 @@ DTEND:20240811T122000
 DTSTAMP:20240811T112000Z
 UID:2024-08-11T11:20:00/Braunschweig - Magdeburg
 DESCRIPTION:Braunschweig - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paderborn - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20240811T112000
+DTEND:20240811T122000
+DTSTAMP:20240811T112000Z
+UID:2024-08-11T11:20:00/Paderborn - Darmstadt
+DESCRIPTION:Paderborn - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hibernian - Celtic - Scottish Premiership - viaplay
@@ -338,12 +338,12 @@ UID:2024-08-11T12:50:00/Kristianstad - Norrköping
 DESCRIPTION:Kristianstad - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield United - Plymouth - Championship - viaplay
+SUMMARY:Sheffield Wednesday - Plymouth - Championship - viaplay
 DTSTART:20240811T145500
 DTEND:20240811T155500
 DTSTAMP:20240811T145500Z
-UID:2024-08-11T14:55:00/Sheffield United - Plymouth
-DESCRIPTION:Sheffield United - Plymouth - Championship
+UID:2024-08-11T14:55:00/Sheffield Wednesday - Plymouth
+DESCRIPTION:Sheffield Wednesday - Plymouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Open Pool Championship - Pool - viaplay
@@ -368,5 +368,13 @@ DTEND:20240811T223000
 DTSTAMP:20240811T213000Z
 UID:2024-08-11T21:30:00/Cook Out 400 (Cup Series)
 DESCRIPTION:Cook Out 400 (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luton - Burnley - Championship - viaplay
+DTSTART:20240812T185500
+DTEND:20240812T195500
+DTSTAMP:20240812T185500Z
+UID:2024-08-12T18:55:00/Luton - Burnley
+DESCRIPTION:Luton - Burnley - Championship
 END:VEVENT
 END:VCALENDAR
