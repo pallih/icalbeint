@@ -45,14 +45,14 @@ DESCRIPTION:Þýskaland - Frakkland (8-liða karla í handbolta) - Ólymp
  íuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spánn - Belgía (8-liða karla í körfubolta) - Ólympíuleikar 
- - ruv
+SUMMARY:Spánn - Belgía (8-liða kvenna í körfubolta) - Ólympíuleikar
+  - ruv
 DTSTART:20240807T122000
 DTEND:20240807T132000
 DTSTAMP:20240807T122000Z
-UID:2024-08-07T12:20:00/Spánn - Belgía (8-liða karla í körfubolta)
-DESCRIPTION:Spánn - Belgía (8-liða karla í körfubolta) - Ólympíulei
- kar
+UID:2024-08-07T12:20:00/Spánn - Belgía (8-liða kvenna í körfubolta)
+DESCRIPTION:Spánn - Belgía (8-liða kvenna í körfubolta) - Ólympíule
+ ikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lyftingar - Ólympíuleikar - ruv2
@@ -64,7 +64,7 @@ DESCRIPTION:Lyftingar - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pólland - Bandaríkin (undanúrslit karla í blaki) - Ólympíule
- ikar - ruv2
+ ikar - ruv
 DTSTART:20240807T135000
 DTEND:20240807T145000
 DTSTAMP:20240807T135000Z
@@ -268,12 +268,12 @@ DESCRIPTION:Serbía - Bandaríkin (undanúrslit karla í körfubolta) - Ó
  lympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Womens Amateur - US Open - stod2vodasport
+SUMMARY:U.S. Women's Amateur - Golf - viaplay
 DTSTART:20240808T190000
 DTEND:20240808T200000
 DTSTAMP:20240808T190000Z
-UID:2024-08-08T19:00:00/U.S. Womens Amateur
-DESCRIPTION:U.S. Womens Amateur - US Open
+UID:2024-08-08T19:00:00/U.S. Women's Amateur
+DESCRIPTION:U.S. Women's Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - KR - Besta deild karla - stod2sport
@@ -284,12 +284,12 @@ UID:2024-08-08T19:00:00/HK - KR
 DESCRIPTION:HK - KR - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Women's Amateur - Golf - viaplay
+SUMMARY:U.S. Womens Amateur - US Open - stod2vodasport
 DTSTART:20240808T190000
 DTEND:20240808T200000
 DTSTAMP:20240808T190000Z
-UID:2024-08-08T19:00:00/U.S. Women's Amateur
-DESCRIPTION:U.S. Women's Amateur - Golf
+UID:2024-08-08T19:00:00/U.S. Womens Amateur
+DESCRIPTION:U.S. Womens Amateur - US Open
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ólympíukvöld - Ólympíuleikar - ruv
@@ -461,20 +461,20 @@ UID:2024-08-09T17:50:00/Tindastóll - Þróttur R.
 DESCRIPTION:Tindastóll - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Valur - Besta deild kvenna - stod2sport
-DTSTART:20240809T175000
-DTEND:20240809T185000
-DTSTAMP:20240809T175000Z
-UID:2024-08-09T17:50:00/Stjarnan - Valur
-DESCRIPTION:Stjarnan - Valur - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Fylkir - Besta deild kvenna - stod2sport5
 DTSTART:20240809T175000
 DTEND:20240809T185000
 DTSTAMP:20240809T175000Z
 UID:2024-08-09T17:50:00/FH - Fylkir
 DESCRIPTION:FH - Fylkir - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Valur - Besta deild kvenna - stod2sport
+DTSTART:20240809T175000
+DTEND:20240809T185000
+DTSTAMP:20240809T175000Z
+UID:2024-08-09T17:50:00/Stjarnan - Valur
+DESCRIPTION:Stjarnan - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breakdans kvenna - Ólympíuleikar - ruv2
@@ -493,20 +493,20 @@ UID:2024-08-09T18:25:00/Newcastle - Girona
 DESCRIPTION:Newcastle - Girona - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Wolfsburg - Æfingaleikur - viaplay
-DTSTART:20240809T184000
-DTEND:20240809T194000
-DTSTAMP:20240809T184000Z
-UID:2024-08-09T18:40:00/Brentford - Wolfsburg
-DESCRIPTION:Brentford - Wolfsburg - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ayr United - Airdrieonians - Scottish Championship - viaplay
 DTSTART:20240809T184000
 DTEND:20240809T194000
 DTSTAMP:20240809T184000Z
 UID:2024-08-09T18:40:00/Ayr United - Airdrieonians
 DESCRIPTION:Ayr United - Airdrieonians - Scottish Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford - Wolfsburg - Æfingaleikur - viaplay
+DTSTART:20240809T184000
+DTEND:20240809T194000
+DTSTAMP:20240809T184000Z
+UID:2024-08-09T18:40:00/Brentford - Wolfsburg
+DESCRIPTION:Brentford - Wolfsburg - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blackburn - Derby - Championship - viaplay
@@ -589,14 +589,6 @@ UID:2024-08-10T09:00:00/Australian Darts Masters
 DESCRIPTION:Australian Darts Masters - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Klifur  - Ólympíuleikar - ruv
-DTSTART:20240810T100000
-DTEND:20240810T110000
-DTSTAMP:20240810T100000Z
-UID:2024-08-10T10:00:00/Klifur 
-DESCRIPTION:Klifur  - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:European Open Pool Championship - Pool - viaplay
 DTSTART:20240810T100000
 DTEND:20240810T110000
@@ -605,12 +597,12 @@ UID:2024-08-10T10:00:00/European Open Pool Championship
 DESCRIPTION:European Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20240810T105000
-DTEND:20240810T115000
-DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
-DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
+SUMMARY:Klifur  - Ólympíuleikar - ruv
+DTSTART:20240810T100000
+DTEND:20240810T110000
+DTSTAMP:20240810T100000Z
+UID:2024-08-10T10:00:00/Klifur 
+DESCRIPTION:Klifur  - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürnberg - Schalke - 2. Bundesliga - viaplay
@@ -619,6 +611,14 @@ DTEND:20240810T115000
 DTSTAMP:20240810T105000Z
 UID:2024-08-10T10:50:00/Nürnberg - Schalke
 DESCRIPTION:Nürnberg - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20240810T105000
+DTEND:20240810T115000
+DTSTAMP:20240810T105000Z
+UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
+DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Köln - 2. Bundesliga - viaplay
@@ -637,6 +637,14 @@ UID:2024-08-10T10:55:00/Úrslitaleikur karla í blaki
 DESCRIPTION:Úrslitaleikur karla í blaki - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leeds - Portsmouth - Championship - viaplay
+DTSTART:20240810T112500
+DTEND:20240810T122500
+DTSTAMP:20240810T112500Z
+UID:2024-08-10T11:25:00/Leeds - Portsmouth
+DESCRIPTION:Leeds - Portsmouth - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oxford - Norwich - Championship - viaplay
 DTSTART:20240810T112500
 DTEND:20240810T122500
@@ -651,14 +659,6 @@ DTEND:20240810T122500
 DTSTAMP:20240810T112500Z
 UID:2024-08-10T11:25:00/Ipswich - Nice
 DESCRIPTION:Ipswich - Nice - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leeds - Portsmouth - Championship - viaplay
-DTSTART:20240810T112500
-DTEND:20240810T122500
-DTSTAMP:20240810T112500Z
-UID:2024-08-10T11:25:00/Leeds - Portsmouth
-DESCRIPTION:Leeds - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Series England - Asian Tour - viaplay
@@ -728,20 +728,20 @@ UID:2024-08-10T15:50:00/Breiðablik - Þór/KA
 DESCRIPTION:Breiðablik - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dundee - Hearts - Scottish Premiership - viaplay
-DTSTART:20240810T162500
-DTEND:20240810T172500
-DTSTAMP:20240810T162500Z
-UID:2024-08-10T16:25:00/Dundee - Hearts
-DESCRIPTION:Dundee - Hearts - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Birmingham - Reading - League One - viaplay
 DTSTART:20240810T162500
 DTEND:20240810T172500
 DTSTAMP:20240810T162500Z
 UID:2024-08-10T16:25:00/Birmingham - Reading
 DESCRIPTION:Birmingham - Reading - League One
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dundee - Hearts - Scottish Premiership - viaplay
+DTSTART:20240810T162500
+DTEND:20240810T172500
+DTSTAMP:20240810T162500Z
+UID:2024-08-10T16:25:00/Dundee - Hearts
+DESCRIPTION:Dundee - Hearts - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Open Pool Championship - Pool - viaplay
@@ -872,6 +872,14 @@ UID:2024-08-11T10:50:00/Úrslitaleikur kvenna í blaki
 DESCRIPTION:Úrslitaleikur kvenna í blaki - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Úrslitaleikur karla í handbolta - Ólympíuleikar - ruv
+DTSTART:20240811T112000
+DTEND:20240811T122000
+DTSTAMP:20240811T112000Z
+UID:2024-08-11T11:20:00/Úrslitaleikur karla í handbolta
+DESCRIPTION:Úrslitaleikur karla í handbolta - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paderborn - Darmstadt - 2. Bundesliga - viaplay
 DTSTART:20240811T112000
 DTEND:20240811T122000
@@ -894,14 +902,6 @@ DTEND:20240811T122000
 DTSTAMP:20240811T112000Z
 UID:2024-08-11T11:20:00/Preußen Münster - Hannover
 DESCRIPTION:Preußen Münster - Hannover - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Úrslitaleikur karla í handbolta - Ólympíuleikar - ruv
-DTSTART:20240811T112000
-DTEND:20240811T122000
-DTSTAMP:20240811T112000Z
-UID:2024-08-11T11:20:00/Úrslitaleikur karla í handbolta
-DESCRIPTION:Úrslitaleikur karla í handbolta - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hibernian - Celtic - Scottish Premiership - viaplay

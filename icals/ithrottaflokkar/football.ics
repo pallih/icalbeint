@@ -78,20 +78,20 @@ UID:2024-08-09T17:50:00/Tindastóll - Þróttur R.
 DESCRIPTION:Tindastóll - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Valur - Besta deild kvenna - stod2sport
-DTSTART:20240809T175000
-DTEND:20240809T185000
-DTSTAMP:20240809T175000Z
-UID:2024-08-09T17:50:00/Stjarnan - Valur
-DESCRIPTION:Stjarnan - Valur - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Fylkir - Besta deild kvenna - stod2sport5
 DTSTART:20240809T175000
 DTEND:20240809T185000
 DTSTAMP:20240809T175000Z
 UID:2024-08-09T17:50:00/FH - Fylkir
 DESCRIPTION:FH - Fylkir - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Valur - Besta deild kvenna - stod2sport
+DTSTART:20240809T175000
+DTEND:20240809T185000
+DTSTAMP:20240809T175000Z
+UID:2024-08-09T17:50:00/Stjarnan - Valur
+DESCRIPTION:Stjarnan - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Girona - Æfingaleikur - viaplay
@@ -102,20 +102,20 @@ UID:2024-08-09T18:25:00/Newcastle - Girona
 DESCRIPTION:Newcastle - Girona - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Wolfsburg - Æfingaleikur - viaplay
-DTSTART:20240809T184000
-DTEND:20240809T194000
-DTSTAMP:20240809T184000Z
-UID:2024-08-09T18:40:00/Brentford - Wolfsburg
-DESCRIPTION:Brentford - Wolfsburg - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ayr United - Airdrieonians - Scottish Championship - viaplay
 DTSTART:20240809T184000
 DTEND:20240809T194000
 DTSTAMP:20240809T184000Z
 UID:2024-08-09T18:40:00/Ayr United - Airdrieonians
 DESCRIPTION:Ayr United - Airdrieonians - Scottish Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford - Wolfsburg - Æfingaleikur - viaplay
+DTSTART:20240809T184000
+DTEND:20240809T194000
+DTSTAMP:20240809T184000Z
+UID:2024-08-09T18:40:00/Brentford - Wolfsburg
+DESCRIPTION:Brentford - Wolfsburg - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blackburn - Derby - Championship - viaplay
@@ -126,14 +126,6 @@ UID:2024-08-09T18:55:00/Blackburn - Derby
 DESCRIPTION:Blackburn - Derby - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20240810T105000
-DTEND:20240810T115000
-DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
-DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürnberg - Schalke - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
@@ -142,12 +134,28 @@ UID:2024-08-10T10:50:00/Nürnberg - Schalke
 DESCRIPTION:Nürnberg - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20240810T105000
+DTEND:20240810T115000
+DTSTAMP:20240810T105000Z
+UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
+DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elversberg - Köln - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
 DTSTAMP:20240810T105000Z
 UID:2024-08-10T10:50:00/Elversberg - Köln
 DESCRIPTION:Elversberg - Köln - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds - Portsmouth - Championship - viaplay
+DTSTART:20240810T112500
+DTEND:20240810T122500
+DTSTAMP:20240810T112500Z
+UID:2024-08-10T11:25:00/Leeds - Portsmouth
+DESCRIPTION:Leeds - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oxford - Norwich - Championship - viaplay
@@ -164,14 +172,6 @@ DTEND:20240810T122500
 DTSTAMP:20240810T112500Z
 UID:2024-08-10T11:25:00/Ipswich - Nice
 DESCRIPTION:Ipswich - Nice - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leeds - Portsmouth - Championship - viaplay
-DTSTART:20240810T112500
-DTEND:20240810T122500
-DTSTAMP:20240810T112500Z
-UID:2024-08-10T11:25:00/Leeds - Portsmouth
-DESCRIPTION:Leeds - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Víkingur R. - Besta deild kvenna - stod2sport5
@@ -217,20 +217,20 @@ UID:2024-08-10T15:50:00/Breiðablik - Þór/KA
 DESCRIPTION:Breiðablik - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dundee - Hearts - Scottish Premiership - viaplay
-DTSTART:20240810T162500
-DTEND:20240810T172500
-DTSTAMP:20240810T162500Z
-UID:2024-08-10T16:25:00/Dundee - Hearts
-DESCRIPTION:Dundee - Hearts - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Birmingham - Reading - League One - viaplay
 DTSTART:20240810T162500
 DTEND:20240810T172500
 DTSTAMP:20240810T162500Z
 UID:2024-08-10T16:25:00/Birmingham - Reading
 DESCRIPTION:Birmingham - Reading - League One
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dundee - Hearts - Scottish Premiership - viaplay
+DTSTART:20240810T162500
+DTEND:20240810T172500
+DTSTAMP:20240810T162500Z
+UID:2024-08-10T16:25:00/Dundee - Hearts
+DESCRIPTION:Dundee - Hearts - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
