@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Æfingaleikur - ical
 BEGIN:VEVENT
-SUMMARY:Newcastle - Girona - Æfingaleikur - stod2vodasport
+SUMMARY:Newcastle - Girona - Æfingaleikur - viaplay
 DTSTART:20240809T182500
 DTEND:20240809T192500
 DTSTAMP:20240809T182500Z
@@ -10,7 +10,7 @@ UID:2024-08-09T18:25:00/Newcastle - Girona
 DESCRIPTION:Newcastle - Girona - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Girona - Æfingaleikur - viaplay
+SUMMARY:Newcastle - Girona - Æfingaleikur - stod2vodasport
 DTSTART:20240809T182500
 DTEND:20240809T192500
 DTSTAMP:20240809T182500Z
@@ -34,19 +34,19 @@ UID:2024-08-10T11:25:00/Ipswich - Nice
 DESCRIPTION:Ipswich - Nice - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Brest - Æfingaleikur - viaplay
-DTSTART:20240810T145500
-DTEND:20240810T155500
-DTSTAMP:20240810T145500Z
-UID:2024-08-10T14:55:00/Newcastle - Brest
-DESCRIPTION:Newcastle - Brest - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Newcastle - Stade Brestios - Æfingaleikur - stod2vodasport
 DTSTART:20240810T145500
 DTEND:20240810T155500
 DTSTAMP:20240810T145500Z
 UID:2024-08-10T14:55:00/Newcastle - Stade Brestios
 DESCRIPTION:Newcastle - Stade Brestios - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Brest - Æfingaleikur - viaplay
+DTSTART:20240810T145500
+DTEND:20240810T155500
+DTSTAMP:20240810T145500Z
+UID:2024-08-10T14:55:00/Newcastle - Brest
+DESCRIPTION:Newcastle - Brest - Æfingaleikur
 END:VEVENT
 END:VCALENDAR
