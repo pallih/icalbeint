@@ -50,20 +50,20 @@ UID:2024-08-09T12:00:00/International Series England
 DESCRIPTION:International Series England - Asian Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jahn Regensburg - Ulm - 2. Bundesliga - viaplay
-DTSTART:20240809T162000
-DTEND:20240809T172000
-DTSTAMP:20240809T162000Z
-UID:2024-08-09T16:20:00/Jahn Regensburg - Ulm
-DESCRIPTION:Jahn Regensburg - Ulm - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20240809T162000
 DTEND:20240809T172000
 DTSTAMP:20240809T162000Z
 UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
 DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahn Regensburg - Ulm - 2. Bundesliga - viaplay
+DTSTART:20240809T162000
+DTEND:20240809T172000
+DTSTAMP:20240809T162000Z
+UID:2024-08-09T16:20:00/Jahn Regensburg - Ulm
+DESCRIPTION:Jahn Regensburg - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Girona - Æfingaleikur - viaplay
@@ -138,20 +138,20 @@ UID:2024-08-10T10:50:00/Nürnberg - Schalke
 DESCRIPTION:Nürnberg - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20240810T105000
-DTEND:20240810T115000
-DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
-DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elversberg - Köln - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
 DTSTAMP:20240810T105000Z
 UID:2024-08-10T10:50:00/Elversberg - Köln
 DESCRIPTION:Elversberg - Köln - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20240810T105000
+DTEND:20240810T115000
+DTSTAMP:20240810T105000Z
+UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
+DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leeds - Portsmouth - Championship - viaplay
@@ -266,6 +266,14 @@ UID:2024-08-11T10:00:00/European Open Pool Championship
 DESCRIPTION:European Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Preußen Münster - Hannover - 2. Bundesliga - viaplay
+DTSTART:20240811T112000
+DTEND:20240811T122000
+DTSTAMP:20240811T112000Z
+UID:2024-08-11T11:20:00/Preußen Münster - Hannover
+DESCRIPTION:Preußen Münster - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paderborn - Darmstadt - 2. Bundesliga - viaplay
 DTSTART:20240811T112000
 DTEND:20240811T122000
@@ -280,14 +288,6 @@ DTEND:20240811T122000
 DTSTAMP:20240811T112000Z
 UID:2024-08-11T11:20:00/Braunschweig - Magdeburg
 DESCRIPTION:Braunschweig - Magdeburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preußen Münster - Hannover - 2. Bundesliga - viaplay
-DTSTART:20240811T112000
-DTEND:20240811T122000
-DTSTAMP:20240811T112000Z
-UID:2024-08-11T11:20:00/Preußen Münster - Hannover
-DESCRIPTION:Preußen Münster - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hibernian - Celtic - Scottish Premiership - viaplay
@@ -354,12 +354,44 @@ UID:2024-08-12T18:55:00/Luton - Burnley
 DESCRIPTION:Luton - Burnley - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Preston - Sunderland - Carabao Cup - viaplay
+DTSTART:20240813T184000
+DTEND:20240813T194000
+DTSTAMP:20240813T184000Z
+UID:2024-08-13T18:40:00/Preston - Sunderland
+DESCRIPTION:Preston - Sunderland - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Wrexham - Carabao Cup - viaplay
+DTSTART:20240813T185500
+DTEND:20240813T195500
+DTSTAMP:20240813T185500Z
+UID:2024-08-13T18:55:00/Sheffield United - Wrexham
+DESCRIPTION:Sheffield United - Wrexham - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hull - Sheffield Wednesday - Carabao Cup - viaplay
+DTSTART:20240814T184000
+DTEND:20240814T194000
+DTSTAMP:20240814T184000Z
+UID:2024-08-14T18:40:00/Hull - Sheffield Wednesday
+DESCRIPTION:Hull - Sheffield Wednesday - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Real Madrid - Atalanta - UEFA Super Cup - viaplay
 DTSTART:20240814T184500
 DTEND:20240814T194500
 DTSTAMP:20240814T184500Z
 UID:2024-08-14T18:45:00/Real Madrid - Atalanta
 DESCRIPTION:Real Madrid - Atalanta - UEFA Super Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds - Middlesbrough - Carabao Cup - viaplay
+DTSTART:20240814T185500
+DTEND:20240814T195500
+DTSTAMP:20240814T185500Z
+UID:2024-08-14T18:55:00/Leeds - Middlesbrough
+DESCRIPTION:Leeds - Middlesbrough - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Amateur - Golf - viaplay
