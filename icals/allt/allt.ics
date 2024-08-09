@@ -96,12 +96,12 @@ UID:2024-08-09T16:10:00/Dýfingar
 DESCRIPTION:Dýfingar - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jahn Regensburg - Ulm - 2. Bundesliga - viaplay
+SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - stod2vodasport
 DTSTART:20240809T162000
 DTEND:20240809T172000
 DTSTAMP:20240809T162000Z
-UID:2024-08-09T16:20:00/Jahn Regensburg - Ulm
-DESCRIPTION:Jahn Regensburg - Ulm - 2. Bundesliga
+UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
+DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - viaplay
@@ -112,12 +112,12 @@ UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
 DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Greuther Fürth - 2. Bundesliga - stod2vodasport
+SUMMARY:Jahn Regensburg - Ulm - 2. Bundesliga - viaplay
 DTSTART:20240809T162000
 DTEND:20240809T172000
 DTSTAMP:20240809T162000Z
-UID:2024-08-09T16:20:00/Kaiserslautern - Greuther Fürth
-DESCRIPTION:Kaiserslautern - Greuther Fürth - 2. Bundesliga
+UID:2024-08-09T16:20:00/Jahn Regensburg - Ulm
+DESCRIPTION:Jahn Regensburg - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíuleikar - ruv
@@ -136,20 +136,20 @@ UID:2024-08-09T17:30:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Fylkir - Besta deild kvenna - stod2sport5
-DTSTART:20240809T175000
-DTEND:20240809T185000
-DTSTAMP:20240809T175000Z
-UID:2024-08-09T17:50:00/FH - Fylkir
-DESCRIPTION:FH - Fylkir - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Þróttur R. - Besta deild kvenna - stod2besta01
 DTSTART:20240809T175000
 DTEND:20240809T185000
 DTSTAMP:20240809T175000Z
 UID:2024-08-09T17:50:00/Tindastóll - Þróttur R.
 DESCRIPTION:Tindastóll - Þróttur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Fylkir - Besta deild kvenna - stod2sport5
+DTSTART:20240809T175000
+DTEND:20240809T185000
+DTSTAMP:20240809T175000Z
+UID:2024-08-09T17:50:00/FH - Fylkir
+DESCRIPTION:FH - Fylkir - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Valur - Besta deild kvenna - stod2sport
@@ -314,6 +314,14 @@ UID:2024-08-10T10:00:00/European Open Pool Championship
 DESCRIPTION:European Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20240810T105000
+DTEND:20240810T115000
+DTSTAMP:20240810T105000Z
+UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
+DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elversberg - Köln - 2. Bundesliga - viaplay
 DTSTART:20240810T105000
 DTEND:20240810T115000
@@ -328,14 +336,6 @@ DTEND:20240810T115000
 DTSTAMP:20240810T105000Z
 UID:2024-08-10T10:50:00/Nürnberg - Schalke
 DESCRIPTION:Nürnberg - Schalke - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20240810T105000
-DTEND:20240810T115000
-DTSTAMP:20240810T105000Z
-UID:2024-08-10T10:50:00/Düsseldorf - Karlsruher
-DESCRIPTION:Düsseldorf - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frakkland - Pólland (úrslitaleikur karla í blaki) - Ólympíule
@@ -357,20 +357,12 @@ UID:2024-08-10T11:25:00/Leeds - Portsmouth
 DESCRIPTION:Leeds - Portsmouth - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Nice - Æfingaleikur - viaplay
+SUMMARY:Leeds - Portsmouth - EFL Championship - stod2vodasport
 DTSTART:20240810T112500
 DTEND:20240810T122500
 DTSTAMP:20240810T112500Z
-UID:2024-08-10T11:25:00/Ipswich - Nice
-DESCRIPTION:Ipswich - Nice - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oxford - Norwich - Championship - viaplay
-DTSTART:20240810T112500
-DTEND:20240810T122500
-DTSTAMP:20240810T112500Z
-UID:2024-08-10T11:25:00/Oxford - Norwich
-DESCRIPTION:Oxford - Norwich - Championship
+UID:2024-08-10T11:25:00/Leeds - Portsmouth
+DESCRIPTION:Leeds - Portsmouth - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leeds - Portsmouth - Championship - viaplay
@@ -381,12 +373,20 @@ UID:2024-08-10T11:25:00/Leeds - Portsmouth
 DESCRIPTION:Leeds - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leeds - Portsmouth - EFL Championship - stod2vodasport
+SUMMARY:Oxford - Norwich - Championship - viaplay
 DTSTART:20240810T112500
 DTEND:20240810T122500
 DTSTAMP:20240810T112500Z
-UID:2024-08-10T11:25:00/Leeds - Portsmouth
-DESCRIPTION:Leeds - Portsmouth - EFL Championship
+UID:2024-08-10T11:25:00/Oxford - Norwich
+DESCRIPTION:Oxford - Norwich - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ipswich - Nice - Æfingaleikur - viaplay
+DTSTART:20240810T112500
+DTEND:20240810T122500
+DTSTAMP:20240810T112500Z
+UID:2024-08-10T11:25:00/Ipswich - Nice
+DESCRIPTION:Ipswich - Nice - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Series England - Asian Tour - viaplay
@@ -424,20 +424,20 @@ UID:2024-08-10T13:50:00/Keflavík - Víkingur R.
 DESCRIPTION:Keflavík - Víkingur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MK Dons - Bradford - League Two - viaplay
-DTSTART:20240810T135500
-DTEND:20240810T145500
-DTSTAMP:20240810T135500Z
-UID:2024-08-10T13:55:00/MK Dons - Bradford
-DESCRIPTION:MK Dons - Bradford - League Two
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MK Dons - Bradford City - EFL League Two - stod2vodasport
 DTSTART:20240810T135500
 DTEND:20240810T145500
 DTSTAMP:20240810T135500Z
 UID:2024-08-10T13:55:00/MK Dons - Bradford City
 DESCRIPTION:MK Dons - Bradford City - EFL League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MK Dons - Bradford - League Two - viaplay
+DTSTART:20240810T135500
+DTEND:20240810T145500
+DTSTAMP:20240810T135500Z
+UID:2024-08-10T13:55:00/MK Dons - Bradford
+DESCRIPTION:MK Dons - Bradford - League Two
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MK Dons - Bradford City - EFL League Two - stod2vodasport
@@ -483,6 +483,14 @@ UID:2024-08-10T15:50:00/Breiðablik - Þór/KA
 DESCRIPTION:Breiðablik - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Birmingham - Reading - League One - viaplay
+DTSTART:20240810T162500
+DTEND:20240810T172500
+DTSTAMP:20240810T162500Z
+UID:2024-08-10T16:25:00/Birmingham - Reading
+DESCRIPTION:Birmingham - Reading - League One
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dundee - Hearts - Scottish Premiership - viaplay
 DTSTART:20240810T162500
 DTEND:20240810T172500
@@ -497,14 +505,6 @@ DTEND:20240810T172500
 DTSTAMP:20240810T162500Z
 UID:2024-08-10T16:25:00/Birmingham City - Reading
 DESCRIPTION:Birmingham City - Reading - EFL League One
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Birmingham - Reading - League One - viaplay
-DTSTART:20240810T162500
-DTEND:20240810T172500
-DTSTAMP:20240810T162500Z
-UID:2024-08-10T16:25:00/Birmingham - Reading
-DESCRIPTION:Birmingham - Reading - League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Birmingham City - Reading - EFL League One - stod2vodasport
@@ -571,20 +571,20 @@ UID:2024-08-10T18:20:00/HSV - Hertha Berlin
 DESCRIPTION:HSV - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Womens Amateur - US Open - stod2vodasport
-DTSTART:20240810T190000
-DTEND:20240810T200000
-DTSTAMP:20240810T190000Z
-UID:2024-08-10T19:00:00/U.S. Womens Amateur
-DESCRIPTION:U.S. Womens Amateur - US Open
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:U.S. Women's Amateur - Golf - viaplay
 DTSTART:20240810T190000
 DTEND:20240810T200000
 DTSTAMP:20240810T190000Z
 UID:2024-08-10T19:00:00/U.S. Women's Amateur
 DESCRIPTION:U.S. Women's Amateur - Golf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Womens Amateur - US Open - stod2vodasport
+DTSTART:20240810T190000
+DTEND:20240810T200000
+DTSTAMP:20240810T190000Z
+UID:2024-08-10T19:00:00/U.S. Womens Amateur
+DESCRIPTION:U.S. Womens Amateur - US Open
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Womens Amateur - US Open - stod2vodasport
@@ -689,12 +689,12 @@ DESCRIPTION:Bandaríkin - Ítalía (úrslitaleikur kvenna í blaki) - Óly
  mpíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preußen Münster - Hannover - 2. Bundesliga - viaplay
+SUMMARY:Braunschweig - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20240811T112000
 DTEND:20240811T122000
 DTSTAMP:20240811T112000Z
-UID:2024-08-11T11:20:00/Preußen Münster - Hannover
-DESCRIPTION:Preußen Münster - Hannover - 2. Bundesliga
+UID:2024-08-11T11:20:00/Braunschweig - Magdeburg
+DESCRIPTION:Braunschweig - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - Darmstadt - 2. Bundesliga - viaplay
@@ -705,20 +705,20 @@ UID:2024-08-11T11:20:00/Paderborn - Darmstadt
 DESCRIPTION:Paderborn - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Preußen Münster - Hannover - 2. Bundesliga - viaplay
+DTSTART:20240811T112000
+DTEND:20240811T122000
+DTSTAMP:20240811T112000Z
+UID:2024-08-11T11:20:00/Preußen Münster - Hannover
+DESCRIPTION:Preußen Münster - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Úrslitaleikur karla í handbolta - Ólympíuleikar - ruv
 DTSTART:20240811T112000
 DTEND:20240811T122000
 DTSTAMP:20240811T112000Z
 UID:2024-08-11T11:20:00/Úrslitaleikur karla í handbolta
 DESCRIPTION:Úrslitaleikur karla í handbolta - Ólympíuleikar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Braunschweig - Magdeburg - 2. Bundesliga - viaplay
-DTSTART:20240811T112000
-DTEND:20240811T122000
-DTSTAMP:20240811T112000Z
-UID:2024-08-11T11:20:00/Braunschweig - Magdeburg
-DESCRIPTION:Braunschweig - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hibernian - Celtic - Scottish Premiership - stod2vodasport
@@ -801,20 +801,20 @@ UID:2024-08-11T14:55:00/Sheffield - Plymouth
 DESCRIPTION:Sheffield - Plymouth - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield Wednesday - Plymouth - Championship - viaplay
-DTSTART:20240811T145500
-DTEND:20240811T155500
-DTSTAMP:20240811T145500Z
-UID:2024-08-11T14:55:00/Sheffield Wednesday - Plymouth
-DESCRIPTION:Sheffield Wednesday - Plymouth - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sheffield - Plymouth - EFL Championship - stod2vodasport
 DTSTART:20240811T145500
 DTEND:20240811T155500
 DTSTAMP:20240811T145500Z
 UID:2024-08-11T14:55:00/Sheffield - Plymouth
 DESCRIPTION:Sheffield - Plymouth - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield Wednesday - Plymouth - Championship - viaplay
+DTSTART:20240811T145500
+DTEND:20240811T155500
+DTSTAMP:20240811T145500Z
+UID:2024-08-11T14:55:00/Sheffield Wednesday - Plymouth
+DESCRIPTION:Sheffield Wednesday - Plymouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Open Pool Championship - Pool - viaplay
@@ -849,22 +849,6 @@ UID:2024-08-11T18:15:00/Ólympíukvöld
 DESCRIPTION:Ólympíukvöld - Ólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Breiðablik - Besta deild karla - stod2sport
-DTSTART:20240811T190000
-DTEND:20240811T200000
-DTSTAMP:20240811T190000Z
-UID:2024-08-11T19:00:00/Stjarnan - Breiðablik
-DESCRIPTION:Stjarnan - Breiðablik - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - Breiðablik - Besta deild karla - stod2sport
-DTSTART:20240811T190000
-DTEND:20240811T200000
-DTSTAMP:20240811T190000Z
-UID:2024-08-11T19:00:00/Stjarnan - Breiðablik
-DESCRIPTION:Stjarnan - Breiðablik - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:U.S. Womens Amateur - US Open - stod2vodasport
 DTSTART:20240811T190000
 DTEND:20240811T200000
@@ -873,12 +857,20 @@ UID:2024-08-11T19:00:00/U.S. Womens Amateur
 DESCRIPTION:U.S. Womens Amateur - US Open
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Womens Amateur - US Open - stod2vodasport
+SUMMARY:Lokaathöfn - Ólympíuleikar - ruv
 DTSTART:20240811T190000
 DTEND:20240811T200000
 DTSTAMP:20240811T190000Z
-UID:2024-08-11T19:00:00/U.S. Womens Amateur
-DESCRIPTION:U.S. Womens Amateur - US Open
+UID:2024-08-11T19:00:00/Lokaathöfn
+DESCRIPTION:Lokaathöfn - Ólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Breiðablik - Besta deild karla - stod2sport
+DTSTART:20240811T190000
+DTEND:20240811T200000
+DTSTAMP:20240811T190000Z
+UID:2024-08-11T19:00:00/Stjarnan - Breiðablik
+DESCRIPTION:Stjarnan - Breiðablik - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Women's Amateur - Golf - viaplay
@@ -889,12 +881,20 @@ UID:2024-08-11T19:00:00/U.S. Women's Amateur
 DESCRIPTION:U.S. Women's Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lokaathöfn - Ólympíuleikar - ruv
+SUMMARY:Stjarnan - Breiðablik - Besta deild karla - stod2sport
 DTSTART:20240811T190000
 DTEND:20240811T200000
 DTSTAMP:20240811T190000Z
-UID:2024-08-11T19:00:00/Lokaathöfn
-DESCRIPTION:Lokaathöfn - Ólympíuleikar
+UID:2024-08-11T19:00:00/Stjarnan - Breiðablik
+DESCRIPTION:Stjarnan - Breiðablik - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Womens Amateur - US Open - stod2vodasport
+DTSTART:20240811T190000
+DTEND:20240811T200000
+DTSTAMP:20240811T190000Z
+UID:2024-08-11T19:00:00/U.S. Womens Amateur
+DESCRIPTION:U.S. Womens Amateur - US Open
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - HK - Besta deild karla - stod2besta01
@@ -1057,14 +1057,6 @@ UID:2024-08-14T18:40:00/Hull - Sheffield Wednesday
 DESCRIPTION:Hull - Sheffield Wednesday - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Madrid - Atalanta - UEFA Super Cup - viaplay
-DTSTART:20240814T184500
-DTEND:20240814T194500
-DTSTAMP:20240814T184500Z
-UID:2024-08-14T18:45:00/Real Madrid - Atalanta
-DESCRIPTION:Real Madrid - Atalanta - UEFA Super Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UEFA Super Cup: Real Madrid - Atalanta - UEFA Super Cup: Real Madr
  id - Atalanta - stod2sport2
 DTSTART:20240814T184500
@@ -1073,6 +1065,14 @@ DTSTAMP:20240814T184500Z
 UID:2024-08-14T18:45:00/UEFA Super Cup: Real Madrid - Atalanta
 DESCRIPTION:UEFA Super Cup: Real Madrid - Atalanta - UEFA Super Cup: Real 
  Madrid - Atalanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid - Atalanta - UEFA Super Cup - viaplay
+DTSTART:20240814T184500
+DTEND:20240814T194500
+DTSTAMP:20240814T184500Z
+UID:2024-08-14T18:45:00/Real Madrid - Atalanta
+DESCRIPTION:Real Madrid - Atalanta - UEFA Super Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leeds - Middlesbrough - Carabao Cup - viaplay
