@@ -18,20 +18,20 @@ UID:2024-08-12T18:05:00/ÍA - Fram
 DESCRIPTION:ÍA - Fram - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Luton - Burnley - Championship - viaplay
-DTSTART:20240812T185500
-DTEND:20240812T195500
-DTSTAMP:20240812T185500Z
-UID:2024-08-12T18:55:00/Luton - Burnley
-DESCRIPTION:Luton - Burnley - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Luton Town - Burnley - EFL Championship - stod2vodasport
 DTSTART:20240812T185500
 DTEND:20240812T195500
 DTSTAMP:20240812T185500Z
 UID:2024-08-12T18:55:00/Luton Town - Burnley
 DESCRIPTION:Luton Town - Burnley - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luton - Burnley - Championship - viaplay
+DTSTART:20240812T185500
+DTEND:20240812T195500
+DTSTAMP:20240812T185500Z
+UID:2024-08-12T18:55:00/Luton - Burnley
+DESCRIPTION:Luton - Burnley - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stúkan - Besta deild karla - stod2sport
@@ -66,14 +66,14 @@ UID:2024-08-14T18:40:00/Hull - Sheffield Wednesday
 DESCRIPTION:Hull - Sheffield Wednesday - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UEFA Super Cup: Real Madrid - Atalanta - UEFA Super Cup: Real Madr
- id - Atalanta - stod2sport2
+SUMMARY:Real Madrid - Atalanta - UEFA Super Cup: Real Madrid - Atalanta - 
+ stod2sport2
 DTSTART:20240814T184500
 DTEND:20240814T194500
 DTSTAMP:20240814T184500Z
-UID:2024-08-14T18:45:00/UEFA Super Cup: Real Madrid - Atalanta
-DESCRIPTION:UEFA Super Cup: Real Madrid - Atalanta - UEFA Super Cup: Real 
- Madrid - Atalanta
+UID:2024-08-14T18:45:00/Real Madrid - Atalanta
+DESCRIPTION:Real Madrid - Atalanta - UEFA Super Cup: Real Madrid - Atalant
+ a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - Atalanta - UEFA Super Cup - viaplay
@@ -132,6 +132,14 @@ UID:2024-08-16T18:30:00/Man. Utd. - Fulham
 DESCRIPTION:Man. Utd. - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coventry - Oxford - EFL Championship - stod2vodasport
+DTSTART:20240816T185500
+DTEND:20240816T195500
+DTSTAMP:20240816T185500Z
+UID:2024-08-16T18:55:00/Coventry - Oxford
+DESCRIPTION:Coventry - Oxford - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coventry - Oxford - Championship - viaplay
 DTSTART:20240816T185500
 DTEND:20240816T195500
@@ -170,6 +178,14 @@ DTEND:20240817T122500
 DTSTAMP:20240817T112500Z
 UID:2024-08-17T11:25:00/West Brom - Leeds
 DESCRIPTION:West Brom - Leeds - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBA - Leeds - EFL Championship - stod2vodasport
+DTSTART:20240817T112500
+DTEND:20240817T122500
+DTSTAMP:20240817T112500Z
+UID:2024-08-17T11:25:00/WBA - Leeds
+DESCRIPTION:WBA - Leeds - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - siminnsport
@@ -229,6 +245,14 @@ UID:2024-08-17T13:55:00/Sheffield United - QPR
 DESCRIPTION:Sheffield United - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sheffield United - QPR - EFL Championship - stod2vodasport
+DTSTART:20240817T135500
+DTEND:20240817T145500
+DTSTAMP:20240817T135500Z
+UID:2024-08-17T13:55:00/Sheffield United - QPR
+DESCRIPTION:Sheffield United - QPR - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:West Ham - Aston Villa - Enska úrvalsdeildin - siminnsport
 DTSTART:20240817T160000
 DTEND:20240817T170000
@@ -245,12 +269,29 @@ UID:2024-08-17T16:40:00/Rangers - St. Johnstone
 DESCRIPTION:Rangers - St. Johnstone - Premier Sports Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leverkusen - VfB Stuttgart - Bundesliga - stod2vodasport
+DTSTART:20240817T182000
+DTEND:20240817T192000
+DTSTAMP:20240817T182000Z
+UID:2024-08-17T18:20:00/Leverkusen - VfB Stuttgart
+DESCRIPTION:Leverkusen - VfB Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leverkusen - Stuttgart - DFL-Supercup - viaplay
 DTSTART:20240817T182500
 DTEND:20240817T192500
 DTSTAMP:20240817T182500Z
 UID:2024-08-17T18:25:00/Leverkusen - Stuttgart
 DESCRIPTION:Leverkusen - Stuttgart - DFL-Supercup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland - Sheffield Wednesday - EFL Championship - stod2vodaspo
+ rt
+DTSTART:20240818T105500
+DTEND:20240818T115500
+DTSTAMP:20240818T105500Z
+UID:2024-08-18T10:55:00/Sunderland - Sheffield Wednesday
+DESCRIPTION:Sunderland - Sheffield Wednesday - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Sheffield Wednesday - Championship - viaplay
@@ -269,6 +310,14 @@ UID:2024-08-18T12:30:00/Brentford - Crystal Palace
 DESCRIPTION:Brentford - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kristianstad - Vittsjö - OBOS Damallsvenskan - viaplay
+DTSTART:20240818T125000
+DTEND:20240818T135000
+DTSTAMP:20240818T125000Z
+UID:2024-08-18T12:50:00/Kristianstad - Vittsjö
+DESCRIPTION:Kristianstad - Vittsjö - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Växjö - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20240818T125000
 DTEND:20240818T135000
@@ -277,12 +326,12 @@ UID:2024-08-18T12:50:00/Växjö - Norrköping
 DESCRIPTION:Växjö - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kristianstad - Vittsjö - OBOS Damallsvenskan - viaplay
-DTSTART:20240818T125000
-DTEND:20240818T135000
-DTSTAMP:20240818T125000Z
-UID:2024-08-18T12:50:00/Kristianstad - Vittsjö
-DESCRIPTION:Kristianstad - Vittsjö - OBOS Damallsvenskan
+SUMMARY:Bolton - Wrexham - EFL League One - stod2vodasport
+DTSTART:20240818T135500
+DTEND:20240818T145500
+DTSTAMP:20240818T135500Z
+UID:2024-08-18T13:55:00/Bolton - Wrexham
+DESCRIPTION:Bolton - Wrexham - EFL League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celtic - Hibernian - Premier Sports Cup - viaplay
