@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - allt - ical
 BEGIN:VEVENT
+SUMMARY:US Amateur Open - US Amateur Open - stod2vodasport
+DTSTART:20240814T153000
+DTEND:20240814T163000
+DTSTAMP:20240814T153000Z
+UID:2024-08-14T15:30:00/US Amateur Open
+DESCRIPTION:US Amateur Open - US Amateur Open
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:U.S. Amateur - Golf - viaplay
 DTSTART:20240814T153000
 DTEND:20240814T163000
@@ -36,14 +44,6 @@ UID:2024-08-14T18:45:00/Real Madrid - Atalanta
 DESCRIPTION:Real Madrid - Atalanta - UEFA Super Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leeds - Middlesbrough - Carabao Cup - viaplay
-DTSTART:20240814T185500
-DTEND:20240814T195500
-DTSTAMP:20240814T185500Z
-UID:2024-08-14T18:55:00/Leeds - Middlesbrough
-DESCRIPTION:Leeds - Middlesbrough - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leeds - Middlesbrough - Carabao Cup - stod2vodasport
 DTSTART:20240814T185500
 DTEND:20240814T195500
@@ -52,12 +52,20 @@ UID:2024-08-14T18:55:00/Leeds - Middlesbrough
 DESCRIPTION:Leeds - Middlesbrough - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Amateur - US Open - stod2vodasport
+SUMMARY:Leeds - Middlesbrough - Carabao Cup - viaplay
+DTSTART:20240814T185500
+DTEND:20240814T195500
+DTSTAMP:20240814T185500Z
+UID:2024-08-14T18:55:00/Leeds - Middlesbrough
+DESCRIPTION:Leeds - Middlesbrough - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Amateur Open - US Amateur Open - stod2vodasport
 DTSTART:20240814T210000
 DTEND:20240814T220000
 DTSTAMP:20240814T210000Z
-UID:2024-08-14T21:00:00/U.S. Amateur
-DESCRIPTION:U.S. Amateur - US Open
+UID:2024-08-14T21:00:00/US Amateur Open
+DESCRIPTION:US Amateur Open - US Amateur Open
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D+D Real Czech Masters - DP World Tour - viaplay
@@ -76,30 +84,20 @@ UID:2024-08-15T13:00:00/Women's Scottish Open
 DESCRIPTION:Women's Scottish Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LPGA Tour - LPGA Tour - stod2vodasport
+SUMMARY:Scottish Open - LPGA Tour - stod2vodasport
 DTSTART:20240815T130000
 DTEND:20240815T140000
 DTSTAMP:20240815T130000Z
-UID:2024-08-15T13:00:00/LPGA Tour
-DESCRIPTION:LPGA Tour - LPGA Tour
+UID:2024-08-15T13:00:00/Scottish Open
+DESCRIPTION:Scottish Open - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Forkeppni Sambandsdeildarinnar - Forkeppni Sambandsdeildarinnar - 
- stod2sport
+SUMMARY:Flora - Víkingur R. - Forkeppni Sambandsdeildarinnar - stod2sport
 DTSTART:20240815T155000
 DTEND:20240815T165000
 DTSTAMP:20240815T155000Z
-UID:2024-08-15T15:50:00/Forkeppni Sambandsdeildarinnar
-DESCRIPTION:Forkeppni Sambandsdeildarinnar - Forkeppni Sambandsdeildarinna
- r
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Upphitun - Besta deild kvenna - stod2sport5
-DTSTART:20240815T170000
-DTEND:20240815T180000
-DTSTAMP:20240815T170000Z
-UID:2024-08-15T17:00:00/Bestu mörkin - Upphitun
-DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
+UID:2024-08-15T15:50:00/Flora - Víkingur R.
+DESCRIPTION:Flora - Víkingur R. - Forkeppni Sambandsdeildarinnar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mets - Athletics - MLB - stod2vodasport
@@ -108,6 +106,14 @@ DTEND:20240815T180000
 DTSTAMP:20240815T170000Z
 UID:2024-08-15T17:00:00/Mets - Athletics
 DESCRIPTION:Mets - Athletics - MLB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Upphitun - Besta deild kvenna - stod2sport5
+DTSTART:20240815T170000
+DTEND:20240815T180000
+DTSTAMP:20240815T170000Z
+UID:2024-08-15T17:00:00/Bestu mörkin - Upphitun
+DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór/KA - Stjarnan - Besta deild kvenna - stod2sport5
@@ -126,11 +132,19 @@ UID:2024-08-15T17:50:00/Keflavík - FH
 DESCRIPTION:Keflavík - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Breiðablik - Besta deild karla - stod2sport
+DTSTART:20240815T190000
+DTEND:20240815T200000
+DTSTAMP:20240815T190000Z
+UID:2024-08-15T19:00:00/Valur - Breiðablik
+DESCRIPTION:Valur - Breiðablik - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Víkingur R. - Tindastóll - Besta deild kvenna - stod2besta01
-DTSTART:20240815T175000
-DTEND:20240815T185000
-DTSTAMP:20240815T175000Z
-UID:2024-08-15T17:50:00/Víkingur R. - Tindastóll
+DTSTART:20240815T190500
+DTEND:20240815T200500
+DTSTAMP:20240815T190500Z
+UID:2024-08-15T19:05:00/Víkingur R. - Tindastóll
 DESCRIPTION:Víkingur R. - Tindastóll - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +156,12 @@ UID:2024-08-15T21:00:00/U.S. Amateur
 DESCRIPTION:U.S. Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Amateur - US Open - stod2vodasport
+SUMMARY:US Amateur Open - US Amateur Open - stod2vodasport
 DTSTART:20240815T210000
 DTEND:20240815T220000
 DTSTAMP:20240815T210000Z
-UID:2024-08-15T21:00:00/U.S. Amateur
-DESCRIPTION:U.S. Amateur - US Open
+UID:2024-08-15T21:00:00/US Amateur Open
+DESCRIPTION:US Amateur Open - US Amateur Open
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austurríski Kappaksturinn (Frjáls æfing) - Moto3 - viaplay
@@ -214,12 +228,12 @@ UID:2024-08-16T12:50:00/Austurríski Kappaksturinn (Æfing)
 DESCRIPTION:Austurríski Kappaksturinn (Æfing) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LPGA Tour - LPGA Tour - stod2vodasport
+SUMMARY:Scottish Open - LPGA Tour - stod2vodasport
 DTSTART:20240816T130000
 DTEND:20240816T140000
 DTSTAMP:20240816T130000Z
-UID:2024-08-16T13:00:00/LPGA Tour
-DESCRIPTION:LPGA Tour - LPGA Tour
+UID:2024-08-16T13:00:00/Scottish Open
+DESCRIPTION:Scottish Open - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Women's Scottish Open - Ladies European Tour - viaplay
@@ -286,12 +300,12 @@ UID:2024-08-16T21:00:00/U.S. Amateur
 DESCRIPTION:U.S. Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Amateur - US Open - stod2vodasport
+SUMMARY:US Amateur Open - US Amateur Open - stod2vodasport
 DTSTART:20240816T210000
 DTEND:20240816T220000
 DTSTAMP:20240816T210000Z
-UID:2024-08-16T21:00:00/U.S. Amateur
-DESCRIPTION:U.S. Amateur - US Open
+UID:2024-08-16T21:00:00/US Amateur Open
+DESCRIPTION:US Amateur Open - US Amateur Open
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bommarito Automotive Group 500 (Úrslit Æfing) - IndyCar - viapla
@@ -457,7 +471,7 @@ UID:2024-08-17T13:10:00/Nürburgring (Kappakstur 1)
 DESCRIPTION:Nürburgring (Kappakstur 1) - ADAC GT4 Germany
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - siminnsport
+SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - sjonvarpsimans
 DTSTART:20240817T133000
 DTEND:20240817T143000
 DTSTAMP:20240817T133000Z
@@ -465,7 +479,7 @@ UID:2024-08-17T13:30:00/Arsenal - Wolves
 DESCRIPTION:Arsenal - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - sjonvarpsimans
+SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - siminnsport
 DTSTART:20240817T133000
 DTEND:20240817T143000
 DTSTAMP:20240817T133000Z
@@ -482,20 +496,20 @@ UID:2024-08-17T13:50:00/Nottingham Forest - Bournemouth
 DESCRIPTION:Nottingham Forest - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Southampton - Enska úrvalsdeildin - siminnsport2
-DTSTART:20240817T135000
-DTEND:20240817T145000
-DTSTAMP:20240817T135000Z
-UID:2024-08-17T13:50:00/Newcastle - Southampton
-DESCRIPTION:Newcastle - Southampton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vestri - KR - Besta deild karla - stod2sport
 DTSTART:20240817T135000
 DTEND:20240817T145000
 DTSTAMP:20240817T135000Z
 UID:2024-08-17T13:50:00/Vestri - KR
 DESCRIPTION:Vestri - KR - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Southampton - Enska úrvalsdeildin - siminnsport2
+DTSTART:20240817T135000
+DTEND:20240817T145000
+DTSTAMP:20240817T135000Z
+UID:2024-08-17T13:50:00/Newcastle - Southampton
+DESCRIPTION:Newcastle - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Brighton - Enska úrvalsdeildin - siminnsport3
@@ -506,20 +520,20 @@ UID:2024-08-17T13:50:00/Everton - Brighton
 DESCRIPTION:Everton - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield United - QPR - EFL Championship - stod2vodasport
-DTSTART:20240817T135500
-DTEND:20240817T145500
-DTSTAMP:20240817T135500Z
-UID:2024-08-17T13:55:00/Sheffield United - QPR
-DESCRIPTION:Sheffield United - QPR - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sheffield United - QPR - Championship - viaplay
 DTSTART:20240817T135500
 DTEND:20240817T145500
 DTSTAMP:20240817T135500Z
 UID:2024-08-17T13:55:00/Sheffield United - QPR
 DESCRIPTION:Sheffield United - QPR - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - QPR - EFL Championship - stod2vodasport
+DTSTART:20240817T135500
+DTEND:20240817T145500
+DTSTAMP:20240817T135500Z
+UID:2024-08-17T13:55:00/Sheffield United - QPR
+DESCRIPTION:Sheffield United - QPR - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Aston Villa - Enska úrvalsdeildin - siminnsport
@@ -538,14 +552,6 @@ UID:2024-08-17T16:40:00/Rangers - St. Johnstone
 DESCRIPTION:Rangers - St. Johnstone - Premier Sports Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - VfB Stuttgart - Bundesliga - stod2vodasport
-DTSTART:20240817T182000
-DTEND:20240817T192000
-DTSTAMP:20240817T182000Z
-UID:2024-08-17T18:20:00/Leverkusen - VfB Stuttgart
-DESCRIPTION:Leverkusen - VfB Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leverkusen - Stuttgart - DFL-Supercup - viaplay
 DTSTART:20240817T182000
 DTEND:20240817T192000
@@ -554,12 +560,12 @@ UID:2024-08-17T18:20:00/Leverkusen - Stuttgart
 DESCRIPTION:Leverkusen - Stuttgart - DFL-Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Amateur - Golf - viaplay
-DTSTART:20240817T190000
-DTEND:20240817T200000
-DTSTAMP:20240817T190000Z
-UID:2024-08-17T19:00:00/U.S. Amateur
-DESCRIPTION:U.S. Amateur - Golf
+SUMMARY:Leverkusen - VfB Stuttgart - Bundesliga - stod2vodasport
+DTSTART:20240817T182000
+DTEND:20240817T192000
+DTSTAMP:20240817T182000Z
+UID:2024-08-17T18:20:00/Leverkusen - VfB Stuttgart
+DESCRIPTION:Leverkusen - VfB Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cabo Wabo 250 (Xfinity Series) - Nascar - viaplay
@@ -568,6 +574,14 @@ DTEND:20240817T200000
 DTSTAMP:20240817T190000Z
 UID:2024-08-17T19:00:00/Cabo Wabo 250 (Xfinity Series)
 DESCRIPTION:Cabo Wabo 250 (Xfinity Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Amateur - Golf - viaplay
+DTSTART:20240817T190000
+DTEND:20240817T200000
+DTSTAMP:20240817T190000Z
+UID:2024-08-17T19:00:00/U.S. Amateur
+DESCRIPTION:U.S. Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bommarito Automotive Group 500 (Kappakstur) - IndyCar - viaplay
@@ -644,6 +658,14 @@ UID:2024-08-18T10:00:00/Austurríski Kappaksturinn (Kappakstur)
 DESCRIPTION:Austurríski Kappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunderland - Sheffield Wednesday - Championship - viaplay
+DTSTART:20240818T105500
+DTEND:20240818T115500
+DTSTAMP:20240818T105500Z
+UID:2024-08-18T10:55:00/Sunderland - Sheffield Wednesday
+DESCRIPTION:Sunderland - Sheffield Wednesday - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sunderland - Sheffield Wednesday - EFL Championship - stod2vodaspo
  rt
 DTSTART:20240818T105500
@@ -651,14 +673,6 @@ DTEND:20240818T115500
 DTSTAMP:20240818T105500Z
 UID:2024-08-18T10:55:00/Sunderland - Sheffield Wednesday
 DESCRIPTION:Sunderland - Sheffield Wednesday - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunderland - Sheffield Wednesday - Championship - viaplay
-DTSTART:20240818T105500
-DTEND:20240818T115500
-DTSTAMP:20240818T105500Z
-UID:2024-08-18T10:55:00/Sunderland - Sheffield Wednesday
-DESCRIPTION:Sunderland - Sheffield Wednesday - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Women's Scottish Open - Ladies European Tour - viaplay
@@ -781,12 +795,12 @@ UID:2024-08-18T18:00:00/U.S. Amateur
 DESCRIPTION:U.S. Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Amateur - US Open - stod2vodasport
+SUMMARY:US Amateur Open - US Amateur Open - stod2vodasport
 DTSTART:20240818T185500
 DTEND:20240818T195500
 DTSTAMP:20240818T185500Z
-UID:2024-08-18T18:55:00/U.S. Amateur
-DESCRIPTION:U.S. Amateur - US Open
+UID:2024-08-18T18:55:00/US Amateur Open
+DESCRIPTION:US Amateur Open - US Amateur Open
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - Fylkir - Besta deild karla - stod2sport5
