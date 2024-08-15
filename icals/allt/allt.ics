@@ -34,20 +34,20 @@ UID:2024-08-15T15:50:00/Flora - Víkingur R.
 DESCRIPTION:Flora - Víkingur R. - Forkeppni Sambandsdeildarinnar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mets - Athletics - MLB - stod2vodasport
-DTSTART:20240815T170000
-DTEND:20240815T180000
-DTSTAMP:20240815T170000Z
-UID:2024-08-15T17:00:00/Mets - Athletics
-DESCRIPTION:Mets - Athletics - MLB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Upphitun - Besta deild kvenna - stod2sport5
 DTSTART:20240815T170000
 DTEND:20240815T180000
 DTSTAMP:20240815T170000Z
 UID:2024-08-15T17:00:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mets - Athletics - MLB - stod2vodasport
+DTSTART:20240815T170000
+DTEND:20240815T180000
+DTSTAMP:20240815T170000Z
+UID:2024-08-15T17:00:00/Mets - Athletics
+DESCRIPTION:Mets - Athletics - MLB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór/KA - Stjarnan - Besta deild kvenna - stod2sport5
@@ -82,20 +82,20 @@ UID:2024-08-15T19:05:00/Víkingur R. - Tindastóll
 DESCRIPTION:Víkingur R. - Tindastóll - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Amateur - Golf - viaplay
-DTSTART:20240815T210000
-DTEND:20240815T220000
-DTSTAMP:20240815T210000Z
-UID:2024-08-15T21:00:00/U.S. Amateur
-DESCRIPTION:U.S. Amateur - Golf
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:US Amateur Open - US Amateur Open - stod2vodasport
 DTSTART:20240815T210000
 DTEND:20240815T220000
 DTSTAMP:20240815T210000Z
 UID:2024-08-15T21:00:00/US Amateur Open
 DESCRIPTION:US Amateur Open - US Amateur Open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Amateur - Golf - viaplay
+DTSTART:20240815T210000
+DTEND:20240815T220000
+DTSTAMP:20240815T210000Z
+UID:2024-08-15T21:00:00/U.S. Amateur
+DESCRIPTION:U.S. Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austurríski Kappaksturinn (Frjáls æfing) - Moto3 - viaplay
@@ -162,20 +162,20 @@ UID:2024-08-16T12:50:00/Austurríski Kappaksturinn (Æfing)
 DESCRIPTION:Austurríski Kappaksturinn (Æfing) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scottish Open - LPGA Tour - stod2vodasport
-DTSTART:20240816T130000
-DTEND:20240816T140000
-DTSTAMP:20240816T130000Z
-UID:2024-08-16T13:00:00/Scottish Open
-DESCRIPTION:Scottish Open - LPGA Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Women's Scottish Open - Ladies European Tour - viaplay
 DTSTART:20240816T130000
 DTEND:20240816T140000
 DTSTAMP:20240816T130000Z
 UID:2024-08-16T13:00:00/Women's Scottish Open
 DESCRIPTION:Women's Scottish Open - Ladies European Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scottish Open - LPGA Tour - stod2vodasport
+DTSTART:20240816T130000
+DTEND:20240816T140000
+DTSTAMP:20240816T130000Z
+UID:2024-08-16T13:00:00/Scottish Open
+DESCRIPTION:Scottish Open - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bommarito Automotive Group 500 (Æfing) - IndyCar - viaplay
@@ -421,14 +421,6 @@ UID:2024-08-17T13:30:00/Arsenal - Wolves
 DESCRIPTION:Arsenal - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Southampton - Enska úrvalsdeildin - siminnsport2
-DTSTART:20240817T135000
-DTEND:20240817T145000
-DTSTAMP:20240817T135000Z
-UID:2024-08-17T13:50:00/Newcastle - Southampton
-DESCRIPTION:Newcastle - Southampton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Bournemouth - Enska úrvalsdeildin - siminnspo
  rt4
 DTSTART:20240817T135000
@@ -438,12 +430,12 @@ UID:2024-08-17T13:50:00/Nottingham Forest - Bournemouth
 DESCRIPTION:Nottingham Forest - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vestri - KR - Besta deild karla - stod2sport
+SUMMARY:Newcastle - Southampton - Enska úrvalsdeildin - siminnsport2
 DTSTART:20240817T135000
 DTEND:20240817T145000
 DTSTAMP:20240817T135000Z
-UID:2024-08-17T13:50:00/Vestri - KR
-DESCRIPTION:Vestri - KR - Besta deild karla
+UID:2024-08-17T13:50:00/Newcastle - Southampton
+DESCRIPTION:Newcastle - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Brighton - Enska úrvalsdeildin - siminnsport3
@@ -454,12 +446,12 @@ UID:2024-08-17T13:50:00/Everton - Brighton
 DESCRIPTION:Everton - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield United - QPR - EFL Championship - stod2vodasport
-DTSTART:20240817T135500
-DTEND:20240817T145500
-DTSTAMP:20240817T135500Z
-UID:2024-08-17T13:55:00/Sheffield United - QPR
-DESCRIPTION:Sheffield United - QPR - EFL Championship
+SUMMARY:Vestri - KR - Besta deild karla - stod2sport
+DTSTART:20240817T135000
+DTEND:20240817T145000
+DTSTAMP:20240817T135000Z
+UID:2024-08-17T13:50:00/Vestri - KR
+DESCRIPTION:Vestri - KR - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield United - QPR - Championship - viaplay
@@ -468,6 +460,14 @@ DTEND:20240817T145500
 DTSTAMP:20240817T135500Z
 UID:2024-08-17T13:55:00/Sheffield United - QPR
 DESCRIPTION:Sheffield United - QPR - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - QPR - EFL Championship - stod2vodasport
+DTSTART:20240817T135500
+DTEND:20240817T145500
+DTSTAMP:20240817T135500Z
+UID:2024-08-17T13:55:00/Sheffield United - QPR
+DESCRIPTION:Sheffield United - QPR - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Aston Villa - Enska úrvalsdeildin - siminnsport
@@ -486,14 +486,6 @@ UID:2024-08-17T16:40:00/Rangers - St. Johnstone
 DESCRIPTION:Rangers - St. Johnstone - Premier Sports Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Stuttgart - DFL-Supercup - viaplay
-DTSTART:20240817T182000
-DTEND:20240817T192000
-DTSTAMP:20240817T182000Z
-UID:2024-08-17T18:20:00/Leverkusen - Stuttgart
-DESCRIPTION:Leverkusen - Stuttgart - DFL-Supercup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leverkusen - VfB Stuttgart - Bundesliga - stod2vodasport
 DTSTART:20240817T182000
 DTEND:20240817T192000
@@ -502,12 +494,12 @@ UID:2024-08-17T18:20:00/Leverkusen - VfB Stuttgart
 DESCRIPTION:Leverkusen - VfB Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Amateur - Golf - viaplay
-DTSTART:20240817T190000
-DTEND:20240817T200000
-DTSTAMP:20240817T190000Z
-UID:2024-08-17T19:00:00/U.S. Amateur
-DESCRIPTION:U.S. Amateur - Golf
+SUMMARY:Leverkusen - Stuttgart - DFL-Supercup - viaplay
+DTSTART:20240817T182000
+DTEND:20240817T192000
+DTSTAMP:20240817T182000Z
+UID:2024-08-17T18:20:00/Leverkusen - Stuttgart
+DESCRIPTION:Leverkusen - Stuttgart - DFL-Supercup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cabo Wabo 250 (Xfinity Series) - Nascar - viaplay
@@ -516,6 +508,14 @@ DTEND:20240817T200000
 DTSTAMP:20240817T190000Z
 UID:2024-08-17T19:00:00/Cabo Wabo 250 (Xfinity Series)
 DESCRIPTION:Cabo Wabo 250 (Xfinity Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Amateur - Golf - viaplay
+DTSTART:20240817T190000
+DTEND:20240817T200000
+DTSTAMP:20240817T190000Z
+UID:2024-08-17T19:00:00/U.S. Amateur
+DESCRIPTION:U.S. Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bommarito Automotive Group 500 (Kappakstur) - IndyCar - viaplay
@@ -641,14 +641,6 @@ UID:2024-08-18T12:30:00/Brentford - Crystal Palace
 DESCRIPTION:Brentford - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Växjö - Norrköping - OBOS Damallsvenskan - viaplay
-DTSTART:20240818T125000
-DTEND:20240818T135000
-DTSTAMP:20240818T125000Z
-UID:2024-08-18T12:50:00/Växjö - Norrköping
-DESCRIPTION:Växjö - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kristianstad - Vittsjö - OBOS Damallsvenskan - viaplay
 DTSTART:20240818T125000
 DTEND:20240818T135000
@@ -657,12 +649,28 @@ UID:2024-08-18T12:50:00/Kristianstad - Vittsjö
 DESCRIPTION:Kristianstad - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Växjö - Norrköping - OBOS Damallsvenskan - viaplay
+DTSTART:20240818T125000
+DTEND:20240818T135000
+DTSTAMP:20240818T125000Z
+UID:2024-08-18T12:50:00/Växjö - Norrköping
+DESCRIPTION:Växjö - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nürburgring (Kappakstur 2) - ADAC GT4 Germany - viaplay
 DTSTART:20240818T131000
 DTEND:20240818T141000
 DTSTAMP:20240818T131000Z
 UID:2024-08-18T13:10:00/Nürburgring (Kappakstur 2)
 DESCRIPTION:Nürburgring (Kappakstur 2) - ADAC GT4 Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bolton - Wrexham - League One - viaplay
+DTSTART:20240818T135500
+DTEND:20240818T145500
+DTSTAMP:20240818T135500Z
+UID:2024-08-18T13:55:00/Bolton - Wrexham
+DESCRIPTION:Bolton - Wrexham - League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bolton - Wrexham - EFL League One - stod2vodasport
@@ -679,14 +687,6 @@ DTEND:20240818T145500
 DTSTAMP:20240818T135500Z
 UID:2024-08-18T13:55:00/Celtic - Hibernian
 DESCRIPTION:Celtic - Hibernian - Premier Sports Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bolton - Wrexham - League One - viaplay
-DTSTART:20240818T135500
-DTEND:20240818T145500
-DTSTAMP:20240818T135500Z
-UID:2024-08-18T13:55:00/Bolton - Wrexham
-DESCRIPTION:Bolton - Wrexham - League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Man. City - Enska úrvalsdeildin - siminnsport
@@ -777,14 +777,6 @@ UID:2024-08-19T14:00:00/US Open Pool Championship
 DESCRIPTION:US Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Djurgården - Brommapojkarna - OBOS Damallsvenskan - viaplay
-DTSTART:20240819T165000
-DTEND:20240819T175000
-DTSTAMP:20240819T165000Z
-UID:2024-08-19T16:50:00/Djurgården - Brommapojkarna
-DESCRIPTION:Djurgården - Brommapojkarna - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Djurgarden - Brommapojkarna - Sænska úrvalsdeildin - stod2vodasp
  ort
 DTSTART:20240819T165000
@@ -792,6 +784,14 @@ DTEND:20240819T175000
 DTSTAMP:20240819T165000Z
 UID:2024-08-19T16:50:00/Djurgarden - Brommapojkarna
 DESCRIPTION:Djurgarden - Brommapojkarna - Sænska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Djurgården - Brommapojkarna - OBOS Damallsvenskan - viaplay
+DTSTART:20240819T165000
+DTEND:20240819T175000
+DTSTAMP:20240819T165000Z
+UID:2024-08-19T16:50:00/Djurgården - Brommapojkarna
+DESCRIPTION:Djurgården - Brommapojkarna - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FH - Valur - Besta deild karla - stod2sport5
@@ -810,20 +810,20 @@ UID:2024-08-19T18:30:00/Leicester - Tottenham
 DESCRIPTION:Leicester - Tottenham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Fram - Besta deild karla - stod2besta01
-DTSTART:20240819T190000
-DTEND:20240819T200000
-DTSTAMP:20240819T190000Z
-UID:2024-08-19T19:00:00/Breiðablik - Fram
-DESCRIPTION:Breiðablik - Fram - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Víkingur R. - ÍA - Besta deild karla - stod2sport
 DTSTART:20240819T190000
 DTEND:20240819T200000
 DTSTAMP:20240819T190000Z
 UID:2024-08-19T19:00:00/Víkingur R. - ÍA
 DESCRIPTION:Víkingur R. - ÍA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Fram - Besta deild karla - stod2besta01
+DTSTART:20240819T190000
+DTEND:20240819T200000
+DTSTAMP:20240819T190000Z
+UID:2024-08-19T19:00:00/Breiðablik - Fram
+DESCRIPTION:Breiðablik - Fram - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stúkan - Besta deild karla - stod2sport
@@ -850,14 +850,6 @@ UID:2024-08-20T14:00:00/US Open Pool Championship
 DESCRIPTION:US Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen - viaplay
-DTSTART:20240820T162500
-DTEND:20240820T172500
-DTSTAMP:20240820T162500Z
-UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
-DESCRIPTION:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FSV Gütersloh - Union Berlin - Þýska bikarkeppni kvenna - stod2
  vodasport
 DTSTART:20240820T162500
@@ -865,6 +857,14 @@ DTEND:20240820T172500
 DTSTAMP:20240820T162500Z
 UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
 DESCRIPTION:FSV Gütersloh - Union Berlin - Þýska bikarkeppni kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen - viaplay
+DTSTART:20240820T162500
+DTEND:20240820T172500
+DTSTAMP:20240820T162500Z
+UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
+DESCRIPTION:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þróttur R. - Breiðablik - Besta deild kvenna - stod2sport
@@ -899,6 +899,14 @@ UID:2024-08-20T23:00:00/Yankees  - Gaurdians
 DESCRIPTION:Yankees  - Gaurdians - MLB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour - viaplay
+DTSTART:20240821T070000
+DTEND:20240821T080000
+DTSTAMP:20240821T070000Z
+UID:2024-08-21T07:00:00/Elite16 Hamburg
+DESCRIPTION:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:US Open Pool Championship - Pool - viaplay
 DTSTART:20240821T140000
 DTEND:20240821T150000
@@ -923,20 +931,20 @@ UID:2024-08-21T16:55:00/Hammarby - Häcken
 DESCRIPTION:Hammarby - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FC Midtjylland - Slovan Bratislava - Champions League - viaplay
+DTSTART:20240821T185000
+DTEND:20240821T195000
+DTSTAMP:20240821T185000Z
+UID:2024-08-21T18:50:00/FC Midtjylland - Slovan Bratislava
+DESCRIPTION:FC Midtjylland - Slovan Bratislava - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Malmö FF - Sparta Prag - Champions League - viaplay
 DTSTART:20240821T185500
 DTEND:20240821T195500
 DTSTAMP:20240821T185500Z
 UID:2024-08-21T18:55:00/Malmö FF - Sparta Prag
 DESCRIPTION:Malmö FF - Sparta Prag - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FC Midtjylland - Slovan Bratislava - Champions League - viaplay
-DTSTART:20240821T185500
-DTEND:20240821T195500
-DTSTAMP:20240821T185500Z
-UID:2024-08-21T18:55:00/FC Midtjylland - Slovan Bratislava
-DESCRIPTION:FC Midtjylland - Slovan Bratislava - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braves - Phillies - MLB - stod2vodasport
