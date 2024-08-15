@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Hull - Sheffield Wednesday - Carabao Cup - viaplay
-DTSTART:20240814T184000
-DTEND:20240814T194000
-DTSTAMP:20240814T184000Z
-UID:2024-08-14T18:40:00/Hull - Sheffield Wednesday
-DESCRIPTION:Hull - Sheffield Wednesday - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Madrid - Atalanta - UEFA Super Cup: Real Madrid - Atalanta - 
- stod2sport2
-DTSTART:20240814T184500
-DTEND:20240814T194500
-DTSTAMP:20240814T184500Z
-UID:2024-08-14T18:45:00/Real Madrid - Atalanta
-DESCRIPTION:Real Madrid - Atalanta - UEFA Super Cup: Real Madrid - Atalant
- a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Madrid - Atalanta - UEFA Super Cup - viaplay
-DTSTART:20240814T184500
-DTEND:20240814T194500
-DTSTAMP:20240814T184500Z
-UID:2024-08-14T18:45:00/Real Madrid - Atalanta
-DESCRIPTION:Real Madrid - Atalanta - UEFA Super Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leeds - Middlesbrough - Carabao Cup - stod2vodasport
-DTSTART:20240814T185500
-DTEND:20240814T195500
-DTSTAMP:20240814T185500Z
-UID:2024-08-14T18:55:00/Leeds - Middlesbrough
-DESCRIPTION:Leeds - Middlesbrough - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leeds - Middlesbrough - Carabao Cup - viaplay
-DTSTART:20240814T185500
-DTEND:20240814T195500
-DTSTAMP:20240814T185500Z
-UID:2024-08-14T18:55:00/Leeds - Middlesbrough
-DESCRIPTION:Leeds - Middlesbrough - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flora - Víkingur R. - Forkeppni Sambandsdeildarinnar - stod2sport
 DTSTART:20240815T155000
 DTEND:20240815T165000
@@ -140,20 +98,20 @@ UID:2024-08-17T11:00:00/Ipswich - Liverpool
 DESCRIPTION:Ipswich - Liverpool - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Brom - Leeds - Championship - viaplay
-DTSTART:20240817T112500
-DTEND:20240817T122500
-DTSTAMP:20240817T112500Z
-UID:2024-08-17T11:25:00/West Brom - Leeds
-DESCRIPTION:West Brom - Leeds - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WBA - Leeds - EFL Championship - stod2vodasport
 DTSTART:20240817T112500
 DTEND:20240817T122500
 DTSTAMP:20240817T112500Z
 UID:2024-08-17T11:25:00/WBA - Leeds
 DESCRIPTION:WBA - Leeds - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Brom - Leeds - Championship - viaplay
+DTSTART:20240817T112500
+DTEND:20240817T122500
+DTSTAMP:20240817T112500Z
+UID:2024-08-17T11:25:00/West Brom - Leeds
+DESCRIPTION:West Brom - Leeds - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - sjonvarpsimans
@@ -170,6 +128,14 @@ DTEND:20240817T143000
 DTSTAMP:20240817T133000Z
 UID:2024-08-17T13:30:00/Arsenal - Wolves
 DESCRIPTION:Arsenal - Wolves - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Southampton - Enska úrvalsdeildin - siminnsport2
+DTSTART:20240817T135000
+DTEND:20240817T145000
+DTSTAMP:20240817T135000Z
+UID:2024-08-17T13:50:00/Newcastle - Southampton
+DESCRIPTION:Newcastle - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Bournemouth - Enska úrvalsdeildin - siminnspo
@@ -189,14 +155,6 @@ UID:2024-08-17T13:50:00/Vestri - KR
 DESCRIPTION:Vestri - KR - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Southampton - Enska úrvalsdeildin - siminnsport2
-DTSTART:20240817T135000
-DTEND:20240817T145000
-DTSTAMP:20240817T135000Z
-UID:2024-08-17T13:50:00/Newcastle - Southampton
-DESCRIPTION:Newcastle - Southampton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Everton - Brighton - Enska úrvalsdeildin - siminnsport3
 DTSTART:20240817T135000
 DTEND:20240817T145000
@@ -205,20 +163,20 @@ UID:2024-08-17T13:50:00/Everton - Brighton
 DESCRIPTION:Everton - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield United - QPR - Championship - viaplay
-DTSTART:20240817T135500
-DTEND:20240817T145500
-DTSTAMP:20240817T135500Z
-UID:2024-08-17T13:55:00/Sheffield United - QPR
-DESCRIPTION:Sheffield United - QPR - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sheffield United - QPR - EFL Championship - stod2vodasport
 DTSTART:20240817T135500
 DTEND:20240817T145500
 DTSTAMP:20240817T135500Z
 UID:2024-08-17T13:55:00/Sheffield United - QPR
 DESCRIPTION:Sheffield United - QPR - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - QPR - Championship - viaplay
+DTSTART:20240817T135500
+DTEND:20240817T145500
+DTSTAMP:20240817T135500Z
+UID:2024-08-17T13:55:00/Sheffield United - QPR
+DESCRIPTION:Sheffield United - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Aston Villa - Enska úrvalsdeildin - siminnsport
@@ -302,20 +260,20 @@ UID:2024-08-18T13:55:00/Bolton - Wrexham
 DESCRIPTION:Bolton - Wrexham - EFL League One
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bolton - Wrexham - League One - viaplay
-DTSTART:20240818T135500
-DTEND:20240818T145500
-DTSTAMP:20240818T135500Z
-UID:2024-08-18T13:55:00/Bolton - Wrexham
-DESCRIPTION:Bolton - Wrexham - League One
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Celtic - Hibernian - Premier Sports Cup - viaplay
 DTSTART:20240818T135500
 DTEND:20240818T145500
 DTSTAMP:20240818T135500Z
 UID:2024-08-18T13:55:00/Celtic - Hibernian
 DESCRIPTION:Celtic - Hibernian - Premier Sports Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bolton - Wrexham - League One - viaplay
+DTSTART:20240818T135500
+DTEND:20240818T145500
+DTSTAMP:20240818T135500Z
+UID:2024-08-18T13:55:00/Bolton - Wrexham
+DESCRIPTION:Bolton - Wrexham - League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Man. City - Enska úrvalsdeildin - siminnsport
@@ -350,6 +308,14 @@ UID:2024-08-18T21:20:00/Ísey Tilþrifin
 DESCRIPTION:Ísey Tilþrifin - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Djurgården - Brommapojkarna - OBOS Damallsvenskan - viaplay
+DTSTART:20240819T165000
+DTEND:20240819T175000
+DTSTAMP:20240819T165000Z
+UID:2024-08-19T16:50:00/Djurgården - Brommapojkarna
+DESCRIPTION:Djurgården - Brommapojkarna - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Djurgarden - Brommapojkarna - Sænska úrvalsdeildin - stod2vodasp
  ort
 DTSTART:20240819T165000
@@ -357,14 +323,6 @@ DTEND:20240819T175000
 DTSTAMP:20240819T165000Z
 UID:2024-08-19T16:50:00/Djurgarden - Brommapojkarna
 DESCRIPTION:Djurgarden - Brommapojkarna - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Djurgården - Brommapojkarna - OBOS Damallsvenskan - viaplay
-DTSTART:20240819T165000
-DTEND:20240819T175000
-DTSTAMP:20240819T165000Z
-UID:2024-08-19T16:50:00/Djurgården - Brommapojkarna
-DESCRIPTION:Djurgården - Brommapojkarna - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FH - Valur - Besta deild karla - stod2sport5
@@ -407,15 +365,6 @@ UID:2024-08-19T21:20:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FSV Gütersloh - Union Berlin - Þýska bikarkeppni kvenna - stod2
- vodasport
-DTSTART:20240820T162500
-DTEND:20240820T172500
-DTSTAMP:20240820T162500Z
-UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
-DESCRIPTION:FSV Gütersloh - Union Berlin - Þýska bikarkeppni kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen - viaplay
 DTSTART:20240820T162500
 DTEND:20240820T172500
@@ -424,12 +373,13 @@ UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
 DESCRIPTION:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Fylkir - Besta deild kvenna - stod2sport5
-DTSTART:20240820T175000
-DTEND:20240820T185000
-DTSTAMP:20240820T175000Z
-UID:2024-08-20T17:50:00/Valur - Fylkir
-DESCRIPTION:Valur - Fylkir - Besta deild kvenna
+SUMMARY:FSV Gütersloh - Union Berlin - Þýska bikarkeppni kvenna - stod2
+ vodasport
+DTSTART:20240820T162500
+DTEND:20240820T172500
+DTSTAMP:20240820T162500Z
+UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
+DESCRIPTION:FSV Gütersloh - Union Berlin - Þýska bikarkeppni kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þróttur R. - Breiðablik - Besta deild kvenna - stod2sport
@@ -440,11 +390,51 @@ UID:2024-08-20T17:50:00/Þróttur R. - Breiðablik
 DESCRIPTION:Þróttur R. - Breiðablik - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Fylkir - Besta deild kvenna - stod2sport5
+DTSTART:20240820T175000
+DTEND:20240820T185000
+DTSTAMP:20240820T175000Z
+UID:2024-08-20T17:50:00/Valur - Fylkir
+DESCRIPTION:Valur - Fylkir - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
 DTSTART:20240820T200000
 DTEND:20240820T210000
 DTSTAMP:20240820T200000Z
 UID:2024-08-20T20:00:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hammarby - Häcken - Sænska úrvalsdeildin - stod2vodasport
+DTSTART:20240821T165500
+DTEND:20240821T175500
+DTSTAMP:20240821T165500Z
+UID:2024-08-21T16:55:00/Hammarby - Häcken
+DESCRIPTION:Hammarby - Häcken - Sænska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hammarby - Häcken - OBOS Damallsvenskan - viaplay
+DTSTART:20240821T165500
+DTEND:20240821T175500
+DTSTAMP:20240821T165500Z
+UID:2024-08-21T16:55:00/Hammarby - Häcken
+DESCRIPTION:Hammarby - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malmö FF - Sparta Prag - Champions League - viaplay
+DTSTART:20240821T185500
+DTEND:20240821T195500
+DTSTAMP:20240821T185500Z
+UID:2024-08-21T18:55:00/Malmö FF - Sparta Prag
+DESCRIPTION:Malmö FF - Sparta Prag - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Midtjylland - Slovan Bratislava - Champions League - viaplay
+DTSTART:20240821T185500
+DTEND:20240821T195500
+DTSTAMP:20240821T185500Z
+UID:2024-08-21T18:55:00/FC Midtjylland - Slovan Bratislava
+DESCRIPTION:FC Midtjylland - Slovan Bratislava - Champions League
 END:VEVENT
 END:VCALENDAR
