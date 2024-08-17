@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
-SUMMARY:Coventry - Oxford - Championship - viaplay
-DTSTART:20240816T185500
-DTEND:20240816T195500
-DTSTAMP:20240816T185500Z
-UID:2024-08-16T18:55:00/Coventry - Oxford
-DESCRIPTION:Coventry - Oxford - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Brom - Leeds - Championship - viaplay
 DTSTART:20240817T112500
 DTEND:20240817T122500
@@ -32,5 +24,13 @@ DTEND:20240818T115500
 DTSTAMP:20240818T105500Z
 UID:2024-08-18T10:55:00/Sunderland - Sheffield Wednesday
 DESCRIPTION:Sunderland - Sheffield Wednesday - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield Wednesday - Leeds - Championship - viaplay
+DTSTART:20240823T185500
+DTEND:20240823T195500
+DTSTAMP:20240823T185500Z
+UID:2024-08-23T18:55:00/Sheffield Wednesday - Leeds
+DESCRIPTION:Sheffield Wednesday - Leeds - Championship
 END:VEVENT
 END:VCALENDAR
