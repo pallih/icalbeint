@@ -176,20 +176,20 @@ UID:2024-08-18T10:00:00/Austurríski Kappaksturinn (Kappakstur)
 DESCRIPTION:Austurríski Kappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austurríski Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20240818T111500
-DTEND:20240818T121500
-DTSTAMP:20240818T111500Z
-UID:2024-08-18T11:15:00/Austurríski Kappaksturinn (Kappakstur)
-DESCRIPTION:Austurríski Kappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürburgring (Kappakstur 2) - DTM - viaplay
 DTSTART:20240818T111500
 DTEND:20240818T121500
 DTSTAMP:20240818T111500Z
 UID:2024-08-18T11:15:00/Nürburgring (Kappakstur 2)
 DESCRIPTION:Nürburgring (Kappakstur 2) - DTM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríski Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20240818T111500
+DTEND:20240818T121500
+DTSTAMP:20240818T111500Z
+UID:2024-08-18T11:15:00/Austurríski Kappaksturinn (Kappakstur)
+DESCRIPTION:Austurríski Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürburgring (Kappakstur 2) - ADAC GT4 Germany - viaplay
@@ -240,22 +240,6 @@ UID:2024-08-23T10:30:00/Pitlane (Æfing 1 | Hollenski kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T103000
-DTEND:20240823T113000
-DTSTAMP:20240823T103000Z
-UID:2024-08-23T10:30:00/Timing (Æfing 1 | Hollenski kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T103000
-DTEND:20240823T113000
-DTSTAMP:20240823T103000Z
-UID:2024-08-23T10:30:00/Onboard (Æfing 1 | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formula 1
   - viaplay
 DTSTART:20240823T103000
@@ -267,12 +251,20 @@ DESCRIPTION:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hollenski kappaksturinn (Æfing 2) - Formula 1 - viaplay
-DTSTART:20240823T135500
-DTEND:20240823T145500
-DTSTAMP:20240823T135500Z
-UID:2024-08-23T13:55:00/Hollenski kappaksturinn (Æfing 2)
-DESCRIPTION:Hollenski kappaksturinn (Æfing 2) - Formula 1
+SUMMARY:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240823T103000
+DTEND:20240823T113000
+DTSTAMP:20240823T103000Z
+UID:2024-08-23T10:30:00/Onboard (Æfing 1 | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240823T103000
+DTEND:20240823T113000
+DTSTAMP:20240823T103000Z
+UID:2024-08-23T10:30:00/Timing (Æfing 1 | Hollenski kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1 - Holland: Æfing 2 - Formúla 1 - stod2vodasport
@@ -281,6 +273,25 @@ DTEND:20240823T145500
 DTSTAMP:20240823T135500Z
 UID:2024-08-23T13:55:00/F1 - Holland: Æfing 2
 DESCRIPTION:F1 - Holland: Æfing 2 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hollenski kappaksturinn (Æfing 2) - Formula 1 - viaplay
+DTSTART:20240823T135500
+DTEND:20240823T145500
+DTSTAMP:20240823T135500Z
+UID:2024-08-23T13:55:00/Hollenski kappaksturinn (Æfing 2)
+DESCRIPTION:Hollenski kappaksturinn (Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 2 | Hollenski kappaksturinn) - Formula 1
+  - viaplay
+DTSTART:20240823T140000
+DTEND:20240823T150000
+DTSTAMP:20240823T140000Z
+UID:2024-08-23T14:00:00/Track Positioning (Æfing 2 | Hollenski kappakstur
+ inn)
+DESCRIPTION:Track Positioning (Æfing 2 | Hollenski kappaksturinn) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
@@ -305,17 +316,6 @@ DTEND:20240823T150000
 DTSTAMP:20240823T140000Z
 UID:2024-08-23T14:00:00/Onboard (Æfing 2 | Hollenski kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 2 | Hollenski kappaksturinn) - Formula 1
-  - viaplay
-DTSTART:20240823T140000
-DTEND:20240823T150000
-DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/Track Positioning (Æfing 2 | Hollenski kappakstur
- inn)
-DESCRIPTION:Track Positioning (Æfing 2 | Hollenski kappaksturinn) - Formu
- la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Æfing 2) - F1 Academy - viaplay
