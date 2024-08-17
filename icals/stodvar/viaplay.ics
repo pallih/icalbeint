@@ -165,20 +165,20 @@ UID:2024-08-17T18:20:00/Leverkusen - Stuttgart
 DESCRIPTION:Leverkusen - Stuttgart - DFL-Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cabo Wabo 250 (Xfinity Series) - Nascar - viaplay
-DTSTART:20240817T190000
-DTEND:20240817T200000
-DTSTAMP:20240817T190000Z
-UID:2024-08-17T19:00:00/Cabo Wabo 250 (Xfinity Series)
-DESCRIPTION:Cabo Wabo 250 (Xfinity Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:U.S. Amateur - Golf - viaplay
 DTSTART:20240817T190000
 DTEND:20240817T200000
 DTSTAMP:20240817T190000Z
 UID:2024-08-17T19:00:00/U.S. Amateur
 DESCRIPTION:U.S. Amateur - Golf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cabo Wabo 250 (Xfinity Series) - Nascar - viaplay
+DTSTART:20240817T190000
+DTEND:20240817T200000
+DTSTAMP:20240817T190000Z
+UID:2024-08-17T19:00:00/Cabo Wabo 250 (Xfinity Series)
+DESCRIPTION:Cabo Wabo 250 (Xfinity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bommarito Automotive Group 500 (Kappakstur) - IndyCar - viaplay
@@ -328,20 +328,20 @@ UID:2024-08-18T13:55:00/Bolton - Wrexham
 DESCRIPTION:Bolton - Wrexham - League One
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U.S. Amateur - Golf - viaplay
-DTSTART:20240818T180000
-DTEND:20240818T190000
-DTSTAMP:20240818T180000Z
-UID:2024-08-18T18:00:00/U.S. Amateur
-DESCRIPTION:U.S. Amateur - Golf
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FireKeepers Casino 400 (Cup Series) - Nascar - viaplay
 DTSTART:20240818T180000
 DTEND:20240818T190000
 DTSTAMP:20240818T180000Z
 UID:2024-08-18T18:00:00/FireKeepers Casino 400 (Cup Series)
 DESCRIPTION:FireKeepers Casino 400 (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Amateur - Golf - viaplay
+DTSTART:20240818T180000
+DTEND:20240818T190000
+DTSTAMP:20240818T180000Z
+UID:2024-08-18T18:00:00/U.S. Amateur
+DESCRIPTION:U.S. Amateur - Golf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:US Open Pool Championship - Pool - viaplay
@@ -456,20 +456,20 @@ UID:2024-08-22T12:00:00/Elite16 Hamburg
 DESCRIPTION:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:US Open Pool Championship - Pool - viaplay
-DTSTART:20240822T140000
-DTEND:20240822T150000
-DTSTAMP:20240822T140000Z
-UID:2024-08-22T14:00:00/US Open Pool Championship
-DESCRIPTION:US Open Pool Championship - Pool
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sussex Stakes - Crown Jewels Racing - viaplay
 DTSTART:20240822T140000
 DTEND:20240822T150000
 DTSTAMP:20240822T140000Z
 UID:2024-08-22T14:00:00/Sussex Stakes
 DESCRIPTION:Sussex Stakes - Crown Jewels Racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Open Pool Championship - Pool - viaplay
+DTSTART:20240822T140000
+DTEND:20240822T150000
+DTSTAMP:20240822T140000Z
+UID:2024-08-22T14:00:00/US Open Pool Championship
+DESCRIPTION:US Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notts County - Grimsby - League Two - viaplay
@@ -504,12 +504,28 @@ UID:2024-08-23T10:25:00/Hollenski kappaksturinn (Æfing 1)
 DESCRIPTION:Hollenski kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240823T103000
+DTEND:20240823T113000
+DTSTAMP:20240823T103000Z
+UID:2024-08-23T10:30:00/Onboard (Æfing 1 | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T103000
 DTEND:20240823T113000
 DTSTAMP:20240823T103000Z
 UID:2024-08-23T10:30:00/Pitlane (Æfing 1 | Hollenski kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240823T103000
+DTEND:20240823T113000
+DTSTAMP:20240823T103000Z
+UID:2024-08-23T10:30:00/Timing (Æfing 1 | Hollenski kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formula 1
@@ -521,22 +537,6 @@ UID:2024-08-23T10:30:00/Track Positioning (Æfing 1 | Hollenski kappakstur
  inn)
 DESCRIPTION:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formu
  la 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T103000
-DTEND:20240823T113000
-DTSTAMP:20240823T103000Z
-UID:2024-08-23T10:30:00/Onboard (Æfing 1 | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T103000
-DTEND:20240823T113000
-DTSTAMP:20240823T103000Z
-UID:2024-08-23T10:30:00/Timing (Æfing 1 | Hollenski kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danish Golf Championship - DP World Tour - viaplay
@@ -563,6 +563,22 @@ UID:2024-08-23T13:55:00/Hollenski kappaksturinn (Æfing 2)
 DESCRIPTION:Hollenski kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:US Open Pool Championship - Pool - viaplay
+DTSTART:20240823T140000
+DTEND:20240823T150000
+DTSTAMP:20240823T140000Z
+UID:2024-08-23T14:00:00/US Open Pool Championship
+DESCRIPTION:US Open Pool Championship - Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240823T140000
+DTEND:20240823T150000
+DTSTAMP:20240823T140000Z
+UID:2024-08-23T14:00:00/Pitlane (Æfing 2 | Hollenski kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Hollenski kappaksturinn) - Formula 1
   - viaplay
 DTSTART:20240823T140000
@@ -574,12 +590,12 @@ DESCRIPTION:Track Positioning (Æfing 2 | Hollenski kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T140000
 DTEND:20240823T150000
 DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/Pitlane (Æfing 2 | Hollenski kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1
+UID:2024-08-23T14:00:00/Onboard (Æfing 2 | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
@@ -588,22 +604,6 @@ DTEND:20240823T150000
 DTSTAMP:20240823T140000Z
 UID:2024-08-23T14:00:00/Timing (Æfing 2 | Hollenski kappaksturinn)
 DESCRIPTION:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:US Open Pool Championship - Pool - viaplay
-DTSTART:20240823T140000
-DTEND:20240823T150000
-DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/US Open Pool Championship
-DESCRIPTION:US Open Pool Championship - Pool
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T140000
-DTEND:20240823T150000
-DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/Onboard (Æfing 2 | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Æfing 2) - F1 Academy - viaplay

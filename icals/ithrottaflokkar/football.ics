@@ -18,14 +18,6 @@ UID:2024-08-17T11:00:00/Ipswich - Liverpool
 DESCRIPTION:Ipswich - Liverpool - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WBA - Leeds - EFL Championship - stod2vodasport
-DTSTART:20240817T112500
-DTEND:20240817T122500
-DTSTAMP:20240817T112500Z
-UID:2024-08-17T11:25:00/WBA - Leeds
-DESCRIPTION:WBA - Leeds - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Brom - Leeds - Championship - viaplay
 DTSTART:20240817T112500
 DTEND:20240817T122500
@@ -34,7 +26,15 @@ UID:2024-08-17T11:25:00/West Brom - Leeds
 DESCRIPTION:West Brom - Leeds - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - siminnsport
+SUMMARY:WBA - Leeds - EFL Championship - stod2vodasport
+DTSTART:20240817T112500
+DTEND:20240817T122500
+DTSTAMP:20240817T112500Z
+UID:2024-08-17T11:25:00/WBA - Leeds
+DESCRIPTION:WBA - Leeds - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - sjonvarpsimans
 DTSTART:20240817T133000
 DTEND:20240817T143000
 DTSTAMP:20240817T133000Z
@@ -42,7 +42,7 @@ UID:2024-08-17T13:30:00/Arsenal - Wolves
 DESCRIPTION:Arsenal - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - sjonvarpsimans
+SUMMARY:Arsenal - Wolves - Enska úrvalsdeildin - siminnsport
 DTSTART:20240817T133000
 DTEND:20240817T143000
 DTSTAMP:20240817T133000Z
@@ -66,14 +66,6 @@ UID:2024-08-17T13:50:00/Newcastle - Southampton
 DESCRIPTION:Newcastle - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Brighton - Enska úrvalsdeildin - siminnsport3
-DTSTART:20240817T135000
-DTEND:20240817T145000
-DTSTAMP:20240817T135000Z
-UID:2024-08-17T13:50:00/Everton - Brighton
-DESCRIPTION:Everton - Brighton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Bournemouth - Enska úrvalsdeildin - siminnspo
  rt4
 DTSTART:20240817T135000
@@ -81,6 +73,14 @@ DTEND:20240817T145000
 DTSTAMP:20240817T135000Z
 UID:2024-08-17T13:50:00/Nottingham Forest - Bournemouth
 DESCRIPTION:Nottingham Forest - Bournemouth - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Brighton - Enska úrvalsdeildin - siminnsport3
+DTSTART:20240817T135000
+DTEND:20240817T145000
+DTSTAMP:20240817T135000Z
+UID:2024-08-17T13:50:00/Everton - Brighton
+DESCRIPTION:Everton - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield United - QPR - Championship - viaplay
@@ -131,6 +131,14 @@ UID:2024-08-17T18:20:00/Leverkusen - Stuttgart
 DESCRIPTION:Leverkusen - Stuttgart - DFL-Supercup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunderland - Sheffield Wednesday - Championship - viaplay
+DTSTART:20240818T105500
+DTEND:20240818T115500
+DTSTAMP:20240818T105500Z
+UID:2024-08-18T10:55:00/Sunderland - Sheffield Wednesday
+DESCRIPTION:Sunderland - Sheffield Wednesday - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sunderland - Sheffield Wednesday - EFL Championship - stod2vodaspo
  rt
 DTSTART:20240818T105500
@@ -138,14 +146,6 @@ DTEND:20240818T115500
 DTSTAMP:20240818T105500Z
 UID:2024-08-18T10:55:00/Sunderland - Sheffield Wednesday
 DESCRIPTION:Sunderland - Sheffield Wednesday - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunderland - Sheffield Wednesday - Championship - viaplay
-DTSTART:20240818T105500
-DTEND:20240818T115500
-DTSTAMP:20240818T105500Z
-UID:2024-08-18T10:55:00/Sunderland - Sheffield Wednesday
-DESCRIPTION:Sunderland - Sheffield Wednesday - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brentford - Crystal Palace - Enska úrvalsdeildin - siminnsport
@@ -228,6 +228,14 @@ UID:2024-08-18T21:20:00/Ísey Tilþrifin
 DESCRIPTION:Ísey Tilþrifin - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Djurgården - Brommapojkarna - OBOS Damallsvenskan - viaplay
+DTSTART:20240819T165000
+DTEND:20240819T175000
+DTSTAMP:20240819T165000Z
+UID:2024-08-19T16:50:00/Djurgården - Brommapojkarna
+DESCRIPTION:Djurgården - Brommapojkarna - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Djurgarden - Brommapojkarna - Sænska úrvalsdeildin - stod2vodasp
  ort
 DTSTART:20240819T165000
@@ -235,14 +243,6 @@ DTEND:20240819T175000
 DTSTAMP:20240819T165000Z
 UID:2024-08-19T16:50:00/Djurgarden - Brommapojkarna
 DESCRIPTION:Djurgarden - Brommapojkarna - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Djurgården - Brommapojkarna - OBOS Damallsvenskan - viaplay
-DTSTART:20240819T165000
-DTEND:20240819T175000
-DTSTAMP:20240819T165000Z
-UID:2024-08-19T16:50:00/Djurgården - Brommapojkarna
-DESCRIPTION:Djurgården - Brommapojkarna - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FH - Valur - Besta deild karla - stod2sport5
@@ -441,20 +441,20 @@ UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen
 DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield Wednesday - Leeds - Championship - viaplay
-DTSTART:20240823T185500
-DTEND:20240823T195500
-DTSTAMP:20240823T185500Z
-UID:2024-08-23T18:55:00/Sheffield Wednesday - Leeds
-DESCRIPTION:Sheffield Wednesday - Leeds - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sheffield United - Leeds - EFL Championship - stod2vodasport
 DTSTART:20240823T185500
 DTEND:20240823T195500
 DTSTAMP:20240823T185500Z
 UID:2024-08-23T18:55:00/Sheffield United - Leeds
 DESCRIPTION:Sheffield United - Leeds - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield Wednesday - Leeds - Championship - viaplay
+DTSTART:20240823T185500
+DTEND:20240823T195500
+DTSTAMP:20240823T185500Z
+UID:2024-08-23T18:55:00/Sheffield Wednesday - Leeds
+DESCRIPTION:Sheffield Wednesday - Leeds - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KA - Víkingur - Bikarúrslit karla í fótbolta - ruv2
