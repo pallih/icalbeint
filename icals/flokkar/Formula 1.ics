@@ -10,14 +10,6 @@ UID:2024-08-23T10:25:00/Hollenski kappaksturinn (Æfing 1)
 DESCRIPTION:Hollenski kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T103000
-DTEND:20240823T113000
-DTSTAMP:20240823T103000Z
-UID:2024-08-23T10:30:00/Onboard (Æfing 1 | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T103000
 DTEND:20240823T113000
@@ -26,12 +18,12 @@ UID:2024-08-23T10:30:00/Timing (Æfing 1 | Hollenski kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T103000
 DTEND:20240823T113000
 DTSTAMP:20240823T103000Z
-UID:2024-08-23T10:30:00/Pitlane (Æfing 1 | Hollenski kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1
+UID:2024-08-23T10:30:00/Onboard (Æfing 1 | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formula 1
@@ -45,20 +37,20 @@ DESCRIPTION:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240823T103000
+DTEND:20240823T113000
+DTSTAMP:20240823T103000Z
+UID:2024-08-23T10:30:00/Pitlane (Æfing 1 | Hollenski kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Æfing 2) - Formula 1 - viaplay
 DTSTART:20240823T135500
 DTEND:20240823T145500
 DTSTAMP:20240823T135500Z
 UID:2024-08-23T13:55:00/Hollenski kappaksturinn (Æfing 2)
 DESCRIPTION:Hollenski kappaksturinn (Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T140000
-DTEND:20240823T150000
-DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/Pitlane (Æfing 2 | Hollenski kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
@@ -88,6 +80,14 @@ DESCRIPTION:Track Positioning (Æfing 2 | Hollenski kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240823T140000
+DTEND:20240823T150000
+DTSTAMP:20240823T140000Z
+UID:2024-08-23T14:00:00/Pitlane (Æfing 2 | Hollenski kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Æfing 3) - Formula 1 - viaplay
 DTSTART:20240824T092500
 DTEND:20240824T102500
@@ -96,20 +96,12 @@ UID:2024-08-24T09:25:00/Hollenski kappaksturinn (Æfing 3)
 DESCRIPTION:Hollenski kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Hollenski kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing - Formula 1 - viaplay
 DTSTART:20240824T093000
 DTEND:20240824T103000
 DTSTAMP:20240824T093000Z
-UID:2024-08-24T09:30:00/Onboard (Æfing 3 | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240824T093000
-DTEND:20240824T103000
-DTSTAMP:20240824T093000Z
-UID:2024-08-24T09:30:00/Pitlane (Æfing 3 | Hollenski kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Hollenski kappaksturinn) - Formula 1
+UID:2024-08-24T09:30:00/Timing
+DESCRIPTION:Timing - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Hollenski kappaksturinn) - Formula 1
@@ -123,12 +115,20 @@ DESCRIPTION:Track Positioning (Æfing 3 | Hollenski kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 3 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240824T093000
 DTEND:20240824T103000
 DTSTAMP:20240824T093000Z
-UID:2024-08-24T09:30:00/Timing
-DESCRIPTION:Timing - Formula 1
+UID:2024-08-24T09:30:00/Pitlane (Æfing 3 | Hollenski kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240824T093000
+DTEND:20240824T103000
+DTSTAMP:20240824T093000Z
+UID:2024-08-24T09:30:00/Onboard (Æfing 3 | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Tímatökur) - Formula 1 - viaplay
@@ -137,24 +137,6 @@ DTEND:20240824T134500
 DTSTAMP:20240824T124500Z
 UID:2024-08-24T12:45:00/Hollenski kappaksturinn (Tímatökur)
 DESCRIPTION:Hollenski kappaksturinn (Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Hollenski kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20240824T130000
-DTEND:20240824T140000
-DTSTAMP:20240824T130000Z
-UID:2024-08-24T13:00:00/Pitlane (Tímatökur | Hollenski kappaksturinn)
-DESCRIPTION:Pitlane (Tímatökur | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Hollenski kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20240824T130000
-DTEND:20240824T140000
-DTSTAMP:20240824T130000Z
-UID:2024-08-24T13:00:00/Onboard (Tímatökur | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Tímatökur | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Hollenski kappaksturinn) - Formul
@@ -175,5 +157,23 @@ DTEND:20240824T140000
 DTSTAMP:20240824T130000Z
 UID:2024-08-24T13:00:00/Timing (Tímatökur | Hollenski kappaksturinn)
 DESCRIPTION:Timing (Tímatökur | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Tímatökur | Hollenski kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20240824T130000
+DTEND:20240824T140000
+DTSTAMP:20240824T130000Z
+UID:2024-08-24T13:00:00/Onboard (Tímatökur | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Tímatökur | Hollenski kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20240824T130000
+DTEND:20240824T140000
+DTSTAMP:20240824T130000Z
+UID:2024-08-24T13:00:00/Pitlane (Tímatökur | Hollenski kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 END:VCALENDAR
