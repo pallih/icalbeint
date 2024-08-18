@@ -27,14 +27,6 @@ UID:2024-08-18T12:30:00/Brentford - Crystal Palace
 DESCRIPTION:Brentford - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kristianstad - Vittsjö - OBOS Damallsvenskan - viaplay
-DTSTART:20240818T125000
-DTEND:20240818T135000
-DTSTAMP:20240818T125000Z
-UID:2024-08-18T12:50:00/Kristianstad - Vittsjö
-DESCRIPTION:Kristianstad - Vittsjö - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Växjö - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20240818T125000
 DTEND:20240818T135000
@@ -43,12 +35,20 @@ UID:2024-08-18T12:50:00/Växjö - Norrköping
 DESCRIPTION:Växjö - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celtic - Hibernian - Premier Sports Cup - viaplay
+SUMMARY:Kristianstad - Vittsjö - OBOS Damallsvenskan - viaplay
+DTSTART:20240818T125000
+DTEND:20240818T135000
+DTSTAMP:20240818T125000Z
+UID:2024-08-18T12:50:00/Kristianstad - Vittsjö
+DESCRIPTION:Kristianstad - Vittsjö - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bolton - Wrexham - League One - viaplay
 DTSTART:20240818T135500
 DTEND:20240818T145500
 DTSTAMP:20240818T135500Z
-UID:2024-08-18T13:55:00/Celtic - Hibernian
-DESCRIPTION:Celtic - Hibernian - Premier Sports Cup
+UID:2024-08-18T13:55:00/Bolton - Wrexham
+DESCRIPTION:Bolton - Wrexham - League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bolton - Wrexham - EFL League One - stod2vodasport
@@ -59,12 +59,12 @@ UID:2024-08-18T13:55:00/Bolton - Wrexham
 DESCRIPTION:Bolton - Wrexham - EFL League One
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bolton - Wrexham - League One - viaplay
+SUMMARY:Celtic - Hibernian - Premier Sports Cup - viaplay
 DTSTART:20240818T135500
 DTEND:20240818T145500
 DTSTAMP:20240818T135500Z
-UID:2024-08-18T13:55:00/Bolton - Wrexham
-DESCRIPTION:Bolton - Wrexham - League One
+UID:2024-08-18T13:55:00/Celtic - Hibernian
+DESCRIPTION:Celtic - Hibernian - Premier Sports Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Man. City - Enska úrvalsdeildin - siminnsport
@@ -132,20 +132,20 @@ UID:2024-08-19T18:30:00/Leicester - Tottenham
 DESCRIPTION:Leicester - Tottenham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víkingur R. - ÍA - Besta deild karla - stod2sport
-DTSTART:20240819T190000
-DTEND:20240819T200000
-DTSTAMP:20240819T190000Z
-UID:2024-08-19T19:00:00/Víkingur R. - ÍA
-DESCRIPTION:Víkingur R. - ÍA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breiðablik - Fram - Besta deild karla - stod2besta01
 DTSTART:20240819T190000
 DTEND:20240819T200000
 DTSTAMP:20240819T190000Z
 UID:2024-08-19T19:00:00/Breiðablik - Fram
 DESCRIPTION:Breiðablik - Fram - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - ÍA - Besta deild karla - stod2sport
+DTSTART:20240819T190000
+DTEND:20240819T200000
+DTSTAMP:20240819T190000Z
+UID:2024-08-19T19:00:00/Víkingur R. - ÍA
+DESCRIPTION:Víkingur R. - ÍA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stúkan - Besta deild karla - stod2sport
@@ -156,14 +156,6 @@ UID:2024-08-19T21:20:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen - viaplay
-DTSTART:20240820T162500
-DTEND:20240820T172500
-DTSTAMP:20240820T162500Z
-UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
-DESCRIPTION:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FSV Gütersloh - Union Berlin - Þýska bikarkeppni kvenna - stod2
  vodasport
 DTSTART:20240820T162500
@@ -171,6 +163,14 @@ DTEND:20240820T172500
 DTSTAMP:20240820T162500Z
 UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
 DESCRIPTION:FSV Gütersloh - Union Berlin - Þýska bikarkeppni kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen - viaplay
+DTSTART:20240820T162500
+DTEND:20240820T172500
+DTSTAMP:20240820T162500Z
+UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
+DESCRIPTION:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Fylkir - Besta deild kvenna - stod2sport5
@@ -221,20 +221,20 @@ UID:2024-08-21T16:55:00/Hammarby - Häcken
 DESCRIPTION:Hammarby - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Young Boys - Galatasaray - Champions League - viaplay
-DTSTART:20240821T185000
-DTEND:20240821T195000
-DTSTAMP:20240821T185000Z
-UID:2024-08-21T18:50:00/Young Boys - Galatasaray
-DESCRIPTION:Young Boys - Galatasaray - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FC Midtjylland - Slovan Bratislava - Champions League - viaplay
 DTSTART:20240821T185000
 DTEND:20240821T195000
 DTSTAMP:20240821T185000Z
 UID:2024-08-21T18:50:00/FC Midtjylland - Slovan Bratislava
 DESCRIPTION:FC Midtjylland - Slovan Bratislava - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Boys - Galatasaray - Champions League - viaplay
+DTSTART:20240821T185000
+DTEND:20240821T195000
+DTSTAMP:20240821T185000Z
+UID:2024-08-21T18:50:00/Young Boys - Galatasaray
+DESCRIPTION:Young Boys - Galatasaray - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Midtjylland - Slovan Bratislava - Forkeppni Meistaradeildar Evróp
@@ -256,20 +256,20 @@ UID:2024-08-22T17:35:00/Víkingur R. -  Santa Coloma
 DESCRIPTION:Víkingur R. -  Santa Coloma - Forkeppni Sambandsdeildarinnar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Notts County - Grimsby Town - EFL League Two - stod2vodasport
-DTSTART:20240822T185500
-DTEND:20240822T195500
-DTSTAMP:20240822T185500Z
-UID:2024-08-22T18:55:00/Notts County - Grimsby Town
-DESCRIPTION:Notts County - Grimsby Town - EFL League Two
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Notts County - Grimsby - League Two - viaplay
 DTSTART:20240822T185500
 DTEND:20240822T195500
 DTSTAMP:20240822T185500Z
 UID:2024-08-22T18:55:00/Notts County - Grimsby
 DESCRIPTION:Notts County - Grimsby - League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Notts County - Grimsby Town - EFL League Two - stod2vodasport
+DTSTART:20240822T185500
+DTEND:20240822T195500
+DTSTAMP:20240822T185500Z
+UID:2024-08-22T18:55:00/Notts County - Grimsby Town
+DESCRIPTION:Notts County - Grimsby Town - EFL League Two
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - KR - Besta deild karla - stod2sport5
@@ -312,20 +312,20 @@ UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen
 DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield Wednesday - Leeds - Championship - viaplay
-DTSTART:20240823T185500
-DTEND:20240823T195500
-DTSTAMP:20240823T185500Z
-UID:2024-08-23T18:55:00/Sheffield Wednesday - Leeds
-DESCRIPTION:Sheffield Wednesday - Leeds - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sheffield United - Leeds - EFL Championship - stod2vodasport
 DTSTART:20240823T185500
 DTEND:20240823T195500
 DTSTAMP:20240823T185500Z
 UID:2024-08-23T18:55:00/Sheffield United - Leeds
 DESCRIPTION:Sheffield United - Leeds - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield Wednesday - Leeds - Championship - viaplay
+DTSTART:20240823T185500
+DTEND:20240823T195500
+DTSTAMP:20240823T185500Z
+UID:2024-08-23T18:55:00/Sheffield Wednesday - Leeds
+DESCRIPTION:Sheffield Wednesday - Leeds - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Paderborn - 2. Bundesliga - viaplay
@@ -368,12 +368,12 @@ UID:2024-08-24T11:25:00/QPR - Plymouth
 DESCRIPTION:QPR - Plymouth - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Djurgården - Växjö - OBOS Damallsvenskan - viaplay
+SUMMARY:Linköping - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20240824T125000
 DTEND:20240824T135000
 DTSTAMP:20240824T125000Z
-UID:2024-08-24T12:50:00/Djurgården - Växjö
-DESCRIPTION:Djurgården - Växjö - OBOS Damallsvenskan
+UID:2024-08-24T12:50:00/Linköping - Norrköping
+DESCRIPTION:Linköping - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AIK - Vittsjö - OBOS Damallsvenskan - viaplay
@@ -384,20 +384,12 @@ UID:2024-08-24T12:50:00/AIK - Vittsjö
 DESCRIPTION:AIK - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linköping - Norrköping - OBOS Damallsvenskan - viaplay
+SUMMARY:Djurgården - Växjö - OBOS Damallsvenskan - viaplay
 DTSTART:20240824T125000
 DTEND:20240824T135000
 DTSTAMP:20240824T125000Z
-UID:2024-08-24T12:50:00/Linköping - Norrköping
-DESCRIPTION:Linköping - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Freiburg - Stuttgart
-DESCRIPTION:Freiburg - Stuttgart - Bundesliga
+UID:2024-08-24T12:50:00/Djurgården - Växjö
+DESCRIPTION:Djurgården - Växjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
@@ -408,28 +400,12 @@ UID:2024-08-24T13:20:00/Leipzig - Bochum
 DESCRIPTION:Leipzig - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
+SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Mainz - Union Berlin
-DESCRIPTION:Mainz - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Hoffenheim - Holstein Kiel
-DESCRIPTION:Hoffenheim - Holstein Kiel - Bundesliga
+UID:2024-08-24T13:20:00/Freiburg - Stuttgart
+DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Augsburg - Werder Bremen - Bundesliga - viaplay
@@ -440,7 +416,31 @@ UID:2024-08-24T13:20:00/Augsburg - Werder Bremen
 DESCRIPTION:Augsburg - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - siminnsport
+SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Hoffenheim - Holstein Kiel
+DESCRIPTION:Hoffenheim - Holstein Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Mainz - Union Berlin
+DESCRIPTION:Mainz - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - sjonvarpsimans
 DTSTART:20240824T133000
 DTEND:20240824T143000
 DTSTAMP:20240824T133000Z
@@ -448,7 +448,7 @@ UID:2024-08-24T13:30:00/Man. City - Ipswich
 DESCRIPTION:Man. City - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - sjonvarpsimans
+SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - siminnsport
 DTSTART:20240824T133000
 DTEND:20240824T143000
 DTSTAMP:20240824T133000Z
