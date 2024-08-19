@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Leverkusen (Tactical feed) - Bundesliga - viapl
+ ay
+DTSTART:20240823T182000
+DTEND:20240823T192000
+DTSTAMP:20240823T182000Z
+UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen (Tactical feed)
+DESCRIPTION:Mönchengladbach - Leverkusen (Tactical feed) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Leverkusen - Bundesliga - viaplay
 DTSTART:20240823T182000
 DTEND:20240823T192000
@@ -10,20 +19,20 @@ UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen
 DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Freiburg - Stuttgart
-DESCRIPTION:Freiburg - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
 UID:2024-08-24T13:20:00/Leipzig - Bochum
 DESCRIPTION:Leipzig - Bochum - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Freiburg - Stuttgart
+DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
