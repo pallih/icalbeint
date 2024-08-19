@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
-SUMMARY:Sunderland - Sheffield Wednesday - Championship - viaplay
-DTSTART:20240818T105500
-DTEND:20240818T115500
-DTSTAMP:20240818T105500Z
-UID:2024-08-18T10:55:00/Sunderland - Sheffield Wednesday
-DESCRIPTION:Sunderland - Sheffield Wednesday - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sheffield Wednesday - Leeds - Championship - viaplay
 DTSTART:20240823T185500
 DTEND:20240823T195500
@@ -32,5 +24,13 @@ DTEND:20240824T145500
 DTSTAMP:20240824T135500Z
 UID:2024-08-24T13:55:00/Sunderland - Burnley
 DESCRIPTION:Sunderland - Burnley - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swansea - Cardiff - Championship - viaplay
+DTSTART:20240825T135500
+DTEND:20240825T145500
+DTSTAMP:20240825T135500Z
+UID:2024-08-25T13:55:00/Swansea - Cardiff
+DESCRIPTION:Swansea - Cardiff - Championship
 END:VEVENT
 END:VCALENDAR
