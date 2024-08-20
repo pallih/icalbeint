@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - OBOS Damallsvenskan - ical
 BEGIN:VEVENT
-SUMMARY:Djurgården - Brommapojkarna - OBOS Damallsvenskan - viaplay
-DTSTART:20240819T165000
-DTEND:20240819T175000
-DTSTAMP:20240819T165000Z
-UID:2024-08-19T16:50:00/Djurgården - Brommapojkarna
-DESCRIPTION:Djurgården - Brommapojkarna - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hammarby - Häcken - OBOS Damallsvenskan - viaplay
 DTSTART:20240821T165500
 DTEND:20240821T175500
@@ -18,12 +10,12 @@ UID:2024-08-21T16:55:00/Hammarby - Häcken
 DESCRIPTION:Hammarby - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AIK - Vittsjö - OBOS Damallsvenskan - viaplay
+SUMMARY:Linköping - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20240824T125000
 DTEND:20240824T135000
 DTSTAMP:20240824T125000Z
-UID:2024-08-24T12:50:00/AIK - Vittsjö
-DESCRIPTION:AIK - Vittsjö - OBOS Damallsvenskan
+UID:2024-08-24T12:50:00/Linköping - Norrköping
+DESCRIPTION:Linköping - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Djurgården - Växjö - OBOS Damallsvenskan - viaplay
@@ -34,12 +26,12 @@ UID:2024-08-24T12:50:00/Djurgården - Växjö
 DESCRIPTION:Djurgården - Växjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linköping - Norrköping - OBOS Damallsvenskan - viaplay
+SUMMARY:AIK - Vittsjö - OBOS Damallsvenskan - viaplay
 DTSTART:20240824T125000
 DTEND:20240824T135000
 DTSTAMP:20240824T125000Z
-UID:2024-08-24T12:50:00/Linköping - Norrköping
-DESCRIPTION:Linköping - Norrköping - OBOS Damallsvenskan
+UID:2024-08-24T12:50:00/AIK - Vittsjö
+DESCRIPTION:AIK - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brommapojkarna - Örebro - OBOS Damallsvenskan - viaplay
@@ -56,5 +48,21 @@ DTEND:20240825T125000
 DTSTAMP:20240825T115000Z
 UID:2024-08-25T11:50:00/Kristianstad - Piteå
 DESCRIPTION:Kristianstad - Piteå - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trelleborg - Hammarby - OBOS Damallsvenskan - viaplay
+DTSTART:20240826T165000
+DTEND:20240826T175000
+DTSTAMP:20240826T165000Z
+UID:2024-08-26T16:50:00/Trelleborg - Hammarby
+DESCRIPTION:Trelleborg - Hammarby - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosengård - Häcken - OBOS Damallsvenskan - viaplay
+DTSTART:20240826T165000
+DTEND:20240826T175000
+DTSTAMP:20240826T165000Z
+UID:2024-08-26T16:50:00/Rosengård - Häcken
+DESCRIPTION:Rosengård - Häcken - OBOS Damallsvenskan
 END:VEVENT
 END:VCALENDAR

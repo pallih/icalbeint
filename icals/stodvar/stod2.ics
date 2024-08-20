@@ -2,55 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Djurgarden - Brommapojkarna - Sænska úrvalsdeildin - stod2vodasp
- ort
-DTSTART:20240819T165000
-DTEND:20240819T175000
-DTSTAMP:20240819T165000Z
-UID:2024-08-19T16:50:00/Djurgarden - Brommapojkarna
-DESCRIPTION:Djurgarden - Brommapojkarna - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FH - Valur - Besta deild karla - stod2sport5
-DTSTART:20240819T175000
-DTEND:20240819T185000
-DTSTAMP:20240819T175000Z
-UID:2024-08-19T17:50:00/FH - Valur
-DESCRIPTION:FH - Valur - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Víkingur R. - ÍA - Besta deild karla - stod2sport
-DTSTART:20240819T190000
-DTEND:20240819T200000
-DTSTAMP:20240819T190000Z
-UID:2024-08-19T19:00:00/Víkingur R. - ÍA
-DESCRIPTION:Víkingur R. - ÍA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - Fram - Besta deild karla - stod2besta01
-DTSTART:20240819T190000
-DTEND:20240819T200000
-DTSTAMP:20240819T190000Z
-UID:2024-08-19T19:00:00/Breiðablik - Fram
-DESCRIPTION:Breiðablik - Fram - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - stod2sport
-DTSTART:20240819T212000
-DTEND:20240819T222000
-DTSTAMP:20240819T212000Z
-UID:2024-08-19T21:20:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mets - Orioles - MLB - stod2vodasport
-DTSTART:20240819T230000
-DTEND:20240820T000000
-DTSTAMP:20240819T230000Z
-UID:2024-08-19T23:00:00/Mets - Orioles
-DESCRIPTION:Mets - Orioles - MLB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FSV Gütersloh - Union Berlin - Þýska bikarkeppni kvenna - stod2
  vodasport
 DTSTART:20240820T162500
@@ -74,6 +25,25 @@ DTEND:20240820T185000
 DTSTAMP:20240820T175000Z
 UID:2024-08-20T17:50:00/Þróttur R. - Breiðablik
 DESCRIPTION:Þróttur R. - Breiðablik - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille - Slavia Prag - Forkeppni Meistaradeildar Evrópu - stod2vod
+ asport
+DTSTART:20240820T185000
+DTEND:20240820T195000
+DTSTAMP:20240820T185000Z
+UID:2024-08-20T18:50:00/Lille - Slavia Prag
+DESCRIPTION:Lille - Slavia Prag - Forkeppni Meistaradeildar Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodö/Glimt - Rauða stjarnan - Forkeppni Meistaradeildar Evrópu 
+ - stod2sport2
+DTSTART:20240820T185000
+DTEND:20240820T195000
+DTSTAMP:20240820T185000Z
+UID:2024-08-20T18:50:00/Bodö/Glimt - Rauða stjarnan
+DESCRIPTION:Bodö/Glimt - Rauða stjarnan - Forkeppni Meistaradeildar Evr
+ ópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
@@ -288,12 +258,12 @@ UID:2024-08-25T13:25:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fylkir - Þór/KA - Besta deild kvenna - stod2besta01
+SUMMARY:FH - Valur - Besta deild kvenna - stod2sport
 DTSTART:20240825T135000
 DTEND:20240825T145000
 DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/Fylkir - Þór/KA
-DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
+UID:2024-08-25T13:50:00/FH - Valur
+DESCRIPTION:FH - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport5
@@ -304,12 +274,12 @@ UID:2024-08-25T13:50:00/Breiðablik - Víkingur R.
 DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Valur - Besta deild kvenna - stod2sport
+SUMMARY:Fylkir - Þór/KA - Besta deild kvenna - stod2besta01
 DTSTART:20240825T135000
 DTEND:20240825T145000
 DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/FH - Valur
-DESCRIPTION:FH - Valur - Besta deild kvenna
+UID:2024-08-25T13:50:00/Fylkir - Þór/KA
+DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - Keflavík - Besta deild kvenna - stod2besta02
@@ -337,20 +307,20 @@ UID:2024-08-25T16:10:00/Bayern München - Wolfsburg
 DESCRIPTION:Bayern München - Wolfsburg - Þýska bikarkeppni kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - KA - Besta deild karla - stod2sport5
-DTSTART:20240825T165000
-DTEND:20240825T175000
-DTSTAMP:20240825T165000Z
-UID:2024-08-25T16:50:00/Fram - KA
-DESCRIPTION:Fram - KA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍA - Breiðablik - Besta deild karla - stod2besta01
 DTSTART:20240825T165000
 DTEND:20240825T175000
 DTSTAMP:20240825T165000Z
 UID:2024-08-25T16:50:00/ÍA - Breiðablik
 DESCRIPTION:ÍA - Breiðablik - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - KA - Besta deild karla - stod2sport5
+DTSTART:20240825T165000
+DTEND:20240825T175000
+DTSTAMP:20240825T165000Z
+UID:2024-08-25T16:50:00/Fram - KA
+DESCRIPTION:Fram - KA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fylkir - FH - Besta deild karla - stod2sport
@@ -383,5 +353,45 @@ DTEND:20240825T222000
 DTSTAMP:20240825T212000Z
 UID:2024-08-25T21:20:00/Ísey Tilþrifin
 DESCRIPTION:Ísey Tilþrifin - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commanders - Patriots - NFL - stod2sport2
+DTSTART:20240826T000000
+DTEND:20240826T010000
+DTSTAMP:20240826T000000Z
+UID:2024-08-26T00:00:00/Commanders - Patriots
+DESCRIPTION:Commanders - Patriots - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosengard - Häcken - Sænska úrvalsdeildin - stod2vodasport
+DTSTART:20240826T164500
+DTEND:20240826T174500
+DTSTAMP:20240826T164500Z
+UID:2024-08-26T16:45:00/Rosengard - Häcken
+DESCRIPTION:Rosengard - Häcken - Sænska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - HK - Besta deild karla - stod2sport
+DTSTART:20240826T190000
+DTEND:20240826T200000
+DTSTAMP:20240826T190000Z
+UID:2024-08-26T19:00:00/Stjarnan - HK
+DESCRIPTION:Stjarnan - HK - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stúkan - Besta deild karla - stod2sport
+DTSTART:20240826T212000
+DTEND:20240826T222000
+DTSTAMP:20240826T212000Z
+UID:2024-08-26T21:20:00/Stúkan
+DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twins - Braves - MLB - stod2vodasport
+DTSTART:20240826T233000
+DTEND:20240827T003000
+DTSTAMP:20240826T233000Z
+UID:2024-08-26T23:30:00/Twins - Braves
+DESCRIPTION:Twins - Braves - MLB
 END:VEVENT
 END:VCALENDAR
