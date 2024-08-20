@@ -121,20 +121,20 @@ UID:2024-08-22T17:35:00/Víkingur R. -  Santa Coloma
 DESCRIPTION:Víkingur R. -  Santa Coloma - Forkeppni Sambandsdeildarinnar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Notts County - Grimsby Town - EFL League Two - stod2vodasport
-DTSTART:20240822T185500
-DTEND:20240822T195500
-DTSTAMP:20240822T185500Z
-UID:2024-08-22T18:55:00/Notts County - Grimsby Town
-DESCRIPTION:Notts County - Grimsby Town - EFL League Two
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Notts County - Grimsby - League Two - viaplay
 DTSTART:20240822T185500
 DTEND:20240822T195500
 DTSTAMP:20240822T185500Z
 UID:2024-08-22T18:55:00/Notts County - Grimsby
 DESCRIPTION:Notts County - Grimsby - League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Notts County - Grimsby Town - EFL League Two - stod2vodasport
+DTSTART:20240822T185500
+DTEND:20240822T195500
+DTSTAMP:20240822T185500Z
+UID:2024-08-22T18:55:00/Notts County - Grimsby Town
+DESCRIPTION:Notts County - Grimsby Town - EFL League Two
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - KR - Besta deild karla - stod2sport5
@@ -145,20 +145,20 @@ UID:2024-08-22T19:50:00/HK - KR
 DESCRIPTION:HK - KR - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20240823T162000
-DTEND:20240823T172000
-DTSTAMP:20240823T162000Z
-UID:2024-08-23T16:20:00/Karlsruher - Elversberg
-DESCRIPTION:Karlsruher - Elversberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hannover - HSV - 2. Bundesliga - viaplay
 DTSTART:20240823T162000
 DTEND:20240823T172000
 DTSTAMP:20240823T162000Z
 UID:2024-08-23T16:20:00/Hannover - HSV
 DESCRIPTION:Hannover - HSV - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20240823T162000
+DTEND:20240823T172000
+DTSTAMP:20240823T162000Z
+UID:2024-08-23T16:20:00/Karlsruher - Elversberg
+DESCRIPTION:Karlsruher - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover 96 - Hamburger SV - 2. Bundesliga - stod2vodasport
@@ -242,14 +242,6 @@ UID:2024-08-24T11:25:00/QPR - Plymouth
 DESCRIPTION:QPR - Plymouth - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linköping - Norrköping - OBOS Damallsvenskan - viaplay
-DTSTART:20240824T125000
-DTEND:20240824T135000
-DTSTAMP:20240824T125000Z
-UID:2024-08-24T12:50:00/Linköping - Norrköping
-DESCRIPTION:Linköping - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Djurgården - Växjö - OBOS Damallsvenskan - viaplay
 DTSTART:20240824T125000
 DTEND:20240824T135000
@@ -266,12 +258,20 @@ UID:2024-08-24T12:50:00/AIK - Vittsjö
 DESCRIPTION:AIK - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Linköping - Norrköping - OBOS Damallsvenskan - viaplay
+DTSTART:20240824T125000
+DTEND:20240824T135000
+DTSTAMP:20240824T125000Z
+UID:2024-08-24T12:50:00/Linköping - Norrköping
+DESCRIPTION:Linköping - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2024-08-24T13:20:00/Leipzig - Bochum
+DESCRIPTION:Leipzig - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
@@ -298,12 +298,12 @@ UID:2024-08-24T13:20:00/Freiburg - Stuttgart
 DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Leipzig - Bochum
-DESCRIPTION:Leipzig - Bochum - Bundesliga
+UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Augsburg - Werder Bremen - Bundesliga - viaplay
@@ -491,14 +491,6 @@ UID:2024-08-25T13:25:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Valur - Besta deild kvenna - stod2sport
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/FH - Valur
-DESCRIPTION:FH - Valur - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport5
 DTSTART:20240825T135000
 DTEND:20240825T145000
@@ -521,6 +513,14 @@ DTEND:20240825T145000
 DTSTAMP:20240825T135000Z
 UID:2024-08-25T13:50:00/Tindastóll - Keflavík
 DESCRIPTION:Tindastóll - Keflavík - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Valur - Besta deild kvenna - stod2sport
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/FH - Valur
+DESCRIPTION:FH - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Cardiff - Championship - viaplay
@@ -565,14 +565,6 @@ UID:2024-08-25T16:05:00/Valur - Vestri
 DESCRIPTION:Valur - Vestri - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
-DTSTART:20240825T161000
-DTEND:20240825T171000
-DTSTAMP:20240825T161000Z
-UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
-DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Wolfsburg - Þýska bikarkeppni kvenna - stod2vo
  dasport
 DTSTART:20240825T161000
@@ -580,6 +572,14 @@ DTEND:20240825T171000
 DTSTAMP:20240825T161000Z
 UID:2024-08-25T16:10:00/Bayern München - Wolfsburg
 DESCRIPTION:Bayern München - Wolfsburg - Þýska bikarkeppni kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
+DTSTART:20240825T161000
+DTEND:20240825T171000
+DTSTAMP:20240825T161000Z
+UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
+DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍA - Breiðablik - Besta deild karla - stod2besta01
