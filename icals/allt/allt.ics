@@ -281,15 +281,12 @@ UID:2024-08-23T10:25:00/Hollenski kappaksturinn (Æfing 1)
 DESCRIPTION:Hollenski kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formula 1
-  - viaplay
+SUMMARY:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T103000
 DTEND:20240823T113000
 DTSTAMP:20240823T103000Z
-UID:2024-08-23T10:30:00/Track Positioning (Æfing 1 | Hollenski kappakstur
- inn)
-DESCRIPTION:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formu
- la 1
+UID:2024-08-23T10:30:00/Onboard (Æfing 1 | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
@@ -300,20 +297,23 @@ UID:2024-08-23T10:30:00/Pitlane (Æfing 1 | Hollenski kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T103000
-DTEND:20240823T113000
-DTSTAMP:20240823T103000Z
-UID:2024-08-23T10:30:00/Onboard (Æfing 1 | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T103000
 DTEND:20240823T113000
 DTSTAMP:20240823T103000Z
 UID:2024-08-23T10:30:00/Timing (Æfing 1 | Hollenski kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formula 1
+  - viaplay
+DTSTART:20240823T103000
+DTEND:20240823T113000
+DTSTAMP:20240823T103000Z
+UID:2024-08-23T10:30:00/Track Positioning (Æfing 1 | Hollenski kappakstur
+ inn)
+DESCRIPTION:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danish Golf Championship - DP World Tour - viaplay
@@ -356,20 +356,12 @@ UID:2024-08-23T13:55:00/Hollenski kappaksturinn (Æfing 2)
 DESCRIPTION:Hollenski kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T140000
 DTEND:20240823T150000
 DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/Timing (Æfing 2 | Hollenski kappaksturinn)
-DESCRIPTION:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:US Open Pool Championship - Pool - viaplay
-DTSTART:20240823T140000
-DTEND:20240823T150000
-DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/US Open Pool Championship
-DESCRIPTION:US Open Pool Championship - Pool
+UID:2024-08-23T14:00:00/Pitlane (Æfing 2 | Hollenski kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
@@ -391,12 +383,20 @@ DESCRIPTION:Track Positioning (Æfing 2 | Hollenski kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T140000
 DTEND:20240823T150000
 DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/Pitlane (Æfing 2 | Hollenski kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1
+UID:2024-08-23T14:00:00/Timing (Æfing 2 | Hollenski kappaksturinn)
+DESCRIPTION:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Open Pool Championship - Pool - viaplay
+DTSTART:20240823T140000
+DTEND:20240823T150000
+DTSTAMP:20240823T140000Z
+UID:2024-08-23T14:00:00/US Open Pool Championship
+DESCRIPTION:US Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Æfing 2) - F1 Academy - viaplay
@@ -431,6 +431,14 @@ UID:2024-08-23T16:25:00/Hannover 96 - Hamburger SV
 DESCRIPTION:Hannover 96 - Hamburger SV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Leverkusen - Bundesliga - viaplay
+DTSTART:20240823T182000
+DTEND:20240823T192000
+DTSTAMP:20240823T182000Z
+UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen
+DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Leverkusen (Tactical feed) - Bundesliga - viapl
  ay
 DTSTART:20240823T182000
@@ -438,14 +446,6 @@ DTEND:20240823T192000
 DTSTAMP:20240823T182000Z
 UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen (Tactical feed)
 DESCRIPTION:Mönchengladbach - Leverkusen (Tactical feed) - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Leverkusen - Bundesliga - viaplay
-DTSTART:20240823T182000
-DTEND:20240823T192000
-DTSTAMP:20240823T182000Z
-UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen
-DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield Wednesday - Leeds - Championship - viaplay
