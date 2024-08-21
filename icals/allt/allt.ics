@@ -639,12 +639,12 @@ UID:2024-08-24T13:00:00/Onboard (Tímatökur | Hollenski kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
+SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Hoffenheim - Holstein Kiel
-DESCRIPTION:Hoffenheim - Holstein Kiel - Bundesliga
+UID:2024-08-24T13:20:00/Freiburg - Stuttgart
+DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -653,6 +653,14 @@ DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
 UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Leipzig - Bochum
+DESCRIPTION:Leipzig - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
@@ -671,20 +679,12 @@ UID:2024-08-24T13:20:00/Augsburg - Werder Bremen
 DESCRIPTION:Augsburg - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
+SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Freiburg - Stuttgart
-DESCRIPTION:Freiburg - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Leipzig - Bochum
-DESCRIPTION:Leipzig - Bochum - Bundesliga
+UID:2024-08-24T13:20:00/Hoffenheim - Holstein Kiel
+DESCRIPTION:Hoffenheim - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - sjonvarpsimans
@@ -784,20 +784,20 @@ UID:2024-08-24T15:00:00/Hollenski kappaksturinn (Kappakstur 1)
 DESCRIPTION:Hollenski kappaksturinn (Kappakstur 1) - F1 Academy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar - viaplay
-DTSTART:20240824T160000
-DTEND:20240824T170000
-DTSTAMP:20240824T160000Z
-UID:2024-08-24T16:00:00/Bitnile.com Grand Prix of Portland (Æfing)
-DESCRIPTION:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Arsenal - Enska úrvalsdeildin - siminnsport
 DTSTART:20240824T160000
 DTEND:20240824T170000
 DTSTAMP:20240824T160000Z
 UID:2024-08-24T16:00:00/Aston Villa - Arsenal
 DESCRIPTION:Aston Villa - Arsenal - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar - viaplay
+DTSTART:20240824T160000
+DTEND:20240824T170000
+DTSTAMP:20240824T160000Z
+UID:2024-08-24T16:00:00/Bitnile.com Grand Prix of Portland (Æfing)
+DESCRIPTION:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Borussia Dortmund - Eintracht Frankfurt - Bundesliga - viaplay
@@ -956,6 +956,14 @@ UID:2024-08-25T11:00:00/British Women‘s Open
 DESCRIPTION:British Women‘s Open - British Women‘s Open
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ulm - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20240825T112000
+DTEND:20240825T122000
+DTSTAMP:20240825T112000Z
+UID:2024-08-25T11:20:00/Ulm - Düsseldorf
+DESCRIPTION:Ulm - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Darmstadt - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20240825T112000
 DTEND:20240825T122000
@@ -972,14 +980,6 @@ UID:2024-08-25T11:20:00/Magdeburg - Schalke
 DESCRIPTION:Magdeburg - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ulm - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20240825T112000
-DTEND:20240825T122000
-DTSTAMP:20240825T112000Z
-UID:2024-08-25T11:20:00/Ulm - Düsseldorf
-DESCRIPTION:Ulm - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kristianstad - Piteå - OBOS Damallsvenskan - viaplay
 DTSTART:20240825T115000
 DTEND:20240825T125000
@@ -988,12 +988,12 @@ UID:2024-08-25T11:50:00/Kristianstad - Piteå
 DESCRIPTION:Kristianstad - Piteå - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hollenski kappaksturinn (Kappakstur) - Formula 1 - viaplay
+SUMMARY:Wolves - Chelsea - Enska úrvalsdeildin - siminnsport
 DTSTART:20240825T123000
 DTEND:20240825T133000
 DTSTAMP:20240825T123000Z
-UID:2024-08-25T12:30:00/Hollenski kappaksturinn (Kappakstur)
-DESCRIPTION:Hollenski kappaksturinn (Kappakstur) - Formula 1
+UID:2024-08-25T12:30:00/Wolves - Chelsea
+DESCRIPTION:Wolves - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1 - Holland: Keppni - Formúla 1 - stod2vodasport
@@ -1004,12 +1004,12 @@ UID:2024-08-25T12:30:00/F1 - Holland: Keppni
 DESCRIPTION:F1 - Holland: Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolves - Chelsea - Enska úrvalsdeildin - siminnsport
+SUMMARY:Hollenski kappaksturinn (Kappakstur) - Formula 1 - viaplay
 DTSTART:20240825T123000
 DTEND:20240825T133000
 DTSTAMP:20240825T123000Z
-UID:2024-08-25T12:30:00/Wolves - Chelsea
-DESCRIPTION:Wolves - Chelsea - Enska úrvalsdeildin
+UID:2024-08-25T12:30:00/Hollenski kappaksturinn (Kappakstur)
+DESCRIPTION:Hollenski kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Newcastle - Enska úrvalsdeildin - siminnsport2
@@ -1026,6 +1026,15 @@ DTEND:20240825T135500
 DTSTAMP:20240825T125500Z
 UID:2024-08-25T12:55:00/F1 Kids
 DESCRIPTION:F1 Kids - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kappakstur | Hollenski kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20240825T130000
+DTEND:20240825T140000
+DTSTAMP:20240825T130000Z
+UID:2024-08-25T13:00:00/Pitlane (Kappakstur | Hollenski kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Hollenski kappaksturinn) - Formula 1 - viapla
@@ -1057,15 +1066,6 @@ DESCRIPTION:Track Positioning (Kappakstur | Hollenski kappaksturinn) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Hollenski kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20240825T130000
-DTEND:20240825T140000
-DTSTAMP:20240825T130000Z
-UID:2024-08-25T13:00:00/Pitlane (Kappakstur | Hollenski kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolfsburg - Bayern München - Bundesliga - viaplay
 DTSTART:20240825T132000
 DTEND:20240825T142000
@@ -1090,22 +1090,6 @@ UID:2024-08-25T13:30:00/Elite16 Hamburg
 DESCRIPTION:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport5
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/Breiðablik - Víkingur R.
-DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fylkir - Þór/KA - Besta deild kvenna - stod2besta01
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/Fylkir - Þór/KA
-DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Keflavík - Besta deild kvenna - stod2besta02
 DTSTART:20240825T135000
 DTEND:20240825T145000
@@ -1122,12 +1106,20 @@ UID:2024-08-25T13:50:00/FH - Valur
 DESCRIPTION:FH - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mugello (Kappakstur 3) - Formula 4 Italian Championship - viaplay
-DTSTART:20240825T135500
-DTEND:20240825T145500
-DTSTAMP:20240825T135500Z
-UID:2024-08-25T13:55:00/Mugello (Kappakstur 3)
-DESCRIPTION:Mugello (Kappakstur 3) - Formula 4 Italian Championship
+SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport5
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/Breiðablik - Víkingur R.
+DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fylkir - Þór/KA - Besta deild kvenna - stod2besta01
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/Fylkir - Þór/KA
+DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Cardiff - Championship - viaplay
@@ -1136,6 +1128,14 @@ DTEND:20240825T145500
 DTSTAMP:20240825T135500Z
 UID:2024-08-25T13:55:00/Swansea - Cardiff
 DESCRIPTION:Swansea - Cardiff - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mugello (Kappakstur 3) - Formula 4 Italian Championship - viaplay
+DTSTART:20240825T135500
+DTEND:20240825T145500
+DTSTAMP:20240825T135500Z
+UID:2024-08-25T13:55:00/Mugello (Kappakstur 3)
+DESCRIPTION:Mugello (Kappakstur 3) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Brentford - Enska úrvalsdeildin - siminnsport
@@ -1162,6 +1162,14 @@ DTSTAMP:20240825T155500Z
 UID:2024-08-25T15:55:00/Washington Spirit - Kansas City
 DESCRIPTION:Washington Spirit - Kansas City - National Women's Soccer Leag
  ue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aarab vs Kacapor - Levels Fight League - viaplay
+DTSTART:20240825T160000
+DTEND:20240825T170000
+DTSTAMP:20240825T160000Z
+UID:2024-08-25T16:00:00/Aarab vs Kacapor
+DESCRIPTION:Aarab vs Kacapor - Levels Fight League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Vestri - Besta deild karla - stod2sport
@@ -1215,14 +1223,6 @@ UID:2024-08-25T16:50:00/ÍA - Breiðablik
 DESCRIPTION:ÍA - Breiðablik - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fylkir - FH - Besta deild karla - stod2sport
-DTSTART:20240825T190000
-DTEND:20240825T200000
-DTSTAMP:20240825T190000Z
-UID:2024-08-25T19:00:00/Fylkir - FH
-DESCRIPTION:Fylkir - FH - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Kappakstur) - IndyCar - viapla
  y
 DTSTART:20240825T190000
@@ -1230,6 +1230,14 @@ DTEND:20240825T200000
 DTSTAMP:20240825T190000Z
 UID:2024-08-25T19:00:00/Bitnile.com Grand Prix of Portland (Kappakstur)
 DESCRIPTION:Bitnile.com Grand Prix of Portland (Kappakstur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fylkir - FH - Besta deild karla - stod2sport
+DTSTART:20240825T190000
+DTEND:20240825T200000
+DTSTAMP:20240825T190000Z
+UID:2024-08-25T19:00:00/Fylkir - FH
+DESCRIPTION:Fylkir - FH - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LiUNA! 175 - Race (Truck Series) - Nascar - viaplay
@@ -1280,20 +1288,20 @@ UID:2024-08-26T16:45:00/Rosengard - Häcken
 DESCRIPTION:Rosengard - Häcken - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trelleborg - Hammarby - OBOS Damallsvenskan - viaplay
-DTSTART:20240826T165000
-DTEND:20240826T175000
-DTSTAMP:20240826T165000Z
-UID:2024-08-26T16:50:00/Trelleborg - Hammarby
-DESCRIPTION:Trelleborg - Hammarby - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rosengård - Häcken - OBOS Damallsvenskan - viaplay
 DTSTART:20240826T165000
 DTEND:20240826T175000
 DTSTAMP:20240826T165000Z
 UID:2024-08-26T16:50:00/Rosengård - Häcken
 DESCRIPTION:Rosengård - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trelleborg - Hammarby - OBOS Damallsvenskan - viaplay
+DTSTART:20240826T165000
+DTEND:20240826T175000
+DTSTAMP:20240826T165000Z
+UID:2024-08-26T16:50:00/Trelleborg - Hammarby
+DESCRIPTION:Trelleborg - Hammarby - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - HK - Besta deild karla - stod2sport
@@ -1320,6 +1328,14 @@ UID:2024-08-26T23:30:00/Twins - Braves
 DESCRIPTION:Twins - Braves - MLB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sparta Prag - Malmö FF - Champions League - viaplay
+DTSTART:20240827T185000
+DTEND:20240827T195000
+DTSTAMP:20240827T185000Z
+UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
+DESCRIPTION:Sparta Prag - Malmö FF - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu - stod2vo
  dasport
 DTSTART:20240827T185000
@@ -1327,14 +1343,6 @@ DTEND:20240827T195000
 DTSTAMP:20240827T185000Z
 UID:2024-08-27T18:50:00/Sparta Prag - Malmö
 DESCRIPTION:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sparta Prag - Malmö FF - Champions League - viaplay
-DTSTART:20240827T185000
-DTEND:20240827T195000
-DTSTAMP:20240827T185000Z
-UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
-DESCRIPTION:Sparta Prag - Malmö FF - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport

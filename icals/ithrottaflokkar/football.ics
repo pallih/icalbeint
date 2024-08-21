@@ -208,12 +208,12 @@ UID:2024-08-24T12:50:00/AIK - Vittsjö
 DESCRIPTION:AIK - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
+SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Hoffenheim - Holstein Kiel
-DESCRIPTION:Hoffenheim - Holstein Kiel - Bundesliga
+UID:2024-08-24T13:20:00/Freiburg - Stuttgart
+DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -222,6 +222,14 @@ DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
 UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Leipzig - Bochum
+DESCRIPTION:Leipzig - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
@@ -240,20 +248,12 @@ UID:2024-08-24T13:20:00/Augsburg - Werder Bremen
 DESCRIPTION:Augsburg - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
+SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Freiburg - Stuttgart
-DESCRIPTION:Freiburg - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Leipzig - Bochum
-DESCRIPTION:Leipzig - Bochum - Bundesliga
+UID:2024-08-24T13:20:00/Hoffenheim - Holstein Kiel
+DESCRIPTION:Hoffenheim - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - sjonvarpsimans
@@ -369,6 +369,14 @@ UID:2024-08-25T10:55:00/St. Mirren - Celtic
 DESCRIPTION:St. Mirren - Celtic - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ulm - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20240825T112000
+DTEND:20240825T122000
+DTSTAMP:20240825T112000Z
+UID:2024-08-25T11:20:00/Ulm - Düsseldorf
+DESCRIPTION:Ulm - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Darmstadt - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20240825T112000
 DTEND:20240825T122000
@@ -383,14 +391,6 @@ DTEND:20240825T122000
 DTSTAMP:20240825T112000Z
 UID:2024-08-25T11:20:00/Magdeburg - Schalke
 DESCRIPTION:Magdeburg - Schalke - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ulm - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20240825T112000
-DTEND:20240825T122000
-DTSTAMP:20240825T112000Z
-UID:2024-08-25T11:20:00/Ulm - Düsseldorf
-DESCRIPTION:Ulm - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kristianstad - Piteå - OBOS Damallsvenskan - viaplay
@@ -433,22 +433,6 @@ UID:2024-08-25T13:25:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport5
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/Breiðablik - Víkingur R.
-DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fylkir - Þór/KA - Besta deild kvenna - stod2besta01
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/Fylkir - Þór/KA
-DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Keflavík - Besta deild kvenna - stod2besta02
 DTSTART:20240825T135000
 DTEND:20240825T145000
@@ -463,6 +447,22 @@ DTEND:20240825T145000
 DTSTAMP:20240825T135000Z
 UID:2024-08-25T13:50:00/FH - Valur
 DESCRIPTION:FH - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport5
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/Breiðablik - Víkingur R.
+DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fylkir - Þór/KA - Besta deild kvenna - stod2besta01
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/Fylkir - Þór/KA
+DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Cardiff - Championship - viaplay
@@ -564,20 +564,20 @@ UID:2024-08-26T16:45:00/Rosengard - Häcken
 DESCRIPTION:Rosengard - Häcken - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trelleborg - Hammarby - OBOS Damallsvenskan - viaplay
-DTSTART:20240826T165000
-DTEND:20240826T175000
-DTSTAMP:20240826T165000Z
-UID:2024-08-26T16:50:00/Trelleborg - Hammarby
-DESCRIPTION:Trelleborg - Hammarby - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rosengård - Häcken - OBOS Damallsvenskan - viaplay
 DTSTART:20240826T165000
 DTEND:20240826T175000
 DTSTAMP:20240826T165000Z
 UID:2024-08-26T16:50:00/Rosengård - Häcken
 DESCRIPTION:Rosengård - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trelleborg - Hammarby - OBOS Damallsvenskan - viaplay
+DTSTART:20240826T165000
+DTEND:20240826T175000
+DTSTAMP:20240826T165000Z
+UID:2024-08-26T16:50:00/Trelleborg - Hammarby
+DESCRIPTION:Trelleborg - Hammarby - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - HK - Besta deild karla - stod2sport
@@ -596,6 +596,14 @@ UID:2024-08-26T21:20:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sparta Prag - Malmö FF - Champions League - viaplay
+DTSTART:20240827T185000
+DTEND:20240827T195000
+DTSTAMP:20240827T185000Z
+UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
+DESCRIPTION:Sparta Prag - Malmö FF - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu - stod2vo
  dasport
 DTSTART:20240827T185000
@@ -603,14 +611,6 @@ DTEND:20240827T195000
 DTSTAMP:20240827T185000Z
 UID:2024-08-27T18:50:00/Sparta Prag - Malmö
 DESCRIPTION:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sparta Prag - Malmö FF - Champions League - viaplay
-DTSTART:20240827T185000
-DTEND:20240827T195000
-DTSTAMP:20240827T185000Z
-UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
-DESCRIPTION:Sparta Prag - Malmö FF - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
