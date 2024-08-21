@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:US Open Pool Championship - Pool - viaplay
-DTSTART:20240820T140000
-DTEND:20240820T150000
-DTSTAMP:20240820T140000Z
-UID:2024-08-20T14:00:00/US Open Pool Championship
-DESCRIPTION:US Open Pool Championship - Pool
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen - viaplay
-DTSTART:20240820T162500
-DTEND:20240820T172500
-DTSTAMP:20240820T162500Z
-UID:2024-08-20T16:25:00/FSV Gütersloh - Union Berlin
-DESCRIPTION:FSV Gütersloh - Union Berlin - DFB-Pokal Frauen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinamo Zagreb - Qarabag - Champions League - viaplay
-DTSTART:20240820T185000
-DTEND:20240820T195000
-DTSTAMP:20240820T185000Z
-UID:2024-08-20T18:50:00/Dinamo Zagreb - Qarabag
-DESCRIPTION:Dinamo Zagreb - Qarabag - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lille - Slavia Prag - Champions League - viaplay
-DTSTART:20240820T185000
-DTEND:20240820T195000
-DTSTAMP:20240820T185000Z
-UID:2024-08-20T18:50:00/Lille - Slavia Prag
-DESCRIPTION:Lille - Slavia Prag - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour - viaplay
 DTSTART:20240821T070000
 DTEND:20240821T080000
@@ -66,20 +34,20 @@ UID:2024-08-21T16:55:00/Hammarby - Häcken
 DESCRIPTION:Hammarby - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Young Boys - Galatasaray - Champions League - viaplay
-DTSTART:20240821T185000
-DTEND:20240821T195000
-DTSTAMP:20240821T185000Z
-UID:2024-08-21T18:50:00/Young Boys - Galatasaray
-DESCRIPTION:Young Boys - Galatasaray - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FC Midtjylland - Slovan Bratislava - Champions League - viaplay
 DTSTART:20240821T185000
 DTEND:20240821T195000
 DTSTAMP:20240821T185000Z
 UID:2024-08-21T18:50:00/FC Midtjylland - Slovan Bratislava
 DESCRIPTION:FC Midtjylland - Slovan Bratislava - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Boys - Galatasaray - Champions League - viaplay
+DTSTART:20240821T185000
+DTEND:20240821T195000
+DTSTAMP:20240821T185000Z
+UID:2024-08-21T18:50:00/Young Boys - Galatasaray
+DESCRIPTION:Young Boys - Galatasaray - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour - viaplay
@@ -154,20 +122,20 @@ UID:2024-08-23T10:30:00/Pitlane (Æfing 1 | Hollenski kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T103000
-DTEND:20240823T113000
-DTSTAMP:20240823T103000Z
-UID:2024-08-23T10:30:00/Timing (Æfing 1 | Hollenski kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T103000
 DTEND:20240823T113000
 DTSTAMP:20240823T103000Z
 UID:2024-08-23T10:30:00/Onboard (Æfing 1 | Hollenski kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Hollenski kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240823T103000
+DTEND:20240823T113000
+DTSTAMP:20240823T103000Z
+UID:2024-08-23T10:30:00/Timing (Æfing 1 | Hollenski kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Hollenski kappaksturinn) - Formula 1
@@ -205,12 +173,12 @@ UID:2024-08-23T13:55:00/Hollenski kappaksturinn (Æfing 2)
 DESCRIPTION:Hollenski kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240823T140000
 DTEND:20240823T150000
 DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/Onboard (Æfing 2 | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1
+UID:2024-08-23T14:00:00/Timing (Æfing 2 | Hollenski kappaksturinn)
+DESCRIPTION:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:US Open Pool Championship - Pool - viaplay
@@ -219,6 +187,14 @@ DTEND:20240823T150000
 DTSTAMP:20240823T140000Z
 UID:2024-08-23T14:00:00/US Open Pool Championship
 DESCRIPTION:US Open Pool Championship - Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240823T140000
+DTEND:20240823T150000
+DTSTAMP:20240823T140000Z
+UID:2024-08-23T14:00:00/Onboard (Æfing 2 | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
@@ -240,28 +216,12 @@ DESCRIPTION:Track Positioning (Æfing 2 | Hollenski kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240823T140000
-DTEND:20240823T150000
-DTSTAMP:20240823T140000Z
-UID:2024-08-23T14:00:00/Timing (Æfing 2 | Hollenski kappaksturinn)
-DESCRIPTION:Timing (Æfing 2 | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Æfing 2) - F1 Academy - viaplay
 DTSTART:20240823T152500
 DTEND:20240823T162500
 DTSTAMP:20240823T152500Z
 UID:2024-08-23T15:25:00/Hollenski kappaksturinn (Æfing 2)
 DESCRIPTION:Hollenski kappaksturinn (Æfing 2) - F1 Academy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hannover - HSV - 2. Bundesliga - viaplay
-DTSTART:20240823T162000
-DTEND:20240823T172000
-DTSTAMP:20240823T162000Z
-UID:2024-08-23T16:20:00/Hannover - HSV
-DESCRIPTION:Hannover - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Elversberg - 2. Bundesliga - viaplay
@@ -272,12 +232,12 @@ UID:2024-08-23T16:20:00/Karlsruher - Elversberg
 DESCRIPTION:Karlsruher - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Leverkusen - Bundesliga - viaplay
-DTSTART:20240823T182000
-DTEND:20240823T192000
-DTSTAMP:20240823T182000Z
-UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen
-DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
+SUMMARY:Hannover - HSV - 2. Bundesliga - viaplay
+DTSTART:20240823T162000
+DTEND:20240823T172000
+DTSTAMP:20240823T162000Z
+UID:2024-08-23T16:20:00/Hannover - HSV
+DESCRIPTION:Hannover - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Leverkusen (Tactical feed) - Bundesliga - viapl
@@ -287,6 +247,14 @@ DTEND:20240823T192000
 DTSTAMP:20240823T182000Z
 UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen (Tactical feed)
 DESCRIPTION:Mönchengladbach - Leverkusen (Tactical feed) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Leverkusen - Bundesliga - viaplay
+DTSTART:20240823T182000
+DTEND:20240823T192000
+DTSTAMP:20240823T182000Z
+UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen
+DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield Wednesday - Leeds - Championship - viaplay
@@ -380,20 +348,20 @@ UID:2024-08-24T10:30:00/Danish Golf Championship
 DESCRIPTION:Danish Golf Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20240824T105000
-DTEND:20240824T115000
-DTSTAMP:20240824T105000Z
-UID:2024-08-24T10:50:00/Greuther Fürth - Paderborn
-DESCRIPTION:Greuther Fürth - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preußen Münster - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20240824T105000
 DTEND:20240824T115000
 DTSTAMP:20240824T105000Z
 UID:2024-08-24T10:50:00/Preußen Münster - Kaiserslautern
 DESCRIPTION:Preußen Münster - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greuther Fürth - Paderborn - 2. Bundesliga - viaplay
+DTSTART:20240824T105000
+DTEND:20240824T115000
+DTSTAMP:20240824T105000Z
+UID:2024-08-24T10:50:00/Greuther Fürth - Paderborn
+DESCRIPTION:Greuther Fürth - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Jahn Regensburg - 2. Bundesliga - viaplay
@@ -428,6 +396,14 @@ UID:2024-08-24T12:45:00/Hollenski kappaksturinn (Tímatökur)
 DESCRIPTION:Hollenski kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Linköping - Norrköping - OBOS Damallsvenskan - viaplay
+DTSTART:20240824T125000
+DTEND:20240824T135000
+DTSTAMP:20240824T125000Z
+UID:2024-08-24T12:50:00/Linköping - Norrköping
+DESCRIPTION:Linköping - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Djurgården - Växjö - OBOS Damallsvenskan - viaplay
 DTSTART:20240824T125000
 DTEND:20240824T135000
@@ -444,12 +420,13 @@ UID:2024-08-24T12:50:00/AIK - Vittsjö
 DESCRIPTION:AIK - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linköping - Norrköping - OBOS Damallsvenskan - viaplay
-DTSTART:20240824T125000
-DTEND:20240824T135000
-DTSTAMP:20240824T125000Z
-UID:2024-08-24T12:50:00/Linköping - Norrköping
-DESCRIPTION:Linköping - Norrköping - OBOS Damallsvenskan
+SUMMARY:Onboard (Tímatökur | Hollenski kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20240824T130000
+DTEND:20240824T140000
+DTSTAMP:20240824T130000Z
+UID:2024-08-24T13:00:00/Onboard (Tímatökur | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Hollenski kappaksturinn) - Formula 1 - viap
@@ -459,15 +436,6 @@ DTEND:20240824T140000
 DTSTAMP:20240824T130000Z
 UID:2024-08-24T13:00:00/Pitlane (Tímatökur | Hollenski kappaksturinn)
 DESCRIPTION:Pitlane (Tímatökur | Hollenski kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Hollenski kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20240824T130000
-DTEND:20240824T140000
-DTSTAMP:20240824T130000Z
-UID:2024-08-24T13:00:00/Onboard (Tímatökur | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Tímatökur | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Tímatökur | Hollenski kappaksturinn) - Formula 1 - viapl
@@ -490,12 +458,12 @@ DESCRIPTION:Track Positioning (Tímatökur | Hollenski kappaksturinn) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
+SUMMARY:Augsburg - Werder Bremen - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Leipzig - Bochum
-DESCRIPTION:Leipzig - Bochum - Bundesliga
+UID:2024-08-24T13:20:00/Augsburg - Werder Bremen
+DESCRIPTION:Augsburg - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
@@ -522,20 +490,20 @@ UID:2024-08-24T13:20:00/Freiburg - Stuttgart
 DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Leipzig - Bochum
+DESCRIPTION:Leipzig - Bochum - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
 UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - Werder Bremen - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Augsburg - Werder Bremen
-DESCRIPTION:Augsburg - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Burnley - Championship - viaplay
@@ -546,20 +514,20 @@ UID:2024-08-24T13:55:00/Sunderland - Burnley
 DESCRIPTION:Sunderland - Burnley - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour - viaplay
-DTSTART:20240824T140000
-DTEND:20240824T150000
-DTSTAMP:20240824T140000Z
-UID:2024-08-24T14:00:00/Elite16 Hamburg
-DESCRIPTION:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:US Open Pool Championship - Pool - viaplay
 DTSTART:20240824T140000
 DTEND:20240824T150000
 DTSTAMP:20240824T140000Z
 UID:2024-08-24T14:00:00/US Open Pool Championship
 DESCRIPTION:US Open Pool Championship - Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour - viaplay
+DTSTART:20240824T140000
+DTEND:20240824T150000
+DTSTAMP:20240824T140000Z
+UID:2024-08-24T14:00:00/Elite16 Hamburg
+DESCRIPTION:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mugello (Kappakstur 1) - Formula 4 Italian Championship - viaplay
@@ -709,6 +677,14 @@ UID:2024-08-25T10:55:00/St. Mirren - Celtic
 DESCRIPTION:St. Mirren - Celtic - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Darmstadt - Nürnberg - 2. Bundesliga - viaplay
+DTSTART:20240825T112000
+DTEND:20240825T122000
+DTSTAMP:20240825T112000Z
+UID:2024-08-25T11:20:00/Darmstadt - Nürnberg
+DESCRIPTION:Darmstadt - Nürnberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magdeburg - Schalke - 2. Bundesliga - viaplay
 DTSTART:20240825T112000
 DTEND:20240825T122000
@@ -723,14 +699,6 @@ DTEND:20240825T122000
 DTSTAMP:20240825T112000Z
 UID:2024-08-25T11:20:00/Ulm - Düsseldorf
 DESCRIPTION:Ulm - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Nürnberg - 2. Bundesliga - viaplay
-DTSTART:20240825T112000
-DTEND:20240825T122000
-DTSTAMP:20240825T112000Z
-UID:2024-08-25T11:20:00/Darmstadt - Nürnberg
-DESCRIPTION:Darmstadt - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kristianstad - Piteå - OBOS Damallsvenskan - viaplay
@@ -766,13 +734,13 @@ UID:2024-08-25T13:00:00/Timing (Kappakstur | Hollenski kappaksturinn)
 DESCRIPTION:Timing (Kappakstur | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Hollenski kappaksturinn) - Formula 1 - viapl
+SUMMARY:Onboard (Kappakstur | Hollenski kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20240825T130000
 DTEND:20240825T140000
 DTSTAMP:20240825T130000Z
-UID:2024-08-25T13:00:00/Pitlane (Kappakstur | Hollenski kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Hollenski kappaksturinn) - Formula 1
+UID:2024-08-25T13:00:00/Onboard (Kappakstur | Hollenski kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Hollenski kappaksturinn) - Formula
@@ -786,13 +754,13 @@ DESCRIPTION:Track Positioning (Kappakstur | Hollenski kappaksturinn) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Hollenski kappaksturinn) - Formula 1 - viapl
+SUMMARY:Pitlane (Kappakstur | Hollenski kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20240825T130000
 DTEND:20240825T140000
 DTSTAMP:20240825T130000Z
-UID:2024-08-25T13:00:00/Onboard (Kappakstur | Hollenski kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Hollenski kappaksturinn) - Formula 1
+UID:2024-08-25T13:00:00/Pitlane (Kappakstur | Hollenski kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Hollenski kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Bayern München - Bundesliga - viaplay
@@ -811,20 +779,20 @@ UID:2024-08-25T13:30:00/Elite16 Hamburg
 DESCRIPTION:Elite16 Hamburg - FIVB Volleyball World Beach Pro Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Swansea - Cardiff - Championship - viaplay
-DTSTART:20240825T135500
-DTEND:20240825T145500
-DTSTAMP:20240825T135500Z
-UID:2024-08-25T13:55:00/Swansea - Cardiff
-DESCRIPTION:Swansea - Cardiff - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mugello (Kappakstur 3) - Formula 4 Italian Championship - viaplay
 DTSTART:20240825T135500
 DTEND:20240825T145500
 DTSTAMP:20240825T135500Z
 UID:2024-08-25T13:55:00/Mugello (Kappakstur 3)
 DESCRIPTION:Mugello (Kappakstur 3) - Formula 4 Italian Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swansea - Cardiff - Championship - viaplay
+DTSTART:20240825T135500
+DTEND:20240825T145500
+DTSTAMP:20240825T135500Z
+UID:2024-08-25T13:55:00/Swansea - Cardiff
+DESCRIPTION:Swansea - Cardiff - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Heidenheim - Bundesliga - viaplay
@@ -845,6 +813,14 @@ DESCRIPTION:Washington Spirit - Kansas City - National Women's Soccer Leag
  ue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
+DTSTART:20240825T161000
+DTEND:20240825T171000
+DTSTAMP:20240825T161000Z
+UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
+DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IMSA: Michelin GT Challange At VIR - IMSA Sportscar Championship -
   viaplay
 DTSTART:20240825T161000
@@ -853,14 +829,6 @@ DTSTAMP:20240825T161000Z
 UID:2024-08-25T16:10:00/IMSA: Michelin GT Challange At VIR
 DESCRIPTION:IMSA: Michelin GT Challange At VIR - IMSA Sportscar Championsh
  ip
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
-DTSTART:20240825T161000
-DTEND:20240825T171000
-DTSTAMP:20240825T161000Z
-UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
-DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Kappakstur) - IndyCar - viapla
@@ -894,5 +862,13 @@ DTEND:20240826T175000
 DTSTAMP:20240826T165000Z
 UID:2024-08-26T16:50:00/Rosengård - Häcken
 DESCRIPTION:Rosengård - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sparta Prag - Malmö FF - Champions League - viaplay
+DTSTART:20240827T185000
+DTEND:20240827T195000
+DTSTAMP:20240827T185000Z
+UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
+DESCRIPTION:Sparta Prag - Malmö FF - Champions League
 END:VEVENT
 END:VCALENDAR

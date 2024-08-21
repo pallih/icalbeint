@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Leverkusen - Bundesliga - viaplay
-DTSTART:20240823T182000
-DTEND:20240823T192000
-DTSTAMP:20240823T182000Z
-UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen
-DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Leverkusen (Tactical feed) - Bundesliga - viapl
  ay
 DTSTART:20240823T182000
@@ -19,12 +11,20 @@ UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen (Tactical feed)
 DESCRIPTION:Mönchengladbach - Leverkusen (Tactical feed) - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
+SUMMARY:Mönchengladbach - Leverkusen - Bundesliga - viaplay
+DTSTART:20240823T182000
+DTEND:20240823T192000
+DTSTAMP:20240823T182000Z
+UID:2024-08-23T18:20:00/Mönchengladbach - Leverkusen
+DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Werder Bremen - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Leipzig - Bochum
-DESCRIPTION:Leipzig - Bochum - Bundesliga
+UID:2024-08-24T13:20:00/Augsburg - Werder Bremen
+DESCRIPTION:Augsburg - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
@@ -51,6 +51,14 @@ UID:2024-08-24T13:20:00/Freiburg - Stuttgart
 DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Leipzig - Bochum
+DESCRIPTION:Leipzig - Bochum - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
@@ -59,15 +67,8 @@ UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Werder Bremen - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Augsburg - Werder Bremen
-DESCRIPTION:Augsburg - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Borussia Dortmund - Eintracht Frankfurt - Bundesliga - viaplay
+SUMMARY:Borussia Dortmund - Eintracht Frankfurt - Bundesliga - stod2vodasp
+ ort
 DTSTART:20240824T162500
 DTEND:20240824T172500
 DTSTAMP:20240824T162500Z
@@ -75,8 +76,7 @@ UID:2024-08-24T16:25:00/Borussia Dortmund - Eintracht Frankfurt
 DESCRIPTION:Borussia Dortmund - Eintracht Frankfurt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Borussia Dortmund - Eintracht Frankfurt - Bundesliga - stod2vodasp
- ort
+SUMMARY:Borussia Dortmund - Eintracht Frankfurt - Bundesliga - viaplay
 DTSTART:20240824T162500
 DTEND:20240824T172500
 DTSTAMP:20240824T162500Z
