@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Malmö - Sparta Prag - Forkeppni Meistaradeildar Evrópu - stod2sp
- ort2
-DTSTART:20240821T185000
-DTEND:20240821T195000
-DTSTAMP:20240821T185000Z
-UID:2024-08-21T18:50:00/Malmö - Sparta Prag
-DESCRIPTION:Malmö - Sparta Prag - Forkeppni Meistaradeildar Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Midtjylland - Slovan Bratislava - Forkeppni Meistaradeildar Evróp
- u - stod2vodasport
-DTSTART:20240821T185000
-DTEND:20240821T195000
-DTSTAMP:20240821T185000Z
-UID:2024-08-21T18:50:00/Midtjylland - Slovan Bratislava
-DESCRIPTION:Midtjylland - Slovan Bratislava - Forkeppni Meistaradeildar Ev
- rópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dynamo Kiev - Salzburg - Forkeppni Meistaradeildar Evrópu - stod2
- sport3
-DTSTART:20240821T185000
-DTEND:20240821T195000
-DTSTAMP:20240821T185000Z
-UID:2024-08-21T18:50:00/Dynamo Kiev - Salzburg
-DESCRIPTION:Dynamo Kiev - Salzburg - Forkeppni Meistaradeildar Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Braves - Phillies - MLB - stod2vodasport
-DTSTART:20240821T230000
-DTEND:20240822T000000
-DTSTAMP:20240821T230000Z
-UID:2024-08-21T23:00:00/Braves - Phillies
-DESCRIPTION:Braves - Phillies - MLB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:British Women‘s Open - British Women‘s Open - stod2sport4
 DTSTART:20240822T110000
 DTEND:20240822T120000
@@ -224,22 +188,6 @@ UID:2024-08-25T13:25:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Keflavík - Besta deild kvenna - stod2besta02
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/Tindastóll - Keflavík
-DESCRIPTION:Tindastóll - Keflavík - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FH - Valur - Besta deild kvenna - stod2sport
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/FH - Valur
-DESCRIPTION:FH - Valur - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport5
 DTSTART:20240825T135000
 DTEND:20240825T145000
@@ -254,6 +202,22 @@ DTEND:20240825T145000
 DTSTAMP:20240825T135000Z
 UID:2024-08-25T13:50:00/Fylkir - Þór/KA
 DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Valur - Besta deild kvenna - stod2sport
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/FH - Valur
+DESCRIPTION:FH - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Keflavík - Besta deild kvenna - stod2besta02
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/Tindastóll - Keflavík
+DESCRIPTION:Tindastóll - Keflavík - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Vestri - Besta deild karla - stod2sport
@@ -273,20 +237,20 @@ UID:2024-08-25T16:10:00/Bayern München - Wolfsburg
 DESCRIPTION:Bayern München - Wolfsburg - Þýska bikarkeppni kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - KA - Besta deild karla - stod2sport5
-DTSTART:20240825T165000
-DTEND:20240825T175000
-DTSTAMP:20240825T165000Z
-UID:2024-08-25T16:50:00/Fram - KA
-DESCRIPTION:Fram - KA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍA - Breiðablik - Besta deild karla - stod2besta01
 DTSTART:20240825T165000
 DTEND:20240825T175000
 DTSTAMP:20240825T165000Z
 UID:2024-08-25T16:50:00/ÍA - Breiðablik
 DESCRIPTION:ÍA - Breiðablik - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - KA - Besta deild karla - stod2sport5
+DTSTART:20240825T165000
+DTEND:20240825T175000
+DTSTAMP:20240825T165000Z
+UID:2024-08-25T16:50:00/Fram - KA
+DESCRIPTION:Fram - KA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fylkir - FH - Besta deild karla - stod2sport
@@ -384,5 +348,31 @@ DTEND:20240827T233000
 DTSTAMP:20240827T223000Z
 UID:2024-08-27T22:30:00/Phillies - Astros
 DESCRIPTION:Phillies - Astros - MLB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KIF Örebro - Linköping - Sænska úrvalsdeildin - stod2vodasport
+DTSTART:20240828T165000
+DTEND:20240828T175000
+DTSTAMP:20240828T165000Z
+UID:2024-08-28T16:50:00/KIF Örebro - Linköping
+DESCRIPTION:KIF Örebro - Linköping - Sænska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Evróp
+ u - stod2vodasport
+DTSTART:20240828T185000
+DTEND:20240828T195000
+DTSTAMP:20240828T185000Z
+UID:2024-08-28T18:50:00/Slovan Bratislava - Midtjylland
+DESCRIPTION:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Ev
+ rópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nationals - Yankess - MLB - stod2vodasport
+DTSTART:20240828T223000
+DTEND:20240828T233000
+DTSTAMP:20240828T223000Z
+UID:2024-08-28T22:30:00/Nationals - Yankess
+DESCRIPTION:Nationals - Yankess - MLB
 END:VEVENT
 END:VCALENDAR
