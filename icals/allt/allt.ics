@@ -872,20 +872,20 @@ UID:2024-08-25T11:20:00/Darmstadt - Nürnberg
 DESCRIPTION:Darmstadt - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ulm - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20240825T112000
-DTEND:20240825T122000
-DTSTAMP:20240825T112000Z
-UID:2024-08-25T11:20:00/Ulm - Düsseldorf
-DESCRIPTION:Ulm - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Schalke - 2. Bundesliga - viaplay
 DTSTART:20240825T112000
 DTEND:20240825T122000
 DTSTAMP:20240825T112000Z
 UID:2024-08-25T11:20:00/Magdeburg - Schalke
 DESCRIPTION:Magdeburg - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ulm - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20240825T112000
+DTEND:20240825T122000
+DTSTAMP:20240825T112000Z
+UID:2024-08-25T11:20:00/Ulm - Düsseldorf
+DESCRIPTION:Ulm - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kristianstad - Piteå - OBOS Damallsvenskan - viaplay
@@ -1030,20 +1030,20 @@ UID:2024-08-25T13:50:00/Tindastóll - Keflavík
 DESCRIPTION:Tindastóll - Keflavík - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Swansea - Cardiff - Championship - viaplay
-DTSTART:20240825T135500
-DTEND:20240825T145500
-DTSTAMP:20240825T135500Z
-UID:2024-08-25T13:55:00/Swansea - Cardiff
-DESCRIPTION:Swansea - Cardiff - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mugello (Kappakstur 3) - Formula 4 Italian Championship - viaplay
 DTSTART:20240825T135500
 DTEND:20240825T145500
 DTSTAMP:20240825T135500Z
 UID:2024-08-25T13:55:00/Mugello (Kappakstur 3)
 DESCRIPTION:Mugello (Kappakstur 3) - Formula 4 Italian Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swansea - Cardiff - Championship - viaplay
+DTSTART:20240825T135500
+DTEND:20240825T145500
+DTSTAMP:20240825T135500Z
+UID:2024-08-25T13:55:00/Swansea - Cardiff
+DESCRIPTION:Swansea - Cardiff - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Brentford - Enska úrvalsdeildin - siminnsport
@@ -1088,14 +1088,6 @@ UID:2024-08-25T16:05:00/Valur - Vestri
 DESCRIPTION:Valur - Vestri - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
-DTSTART:20240825T161000
-DTEND:20240825T171000
-DTSTAMP:20240825T161000Z
-UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
-DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IMSA: Michelin GT Challange At VIR - IMSA Sportscar Championship -
   viaplay
 DTSTART:20240825T161000
@@ -1104,6 +1096,14 @@ DTSTAMP:20240825T161000Z
 UID:2024-08-25T16:10:00/IMSA: Michelin GT Challange At VIR
 DESCRIPTION:IMSA: Michelin GT Challange At VIR - IMSA Sportscar Championsh
  ip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
+DTSTART:20240825T161000
+DTEND:20240825T171000
+DTSTAMP:20240825T161000Z
+UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
+DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Wolfsburg - Þýska bikarkeppni kvenna - stod2vo
@@ -1205,10 +1205,10 @@ DESCRIPTION:Trelleborg - Hammarby - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rosengård - Häcken - OBOS Damallsvenskan - viaplay
-DTSTART:20240826T165000
-DTEND:20240826T175000
-DTSTAMP:20240826T165000Z
-UID:2024-08-26T16:50:00/Rosengård - Häcken
+DTSTART:20240826T165500
+DTEND:20240826T175500
+DTSTAMP:20240826T165500Z
+UID:2024-08-26T16:55:00/Rosengård - Häcken
 DESCRIPTION:Rosengård - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
