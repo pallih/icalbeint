@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
+SUMMARY:Preußen Münster - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20240824T105000
+DTEND:20240824T115000
+DTSTAMP:20240824T105000Z
+UID:2024-08-24T10:50:00/Preußen Münster - Kaiserslautern
+DESCRIPTION:Preußen Münster - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20240824T105000
 DTEND:20240824T115000
@@ -16,14 +24,6 @@ DTEND:20240824T115000
 DTSTAMP:20240824T105000Z
 UID:2024-08-24T10:50:00/Hertha Berlin - Jahn Regensburg
 DESCRIPTION:Hertha Berlin - Jahn Regensburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preußen Münster - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20240824T105000
-DTEND:20240824T115000
-DTSTAMP:20240824T105000Z
-UID:2024-08-24T10:50:00/Preußen Münster - Kaiserslautern
-DESCRIPTION:Preußen Münster - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brighton - Man. Utd. - Enska úrvalsdeildin - siminnsport
@@ -42,6 +42,14 @@ UID:2024-08-24T11:25:00/QPR - Plymouth
 DESCRIPTION:QPR - Plymouth - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Djurgården - Växjö - OBOS Damallsvenskan - viaplay
+DTSTART:20240824T125000
+DTEND:20240824T135000
+DTSTAMP:20240824T125000Z
+UID:2024-08-24T12:50:00/Djurgården - Växjö
+DESCRIPTION:Djurgården - Växjö - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIK - Vittsjö - OBOS Damallsvenskan - viaplay
 DTSTART:20240824T125000
 DTEND:20240824T135000
@@ -56,14 +64,6 @@ DTEND:20240824T135000
 DTSTAMP:20240824T125000Z
 UID:2024-08-24T12:50:00/Linköping - Norrköping
 DESCRIPTION:Linköping - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Djurgården - Växjö - OBOS Damallsvenskan - viaplay
-DTSTART:20240824T125000
-DTEND:20240824T135000
-DTSTAMP:20240824T125000Z
-UID:2024-08-24T12:50:00/Djurgården - Växjö
-DESCRIPTION:Djurgården - Växjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
@@ -114,14 +114,6 @@ UID:2024-08-24T13:20:00/Augsburg - Werder Bremen
 DESCRIPTION:Augsburg - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20240824T133000
-DTEND:20240824T143000
-DTSTAMP:20240824T133000Z
-UID:2024-08-24T13:30:00/Man. City - Ipswich
-DESCRIPTION:Man. City - Ipswich - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - siminnsport
 DTSTART:20240824T133000
 DTEND:20240824T143000
@@ -130,13 +122,20 @@ UID:2024-08-24T13:30:00/Man. City - Ipswich
 DESCRIPTION:Man. City - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Nottingham Forest - Enska úrvalsdeildin - siminnspo
- rt5
+SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20240824T133000
+DTEND:20240824T143000
+DTSTAMP:20240824T133000Z
+UID:2024-08-24T13:30:00/Man. City - Ipswich
+DESCRIPTION:Man. City - Ipswich - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Leicester - Enska úrvalsdeildin - siminnsport4
 DTSTART:20240824T135000
 DTEND:20240824T145000
 DTSTAMP:20240824T135000Z
-UID:2024-08-24T13:50:00/Southampton - Nottingham Forest
-DESCRIPTION:Southampton - Nottingham Forest - Enska úrvalsdeildin
+UID:2024-08-24T13:50:00/Fulham - Leicester
+DESCRIPTION:Fulham - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tottenham - Everton - Enska úrvalsdeildin - siminnsport2
@@ -155,12 +154,13 @@ UID:2024-08-24T13:50:00/Crystal Palace - West Ham
 DESCRIPTION:Crystal Palace - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Leicester - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Southampton - Nottingham Forest - Enska úrvalsdeildin - siminnspo
+ rt5
 DTSTART:20240824T135000
 DTEND:20240824T145000
 DTSTAMP:20240824T135000Z
-UID:2024-08-24T13:50:00/Fulham - Leicester
-DESCRIPTION:Fulham - Leicester - Enska úrvalsdeildin
+UID:2024-08-24T13:50:00/Southampton - Nottingham Forest
+DESCRIPTION:Southampton - Nottingham Forest - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Burnley - Championship - viaplay
@@ -365,14 +365,6 @@ UID:2024-08-25T16:05:00/Valur - Vestri
 DESCRIPTION:Valur - Vestri - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
-DTSTART:20240825T161000
-DTEND:20240825T171000
-DTSTAMP:20240825T161000Z
-UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
-DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Wolfsburg - Þýska bikarkeppni kvenna - stod2vo
  dasport
 DTSTART:20240825T161000
@@ -380,6 +372,14 @@ DTEND:20240825T171000
 DTSTAMP:20240825T161000Z
 UID:2024-08-25T16:10:00/Bayern München - Wolfsburg
 DESCRIPTION:Bayern München - Wolfsburg - Þýska bikarkeppni kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
+DTSTART:20240825T161000
+DTEND:20240825T171000
+DTSTAMP:20240825T161000Z
+UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
+DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍA - Breiðablik - Besta deild karla - stod2besta01
@@ -462,84 +462,12 @@ UID:2024-08-27T18:10:00/Middlesbrough - Stoke
 DESCRIPTION:Middlesbrough - Stoke - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barrow - Derby - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Barrow - Derby
-DESCRIPTION:Barrow - Derby - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shrewsbury - Bolton - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Shrewsbury - Bolton
-DESCRIPTION:Shrewsbury - Bolton - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Watford - Plymouth - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Watford - Plymouth
-DESCRIPTION:Watford - Plymouth - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harrogate - Preston - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Harrogate - Preston
-DESCRIPTION:Harrogate - Preston - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QPR - Luton - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/QPR - Luton
-DESCRIPTION:QPR - Luton - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grimsby - Sheffield Wednesday - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Grimsby - Sheffield Wednesday
-DESCRIPTION:Grimsby - Sheffield Wednesday - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coventry - Oxford - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Coventry - Oxford
-DESCRIPTION:Coventry - Oxford - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fleetwood - Rotherham - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Fleetwood - Rotherham
-DESCRIPTION:Fleetwood - Rotherham - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brighton - Crawley - Carabao Cup - viaplay
 DTSTART:20240827T184000
 DTEND:20240827T194000
 DTSTAMP:20240827T184000Z
 UID:2024-08-27T18:40:00/Brighton - Crawley
 DESCRIPTION:Brighton - Crawley - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leicester - Tranmere - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Leicester - Tranmere
-DESCRIPTION:Leicester - Tranmere - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Millwall - Leyton Orient - Carabao Cup - viaplay
@@ -558,20 +486,20 @@ UID:2024-08-27T18:40:00/Walsall - Huddersfield
 DESCRIPTION:Walsall - Huddersfield - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barnsley - Sheffield United - Carabao Cup - viaplay
+SUMMARY:Harrogate - Preston - Carabao Cup - viaplay
 DTSTART:20240827T184000
 DTEND:20240827T194000
 DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Barnsley - Sheffield United
-DESCRIPTION:Barnsley - Sheffield United - Carabao Cup
+UID:2024-08-27T18:40:00/Harrogate - Preston
+DESCRIPTION:Harrogate - Preston - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blackburn - Blackpool - Carabao Cup - viaplay
+SUMMARY:Watford - Plymouth - Carabao Cup - viaplay
 DTSTART:20240827T184000
 DTEND:20240827T194000
 DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Blackburn - Blackpool
-DESCRIPTION:Blackburn - Blackpool - Carabao Cup
+UID:2024-08-27T18:40:00/Watford - Plymouth
+DESCRIPTION:Watford - Plymouth - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Doncaster - Carabao Cup - viaplay
@@ -582,12 +510,76 @@ UID:2024-08-27T18:40:00/Everton - Doncaster
 DESCRIPTION:Everton - Doncaster - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sparta Prag - Malmö FF - Champions League - viaplay
-DTSTART:20240827T185000
-DTEND:20240827T195000
-DTSTAMP:20240827T185000Z
-UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
-DESCRIPTION:Sparta Prag - Malmö FF - Champions League
+SUMMARY:Blackburn - Blackpool - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Blackburn - Blackpool
+DESCRIPTION:Blackburn - Blackpool - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barnsley - Sheffield United - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Barnsley - Sheffield United
+DESCRIPTION:Barnsley - Sheffield United - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coventry - Oxford - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Coventry - Oxford
+DESCRIPTION:Coventry - Oxford - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leicester - Tranmere - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Leicester - Tranmere
+DESCRIPTION:Leicester - Tranmere - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barrow - Derby - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Barrow - Derby
+DESCRIPTION:Barrow - Derby - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrewsbury - Bolton - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Shrewsbury - Bolton
+DESCRIPTION:Shrewsbury - Bolton - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fleetwood - Rotherham - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Fleetwood - Rotherham
+DESCRIPTION:Fleetwood - Rotherham - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QPR - Luton - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/QPR - Luton
+DESCRIPTION:QPR - Luton - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grimsby - Sheffield Wednesday - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Grimsby - Sheffield Wednesday
+DESCRIPTION:Grimsby - Sheffield Wednesday - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu - stod2vo
@@ -599,12 +591,12 @@ UID:2024-08-27T18:50:00/Sparta Prag - Malmö
 DESCRIPTION:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Norwich - Carabao Cup - viaplay
-DTSTART:20240827T185500
-DTEND:20240827T195500
-DTSTAMP:20240827T185500Z
-UID:2024-08-27T18:55:00/Crystal Palace - Norwich
-DESCRIPTION:Crystal Palace - Norwich - Carabao Cup
+SUMMARY:Sparta Prag - Malmö FF - Champions League - viaplay
+DTSTART:20240827T185000
+DTEND:20240827T195000
+DTSTAMP:20240827T185000Z
+UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
+DESCRIPTION:Sparta Prag - Malmö FF - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Birmingham - Fulham - Carabao Cup - viaplay
@@ -613,6 +605,14 @@ DTEND:20240827T195500
 DTSTAMP:20240827T185500Z
 UID:2024-08-27T18:55:00/Birmingham - Fulham
 DESCRIPTION:Birmingham - Fulham - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Norwich - Carabao Cup - viaplay
+DTSTART:20240827T185500
+DTEND:20240827T195500
+DTSTAMP:20240827T185500Z
+UID:2024-08-27T18:55:00/Crystal Palace - Norwich
+DESCRIPTION:Crystal Palace - Norwich - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
@@ -647,14 +647,6 @@ UID:2024-08-28T18:40:00/Swansea - Wycombe
 DESCRIPTION:Swansea - Wycombe - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AFC Wimbledon - Ipswich - Carabao Cup - viaplay
-DTSTART:20240828T184000
-DTEND:20240828T194000
-DTSTAMP:20240828T184000Z
-UID:2024-08-28T18:40:00/AFC Wimbledon - Ipswich
-DESCRIPTION:AFC Wimbledon - Ipswich - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colchester - Brentford - Carabao Cup - viaplay
 DTSTART:20240828T184000
 DTEND:20240828T194000
@@ -679,14 +671,12 @@ UID:2024-08-28T18:40:00/West Ham - Bournemouth
 DESCRIPTION:West Ham - Bournemouth - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Evróp
- u - stod2vodasport
-DTSTART:20240828T185000
-DTEND:20240828T195000
-DTSTAMP:20240828T185000Z
-UID:2024-08-28T18:50:00/Slovan Bratislava - Midtjylland
-DESCRIPTION:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Ev
- rópu
+SUMMARY:AFC Wimbledon - Ipswich - Carabao Cup - viaplay
+DTSTART:20240828T184000
+DTEND:20240828T194000
+DTSTAMP:20240828T184000Z
+UID:2024-08-28T18:40:00/AFC Wimbledon - Ipswich
+DESCRIPTION:AFC Wimbledon - Ipswich - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rauða stjarnan - Bodø/Glimt - Champions League - viaplay
@@ -697,12 +687,14 @@ UID:2024-08-28T18:50:00/Rauða stjarnan - Bodø/Glimt
 DESCRIPTION:Rauða stjarnan - Bodø/Glimt - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slovan Bratislava - FC Midtjylland - Champions League - viaplay
-DTSTART:20240828T185500
-DTEND:20240828T195500
-DTSTAMP:20240828T185500Z
-UID:2024-08-28T18:55:00/Slovan Bratislava - FC Midtjylland
-DESCRIPTION:Slovan Bratislava - FC Midtjylland - Champions League
+SUMMARY:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Evróp
+ u - stod2vodasport
+DTSTART:20240828T185000
+DTEND:20240828T195000
+DTSTAMP:20240828T185000Z
+UID:2024-08-28T18:50:00/Slovan Bratislava - Midtjylland
+DESCRIPTION:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Ev
+ rópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Newcastle - Carabao Cup - viaplay
@@ -711,6 +703,14 @@ DTEND:20240828T195500
 DTSTAMP:20240828T185500Z
 UID:2024-08-28T18:55:00/Nottingham Forest - Newcastle
 DESCRIPTION:Nottingham Forest - Newcastle - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava - FC Midtjylland - Champions League - viaplay
+DTSTART:20240828T185500
+DTEND:20240828T195500
+DTSTAMP:20240828T185500Z
+UID:2024-08-28T18:55:00/Slovan Bratislava - FC Midtjylland
+DESCRIPTION:Slovan Bratislava - FC Midtjylland - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dregið - Champions League - viaplay
@@ -745,20 +745,20 @@ UID:2024-08-30T14:55:00/Turbine Potsdam - Bayern München
 DESCRIPTION:Turbine Potsdam - Bayern München - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jahn Regensburg - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20240830T162000
-DTEND:20240830T172000
-DTSTAMP:20240830T162000Z
-UID:2024-08-30T16:20:00/Jahn Regensburg - Greuther Fürth
-DESCRIPTION:Jahn Regensburg - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
 DTSTART:20240830T162000
 DTEND:20240830T172000
 DTSTAMP:20240830T162000Z
 UID:2024-08-30T16:20:00/Düsseldorf - Hannover
 DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahn Regensburg - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20240830T162000
+DTEND:20240830T172000
+DTSTAMP:20240830T162000Z
+UID:2024-08-30T16:20:00/Jahn Regensburg - Greuther Fürth
+DESCRIPTION:Jahn Regensburg - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - St. Pauli - Bundesliga - viaplay
