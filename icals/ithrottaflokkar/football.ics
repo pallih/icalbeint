@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20240824T105000
-DTEND:20240824T115000
-DTSTAMP:20240824T105000Z
-UID:2024-08-24T10:50:00/Greuther Fürth - Paderborn
-DESCRIPTION:Greuther Fürth - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preußen Münster - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20240824T105000
 DTEND:20240824T115000
@@ -26,12 +18,12 @@ UID:2024-08-24T10:50:00/Hertha Berlin - Jahn Regensburg
 DESCRIPTION:Hertha Berlin - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brighton - Man. Utd. - Enska úrvalsdeildin - siminnsport
-DTSTART:20240824T110000
-DTEND:20240824T120000
-DTSTAMP:20240824T110000Z
-UID:2024-08-24T11:00:00/Brighton - Man. Utd.
-DESCRIPTION:Brighton - Man. Utd. - Enska úrvalsdeildin
+SUMMARY:Greuther Fürth - Paderborn - 2. Bundesliga - viaplay
+DTSTART:20240824T105000
+DTEND:20240824T115000
+DTSTAMP:20240824T105000Z
+UID:2024-08-24T10:50:00/Greuther Fürth - Paderborn
+DESCRIPTION:Greuther Fürth - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QPR - Plymouth - Championship - viaplay
@@ -66,36 +58,12 @@ UID:2024-08-24T12:50:00/AIK - Vittsjö
 DESCRIPTION:AIK - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
+SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Leipzig - Bochum
-DESCRIPTION:Leipzig - Bochum - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Hoffenheim - Holstein Kiel
-DESCRIPTION:Hoffenheim - Holstein Kiel - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
-DTSTART:20240824T132000
-DTEND:20240824T142000
-DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Mainz - Union Berlin
-DESCRIPTION:Mainz - Union Berlin - Bundesliga
+UID:2024-08-24T13:20:00/Freiburg - Stuttgart
+DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Augsburg - Werder Bremen - Bundesliga - viaplay
@@ -106,12 +74,36 @@ UID:2024-08-24T13:20:00/Augsburg - Werder Bremen
 DESCRIPTION:Augsburg - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
+SUMMARY:Hoffenheim - Holstein Kiel - Bundesliga - viaplay
 DTSTART:20240824T132000
 DTEND:20240824T142000
 DTSTAMP:20240824T132000Z
-UID:2024-08-24T13:20:00/Freiburg - Stuttgart
-DESCRIPTION:Freiburg - Stuttgart - Bundesliga
+UID:2024-08-24T13:20:00/Hoffenheim - Holstein Kiel
+DESCRIPTION:Hoffenheim - Holstein Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Bochum - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Leipzig - Bochum
+DESCRIPTION:Leipzig - Bochum - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Mainz - Union Berlin
+DESCRIPTION:Mainz - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20240824T132000
+DTEND:20240824T142000
+DTSTAMP:20240824T132000Z
+UID:2024-08-24T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Ipswich - Enska úrvalsdeildin - siminnsport
@@ -130,20 +122,20 @@ UID:2024-08-24T13:30:00/Man. City - Ipswich
 DESCRIPTION:Man. City - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crystal Palace - West Ham - Enska úrvalsdeildin - siminnsport3
+DTSTART:20240824T135000
+DTEND:20240824T145000
+DTSTAMP:20240824T135000Z
+UID:2024-08-24T13:50:00/Crystal Palace - West Ham
+DESCRIPTION:Crystal Palace - West Ham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tottenham - Everton - Enska úrvalsdeildin - siminnsport2
 DTSTART:20240824T135000
 DTEND:20240824T145000
 DTSTAMP:20240824T135000Z
 UID:2024-08-24T13:50:00/Tottenham - Everton
 DESCRIPTION:Tottenham - Everton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fulham - Leicester - Enska úrvalsdeildin - siminnsport4
-DTSTART:20240824T135000
-DTEND:20240824T145000
-DTSTAMP:20240824T135000Z
-UID:2024-08-24T13:50:00/Fulham - Leicester
-DESCRIPTION:Fulham - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southampton - Nottingham Forest - Enska úrvalsdeildin - siminnspo
@@ -155,12 +147,12 @@ UID:2024-08-24T13:50:00/Southampton - Nottingham Forest
 DESCRIPTION:Southampton - Nottingham Forest - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - West Ham - Enska úrvalsdeildin - siminnsport3
+SUMMARY:Fulham - Leicester - Enska úrvalsdeildin - siminnsport4
 DTSTART:20240824T135000
 DTEND:20240824T145000
 DTSTAMP:20240824T135000Z
-UID:2024-08-24T13:50:00/Crystal Palace - West Ham
-DESCRIPTION:Crystal Palace - West Ham - Enska úrvalsdeildin
+UID:2024-08-24T13:50:00/Fulham - Leicester
+DESCRIPTION:Fulham - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Burnley - Championship - viaplay
@@ -227,6 +219,14 @@ UID:2024-08-25T10:55:00/St. Mirren - Celtic
 DESCRIPTION:St. Mirren - Celtic - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Darmstadt - Nürnberg - 2. Bundesliga - viaplay
+DTSTART:20240825T112000
+DTEND:20240825T122000
+DTSTAMP:20240825T112000Z
+UID:2024-08-25T11:20:00/Darmstadt - Nürnberg
+DESCRIPTION:Darmstadt - Nürnberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magdeburg - Schalke - 2. Bundesliga - viaplay
 DTSTART:20240825T112000
 DTEND:20240825T122000
@@ -241,14 +241,6 @@ DTEND:20240825T122000
 DTSTAMP:20240825T112000Z
 UID:2024-08-25T11:20:00/Ulm - Düsseldorf
 DESCRIPTION:Ulm - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Nürnberg - 2. Bundesliga - viaplay
-DTSTART:20240825T112000
-DTEND:20240825T122000
-DTSTAMP:20240825T112000Z
-UID:2024-08-25T11:20:00/Darmstadt - Nürnberg
-DESCRIPTION:Darmstadt - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kristianstad - Piteå - OBOS Damallsvenskan - viaplay
@@ -291,22 +283,6 @@ UID:2024-08-25T13:25:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Valur - Besta deild kvenna - stod2sport
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/FH - Valur
-DESCRIPTION:FH - Valur - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fylkir - Þór/KA - Besta deild kvenna - stod2besta01
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/Fylkir - Þór/KA
-DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport5
 DTSTART:20240825T135000
 DTEND:20240825T145000
@@ -315,12 +291,28 @@ UID:2024-08-25T13:50:00/Breiðablik - Víkingur R.
 DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FH - Valur - Besta deild kvenna - stod2sport
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/FH - Valur
+DESCRIPTION:FH - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tindastóll - Keflavík - Besta deild kvenna - stod2besta02
 DTSTART:20240825T135000
 DTEND:20240825T145000
 DTSTAMP:20240825T135000Z
 UID:2024-08-25T13:50:00/Tindastóll - Keflavík
 DESCRIPTION:Tindastóll - Keflavík - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fylkir - Þór/KA - Besta deild kvenna - stod2besta01
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/Fylkir - Þór/KA
+DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Cardiff - Championship - viaplay
@@ -365,6 +357,14 @@ UID:2024-08-25T16:05:00/Valur - Vestri
 DESCRIPTION:Valur - Vestri - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
+DTSTART:20240825T161000
+DTEND:20240825T171000
+DTSTAMP:20240825T161000Z
+UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
+DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayern München - Wolfsburg - Þýska bikarkeppni kvenna - stod2vo
  dasport
 DTSTART:20240825T161000
@@ -374,12 +374,12 @@ UID:2024-08-25T16:10:00/Bayern München - Wolfsburg
 DESCRIPTION:Bayern München - Wolfsburg - Þýska bikarkeppni kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen - viaplay
-DTSTART:20240825T161000
-DTEND:20240825T171000
-DTSTAMP:20240825T161000Z
-UID:2024-08-25T16:10:00/FC Bayern München - VfL Wolfsburg
-DESCRIPTION:FC Bayern München - VfL Wolfsburg - DFB-Supercup Frauen
+SUMMARY:ÍA - Breiðablik - Besta deild karla - stod2besta01
+DTSTART:20240825T165000
+DTEND:20240825T175000
+DTSTAMP:20240825T165000Z
+UID:2024-08-25T16:50:00/ÍA - Breiðablik
+DESCRIPTION:ÍA - Breiðablik - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fram - KA - Besta deild karla - stod2sport5
@@ -388,14 +388,6 @@ DTEND:20240825T175000
 DTSTAMP:20240825T165000Z
 UID:2024-08-25T16:50:00/Fram - KA
 DESCRIPTION:Fram - KA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍA - Breiðablik - Besta deild karla - stod2besta01
-DTSTART:20240825T165000
-DTEND:20240825T175000
-DTSTAMP:20240825T165000Z
-UID:2024-08-25T16:50:00/ÍA - Breiðablik
-DESCRIPTION:ÍA - Breiðablik - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fylkir - FH - Besta deild karla - stod2sport
@@ -462,12 +454,12 @@ UID:2024-08-27T18:10:00/Middlesbrough - Stoke
 DESCRIPTION:Middlesbrough - Stoke - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barnsley - Sheffield United - Carabao Cup - viaplay
+SUMMARY:Harrogate - Preston - Carabao Cup - viaplay
 DTSTART:20240827T184000
 DTEND:20240827T194000
 DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Barnsley - Sheffield United
-DESCRIPTION:Barnsley - Sheffield United - Carabao Cup
+UID:2024-08-27T18:40:00/Harrogate - Preston
+DESCRIPTION:Harrogate - Preston - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Walsall - Huddersfield - Carabao Cup - viaplay
@@ -518,14 +510,6 @@ UID:2024-08-27T18:40:00/Fleetwood - Rotherham
 DESCRIPTION:Fleetwood - Rotherham - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Harrogate - Preston - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Harrogate - Preston
-DESCRIPTION:Harrogate - Preston - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Watford - Plymouth - Carabao Cup - viaplay
 DTSTART:20240827T184000
 DTEND:20240827T194000
@@ -548,6 +532,14 @@ DTEND:20240827T194000
 DTSTAMP:20240827T184000Z
 UID:2024-08-27T18:40:00/Blackburn - Blackpool
 DESCRIPTION:Blackburn - Blackpool - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barnsley - Sheffield United - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Barnsley - Sheffield United
+DESCRIPTION:Barnsley - Sheffield United - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coventry - Oxford - Carabao Cup - viaplay
@@ -582,6 +574,14 @@ UID:2024-08-27T18:40:00/Shrewsbury - Bolton
 DESCRIPTION:Shrewsbury - Bolton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sparta Prag - Malmö FF - Champions League - viaplay
+DTSTART:20240827T185000
+DTEND:20240827T195000
+DTSTAMP:20240827T185000Z
+UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
+DESCRIPTION:Sparta Prag - Malmö FF - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu - stod2vo
  dasport
 DTSTART:20240827T185000
@@ -589,14 +589,6 @@ DTEND:20240827T195000
 DTSTAMP:20240827T185000Z
 UID:2024-08-27T18:50:00/Sparta Prag - Malmö
 DESCRIPTION:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sparta Prag - Malmö FF - Champions League - viaplay
-DTSTART:20240827T185000
-DTEND:20240827T195000
-DTSTAMP:20240827T185000Z
-UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
-DESCRIPTION:Sparta Prag - Malmö FF - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Norwich - Carabao Cup - viaplay
@@ -639,22 +631,6 @@ UID:2024-08-28T18:25:00/Wolverhampton - Burnley
 DESCRIPTION:Wolverhampton - Burnley - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cardiff - Southampton - Carabao Cup - viaplay
-DTSTART:20240828T184000
-DTEND:20240828T194000
-DTSTAMP:20240828T184000Z
-UID:2024-08-28T18:40:00/Cardiff - Southampton
-DESCRIPTION:Cardiff - Southampton - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swansea - Wycombe - Carabao Cup - viaplay
-DTSTART:20240828T184000
-DTEND:20240828T194000
-DTSTAMP:20240828T184000Z
-UID:2024-08-28T18:40:00/Swansea - Wycombe
-DESCRIPTION:Swansea - Wycombe - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AFC Wimbledon - Ipswich - Carabao Cup - viaplay
 DTSTART:20240828T184000
 DTEND:20240828T194000
@@ -671,12 +647,36 @@ UID:2024-08-28T18:40:00/West Ham - Bournemouth
 DESCRIPTION:West Ham - Bournemouth - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cardiff - Southampton - Carabao Cup - viaplay
+DTSTART:20240828T184000
+DTEND:20240828T194000
+DTSTAMP:20240828T184000Z
+UID:2024-08-28T18:40:00/Cardiff - Southampton
+DESCRIPTION:Cardiff - Southampton - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colchester - Brentford - Carabao Cup - viaplay
 DTSTART:20240828T184000
 DTEND:20240828T194000
 DTSTAMP:20240828T184000Z
 UID:2024-08-28T18:40:00/Colchester - Brentford
 DESCRIPTION:Colchester - Brentford - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swansea - Wycombe - Carabao Cup - viaplay
+DTSTART:20240828T184000
+DTEND:20240828T194000
+DTSTAMP:20240828T184000Z
+UID:2024-08-28T18:40:00/Swansea - Wycombe
+DESCRIPTION:Swansea - Wycombe - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rauða stjarnan - Bodø/Glimt - Champions League - viaplay
+DTSTART:20240828T185000
+DTEND:20240828T195000
+DTSTAMP:20240828T185000Z
+UID:2024-08-28T18:50:00/Rauða stjarnan - Bodø/Glimt
+DESCRIPTION:Rauða stjarnan - Bodø/Glimt - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Evróp
@@ -687,14 +687,6 @@ DTSTAMP:20240828T185000Z
 UID:2024-08-28T18:50:00/Slovan Bratislava - Midtjylland
 DESCRIPTION:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Ev
  rópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rauða stjarnan - Bodø/Glimt - Champions League - viaplay
-DTSTART:20240828T185000
-DTEND:20240828T195000
-DTSTAMP:20240828T185000Z
-UID:2024-08-28T18:50:00/Rauða stjarnan - Bodø/Glimt
-DESCRIPTION:Rauða stjarnan - Bodø/Glimt - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Newcastle - Carabao Cup - viaplay
@@ -745,20 +737,20 @@ UID:2024-08-30T14:55:00/Turbine Potsdam - Bayern München
 DESCRIPTION:Turbine Potsdam - Bayern München - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
-DTSTART:20240830T162000
-DTEND:20240830T172000
-DTSTAMP:20240830T162000Z
-UID:2024-08-30T16:20:00/Düsseldorf - Hannover
-DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jahn Regensburg - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20240830T162000
 DTEND:20240830T172000
 DTSTAMP:20240830T162000Z
 UID:2024-08-30T16:20:00/Jahn Regensburg - Greuther Fürth
 DESCRIPTION:Jahn Regensburg - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
+DTSTART:20240830T162000
+DTEND:20240830T172000
+DTSTAMP:20240830T162000Z
+UID:2024-08-30T16:20:00/Düsseldorf - Hannover
+DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - St. Pauli - Bundesliga - viaplay
