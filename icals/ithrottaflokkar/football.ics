@@ -18,20 +18,20 @@ UID:2024-08-25T10:55:00/St. Mirren - Celtic
 DESCRIPTION:St. Mirren - Celtic - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - Nürnberg - 2. Bundesliga - viaplay
-DTSTART:20240825T112000
-DTEND:20240825T122000
-DTSTAMP:20240825T112000Z
-UID:2024-08-25T11:20:00/Darmstadt - Nürnberg
-DESCRIPTION:Darmstadt - Nürnberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Schalke - 2. Bundesliga - viaplay
 DTSTART:20240825T112000
 DTEND:20240825T122000
 DTSTAMP:20240825T112000Z
 UID:2024-08-25T11:20:00/Magdeburg - Schalke
 DESCRIPTION:Magdeburg - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Nürnberg - 2. Bundesliga - viaplay
+DTSTART:20240825T112000
+DTEND:20240825T122000
+DTSTAMP:20240825T112000Z
+UID:2024-08-25T11:20:00/Darmstadt - Nürnberg
+DESCRIPTION:Darmstadt - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulm - Düsseldorf - 2. Bundesliga - viaplay
@@ -98,20 +98,20 @@ UID:2024-08-25T13:50:00/Fylkir - Þór/KA
 DESCRIPTION:Fylkir - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Keflavík - Besta deild kvenna - stod2besta02
-DTSTART:20240825T135000
-DTEND:20240825T145000
-DTSTAMP:20240825T135000Z
-UID:2024-08-25T13:50:00/Tindastóll - Keflavík
-DESCRIPTION:Tindastóll - Keflavík - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Valur - Besta deild kvenna - stod2sport
 DTSTART:20240825T135000
 DTEND:20240825T145000
 DTSTAMP:20240825T135000Z
 UID:2024-08-25T13:50:00/FH - Valur
 DESCRIPTION:FH - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Keflavík - Besta deild kvenna - stod2besta02
+DTSTART:20240825T135000
+DTEND:20240825T145000
+DTSTAMP:20240825T135000Z
+UID:2024-08-25T13:50:00/Tindastóll - Keflavík
+DESCRIPTION:Tindastóll - Keflavík - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Cardiff - Championship - viaplay
@@ -253,6 +253,54 @@ UID:2024-08-27T18:10:00/Middlesbrough - Stoke
 DESCRIPTION:Middlesbrough - Stoke - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:QPR - Luton - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/QPR - Luton
+DESCRIPTION:QPR - Luton - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harrogate - Preston - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Harrogate - Preston
+DESCRIPTION:Harrogate - Preston - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barnsley - Sheffield United - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Barnsley - Sheffield United
+DESCRIPTION:Barnsley - Sheffield United - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blackburn - Blackpool - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Blackburn - Blackpool
+DESCRIPTION:Blackburn - Blackpool - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Doncaster - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Everton - Doncaster
+DESCRIPTION:Everton - Doncaster - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watford - Plymouth - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Watford - Plymouth
+DESCRIPTION:Watford - Plymouth - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Walsall - Huddersfield - Carabao Cup - viaplay
 DTSTART:20240827T184000
 DTEND:20240827T194000
@@ -285,76 +333,12 @@ UID:2024-08-27T18:40:00/Grimsby - Sheffield Wednesday
 DESCRIPTION:Grimsby - Sheffield Wednesday - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QPR - Luton - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/QPR - Luton
-DESCRIPTION:QPR - Luton - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fleetwood - Rotherham - Carabao Cup - viaplay
 DTSTART:20240827T184000
 DTEND:20240827T194000
 DTSTAMP:20240827T184000Z
 UID:2024-08-27T18:40:00/Fleetwood - Rotherham
 DESCRIPTION:Fleetwood - Rotherham - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harrogate - Preston - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Harrogate - Preston
-DESCRIPTION:Harrogate - Preston - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - Doncaster - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Everton - Doncaster
-DESCRIPTION:Everton - Doncaster - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackburn - Blackpool - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Blackburn - Blackpool
-DESCRIPTION:Blackburn - Blackpool - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barnsley - Sheffield United - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Barnsley - Sheffield United
-DESCRIPTION:Barnsley - Sheffield United - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coventry - Oxford - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Coventry - Oxford
-DESCRIPTION:Coventry - Oxford - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leicester - Tranmere - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Leicester - Tranmere
-DESCRIPTION:Leicester - Tranmere - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barrow - Derby - Carabao Cup - viaplay
-DTSTART:20240827T184000
-DTEND:20240827T194000
-DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Barrow - Derby
-DESCRIPTION:Barrow - Derby - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shrewsbury - Bolton - Carabao Cup - viaplay
@@ -365,12 +349,28 @@ UID:2024-08-27T18:40:00/Shrewsbury - Bolton
 DESCRIPTION:Shrewsbury - Bolton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Watford - Plymouth - Carabao Cup - viaplay
+SUMMARY:Barrow - Derby - Carabao Cup - viaplay
 DTSTART:20240827T184000
 DTEND:20240827T194000
 DTSTAMP:20240827T184000Z
-UID:2024-08-27T18:40:00/Watford - Plymouth
-DESCRIPTION:Watford - Plymouth - Carabao Cup
+UID:2024-08-27T18:40:00/Barrow - Derby
+DESCRIPTION:Barrow - Derby - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leicester - Tranmere - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Leicester - Tranmere
+DESCRIPTION:Leicester - Tranmere - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coventry - Oxford - Carabao Cup - viaplay
+DTSTART:20240827T184000
+DTEND:20240827T194000
+DTSTAMP:20240827T184000Z
+UID:2024-08-27T18:40:00/Coventry - Oxford
+DESCRIPTION:Coventry - Oxford - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu - stod2vo
@@ -390,20 +390,20 @@ UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
 DESCRIPTION:Sparta Prag - Malmö FF - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Norwich - Carabao Cup - viaplay
-DTSTART:20240827T185500
-DTEND:20240827T195500
-DTSTAMP:20240827T185500Z
-UID:2024-08-27T18:55:00/Crystal Palace - Norwich
-DESCRIPTION:Crystal Palace - Norwich - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Birmingham - Fulham - Carabao Cup - viaplay
 DTSTART:20240827T185500
 DTEND:20240827T195500
 DTSTAMP:20240827T185500Z
 UID:2024-08-27T18:55:00/Birmingham - Fulham
 DESCRIPTION:Birmingham - Fulham - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Norwich - Carabao Cup - viaplay
+DTSTART:20240827T185500
+DTEND:20240827T195500
+DTSTAMP:20240827T185500Z
+UID:2024-08-27T18:55:00/Crystal Palace - Norwich
+DESCRIPTION:Crystal Palace - Norwich - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
@@ -430,6 +430,22 @@ UID:2024-08-28T18:25:00/Wolverhampton - Burnley
 DESCRIPTION:Wolverhampton - Burnley - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:West Ham - Bournemouth - Carabao Cup - viaplay
+DTSTART:20240828T184000
+DTEND:20240828T194000
+DTSTAMP:20240828T184000Z
+UID:2024-08-28T18:40:00/West Ham - Bournemouth
+DESCRIPTION:West Ham - Bournemouth - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardiff - Southampton - Carabao Cup - viaplay
+DTSTART:20240828T184000
+DTEND:20240828T194000
+DTSTAMP:20240828T184000Z
+UID:2024-08-28T18:40:00/Cardiff - Southampton
+DESCRIPTION:Cardiff - Southampton - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colchester - Brentford - Carabao Cup - viaplay
 DTSTART:20240828T184000
 DTEND:20240828T194000
@@ -454,20 +470,12 @@ UID:2024-08-28T18:40:00/AFC Wimbledon - Ipswich
 DESCRIPTION:AFC Wimbledon - Ipswich - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Ham - Bournemouth - Carabao Cup - viaplay
-DTSTART:20240828T184000
-DTEND:20240828T194000
-DTSTAMP:20240828T184000Z
-UID:2024-08-28T18:40:00/West Ham - Bournemouth
-DESCRIPTION:West Ham - Bournemouth - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cardiff - Southampton - Carabao Cup - viaplay
-DTSTART:20240828T184000
-DTEND:20240828T194000
-DTSTAMP:20240828T184000Z
-UID:2024-08-28T18:40:00/Cardiff - Southampton
-DESCRIPTION:Cardiff - Southampton - Carabao Cup
+SUMMARY:Rauða stjarnan - Bodø/Glimt - Champions League - viaplay
+DTSTART:20240828T185000
+DTEND:20240828T195000
+DTSTAMP:20240828T185000Z
+UID:2024-08-28T18:50:00/Rauða stjarnan - Bodø/Glimt
+DESCRIPTION:Rauða stjarnan - Bodø/Glimt - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Evróp
@@ -478,14 +486,6 @@ DTSTAMP:20240828T185000Z
 UID:2024-08-28T18:50:00/Slovan Bratislava - Midtjylland
 DESCRIPTION:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Ev
  rópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rauða stjarnan - Bodø/Glimt - Champions League - viaplay
-DTSTART:20240828T185000
-DTEND:20240828T195000
-DTSTAMP:20240828T185000Z
-UID:2024-08-28T18:50:00/Rauða stjarnan - Bodø/Glimt
-DESCRIPTION:Rauða stjarnan - Bodø/Glimt - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slovan Bratislava - FC Midtjylland - Champions League - viaplay
@@ -536,20 +536,20 @@ UID:2024-08-30T14:55:00/Turbine Potsdam - Bayern München
 DESCRIPTION:Turbine Potsdam - Bayern München - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jahn Regensburg - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20240830T162000
-DTEND:20240830T172000
-DTSTAMP:20240830T162000Z
-UID:2024-08-30T16:20:00/Jahn Regensburg - Greuther Fürth
-DESCRIPTION:Jahn Regensburg - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
 DTSTART:20240830T162000
 DTEND:20240830T172000
 DTSTAMP:20240830T162000Z
 UID:2024-08-30T16:20:00/Düsseldorf - Hannover
 DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahn Regensburg - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20240830T162000
+DTEND:20240830T172000
+DTSTAMP:20240830T162000Z
+UID:2024-08-30T16:20:00/Jahn Regensburg - Greuther Fürth
+DESCRIPTION:Jahn Regensburg - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - St. Pauli - Bundesliga - viaplay
@@ -568,22 +568,6 @@ UID:2024-08-30T18:55:00/Luton - QPR
 DESCRIPTION:Luton - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AIK - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20240831T105000
-DTEND:20240831T115000
-DTSTAMP:20240831T105000Z
-UID:2024-08-31T10:50:00/AIK - Rosengård
-DESCRIPTION:AIK - Rosengård - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elversberg - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20240831T105000
-DTEND:20240831T115000
-DTSTAMP:20240831T105000Z
-UID:2024-08-31T10:50:00/Elversberg - Darmstadt
-DESCRIPTION:Elversberg - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HSV - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20240831T105000
 DTEND:20240831T115000
@@ -592,12 +576,28 @@ UID:2024-08-31T10:50:00/HSV - Preußen Münster
 DESCRIPTION:HSV - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AIK - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20240831T105000
+DTEND:20240831T115000
+DTSTAMP:20240831T105000Z
+UID:2024-08-31T10:50:00/AIK - Rosengård
+DESCRIPTION:AIK - Rosengård - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nürnberg - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20240831T105000
 DTEND:20240831T115000
 DTSTAMP:20240831T105000Z
 UID:2024-08-31T10:50:00/Nürnberg - Magdeburg
 DESCRIPTION:Nürnberg - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elversberg - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20240831T105000
+DTEND:20240831T115000
+DTSTAMP:20240831T105000Z
+UID:2024-08-31T10:50:00/Elversberg - Darmstadt
+DESCRIPTION:Elversberg - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Brighton - Enska úrvalsdeildin - siminnsport
@@ -624,6 +624,14 @@ UID:2024-08-31T11:55:00/Freiburg - Leverkusen
 DESCRIPTION:Freiburg - Leverkusen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Piteå - Häcken - OBOS Damallsvenskan - viaplay
+DTSTART:20240831T125000
+DTEND:20240831T135000
+DTSTAMP:20240831T125000Z
+UID:2024-08-31T12:50:00/Piteå - Häcken
+DESCRIPTION:Piteå - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Linköping - Brommapojkarna - OBOS Damallsvenskan - viaplay
 DTSTART:20240831T125000
 DTEND:20240831T135000
@@ -638,38 +646,6 @@ DTEND:20240831T135000
 DTSTAMP:20240831T125000Z
 UID:2024-08-31T12:50:00/Trelleborg - Norrköping
 DESCRIPTION:Trelleborg - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piteå - Häcken - OBOS Damallsvenskan - viaplay
-DTSTART:20240831T125000
-DTEND:20240831T135000
-DTSTAMP:20240831T125000Z
-UID:2024-08-31T12:50:00/Piteå - Häcken
-DESCRIPTION:Piteå - Häcken - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankfurt - Hoffenheim - Bundesliga - viaplay
-DTSTART:20240831T132000
-DTEND:20240831T142000
-DTSTAMP:20240831T132000Z
-UID:2024-08-31T13:20:00/Frankfurt - Hoffenheim
-DESCRIPTION:Frankfurt - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20240831T132000
-DTEND:20240831T142000
-DTSTAMP:20240831T132000Z
-UID:2024-08-31T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stuttgart - Mainz 05 - Bundesliga - viaplay
-DTSTART:20240831T132000
-DTEND:20240831T142000
-DTSTAMP:20240831T132000Z
-UID:2024-08-31T13:20:00/Stuttgart - Mainz 05
-DESCRIPTION:Stuttgart - Mainz 05 - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Wolfsburg - Bundesliga - viaplay
@@ -696,7 +672,31 @@ UID:2024-08-31T13:20:00/Werder Bremen - Dortmund
 DESCRIPTION:Werder Bremen - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leicester - Aston Villa - Enska úrvalsdeildin - sjonvarpsimans
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20240831T132000
+DTEND:20240831T142000
+DTSTAMP:20240831T132000Z
+UID:2024-08-31T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Mainz 05 - Bundesliga - viaplay
+DTSTART:20240831T132000
+DTEND:20240831T142000
+DTSTAMP:20240831T132000Z
+UID:2024-08-31T13:20:00/Stuttgart - Mainz 05
+DESCRIPTION:Stuttgart - Mainz 05 - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Hoffenheim - Bundesliga - viaplay
+DTSTART:20240831T132000
+DTEND:20240831T142000
+DTSTAMP:20240831T132000Z
+UID:2024-08-31T13:20:00/Frankfurt - Hoffenheim
+DESCRIPTION:Frankfurt - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leicester - Aston Villa - Enska úrvalsdeildin - siminnsport
 DTSTART:20240831T133000
 DTEND:20240831T143000
 DTSTAMP:20240831T133000Z
@@ -704,7 +704,7 @@ UID:2024-08-31T13:30:00/Leicester - Aston Villa
 DESCRIPTION:Leicester - Aston Villa - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leicester - Aston Villa - Enska úrvalsdeildin - siminnsport
+SUMMARY:Leicester - Aston Villa - Enska úrvalsdeildin - sjonvarpsimans
 DTSTART:20240831T133000
 DTEND:20240831T143000
 DTSTAMP:20240831T133000Z
