@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Bitnile.com Grand Prix of Portland (Úrslit Æfing) - IndyCar - vi
- aplay
-DTSTART:20240825T001500
-DTEND:20240825T011500
-DTSTAMP:20240825T001500Z
-UID:2024-08-25T00:15:00/Bitnile.com Grand Prix of Portland (Úrslit Æfing
- )
-DESCRIPTION:Bitnile.com Grand Prix of Portland (Úrslit Æfing) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bitnile.com Grand Prix of Portland (Kappakstur) - IndyCar - viapla
- y
-DTSTART:20240825T190000
-DTEND:20240825T200000
-DTSTAMP:20240825T190000Z
-UID:2024-08-25T19:00:00/Bitnile.com Grand Prix of Portland (Kappakstur)
-DESCRIPTION:Bitnile.com Grand Prix of Portland (Kappakstur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Milwaukee Mile 250 (Æfing) - IndyCar - viaplay
 DTSTART:20240830T195500
 DTEND:20240830T205500
@@ -43,5 +24,13 @@ DTEND:20240831T230000
 DTSTAMP:20240831T220000Z
 UID:2024-08-31T22:00:00/Milwaukee Mile 250 (Kappakstur 1)
 DESCRIPTION:Milwaukee Mile 250 (Kappakstur 1) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milwaukee Mile 250 (Kappakstur 2) - IndyCar - viaplay
+DTSTART:20240901T183000
+DTEND:20240901T193000
+DTSTAMP:20240901T183000Z
+UID:2024-09-01T18:30:00/Milwaukee Mile 250 (Kappakstur 2)
+DESCRIPTION:Milwaukee Mile 250 (Kappakstur 2) - IndyCar
 END:VEVENT
 END:VCALENDAR
