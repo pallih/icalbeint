@@ -138,20 +138,20 @@ UID:2024-08-27T18:50:00/Sparta Prag - Malmö FF
 DESCRIPTION:Sparta Prag - Malmö FF - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Birmingham - Fulham - Carabao Cup - viaplay
-DTSTART:20240827T185500
-DTEND:20240827T195500
-DTSTAMP:20240827T185500Z
-UID:2024-08-27T18:55:00/Birmingham - Fulham
-DESCRIPTION:Birmingham - Fulham - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crystal Palace - Norwich - Carabao Cup - viaplay
 DTSTART:20240827T185500
 DTEND:20240827T195500
 DTSTAMP:20240827T185500Z
 UID:2024-08-27T18:55:00/Crystal Palace - Norwich
 DESCRIPTION:Crystal Palace - Norwich - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birmingham - Fulham - Carabao Cup - viaplay
+DTSTART:20240827T185500
+DTEND:20240827T195500
+DTSTAMP:20240827T185500Z
+UID:2024-08-27T18:55:00/Birmingham - Fulham
+DESCRIPTION:Birmingham - Fulham - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KIF Örebro - Linköping - OBOS Damallsvenskan - viaplay
@@ -170,12 +170,12 @@ UID:2024-08-28T18:25:00/Wolverhampton - Burnley
 DESCRIPTION:Wolverhampton - Burnley - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Ham - Bournemouth - Carabao Cup - viaplay
+SUMMARY:AFC Wimbledon - Ipswich - Carabao Cup - viaplay
 DTSTART:20240828T184000
 DTEND:20240828T194000
 DTSTAMP:20240828T184000Z
-UID:2024-08-28T18:40:00/West Ham - Bournemouth
-DESCRIPTION:West Ham - Bournemouth - Carabao Cup
+UID:2024-08-28T18:40:00/AFC Wimbledon - Ipswich
+DESCRIPTION:AFC Wimbledon - Ipswich - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Wycombe - Carabao Cup - viaplay
@@ -186,12 +186,12 @@ UID:2024-08-28T18:40:00/Swansea - Wycombe
 DESCRIPTION:Swansea - Wycombe - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AFC Wimbledon - Ipswich - Carabao Cup - viaplay
+SUMMARY:West Ham - Bournemouth - Carabao Cup - viaplay
 DTSTART:20240828T184000
 DTEND:20240828T194000
 DTSTAMP:20240828T184000Z
-UID:2024-08-28T18:40:00/AFC Wimbledon - Ipswich
-DESCRIPTION:AFC Wimbledon - Ipswich - Carabao Cup
+UID:2024-08-28T18:40:00/West Ham - Bournemouth
+DESCRIPTION:West Ham - Bournemouth - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cardiff - Southampton - Carabao Cup - viaplay
@@ -258,14 +258,6 @@ UID:2024-08-29T16:00:00/Dregið
 DESCRIPTION:Dregið - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FM Global Championship - LPGA - viaplay
-DTSTART:20240829T193000
-DTEND:20240829T203000
-DTSTAMP:20240829T193000Z
-UID:2024-08-29T19:30:00/FM Global Championship
-DESCRIPTION:FM Global Championship - LPGA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aragon Grand Prix (Frjáls æfing) - Moto3 - viaplay
 DTSTART:20240830T065500
 DTEND:20240830T075500
@@ -322,28 +314,12 @@ UID:2024-08-30T11:25:00/Monza Kappaksturinn (Æfing 1)
 DESCRIPTION:Monza Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240830T113000
-DTEND:20240830T123000
-DTSTAMP:20240830T113000Z
-UID:2024-08-30T11:30:00/Pitlane (Æfing 1 | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:British Masters - DP World Tour - viaplay
 DTSTART:20240830T113000
 DTEND:20240830T123000
 DTSTAMP:20240830T113000Z
 UID:2024-08-30T11:30:00/British Masters
 DESCRIPTION:British Masters - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240830T113000
-DTEND:20240830T123000
-DTSTAMP:20240830T113000Z
-UID:2024-08-30T11:30:00/Timing (Æfing 1 | Monza Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -354,12 +330,28 @@ UID:2024-08-30T11:30:00/Onboard (Æfing 1 | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240830T113000
+DTEND:20240830T123000
+DTSTAMP:20240830T113000Z
+UID:2024-08-30T11:30:00/Pitlane (Æfing 1 | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning - Formula 1 - viaplay
 DTSTART:20240830T113000
 DTEND:20240830T123000
 DTSTAMP:20240830T113000Z
 UID:2024-08-30T11:30:00/Track Positioning
 DESCRIPTION:Track Positioning - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240830T113000
+DTEND:20240830T123000
+DTSTAMP:20240830T113000Z
+UID:2024-08-30T11:30:00/Timing (Æfing 1 | Monza Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Grand Prix (Æfing) - Moto2 - viaplay
@@ -725,14 +717,6 @@ UID:2024-08-31T12:35:00/Aragon Grand Prix (Sprettkeppni)
 DESCRIPTION:Aragon Grand Prix (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Piteå - Häcken - OBOS Damallsvenskan - viaplay
-DTSTART:20240831T125000
-DTEND:20240831T135000
-DTSTAMP:20240831T125000Z
-UID:2024-08-31T12:50:00/Piteå - Häcken
-DESCRIPTION:Piteå - Häcken - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Linköping - Brommapojkarna - OBOS Damallsvenskan - viaplay
 DTSTART:20240831T125000
 DTEND:20240831T135000
@@ -747,6 +731,14 @@ DTEND:20240831T135000
 DTSTAMP:20240831T125000Z
 UID:2024-08-31T12:50:00/Trelleborg - Norrköping
 DESCRIPTION:Trelleborg - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piteå - Häcken - OBOS Damallsvenskan - viaplay
+DTSTART:20240831T125000
+DTEND:20240831T135000
+DTSTAMP:20240831T125000Z
+UID:2024-08-31T12:50:00/Piteå - Häcken
+DESCRIPTION:Piteå - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KPMG Women's Irish Open - Ladies European Tour - viaplay
@@ -830,20 +822,23 @@ UID:2024-08-31T13:55:00/Plymouth - Stoke
 DESCRIPTION:Plymouth - Stoke - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formula 1 
+ - viaplay
+DTSTART:20240831T140000
+DTEND:20240831T150000
+DTSTAMP:20240831T140000Z
+UID:2024-08-31T14:00:00/Track Positioning (Tímatökur | Monza Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240831T140000
 DTEND:20240831T150000
 DTSTAMP:20240831T140000Z
 UID:2024-08-31T14:00:00/Pitlane (Tímatökur | Monza Kappaksturinn)
 DESCRIPTION:Pitlane (Tímatökur | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240831T140000
-DTEND:20240831T150000
-DTSTAMP:20240831T140000Z
-UID:2024-08-31T14:00:00/Timing (Tímatökur | Monza Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -854,15 +849,12 @@ UID:2024-08-31T14:00:00/Onboard (Tímatökur | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240831T140000
 DTEND:20240831T150000
 DTSTAMP:20240831T140000Z
-UID:2024-08-31T14:00:00/Track Positioning (Tímatökur | Monza Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formul
- a 1
+UID:2024-08-31T14:00:00/Timing (Tímatökur | Monza Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Leipzig - Bundesliga - viaplay
@@ -1060,6 +1052,22 @@ UID:2024-09-01T12:30:00/Monza Kappaksturinn (Kappakstur)
 DESCRIPTION:Monza Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240901T130000
+DTEND:20240901T140000
+DTSTAMP:20240901T130000Z
+UID:2024-09-01T13:00:00/Onboard (Kappakstur | Monza Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Monza Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KPMG Women's Irish Open - Ladies European Tour - viaplay
+DTSTART:20240901T130000
+DTEND:20240901T140000
+DTSTAMP:20240901T130000Z
+UID:2024-09-01T13:00:00/KPMG Women's Irish Open
+DESCRIPTION:KPMG Women's Irish Open - Ladies European Tour
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240901T130000
 DTEND:20240901T140000
@@ -1079,28 +1087,12 @@ DESCRIPTION:Track Positioning (Kappakstur | Monza Kappaksturinn) - Formula
   1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240901T130000
-DTEND:20240901T140000
-DTSTAMP:20240901T130000Z
-UID:2024-09-01T13:00:00/Onboard (Kappakstur | Monza Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240901T130000
 DTEND:20240901T140000
 DTSTAMP:20240901T130000Z
 UID:2024-09-01T13:00:00/Timing (Kappakstur | Monza Kappaksturinn)
 DESCRIPTION:Timing (Kappakstur | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KPMG Women's Irish Open - Ladies European Tour - viaplay
-DTSTART:20240901T130000
-DTEND:20240901T140000
-DTSTAMP:20240901T130000Z
-UID:2024-09-01T13:00:00/KPMG Women's Irish Open
-DESCRIPTION:KPMG Women's Irish Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heidenheim - Augsburg - Bundesliga - viaplay
