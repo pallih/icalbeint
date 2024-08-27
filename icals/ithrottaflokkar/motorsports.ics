@@ -34,14 +34,6 @@ UID:2024-08-30T11:10:00/Aragon Grand Prix (Æfing)
 DESCRIPTION:Aragon Grand Prix (Æfing) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monza Kappaksturinn (Æfing 1) - Formula 1 - viaplay
-DTSTART:20240830T112500
-DTEND:20240830T122500
-DTSTAMP:20240830T112500Z
-UID:2024-08-30T11:25:00/Monza Kappaksturinn (Æfing 1)
-DESCRIPTION:Monza Kappaksturinn (Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1 - Ítalía: Æfing 1 - Formúla 1 - stod2vodasport
 DTSTART:20240830T112500
 DTEND:20240830T122500
@@ -50,12 +42,20 @@ UID:2024-08-30T11:25:00/F1 - Ítalía: Æfing 1
 DESCRIPTION:F1 - Ítalía: Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning - Formula 1 - viaplay
+SUMMARY:Monza Kappaksturinn (Æfing 1) - Formula 1 - viaplay
+DTSTART:20240830T112500
+DTEND:20240830T122500
+DTSTAMP:20240830T112500Z
+UID:2024-08-30T11:25:00/Monza Kappaksturinn (Æfing 1)
+DESCRIPTION:Monza Kappaksturinn (Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240830T113000
 DTEND:20240830T123000
 DTSTAMP:20240830T113000Z
-UID:2024-08-30T11:30:00/Track Positioning
-DESCRIPTION:Track Positioning - Formula 1
+UID:2024-08-30T11:30:00/Pitlane (Æfing 1 | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -74,12 +74,12 @@ UID:2024-08-30T11:30:00/Onboard (Æfing 1 | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Track Positioning - Formula 1 - viaplay
 DTSTART:20240830T113000
 DTEND:20240830T123000
 DTSTAMP:20240830T113000Z
-UID:2024-08-30T11:30:00/Pitlane (Æfing 1 | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1
+UID:2024-08-30T11:30:00/Track Positioning
+DESCRIPTION:Track Positioning - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Grand Prix (Æfing) - Moto2 - viaplay
@@ -130,6 +130,14 @@ UID:2024-08-30T14:55:00/F1 - Ítalía: Æfing 2
 DESCRIPTION:F1 - Ítalía: Æfing 2 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240830T150000
+DTEND:20240830T160000
+DTSTAMP:20240830T150000Z
+UID:2024-08-30T15:00:00/Pitlane (Æfing 2 | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Monza Kappaksturinn) - Formula 1 - v
  iaplay
 DTSTART:20240830T150000
@@ -137,14 +145,6 @@ DTEND:20240830T160000
 DTSTAMP:20240830T150000Z
 UID:2024-08-30T15:00:00/Track Positioning (Æfing 2 | Monza Kappaksturinn)
 DESCRIPTION:Track Positioning (Æfing 2 | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240830T150000
-DTEND:20240830T160000
-DTSTAMP:20240830T150000Z
-UID:2024-08-30T15:00:00/Pitlane (Æfing 2 | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -260,12 +260,12 @@ UID:2024-08-31T10:30:00/Timing (Æfing 3 | Monza Kappaksturinn)
 DESCRIPTION:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Onboard (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240831T103000
 DTEND:20240831T113000
 DTSTAMP:20240831T103000Z
-UID:2024-08-31T10:30:00/Pitlane (Æfing 3 | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1
+UID:2024-08-31T10:30:00/Onboard (Æfing 3 | Monza Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Monza Kappaksturinn) - Formula 1 - v
@@ -277,12 +277,12 @@ UID:2024-08-31T10:30:00/Track Positioning (Æfing 3 | Monza Kappaksturinn)
 DESCRIPTION:Track Positioning (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240831T103000
 DTEND:20240831T113000
 DTSTAMP:20240831T103000Z
-UID:2024-08-31T10:30:00/Onboard (Æfing 3 | Monza Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Monza Kappaksturinn) - Formula 1
+UID:2024-08-31T10:30:00/Pitlane (Æfing 3 | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Grand Prix (Tímatökur) - Moto3 - viaplay
@@ -317,20 +317,20 @@ UID:2024-08-31T12:35:00/Aragon Grand Prix (Sprettkeppni)
 DESCRIPTION:Aragon Grand Prix (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 - Ítalía: Tímataka - Formúla 1 - stod2vodasport
-DTSTART:20240831T134500
-DTEND:20240831T144500
-DTSTAMP:20240831T134500Z
-UID:2024-08-31T13:45:00/F1 - Ítalía: Tímataka
-DESCRIPTION:F1 - Ítalía: Tímataka - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monza Kappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20240831T134500
 DTEND:20240831T144500
 DTSTAMP:20240831T134500Z
 UID:2024-08-31T13:45:00/Monza Kappaksturinn (Tímatökur)
 DESCRIPTION:Monza Kappaksturinn (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1 - Ítalía: Tímataka - Formúla 1 - stod2vodasport
+DTSTART:20240831T134500
+DTEND:20240831T144500
+DTSTAMP:20240831T134500Z
+UID:2024-08-31T13:45:00/F1 - Ítalía: Tímataka
+DESCRIPTION:F1 - Ítalía: Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Most (Kappakstur 2) - FIA European Truck Racing Championship - via
@@ -342,15 +342,12 @@ UID:2024-08-31T13:55:00/Most (Kappakstur 2)
 DESCRIPTION:Most (Kappakstur 2) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Pitlane (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240831T140000
 DTEND:20240831T150000
 DTSTAMP:20240831T140000Z
-UID:2024-08-31T14:00:00/Track Positioning (Tímatökur | Monza Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formul
- a 1
+UID:2024-08-31T14:00:00/Pitlane (Tímatökur | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -369,12 +366,15 @@ UID:2024-08-31T14:00:00/Onboard (Tímatökur | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formula 1 
+ - viaplay
 DTSTART:20240831T140000
 DTEND:20240831T150000
 DTSTAMP:20240831T140000Z
-UID:2024-08-31T14:00:00/Pitlane (Tímatökur | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Tímatökur | Monza Kappaksturinn) - Formula 1
+UID:2024-08-31T14:00:00/Track Positioning (Tímatökur | Monza Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Milwaukee Mile 250 (Tímatökur) - IndyCar - viaplay
@@ -484,14 +484,6 @@ UID:2024-09-01T12:30:00/Formúla 1
 DESCRIPTION:Formúla 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240901T130000
-DTEND:20240901T140000
-DTSTAMP:20240901T130000Z
-UID:2024-09-01T13:00:00/Timing (Kappakstur | Monza Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240901T130000
 DTEND:20240901T140000
@@ -517,6 +509,14 @@ DTEND:20240901T140000
 DTSTAMP:20240901T130000Z
 UID:2024-09-01T13:00:00/Onboard (Kappakstur | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Kappakstur | Monza Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240901T130000
+DTEND:20240901T140000
+DTSTAMP:20240901T130000Z
+UID:2024-09-01T13:00:00/Timing (Kappakstur | Monza Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Most (Kappakstur 4) - FIA European Truck Racing Championship - via

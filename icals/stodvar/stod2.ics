@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Rosengard - Häcken - Sænska úrvalsdeildin - stod2vodasport
-DTSTART:20240826T164500
-DTEND:20240826T174500
-DTSTAMP:20240826T164500Z
-UID:2024-08-26T16:45:00/Rosengard - Häcken
-DESCRIPTION:Rosengard - Häcken - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - HK - Besta deild karla - stod2sport
-DTSTART:20240826T190500
-DTEND:20240826T200500
-DTSTAMP:20240826T190500Z
-UID:2024-08-26T19:05:00/Stjarnan - HK
-DESCRIPTION:Stjarnan - HK - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - stod2sport
-DTSTART:20240826T212000
-DTEND:20240826T222000
-DTSTAMP:20240826T212000Z
-UID:2024-08-26T21:20:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twins - Braves - MLB - stod2vodasport
-DTSTART:20240826T233000
-DTEND:20240827T003000
-DTSTAMP:20240826T233000Z
-UID:2024-08-26T23:30:00/Twins - Braves
-DESCRIPTION:Twins - Braves - MLB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salzburg - Dynamo Kiev - Forkeppni Meistaradeildar Evrópu - stod2
- sport3
-DTSTART:20240827T185000
-DTEND:20240827T195000
-DTSTAMP:20240827T185000Z
-UID:2024-08-27T18:50:00/Salzburg - Dynamo Kiev
-DESCRIPTION:Salzburg - Dynamo Kiev - Forkeppni Meistaradeildar Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sparta Prag - Malmö - Forkeppni Meistaradeildar Evrópu - stod2vo
  dasport
 DTSTART:20240827T185000
@@ -59,6 +18,15 @@ DTEND:20240827T195000
 DTSTAMP:20240827T185000Z
 UID:2024-08-27T18:50:00/Galatasaray - Young Boys
 DESCRIPTION:Galatasaray - Young Boys - Forkeppni Meistaradeildar Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salzburg - Dynamo Kiev - Forkeppni Meistaradeildar Evrópu - stod2
+ sport3
+DTSTART:20240827T185000
+DTEND:20240827T195000
+DTSTAMP:20240827T185000Z
+UID:2024-08-27T18:50:00/Salzburg - Dynamo Kiev
+DESCRIPTION:Salzburg - Dynamo Kiev - Forkeppni Meistaradeildar Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
@@ -94,6 +62,15 @@ UID:2024-08-28T16:50:00/KIF Örebro - Linköping
 DESCRIPTION:KIF Örebro - Linköping - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Slavia Prag - Lille - Forkeppni Meistaradeildar Evrópu - stod2spo
+ rt2
+DTSTART:20240828T185000
+DTEND:20240828T195000
+DTSTAMP:20240828T185000Z
+UID:2024-08-28T18:50:00/Slavia Prag - Lille
+DESCRIPTION:Slavia Prag - Lille - Forkeppni Meistaradeildar Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Evróp
  u - stod2vodasport
 DTSTART:20240828T185000
@@ -102,15 +79,6 @@ DTSTAMP:20240828T185000Z
 UID:2024-08-28T18:50:00/Slovan Bratislava - Midtjylland
 DESCRIPTION:Slovan Bratislava - Midtjylland - Forkeppni Meistaradeildar Ev
  rópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slavia Prag - Lille - Forkeppni Meistaradeildar Evrópu - stod2spo
- rt2
-DTSTART:20240828T185000
-DTEND:20240828T195000
-DTSTAMP:20240828T185000Z
-UID:2024-08-28T18:50:00/Slavia Prag - Lille
-DESCRIPTION:Slavia Prag - Lille - Forkeppni Meistaradeildar Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nationals - Yankess - MLB - stod2vodasport
@@ -351,20 +319,20 @@ UID:2024-09-01T16:05:00/KA - Breiðablik
 DESCRIPTION:KA - Breiðablik - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Stjarnan - Besta deild karla - stod2sport5
-DTSTART:20240901T165000
-DTEND:20240901T175000
-DTSTAMP:20240901T165000Z
-UID:2024-09-01T16:50:00/FH - Stjarnan
-DESCRIPTION:FH - Stjarnan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KR - ÍA - Besta deild karla - stod2besta02
 DTSTART:20240901T165000
 DTEND:20240901T175000
 DTSTAMP:20240901T165000Z
 UID:2024-09-01T16:50:00/KR - ÍA
 DESCRIPTION:KR - ÍA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Stjarnan - Besta deild karla - stod2sport5
+DTSTART:20240901T165000
+DTEND:20240901T175000
+DTSTAMP:20240901T165000Z
+UID:2024-09-01T16:50:00/FH - Stjarnan
+DESCRIPTION:FH - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:German Darts Championship - PDC European Tour - stod2vodasport
@@ -405,5 +373,45 @@ DTEND:20240901T222000
 DTSTAMP:20240901T212000Z
 UID:2024-09-01T21:20:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Werder Bremen - Bundesliga kvenna - stod2vodasport
+DTSTART:20240902T155500
+DTEND:20240902T165500
+DTSTAMP:20240902T155500Z
+UID:2024-09-02T15:55:00/Wolfsburg - Werder Bremen
+DESCRIPTION:Wolfsburg - Werder Bremen - Bundesliga kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Fylkir - Besta deild kvenna - stod2sport
+DTSTART:20240902T175000
+DTEND:20240902T185000
+DTSTAMP:20240902T175000Z
+UID:2024-09-02T17:50:00/Stjarnan - Fylkir
+DESCRIPTION:Stjarnan - Fylkir - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salford City - MK Dons - EFL League Two - stod2vodasport
+DTSTART:20240902T185500
+DTEND:20240902T195500
+DTSTAMP:20240902T185500Z
+UID:2024-09-02T18:55:00/Salford City - MK Dons
+DESCRIPTION:Salford City - MK Dons - EFL League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
+DTSTART:20240902T200000
+DTEND:20240902T210000
+DTSTAMP:20240902T200000Z
+UID:2024-09-02T20:00:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Sox - Mets - MLB - stod2vodasport
+DTSTART:20240902T230000
+DTEND:20240903T000000
+DTSTAMP:20240902T230000Z
+UID:2024-09-02T23:00:00/Red Sox - Mets
+DESCRIPTION:Red Sox - Mets - MLB
 END:VEVENT
 END:VCALENDAR
