@@ -26,20 +26,20 @@ UID:2024-08-29T12:45:00/Markbolti
 DESCRIPTION:Markbolti - Ólympíumót fatlaðra
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KPMG Women´s Irish Open - Ladies European Tour - stod2vodasport
-DTSTART:20240829T150000
-DTEND:20240829T160000
-DTSTAMP:20240829T150000Z
-UID:2024-08-29T15:00:00/KPMG Women´s Irish Open
-DESCRIPTION:KPMG Women´s Irish Open - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KPMG Women's Irish Open - Ladies European Tour - viaplay
 DTSTART:20240829T150000
 DTEND:20240829T160000
 DTSTAMP:20240829T150000Z
 UID:2024-08-29T15:00:00/KPMG Women's Irish Open
 DESCRIPTION:KPMG Women's Irish Open - Ladies European Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KPMG Women´s Irish Open - Ladies European Tour - stod2vodasport
+DTSTART:20240829T150000
+DTEND:20240829T160000
+DTSTAMP:20240829T150000Z
+UID:2024-08-29T15:00:00/KPMG Women´s Irish Open
+DESCRIPTION:KPMG Women´s Irish Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sund - Ólympíumót fatlaðra - ruv
@@ -175,14 +175,6 @@ UID:2024-08-30T11:10:00/Aragon Grand Prix (Æfing)
 DESCRIPTION:Aragon Grand Prix (Æfing) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 - Ítalía: Æfing 1 - Formúla 1 - stod2vodasport
-DTSTART:20240830T112500
-DTEND:20240830T122500
-DTSTAMP:20240830T112500Z
-UID:2024-08-30T11:25:00/F1 - Ítalía: Æfing 1
-DESCRIPTION:F1 - Ítalía: Æfing 1 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monza Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20240830T112500
 DTEND:20240830T122500
@@ -191,12 +183,12 @@ UID:2024-08-30T11:25:00/Monza Kappaksturinn (Æfing 1)
 DESCRIPTION:Monza Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240830T113000
-DTEND:20240830T123000
-DTSTAMP:20240830T113000Z
-UID:2024-08-30T11:30:00/Pitlane (Æfing 1 | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1
+SUMMARY:F1 - Ítalía: Æfing 1 - Formúla 1 - stod2vodasport
+DTSTART:20240830T112500
+DTEND:20240830T122500
+DTSTAMP:20240830T112500Z
+UID:2024-08-30T11:25:00/F1 - Ítalía: Æfing 1
+DESCRIPTION:F1 - Ítalía: Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -221,6 +213,14 @@ DTEND:20240830T123000
 DTSTAMP:20240830T113000Z
 UID:2024-08-30T11:30:00/Onboard (Æfing 1 | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Monza Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240830T113000
+DTEND:20240830T123000
+DTSTAMP:20240830T113000Z
+UID:2024-08-30T11:30:00/Pitlane (Æfing 1 | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning - Formula 1 - viaplay
@@ -279,12 +279,12 @@ UID:2024-08-30T13:55:00/Monza (Tímatökur)
 DESCRIPTION:Monza (Tímatökur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Turbine Potsdam - Bayern München - Frauen-Bundesliga - viaplay
+SUMMARY:F1 - Ítalía: Æfing 2 - Formúla 1 - stod2vodasport
 DTSTART:20240830T145500
 DTEND:20240830T155500
 DTSTAMP:20240830T145500Z
-UID:2024-08-30T14:55:00/Turbine Potsdam - Bayern München
-DESCRIPTION:Turbine Potsdam - Bayern München - Frauen-Bundesliga
+UID:2024-08-30T14:55:00/F1 - Ítalía: Æfing 2
+DESCRIPTION:F1 - Ítalía: Æfing 2 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monza Kappaksturinn (Æfing 2) - Formula 1 - viaplay
@@ -295,12 +295,20 @@ UID:2024-08-30T14:55:00/Monza Kappaksturinn (Æfing 2)
 DESCRIPTION:Monza Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 - Ítalía: Æfing 2 - Formúla 1 - stod2vodasport
+SUMMARY:Turbine Potsdam - Bayern München - Frauen-Bundesliga - viaplay
 DTSTART:20240830T145500
 DTEND:20240830T155500
 DTSTAMP:20240830T145500Z
-UID:2024-08-30T14:55:00/F1 - Ítalía: Æfing 2
-DESCRIPTION:F1 - Ítalía: Æfing 2 - Formúla 1
+UID:2024-08-30T14:55:00/Turbine Potsdam - Bayern München
+DESCRIPTION:Turbine Potsdam - Bayern München - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240830T150000
+DTEND:20240830T160000
+DTSTAMP:20240830T150000Z
+UID:2024-08-30T15:00:00/Pitlane (Æfing 2 | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -325,14 +333,6 @@ DTEND:20240830T160000
 DTSTAMP:20240830T150000Z
 UID:2024-08-30T15:00:00/Onboard (Æfing 2 | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240830T150000
-DTEND:20240830T160000
-DTSTAMP:20240830T150000Z
-UID:2024-08-30T15:00:00/Pitlane (Æfing 2 | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Monza Kappaksturinn) - Formula 1 - v
@@ -360,20 +360,20 @@ UID:2024-08-30T16:20:00/Jahn Regensburg - Greuther Fürth
 DESCRIPTION:Jahn Regensburg - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:German Darts Championship - PDC Darts - viaplay
-DTSTART:20240830T170000
-DTEND:20240830T180000
-DTSTAMP:20240830T170000Z
-UID:2024-08-30T17:00:00/German Darts Championship
-DESCRIPTION:German Darts Championship - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Ólympíumót fatlaðra - ruv
 DTSTART:20240830T170000
 DTEND:20240830T180000
 DTSTAMP:20240830T170000Z
 UID:2024-08-30T17:00:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Ólympíumót fatlaðra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:German Darts Championship - PDC Darts - viaplay
+DTSTART:20240830T170000
+DTEND:20240830T180000
+DTSTAMP:20240830T170000Z
+UID:2024-08-30T17:00:00/German Darts Championship
+DESCRIPTION:German Darts Championship - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Upphitun - Besta deild kvenna - stod2sport
@@ -521,14 +521,6 @@ UID:2024-08-31T09:45:00/Most (Kappakstur 1)
 DESCRIPTION:Most (Kappakstur 1) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 - Ítalía: Æfing 3 - Formúla 1 - stod2vodasport
-DTSTART:20240831T102500
-DTEND:20240831T112500
-DTSTAMP:20240831T102500Z
-UID:2024-08-31T10:25:00/F1 - Ítalía: Æfing 3
-DESCRIPTION:F1 - Ítalía: Æfing 3 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monza Kappaksturinn (Æfing 3) - Formula 1 - viaplay
 DTSTART:20240831T102500
 DTEND:20240831T112500
@@ -537,12 +529,20 @@ UID:2024-08-31T10:25:00/Monza Kappaksturinn (Æfing 3)
 DESCRIPTION:Monza Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:F1 - Ítalía: Æfing 3 - Formúla 1 - stod2vodasport
+DTSTART:20240831T102500
+DTEND:20240831T112500
+DTSTAMP:20240831T102500Z
+UID:2024-08-31T10:25:00/F1 - Ítalía: Æfing 3
+DESCRIPTION:F1 - Ítalía: Æfing 3 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240831T103000
 DTEND:20240831T113000
 DTSTAMP:20240831T103000Z
-UID:2024-08-31T10:30:00/Timing (Æfing 3 | Monza Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1
+UID:2024-08-31T10:30:00/Pitlane (Æfing 3 | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Monza Kappaksturinn) - Formula 1 - v
@@ -554,12 +554,12 @@ UID:2024-08-31T10:30:00/Track Positioning (Æfing 3 | Monza Kappaksturinn)
 DESCRIPTION:Track Positioning (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240831T103000
 DTEND:20240831T113000
 DTSTAMP:20240831T103000Z
-UID:2024-08-31T10:30:00/Pitlane (Æfing 3 | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1
+UID:2024-08-31T10:30:00/Timing (Æfing 3 | Monza Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -578,12 +578,12 @@ UID:2024-08-31T10:45:00/Aragon Grand Prix (Tímatökur)
 DESCRIPTION:Aragon Grand Prix (Tímatökur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AIK - Rosengård - OBOS Damallsvenskan - viaplay
+SUMMARY:HSV - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20240831T105000
 DTEND:20240831T115000
 DTSTAMP:20240831T105000Z
-UID:2024-08-31T10:50:00/AIK - Rosengård
-DESCRIPTION:AIK - Rosengård - OBOS Damallsvenskan
+UID:2024-08-31T10:50:00/HSV - Preußen Münster
+DESCRIPTION:HSV - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Darmstadt - 2. Bundesliga - viaplay
@@ -594,20 +594,20 @@ UID:2024-08-31T10:50:00/Elversberg - Darmstadt
 DESCRIPTION:Elversberg - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HSV - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20240831T105000
-DTEND:20240831T115000
-DTSTAMP:20240831T105000Z
-UID:2024-08-31T10:50:00/HSV - Preußen Münster
-DESCRIPTION:HSV - Preußen Münster - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürnberg - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20240831T105000
 DTEND:20240831T115000
 DTSTAMP:20240831T105000Z
 UID:2024-08-31T10:50:00/Nürnberg - Magdeburg
 DESCRIPTION:Nürnberg - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIK - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20240831T105000
+DTEND:20240831T115000
+DTSTAMP:20240831T105000Z
+UID:2024-08-31T10:50:00/AIK - Rosengård
+DESCRIPTION:AIK - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vélsmiðja Suðurlands Torfæran - Vélsmiðja Suðurlands Torfæ
@@ -668,20 +668,20 @@ UID:2024-08-31T11:55:00/Freiburg - Leverkusen
 DESCRIPTION:Freiburg - Leverkusen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Borðtennis - Ólympíumót fatlaðra - ruv
-DTSTART:20240831T120000
-DTEND:20240831T130000
-DTSTAMP:20240831T120000Z
-UID:2024-08-31T12:00:00/Borðtennis
-DESCRIPTION:Borðtennis - Ólympíumót fatlaðra
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Curtis Cup - Curtis Cup - stod2sport4
 DTSTART:20240831T120000
 DTEND:20240831T130000
 DTSTAMP:20240831T120000Z
 UID:2024-08-31T12:00:00/Curtis Cup
 DESCRIPTION:Curtis Cup - Curtis Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borðtennis - Ólympíumót fatlaðra - ruv
+DTSTART:20240831T120000
+DTEND:20240831T130000
+DTSTAMP:20240831T120000Z
+UID:2024-08-31T12:00:00/Borðtennis
+DESCRIPTION:Borðtennis - Ólympíumót fatlaðra
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monza (Sprettkeppni) - Formula 2 - viaplay
@@ -700,6 +700,14 @@ UID:2024-08-31T12:35:00/Aragon Grand Prix (Sprettkeppni)
 DESCRIPTION:Aragon Grand Prix (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Piteå - Häcken - OBOS Damallsvenskan - viaplay
+DTSTART:20240831T125000
+DTEND:20240831T135000
+DTSTAMP:20240831T125000Z
+UID:2024-08-31T12:50:00/Piteå - Häcken
+DESCRIPTION:Piteå - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Linköping - Brommapojkarna - OBOS Damallsvenskan - viaplay
 DTSTART:20240831T125000
 DTEND:20240831T135000
@@ -716,22 +724,6 @@ UID:2024-08-31T12:50:00/Trelleborg - Norrköping
 DESCRIPTION:Trelleborg - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Piteå - Häcken - OBOS Damallsvenskan - viaplay
-DTSTART:20240831T125000
-DTEND:20240831T135000
-DTSTAMP:20240831T125000Z
-UID:2024-08-31T12:50:00/Piteå - Häcken
-DESCRIPTION:Piteå - Häcken - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KPMG Women's Irish Open - Ladies European Tour - viaplay
-DTSTART:20240831T130000
-DTEND:20240831T140000
-DTSTAMP:20240831T130000Z
-UID:2024-08-31T13:00:00/KPMG Women's Irish Open
-DESCRIPTION:KPMG Women's Irish Open - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bogfimi - Ólympíumót fatlaðra - ruv
 DTSTART:20240831T130000
 DTEND:20240831T140000
@@ -740,28 +732,12 @@ UID:2024-08-31T13:00:00/Bogfimi
 DESCRIPTION:Bogfimi - Ólympíumót fatlaðra
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20240831T132000
-DTEND:20240831T142000
-DTSTAMP:20240831T132000Z
-UID:2024-08-31T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Wolfsburg - Bundesliga - viaplay
-DTSTART:20240831T132000
-DTEND:20240831T142000
-DTSTAMP:20240831T132000Z
-UID:2024-08-31T13:20:00/Holstein Kiel - Wolfsburg
-DESCRIPTION:Holstein Kiel - Wolfsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankfurt - Hoffenheim - Bundesliga - viaplay
-DTSTART:20240831T132000
-DTEND:20240831T142000
-DTSTAMP:20240831T132000Z
-UID:2024-08-31T13:20:00/Frankfurt - Hoffenheim
-DESCRIPTION:Frankfurt - Hoffenheim - Bundesliga
+SUMMARY:KPMG Women's Irish Open - Ladies European Tour - viaplay
+DTSTART:20240831T130000
+DTEND:20240831T140000
+DTSTAMP:20240831T130000Z
+UID:2024-08-31T13:00:00/KPMG Women's Irish Open
+DESCRIPTION:KPMG Women's Irish Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bochum - Borussia M'gladbach - Bundesliga - viaplay
@@ -780,12 +756,36 @@ UID:2024-08-31T13:20:00/Stuttgart - Mainz
 DESCRIPTION:Stuttgart - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20240831T132000
+DTEND:20240831T142000
+DTSTAMP:20240831T132000Z
+UID:2024-08-31T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Wolfsburg - Bundesliga - viaplay
+DTSTART:20240831T132000
+DTEND:20240831T142000
+DTSTAMP:20240831T132000Z
+UID:2024-08-31T13:20:00/Holstein Kiel - Wolfsburg
+DESCRIPTION:Holstein Kiel - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Werder Bremen - Dortmund - Bundesliga - viaplay
 DTSTART:20240831T132000
 DTEND:20240831T142000
 DTSTAMP:20240831T132000Z
 UID:2024-08-31T13:20:00/Werder Bremen - Dortmund
 DESCRIPTION:Werder Bremen - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Hoffenheim - Bundesliga - viaplay
+DTSTART:20240831T132000
+DTEND:20240831T142000
+DTSTAMP:20240831T132000Z
+UID:2024-08-31T13:20:00/Frankfurt - Hoffenheim
+DESCRIPTION:Frankfurt - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leicester - Aston Villa - Enska úrvalsdeildin - sjonvarpsimans
@@ -820,6 +820,22 @@ UID:2024-08-31T13:45:00/Monza Kappaksturinn (Tímatökur)
 DESCRIPTION:Monza Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nottingham Forest - Wolves - Enska úrvalsdeildin - siminnsport2
+DTSTART:20240831T135000
+DTEND:20240831T145000
+DTSTAMP:20240831T135000Z
+UID:2024-08-31T13:50:00/Nottingham Forest - Wolves
+DESCRIPTION:Nottingham Forest - Wolves - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford - Southampton - Enska úrvalsdeildin - siminnsport4
+DTSTART:20240831T135000
+DTEND:20240831T145000
+DTSTAMP:20240831T135000Z
+UID:2024-08-31T13:50:00/Brentford - Southampton
+DESCRIPTION:Brentford - Southampton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ipswich - Fulham - Enska úrvalsdeildin - siminnsport5
 DTSTART:20240831T135000
 DTEND:20240831T145000
@@ -844,22 +860,6 @@ UID:2024-08-31T13:50:00/Þór/KA - FH
 DESCRIPTION:Þór/KA - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nottingham Forest - Wolves - Enska úrvalsdeildin - siminnsport2
-DTSTART:20240831T135000
-DTEND:20240831T145000
-DTSTAMP:20240831T135000Z
-UID:2024-08-31T13:50:00/Nottingham Forest - Wolves
-DESCRIPTION:Nottingham Forest - Wolves - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brentford - Southampton - Enska úrvalsdeildin - siminnsport4
-DTSTART:20240831T135000
-DTEND:20240831T145000
-DTSTAMP:20240831T135000Z
-UID:2024-08-31T13:50:00/Brentford - Southampton
-DESCRIPTION:Brentford - Southampton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Most (Kappakstur 2) - FIA European Truck Racing Championship - via
  play
 DTSTART:20240831T135500
@@ -875,6 +875,14 @@ DTEND:20240831T145500
 DTSTAMP:20240831T135500Z
 UID:2024-08-31T13:55:00/Plymouth - Stoke
 DESCRIPTION:Plymouth - Stoke - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240831T140000
+DTEND:20240831T150000
+DTSTAMP:20240831T140000Z
+UID:2024-08-31T14:00:00/Onboard (Tímatökur | Monza Kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formula 1 
@@ -904,14 +912,6 @@ UID:2024-08-31T14:00:00/Timing (Tímatökur | Monza Kappaksturinn)
 DESCRIPTION:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240831T140000
-DTEND:20240831T150000
-DTSTAMP:20240831T140000Z
-UID:2024-08-31T14:00:00/Onboard (Tímatökur | Monza Kappaksturinn)
-DESCRIPTION:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Boccia - Ólympíumót fatlaðra - ruv
 DTSTART:20240831T153000
 DTEND:20240831T163000
@@ -936,6 +936,14 @@ UID:2024-08-31T16:20:00/Leverkusen - Leipzig
 DESCRIPTION:Leverkusen - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Magdeburg - Füchse Berlin - DHB-Supercup - viaplay
+DTSTART:20240831T162500
+DTEND:20240831T172500
+DTSTAMP:20240831T162500Z
+UID:2024-08-31T16:25:00/Magdeburg - Füchse Berlin
+DESCRIPTION:Magdeburg - Füchse Berlin - DHB-Supercup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SC Magdeburg - Füchse Berlin - Bundesliga handbolti - stod2vodasp
  ort
 DTSTART:20240831T162500
@@ -943,14 +951,6 @@ DTEND:20240831T172500
 DTSTAMP:20240831T162500Z
 UID:2024-08-31T16:25:00/SC Magdeburg - Füchse Berlin
 DESCRIPTION:SC Magdeburg - Füchse Berlin - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Füchse Berlin - DHB-Supercup - viaplay
-DTSTART:20240831T162500
-DTEND:20240831T172500
-DTSTAMP:20240831T162500Z
-UID:2024-08-31T16:25:00/Magdeburg - Füchse Berlin
-DESCRIPTION:Magdeburg - Füchse Berlin - DHB-Supercup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ross County - Aberdeen - Scottish Premiership - viaplay
@@ -1092,14 +1092,6 @@ UID:2024-09-01T10:50:00/Kristianstad - Örebro
 DESCRIPTION:Kristianstad - Örebro - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:German Darts Championship - PDC Darts - viaplay
-DTSTART:20240901T110000
-DTEND:20240901T120000
-DTSTAMP:20240901T110000Z
-UID:2024-09-01T11:00:00/German Darts Championship
-DESCRIPTION:German Darts Championship - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skotfimi - Ólympíumót fatlaðra - ruv
 DTSTART:20240901T110000
 DTEND:20240901T120000
@@ -1108,12 +1100,12 @@ UID:2024-09-01T11:00:00/Skotfimi
 DESCRIPTION:Skotfimi - Ólympíumót fatlaðra
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:British Masters - DP World Tour - viaplay
+SUMMARY:German Darts Championship - PDC Darts - viaplay
 DTSTART:20240901T110000
 DTEND:20240901T120000
 DTSTAMP:20240901T110000Z
-UID:2024-09-01T11:00:00/British Masters
-DESCRIPTION:British Masters - DP World Tour
+UID:2024-09-01T11:00:00/German Darts Championship
+DESCRIPTION:German Darts Championship - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Most (Race 3) - FIA European Truck Racing Championship - viaplay
@@ -1124,6 +1116,14 @@ UID:2024-09-01T11:00:00/Most (Race 3)
 DESCRIPTION:Most (Race 3) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:British Masters - DP World Tour - viaplay
+DTSTART:20240901T110000
+DTEND:20240901T120000
+DTSTAMP:20240901T110000Z
+UID:2024-09-01T11:00:00/British Masters
+DESCRIPTION:British Masters - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aragon Grand Prix (Kappakstur) - MotoGP - viaplay
 DTSTART:20240901T111500
 DTEND:20240901T121500
@@ -1132,12 +1132,12 @@ UID:2024-09-01T11:15:00/Aragon Grand Prix (Kappakstur)
 DESCRIPTION:Aragon Grand Prix (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paderborn - Ulm - 2. Bundesliga - viaplay
+SUMMARY:Schalke - Köln - 2. Bundesliga - viaplay
 DTSTART:20240901T112000
 DTEND:20240901T122000
 DTSTAMP:20240901T112000Z
-UID:2024-09-01T11:20:00/Paderborn - Ulm
-DESCRIPTION:Paderborn - Ulm - 2. Bundesliga
+UID:2024-09-01T11:20:00/Schalke - Köln
+DESCRIPTION:Schalke - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braunschweig - Karlsruher - 2. Bundesliga - viaplay
@@ -1148,12 +1148,12 @@ UID:2024-09-01T11:20:00/Braunschweig - Karlsruher
 DESCRIPTION:Braunschweig - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schalke - Köln - 2. Bundesliga - viaplay
+SUMMARY:Paderborn - Ulm - 2. Bundesliga - viaplay
 DTSTART:20240901T112000
 DTEND:20240901T122000
 DTSTAMP:20240901T112000Z
-UID:2024-09-01T11:20:00/Schalke - Köln
-DESCRIPTION:Schalke - Köln - 2. Bundesliga
+UID:2024-09-01T11:20:00/Paderborn - Ulm
+DESCRIPTION:Paderborn - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celtic - Rangers - Scottish Premiership - viaplay
@@ -1196,6 +1196,14 @@ UID:2024-09-01T12:20:00/Chelsea - Crystal Palace
 DESCRIPTION:Chelsea - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Monza Kappaksturinn (Kappakstur) - Formula 1 - viaplay
+DTSTART:20240901T123000
+DTEND:20240901T133000
+DTSTAMP:20240901T123000Z
+UID:2024-09-01T12:30:00/Monza Kappaksturinn (Kappakstur)
+DESCRIPTION:Monza Kappaksturinn (Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Formúla 1 - Formúla 1 - stod2vodasport
 DTSTART:20240901T123000
 DTEND:20240901T133000
@@ -1204,12 +1212,12 @@ UID:2024-09-01T12:30:00/Formúla 1
 DESCRIPTION:Formúla 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monza Kappaksturinn (Kappakstur) - Formula 1 - viaplay
-DTSTART:20240901T123000
-DTEND:20240901T133000
-DTSTAMP:20240901T123000Z
-UID:2024-09-01T12:30:00/Monza Kappaksturinn (Kappakstur)
-DESCRIPTION:Monza Kappaksturinn (Kappakstur) - Formula 1
+SUMMARY:Pitlane (Kappakstur | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240901T130000
+DTEND:20240901T140000
+DTSTAMP:20240901T130000Z
+UID:2024-09-01T13:00:00/Pitlane (Kappakstur | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skotfimi - Ólympíumót fatlaðra - ruv
@@ -1253,14 +1261,6 @@ UID:2024-09-01T13:00:00/Track Positioning (Kappakstur | Monza Kappaksturin
  n)
 DESCRIPTION:Track Positioning (Kappakstur | Monza Kappaksturinn) - Formula
   1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240901T130000
-DTEND:20240901T140000
-DTSTAMP:20240901T130000Z
-UID:2024-09-01T13:00:00/Pitlane (Kappakstur | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heidenheim - Augsburg - Bundesliga - viaplay
@@ -1344,14 +1344,6 @@ UID:2024-09-01T16:25:00/Leipzig - Köln
 DESCRIPTION:Leipzig - Köln - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Stjarnan - Besta deild karla - stod2sport5
-DTSTART:20240901T165000
-DTEND:20240901T175000
-DTSTAMP:20240901T165000Z
-UID:2024-09-01T16:50:00/FH - Stjarnan
-DESCRIPTION:FH - Stjarnan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KR - ÍA - Besta deild karla - stod2besta02
 DTSTART:20240901T165000
 DTEND:20240901T175000
@@ -1360,12 +1352,12 @@ UID:2024-09-01T16:50:00/KR - ÍA
 DESCRIPTION:KR - ÍA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:German Darts Championship - PDC European Tour - stod2vodasport
-DTSTART:20240901T170000
-DTEND:20240901T180000
-DTSTAMP:20240901T170000Z
-UID:2024-09-01T17:00:00/German Darts Championship
-DESCRIPTION:German Darts Championship - PDC European Tour
+SUMMARY:FH - Stjarnan - Besta deild karla - stod2sport5
+DTSTART:20240901T165000
+DTEND:20240901T175000
+DTSTAMP:20240901T165000Z
+UID:2024-09-01T16:50:00/FH - Stjarnan
+DESCRIPTION:FH - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:German Darts Championship - PDC Darts - viaplay
@@ -1374,6 +1366,14 @@ DTEND:20240901T180000
 DTSTAMP:20240901T170000Z
 UID:2024-09-01T17:00:00/German Darts Championship
 DESCRIPTION:German Darts Championship - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:German Darts Championship - PDC European Tour - stod2vodasport
+DTSTART:20240901T170000
+DTEND:20240901T180000
+DTSTAMP:20240901T170000Z
+UID:2024-09-01T17:00:00/German Darts Championship
+DESCRIPTION:German Darts Championship - PDC European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FM Global Championship - LPGA Tour  - stod2sport4
@@ -1513,20 +1513,20 @@ UID:2024-09-02T17:50:00/Stjarnan - Fylkir
 DESCRIPTION:Stjarnan - Fylkir - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salford City - MK Dons - EFL League Two - stod2vodasport
-DTSTART:20240902T185500
-DTEND:20240902T195500
-DTSTAMP:20240902T185500Z
-UID:2024-09-02T18:55:00/Salford City - MK Dons
-DESCRIPTION:Salford City - MK Dons - EFL League Two
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Salford - MK Dons - League Two - viaplay
 DTSTART:20240902T185500
 DTEND:20240902T195500
 DTSTAMP:20240902T185500Z
 UID:2024-09-02T18:55:00/Salford - MK Dons
 DESCRIPTION:Salford - MK Dons - League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salford City - MK Dons - EFL League Two - stod2vodasport
+DTSTART:20240902T185500
+DTEND:20240902T195500
+DTSTAMP:20240902T185500Z
+UID:2024-09-02T18:55:00/Salford City - MK Dons
+DESCRIPTION:Salford City - MK Dons - EFL League Two
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
