@@ -2,30 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Dregið í Meistaradeild Evrópu - Meistaradeild Evrópu - stod2sp
- ort2
-DTSTART:20240829T160000
-DTEND:20240829T170000
-DTSTAMP:20240829T160000Z
-UID:2024-08-29T16:00:00/Dregið í Meistaradeild Evrópu
-DESCRIPTION:Dregið í Meistaradeild Evrópu - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dregið - Champions League - viaplay
-DTSTART:20240829T160000
-DTEND:20240829T170000
-DTSTAMP:20240829T160000Z
-UID:2024-08-29T16:00:00/Dregið
-DESCRIPTION:Dregið - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Santa Coloma - Víkingur R. - Forkeppni Sambandsdeildarinnar - sto
- d2sport
-DTSTART:20240829T175000
-DTEND:20240829T185000
-DTSTAMP:20240829T175000Z
-UID:2024-08-29T17:50:00/Santa Coloma - Víkingur R.
-DESCRIPTION:Santa Coloma - Víkingur R. - Forkeppni Sambandsdeildarinnar
+SUMMARY:Dregið í Evrópudeild UEFA - Evrópudeild UEFA - stod2sport2
+DTSTART:20240830T110000
+DTEND:20240830T120000
+DTSTAMP:20240830T110000Z
+UID:2024-08-30T11:00:00/Dregið í Evrópudeild UEFA
+DESCRIPTION:Dregið í Evrópudeild UEFA - Evrópudeild UEFA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dregið - UEFA Europa League - viaplay
@@ -36,12 +18,12 @@ UID:2024-08-30T11:00:00/Dregið
 DESCRIPTION:Dregið - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dregið í Evrópudeild UEFA - Evrópudeild UEFA - stod2sport2
-DTSTART:20240830T110000
-DTEND:20240830T120000
-DTSTAMP:20240830T110000Z
-UID:2024-08-30T11:00:00/Dregið í Evrópudeild UEFA
-DESCRIPTION:Dregið í Evrópudeild UEFA - Evrópudeild UEFA
+SUMMARY:Dregið - UEFA Europa Conference League - viaplay
+DTSTART:20240830T123000
+DTEND:20240830T133000
+DTSTAMP:20240830T123000Z
+UID:2024-08-30T12:30:00/Dregið
+DESCRIPTION:Dregið - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dregið í Sambandsdeild UEFA - Sambandsdeild UEFA - stod2sport2
@@ -50,14 +32,6 @@ DTEND:20240830T133000
 DTSTAMP:20240830T123000Z
 UID:2024-08-30T12:30:00/Dregið í Sambandsdeild UEFA
 DESCRIPTION:Dregið í Sambandsdeild UEFA - Sambandsdeild UEFA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dregið - UEFA Europa Conference League - viaplay
-DTSTART:20240830T123000
-DTEND:20240830T133000
-DTSTAMP:20240830T123000Z
-UID:2024-08-30T12:30:00/Dregið
-DESCRIPTION:Dregið - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Turbine Potsdam - Bayern München - Frauen-Bundesliga - viaplay
@@ -92,20 +66,20 @@ UID:2024-08-30T17:25:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Þróttur R. - Besta deild kvenna - stod2sport
-DTSTART:20240830T175000
-DTEND:20240830T185000
-DTSTAMP:20240830T175000Z
-UID:2024-08-30T17:50:00/Valur - Þróttur R.
-DESCRIPTION:Valur - Þróttur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport5
 DTSTART:20240830T175000
 DTEND:20240830T185000
 DTSTAMP:20240830T175000Z
 UID:2024-08-30T17:50:00/Breiðablik - Víkingur R.
 DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Þróttur R. - Besta deild kvenna - stod2sport
+DTSTART:20240830T175000
+DTEND:20240830T185000
+DTSTAMP:20240830T175000Z
+UID:2024-08-30T17:50:00/Valur - Þróttur R.
+DESCRIPTION:Valur - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UEFA Nations League: Preview - UEFA Nations League - viaplay
@@ -148,14 +122,6 @@ UID:2024-08-31T10:50:00/Nürnberg - Magdeburg
 DESCRIPTION:Nürnberg - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20240831T105000
-DTEND:20240831T115000
-DTSTAMP:20240831T105000Z
-UID:2024-08-31T10:50:00/Elversberg - Darmstadt
-DESCRIPTION:Elversberg - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HSV - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20240831T105000
 DTEND:20240831T115000
@@ -170,6 +136,14 @@ DTEND:20240831T115000
 DTSTAMP:20240831T105000Z
 UID:2024-08-31T10:50:00/AIK - Rosengård
 DESCRIPTION:AIK - Rosengård - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elversberg - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20240831T105000
+DTEND:20240831T115000
+DTSTAMP:20240831T105000Z
+UID:2024-08-31T10:50:00/Elversberg - Darmstadt
+DESCRIPTION:Elversberg - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Brighton - Enska úrvalsdeildin - siminnsport
@@ -196,20 +170,20 @@ UID:2024-08-31T11:55:00/Freiburg - Leverkusen
 DESCRIPTION:Freiburg - Leverkusen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trelleborg - Norrköping - OBOS Damallsvenskan - viaplay
-DTSTART:20240831T125000
-DTEND:20240831T135000
-DTSTAMP:20240831T125000Z
-UID:2024-08-31T12:50:00/Trelleborg - Norrköping
-DESCRIPTION:Trelleborg - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Piteå - Häcken - OBOS Damallsvenskan - viaplay
 DTSTART:20240831T125000
 DTEND:20240831T135000
 DTSTAMP:20240831T125000Z
 UID:2024-08-31T12:50:00/Piteå - Häcken
 DESCRIPTION:Piteå - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trelleborg - Norrköping - OBOS Damallsvenskan - viaplay
+DTSTART:20240831T125000
+DTEND:20240831T135000
+DTSTAMP:20240831T125000Z
+UID:2024-08-31T12:50:00/Trelleborg - Norrköping
+DESCRIPTION:Trelleborg - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linköping - Brommapojkarna - OBOS Damallsvenskan - viaplay
@@ -284,12 +258,12 @@ UID:2024-08-31T13:30:00/Leicester - Aston Villa
 DESCRIPTION:Leicester - Aston Villa - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nottingham Forest - Wolves - Enska úrvalsdeildin - siminnsport2
+SUMMARY:Ipswich - Fulham - Enska úrvalsdeildin - siminnsport5
 DTSTART:20240831T135000
 DTEND:20240831T145000
 DTSTAMP:20240831T135000Z
-UID:2024-08-31T13:50:00/Nottingham Forest - Wolves
-DESCRIPTION:Nottingham Forest - Wolves - Enska úrvalsdeildin
+UID:2024-08-31T13:50:00/Ipswich - Fulham
+DESCRIPTION:Ipswich - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Bournemouth - Enska úrvalsdeildin - siminnsport3
@@ -300,12 +274,12 @@ UID:2024-08-31T13:50:00/Everton - Bournemouth
 DESCRIPTION:Everton - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Fulham - Enska úrvalsdeildin - siminnsport5
+SUMMARY:Nottingham Forest - Wolves - Enska úrvalsdeildin - siminnsport2
 DTSTART:20240831T135000
 DTEND:20240831T145000
 DTSTAMP:20240831T135000Z
-UID:2024-08-31T13:50:00/Ipswich - Fulham
-DESCRIPTION:Ipswich - Fulham - Enska úrvalsdeildin
+UID:2024-08-31T13:50:00/Nottingham Forest - Wolves
+DESCRIPTION:Nottingham Forest - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór/KA - FH - Besta deild kvenna - stod2sport
@@ -372,20 +346,20 @@ UID:2024-09-01T10:50:00/Kristianstad - Örebro
 DESCRIPTION:Kristianstad - Örebro - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschweig - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20240901T112000
-DTEND:20240901T122000
-DTSTAMP:20240901T112000Z
-UID:2024-09-01T11:20:00/Braunschweig - Karlsruher
-DESCRIPTION:Braunschweig - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Schalke - Köln - 2. Bundesliga - viaplay
 DTSTART:20240901T112000
 DTEND:20240901T122000
 DTSTAMP:20240901T112000Z
 UID:2024-09-01T11:20:00/Schalke - Köln
 DESCRIPTION:Schalke - Köln - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braunschweig - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20240901T112000
+DTEND:20240901T122000
+DTSTAMP:20240901T112000Z
+UID:2024-09-01T11:20:00/Braunschweig - Karlsruher
+DESCRIPTION:Braunschweig - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - Ulm - 2. Bundesliga - viaplay
@@ -484,20 +458,20 @@ UID:2024-09-01T16:25:00/Leipzig - Köln
 DESCRIPTION:Leipzig - Köln - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KR - ÍA - Besta deild karla - stod2besta02
-DTSTART:20240901T165000
-DTEND:20240901T175000
-DTSTAMP:20240901T165000Z
-UID:2024-09-01T16:50:00/KR - ÍA
-DESCRIPTION:KR - ÍA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Stjarnan - Besta deild karla - stod2sport5
 DTSTART:20240901T165000
 DTEND:20240901T175000
 DTSTAMP:20240901T165000Z
 UID:2024-09-01T16:50:00/FH - Stjarnan
 DESCRIPTION:FH - Stjarnan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - ÍA - Besta deild karla - stod2besta02
+DTSTART:20240901T165000
+DTEND:20240901T175000
+DTSTAMP:20240901T165000Z
+UID:2024-09-01T16:50:00/KR - ÍA
+DESCRIPTION:KR - ÍA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NC Courage - Kansas City - National Women's Soccer League - viapla
@@ -533,20 +507,20 @@ UID:2024-09-01T21:20:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Werder Bremen - Bundesliga kvenna - stod2vodasport
-DTSTART:20240902T155500
-DTEND:20240902T165500
-DTSTAMP:20240902T155500Z
-UID:2024-09-02T15:55:00/Wolfsburg - Werder Bremen
-DESCRIPTION:Wolfsburg - Werder Bremen - Bundesliga kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolfsburg - Werder Bremen - Frauen-Bundesliga - viaplay
 DTSTART:20240902T155500
 DTEND:20240902T165500
 DTSTAMP:20240902T155500Z
 UID:2024-09-02T15:55:00/Wolfsburg - Werder Bremen
 DESCRIPTION:Wolfsburg - Werder Bremen - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Werder Bremen - Bundesliga kvenna - stod2vodasport
+DTSTART:20240902T155500
+DTEND:20240902T165500
+DTSTAMP:20240902T155500Z
+UID:2024-09-02T15:55:00/Wolfsburg - Werder Bremen
+DESCRIPTION:Wolfsburg - Werder Bremen - Bundesliga kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Växjö - Vittsjö - OBOS Damallsvenskan - viaplay
@@ -622,5 +596,93 @@ DTEND:20240904T195000
 DTSTAMP:20240904T185000Z
 UID:2024-09-04T18:50:00/FC Minsk - Breiðablik
 DESCRIPTION:FC Minsk - Breiðablik - Forkeppni Meistaradeildar kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aserbaísjan - Svíþjóð - UEFA Nations League - viaplay
+DTSTART:20240905T155000
+DTEND:20240905T165000
+DTSTAMP:20240905T155000Z
+UID:2024-09-05T15:50:00/Aserbaísjan - Svíþjóð
+DESCRIPTION:Aserbaísjan - Svíþjóð - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Azerbaijan - Svíþjóð - Þjóðadeild UEFA - stod2vodasport
+DTSTART:20240905T155000
+DTEND:20240905T165000
+DTSTAMP:20240905T155000Z
+UID:2024-09-05T15:50:00/Azerbaijan - Svíþjóð
+DESCRIPTION:Azerbaijan - Svíþjóð - Þjóðadeild UEFA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portúgal - Króatía - Þjóðadeild UEFA - stod2vodasport
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Portúgal - Króatía
+DESCRIPTION:Portúgal - Króatía - Þjóðadeild UEFA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marínó - Liechtenstein - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/San Marínó - Liechtenstein
+DESCRIPTION:San Marínó - Liechtenstein - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norður-Írland - Lúxemborg - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Norður-Írland - Lúxemborg
+DESCRIPTION:Norður-Írland - Lúxemborg - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hvíta-Rússland - Búlgaría - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Hvíta-Rússland - Búlgaría
+DESCRIPTION:Hvíta-Rússland - Búlgaría - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portúgal - Króatía - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Portúgal - Króatía
+DESCRIPTION:Portúgal - Króatía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eistland - Slóvakía - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Eistland - Slóvakía
+DESCRIPTION:Eistland - Slóvakía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serbía - Spánn - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Serbía - Spánn
+DESCRIPTION:Serbía - Spánn - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Sviss - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Danmörk - Sviss
+DESCRIPTION:Danmörk - Sviss - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skotland - Pólland - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Skotland - Pólland
+DESCRIPTION:Skotland - Pólland - UEFA Nations League
 END:VEVENT
 END:VCALENDAR
