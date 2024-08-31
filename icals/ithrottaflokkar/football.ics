@@ -82,20 +82,20 @@ UID:2024-08-31T12:50:00/Trelleborg - Norrköping
 DESCRIPTION:Trelleborg - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20240831T132000
-DTEND:20240831T142000
-DTSTAMP:20240831T132000Z
-UID:2024-08-31T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stuttgart - Mainz - Bundesliga - viaplay
 DTSTART:20240831T132000
 DTEND:20240831T142000
 DTSTAMP:20240831T132000Z
 UID:2024-08-31T13:20:00/Stuttgart - Mainz
 DESCRIPTION:Stuttgart - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20240831T132000
+DTEND:20240831T142000
+DTSTAMP:20240831T132000Z
+UID:2024-08-31T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Wolfsburg - Bundesliga - viaplay
@@ -234,6 +234,14 @@ UID:2024-09-01T10:50:00/Kristianstad - Örebro
 DESCRIPTION:Kristianstad - Örebro - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Braunschweig - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20240901T112000
+DTEND:20240901T122000
+DTSTAMP:20240901T112000Z
+UID:2024-09-01T11:20:00/Braunschweig - Karlsruher
+DESCRIPTION:Braunschweig - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Schalke - Köln - 2. Bundesliga - viaplay
 DTSTART:20240901T112000
 DTEND:20240901T122000
@@ -248,14 +256,6 @@ DTEND:20240901T122000
 DTSTAMP:20240901T112000Z
 UID:2024-09-01T11:20:00/Paderborn - Ulm
 DESCRIPTION:Paderborn - Ulm - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Braunschweig - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20240901T112000
-DTEND:20240901T122000
-DTSTAMP:20240901T112000Z
-UID:2024-09-01T11:20:00/Braunschweig - Karlsruher
-DESCRIPTION:Braunschweig - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celtic - Rangers - Scottish Premiership - viaplay
@@ -435,20 +435,20 @@ UID:2024-09-02T17:50:00/Stjarnan - Fylkir
 DESCRIPTION:Stjarnan - Fylkir - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salford City - MK Dons - EFL League Two - stod2vodasport
-DTSTART:20240902T185500
-DTEND:20240902T195500
-DTSTAMP:20240902T185500Z
-UID:2024-09-02T18:55:00/Salford City - MK Dons
-DESCRIPTION:Salford City - MK Dons - EFL League Two
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Salford - MK Dons - League Two - viaplay
 DTSTART:20240902T185500
 DTEND:20240902T195500
 DTSTAMP:20240902T185500Z
 UID:2024-09-02T18:55:00/Salford - MK Dons
 DESCRIPTION:Salford - MK Dons - League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salford City - MK Dons - EFL League Two - stod2vodasport
+DTSTART:20240902T185500
+DTEND:20240902T195500
+DTSTAMP:20240902T185500Z
+UID:2024-09-02T18:55:00/Salford City - MK Dons
+DESCRIPTION:Salford City - MK Dons - EFL League Two
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
@@ -469,20 +469,20 @@ DESCRIPTION:Eintracht Frankfurt - Sporting - Forkeppni Meistaradeildar kve
  nna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gíbraltar - Andorra - Æfingaleikir - stod2vodasport
-DTSTART:20240904T155000
-DTEND:20240904T165000
-DTSTAMP:20240904T155000Z
-UID:2024-09-04T15:50:00/Gíbraltar - Andorra
-DESCRIPTION:Gíbraltar - Andorra - Æfingaleikir
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gíbraltar - Andorra - Landsleikur - viaplay
 DTSTART:20240904T155000
 DTEND:20240904T165000
 DTSTAMP:20240904T155000Z
 UID:2024-09-04T15:50:00/Gíbraltar - Andorra
 DESCRIPTION:Gíbraltar - Andorra - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gíbraltar - Andorra - Æfingaleikir - stod2vodasport
+DTSTART:20240904T155000
+DTEND:20240904T165000
+DTSTAMP:20240904T155000Z
+UID:2024-09-04T15:50:00/Gíbraltar - Andorra
+DESCRIPTION:Gíbraltar - Andorra - Æfingaleikir
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Minsk - Breiðablik - Forkeppni Meistaradeildar kvenna - stod2s
@@ -518,36 +518,12 @@ UID:2024-09-05T18:35:00/Portúgal - Króatía
 DESCRIPTION:Portúgal - Króatía - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portúgal - Króatía - UEFA Nations League - viaplay
+SUMMARY:Serbía - Spánn - UEFA Nations League - viaplay
 DTSTART:20240905T183500
 DTEND:20240905T193500
 DTSTAMP:20240905T183500Z
-UID:2024-09-05T18:35:00/Portúgal - Króatía
-DESCRIPTION:Portúgal - Króatía - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Marínó - Liechtenstein - UEFA Nations League - viaplay
-DTSTART:20240905T183500
-DTEND:20240905T193500
-DTSTAMP:20240905T183500Z
-UID:2024-09-05T18:35:00/San Marínó - Liechtenstein
-DESCRIPTION:San Marínó - Liechtenstein - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norður-Írland - Lúxemborg - UEFA Nations League - viaplay
-DTSTART:20240905T183500
-DTEND:20240905T193500
-DTSTAMP:20240905T183500Z
-UID:2024-09-05T18:35:00/Norður-Írland - Lúxemborg
-DESCRIPTION:Norður-Írland - Lúxemborg - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hvíta-Rússland - Búlgaría - UEFA Nations League - viaplay
-DTSTART:20240905T183500
-DTEND:20240905T193500
-DTSTAMP:20240905T183500Z
-UID:2024-09-05T18:35:00/Hvíta-Rússland - Búlgaría
-DESCRIPTION:Hvíta-Rússland - Búlgaría - UEFA Nations League
+UID:2024-09-05T18:35:00/Serbía - Spánn
+DESCRIPTION:Serbía - Spánn - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eistland - Slóvakía - UEFA Nations League - viaplay
@@ -558,20 +534,36 @@ UID:2024-09-05T18:35:00/Eistland - Slóvakía
 DESCRIPTION:Eistland - Slóvakía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Serbía - Spánn - UEFA Nations League - viaplay
+SUMMARY:Hvíta-Rússland - Búlgaría - UEFA Nations League - viaplay
 DTSTART:20240905T183500
 DTEND:20240905T193500
 DTSTAMP:20240905T183500Z
-UID:2024-09-05T18:35:00/Serbía - Spánn
-DESCRIPTION:Serbía - Spánn - UEFA Nations League
+UID:2024-09-05T18:35:00/Hvíta-Rússland - Búlgaría
+DESCRIPTION:Hvíta-Rússland - Búlgaría - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Danmörk - Sviss - UEFA Nations League - viaplay
+SUMMARY:Norður-Írland - Lúxemborg - UEFA Nations League - viaplay
 DTSTART:20240905T183500
 DTEND:20240905T193500
 DTSTAMP:20240905T183500Z
-UID:2024-09-05T18:35:00/Danmörk - Sviss
-DESCRIPTION:Danmörk - Sviss - UEFA Nations League
+UID:2024-09-05T18:35:00/Norður-Írland - Lúxemborg
+DESCRIPTION:Norður-Írland - Lúxemborg - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marínó - Liechtenstein - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/San Marínó - Liechtenstein
+DESCRIPTION:San Marínó - Liechtenstein - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portúgal - Króatía - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Portúgal - Króatía
+DESCRIPTION:Portúgal - Króatía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skotland - Pólland - UEFA Nations League - viaplay
@@ -580,6 +572,14 @@ DTEND:20240905T193500
 DTSTAMP:20240905T183500Z
 UID:2024-09-05T18:35:00/Skotland - Pólland
 DESCRIPTION:Skotland - Pólland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Sviss - UEFA Nations League - viaplay
+DTSTART:20240905T183500
+DTEND:20240905T193500
+DTSTAMP:20240905T183500Z
+UID:2024-09-05T18:35:00/Danmörk - Sviss
+DESCRIPTION:Danmörk - Sviss - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kazakhstan - Noregur - Þjóðadeild UEFA - stod2vodasport
@@ -630,12 +630,12 @@ UID:2024-09-06T18:15:00/Ísland - Svartfjallaland
 DESCRIPTION:Ísland - Svartfjallaland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frakkland - Ítalía - UEFA Nations League - viaplay
+SUMMARY:Kósovó - Rúmenía - UEFA Nations League - viaplay
 DTSTART:20240906T183500
 DTEND:20240906T193500
 DTSTAMP:20240906T183500Z
-UID:2024-09-06T18:35:00/Frakkland - Ítalía
-DESCRIPTION:Frakkland - Ítalía - UEFA Nations League
+UID:2024-09-06T18:35:00/Kósovó - Rúmenía
+DESCRIPTION:Kósovó - Rúmenía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wales - Türkiye - UEFA Nations League - viaplay
@@ -646,12 +646,20 @@ UID:2024-09-06T18:35:00/Wales - Türkiye
 DESCRIPTION:Wales - Türkiye - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kósovó - Rúmenía - UEFA Nations League - viaplay
+SUMMARY:Slóvenía - Austurríki - UEFA Nations League - viaplay
 DTSTART:20240906T183500
 DTEND:20240906T193500
 DTSTAMP:20240906T183500Z
-UID:2024-09-06T18:35:00/Kósovó - Rúmenía
-DESCRIPTION:Kósovó - Rúmenía - UEFA Nations League
+UID:2024-09-06T18:35:00/Slóvenía - Austurríki
+DESCRIPTION:Slóvenía - Austurríki - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Ítalía - UEFA Nations League - viaplay
+DTSTART:20240906T183500
+DTEND:20240906T193500
+DTSTAMP:20240906T183500Z
+UID:2024-09-06T18:35:00/Frakkland - Ítalía
+DESCRIPTION:Frakkland - Ítalía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belgía - Ísrael - UEFA Nations League - viaplay
@@ -660,14 +668,6 @@ DTEND:20240906T193500
 DTSTAMP:20240906T183500Z
 UID:2024-09-06T18:35:00/Belgía - Ísrael
 DESCRIPTION:Belgía - Ísrael - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slóvenía - Austurríki - UEFA Nations League - viaplay
-DTSTART:20240906T183500
-DTEND:20240906T193500
-DTSTAMP:20240906T183500Z
-UID:2024-09-06T18:35:00/Slóvenía - Austurríki
-DESCRIPTION:Slóvenía - Austurríki - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frakkland - Ítalía - Þjóðadeild UEFA - stod2vodasport
