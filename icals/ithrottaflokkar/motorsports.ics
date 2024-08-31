@@ -42,20 +42,20 @@ UID:2024-08-31T08:45:00/Aragon Grand Prix (Tímatökur)
 DESCRIPTION:Aragon Grand Prix (Tímatökur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spa-Francorchamps (Kappakstur 1) - ADAC GT4 Masters - viaplay
-DTSTART:20240831T085500
-DTEND:20240831T095500
-DTSTAMP:20240831T085500Z
-UID:2024-08-31T08:55:00/Spa-Francorchamps (Kappakstur 1)
-DESCRIPTION:Spa-Francorchamps (Kappakstur 1) - ADAC GT4 Masters
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monza (Tímatökur) - Porsche Supercup - viaplay
 DTSTART:20240831T085500
 DTEND:20240831T095500
 DTSTAMP:20240831T085500Z
 UID:2024-08-31T08:55:00/Monza (Tímatökur)
 DESCRIPTION:Monza (Tímatökur) - Porsche Supercup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spa-Francorchamps (Kappakstur 1) - ADAC GT4 Masters - viaplay
+DTSTART:20240831T085500
+DTEND:20240831T095500
+DTSTAMP:20240831T085500Z
+UID:2024-08-31T08:55:00/Spa-Francorchamps (Kappakstur 1)
+DESCRIPTION:Spa-Francorchamps (Kappakstur 1) - ADAC GT4 Masters
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Most (Kappakstur 1) - FIA European Truck Racing Championship - via
@@ -83,13 +83,12 @@ UID:2024-08-31T10:25:00/Monza Kappaksturinn (Æfing 3)
 DESCRIPTION:Monza Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 3 | Monza Kappaksturinn) - Formula 1 - v
- iaplay
+SUMMARY:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240831T103000
 DTEND:20240831T113000
 DTSTAMP:20240831T103000Z
-UID:2024-08-31T10:30:00/Track Positioning (Æfing 3 | Monza Kappaksturinn)
-DESCRIPTION:Track Positioning (Æfing 3 | Monza Kappaksturinn) - Formula 1
+UID:2024-08-31T10:30:00/Timing (Æfing 3 | Monza Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -108,12 +107,13 @@ UID:2024-08-31T10:30:00/Pitlane (Æfing 3 | Monza Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Æfing 3 | Monza Kappaksturinn) - Formula 1 - v
+ iaplay
 DTSTART:20240831T103000
 DTEND:20240831T113000
 DTSTAMP:20240831T103000Z
-UID:2024-08-31T10:30:00/Timing (Æfing 3 | Monza Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1
+UID:2024-08-31T10:30:00/Track Positioning (Æfing 3 | Monza Kappaksturinn)
+DESCRIPTION:Track Positioning (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Grand Prix (Tímatökur) - Moto3 - viaplay
@@ -183,12 +183,15 @@ UID:2024-08-31T13:55:00/Most (Kappakstur 2)
 DESCRIPTION:Most (Kappakstur 2) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formula 1 
+ - viaplay
 DTSTART:20240831T140000
 DTEND:20240831T150000
 DTSTAMP:20240831T140000Z
-UID:2024-08-31T14:00:00/Timing (Tímatökur | Monza Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1
+UID:2024-08-31T14:00:00/Track Positioning (Tímatökur | Monza Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -207,15 +210,12 @@ UID:2024-08-31T14:00:00/Pitlane (Tímatökur | Monza Kappaksturinn)
 DESCRIPTION:Pitlane (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240831T140000
 DTEND:20240831T150000
 DTSTAMP:20240831T140000Z
-UID:2024-08-31T14:00:00/Track Positioning (Tímatökur | Monza Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formul
- a 1
+UID:2024-08-31T14:00:00/Timing (Tímatökur | Monza Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Milwaukee Mile 250 (Tímatökur) - IndyCar - viaplay
