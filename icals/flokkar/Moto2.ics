@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Moto2 - ical
 BEGIN:VEVENT
-SUMMARY:Aragon Grand Prix (Kappakstur) - Moto2 - viaplay
-DTSTART:20240901T100000
-DTEND:20240901T110000
-DTSTAMP:20240901T100000Z
-UID:2024-09-01T10:00:00/Aragon Grand Prix (Kappakstur)
-DESCRIPTION:Aragon Grand Prix (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Marínó Kappaksturinn (Frjáls æfing 1) - Moto2 - viaplay
 DTSTART:20240906T074500
 DTEND:20240906T084500
@@ -40,5 +32,13 @@ DTEND:20240907T124000
 DTSTAMP:20240907T114000Z
 UID:2024-09-07T11:40:00/San Marínó Kappaksturinn (Tímatökur)
 DESCRIPTION:San Marínó Kappaksturinn (Tímatökur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marínó Kappaksturinn (Kappakstur) - Moto2 - viaplay
+DTSTART:20240908T100000
+DTEND:20240908T110000
+DTSTAMP:20240908T100000Z
+UID:2024-09-08T10:00:00/San Marínó Kappaksturinn (Kappakstur)
+DESCRIPTION:San Marínó Kappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 END:VCALENDAR
