@@ -10,24 +10,6 @@ UID:2024-09-13T09:20:00/Aserbaísjan Kappaksturinn (Æfing 1)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20240913T093000
-DTEND:20240913T103000
-DTSTAMP:20240913T093000Z
-UID:2024-09-13T09:30:00/Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20240913T093000
-DTEND:20240913T103000
-DTSTAMP:20240913T093000Z
-UID:2024-09-13T09:30:00/Timing (Æfing 1 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
  lay
 DTSTART:20240913T093000
@@ -48,6 +30,24 @@ DESCRIPTION:Track Positioning (Æfing 1 | Aserbaísjan Kappaksturinn) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20240913T093000
+DTEND:20240913T103000
+DTSTAMP:20240913T093000Z
+UID:2024-09-13T09:30:00/Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20240913T093000
+DTEND:20240913T103000
+DTSTAMP:20240913T093000Z
+UID:2024-09-13T09:30:00/Timing (Æfing 1 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aserbaísjan Kappaksturinn (Æfing 2) - Formula 1 - viaplay
 DTSTART:20240913T125500
 DTEND:20240913T135500
@@ -63,6 +63,14 @@ DTEND:20240913T140000
 DTSTAMP:20240913T130000Z
 UID:2024-09-13T13:00:00/Timing (Æfing 2 | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Timing (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning - Formula 1 - viaplay
+DTSTART:20240913T130000
+DTEND:20240913T140000
+DTSTAMP:20240913T130000Z
+UID:2024-09-13T13:00:00/Track Positioning
+DESCRIPTION:Track Positioning - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
@@ -81,13 +89,5 @@ DTEND:20240913T140000
 DTSTAMP:20240913T130000Z
 UID:2024-09-13T13:00:00/Onboard (Æfing 2 | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning - Formula 1 - viaplay
-DTSTART:20240913T130000
-DTEND:20240913T140000
-DTSTAMP:20240913T130000Z
-UID:2024-09-13T13:00:00/Track Positioning
-DESCRIPTION:Track Positioning - Formula 1
 END:VEVENT
 END:VCALENDAR
