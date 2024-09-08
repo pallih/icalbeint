@@ -99,10 +99,10 @@ DESCRIPTION:Flanders Darts Trophy - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sachsenring (Kappakstur 2) - DTM - viaplay
-DTSTART:20240908T111500
-DTEND:20240908T121500
-DTSTAMP:20240908T111500Z
-UID:2024-09-08T11:15:00/Sachsenring (Kappakstur 2)
+DTSTART:20240908T111000
+DTEND:20240908T121000
+DTSTAMP:20240908T111000Z
+UID:2024-09-08T11:10:00/Sachsenring (Kappakstur 2)
 DESCRIPTION:Sachsenring (Kappakstur 2) - DTM
 END:VEVENT
 BEGIN:VEVENT
@@ -122,12 +122,12 @@ UID:2024-09-08T11:35:00/Imola (Race 2)
 DESCRIPTION:Imola (Race 2) - Formula Regional European Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lúxemborg - Hvíta-Rússland - UEFA Nations League - viaplay
+SUMMARY:Piteå - Trelleborg - OBOS Damallsvenskan - viaplay
 DTSTART:20240908T125000
 DTEND:20240908T135000
 DTSTAMP:20240908T125000Z
-UID:2024-09-08T12:50:00/Lúxemborg - Hvíta-Rússland
-DESCRIPTION:Lúxemborg - Hvíta-Rússland - UEFA Nations League
+UID:2024-09-08T12:50:00/Piteå - Trelleborg
+DESCRIPTION:Piteå - Trelleborg - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vittsjö - Djurgården - OBOS Damallsvenskan - viaplay
@@ -138,20 +138,12 @@ UID:2024-09-08T12:50:00/Vittsjö - Djurgården
 DESCRIPTION:Vittsjö - Djurgården - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Piteå - Trelleborg - OBOS Damallsvenskan - viaplay
+SUMMARY:Lúxemborg - Hvíta-Rússland - UEFA Nations League - viaplay
 DTSTART:20240908T125000
 DTEND:20240908T135000
 DTSTAMP:20240908T125000Z
-UID:2024-09-08T12:50:00/Piteå - Trelleborg
-DESCRIPTION:Piteå - Trelleborg - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hammarby - Kristianstad - OBOS Damallsvenskan - viaplay
-DTSTART:20240908T125500
-DTEND:20240908T135500
-DTSTAMP:20240908T125500Z
-UID:2024-09-08T12:55:00/Hammarby - Kristianstad
-DESCRIPTION:Hammarby - Kristianstad - OBOS Damallsvenskan
+UID:2024-09-08T12:50:00/Lúxemborg - Hvíta-Rússland
+DESCRIPTION:Lúxemborg - Hvíta-Rússland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Stuttgart - Bundesliga - viaplay
@@ -160,6 +152,14 @@ DTEND:20240908T135500
 DTSTAMP:20240908T125500Z
 UID:2024-09-08T12:55:00/Leipzig - Stuttgart
 DESCRIPTION:Leipzig - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hammarby - Kristianstad - OBOS Damallsvenskan - viaplay
+DTSTART:20240908T125500
+DTEND:20240908T135500
+DTSTAMP:20240908T125500Z
+UID:2024-09-08T12:55:00/Hammarby - Kristianstad
+DESCRIPTION:Hammarby - Kristianstad - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürburgring (Coppa Shell & 488 | Kappakstur 2) - Ferrari Challeng
@@ -196,6 +196,14 @@ UID:2024-09-08T15:50:00/Búlgaría - Norður-Írland
 DESCRIPTION:Búlgaría - Norður-Írland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Danmörk - Serbía - UEFA Nations League - viaplay
+DTSTART:20240908T155000
+DTEND:20240908T165000
+DTSTAMP:20240908T155000Z
+UID:2024-09-08T15:50:00/Danmörk - Serbía
+DESCRIPTION:Danmörk - Serbía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Slóvakía - Aserbaísjan - UEFA Nations League - viaplay
 DTSTART:20240908T155000
 DTEND:20240908T165000
@@ -210,14 +218,6 @@ DTEND:20240908T165000
 DTSTAMP:20240908T155000Z
 UID:2024-09-08T15:50:00/Gíbraltar - Liechtenstein
 DESCRIPTION:Gíbraltar - Liechtenstein - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danmörk - Serbía - UEFA Nations League - viaplay
-DTSTART:20240908T155000
-DTEND:20240908T165000
-DTSTAMP:20240908T155000Z
-UID:2024-09-08T15:50:00/Danmörk - Serbía
-DESCRIPTION:Danmörk - Serbía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - UEFA Nations League - viaplay
@@ -244,14 +244,6 @@ UID:2024-09-08T18:30:00/Quaker State 400 (Cup Series)
 DESCRIPTION:Quaker State 400 (Cup Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portúgal - Skotland - UEFA Nations League - viaplay
-DTSTART:20240908T183500
-DTEND:20240908T193500
-DTSTAMP:20240908T183500Z
-UID:2024-09-08T18:35:00/Portúgal - Skotland
-DESCRIPTION:Portúgal - Skotland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Svíþjóð - Eistland - UEFA Nations League - viaplay
 DTSTART:20240908T183500
 DTEND:20240908T193500
@@ -260,20 +252,28 @@ UID:2024-09-08T18:35:00/Svíþjóð - Eistland
 DESCRIPTION:Svíþjóð - Eistland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Króatía - Pólland - UEFA Nations League - viaplay
-DTSTART:20240908T183500
-DTEND:20240908T193500
-DTSTAMP:20240908T183500Z
-UID:2024-09-08T18:35:00/Króatía - Pólland
-DESCRIPTION:Króatía - Pólland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sviss - Spánn - UEFA Nations League - viaplay
 DTSTART:20240908T183500
 DTEND:20240908T193500
 DTSTAMP:20240908T183500Z
 UID:2024-09-08T18:35:00/Sviss - Spánn
 DESCRIPTION:Sviss - Spánn - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portúgal - Skotland - UEFA Nations League - viaplay
+DTSTART:20240908T183500
+DTEND:20240908T193500
+DTSTAMP:20240908T183500Z
+UID:2024-09-08T18:35:00/Portúgal - Skotland
+DESCRIPTION:Portúgal - Skotland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Króatía - Pólland - UEFA Nations League - viaplay
+DTSTART:20240908T183500
+DTEND:20240908T193500
+DTSTAMP:20240908T183500Z
+UID:2024-09-08T18:35:00/Króatía - Pólland
+DESCRIPTION:Króatía - Pólland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
@@ -364,14 +364,6 @@ UID:2024-09-10T11:30:00/UEFA Nations League: Highlights
 DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Moldóva - San Marínó - Landsleikur - viaplay
-DTSTART:20240910T155000
-DTEND:20240910T165000
-DTSTAMP:20240910T155000Z
-UID:2024-09-10T15:50:00/Moldóva - San Marínó
-DESCRIPTION:Moldóva - San Marínó - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lettland - Færeyjar - UEFA Nations League - viaplay
 DTSTART:20240910T155000
 DTEND:20240910T165000
@@ -380,20 +372,20 @@ UID:2024-09-10T15:50:00/Lettland - Færeyjar
 DESCRIPTION:Lettland - Færeyjar - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andorra - Malta - UEFA Nations League - viaplay
-DTSTART:20240910T183500
-DTEND:20240910T193500
-DTSTAMP:20240910T183500Z
-UID:2024-09-10T18:35:00/Andorra - Malta
-DESCRIPTION:Andorra - Malta - UEFA Nations League
+SUMMARY:Moldóva - San Marínó - Landsleikur - viaplay
+DTSTART:20240910T155000
+DTEND:20240910T165000
+DTSTAMP:20240910T155000Z
+UID:2024-09-10T15:50:00/Moldóva - San Marínó
+DESCRIPTION:Moldóva - San Marínó - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Norður-Makedónía - Armenía - UEFA Nations League - viaplay
+SUMMARY:Holland - Þýskaland - UEFA Nations League - viaplay
 DTSTART:20240910T183500
 DTEND:20240910T193500
 DTSTAMP:20240910T183500Z
-UID:2024-09-10T18:35:00/Norður-Makedónía - Armenía
-DESCRIPTION:Norður-Makedónía - Armenía - UEFA Nations League
+UID:2024-09-10T18:35:00/Holland - Þýskaland
+DESCRIPTION:Holland - Þýskaland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ungverjaland - Bosnía og Hersegóvína - UEFA Nations League - vi
@@ -405,12 +397,12 @@ UID:2024-09-10T18:35:00/Ungverjaland - Bosnía og Hersegóvína
 DESCRIPTION:Ungverjaland - Bosnía og Hersegóvína - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Írland - Grikkland - UEFA Nations League - viaplay
+SUMMARY:England - Finnland - UEFA Nations League - viaplay
 DTSTART:20240910T183500
 DTEND:20240910T193500
 DTSTAMP:20240910T183500Z
-UID:2024-09-10T18:35:00/Írland - Grikkland
-DESCRIPTION:Írland - Grikkland - UEFA Nations League
+UID:2024-09-10T18:35:00/England - Finnland
+DESCRIPTION:England - Finnland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Albanía - Georgía - UEFA Nations League - viaplay
@@ -429,20 +421,28 @@ UID:2024-09-10T18:35:00/Tékkland - Úkraína
 DESCRIPTION:Tékkland - Úkraína - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:England - Finnland - UEFA Nations League - viaplay
+SUMMARY:Írland - Grikkland - UEFA Nations League - viaplay
 DTSTART:20240910T183500
 DTEND:20240910T193500
 DTSTAMP:20240910T183500Z
-UID:2024-09-10T18:35:00/England - Finnland
-DESCRIPTION:England - Finnland - UEFA Nations League
+UID:2024-09-10T18:35:00/Írland - Grikkland
+DESCRIPTION:Írland - Grikkland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holland - Þýskaland - UEFA Nations League - viaplay
+SUMMARY:Andorra - Malta - UEFA Nations League - viaplay
 DTSTART:20240910T183500
 DTEND:20240910T193500
 DTSTAMP:20240910T183500Z
-UID:2024-09-10T18:35:00/Holland - Þýskaland
-DESCRIPTION:Holland - Þýskaland - UEFA Nations League
+UID:2024-09-10T18:35:00/Andorra - Malta
+DESCRIPTION:Andorra - Malta - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norður-Makedónía - Armenía - UEFA Nations League - viaplay
+DTSTART:20240910T183500
+DTEND:20240910T193500
+DTSTAMP:20240910T183500Z
+UID:2024-09-10T18:35:00/Norður-Makedónía - Armenía
+DESCRIPTION:Norður-Makedónía - Armenía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - UEFA Nations League - viaplay
@@ -517,13 +517,13 @@ UID:2024-09-13T09:20:00/Aserbaísjan Kappaksturinn (Æfing 1)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+SUMMARY:Onboard (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
  lay
 DTSTART:20240913T093000
 DTEND:20240913T103000
 DTSTAMP:20240913T093000Z
-UID:2024-09-13T09:30:00/Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2024-09-13T09:30:00/Onboard (Æfing 1 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Aserbaísjan Kappaksturinn) - Formul
@@ -537,13 +537,13 @@ DESCRIPTION:Track Positioning (Æfing 1 | Aserbaísjan Kappaksturinn) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+SUMMARY:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
  lay
 DTSTART:20240913T093000
 DTEND:20240913T103000
 DTSTAMP:20240913T093000Z
-UID:2024-09-13T09:30:00/Onboard (Æfing 1 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2024-09-13T09:30:00/Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
@@ -579,13 +579,21 @@ UID:2024-09-13T12:55:00/Aserbaísjan Kappaksturinn (Æfing 2)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
- ay
+SUMMARY:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+ lay
 DTSTART:20240913T130000
 DTEND:20240913T140000
 DTSTAMP:20240913T130000Z
-UID:2024-09-13T13:00:00/Timing (Æfing 2 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Timing (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2024-09-13T13:00:00/Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning - Formula 1 - viaplay
+DTSTART:20240913T130000
+DTEND:20240913T140000
+DTSTAMP:20240913T130000Z
+UID:2024-09-13T13:00:00/Track Positioning
+DESCRIPTION:Track Positioning - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
@@ -597,21 +605,13 @@ UID:2024-09-13T13:00:00/Onboard (Æfing 2 | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning - Formula 1 - viaplay
+SUMMARY:Timing (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
+ ay
 DTSTART:20240913T130000
 DTEND:20240913T140000
 DTSTAMP:20240913T130000Z
-UID:2024-09-13T13:00:00/Track Positioning
-DESCRIPTION:Track Positioning - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20240913T130000
-DTEND:20240913T140000
-DTSTAMP:20240913T130000Z
-UID:2024-09-13T13:00:00/Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2024-09-13T13:00:00/Timing (Æfing 2 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Timing (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Irish Open - DP World Tour - viaplay
@@ -703,15 +703,13 @@ UID:2024-09-14T08:30:00/Pitlane (Æfing 3 | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 3 | Aserbaísjan Kappaksturinn) - Formul
- a 1 - viaplay
+SUMMARY:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+ lay
 DTSTART:20240914T083000
 DTEND:20240914T093000
 DTSTAMP:20240914T083000Z
-UID:2024-09-14T08:30:00/Track Positioning (Æfing 3 | Aserbaísjan Kappaks
- turinn)
-DESCRIPTION:Track Positioning (Æfing 3 | Aserbaísjan Kappaksturinn) - Fo
- rmula 1
+UID:2024-09-14T08:30:00/Onboard (Æfing 3 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
@@ -723,13 +721,15 @@ UID:2024-09-14T08:30:00/Timing (Æfing 3 | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Timing (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
- lay
+SUMMARY:Track Positioning (Æfing 3 | Aserbaísjan Kappaksturinn) - Formul
+ a 1 - viaplay
 DTSTART:20240914T083000
 DTEND:20240914T093000
 DTSTAMP:20240914T083000Z
-UID:2024-09-14T08:30:00/Onboard (Æfing 3 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2024-09-14T08:30:00/Track Positioning (Æfing 3 | Aserbaísjan Kappaks
+ turinn)
+DESCRIPTION:Track Positioning (Æfing 3 | Aserbaísjan Kappaksturinn) - Fo
+ rmula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carl Zeiss Jena - Wolfsburg - Frauen-Bundesliga - viaplay
@@ -740,6 +740,14 @@ UID:2024-09-14T09:55:00/Carl Zeiss Jena - Wolfsburg
 DESCRIPTION:Carl Zeiss Jena - Wolfsburg - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Baku (Sprettkeppni) - Formula 2 - viaplay
+DTSTART:20240914T100500
+DTEND:20240914T110500
+DTSTAMP:20240914T100500Z
+UID:2024-09-14T10:05:00/Baku (Sprettkeppni)
+DESCRIPTION:Baku (Sprettkeppni) - Formula 2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Italy (Kappakstur 1) - Formula 4 Italian Championship - viaplay
 DTSTART:20240914T100500
 DTEND:20240914T110500
@@ -748,12 +756,12 @@ UID:2024-09-14T10:05:00/Italy (Kappakstur 1)
 DESCRIPTION:Italy (Kappakstur 1) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Baku (Sprettkeppni) - Formula 2 - viaplay
-DTSTART:20240914T100500
-DTEND:20240914T110500
-DTSTAMP:20240914T100500Z
-UID:2024-09-14T10:05:00/Baku (Sprettkeppni)
-DESCRIPTION:Baku (Sprettkeppni) - Formula 2
+SUMMARY:Kristianstad - AIK - OBOS Damallsvenskan - viaplay
+DTSTART:20240914T105000
+DTEND:20240914T115000
+DTSTAMP:20240914T105000Z
+UID:2024-09-14T10:50:00/Kristianstad - AIK
+DESCRIPTION:Kristianstad - AIK - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Darmstadt - Braunschweig - 2. Bundesliga - viaplay
@@ -770,14 +778,6 @@ DTEND:20240914T115000
 DTSTAMP:20240914T105000Z
 UID:2024-09-14T10:50:00/Hannover - Kaiserslautern
 DESCRIPTION:Hannover - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kristianstad - AIK - OBOS Damallsvenskan - viaplay
-DTSTART:20240914T105000
-DTEND:20240914T115000
-DTSTAMP:20240914T105000Z
-UID:2024-09-14T10:50:00/Kristianstad - AIK
-DESCRIPTION:Kristianstad - AIK - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulm - Nürnberg - 2. Bundesliga - viaplay
@@ -828,23 +828,6 @@ UID:2024-09-14T11:55:00/Aserbaísjan Kappaksturinn (Tímatökur)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Qualifying | Azerbaijan Grand Prix) - Formula 1 - viaplay
-DTSTART:20240914T120000
-DTEND:20240914T130000
-DTSTAMP:20240914T120000Z
-UID:2024-09-14T12:00:00/Onboard (Qualifying | Azerbaijan Grand Prix)
-DESCRIPTION:Onboard (Qualifying | Azerbaijan Grand Prix) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 - vi
- aplay
-DTSTART:20240914T120000
-DTEND:20240914T130000
-DTSTAMP:20240914T120000Z
-UID:2024-09-14T12:00:00/Timing (Tímatökur | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 - v
  iaplay
 DTSTART:20240914T120000
@@ -863,6 +846,23 @@ UID:2024-09-14T12:00:00/Track Positioning (Tímatökur | Aserbaísjan Kapp
  aksturinn)
 DESCRIPTION:Track Positioning (Tímatökur | Aserbaísjan Kappaksturinn) -
   Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Qualifying | Azerbaijan Grand Prix) - Formula 1 - viaplay
+DTSTART:20240914T120000
+DTEND:20240914T130000
+DTSTAMP:20240914T120000Z
+UID:2024-09-14T12:00:00/Onboard (Qualifying | Azerbaijan Grand Prix)
+DESCRIPTION:Onboard (Qualifying | Azerbaijan Grand Prix) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 - vi
+ aplay
+DTSTART:20240914T120000
+DTEND:20240914T130000
+DTSTAMP:20240914T120000Z
+UID:2024-09-14T12:00:00/Timing (Tímatökur | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Växjö - Piteå - OBOS Damallsvenskan - viaplay
@@ -889,14 +889,6 @@ UID:2024-09-14T12:55:00/Norrköping - Häcken
 DESCRIPTION:Norrköping - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Bochum - Bundesliga - viaplay
-DTSTART:20240914T132000
-DTEND:20240914T142000
-DTSTAMP:20240914T132000Z
-UID:2024-09-14T13:20:00/Freiburg - Bochum
-DESCRIPTION:Freiburg - Bochum - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Stuttgart - Bundesliga - viaplay
 DTSTART:20240914T132000
 DTEND:20240914T142000
@@ -919,6 +911,14 @@ DTEND:20240914T142000
 DTSTAMP:20240914T132000Z
 UID:2024-09-14T13:20:00/Wolfsburg - Frankfurt
 DESCRIPTION:Wolfsburg - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Bochum - Bundesliga - viaplay
+DTSTART:20240914T132000
+DTEND:20240914T142000
+DTSTAMP:20240914T132000Z
+UID:2024-09-14T13:20:00/Freiburg - Bochum
+DESCRIPTION:Freiburg - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -969,20 +969,20 @@ UID:2024-09-14T16:20:00/Holstein Kiel - Bayern München
 DESCRIPTION:Holstein Kiel - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paczuski vs Zerhouni - KSW - viaplay
-DTSTART:20240914T170000
-DTEND:20240914T180000
-DTSTAMP:20240914T170000Z
-UID:2024-09-14T17:00:00/Paczuski vs Zerhouni
-DESCRIPTION:Paczuski vs Zerhouni - KSW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Series of Darts Finals - PDC Darts - viaplay
 DTSTART:20240914T170000
 DTEND:20240914T180000
 DTSTAMP:20240914T170000Z
 UID:2024-09-14T17:00:00/World Series of Darts Finals
 DESCRIPTION:World Series of Darts Finals - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paczuski vs Zerhouni - KSW - viaplay
+DTSTART:20240914T170000
+DTEND:20240914T180000
+DTSTAMP:20240914T170000Z
+UID:2024-09-14T17:00:00/Paczuski vs Zerhouni
+DESCRIPTION:Paczuski vs Zerhouni - KSW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Machine Music City Grand Prix (Tímatökur) - IndyCar - viapla
