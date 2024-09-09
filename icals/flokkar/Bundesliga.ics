@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Leipzig - Stuttgart - Bundesliga - viaplay
-DTSTART:20240908T125500
-DTEND:20240908T135500
-DTSTAMP:20240908T125500Z
-UID:2024-09-08T12:55:00/Leipzig - Stuttgart
-DESCRIPTION:Leipzig - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THW Kiel - FRISCH AUF! Göppingen - Bundesliga - viaplay
 DTSTART:20240912T165500
 DTEND:20240912T175500
@@ -26,7 +18,7 @@ UID:2024-09-13T18:20:00/Dortmund - Heidenheim
 DESCRIPTION:Dortmund - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - stod2vodasport
+SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - viaplay
 DTSTART:20240914T132000
 DTEND:20240914T142000
 DTSTAMP:20240914T132000Z
@@ -42,7 +34,7 @@ UID:2024-09-14T13:20:00/Mönchengladbach - Stuttgart
 DESCRIPTION:Mönchengladbach - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - viaplay
+SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - stod2vodasport
 DTSTART:20240914T132000
 DTEND:20240914T142000
 DTSTAMP:20240914T132000Z
@@ -50,20 +42,12 @@ UID:2024-09-14T13:20:00/Hoffenheim - Bayer Leverkusen
 DESCRIPTION:Hoffenheim - Bayer Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Frankfurt - Bundesliga - viaplay
+SUMMARY:Leipzig - Union Berlin - Bundesliga - viaplay
 DTSTART:20240914T132000
 DTEND:20240914T142000
 DTSTAMP:20240914T132000Z
-UID:2024-09-14T13:20:00/Wolfsburg - Frankfurt
-DESCRIPTION:Wolfsburg - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Bochum - Bundesliga - viaplay
-DTSTART:20240914T132000
-DTEND:20240914T142000
-DTSTAMP:20240914T132000Z
-UID:2024-09-14T13:20:00/Freiburg - Bochum
-DESCRIPTION:Freiburg - Bochum - Bundesliga
+UID:2024-09-14T13:20:00/Leipzig - Union Berlin
+DESCRIPTION:Leipzig - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -74,12 +58,20 @@ UID:2024-09-14T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Union Berlin - Bundesliga - viaplay
+SUMMARY:Freiburg - Bochum - Bundesliga - viaplay
 DTSTART:20240914T132000
 DTEND:20240914T142000
 DTSTAMP:20240914T132000Z
-UID:2024-09-14T13:20:00/Leipzig - Union Berlin
-DESCRIPTION:Leipzig - Union Berlin - Bundesliga
+UID:2024-09-14T13:20:00/Freiburg - Bochum
+DESCRIPTION:Freiburg - Bochum - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Frankfurt - Bundesliga - viaplay
+DTSTART:20240914T132000
+DTEND:20240914T142000
+DTSTAMP:20240914T132000Z
+UID:2024-09-14T13:20:00/Wolfsburg - Frankfurt
+DESCRIPTION:Wolfsburg - Frankfurt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Bayern München - Bundesliga - viaplay
@@ -96,5 +88,37 @@ DTEND:20240914T172500
 DTSTAMP:20240914T162500Z
 UID:2024-09-14T16:25:00/Kiel - Bayern München
 DESCRIPTION:Kiel - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV Hamburg - Magdeburg - Bundesliga - viaplay
+DTSTART:20240915T125500
+DTEND:20240915T135500
+DTSTAMP:20240915T125500Z
+UID:2024-09-15T12:55:00/HSV Hamburg - Magdeburg
+DESCRIPTION:HSV Hamburg - Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - St. Pauli - Bundesliga - viaplay
+DTSTART:20240915T132000
+DTEND:20240915T142000
+DTSTAMP:20240915T132000Z
+UID:2024-09-15T13:20:00/Augsburg - St. Pauli
+DESCRIPTION:Augsburg - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mainz - Werder Bremen - Bundesliga - viaplay
+DTSTART:20240915T152000
+DTEND:20240915T162000
+DTSTAMP:20240915T152000Z
+UID:2024-09-15T15:20:00/Mainz - Werder Bremen
+DESCRIPTION:Mainz - Werder Bremen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Leipzig - Bundesliga - viaplay
+DTSTART:20240915T155500
+DTEND:20240915T165500
+DTSTAMP:20240915T155500Z
+UID:2024-09-15T15:55:00/Füchse Berlin - Leipzig
+DESCRIPTION:Füchse Berlin - Leipzig - Bundesliga
 END:VEVENT
 END:VCALENDAR
