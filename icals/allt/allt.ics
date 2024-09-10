@@ -1022,20 +1022,20 @@ UID:2024-09-14T16:30:00/Fram - Haukar
 DESCRIPTION:Fram - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paczuski vs Zerhouni - KSW - viaplay
-DTSTART:20240914T170000
-DTEND:20240914T180000
-DTSTAMP:20240914T170000Z
-UID:2024-09-14T17:00:00/Paczuski vs Zerhouni
-DESCRIPTION:Paczuski vs Zerhouni - KSW
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Series of Darts Finals - PDC Darts - viaplay
 DTSTART:20240914T170000
 DTEND:20240914T180000
 DTSTAMP:20240914T170000Z
 UID:2024-09-14T17:00:00/World Series of Darts Finals
 DESCRIPTION:World Series of Darts Finals - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paczuski vs Zerhouni - KSW - viaplay
+DTSTART:20240914T170000
+DTEND:20240914T180000
+DTSTAMP:20240914T170000Z
+UID:2024-09-14T17:00:00/Paczuski vs Zerhouni
+DESCRIPTION:Paczuski vs Zerhouni - KSW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Machine Music City Grand Prix (Tímatökur) - IndyCar - viapla
@@ -1063,20 +1063,20 @@ UID:2024-09-14T18:25:00/Solheim Cup
 DESCRIPTION:Solheim Cup - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mission 200 at the Glen (Xfinity Series) - Nascar - viaplay
-DTSTART:20240914T183000
-DTEND:20240914T193000
-DTSTAMP:20240914T183000Z
-UID:2024-09-14T18:30:00/Mission 200 at the Glen (Xfinity Series)
-DESCRIPTION:Mission 200 at the Glen (Xfinity Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bournemouth - Chelsea - Enska úrvalsdeildin - siminnsport
 DTSTART:20240914T183000
 DTEND:20240914T193000
 DTSTAMP:20240914T183000Z
 UID:2024-09-14T18:30:00/Bournemouth - Chelsea
 DESCRIPTION:Bournemouth - Chelsea - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission 200 at the Glen (Xfinity Series) - Nascar - viaplay
+DTSTART:20240914T183000
+DTEND:20240914T193000
+DTSTAMP:20240914T183000Z
+UID:2024-09-14T18:30:00/Mission 200 at the Glen (Xfinity Series)
+DESCRIPTION:Mission 200 at the Glen (Xfinity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Machine Music City Grand Prix (Úrslit Æfing) - IndyCar - via
@@ -1144,13 +1144,12 @@ UID:2024-09-15T10:55:00/Dundee United - Rangers
 DESCRIPTION:Dundee United - Rangers - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - vi
- aplay
+SUMMARY:World Series of Darts Finals - PDC Darts - viaplay
 DTSTART:20240915T110000
 DTEND:20240915T120000
 DTSTAMP:20240915T110000Z
-UID:2024-09-15T11:00:00/Onboard (Kappakstur | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2024-09-15T11:00:00/World Series of Darts Finals
+DESCRIPTION:World Series of Darts Finals - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane - Formula 1 - viaplay
@@ -1161,12 +1160,13 @@ UID:2024-09-15T11:00:00/Pitlane
 DESCRIPTION:Pitlane - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World Series of Darts Finals - PDC Darts - viaplay
+SUMMARY:Onboard (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - vi
+ aplay
 DTSTART:20240915T110000
 DTEND:20240915T120000
 DTSTAMP:20240915T110000Z
-UID:2024-09-15T11:00:00/World Series of Darts Finals
-DESCRIPTION:World Series of Darts Finals - PDC Darts
+UID:2024-09-15T11:00:00/Onboard (Kappakstur | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - via
@@ -1189,6 +1189,14 @@ DESCRIPTION:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) -
  Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSV - Jahn Regensburg - 2. Bundesliga - viaplay
+DTSTART:20240915T112000
+DTEND:20240915T122000
+DTSTAMP:20240915T112000Z
+UID:2024-09-15T11:20:00/HSV - Jahn Regensburg
+DESCRIPTION:HSV - Jahn Regensburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20240915T112000
 DTEND:20240915T122000
@@ -1203,14 +1211,6 @@ DTEND:20240915T122000
 DTSTAMP:20240915T112000Z
 UID:2024-09-15T11:20:00/Hertha Berlin - Düsseldorf
 DESCRIPTION:Hertha Berlin - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HSV - Jahn Regensburg - 2. Bundesliga - viaplay
-DTSTART:20240915T112000
-DTEND:20240915T122000
-DTSTAMP:20240915T112000Z
-UID:2024-09-15T11:20:00/HSV - Jahn Regensburg
-DESCRIPTION:HSV - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Irish Open - DP World Tour - viaplay
@@ -1431,6 +1431,14 @@ DTEND:20240916T000000
 DTSTAMP:20240915T230000Z
 UID:2024-09-15T23:00:00/Dodgers - Braves
 DESCRIPTION:Dodgers - Braves - MLB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Freiburg - Frauen-Bundesliga - viaplay
+DTSTART:20240916T155500
+DTEND:20240916T165500
+DTSTAMP:20240916T155500Z
+UID:2024-09-16T15:55:00/Hoffenheim - Freiburg
+DESCRIPTION:Hoffenheim - Freiburg - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Freiburg - Bundesliga kvenna - stod2vodasport
