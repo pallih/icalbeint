@@ -82,14 +82,6 @@ UID:2024-09-14T11:55:00/F1 - Aserbaídsjan: Tímataka
 DESCRIPTION:F1 - Aserbaídsjan: Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Upphitun - Besta deild kvenna - stod2sport
-DTSTART:20240914T132000
-DTEND:20240914T142000
-DTSTAMP:20240914T132000Z
-UID:2024-09-14T13:20:00/Bestu mörkin - Upphitun
-DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - stod2vodasport
 DTSTART:20240914T132000
 DTEND:20240914T142000
@@ -98,12 +90,12 @@ UID:2024-09-14T13:20:00/Hoffenheim - Bayer Leverkusen
 DESCRIPTION:Hoffenheim - Bayer Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Tindastóll - Besta deild kvenna - stod2sport
-DTSTART:20240914T134500
-DTEND:20240914T144500
-DTSTAMP:20240914T134500Z
-UID:2024-09-14T13:45:00/Stjarnan - Tindastóll
-DESCRIPTION:Stjarnan - Tindastóll - Besta deild kvenna
+SUMMARY:Bestu mörkin - Upphitun - Besta deild kvenna - stod2sport
+DTSTART:20240914T132000
+DTEND:20240914T142000
+DTSTAMP:20240914T132000Z
+UID:2024-09-14T13:20:00/Bestu mörkin - Upphitun
+DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fylkir - Keflavík - Besta deild kvenna - stod2sport5
@@ -112,6 +104,14 @@ DTEND:20240914T144500
 DTSTAMP:20240914T134500Z
 UID:2024-09-14T13:45:00/Fylkir - Keflavík
 DESCRIPTION:Fylkir - Keflavík - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Tindastóll - Besta deild kvenna - stod2sport
+DTSTART:20240914T134500
+DTEND:20240914T144500
+DTSTAMP:20240914T134500Z
+UID:2024-09-14T13:45:00/Stjarnan - Tindastóll
+DESCRIPTION:Stjarnan - Tindastóll - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
@@ -154,14 +154,6 @@ UID:2024-09-15T10:30:00/F1 - Aserbaídsjan: Keppni
 DESCRIPTION:F1 - Aserbaídsjan: Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Vestri - Besta deild karla - stod2besta01
-DTSTART:20240915T135000
-DTEND:20240915T145000
-DTSTAMP:20240915T135000Z
-UID:2024-09-15T13:50:00/Stjarnan - Vestri
-DESCRIPTION:Stjarnan - Vestri - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - FH - Besta deild karla - stod2besta02
 DTSTART:20240915T135000
 DTEND:20240915T145000
@@ -176,6 +168,14 @@ DTEND:20240915T145000
 DTSTAMP:20240915T135000Z
 UID:2024-09-15T13:50:00/ÍA - KA
 DESCRIPTION:ÍA - KA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Vestri - Besta deild karla - stod2besta01
+DTSTART:20240915T135000
+DTEND:20240915T145000
+DTSTAMP:20240915T135000Z
+UID:2024-09-15T13:50:00/Stjarnan - Vestri
+DESCRIPTION:Stjarnan - Vestri - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Solheim Cup - LPGA Tour - stod2vodasport
@@ -200,6 +200,14 @@ DTEND:20240915T175500
 DTSTAMP:20240915T165500Z
 UID:2024-09-15T16:55:00/Vikings - 49ers
 DESCRIPTION:Vikings - 49ers - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL Red Zone - NFL - stod2sport3
+DTSTART:20240915T165500
+DTEND:20240915T175500
+DTSTAMP:20240915T165500Z
+UID:2024-09-15T16:55:00/NFL Red Zone
+DESCRIPTION:NFL Red Zone - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ísey Tilþrifin - Besta deild karla - stod2sport
