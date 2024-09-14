@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
+SUMMARY:Darmstadt - Braunschweig - 2. Bundesliga - viaplay
+DTSTART:20240914T105000
+DTEND:20240914T115000
+DTSTAMP:20240914T105000Z
+UID:2024-09-14T10:50:00/Darmstadt - Braunschweig
+DESCRIPTION:Darmstadt - Braunschweig - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ulm - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20240914T105000
 DTEND:20240914T115000
@@ -16,14 +24,6 @@ DTEND:20240914T115000
 DTSTAMP:20240914T105000Z
 UID:2024-09-14T10:50:00/Hannover - Kaiserslautern
 DESCRIPTION:Hannover - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Braunschweig - 2. Bundesliga - viaplay
-DTSTART:20240914T105000
-DTEND:20240914T115000
-DTSTAMP:20240914T105000Z
-UID:2024-09-14T10:50:00/Darmstadt - Braunschweig
-DESCRIPTION:Darmstadt - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Magdeburg - 2. Bundesliga - viaplay
@@ -42,14 +42,6 @@ UID:2024-09-15T11:20:00/HSV - Jahn Regensburg
 DESCRIPTION:HSV - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20240915T112000
-DTEND:20240915T122000
-DTSTAMP:20240915T112000Z
-UID:2024-09-15T11:20:00/Hertha Berlin - Düsseldorf
-DESCRIPTION:Hertha Berlin - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20240915T112000
 DTEND:20240915T122000
@@ -58,12 +50,12 @@ UID:2024-09-15T11:20:00/Greuther Fürth - Elversberg
 DESCRIPTION:Greuther Fürth - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schalke - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20240920T162000
-DTEND:20240920T172000
-DTSTAMP:20240920T162000Z
-UID:2024-09-20T16:20:00/Schalke - Darmstadt
-DESCRIPTION:Schalke - Darmstadt - 2. Bundesliga
+SUMMARY:Hertha Berlin - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20240915T112000
+DTEND:20240915T122000
+DTSTAMP:20240915T112000Z
+UID:2024-09-15T11:20:00/Hertha Berlin - Düsseldorf
+DESCRIPTION:Hertha Berlin - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - Hannover - 2. Bundesliga - viaplay
@@ -72,5 +64,13 @@ DTEND:20240920T172000
 DTSTAMP:20240920T162000Z
 UID:2024-09-20T16:20:00/Paderborn - Hannover
 DESCRIPTION:Paderborn - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schalke - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20240920T162000
+DTEND:20240920T172000
+DTSTAMP:20240920T162000Z
+UID:2024-09-20T16:20:00/Schalke - Darmstadt
+DESCRIPTION:Schalke - Darmstadt - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
