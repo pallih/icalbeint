@@ -10,20 +10,20 @@ UID:2024-09-14T08:00:00/Rotterdam P1
 DESCRIPTION:Rotterdam P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Azerbaijan Grand Prix (Æfing 3) - Formula 1 - viaplay
-DTSTART:20240914T082500
-DTEND:20240914T092500
-DTSTAMP:20240914T082500Z
-UID:2024-09-14T08:25:00/Azerbaijan Grand Prix (Æfing 3)
-DESCRIPTION:Azerbaijan Grand Prix (Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1 - Aserbaídsjan: Æfing 3 - Formúla 1 - stod2vodasport
 DTSTART:20240914T082500
 DTEND:20240914T092500
 DTSTAMP:20240914T082500Z
 UID:2024-09-14T08:25:00/F1 - Aserbaídsjan: Æfing 3
 DESCRIPTION:F1 - Aserbaídsjan: Æfing 3 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Azerbaijan Grand Prix (Æfing 3) - Formula 1 - viaplay
+DTSTART:20240914T082500
+DTEND:20240914T092500
+DTSTAMP:20240914T082500Z
+UID:2024-09-14T08:25:00/Azerbaijan Grand Prix (Æfing 3)
+DESCRIPTION:Azerbaijan Grand Prix (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
@@ -88,14 +88,6 @@ UID:2024-09-14T10:10:00/Baku (Sprettkeppni)
 DESCRIPTION:Baku (Sprettkeppni) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ulm - Nürnberg - 2. Bundesliga - viaplay
-DTSTART:20240914T105000
-DTEND:20240914T115000
-DTSTAMP:20240914T105000Z
-UID:2024-09-14T10:50:00/Ulm - Nürnberg
-DESCRIPTION:Ulm - Nürnberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darmstadt - Braunschweig - 2. Bundesliga - viaplay
 DTSTART:20240914T105000
 DTEND:20240914T115000
@@ -104,12 +96,12 @@ UID:2024-09-14T10:50:00/Darmstadt - Braunschweig
 DESCRIPTION:Darmstadt - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kristianstad - AIK - OBOS Damallsvenskan - viaplay
+SUMMARY:Ulm - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20240914T105000
 DTEND:20240914T115000
 DTSTAMP:20240914T105000Z
-UID:2024-09-14T10:50:00/Kristianstad - AIK
-DESCRIPTION:Kristianstad - AIK - OBOS Damallsvenskan
+UID:2024-09-14T10:50:00/Ulm - Nürnberg
+DESCRIPTION:Ulm - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover - Kaiserslautern - 2. Bundesliga - viaplay
@@ -118,6 +110,14 @@ DTEND:20240914T115000
 DTSTAMP:20240914T105000Z
 UID:2024-09-14T10:50:00/Hannover - Kaiserslautern
 DESCRIPTION:Hannover - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kristianstad - AIK - OBOS Damallsvenskan - viaplay
+DTSTART:20240914T105000
+DTEND:20240914T115000
+DTSTAMP:20240914T105000Z
+UID:2024-09-14T10:50:00/Kristianstad - AIK
+DESCRIPTION:Kristianstad - AIK - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southampton - Man. Utd. - Enska úrvalsdeildin - siminnsport
@@ -186,6 +186,22 @@ UID:2024-09-14T11:55:00/F1 - Aserbaídsjan: Tímataka
 DESCRIPTION:F1 - Aserbaídsjan: Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mallorca - Villareal - LaLiga - Spænski boltinn - livey
+DTSTART:20240914T120000
+DTEND:20240914T130000
+DTSTAMP:20240914T120000Z
+UID:2024-09-14T12:00:00/Mallorca - Villareal
+DESCRIPTION:Mallorca - Villareal - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Qualifying | Azerbaijan Grand Prix) - Formula 1 - viaplay
+DTSTART:20240914T120000
+DTEND:20240914T130000
+DTSTAMP:20240914T120000Z
+UID:2024-09-14T12:00:00/Onboard (Qualifying | Azerbaijan Grand Prix)
+DESCRIPTION:Onboard (Qualifying | Azerbaijan Grand Prix) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 - v
  iaplay
 DTSTART:20240914T120000
@@ -193,15 +209,6 @@ DTEND:20240914T130000
 DTSTAMP:20240914T120000Z
 UID:2024-09-14T12:00:00/Pitlane (Tímatökur | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Pitlane (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 - vi
- aplay
-DTSTART:20240914T120000
-DTEND:20240914T130000
-DTSTAMP:20240914T120000Z
-UID:2024-09-14T12:00:00/Timing (Tímatökur | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Aserbaísjan Kappaksturinn) - For
@@ -215,20 +222,13 @@ DESCRIPTION:Track Positioning (Tímatökur | Aserbaísjan Kappaksturinn) -
   Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Qualifying | Azerbaijan Grand Prix) - Formula 1 - viaplay
+SUMMARY:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 - vi
+ aplay
 DTSTART:20240914T120000
 DTEND:20240914T130000
 DTSTAMP:20240914T120000Z
-UID:2024-09-14T12:00:00/Onboard (Qualifying | Azerbaijan Grand Prix)
-DESCRIPTION:Onboard (Qualifying | Azerbaijan Grand Prix) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mallorca - Villareal - LaLiga - Spænski boltinn - livey
-DTSTART:20240914T120000
-DTEND:20240914T130000
-DTSTAMP:20240914T120000Z
-UID:2024-09-14T12:00:00/Mallorca - Villareal
-DESCRIPTION:Mallorca - Villareal - LaLiga - Spænski boltinn
+UID:2024-09-14T12:00:00/Timing (Tímatökur | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Örebro - Rosengård - OBOS Damallsvenskan - viaplay
@@ -263,15 +263,7 @@ UID:2024-09-14T13:00:00/Irish Champions Stakes
 DESCRIPTION:Irish Champions Stakes - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Frankfurt - Bundesliga - viaplay
-DTSTART:20240914T132000
-DTEND:20240914T142000
-DTSTAMP:20240914T132000Z
-UID:2024-09-14T13:20:00/Wolfsburg - Frankfurt
-DESCRIPTION:Wolfsburg - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - viaplay
+SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - stod2vodasport
 DTSTART:20240914T132000
 DTEND:20240914T142000
 DTSTAMP:20240914T132000Z
@@ -285,6 +277,38 @@ DTEND:20240914T142000
 DTSTAMP:20240914T132000Z
 UID:2024-09-14T13:20:00/Leipzig - Union Berlin
 DESCRIPTION:Leipzig - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - viaplay
+DTSTART:20240914T132000
+DTEND:20240914T142000
+DTSTAMP:20240914T132000Z
+UID:2024-09-14T13:20:00/Hoffenheim - Bayer Leverkusen
+DESCRIPTION:Hoffenheim - Bayer Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Bochum - Bundesliga - viaplay
+DTSTART:20240914T132000
+DTEND:20240914T142000
+DTSTAMP:20240914T132000Z
+UID:2024-09-14T13:20:00/Freiburg - Bochum
+DESCRIPTION:Freiburg - Bochum - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Frankfurt - Bundesliga - viaplay
+DTSTART:20240914T132000
+DTEND:20240914T142000
+DTSTAMP:20240914T132000Z
+UID:2024-09-14T13:20:00/Wolfsburg - Frankfurt
+DESCRIPTION:Wolfsburg - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Stuttgart - Bundesliga - viaplay
+DTSTART:20240914T132000
+DTEND:20240914T142000
+DTSTAMP:20240914T132000Z
+UID:2024-09-14T13:20:00/Mönchengladbach - Stuttgart
+DESCRIPTION:Mönchengladbach - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -303,28 +327,12 @@ UID:2024-09-14T13:20:00/Bestu mörkin - Upphitun
 DESCRIPTION:Bestu mörkin - Upphitun - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - stod2vodasport
-DTSTART:20240914T132000
-DTEND:20240914T142000
-DTSTAMP:20240914T132000Z
-UID:2024-09-14T13:20:00/Hoffenheim - Bayer Leverkusen
-DESCRIPTION:Hoffenheim - Bayer Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Stuttgart - Bundesliga - viaplay
-DTSTART:20240914T132000
-DTEND:20240914T142000
-DTSTAMP:20240914T132000Z
-UID:2024-09-14T13:20:00/Mönchengladbach - Stuttgart
-DESCRIPTION:Mönchengladbach - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Bochum - Bundesliga - viaplay
-DTSTART:20240914T132000
-DTEND:20240914T142000
-DTSTAMP:20240914T132000Z
-UID:2024-09-14T13:20:00/Freiburg - Bochum
-DESCRIPTION:Freiburg - Bochum - Bundesliga
+SUMMARY:Stjarnan - ÍR - Olís deild kvenna - hsi1
+DTSTART:20240914T133000
+DTEND:20240914T143000
+DTSTAMP:20240914T133000Z
+UID:2024-09-14T13:30:00/Stjarnan - ÍR
+DESCRIPTION:Stjarnan - ÍR - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Nottingham Forest - Enska úrvalsdeildin - sjonvarpsim
@@ -336,12 +344,12 @@ UID:2024-09-14T13:30:00/Liverpool - Nottingham Forest
 DESCRIPTION:Liverpool - Nottingham Forest - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - ÍR - Olís deild kvenna - hsi1
-DTSTART:20240914T133000
-DTEND:20240914T143000
-DTSTAMP:20240914T133000Z
-UID:2024-09-14T13:30:00/Stjarnan - ÍR
-DESCRIPTION:Stjarnan - ÍR - Olís deild kvenna
+SUMMARY:Fylkir - Keflavík - Besta deild kvenna - stod2sport5
+DTSTART:20240914T134500
+DTEND:20240914T144500
+DTSTAMP:20240914T134500Z
+UID:2024-09-14T13:45:00/Fylkir - Keflavík
+DESCRIPTION:Fylkir - Keflavík - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Tindastóll - Besta deild kvenna - stod2sport
@@ -352,20 +360,12 @@ UID:2024-09-14T13:45:00/Stjarnan - Tindastóll
 DESCRIPTION:Stjarnan - Tindastóll - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fylkir - Keflavík - Besta deild kvenna - stod2sport5
-DTSTART:20240914T134500
-DTEND:20240914T144500
-DTSTAMP:20240914T134500Z
-UID:2024-09-14T13:45:00/Fylkir - Keflavík
-DESCRIPTION:Fylkir - Keflavík - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brighton - Ipswich - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Crystal Palace - Leicester - Enska úrvalsdeildin - siminnsport5
 DTSTART:20240914T135000
 DTEND:20240914T145000
 DTSTAMP:20240914T135000Z
-UID:2024-09-14T13:50:00/Brighton - Ipswich
-DESCRIPTION:Brighton - Ipswich - Enska úrvalsdeildin
+UID:2024-09-14T13:50:00/Crystal Palace - Leicester
+DESCRIPTION:Crystal Palace - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Brentford - Enska úrvalsdeildin - siminnsport2
@@ -384,12 +384,12 @@ UID:2024-09-14T13:50:00/Fulham - West Ham
 DESCRIPTION:Fulham - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Leicester - Enska úrvalsdeildin - siminnsport5
+SUMMARY:Brighton - Ipswich - Enska úrvalsdeildin - siminnsport4
 DTSTART:20240914T135000
 DTEND:20240914T145000
 DTSTAMP:20240914T135000Z
-UID:2024-09-14T13:50:00/Crystal Palace - Leicester
-DESCRIPTION:Crystal Palace - Leicester - Enska úrvalsdeildin
+UID:2024-09-14T13:50:00/Brighton - Ipswich
+DESCRIPTION:Brighton - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Watford - Coventry - Championship - viaplay
@@ -400,36 +400,20 @@ UID:2024-09-14T13:55:00/Watford - Coventry
 DESCRIPTION:Watford - Coventry - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fram - Fjölnir - Olís deild karla - hsi1
+DTSTART:20240914T140000
+DTEND:20240914T150000
+DTSTAMP:20240914T140000Z
+UID:2024-09-14T14:00:00/Fram - Fjölnir
+DESCRIPTION:Fram - Fjölnir - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grótta - Þór - Lengjudeildin - livey
 DTSTART:20240914T140000
 DTEND:20240914T150000
 DTSTAMP:20240914T140000Z
 UID:2024-09-14T14:00:00/Grótta - Þór
 DESCRIPTION:Grótta - Þór - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dalvík/Reynir - Þróttur - Lengjudeildin - livey
-DTSTART:20240914T140000
-DTEND:20240914T150000
-DTSTAMP:20240914T140000Z
-UID:2024-09-14T14:00:00/Dalvík/Reynir - Þróttur
-DESCRIPTION:Dalvík/Reynir - Þróttur - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Keflavík - Fjölnir - Lengjudeildin - livey
-DTSTART:20240914T140000
-DTEND:20240914T150000
-DTSTAMP:20240914T140000Z
-UID:2024-09-14T14:00:00/Keflavík - Fjölnir
-DESCRIPTION:Keflavík - Fjölnir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leiknir - ÍBV - Lengjudeildin - livey
-DTSTART:20240914T140000
-DTEND:20240914T150000
-DTSTAMP:20240914T140000Z
-UID:2024-09-14T14:00:00/Leiknir - ÍBV
-DESCRIPTION:Leiknir - ÍBV - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík - Njarðvík - Lengjudeildin - livey
@@ -440,6 +424,14 @@ UID:2024-09-14T14:00:00/Grindavík - Njarðvík
 DESCRIPTION:Grindavík - Njarðvík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leiknir - ÍBV - Lengjudeildin - livey
+DTSTART:20240914T140000
+DTEND:20240914T150000
+DTSTAMP:20240914T140000Z
+UID:2024-09-14T14:00:00/Leiknir - ÍBV
+DESCRIPTION:Leiknir - ÍBV - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Afturelding - ÍR - Lengjudeildin - livey
 DTSTART:20240914T140000
 DTEND:20240914T150000
@@ -448,12 +440,20 @@ UID:2024-09-14T14:00:00/Afturelding - ÍR
 DESCRIPTION:Afturelding - ÍR - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - Fjölnir - Olís deild karla - hsi1
+SUMMARY:Keflavík - Fjölnir - Lengjudeildin - livey
 DTSTART:20240914T140000
 DTEND:20240914T150000
 DTSTAMP:20240914T140000Z
-UID:2024-09-14T14:00:00/Fram - Fjölnir
-DESCRIPTION:Fram - Fjölnir - Olís deild karla
+UID:2024-09-14T14:00:00/Keflavík - Fjölnir
+DESCRIPTION:Keflavík - Fjölnir - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dalvík/Reynir - Þróttur - Lengjudeildin - livey
+DTSTART:20240914T140000
+DTEND:20240914T150000
+DTSTAMP:20240914T140000Z
+UID:2024-09-14T14:00:00/Dalvík/Reynir - Þróttur
+DESCRIPTION:Dalvík/Reynir - Þróttur - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Espanyol - Deportivo Alaves - LaLiga - Spænski boltinn - livey
@@ -464,20 +464,20 @@ UID:2024-09-14T14:15:00/Espanyol - Deportivo Alaves
 DESCRIPTION:Espanyol - Deportivo Alaves - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marseille - Nice - Ligue 1 - Franski Boltinn - livey
-DTSTART:20240914T150000
-DTEND:20240914T160000
-DTSTAMP:20240914T150000Z
-UID:2024-09-14T15:00:00/Marseille - Nice
-DESCRIPTION:Marseille - Nice - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Big Machine Music City Grand Prix (Æfing) - IndyCar - viaplay
 DTSTART:20240914T150000
 DTEND:20240914T160000
 DTSTAMP:20240914T150000Z
 UID:2024-09-14T15:00:00/Big Machine Music City Grand Prix (Æfing)
 DESCRIPTION:Big Machine Music City Grand Prix (Æfing) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marseille - Nice - Ligue 1 - Franski Boltinn - livey
+DTSTART:20240914T150000
+DTEND:20240914T160000
+DTSTAMP:20240914T150000Z
+UID:2024-09-14T15:00:00/Marseille - Nice
+DESCRIPTION:Marseille - Nice - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aston Villa - Everton - Enska úrvalsdeildin - siminnsport
@@ -488,20 +488,20 @@ UID:2024-09-14T16:00:00/Aston Villa - Everton
 DESCRIPTION:Aston Villa - Everton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
-DTSTART:20240914T161500
-DTEND:20240914T171500
-DTSTAMP:20240914T161500Z
-UID:2024-09-14T16:15:00/Bestu mörkin
-DESCRIPTION:Bestu mörkin - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kortrijk - Club Brugge - Pro League - Belgíski boltinn - livey
 DTSTART:20240914T161500
 DTEND:20240914T171500
 DTSTAMP:20240914T161500Z
 UID:2024-09-14T16:15:00/Kortrijk - Club Brugge
 DESCRIPTION:Kortrijk - Club Brugge - Pro League - Belgíski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
+DTSTART:20240914T161500
+DTEND:20240914T171500
+DTSTAMP:20240914T161500Z
+UID:2024-09-14T16:15:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olís deild kvenna - Olís deild kvenna - sjonvarpsimans
@@ -528,20 +528,20 @@ UID:2024-09-14T16:25:00/Kiel - Bayern München
 DESCRIPTION:Kiel - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - Haukar - Olís deild kvenna - hsi1
-DTSTART:20240914T163000
-DTEND:20240914T173000
-DTSTAMP:20240914T163000Z
-UID:2024-09-14T16:30:00/Fram - Haukar
-DESCRIPTION:Fram - Haukar - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sevilla - Getafe - LaLiga - Spænski boltinn - livey
 DTSTART:20240914T163000
 DTEND:20240914T173000
 DTSTAMP:20240914T163000Z
 UID:2024-09-14T16:30:00/Sevilla - Getafe
 DESCRIPTION:Sevilla - Getafe - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Haukar - Olís deild kvenna - hsi1
+DTSTART:20240914T163000
+DTEND:20240914T173000
+DTSTAMP:20240914T163000Z
+UID:2024-09-14T16:30:00/Fram - Haukar
+DESCRIPTION:Fram - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bellator Champion Series - PFL & Bellator MMA - livey
@@ -552,20 +552,20 @@ UID:2024-09-14T16:30:00/Bellator Champion Series
 DESCRIPTION:Bellator Champion Series - PFL & Bellator MMA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Auxerre - Monaco - Ligue 1 - Franski Boltinn - livey
-DTSTART:20240914T170000
-DTEND:20240914T180000
-DTSTAMP:20240914T170000Z
-UID:2024-09-14T17:00:00/Auxerre - Monaco
-DESCRIPTION:Auxerre - Monaco - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Series of Darts Finals - PDC Darts - viaplay
 DTSTART:20240914T170000
 DTEND:20240914T180000
 DTSTAMP:20240914T170000Z
 UID:2024-09-14T17:00:00/World Series of Darts Finals
 DESCRIPTION:World Series of Darts Finals - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre - Monaco - Ligue 1 - Franski Boltinn - livey
+DTSTART:20240914T170000
+DTEND:20240914T180000
+DTSTAMP:20240914T170000Z
+UID:2024-09-14T17:00:00/Auxerre - Monaco
+DESCRIPTION:Auxerre - Monaco - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paczuski vs Zerhouni - KSW - viaplay
@@ -601,20 +601,20 @@ UID:2024-09-14T18:25:00/Solheim Cup
 DESCRIPTION:Solheim Cup - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Chelsea - Enska úrvalsdeildin - siminnsport
-DTSTART:20240914T183000
-DTEND:20240914T193000
-DTSTAMP:20240914T183000Z
-UID:2024-09-14T18:30:00/Bournemouth - Chelsea
-DESCRIPTION:Bournemouth - Chelsea - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mission 200 at the Glen (Xfinity Series) - Nascar - viaplay
 DTSTART:20240914T183000
 DTEND:20240914T193000
 DTSTAMP:20240914T183000Z
 UID:2024-09-14T18:30:00/Mission 200 at the Glen (Xfinity Series)
 DESCRIPTION:Mission 200 at the Glen (Xfinity Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Chelsea - Enska úrvalsdeildin - siminnsport
+DTSTART:20240914T183000
+DTEND:20240914T193000
+DTSTAMP:20240914T183000Z
+UID:2024-09-14T18:30:00/Bournemouth - Chelsea
+DESCRIPTION:Bournemouth - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anderlecht - Westerlo - Pro League - Belgíski boltinn - livey
@@ -625,14 +625,6 @@ UID:2024-09-14T18:45:00/Anderlecht - Westerlo
 DESCRIPTION:Anderlecht - Westerlo - Pro League - Belgíski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PSG - Brest - Ligue 1 - Franski Boltinn - livey
-DTSTART:20240914T190000
-DTEND:20240914T200000
-DTSTAMP:20240914T190000Z
-UID:2024-09-14T19:00:00/PSG - Brest
-DESCRIPTION:PSG - Brest - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Real Sociedad - Real Madrid - LaLiga - Spænski boltinn - livey
 DTSTART:20240914T190000
 DTEND:20240914T200000
@@ -641,12 +633,12 @@ UID:2024-09-14T19:00:00/Real Sociedad - Real Madrid
 DESCRIPTION:Real Sociedad - Real Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rays - Guardians - MLB - stod2vodasport
-DTSTART:20240914T220000
-DTEND:20240914T230000
-DTSTAMP:20240914T220000Z
-UID:2024-09-14T22:00:00/Rays - Guardians
-DESCRIPTION:Rays - Guardians - MLB
+SUMMARY:PSG - Brest - Ligue 1 - Franski Boltinn - livey
+DTSTART:20240914T190000
+DTEND:20240914T200000
+DTSTAMP:20240914T190000Z
+UID:2024-09-14T19:00:00/PSG - Brest
+DESCRIPTION:PSG - Brest - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Machine Music City Grand Prix (Úrslit Æfing) - IndyCar - via
@@ -656,6 +648,14 @@ DTEND:20240914T230000
 DTSTAMP:20240914T220000Z
 UID:2024-09-14T22:00:00/Big Machine Music City Grand Prix (Úrslit Æfing)
 DESCRIPTION:Big Machine Music City Grand Prix (Úrslit Æfing) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rays - Guardians - MLB - stod2vodasport
+DTSTART:20240914T220000
+DTEND:20240914T230000
+DTSTAMP:20240914T220000Z
+UID:2024-09-14T22:00:00/Rays - Guardians
+DESCRIPTION:Rays - Guardians - MLB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:O'Malley vs Dvalishvili - UFC - viaplay
@@ -692,20 +692,20 @@ UID:2024-09-15T08:00:00/Italy (Kappakstur 2)
 DESCRIPTION:Italy (Kappakstur 2) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aserbaísjan Kappaksturinn (Kappakstur) - Formula 1 - viaplay
-DTSTART:20240915T103000
-DTEND:20240915T113000
-DTSTAMP:20240915T103000Z
-UID:2024-09-15T10:30:00/Aserbaísjan Kappaksturinn (Kappakstur)
-DESCRIPTION:Aserbaísjan Kappaksturinn (Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1 - Aserbaídsjan: Keppni - Formúla 1 - stod2vodasport
 DTSTART:20240915T103000
 DTEND:20240915T113000
 DTSTAMP:20240915T103000Z
 UID:2024-09-15T10:30:00/F1 - Aserbaídsjan: Keppni
 DESCRIPTION:F1 - Aserbaídsjan: Keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aserbaísjan Kappaksturinn (Kappakstur) - Formula 1 - viaplay
+DTSTART:20240915T103000
+DTEND:20240915T113000
+DTSTAMP:20240915T103000Z
+UID:2024-09-15T10:30:00/Aserbaísjan Kappaksturinn (Kappakstur)
+DESCRIPTION:Aserbaísjan Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee United - Rangers - Scottish Premiership - viaplay
@@ -716,21 +716,15 @@ UID:2024-09-15T10:55:00/Dundee United - Rangers
 DESCRIPTION:Dundee United - Rangers - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World Series of Darts Finals - PDC Darts - viaplay
+SUMMARY:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - Form
+ ula 1 - viaplay
 DTSTART:20240915T110000
 DTEND:20240915T120000
 DTSTAMP:20240915T110000Z
-UID:2024-09-15T11:00:00/World Series of Darts Finals
-DESCRIPTION:World Series of Darts Finals - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - via
- play
-DTSTART:20240915T110000
-DTEND:20240915T120000
-DTSTAMP:20240915T110000Z
-UID:2024-09-15T11:00:00/Timing (Kappakstur | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2024-09-15T11:00:00/Track Positioning (Kappakstur | Aserbaísjan Kappa
+ ksturinn)
+DESCRIPTION:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - 
+ Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane - Formula 1 - viaplay
@@ -750,23 +744,21 @@ UID:2024-09-15T11:00:00/Onboard (Kappakstur | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Onboard (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - Form
- ula 1 - viaplay
+SUMMARY:World Series of Darts Finals - PDC Darts - viaplay
 DTSTART:20240915T110000
 DTEND:20240915T120000
 DTSTAMP:20240915T110000Z
-UID:2024-09-15T11:00:00/Track Positioning (Kappakstur | Aserbaísjan Kappa
- ksturinn)
-DESCRIPTION:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - 
- Formula 1
+UID:2024-09-15T11:00:00/World Series of Darts Finals
+DESCRIPTION:World Series of Darts Finals - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20240915T112000
-DTEND:20240915T122000
-DTSTAMP:20240915T112000Z
-UID:2024-09-15T11:20:00/Greuther Fürth - Elversberg
-DESCRIPTION:Greuther Fürth - Elversberg - 2. Bundesliga
+SUMMARY:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20240915T110000
+DTEND:20240915T120000
+DTSTAMP:20240915T110000Z
+UID:2024-09-15T11:00:00/Timing (Kappakstur | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Düsseldorf - 2. Bundesliga - viaplay
@@ -777,20 +769,20 @@ UID:2024-09-15T11:20:00/Hertha Berlin - Düsseldorf
 DESCRIPTION:Hertha Berlin - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Greuther Fürth - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20240915T112000
+DTEND:20240915T122000
+DTSTAMP:20240915T112000Z
+UID:2024-09-15T11:20:00/Greuther Fürth - Elversberg
+DESCRIPTION:Greuther Fürth - Elversberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HSV - Jahn Regensburg - 2. Bundesliga - viaplay
 DTSTART:20240915T112000
 DTEND:20240915T122000
 DTSTAMP:20240915T112000Z
 UID:2024-09-15T11:20:00/HSV - Jahn Regensburg
 DESCRIPTION:HSV - Jahn Regensburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Irish Open - DP World Tour - viaplay
-DTSTART:20240915T113000
-DTEND:20240915T123000
-DTSTAMP:20240915T113000Z
-UID:2024-09-15T11:30:00/Irish Open
-DESCRIPTION:Irish Open - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Antwerp - Union Saint-Gilloise - Pro League - Belgíski boltinn - 
@@ -801,6 +793,14 @@ DTSTAMP:20240915T113000Z
 UID:2024-09-15T11:30:00/Antwerp - Union Saint-Gilloise
 DESCRIPTION:Antwerp - Union Saint-Gilloise - Pro League - Belgíski boltin
  n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irish Open - DP World Tour - viaplay
+DTSTART:20240915T113000
+DTEND:20240915T123000
+DTSTAMP:20240915T113000Z
+UID:2024-09-15T11:30:00/Irish Open
+DESCRIPTION:Irish Open - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Frankfurt - Frauen-Bundesliga - viaplay
@@ -861,14 +861,6 @@ UID:2024-09-15T12:55:00/HSV Hamburg - Magdeburg
 DESCRIPTION:HSV Hamburg - Magdeburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rotterdam P1 - Premier Padel - viaplay
-DTSTART:20240915T130000
-DTEND:20240915T140000
-DTSTAMP:20240915T130000Z
-UID:2024-09-15T13:00:00/Rotterdam P1
-DESCRIPTION:Rotterdam P1 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rennes - Montpellier - Ligue 1 - Franski Boltinn - livey
 DTSTART:20240915T130000
 DTEND:20240915T140000
@@ -877,12 +869,28 @@ UID:2024-09-15T13:00:00/Rennes - Montpellier
 DESCRIPTION:Rennes - Montpellier - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rotterdam P1 - Premier Padel - viaplay
+DTSTART:20240915T130000
+DTEND:20240915T140000
+DTSTAMP:20240915T130000Z
+UID:2024-09-15T13:00:00/Rotterdam P1
+DESCRIPTION:Rotterdam P1 - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Augsburg - St. Pauli - Bundesliga - viaplay
 DTSTART:20240915T132000
 DTEND:20240915T142000
 DTSTAMP:20240915T132000Z
 UID:2024-09-15T13:20:00/Augsburg - St. Pauli
 DESCRIPTION:Augsburg - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍA - KA - Besta deild karla - stod2sport5
+DTSTART:20240915T135000
+DTEND:20240915T145000
+DTSTAMP:20240915T135000Z
+UID:2024-09-15T13:50:00/ÍA - KA
+DESCRIPTION:ÍA - KA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Vestri - Besta deild karla - stod2besta01
@@ -901,12 +909,12 @@ UID:2024-09-15T13:50:00/Fram - FH
 DESCRIPTION:Fram - FH - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍA - KA - Besta deild karla - stod2sport5
-DTSTART:20240915T135000
-DTEND:20240915T145000
-DTSTAMP:20240915T135000Z
-UID:2024-09-15T13:50:00/ÍA - KA
-DESCRIPTION:ÍA - KA - Besta deild karla
+SUMMARY:Portsmouth - West Brom - Championship - viaplay
+DTSTART:20240915T135500
+DTEND:20240915T145500
+DTSTAMP:20240915T135500Z
+UID:2024-09-15T13:55:00/Portsmouth - West Brom
+DESCRIPTION:Portsmouth - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Italy (Kappakstur 3) - Formula 4 Italian Championship - viaplay
@@ -915,14 +923,6 @@ DTEND:20240915T145500
 DTSTAMP:20240915T135500Z
 UID:2024-09-15T13:55:00/Italy (Kappakstur 3)
 DESCRIPTION:Italy (Kappakstur 3) - Formula 4 Italian Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portsmouth - West Brom - Championship - viaplay
-DTSTART:20240915T135500
-DTEND:20240915T145500
-DTSTAMP:20240915T135500Z
-UID:2024-09-15T13:55:00/Portsmouth - West Brom
-DESCRIPTION:Portsmouth - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Girona - Barcelona - LaLiga - Spænski boltinn - livey
@@ -941,14 +941,6 @@ UID:2024-09-15T14:20:00/Solheim Cup
 DESCRIPTION:Solheim Cup - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RC Strasbourg - Angers - Ligue 1 - Franski Boltinn - livey
-DTSTART:20240915T150000
-DTEND:20240915T160000
-DTSTAMP:20240915T150000Z
-UID:2024-09-15T15:00:00/RC Strasbourg - Angers
-DESCRIPTION:RC Strasbourg - Angers - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nantes - Reims - Ligue 1 - Franski Boltinn - livey
 DTSTART:20240915T150000
 DTEND:20240915T160000
@@ -963,6 +955,14 @@ DTEND:20240915T160000
 DTSTAMP:20240915T150000Z
 UID:2024-09-15T15:00:00/Wolves - Newcastle
 DESCRIPTION:Wolves - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RC Strasbourg - Angers - Ligue 1 - Franski Boltinn - livey
+DTSTART:20240915T150000
+DTEND:20240915T160000
+DTSTAMP:20240915T150000Z
+UID:2024-09-15T15:00:00/RC Strasbourg - Angers
+DESCRIPTION:RC Strasbourg - Angers - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toulouse - Le Havre - Ligue 1 - Franski Boltinn - livey
@@ -1015,20 +1015,20 @@ DESCRIPTION:Washington Spirit - Houston Dash - National Women's Soccer Lea
  gue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NFL Red Zone - NFL - stod2sport3
-DTSTART:20240915T165500
-DTEND:20240915T175500
-DTSTAMP:20240915T165500Z
-UID:2024-09-15T16:55:00/NFL Red Zone
-DESCRIPTION:NFL Red Zone - NFL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vikings - 49ers - NFL - stod2sport2
 DTSTART:20240915T165500
 DTEND:20240915T175500
 DTSTAMP:20240915T165500Z
 UID:2024-09-15T16:55:00/Vikings - 49ers
 DESCRIPTION:Vikings - 49ers - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL Red Zone - NFL - stod2sport3
+DTSTART:20240915T165500
+DTEND:20240915T175500
+DTSTAMP:20240915T165500Z
+UID:2024-09-15T16:55:00/NFL Red Zone
+DESCRIPTION:NFL Red Zone - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Series of Darts Finals - PDC Darts - viaplay
@@ -1135,20 +1135,20 @@ UID:2024-09-16T19:00:00/Rayo Vallecano - Osasuna
 DESCRIPTION:Rayo Vallecano - Osasuna - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - KR - Besta deild karla - stod2sport
-DTSTART:20240916T190000
-DTEND:20240916T200000
-DTSTAMP:20240916T190000Z
-UID:2024-09-16T19:00:00/Valur - KR
-DESCRIPTION:Valur - KR - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fylkir - Víkingur R. - Besta deild karla - stod2sport5
 DTSTART:20240916T190000
 DTEND:20240916T200000
 DTSTAMP:20240916T190000Z
 UID:2024-09-16T19:00:00/Fylkir - Víkingur R.
 DESCRIPTION:Fylkir - Víkingur R. - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - KR - Besta deild karla - stod2sport
+DTSTART:20240916T190000
+DTEND:20240916T200000
+DTSTAMP:20240916T190000Z
+UID:2024-09-16T19:00:00/Valur - KR
+DESCRIPTION:Valur - KR - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stúkan - Besta deild karla - stod2sport
@@ -1191,20 +1191,20 @@ UID:2024-09-17T13:55:00/Bayern München - Dinamo Zagreb
 DESCRIPTION:Bayern München - Dinamo Zagreb - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Young Boys - Aston Villa - Champions League - viaplay
-DTSTART:20240917T163500
-DTEND:20240917T173500
-DTSTAMP:20240917T163500Z
-UID:2024-09-17T16:35:00/Young Boys - Aston Villa
-DESCRIPTION:Young Boys - Aston Villa - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Young Boys - Aston Villa - Meistaradeild Evrópu - stod2vodasport
 DTSTART:20240917T163500
 DTEND:20240917T173500
 DTSTAMP:20240917T163500Z
 UID:2024-09-17T16:35:00/Young Boys - Aston Villa
 DESCRIPTION:Young Boys - Aston Villa - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Boys - Aston Villa - Champions League - viaplay
+DTSTART:20240917T163500
+DTEND:20240917T173500
+DTSTAMP:20240917T163500Z
+UID:2024-09-17T16:35:00/Young Boys - Aston Villa
+DESCRIPTION:Young Boys - Aston Villa - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Djurgården - Linköping - OBOS Damallsvenskan - viaplay
@@ -1231,6 +1231,14 @@ UID:2024-09-17T18:30:00/Milan - Liverpool
 DESCRIPTION:Milan - Liverpool - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brentford - Leyton Orient - Carabao Cup - viaplay
+DTSTART:20240917T184000
+DTEND:20240917T194000
+DTSTAMP:20240917T184000Z
+UID:2024-09-17T18:40:00/Brentford - Leyton Orient
+DESCRIPTION:Brentford - Leyton Orient - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blackpool - Sheffield Wednesday - Carabao Cup - viaplay
 DTSTART:20240917T184000
 DTEND:20240917T194000
@@ -1239,12 +1247,12 @@ UID:2024-09-17T18:40:00/Blackpool - Sheffield Wednesday
 DESCRIPTION:Blackpool - Sheffield Wednesday - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Southampton - Carabao Cup - viaplay
+SUMMARY:Preston North End - Fulham - Carabao Cup - viaplay
 DTSTART:20240917T184000
 DTEND:20240917T194000
 DTSTAMP:20240917T184000Z
-UID:2024-09-17T18:40:00/Everton - Southampton
-DESCRIPTION:Everton - Southampton - Carabao Cup
+UID:2024-09-17T18:40:00/Preston North End - Fulham
+DESCRIPTION:Preston North End - Fulham - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QPR - Crystal Palace - Carabao Cup - viaplay
@@ -1255,20 +1263,12 @@ UID:2024-09-17T18:40:00/QPR - Crystal Palace
 DESCRIPTION:QPR - Crystal Palace - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Leyton Orient - Carabao Cup - viaplay
+SUMMARY:Everton - Southampton - Carabao Cup - viaplay
 DTSTART:20240917T184000
 DTEND:20240917T194000
 DTSTAMP:20240917T184000Z
-UID:2024-09-17T18:40:00/Brentford - Leyton Orient
-DESCRIPTION:Brentford - Leyton Orient - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preston North End - Fulham - Carabao Cup - viaplay
-DTSTART:20240917T184000
-DTEND:20240917T194000
-DTSTAMP:20240917T184000Z
-UID:2024-09-17T18:40:00/Preston North End - Fulham
-DESCRIPTION:Preston North End - Fulham - Carabao Cup
+UID:2024-09-17T18:40:00/Everton - Southampton
+DESCRIPTION:Everton - Southampton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AC Milan - Liverpool - Meistaradeild Evrópu - stod2vodasport
@@ -1392,20 +1392,20 @@ UID:2024-09-18T18:50:00/PSG - Girona
 DESCRIPTION:PSG - Girona - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Instant Highlights - Champions League - viaplay
-DTSTART:20240918T185000
-DTEND:20240918T195000
-DTSTAMP:20240918T185000Z
-UID:2024-09-18T18:50:00/Instant Highlights
-DESCRIPTION:Instant Highlights - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Brugge - Dortmund - Champions League - viaplay
 DTSTART:20240918T185000
 DTEND:20240918T195000
 DTSTAMP:20240918T185000Z
 UID:2024-09-18T18:50:00/Club Brugge - Dortmund
 DESCRIPTION:Club Brugge - Dortmund - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - Champions League - viaplay
+DTSTART:20240918T185000
+DTEND:20240918T195000
+DTSTAMP:20240918T185000Z
+UID:2024-09-18T18:50:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coventry - Tottenham - Carabao Cup - viaplay
@@ -1512,14 +1512,6 @@ UID:2024-09-19T18:00:00/Grótta - Fram
 DESCRIPTION:Grótta - Fram - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atalanta - Arsenal - Champions League - viaplay
-DTSTART:20240919T183000
-DTEND:20240919T193000
-DTSTAMP:20240919T183000Z
-UID:2024-09-19T18:30:00/Atalanta - Arsenal
-DESCRIPTION:Atalanta - Arsenal - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - ÍBV - Olís deild karla - hsi1
 DTSTART:20240919T183000
 DTEND:20240919T193000
@@ -1528,12 +1520,12 @@ UID:2024-09-19T18:30:00/FH - ÍBV
 DESCRIPTION:FH - ÍBV - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Instant Highlights - Champions League - viaplay
-DTSTART:20240919T185000
-DTEND:20240919T195000
-DTSTAMP:20240919T185000Z
-UID:2024-09-19T18:50:00/Instant Highlights
-DESCRIPTION:Instant Highlights - Champions League
+SUMMARY:Atalanta - Arsenal - Champions League - viaplay
+DTSTART:20240919T183000
+DTEND:20240919T193000
+DTSTAMP:20240919T183000Z
+UID:2024-09-19T18:30:00/Atalanta - Arsenal
+DESCRIPTION:Atalanta - Arsenal - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brest - Sturm Graz - Champions League - viaplay
@@ -1542,6 +1534,14 @@ DTEND:20240919T195000
 DTSTAMP:20240919T185000Z
 UID:2024-09-19T18:50:00/Brest - Sturm Graz
 DESCRIPTION:Brest - Sturm Graz - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - Champions League - viaplay
+DTSTART:20240919T185000
+DTEND:20240919T195000
+DTSTAMP:20240919T185000Z
+UID:2024-09-19T18:50:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Stjarnan - Valur - Olís deild karla - sjonvarpsimans
@@ -1658,12 +1658,12 @@ UID:2024-09-20T09:30:00/Timing (Æfing 1 | Singapúr Kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 1 | Singapúr Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240920T093000
 DTEND:20240920T103000
 DTSTAMP:20240920T093000Z
-UID:2024-09-20T09:30:00/Onboard (Æfing 1 | Singapúr Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
+UID:2024-09-20T09:30:00/Pitlane (Æfing 1 | Singapúr Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
@@ -1677,12 +1677,12 @@ DESCRIPTION:Track Positioning (Æfing 1 | Singapúr Kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Onboard (Æfing 1 | Singapúr Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240920T093000
 DTEND:20240920T103000
 DTSTAMP:20240920T093000Z
-UID:2024-09-20T09:30:00/Pitlane (Æfing 1 | Singapúr Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
+UID:2024-09-20T09:30:00/Onboard (Æfing 1 | Singapúr Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
@@ -1693,20 +1693,20 @@ UID:2024-09-20T11:00:00/Hungarian Darts Trophy
 DESCRIPTION:Hungarian Darts Trophy - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BMW PGA Championship - DP World Tour - viaplay
-DTSTART:20240920T110000
-DTEND:20240920T120000
-DTSTAMP:20240920T110000Z
-UID:2024-09-20T11:00:00/BMW PGA Championship
-DESCRIPTION:BMW PGA Championship - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Singapore Grand Prix (Tímatökur) - F1 Academy - viaplay
 DTSTART:20240920T110000
 DTEND:20240920T120000
 DTSTAMP:20240920T110000Z
 UID:2024-09-20T11:00:00/Singapore Grand Prix (Tímatökur)
 DESCRIPTION:Singapore Grand Prix (Tímatökur) - F1 Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BMW PGA Championship - DP World Tour - viaplay
+DTSTART:20240920T110000
+DTEND:20240920T120000
+DTSTAMP:20240920T110000Z
+UID:2024-09-20T11:00:00/BMW PGA Championship
+DESCRIPTION:BMW PGA Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Emilia-Romagna Grand Prix (Æfing) - Moto3 - viaplay
@@ -1749,6 +1749,22 @@ UID:2024-09-20T12:55:00/Singapúr Kappaksturinn (Æfing 2)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240920T130000
+DTEND:20240920T140000
+DTSTAMP:20240920T130000Z
+UID:2024-09-20T13:00:00/Timing (Æfing 2 | Singapúr Kappaksturinn)
+DESCRIPTION:Timing (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240920T130000
+DTEND:20240920T140000
+DTSTAMP:20240920T130000Z
+UID:2024-09-20T13:00:00/Pitlane (Æfing 2 | Singapúr Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
   - viaplay
 DTSTART:20240920T130000
@@ -1760,28 +1776,12 @@ DESCRIPTION:Track Positioning (Æfing 2 | Singapúr Kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240920T130000
-DTEND:20240920T140000
-DTSTAMP:20240920T130000Z
-UID:2024-09-20T13:00:00/Timing (Æfing 2 | Singapúr Kappaksturinn)
-DESCRIPTION:Timing (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240920T130000
 DTEND:20240920T140000
 DTSTAMP:20240920T130000Z
 UID:2024-09-20T13:00:00/Onboard (Æfing 2 | Singapúr Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240920T130000
-DTEND:20240920T140000
-DTSTAMP:20240920T130000Z
-UID:2024-09-20T13:00:00/Pitlane (Æfing 2 | Singapúr Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - Hannover - 2. Bundesliga - viaplay
@@ -1824,20 +1824,20 @@ UID:2024-09-20T17:50:00/Víkingur R. - Þróttur R.
 DESCRIPTION:Víkingur R. - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fjölnir - HK - Olís deild karla - hsi1
-DTSTART:20240920T180000
-DTEND:20240920T190000
-DTSTAMP:20240920T180000Z
-UID:2024-09-20T18:00:00/Fjölnir - HK
-DESCRIPTION:Fjölnir - HK - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Afturelding - KA - Olís deild karla - hsi1
 DTSTART:20240920T180000
 DTEND:20240920T190000
 DTSTAMP:20240920T180000Z
 UID:2024-09-20T18:00:00/Afturelding - KA
 DESCRIPTION:Afturelding - KA - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - HK - Olís deild karla - hsi1
+DTSTART:20240920T180000
+DTEND:20240920T190000
+DTSTAMP:20240920T180000Z
+UID:2024-09-20T18:00:00/Fjölnir - HK
+DESCRIPTION:Fjölnir - HK - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cardiff - Zebre Parma - United Rugby Championship - viaplay
