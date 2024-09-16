@@ -52,17 +52,6 @@ UID:2024-09-20T09:25:00/Singapúr Kappaksturinn (Æfing 1)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
-  - viaplay
-DTSTART:20240920T093000
-DTEND:20240920T103000
-DTSTAMP:20240920T093000Z
-UID:2024-09-20T09:30:00/Track Positioning (Æfing 1 | Singapúr Kappakstur
- inn)
-DESCRIPTION:Track Positioning (Æfing 1 | Singapúr Kappaksturinn) - Formu
- la 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Singapúr Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240920T093000
 DTEND:20240920T103000
@@ -77,6 +66,17 @@ DTEND:20240920T103000
 DTSTAMP:20240920T093000Z
 UID:2024-09-20T09:30:00/Onboard (Æfing 1 | Singapúr Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
+  - viaplay
+DTSTART:20240920T093000
+DTEND:20240920T103000
+DTSTAMP:20240920T093000Z
+UID:2024-09-20T09:30:00/Track Positioning (Æfing 1 | Singapúr Kappakstur
+ inn)
+DESCRIPTION:Track Positioning (Æfing 1 | Singapúr Kappaksturinn) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Singapúr Kappaksturinn) - Formula 1 - viaplay
@@ -127,14 +127,6 @@ UID:2024-09-20T12:55:00/Singapúr Kappaksturinn (Æfing 2)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240920T130000
-DTEND:20240920T140000
-DTSTAMP:20240920T130000Z
-UID:2024-09-20T13:00:00/Onboard (Æfing 2 | Singapúr Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240920T130000
 DTEND:20240920T140000
@@ -149,6 +141,14 @@ DTEND:20240920T140000
 DTSTAMP:20240920T130000Z
 UID:2024-09-20T13:00:00/Timing (Æfing 2 | Singapúr Kappaksturinn)
 DESCRIPTION:Timing (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240920T130000
+DTEND:20240920T140000
+DTSTAMP:20240920T130000Z
+UID:2024-09-20T13:00:00/Onboard (Æfing 2 | Singapúr Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
@@ -218,6 +218,14 @@ UID:2024-09-21T09:25:00/Singapúr Kappaksturinn (Æfing 3)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 3 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240921T093000
+DTEND:20240921T103000
+DTSTAMP:20240921T093000Z
+UID:2024-09-21T09:30:00/Pitlane (Æfing 3 | Singapúr Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Singapúr Kappaksturinn) - Formula 1
   - viaplay
 DTSTART:20240921T093000
@@ -227,14 +235,6 @@ UID:2024-09-21T09:30:00/Track Positioning (Æfing 3 | Singapúr Kappakstur
  inn)
 DESCRIPTION:Track Positioning (Æfing 3 | Singapúr Kappaksturinn) - Formu
  la 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Singapúr Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240921T093000
-DTEND:20240921T103000
-DTSTAMP:20240921T093000Z
-UID:2024-09-21T09:30:00/Pitlane (Æfing 3 | Singapúr Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 3 | Singapúr Kappaksturinn) - Formula 1 - viaplay
@@ -285,15 +285,6 @@ UID:2024-09-21T12:55:00/Singapúr Kappaksturinn (Tímatökur)
 DESCRIPTION:Singapúr Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Singapúr Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20240921T130000
-DTEND:20240921T140000
-DTSTAMP:20240921T130000Z
-UID:2024-09-21T13:00:00/Timing (Tímatökur | Singapúr Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Singapúr Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Singapúr Kappaksturinn) - Formula 1 - viap
  lay
 DTSTART:20240921T130000
@@ -301,6 +292,24 @@ DTEND:20240921T140000
 DTSTAMP:20240921T130000Z
 UID:2024-09-21T13:00:00/Onboard (Tímatökur | Singapúr Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Tímatökur | Singapúr Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20240921T130000
+DTEND:20240921T140000
+DTSTAMP:20240921T130000Z
+UID:2024-09-21T13:00:00/Pitlane (Tímatökur | Singapúr Kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Tímatökur | Singapúr Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20240921T130000
+DTEND:20240921T140000
+DTSTAMP:20240921T130000Z
+UID:2024-09-21T13:00:00/Timing (Tímatökur | Singapúr Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Singapúr Kappaksturinn) - Formul
@@ -312,15 +321,6 @@ UID:2024-09-21T13:00:00/Track Positioning (Tímatökur | Singapúr Kappaks
  turinn)
 DESCRIPTION:Track Positioning (Tímatökur | Singapúr Kappaksturinn) - Fo
  rmula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Singapúr Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20240921T130000
-DTEND:20240921T140000
-DTSTAMP:20240921T130000Z
-UID:2024-09-21T13:00:00/Pitlane (Tímatökur | Singapúr Kappaksturinn)
-DESCRIPTION:Pitlane (Tímatökur | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bass Pro Shops Night Race (Cup Series) - Nascar - viaplay
@@ -389,6 +389,15 @@ UID:2024-09-22T11:55:00/F1 Kids (Singapúr Kappaksturinn)
 DESCRIPTION:F1 Kids (Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Singapúr Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20240922T120000
+DTEND:20240922T130000
+DTSTAMP:20240922T120000Z
+UID:2024-09-22T12:00:00/Timing (Kappakstur | Singapúr Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Singapúr Kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20240922T120000
@@ -396,15 +405,6 @@ DTEND:20240922T130000
 DTSTAMP:20240922T120000Z
 UID:2024-09-22T12:00:00/Onboard (Kappakstur | Singapúr Kappaksturinn)
 DESCRIPTION:Onboard (Kappakstur | Singapúr Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Singapúr Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20240922T120000
-DTEND:20240922T130000
-DTSTAMP:20240922T120000Z
-UID:2024-09-22T12:00:00/Pitlane (Kappakstur | Singapúr Kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Singapúr Kappaksturinn) - Formula
@@ -418,12 +418,12 @@ DESCRIPTION:Track Positioning (Kappakstur | Singapúr Kappaksturinn) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Singapúr Kappaksturinn) - Formula 1 - viapla
- y
+SUMMARY:Pitlane (Kappakstur | Singapúr Kappaksturinn) - Formula 1 - viapl
+ ay
 DTSTART:20240922T120000
 DTEND:20240922T130000
 DTSTAMP:20240922T120000Z
-UID:2024-09-22T12:00:00/Timing (Kappakstur | Singapúr Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Singapúr Kappaksturinn) - Formula 1
+UID:2024-09-22T12:00:00/Pitlane (Kappakstur | Singapúr Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 END:VCALENDAR
