@@ -74,12 +74,12 @@ UID:2024-09-17T18:30:00/Milan - Liverpool
 DESCRIPTION:Milan - Liverpool - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Leyton Orient - Carabao Cup - viaplay
+SUMMARY:QPR - Crystal Palace - Carabao Cup - viaplay
 DTSTART:20240917T184000
 DTEND:20240917T194000
 DTSTAMP:20240917T184000Z
-UID:2024-09-17T18:40:00/Brentford - Leyton Orient
-DESCRIPTION:Brentford - Leyton Orient - Carabao Cup
+UID:2024-09-17T18:40:00/QPR - Crystal Palace
+DESCRIPTION:QPR - Crystal Palace - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preston North End - Fulham - Carabao Cup - viaplay
@@ -90,12 +90,20 @@ UID:2024-09-17T18:40:00/Preston North End - Fulham
 DESCRIPTION:Preston North End - Fulham - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QPR - Crystal Palace - Carabao Cup - viaplay
+SUMMARY:Blackpool - Sheffield Wednesday - Carabao Cup - viaplay
 DTSTART:20240917T184000
 DTEND:20240917T194000
 DTSTAMP:20240917T184000Z
-UID:2024-09-17T18:40:00/QPR - Crystal Palace
-DESCRIPTION:QPR - Crystal Palace - Carabao Cup
+UID:2024-09-17T18:40:00/Blackpool - Sheffield Wednesday
+DESCRIPTION:Blackpool - Sheffield Wednesday - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford - Leyton Orient - Carabao Cup - viaplay
+DTSTART:20240917T184000
+DTEND:20240917T194000
+DTSTAMP:20240917T184000Z
+UID:2024-09-17T18:40:00/Brentford - Leyton Orient
+DESCRIPTION:Brentford - Leyton Orient - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Southampton - Carabao Cup - viaplay
@@ -104,14 +112,6 @@ DTEND:20240917T194000
 DTSTAMP:20240917T184000Z
 UID:2024-09-17T18:40:00/Everton - Southampton
 DESCRIPTION:Everton - Southampton - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackpool - Sheffield Wednesday - Carabao Cup - viaplay
-DTSTART:20240917T184000
-DTEND:20240917T194000
-DTSTAMP:20240917T184000Z
-UID:2024-09-17T18:40:00/Blackpool - Sheffield Wednesday
-DESCRIPTION:Blackpool - Sheffield Wednesday - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - Champions League - viaplay
@@ -186,20 +186,20 @@ UID:2024-09-18T18:40:00/Brighton - Wolverhampton
 DESCRIPTION:Brighton - Wolverhampton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Brugge - Dortmund - Champions League - viaplay
-DTSTART:20240918T185000
-DTEND:20240918T195000
-DTSTAMP:20240918T185000Z
-UID:2024-09-18T18:50:00/Club Brugge - Dortmund
-DESCRIPTION:Club Brugge - Dortmund - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Instant Highlights - Champions League - viaplay
 DTSTART:20240918T185000
 DTEND:20240918T195000
 DTSTAMP:20240918T185000Z
 UID:2024-09-18T18:50:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Brugge - Dortmund - Champions League - viaplay
+DTSTART:20240918T185000
+DTEND:20240918T195000
+DTSTAMP:20240918T185000Z
+UID:2024-09-18T18:50:00/Club Brugge - Dortmund
+DESCRIPTION:Club Brugge - Dortmund - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coventry - Tottenham - Carabao Cup - viaplay
@@ -282,20 +282,20 @@ UID:2024-09-19T18:30:00/Atalanta - Arsenal
 DESCRIPTION:Atalanta - Arsenal - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brest - Sturm Graz - Champions League - viaplay
-DTSTART:20240919T185000
-DTEND:20240919T195000
-DTSTAMP:20240919T185000Z
-UID:2024-09-19T18:50:00/Brest - Sturm Graz
-DESCRIPTION:Brest - Sturm Graz - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Instant Highlights - Champions League - viaplay
 DTSTART:20240919T185000
 DTEND:20240919T195000
 DTSTAMP:20240919T185000Z
 UID:2024-09-19T18:50:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brest - Sturm Graz - Champions League - viaplay
+DTSTART:20240919T185000
+DTEND:20240919T195000
+DTSTAMP:20240919T185000Z
+UID:2024-09-19T18:50:00/Brest - Sturm Graz
+DESCRIPTION:Brest - Sturm Graz - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goalshow - Champions League - viaplay
@@ -372,14 +372,6 @@ UID:2024-09-20T09:25:00/Singapúr Kappaksturinn (Æfing 1)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Singapúr Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240920T093000
-DTEND:20240920T103000
-DTSTAMP:20240920T093000Z
-UID:2024-09-20T09:30:00/Pitlane (Æfing 1 | Singapúr Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
   - viaplay
 DTSTART:20240920T093000
@@ -407,12 +399,12 @@ UID:2024-09-20T09:30:00/Onboard (Æfing 1 | Singapúr Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BMW PGA Championship - DP World Tour - viaplay
-DTSTART:20240920T110000
-DTEND:20240920T120000
-DTSTAMP:20240920T110000Z
-UID:2024-09-20T11:00:00/BMW PGA Championship
-DESCRIPTION:BMW PGA Championship - DP World Tour
+SUMMARY:Pitlane (Æfing 1 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240920T093000
+DTEND:20240920T103000
+DTSTAMP:20240920T093000Z
+UID:2024-09-20T09:30:00/Pitlane (Æfing 1 | Singapúr Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Singapore Grand Prix (Tímatökur) - F1 Academy - viaplay
@@ -421,6 +413,14 @@ DTEND:20240920T120000
 DTSTAMP:20240920T110000Z
 UID:2024-09-20T11:00:00/Singapore Grand Prix (Tímatökur)
 DESCRIPTION:Singapore Grand Prix (Tímatökur) - F1 Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BMW PGA Championship - DP World Tour - viaplay
+DTSTART:20240920T110000
+DTEND:20240920T120000
+DTSTAMP:20240920T110000Z
+UID:2024-09-20T11:00:00/BMW PGA Championship
+DESCRIPTION:BMW PGA Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
@@ -471,23 +471,20 @@ UID:2024-09-20T12:55:00/Singapúr Kappaksturinn (Æfing 2)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
-  - viaplay
-DTSTART:20240920T130000
-DTEND:20240920T140000
-DTSTAMP:20240920T130000Z
-UID:2024-09-20T13:00:00/Track Positioning (Æfing 2 | Singapúr Kappakstur
- inn)
-DESCRIPTION:Track Positioning (Æfing 2 | Singapúr Kappaksturinn) - Formu
- la 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20240920T130000
 DTEND:20240920T140000
 DTSTAMP:20240920T130000Z
 UID:2024-09-20T13:00:00/Onboard (Æfing 2 | Singapúr Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240920T130000
+DTEND:20240920T140000
+DTSTAMP:20240920T130000Z
+UID:2024-09-20T13:00:00/Pitlane (Æfing 2 | Singapúr Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
@@ -498,12 +495,15 @@ UID:2024-09-20T13:00:00/Timing (Æfing 2 | Singapúr Kappaksturinn)
 DESCRIPTION:Timing (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
+  - viaplay
 DTSTART:20240920T130000
 DTEND:20240920T140000
 DTSTAMP:20240920T130000Z
-UID:2024-09-20T13:00:00/Pitlane (Æfing 2 | Singapúr Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Singapúr Kappaksturinn) - Formula 1
+UID:2024-09-20T13:00:00/Track Positioning (Æfing 2 | Singapúr Kappakstur
+ inn)
+DESCRIPTION:Track Positioning (Æfing 2 | Singapúr Kappaksturinn) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - Hannover - 2. Bundesliga - viaplay
@@ -626,22 +626,6 @@ UID:2024-09-21T09:25:00/Singapúr Kappaksturinn (Æfing 3)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Singapúr Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240921T093000
-DTEND:20240921T103000
-DTSTAMP:20240921T093000Z
-UID:2024-09-21T09:30:00/Timing (Æfing 3 | Singapúr Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Singapúr Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Singapúr Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20240921T093000
-DTEND:20240921T103000
-DTSTAMP:20240921T093000Z
-UID:2024-09-21T09:30:00/Onboard (Æfing 3 | Singapúr Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Singapúr Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Singapúr Kappaksturinn) - Formula 1
   - viaplay
 DTSTART:20240921T093000
@@ -661,6 +645,22 @@ UID:2024-09-21T09:30:00/Pitlane (Æfing 3 | Singapúr Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 3 | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240921T093000
+DTEND:20240921T103000
+DTSTAMP:20240921T093000Z
+UID:2024-09-21T09:30:00/Onboard (Æfing 3 | Singapúr Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 3 | Singapúr Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20240921T093000
+DTEND:20240921T103000
+DTSTAMP:20240921T093000Z
+UID:2024-09-21T09:30:00/Timing (Æfing 3 | Singapúr Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valladolid P2 - Premier Padel - viaplay
 DTSTART:20240921T100000
 DTEND:20240921T110000
@@ -677,20 +677,20 @@ UID:2024-09-21T10:45:00/Emilia-Romagna Grand Prix (Tímatökur)
 DESCRIPTION:Emilia-Romagna Grand Prix (Tímatökur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Hertha Berlin - 2. Bundesliga - viaplay
-DTSTART:20240921T105000
-DTEND:20240921T115000
-DTSTAMP:20240921T105000Z
-UID:2024-09-21T10:50:00/Nürnberg - Hertha Berlin
-DESCRIPTION:Nürnberg - Hertha Berlin - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Braunschweig - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20240921T105000
 DTEND:20240921T115000
 DTSTAMP:20240921T105000Z
 UID:2024-09-21T10:50:00/Braunschweig - Greuther Fürth
 DESCRIPTION:Braunschweig - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Hertha Berlin - 2. Bundesliga - viaplay
+DTSTART:20240921T105000
+DTEND:20240921T115000
+DTSTAMP:20240921T105000Z
+UID:2024-09-21T10:50:00/Nürnberg - Hertha Berlin
+DESCRIPTION:Nürnberg - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Düsseldorf - Köln - 2. Bundesliga - viaplay
@@ -701,20 +701,20 @@ UID:2024-09-21T10:55:00/Düsseldorf - Köln
 DESCRIPTION:Düsseldorf - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BMW PGA Championship - DP World Tour - viaplay
-DTSTART:20240921T110000
-DTEND:20240921T120000
-DTSTAMP:20240921T110000Z
-UID:2024-09-21T11:00:00/BMW PGA Championship
-DESCRIPTION:BMW PGA Championship - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
 DTSTART:20240921T110000
 DTEND:20240921T120000
 DTSTAMP:20240921T110000Z
 UID:2024-09-21T11:00:00/Hungarian Darts Trophy
 DESCRIPTION:Hungarian Darts Trophy - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BMW PGA Championship - DP World Tour - viaplay
+DTSTART:20240921T110000
+DTEND:20240921T120000
+DTSTAMP:20240921T110000Z
+UID:2024-09-21T11:00:00/BMW PGA Championship
+DESCRIPTION:BMW PGA Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Middlesbrough - Championship - viaplay
@@ -773,15 +773,13 @@ UID:2024-09-21T12:55:00/Singapúr Kappaksturinn (Tímatökur)
 DESCRIPTION:Singapúr Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Tímatökur | Singapúr Kappaksturinn) - Formul
- a 1 - viaplay
+SUMMARY:Timing (Tímatökur | Singapúr Kappaksturinn) - Formula 1 - viapl
+ ay
 DTSTART:20240921T130000
 DTEND:20240921T140000
 DTSTAMP:20240921T130000Z
-UID:2024-09-21T13:00:00/Track Positioning (Tímatökur | Singapúr Kappaks
- turinn)
-DESCRIPTION:Track Positioning (Tímatökur | Singapúr Kappaksturinn) - Fo
- rmula 1
+UID:2024-09-21T13:00:00/Timing (Tímatökur | Singapúr Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Singapúr Kappaksturinn) - Formula 1 - viap
@@ -793,13 +791,15 @@ UID:2024-09-21T13:00:00/Onboard (Tímatökur | Singapúr Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Singapúr Kappaksturinn) - Formula 1 - viapl
- ay
+SUMMARY:Track Positioning (Tímatökur | Singapúr Kappaksturinn) - Formul
+ a 1 - viaplay
 DTSTART:20240921T130000
 DTEND:20240921T140000
 DTSTAMP:20240921T130000Z
-UID:2024-09-21T13:00:00/Timing (Tímatökur | Singapúr Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Singapúr Kappaksturinn) - Formula 1
+UID:2024-09-21T13:00:00/Track Positioning (Tímatökur | Singapúr Kappaks
+ turinn)
+DESCRIPTION:Track Positioning (Tímatökur | Singapúr Kappaksturinn) - Fo
+ rmula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Singapúr Kappaksturinn) - Formula 1 - viap
@@ -819,12 +819,12 @@ UID:2024-09-21T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - Freiburg - Bundesliga - viaplay
+SUMMARY:Bochum - Holstein Kiel - Bundesliga - viaplay
 DTSTART:20240921T132000
 DTEND:20240921T142000
 DTSTAMP:20240921T132000Z
-UID:2024-09-21T13:20:00/Heidenheim - Freiburg
-DESCRIPTION:Heidenheim - Freiburg - Bundesliga
+UID:2024-09-21T13:20:00/Bochum - Holstein Kiel
+DESCRIPTION:Bochum - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Hoffenheim - Bundesliga - viaplay
@@ -835,12 +835,12 @@ UID:2024-09-21T13:20:00/Union Berlin - Hoffenheim
 DESCRIPTION:Union Berlin - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Holstein Kiel - Bundesliga - viaplay
+SUMMARY:Heidenheim - Freiburg - Bundesliga - viaplay
 DTSTART:20240921T132000
 DTEND:20240921T142000
 DTSTAMP:20240921T132000Z
-UID:2024-09-21T13:20:00/Bochum - Holstein Kiel
-DESCRIPTION:Bochum - Holstein Kiel - Bundesliga
+UID:2024-09-21T13:20:00/Heidenheim - Freiburg
+DESCRIPTION:Heidenheim - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werder Bremen - Bayern München - Bundesliga - viaplay
@@ -989,14 +989,6 @@ UID:2024-09-22T10:55:00/Preston - Blackburn
 DESCRIPTION:Preston - Blackburn - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BMW PGA Championship - DP World Tour - viaplay
-DTSTART:20240922T110000
-DTEND:20240922T120000
-DTSTAMP:20240922T110000Z
-UID:2024-09-22T11:00:00/BMW PGA Championship
-DESCRIPTION:BMW PGA Championship - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
 DTSTART:20240922T110000
 DTEND:20240922T120000
@@ -1005,12 +997,12 @@ UID:2024-09-22T11:00:00/Hungarian Darts Trophy
 DESCRIPTION:Hungarian Darts Trophy - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jahn Regensburg - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20240922T112000
-DTEND:20240922T122000
-DTSTAMP:20240922T112000Z
-UID:2024-09-22T11:20:00/Jahn Regensburg - Preußen Münster
-DESCRIPTION:Jahn Regensburg - Preußen Münster - 2. Bundesliga
+SUMMARY:BMW PGA Championship - DP World Tour - viaplay
+DTSTART:20240922T110000
+DTEND:20240922T120000
+DTSTAMP:20240922T110000Z
+UID:2024-09-22T11:00:00/BMW PGA Championship
+DESCRIPTION:BMW PGA Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magdeburg - Karlsruher - 2. Bundesliga - viaplay
@@ -1027,6 +1019,14 @@ DTEND:20240922T122000
 DTSTAMP:20240922T112000Z
 UID:2024-09-22T11:20:00/Elversberg - Ulm
 DESCRIPTION:Elversberg - Ulm - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahn Regensburg - Preußen Münster - 2. Bundesliga - viaplay
+DTSTART:20240922T112000
+DTEND:20240922T122000
+DTSTAMP:20240922T112000Z
+UID:2024-09-22T11:20:00/Jahn Regensburg - Preußen Münster
+DESCRIPTION:Jahn Regensburg - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Singapúr Kappaksturinn (Kappakstur) - Formula 1 - viaplay
@@ -1062,6 +1062,15 @@ UID:2024-09-22T12:00:00/Onboard (Kappakstur | Singapúr Kappaksturinn)
 DESCRIPTION:Onboard (Kappakstur | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Kappakstur | Singapúr Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20240922T120000
+DTEND:20240922T130000
+DTSTAMP:20240922T120000Z
+UID:2024-09-22T12:00:00/Pitlane (Kappakstur | Singapúr Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Singapúr Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Singapúr Kappaksturinn) - Formula
   1 - viaplay
 DTSTART:20240922T120000
@@ -1073,15 +1082,6 @@ DESCRIPTION:Track Positioning (Kappakstur | Singapúr Kappaksturinn) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Singapúr Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20240922T120000
-DTEND:20240922T130000
-DTSTAMP:20240922T120000Z
-UID:2024-09-22T12:00:00/Pitlane (Kappakstur | Singapúr Kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Singapúr Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Singapúr Kappaksturinn) - Formula 1 - viapla
  y
 DTSTART:20240922T120000
@@ -1091,20 +1091,20 @@ UID:2024-09-22T12:00:00/Timing (Kappakstur | Singapúr Kappaksturinn)
 DESCRIPTION:Timing (Kappakstur | Singapúr Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linköping - Trelleborg - OBOS Damallsvenskan - viaplay
-DTSTART:20240922T125000
-DTEND:20240922T135000
-DTSTAMP:20240922T125000Z
-UID:2024-09-22T12:50:00/Linköping - Trelleborg
-DESCRIPTION:Linköping - Trelleborg - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AIK - Brommapojkarna - OBOS Damallsvenskan - viaplay
 DTSTART:20240922T125000
 DTEND:20240922T135000
 DTSTAMP:20240922T125000Z
 UID:2024-09-22T12:50:00/AIK - Brommapojkarna
 DESCRIPTION:AIK - Brommapojkarna - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linköping - Trelleborg - OBOS Damallsvenskan - viaplay
+DTSTART:20240922T125000
+DTEND:20240922T135000
+DTSTAMP:20240922T125000Z
+UID:2024-09-22T12:50:00/Linköping - Trelleborg
+DESCRIPTION:Linköping - Trelleborg - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover-Burgdorf - Füchse Berlin - Bundesliga - viaplay
