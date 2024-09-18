@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Monaco - Barcelona - UEFA Youth League - stod2sport2
-DTSTART:20240918T115500
-DTEND:20240918T125500
-DTSTAMP:20240918T115500Z
-UID:2024-09-18T11:55:00/Monaco - Barcelona
-DESCRIPTION:Monaco - Barcelona - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Manchester City - Inter - UEFA Youth League - stod2sport2
 DTSTART:20240918T135500
 DTEND:20240918T145500
 DTSTAMP:20240918T135500Z
 UID:2024-09-18T13:55:00/Manchester City - Inter
 DESCRIPTION:Manchester City - Inter - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sparta Prag - Salzburg - Meistaradeild Evrópu - stod2sport3
+DTSTART:20240918T163500
+DTEND:20240918T173500
+DTSTAMP:20240918T163500Z
+UID:2024-09-18T16:35:00/Sparta Prag - Salzburg
+DESCRIPTION:Sparta Prag - Salzburg - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bologna - Shakhtar Donetsk - Meistaradeild Evrópu - stod2vodaspor
@@ -25,14 +25,6 @@ DTEND:20240918T173500
 DTSTAMP:20240918T163500Z
 UID:2024-09-18T16:35:00/Bologna - Shakhtar Donetsk
 DESCRIPTION:Bologna - Shakhtar Donetsk - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sparta Prag - Salzburg - Meistaradeild Evrópu - stod2sport3
-DTSTART:20240918T163500
-DTEND:20240918T173500
-DTSTAMP:20240918T163500Z
-UID:2024-09-18T16:35:00/Sparta Prag - Salzburg
-DESCRIPTION:Sparta Prag - Salzburg - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - stod2sport2
@@ -51,20 +43,20 @@ UID:2024-09-18T18:50:00/Manchester City - Inter
 DESCRIPTION:Manchester City - Inter - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PSG - Girona - Meistaradeild Evrópu - stod2vodasport
-DTSTART:20240918T185000
-DTEND:20240918T195000
-DTSTAMP:20240918T185000Z
-UID:2024-09-18T18:50:00/PSG - Girona
-DESCRIPTION:PSG - Girona - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Celtic - Slovan Bratislava - Meistaradeild Evrópu - stod2sport4
 DTSTART:20240918T185000
 DTEND:20240918T195000
 DTSTAMP:20240918T185000Z
 UID:2024-09-18T18:50:00/Celtic - Slovan Bratislava
 DESCRIPTION:Celtic - Slovan Bratislava - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Girona - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20240918T185000
+DTEND:20240918T195000
+DTSTAMP:20240918T185000Z
+UID:2024-09-18T18:50:00/PSG - Girona
+DESCRIPTION:PSG - Girona - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
@@ -83,12 +75,12 @@ UID:2024-09-18T22:30:00/Giants - Orioles
 DESCRIPTION:Giants - Orioles - MLB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Feyenoord - Leverkusen - Meistaradeild Evrópu - stod2sport3
-DTSTART:20240919T163500
-DTEND:20240919T173500
-DTSTAMP:20240919T163500Z
-UID:2024-09-19T16:35:00/Feyenoord - Leverkusen
-DESCRIPTION:Feyenoord - Leverkusen - Meistaradeild Evrópu
+SUMMARY:Monaco - Barcelona - UEFA Youth League - stod2sport2
+DTSTART:20240919T125500
+DTEND:20240919T135500
+DTSTAMP:20240919T125500Z
+UID:2024-09-19T12:55:00/Monaco - Barcelona
+DESCRIPTION:Monaco - Barcelona - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rauða stjarnan - Benfica - Meistaradeild Evrópu - stod2vodasport
@@ -99,12 +91,20 @@ UID:2024-09-19T16:35:00/Rauða stjarnan - Benfica
 DESCRIPTION:Rauða stjarnan - Benfica - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LPGA Tour - Kroger Queen City Championship - stod2sport6
+SUMMARY:Feyenoord - Leverkusen - Meistaradeild Evrópu - stod2sport3
+DTSTART:20240919T163500
+DTEND:20240919T173500
+DTSTAMP:20240919T163500Z
+UID:2024-09-19T16:35:00/Feyenoord - Leverkusen
+DESCRIPTION:Feyenoord - Leverkusen - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kroger Queen City Championship - LPGA Tour - stod2sport6
 DTSTART:20240919T170000
 DTEND:20240919T180000
 DTSTAMP:20240919T170000Z
-UID:2024-09-19T17:00:00/LPGA Tour
-DESCRIPTION:LPGA Tour - Kroger Queen City Championship
+UID:2024-09-19T17:00:00/Kroger Queen City Championship
+DESCRIPTION:Kroger Queen City Championship - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - stod2sport2
@@ -123,20 +123,20 @@ UID:2024-09-19T18:50:00/Monaco - Barcelona
 DESCRIPTION:Monaco - Barcelona - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atletico Madrid - Leipzig - Meistaradeild Evrópu - stod2sport4
-DTSTART:20240919T185000
-DTEND:20240919T195000
-DTSTAMP:20240919T185000Z
-UID:2024-09-19T18:50:00/Atletico Madrid - Leipzig
-DESCRIPTION:Atletico Madrid - Leipzig - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atalanta - Arsenal - Meistaradeild Evrópu - stod2vodasport
 DTSTART:20240919T185000
 DTEND:20240919T195000
 DTSTAMP:20240919T185000Z
 UID:2024-09-19T18:50:00/Atalanta - Arsenal
 DESCRIPTION:Atalanta - Arsenal - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atletico Madrid - Leipzig - Meistaradeild Evrópu - stod2sport4
+DTSTART:20240919T185000
+DTEND:20240919T195000
+DTSTAMP:20240919T185000Z
+UID:2024-09-19T18:50:00/Atletico Madrid - Leipzig
+DESCRIPTION:Atletico Madrid - Leipzig - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
@@ -260,6 +260,14 @@ UID:2024-09-22T11:30:00/F1 - Singapúr: Keppni
 DESCRIPTION:F1 - Singapúr: Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breiðablik - Þór/KA - Besta deild kvenna - stod2sport
+DTSTART:20240922T135000
+DTEND:20240922T145000
+DTSTAMP:20240922T135000Z
+UID:2024-09-22T13:50:00/Breiðablik - Þór/KA
+DESCRIPTION:Breiðablik - Þór/KA - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valur - FH - Besta deild kvenna - stod2sport5
 DTSTART:20240922T135000
 DTEND:20240922T145000
@@ -274,14 +282,6 @@ DTEND:20240922T145000
 DTSTAMP:20240922T135000Z
 UID:2024-09-22T13:50:00/KR - Vestri
 DESCRIPTION:KR - Vestri - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - Þór/KA - Besta deild kvenna - stod2sport
-DTSTART:20240922T135000
-DTEND:20240922T145000
-DTSTAMP:20240922T135000Z
-UID:2024-09-22T13:50:00/Breiðablik - Þór/KA
-DESCRIPTION:Breiðablik - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
@@ -300,20 +300,20 @@ UID:2024-09-22T16:25:00/Wfl Wolfsburg - 1. FC Köln
 DESCRIPTION:Wfl Wolfsburg - 1. FC Köln - Bundesliga kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saints - Eagles - NFL - stod2sport2
-DTSTART:20240922T165500
-DTEND:20240922T175500
-DTSTAMP:20240922T165500Z
-UID:2024-09-22T16:55:00/Saints - Eagles
-DESCRIPTION:Saints - Eagles - NFL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NFL Red Zone - NFL - stod2sport3
 DTSTART:20240922T165500
 DTEND:20240922T175500
 DTSTAMP:20240922T165500Z
 UID:2024-09-22T16:55:00/NFL Red Zone
 DESCRIPTION:NFL Red Zone - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saints - Eagles - NFL - stod2sport2
+DTSTART:20240922T165500
+DTEND:20240922T175500
+DTSTAMP:20240922T165500Z
+UID:2024-09-22T16:55:00/Saints - Eagles
+DESCRIPTION:Saints - Eagles - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kroger Queen City Championship - LPGA Tour - stod2sport4
