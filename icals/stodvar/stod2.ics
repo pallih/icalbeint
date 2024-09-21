@@ -51,6 +51,14 @@ UID:2024-09-22T11:30:00/F1 - Singapúr: Keppni
 DESCRIPTION:F1 - Singapúr: Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - FH - Besta deild kvenna - stod2sport5
+DTSTART:20240922T135000
+DTEND:20240922T145000
+DTSTAMP:20240922T135000Z
+UID:2024-09-22T13:50:00/Valur - FH
+DESCRIPTION:Valur - FH - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KR - Vestri - Besta deild karla - stod2besta01
 DTSTART:20240922T135000
 DTEND:20240922T145000
@@ -65,14 +73,6 @@ DTEND:20240922T145000
 DTSTAMP:20240922T135000Z
 UID:2024-09-22T13:50:00/Breiðablik - Þór/KA
 DESCRIPTION:Breiðablik - Þór/KA - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - FH - Besta deild kvenna - stod2sport5
-DTSTART:20240922T135000
-DTEND:20240922T145000
-DTSTAMP:20240922T135000Z
-UID:2024-09-22T13:50:00/Valur - FH
-DESCRIPTION:Valur - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
@@ -247,20 +247,20 @@ UID:2024-09-25T16:05:00/KA - HK
 DESCRIPTION:KA - HK - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AZ Alkmaar - Elfsborg - Evrópudeildin - stod2sport2
-DTSTART:20240925T163500
-DTEND:20240925T173500
-DTSTAMP:20240925T163500Z
-UID:2024-09-25T16:35:00/AZ Alkmaar - Elfsborg
-DESCRIPTION:AZ Alkmaar - Elfsborg - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bodö/Glimt - Porto - Evrópudeildin - VIAPLAY - stod2vodasport
 DTSTART:20240925T163500
 DTEND:20240925T173500
 DTSTAMP:20240925T163500Z
 UID:2024-09-25T16:35:00/Bodö/Glimt - Porto
 DESCRIPTION:Bodö/Glimt - Porto - Evrópudeildin - VIAPLAY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AZ Alkmaar - Elfsborg - Evrópudeildin - stod2sport2
+DTSTART:20240925T163500
+DTEND:20240925T173500
+DTSTAMP:20240925T163500Z
+UID:2024-09-25T16:35:00/AZ Alkmaar - Elfsborg
+DESCRIPTION:AZ Alkmaar - Elfsborg - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST Premier: G2 Esports vs Team Liquid - BLAST Premier - stod2sp
@@ -272,20 +272,20 @@ UID:2024-09-25T17:30:00/BLAST Premier: G2 Esports vs Team Liquid
 DESCRIPTION:BLAST Premier: G2 Esports vs Team Liquid - BLAST Premier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nice - Real Sociedad - Evrópudeildin - VIAPLAY - stod2vodasport
-DTSTART:20240925T185000
-DTEND:20240925T195000
-DTSTAMP:20240925T185000Z
-UID:2024-09-25T18:50:00/Nice - Real Sociedad
-DESCRIPTION:Nice - Real Sociedad - Evrópudeildin - VIAPLAY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Manchester United - Twente - Evrópudeildin - stod2sport2
 DTSTART:20240925T185000
 DTEND:20240925T195000
 DTSTAMP:20240925T185000Z
 UID:2024-09-25T18:50:00/Manchester United - Twente
 DESCRIPTION:Manchester United - Twente - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nice - Real Sociedad - Evrópudeildin - VIAPLAY - stod2vodasport
+DTSTART:20240925T185000
+DTEND:20240925T195000
+DTSTAMP:20240925T185000Z
+UID:2024-09-25T18:50:00/Nice - Real Sociedad
+DESCRIPTION:Nice - Real Sociedad - Evrópudeildin - VIAPLAY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anderlecht - Ferencvaros - Evrópudeildin - stod2sport3
@@ -368,12 +368,12 @@ UID:2024-09-26T17:30:00/BLAST Premier - Fall Final
 DESCRIPTION:BLAST Premier - Fall Final - BLAST Premier
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roma - Athletic Club - Evrópudeildin - stod2sport3
+SUMMARY:Ajax - Besiktas - Evrópudeildin - stod2sport2
 DTSTART:20240926T185000
 DTEND:20240926T195000
 DTSTAMP:20240926T185000Z
-UID:2024-09-26T18:50:00/Roma - Athletic Club
-DESCRIPTION:Roma - Athletic Club - Evrópudeildin
+UID:2024-09-26T18:50:00/Ajax - Besiktas
+DESCRIPTION:Ajax - Besiktas - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tottenham - Qarabag - Evrópudeildin - VIAPLAY - stod2vodasport
@@ -384,12 +384,12 @@ UID:2024-09-26T18:50:00/Tottenham - Qarabag
 DESCRIPTION:Tottenham - Qarabag - Evrópudeildin - VIAPLAY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ajax - Besiktas - Evrópudeildin - stod2sport2
+SUMMARY:Roma - Athletic Club - Evrópudeildin - stod2sport3
 DTSTART:20240926T185000
 DTEND:20240926T195000
 DTSTAMP:20240926T185000Z
-UID:2024-09-26T18:50:00/Ajax - Besiktas
-DESCRIPTION:Ajax - Besiktas - Evrópudeildin
+UID:2024-09-26T18:50:00/Roma - Athletic Club
+DESCRIPTION:Roma - Athletic Club - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braves - Mets - MLB - stod2vodasport
