@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Hertha Berlin - 2. Bundesliga - viaplay
+SUMMARY:Braunschweig - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20240921T105000
 DTEND:20240921T115000
 DTSTAMP:20240921T105000Z
-UID:2024-09-21T10:50:00/Nürnberg - Hertha Berlin
-DESCRIPTION:Nürnberg - Hertha Berlin - 2. Bundesliga
+UID:2024-09-21T10:50:00/Braunschweig - Greuther Fürth
+DESCRIPTION:Braunschweig - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Düsseldorf - Köln - 2. Bundesliga - viaplay
@@ -18,12 +18,12 @@ UID:2024-09-21T10:50:00/Düsseldorf - Köln
 DESCRIPTION:Düsseldorf - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschweig - Greuther Fürth - 2. Bundesliga - viaplay
+SUMMARY:Nürnberg - Hertha Berlin - 2. Bundesliga - viaplay
 DTSTART:20240921T105000
 DTEND:20240921T115000
 DTSTAMP:20240921T105000Z
-UID:2024-09-21T10:50:00/Braunschweig - Greuther Fürth
-DESCRIPTION:Braunschweig - Greuther Fürth - 2. Bundesliga
+UID:2024-09-21T10:50:00/Nürnberg - Hertha Berlin
+DESCRIPTION:Nürnberg - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Chelsea - Enska úrvalsdeildin - siminnsport
@@ -82,6 +82,14 @@ UID:2024-09-21T13:20:00/Bochum - Holstein Kiel
 DESCRIPTION:Bochum - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heidenheim - Freiburg - Bundesliga - viaplay
+DTSTART:20240921T132000
+DTEND:20240921T142000
+DTSTAMP:20240921T132000Z
+UID:2024-09-21T13:20:00/Heidenheim - Freiburg
+DESCRIPTION:Heidenheim - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Union Berlin - Hoffenheim - Bundesliga - viaplay
 DTSTART:20240921T132000
 DTEND:20240921T142000
@@ -106,28 +114,12 @@ UID:2024-09-21T13:20:00/Werder Bremen - Bayern München
 DESCRIPTION:Werder Bremen - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - Freiburg - Bundesliga - viaplay
-DTSTART:20240921T132000
-DTEND:20240921T142000
-DTSTAMP:20240921T132000Z
-UID:2024-09-21T13:20:00/Heidenheim - Freiburg
-DESCRIPTION:Heidenheim - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liverpool - Bournemouth - Enska úrvalsdeildin - sjonvarpsimans
 DTSTART:20240921T133000
 DTEND:20240921T143000
 DTSTAMP:20240921T133000Z
 UID:2024-09-21T13:30:00/Liverpool - Bournemouth
 DESCRIPTION:Liverpool - Bournemouth - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leicester - Everton - Enska úrvalsdeildin - siminnsport5
-DTSTART:20240921T135000
-DTEND:20240921T145000
-DTSTAMP:20240921T135000Z
-UID:2024-09-21T13:50:00/Leicester - Everton
-DESCRIPTION:Leicester - Everton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Newcastle - Enska úrvalsdeildin - siminnsport4
@@ -138,6 +130,14 @@ UID:2024-09-21T13:50:00/Fulham - Newcastle
 DESCRIPTION:Fulham - Newcastle - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tottenham - Brentford - Enska úrvalsdeildin - siminnsport2
+DTSTART:20240921T135000
+DTEND:20240921T145000
+DTSTAMP:20240921T135000Z
+UID:2024-09-21T13:50:00/Tottenham - Brentford
+DESCRIPTION:Tottenham - Brentford - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aston Villa - Wolves - Enska úrvalsdeildin - siminnsport3
 DTSTART:20240921T135000
 DTEND:20240921T145000
@@ -146,12 +146,12 @@ UID:2024-09-21T13:50:00/Aston Villa - Wolves
 DESCRIPTION:Aston Villa - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Brentford - Enska úrvalsdeildin - siminnsport2
+SUMMARY:Leicester - Everton - Enska úrvalsdeildin - siminnsport5
 DTSTART:20240921T135000
 DTEND:20240921T145000
 DTSTAMP:20240921T135000Z
-UID:2024-09-21T13:50:00/Tottenham - Brentford
-DESCRIPTION:Tottenham - Brentford - Enska úrvalsdeildin
+UID:2024-09-21T13:50:00/Leicester - Everton
+DESCRIPTION:Leicester - Everton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Luton - Sheffield Wednesday - Championship - viaplay
@@ -178,14 +178,6 @@ UID:2024-09-21T15:00:00/Lille - RC Strasbourg
 DESCRIPTION:Lille - RC Strasbourg - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Juventus - Napoli - Serie A - Ítalski boltinn - livey
-DTSTART:20240921T160000
-DTEND:20240921T170000
-DTSTAMP:20240921T160000Z
-UID:2024-09-21T16:00:00/Juventus - Napoli
-DESCRIPTION:Juventus - Napoli - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KA - Víkingur - Bikarúrslit karla í fótbolta - ruv2
 DTSTART:20240921T160000
 DTEND:20240921T170000
@@ -200,6 +192,14 @@ DTEND:20240921T170000
 DTSTAMP:20240921T160000Z
 UID:2024-09-21T16:00:00/Crystal Palace - Man. Utd.
 DESCRIPTION:Crystal Palace - Man. Utd. - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus - Napoli - Serie A - Ítalski boltinn - livey
+DTSTART:20240921T160000
+DTEND:20240921T170000
+DTSTAMP:20240921T160000Z
+UID:2024-09-21T16:00:00/Juventus - Napoli
+DESCRIPTION:Juventus - Napoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Mönchengladbach - Bundesliga - viaplay
@@ -348,20 +348,20 @@ UID:2024-09-22T11:20:00/Jahn Regensburg - Preußen Münster
 DESCRIPTION:Jahn Regensburg - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Ulm - 2. Bundesliga - viaplay
-DTSTART:20240922T112000
-DTEND:20240922T122000
-DTSTAMP:20240922T112000Z
-UID:2024-09-22T11:20:00/Elversberg - Ulm
-DESCRIPTION:Elversberg - Ulm - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Karlsruher - 2. Bundesliga - viaplay
 DTSTART:20240922T112000
 DTEND:20240922T122000
 DTSTAMP:20240922T112000Z
 UID:2024-09-22T11:20:00/Magdeburg - Karlsruher
 DESCRIPTION:Magdeburg - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elversberg - Ulm - 2. Bundesliga - viaplay
+DTSTART:20240922T112000
+DTEND:20240922T122000
+DTSTAMP:20240922T112000Z
+UID:2024-09-22T11:20:00/Elversberg - Ulm
+DESCRIPTION:Elversberg - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club Brugge - Gent - Pro League - Belgíski boltinn - livey
@@ -412,14 +412,6 @@ UID:2024-09-22T12:55:00/Hannover-Burgdorf - Füchse Berlin
 DESCRIPTION:Hannover-Burgdorf - Füchse Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monaco - Le Havre - Ligue 1 - Franski Boltinn - livey
-DTSTART:20240922T130000
-DTEND:20240922T140000
-DTSTAMP:20240922T130000Z
-UID:2024-09-22T13:00:00/Monaco - Le Havre
-DESCRIPTION:Monaco - Le Havre - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monza - Bologna - Serie A - Ítalski boltinn - livey
 DTSTART:20240922T130000
 DTEND:20240922T140000
@@ -428,20 +420,20 @@ UID:2024-09-22T13:00:00/Monza - Bologna
 DESCRIPTION:Monza - Bologna - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Monaco - Le Havre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20240922T130000
+DTEND:20240922T140000
+DTSTAMP:20240922T130000Z
+UID:2024-09-22T13:00:00/Monaco - Le Havre
+DESCRIPTION:Monaco - Le Havre - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leverkusen - Wolfsburg - Bundesliga - viaplay
 DTSTART:20240922T132000
 DTEND:20240922T142000
 DTSTAMP:20240922T132000Z
 UID:2024-09-22T13:20:00/Leverkusen - Wolfsburg
 DESCRIPTION:Leverkusen - Wolfsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - FH - Besta deild kvenna - stod2sport5
-DTSTART:20240922T135000
-DTEND:20240922T145000
-DTSTAMP:20240922T135000Z
-UID:2024-09-22T13:50:00/Valur - FH
-DESCRIPTION:Valur - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Vestri - Besta deild karla - stod2besta01
@@ -458,6 +450,14 @@ DTEND:20240922T145000
 DTSTAMP:20240922T135000Z
 UID:2024-09-22T13:50:00/Breiðablik - Þór/KA
 DESCRIPTION:Breiðablik - Þór/KA - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - FH - Besta deild kvenna - stod2sport5
+DTSTART:20240922T135000
+DTEND:20240922T145000
+DTSTAMP:20240922T135000Z
+UID:2024-09-22T13:50:00/Valur - FH
+DESCRIPTION:Valur - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celtic - Falkirk - Premier Sports Cup - viaplay
@@ -484,22 +484,6 @@ UID:2024-09-22T14:15:00/Athletic Bilbao - Celta Vigo
 DESCRIPTION:Athletic Bilbao - Celta Vigo - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Angers - Nantes - Ligue 1 - Franski Boltinn - livey
-DTSTART:20240922T150000
-DTEND:20240922T160000
-DTSTAMP:20240922T150000Z
-UID:2024-09-22T15:00:00/Angers - Nantes
-DESCRIPTION:Angers - Nantes - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brest - Toulouse - Ligue 1 - Franski Boltinn - livey
-DTSTART:20240922T150000
-DTEND:20240922T160000
-DTSTAMP:20240922T150000Z
-UID:2024-09-22T15:00:00/Brest - Toulouse
-DESCRIPTION:Brest - Toulouse - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. City - Arsenal - Enska úrvalsdeildin - siminnsport
 DTSTART:20240922T150000
 DTEND:20240922T160000
@@ -514,6 +498,22 @@ DTEND:20240922T160000
 DTSTAMP:20240922T150000Z
 UID:2024-09-22T15:00:00/Montpellier - Auxerre
 DESCRIPTION:Montpellier - Auxerre - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angers - Nantes - Ligue 1 - Franski Boltinn - livey
+DTSTART:20240922T150000
+DTEND:20240922T160000
+DTSTAMP:20240922T150000Z
+UID:2024-09-22T15:00:00/Angers - Nantes
+DESCRIPTION:Angers - Nantes - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brest - Toulouse - Ligue 1 - Franski Boltinn - livey
+DTSTART:20240922T150000
+DTEND:20240922T160000
+DTSTAMP:20240922T150000Z
+UID:2024-09-22T15:00:00/Brest - Toulouse
+DESCRIPTION:Brest - Toulouse - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stuttgart - Dortmund - Bundesliga - viaplay
@@ -532,14 +532,6 @@ UID:2024-09-22T15:55:00/Magdeburg - Kiel
 DESCRIPTION:Magdeburg - Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
-DTSTART:20240922T160000
-DTEND:20240922T170000
-DTSTAMP:20240922T160000Z
-UID:2024-09-22T16:00:00/Bestu mörkin
-DESCRIPTION:Bestu mörkin - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Roma - Udinese - Serie A - Ítalski boltinn - livey
 DTSTART:20240922T160000
 DTEND:20240922T170000
@@ -548,12 +540,12 @@ UID:2024-09-22T16:00:00/Roma - Udinese
 DESCRIPTION:Roma - Udinese - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Köln - Frauen-Bundesliga - viaplay
-DTSTART:20240922T162500
-DTEND:20240922T172500
-DTSTAMP:20240922T162500Z
-UID:2024-09-22T16:25:00/Wolfsburg - Köln
-DESCRIPTION:Wolfsburg - Köln - Frauen-Bundesliga
+SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport
+DTSTART:20240922T160000
+DTEND:20240922T170000
+DTSTAMP:20240922T160000Z
+UID:2024-09-22T16:00:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wfl Wolfsburg - 1. FC Köln - Bundesliga kvenna - stod2vodasport
@@ -562,6 +554,14 @@ DTEND:20240922T172500
 DTSTAMP:20240922T162500Z
 UID:2024-09-22T16:25:00/Wfl Wolfsburg - 1. FC Köln
 DESCRIPTION:Wfl Wolfsburg - 1. FC Köln - Bundesliga kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Köln - Frauen-Bundesliga - viaplay
+DTSTART:20240922T162500
+DTEND:20240922T172500
+DTSTAMP:20240922T162500Z
+UID:2024-09-22T16:25:00/Wolfsburg - Köln
+DESCRIPTION:Wolfsburg - Köln - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Villareal - Barcelona - LaLiga - Spænski boltinn - livey
@@ -597,20 +597,20 @@ UID:2024-09-22T18:40:00/ Inter Milan - AC Milan
 DESCRIPTION: Inter Milan - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Milan - AC Milan - Serie A - Ítalski boltinn - livey
-DTSTART:20240922T184500
-DTEND:20240922T194500
-DTSTAMP:20240922T184500Z
-UID:2024-09-22T18:45:00/Inter Milan - AC Milan
-DESCRIPTION:Inter Milan - AC Milan - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lyon - Marseille - Ligue 1 - Franski Boltinn - livey
 DTSTART:20240922T184500
 DTEND:20240922T194500
 DTSTAMP:20240922T184500Z
 UID:2024-09-22T18:45:00/Lyon - Marseille
 DESCRIPTION:Lyon - Marseille - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Milan - AC Milan - Serie A - Ítalski boltinn - livey
+DTSTART:20240922T184500
+DTEND:20240922T194500
+DTSTAMP:20240922T184500Z
+UID:2024-09-22T18:45:00/Inter Milan - AC Milan
+DESCRIPTION:Inter Milan - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rayo Vallecano - Atletico Madrid - LaLiga - Spænski boltinn - liv
@@ -672,20 +672,20 @@ UID:2024-09-23T18:45:00/Atalanta - Como
 DESCRIPTION:Atalanta - Como - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fleetwood Town - Morecambe - EFL League Two - stod2vodasport
-DTSTART:20240923T185500
-DTEND:20240923T195500
-DTSTAMP:20240923T185500Z
-UID:2024-09-23T18:55:00/Fleetwood Town - Morecambe
-DESCRIPTION:Fleetwood Town - Morecambe - EFL League Two
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fleetwood - Morecambe - League Two - viaplay
 DTSTART:20240923T185500
 DTEND:20240923T195500
 DTSTAMP:20240923T185500Z
 UID:2024-09-23T18:55:00/Fleetwood - Morecambe
 DESCRIPTION:Fleetwood - Morecambe - League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fleetwood Town - Morecambe - EFL League Two - stod2vodasport
+DTSTART:20240923T185500
+DTEND:20240923T195500
+DTSTAMP:20240923T185500Z
+UID:2024-09-23T18:55:00/Fleetwood Town - Morecambe
+DESCRIPTION:Fleetwood Town - Morecambe - EFL League Two
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Betis - RCD Mallorca - LaLiga - Spænski boltinn - livey
@@ -728,6 +728,14 @@ UID:2024-09-23T21:20:00/Ísey Tilþrifin
 DESCRIPTION:Ísey Tilþrifin - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chelsea - Barrow - Carabao Cup - viaplay
+DTSTART:20240924T184000
+DTEND:20240924T194000
+DTSTAMP:20240924T184000Z
+UID:2024-09-24T18:40:00/Chelsea - Barrow
+DESCRIPTION:Chelsea - Barrow - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AFC Wimbledon - Newcastle - Carabao Cup - viaplay
 DTSTART:20240924T184000
 DTEND:20240924T194000
@@ -744,12 +752,12 @@ UID:2024-09-24T18:40:00/Manchester City - Watford
 DESCRIPTION:Manchester City - Watford - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Barrow - Carabao Cup - viaplay
+SUMMARY:Walsall - Leicester - Carabao Cup - viaplay
 DTSTART:20240924T184000
 DTEND:20240924T194000
 DTSTAMP:20240924T184000Z
-UID:2024-09-24T18:40:00/Chelsea - Barrow
-DESCRIPTION:Chelsea - Barrow - Carabao Cup
+UID:2024-09-24T18:40:00/Walsall - Leicester
+DESCRIPTION:Walsall - Leicester - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man City - Watford - Carabao Cup - viaplay
@@ -758,14 +766,6 @@ DTEND:20240924T194000
 DTSTAMP:20240924T184000Z
 UID:2024-09-24T18:40:00/Man City - Watford
 DESCRIPTION:Man City - Watford - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walsall - Leicester - Carabao Cup - viaplay
-DTSTART:20240924T184000
-DTEND:20240924T194000
-DTSTAMP:20240924T184000Z
-UID:2024-09-24T18:40:00/Walsall - Leicester
-DESCRIPTION:Walsall - Leicester - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wycombe - Aston Villa - Carabao Cup - viaplay
@@ -784,14 +784,6 @@ UID:2024-09-25T16:05:00/KA - HK
 DESCRIPTION:KA - HK - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bodö/Glimt - Porto - Evrópudeildin - VIAPLAY - stod2vodasport
-DTSTART:20240925T163500
-DTEND:20240925T173500
-DTSTAMP:20240925T163500Z
-UID:2024-09-25T16:35:00/Bodö/Glimt - Porto
-DESCRIPTION:Bodö/Glimt - Porto - Evrópudeildin - VIAPLAY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bodø/Glimt - Porto - UEFA Europa League - viaplay
 DTSTART:20240925T163500
 DTEND:20240925T173500
@@ -808,20 +800,20 @@ UID:2024-09-25T16:35:00/AZ Alkmaar - Elfsborg
 DESCRIPTION:AZ Alkmaar - Elfsborg - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bodö/Glimt - Porto - Evrópudeildin - VIAPLAY - stod2vodasport
+DTSTART:20240925T163500
+DTEND:20240925T173500
+DTSTAMP:20240925T163500Z
+UID:2024-09-25T16:35:00/Bodö/Glimt - Porto
+DESCRIPTION:Bodö/Glimt - Porto - Evrópudeildin - VIAPLAY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arsenal - Bolton - Carabao Cup - viaplay
 DTSTART:20240925T184000
 DTEND:20240925T194000
 DTSTAMP:20240925T184000Z
 UID:2024-09-25T18:40:00/Arsenal - Bolton
 DESCRIPTION:Arsenal - Bolton - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nice - Real Sociedad - UEFA Europa League - viaplay
-DTSTART:20240925T185000
-DTEND:20240925T195000
-DTSTAMP:20240925T185000Z
-UID:2024-09-25T18:50:00/Nice - Real Sociedad
-DESCRIPTION:Nice - Real Sociedad - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nice - Real Sociedad - Evrópudeildin - VIAPLAY - stod2vodasport
@@ -832,14 +824,6 @@ UID:2024-09-25T18:50:00/Nice - Real Sociedad
 DESCRIPTION:Nice - Real Sociedad - Evrópudeildin - VIAPLAY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anderlecht - Ferencvaros - Evrópudeildin - stod2sport3
-DTSTART:20240925T185000
-DTEND:20240925T195000
-DTSTAMP:20240925T185000Z
-UID:2024-09-25T18:50:00/Anderlecht - Ferencvaros
-DESCRIPTION:Anderlecht - Ferencvaros - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Manchester United - Twente - Evrópudeildin - stod2sport2
 DTSTART:20240925T185000
 DTEND:20240925T195000
@@ -848,20 +832,20 @@ UID:2024-09-25T18:50:00/Manchester United - Twente
 DESCRIPTION:Manchester United - Twente - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dynamo Kyiv - Lazio - UEFA Europa League - viaplay
-DTSTART:20240925T185500
-DTEND:20240925T195500
-DTSTAMP:20240925T185500Z
-UID:2024-09-25T18:55:00/Dynamo Kyiv - Lazio
-DESCRIPTION:Dynamo Kyiv - Lazio - UEFA Europa League
+SUMMARY:Nice - Real Sociedad - UEFA Europa League - viaplay
+DTSTART:20240925T185000
+DTEND:20240925T195000
+DTSTAMP:20240925T185000Z
+UID:2024-09-25T18:50:00/Nice - Real Sociedad
+DESCRIPTION:Nice - Real Sociedad - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - West Ham - Carabao Cup - viaplay
-DTSTART:20240925T185500
-DTEND:20240925T195500
-DTSTAMP:20240925T185500Z
-UID:2024-09-25T18:55:00/Liverpool - West Ham
-DESCRIPTION:Liverpool - West Ham - Carabao Cup
+SUMMARY:Anderlecht - Ferencvaros - Evrópudeildin - stod2sport3
+DTSTART:20240925T185000
+DTEND:20240925T195000
+DTSTAMP:20240925T185000Z
+UID:2024-09-25T18:50:00/Anderlecht - Ferencvaros
+DESCRIPTION:Anderlecht - Ferencvaros - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ludogorets - Slavia Praha - UEFA Europa League - viaplay
@@ -886,6 +870,22 @@ DTEND:20240925T195500
 DTSTAMP:20240925T185500Z
 UID:2024-09-25T18:55:00/Midtjylland - Hoffenheim
 DESCRIPTION:Midtjylland - Hoffenheim - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - West Ham - Carabao Cup - viaplay
+DTSTART:20240925T185500
+DTEND:20240925T195500
+DTSTAMP:20240925T185500Z
+UID:2024-09-25T18:55:00/Liverpool - West Ham
+DESCRIPTION:Liverpool - West Ham - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamo Kyiv - Lazio - UEFA Europa League - viaplay
+DTSTART:20240925T185500
+DTEND:20240925T195500
+DTSTAMP:20240925T185500Z
+UID:2024-09-25T18:55:00/Dynamo Kyiv - Lazio
+DESCRIPTION:Dynamo Kyiv - Lazio - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Barcelona - Getafe - LaLiga - Spænski boltinn - sjonvarpsimans
@@ -952,14 +952,6 @@ UID:2024-09-26T16:55:00/Kiel - Melsungen
 DESCRIPTION:Kiel - Melsungen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Qarabag - Evrópudeildin - VIAPLAY - stod2vodasport
-DTSTART:20240926T185000
-DTEND:20240926T195000
-DTSTAMP:20240926T185000Z
-UID:2024-09-26T18:50:00/Tottenham - Qarabag
-DESCRIPTION:Tottenham - Qarabag - Evrópudeildin - VIAPLAY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tottenham - Qarabağ - UEFA Europa League - viaplay
 DTSTART:20240926T185000
 DTEND:20240926T195000
@@ -976,6 +968,14 @@ UID:2024-09-26T18:50:00/Roma - Athletic Club
 DESCRIPTION:Roma - Athletic Club - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tottenham - Qarabag - Evrópudeildin - VIAPLAY - stod2vodasport
+DTSTART:20240926T185000
+DTEND:20240926T195000
+DTSTAMP:20240926T185000Z
+UID:2024-09-26T18:50:00/Tottenham - Qarabag
+DESCRIPTION:Tottenham - Qarabag - Evrópudeildin - VIAPLAY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ajax - Besiktas - Evrópudeildin - stod2sport2
 DTSTART:20240926T185000
 DTEND:20240926T195000
@@ -984,12 +984,12 @@ UID:2024-09-26T18:50:00/Ajax - Besiktas
 DESCRIPTION:Ajax - Besiktas - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lyon - Olympiakos - UEFA Europa League - viaplay
+SUMMARY:FCSB - Rīgas FS - UEFA Europa League - viaplay
 DTSTART:20240926T185500
 DTEND:20240926T195500
 DTSTAMP:20240926T185500Z
-UID:2024-09-26T18:55:00/Lyon - Olympiakos
-DESCRIPTION:Lyon - Olympiakos - UEFA Europa League
+UID:2024-09-26T18:55:00/FCSB - Rīgas FS
+DESCRIPTION:FCSB - Rīgas FS - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braga - Maccabi Tel Aviv - UEFA Europa League - viaplay
@@ -1000,12 +1000,12 @@ UID:2024-09-26T18:55:00/Braga - Maccabi Tel Aviv
 DESCRIPTION:Braga - Maccabi Tel Aviv - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FCSB - Rīgas FS - UEFA Europa League - viaplay
+SUMMARY:Lyon - Olympiakos - UEFA Europa League - viaplay
 DTSTART:20240926T185500
 DTEND:20240926T195500
 DTSTAMP:20240926T185500Z
-UID:2024-09-26T18:55:00/FCSB - Rīgas FS
-DESCRIPTION:FCSB - Rīgas FS - UEFA Europa League
+UID:2024-09-26T18:55:00/Lyon - Olympiakos
+DESCRIPTION:Lyon - Olympiakos - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Viktoria Plzeň - UEFA Europa League - viaplay
@@ -1040,6 +1040,14 @@ UID:2024-09-27T16:20:00/Ulm - Braunschweig
 DESCRIPTION:Ulm - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leverkusen - Hoffenheim - Frauen-Bundesliga - viaplay
+DTSTART:20240927T162500
+DTEND:20240927T172500
+DTSTAMP:20240927T162500Z
+UID:2024-09-27T16:25:00/Leverkusen - Hoffenheim
+DESCRIPTION:Leverkusen - Hoffenheim - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayer 04 Leverkusen - TSG Hoffenheim - Bundesliga kvenna - stod2vo
  dasport
 DTSTART:20240927T162500
@@ -1049,12 +1057,12 @@ UID:2024-09-27T16:25:00/Bayer 04 Leverkusen - TSG Hoffenheim
 DESCRIPTION:Bayer 04 Leverkusen - TSG Hoffenheim - Bundesliga kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Hoffenheim - Frauen-Bundesliga - viaplay
-DTSTART:20240927T162500
-DTEND:20240927T172500
-DTSTAMP:20240927T162500Z
-UID:2024-09-27T16:25:00/Leverkusen - Hoffenheim
-DESCRIPTION:Leverkusen - Hoffenheim - Frauen-Bundesliga
+SUMMARY:Al Qadisiyah - Al Ahli - Saudi Pro League - viaplay
+DTSTART:20240927T175500
+DTEND:20240927T185500
+DTSTAMP:20240927T175500Z
+UID:2024-09-27T17:55:00/Al Qadisiyah - Al Ahli
+DESCRIPTION:Al Qadisiyah - Al Ahli - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eisenach - Flensburg-Handevitt - Bundesliga - viaplay
@@ -1063,14 +1071,6 @@ DTEND:20240927T185500
 DTSTAMP:20240927T175500Z
 UID:2024-09-27T17:55:00/Eisenach - Flensburg-Handevitt
 DESCRIPTION:Eisenach - Flensburg-Handevitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Al Qadisiyah - Al Ahli - Saudi Pro League - viaplay
-DTSTART:20240927T175500
-DTEND:20240927T185500
-DTSTAMP:20240927T175500Z
-UID:2024-09-27T17:55:00/Al Qadisiyah - Al Ahli
-DESCRIPTION:Al Qadisiyah - Al Ahli - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Bochum - Bundesliga - viaplay
