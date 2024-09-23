@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Hannover-Burgdorf - Füchse Berlin - Bundesliga - viaplay
-DTSTART:20240922T125500
-DTEND:20240922T135500
-DTSTAMP:20240922T125500Z
-UID:2024-09-22T12:55:00/Hannover-Burgdorf - Füchse Berlin
-DESCRIPTION:Hannover-Burgdorf - Füchse Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leverkusen - Wolfsburg - Bundesliga - viaplay
-DTSTART:20240922T132000
-DTEND:20240922T142000
-DTSTAMP:20240922T132000Z
-UID:2024-09-22T13:20:00/Leverkusen - Wolfsburg
-DESCRIPTION:Leverkusen - Wolfsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stuttgart - Dortmund - Bundesliga - viaplay
-DTSTART:20240922T152000
-DTEND:20240922T162000
-DTSTAMP:20240922T152000Z
-UID:2024-09-22T15:20:00/Stuttgart - Dortmund
-DESCRIPTION:Stuttgart - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Kiel - Bundesliga - viaplay
-DTSTART:20240922T155500
-DTEND:20240922T165500
-DTSTAMP:20240922T155500Z
-UID:2024-09-22T15:55:00/Magdeburg - Kiel
-DESCRIPTION:Magdeburg - Kiel - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St. Pauli - Leipzig - Bundesliga - viaplay
-DTSTART:20240922T172000
-DTEND:20240922T182000
-DTSTAMP:20240922T172000Z
-UID:2024-09-22T17:20:00/St. Pauli - Leipzig
-DESCRIPTION:St. Pauli - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kiel - Melsungen - Bundesliga - viaplay
 DTSTART:20240926T165500
 DTEND:20240926T175500
@@ -66,12 +26,12 @@ UID:2024-09-27T18:20:00/Dortmund - Bochum
 DESCRIPTION:Dortmund - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mainz 05 - Heidenheim - Bundesliga - viaplay
+SUMMARY:Freiburg - St. Pauli - Bundesliga - viaplay
 DTSTART:20240928T132000
 DTEND:20240928T142000
 DTSTAMP:20240928T132000Z
-UID:2024-09-28T13:20:00/Mainz 05 - Heidenheim
-DESCRIPTION:Mainz 05 - Heidenheim - Bundesliga
+UID:2024-09-28T13:20:00/Freiburg - St. Pauli
+DESCRIPTION:Freiburg - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Union Berlin - Bundesliga - viaplay
@@ -82,6 +42,14 @@ UID:2024-09-28T13:20:00/Mönchengladbach - Union Berlin
 DESCRIPTION:Mönchengladbach - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mainz 05 - Heidenheim - Bundesliga - viaplay
+DTSTART:20240928T132000
+DTEND:20240928T142000
+DTSTAMP:20240928T132000Z
+UID:2024-09-28T13:20:00/Mainz 05 - Heidenheim
+DESCRIPTION:Mainz 05 - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20240928T132000
 DTEND:20240928T142000
@@ -90,12 +58,12 @@ UID:2024-09-28T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - St. Pauli - Bundesliga - viaplay
-DTSTART:20240928T132000
-DTEND:20240928T142000
-DTSTAMP:20240928T132000Z
-UID:2024-09-28T13:20:00/Freiburg - St. Pauli
-DESCRIPTION:Freiburg - St. Pauli - Bundesliga
+SUMMARY:Wolfsburg - Stuttgart - Bundesliga - viaplay
+DTSTART:20240928T132500
+DTEND:20240928T142500
+DTSTAMP:20240928T132500Z
+UID:2024-09-28T13:25:00/Wolfsburg - Stuttgart
+DESCRIPTION:Wolfsburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Augsburg - Bundesliga - viaplay
@@ -104,14 +72,6 @@ DTEND:20240928T142500
 DTSTAMP:20240928T132500Z
 UID:2024-09-28T13:25:00/Leipzig - Augsburg
 DESCRIPTION:Leipzig - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - Stuttgart - Bundesliga - viaplay
-DTSTART:20240928T132500
-DTEND:20240928T142500
-DTSTAMP:20240928T132500Z
-UID:2024-09-28T13:25:00/Wolfsburg - Stuttgart
-DESCRIPTION:Wolfsburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Bayer Leverkusen - Bundesliga - stod2vodasport
@@ -128,5 +88,29 @@ DTEND:20240928T172000
 DTSTAMP:20240928T162000Z
 UID:2024-09-28T16:20:00/Bayern München - Leverkusen
 DESCRIPTION:Bayern München - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bietigheim - Gummersbach - Bundesliga - viaplay
+DTSTART:20240929T125500
+DTEND:20240929T135500
+DTSTAMP:20240929T125500Z
+UID:2024-09-29T12:55:00/Bietigheim - Gummersbach
+DESCRIPTION:Bietigheim - Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Eintracht Frankfurt - Bundesliga - viaplay
+DTSTART:20240929T132000
+DTEND:20240929T142000
+DTSTAMP:20240929T132000Z
+UID:2024-09-29T13:20:00/Holstein Kiel - Eintracht Frankfurt
+DESCRIPTION:Holstein Kiel - Eintracht Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Werder Bremen - Bundesliga - viaplay
+DTSTART:20240929T152000
+DTEND:20240929T162000
+DTSTAMP:20240929T152000Z
+UID:2024-09-29T15:20:00/Hoffenheim - Werder Bremen
+DESCRIPTION:Hoffenheim - Werder Bremen - Bundesliga
 END:VEVENT
 END:VCALENDAR
