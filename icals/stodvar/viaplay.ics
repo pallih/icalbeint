@@ -34,12 +34,12 @@ UID:2024-09-24T01:05:00/Utah - Los Angeles
 DESCRIPTION:Utah - Los Angeles - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Barrow - Carabao Cup - viaplay
+SUMMARY:Man City - Watford - Carabao Cup - viaplay
 DTSTART:20240924T184000
 DTEND:20240924T194000
 DTSTAMP:20240924T184000Z
-UID:2024-09-24T18:40:00/Chelsea - Barrow
-DESCRIPTION:Chelsea - Barrow - Carabao Cup
+UID:2024-09-24T18:40:00/Man City - Watford
+DESCRIPTION:Man City - Watford - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Walsall - Leicester - Carabao Cup - viaplay
@@ -50,12 +50,12 @@ UID:2024-09-24T18:40:00/Walsall - Leicester
 DESCRIPTION:Walsall - Leicester - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man City - Watford - Carabao Cup - viaplay
+SUMMARY:Chelsea - Barrow - Carabao Cup - viaplay
 DTSTART:20240924T184000
 DTEND:20240924T194000
 DTSTAMP:20240924T184000Z
-UID:2024-09-24T18:40:00/Man City - Watford
-DESCRIPTION:Man City - Watford - Carabao Cup
+UID:2024-09-24T18:40:00/Chelsea - Barrow
+DESCRIPTION:Chelsea - Barrow - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wycombe - Aston Villa - Carabao Cup - viaplay
@@ -186,12 +186,12 @@ UID:2024-09-26T18:50:00/Tottenham - Qarabağ
 DESCRIPTION:Tottenham - Qarabağ - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Viktoria Plzeň - UEFA Europa League - viaplay
+SUMMARY:Lyon - Olympiakos - UEFA Europa League - viaplay
 DTSTART:20240926T185500
 DTEND:20240926T195500
 DTSTAMP:20240926T185500Z
-UID:2024-09-26T18:55:00/Frankfurt - Viktoria Plzeň
-DESCRIPTION:Frankfurt - Viktoria Plzeň - UEFA Europa League
+UID:2024-09-26T18:55:00/Lyon - Olympiakos
+DESCRIPTION:Lyon - Olympiakos - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braga - Maccabi Tel Aviv - UEFA Europa League - viaplay
@@ -202,20 +202,20 @@ UID:2024-09-26T18:55:00/Braga - Maccabi Tel Aviv
 DESCRIPTION:Braga - Maccabi Tel Aviv - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lyon - Olympiakos - UEFA Europa League - viaplay
-DTSTART:20240926T185500
-DTEND:20240926T195500
-DTSTAMP:20240926T185500Z
-UID:2024-09-26T18:55:00/Lyon - Olympiakos
-DESCRIPTION:Lyon - Olympiakos - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FCSB - Rīgas FS - UEFA Europa League - viaplay
 DTSTART:20240926T185500
 DTEND:20240926T195500
 DTSTAMP:20240926T185500Z
 UID:2024-09-26T18:55:00/FCSB - Rīgas FS
 DESCRIPTION:FCSB - Rīgas FS - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Viktoria Plzeň - UEFA Europa League - viaplay
+DTSTART:20240926T185500
+DTEND:20240926T195500
+DTSTAMP:20240926T185500Z
+UID:2024-09-26T18:55:00/Frankfurt - Viktoria Plzeň
+DESCRIPTION:Frankfurt - Viktoria Plzeň - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto - Montreal - NHL - viaplay
@@ -475,20 +475,20 @@ UID:2024-09-28T10:55:00/HSV - Paderborn
 DESCRIPTION:HSV - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jahn Regensburg - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20240928T105500
-DTEND:20240928T115500
-DTSTAMP:20240928T105500Z
-UID:2024-09-28T10:55:00/Jahn Regensburg - Kaiserslautern
-DESCRIPTION:Jahn Regensburg - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darmstadt - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20240928T105500
 DTEND:20240928T115500
 DTSTAMP:20240928T105500Z
 UID:2024-09-28T10:55:00/Darmstadt - Magdeburg
 DESCRIPTION:Darmstadt - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahn Regensburg - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20240928T105500
+DTEND:20240928T115500
+DTSTAMP:20240928T105500Z
+UID:2024-09-28T10:55:00/Jahn Regensburg - Kaiserslautern
+DESCRIPTION:Jahn Regensburg - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swiss Darts Trophy - PDC Darts - viaplay
@@ -547,12 +547,30 @@ UID:2024-09-28T12:50:00/Trelleborg - Djurgården
 DESCRIPTION:Trelleborg - Djurgården - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barcelona (Kappakstur 1) - Formula Regional European Championship 
+ - viaplay
+DTSTART:20240928T125500
+DTEND:20240928T135500
+DTSTAMP:20240928T125500Z
+UID:2024-09-28T12:55:00/Barcelona (Kappakstur 1)
+DESCRIPTION:Barcelona (Kappakstur 1) - Formula Regional European Champions
+ hip
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Bull Ring (Kappakstur 1) - ADAC GT4 Masters - viaplay
 DTSTART:20240928T131000
 DTEND:20240928T141000
 DTSTAMP:20240928T131000Z
 UID:2024-09-28T13:10:00/Red Bull Ring (Kappakstur 1)
 DESCRIPTION:Red Bull Ring (Kappakstur 1) - ADAC GT4 Masters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - St. Pauli - Bundesliga - viaplay
+DTSTART:20240928T132000
+DTEND:20240928T142000
+DTSTAMP:20240928T132000Z
+UID:2024-09-28T13:20:00/Freiburg - St. Pauli
+DESCRIPTION:Freiburg - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -579,12 +597,12 @@ UID:2024-09-28T13:20:00/Mönchengladbach - Union Berlin
 DESCRIPTION:Mönchengladbach - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - St. Pauli - Bundesliga - viaplay
-DTSTART:20240928T132000
-DTEND:20240928T142000
-DTSTAMP:20240928T132000Z
-UID:2024-09-28T13:20:00/Freiburg - St. Pauli
-DESCRIPTION:Freiburg - St. Pauli - Bundesliga
+SUMMARY:Wolfsburg - Stuttgart - Bundesliga - viaplay
+DTSTART:20240928T132500
+DTEND:20240928T142500
+DTSTAMP:20240928T132500Z
+UID:2024-09-28T13:25:00/Wolfsburg - Stuttgart
+DESCRIPTION:Wolfsburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Augsburg - Bundesliga - viaplay
@@ -593,14 +611,6 @@ DTEND:20240928T142500
 DTSTAMP:20240928T132500Z
 UID:2024-09-28T13:25:00/Leipzig - Augsburg
 DESCRIPTION:Leipzig - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - Stuttgart - Bundesliga - viaplay
-DTSTART:20240928T132500
-DTEND:20240928T142500
-DTSTAMP:20240928T132500Z
-UID:2024-09-28T13:25:00/Wolfsburg - Stuttgart
-DESCRIPTION:Wolfsburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Mans Bugatti (Kappakstur 1) - FIA European Truck Racing Champio
@@ -704,20 +714,20 @@ UID:2024-09-28T18:40:00/Barnsley - Stockport
 DESCRIPTION:Barnsley - Stockport - League One
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kansas Speedway (Xfinity Series) - Nascar - viaplay
-DTSTART:20240928T190000
-DTEND:20240928T200000
-DTSTAMP:20240928T190000Z
-UID:2024-09-28T19:00:00/Kansas Speedway (Xfinity Series)
-DESCRIPTION:Kansas Speedway (Xfinity Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Moicano vs Saint Denis - UFC - viaplay
 DTSTART:20240928T190000
 DTEND:20240928T200000
 DTSTAMP:20240928T190000Z
 UID:2024-09-28T19:00:00/Moicano vs Saint Denis
 DESCRIPTION:Moicano vs Saint Denis - UFC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas Speedway (Xfinity Series) - Nascar - viaplay
+DTSTART:20240928T190000
+DTEND:20240928T200000
+DTSTAMP:20240928T190000Z
+UID:2024-09-28T19:00:00/Kansas Speedway (Xfinity Series)
+DESCRIPTION:Kansas Speedway (Xfinity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia - Boston - NHL - viaplay
@@ -780,6 +790,14 @@ UID:2024-09-29T09:00:00/Barcelona (Kappakstur 2)
 DESCRIPTION:Barcelona (Kappakstur 2) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Swiss Darts Trophy - PDC Darts - viaplay
+DTSTART:20240929T100000
+DTEND:20240929T110000
+DTSTAMP:20240929T100000Z
+UID:2024-09-29T10:00:00/Swiss Darts Trophy
+DESCRIPTION:Swiss Darts Trophy - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rangers - Hibernian - Scottish Premiership - viaplay
 DTSTART:20240929T105500
 DTEND:20240929T115500
@@ -788,28 +806,12 @@ UID:2024-09-29T10:55:00/Rangers - Hibernian
 DESCRIPTION:Rangers - Hibernian - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Swiss Darts Trophy - PDC Darts - viaplay
-DTSTART:20240929T110000
-DTEND:20240929T120000
-DTSTAMP:20240929T110000Z
-UID:2024-09-29T11:00:00/Swiss Darts Trophy
-DESCRIPTION:Swiss Darts Trophy - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Red Bull Ring (Kappakstur 2) - DTM - viaplay
 DTSTART:20240929T111500
 DTEND:20240929T121500
 DTSTAMP:20240929T111500Z
 UID:2024-09-29T11:15:00/Red Bull Ring (Kappakstur 2)
 DESCRIPTION:Red Bull Ring (Kappakstur 2) - DTM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20240929T112500
-DTEND:20240929T122500
-DTSTAMP:20240929T112500Z
-UID:2024-09-29T11:25:00/Hertha Berlin - Elversberg
-DESCRIPTION:Hertha Berlin - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover - Nürnberg - 2. Bundesliga - viaplay
@@ -826,6 +828,14 @@ DTEND:20240929T122500
 DTSTAMP:20240929T112500Z
 UID:2024-09-29T11:25:00/Köln - Karlsruher
 DESCRIPTION:Köln - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hertha Berlin - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20240929T112500
+DTEND:20240929T122500
+DTSTAMP:20240929T112500Z
+UID:2024-09-29T11:25:00/Hertha Berlin - Elversberg
+DESCRIPTION:Hertha Berlin - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open de Espanã - DP World Tour - viaplay
@@ -886,6 +896,16 @@ UID:2024-09-29T13:55:00/Swansea - Bristol City
 DESCRIPTION:Swansea - Bristol City - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barcelona (Kappakstur 2) - Formula Regional European Championship 
+ - viaplay
+DTSTART:20240929T141000
+DTEND:20240929T151000
+DTSTAMP:20240929T141000Z
+UID:2024-09-29T14:10:00/Barcelona (Kappakstur 2)
+DESCRIPTION:Barcelona (Kappakstur 2) - Formula Regional European Champions
+ hip
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Le Mans Bugatti (Kappakstur 4) - FIA European Truck Racing Champio
  nship - viaplay
 DTSTART:20240929T143000
@@ -930,10 +950,10 @@ DESCRIPTION:Hoffenheim - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swiss Darts Trophy - PDC Darts - viaplay
-DTSTART:20240929T170000
-DTEND:20240929T180000
-DTSTAMP:20240929T170000Z
-UID:2024-09-29T17:00:00/Swiss Darts Trophy
+DTSTART:20240929T160000
+DTEND:20240929T170000
+DTSTAMP:20240929T160000Z
+UID:2024-09-29T16:00:00/Swiss Darts Trophy
 DESCRIPTION:Swiss Darts Trophy - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
