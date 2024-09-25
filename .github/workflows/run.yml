@@ -3,7 +3,7 @@ name: Generate .ics files
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 8-17 * * *"
+    - cron: "30 12 * * *"
 
 jobs:
   generate-ics:
