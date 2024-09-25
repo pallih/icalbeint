@@ -26,20 +26,20 @@ UID:2024-09-26T19:00:00/ÍBV - Fjölnir
 DESCRIPTION:ÍBV - Fjölnir - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Afturelding - Olís deild karla - hsi1
-DTSTART:20240926T193000
-DTEND:20240926T203000
-DTSTAMP:20240926T193000Z
-UID:2024-09-26T19:30:00/ÍR - Afturelding
-DESCRIPTION:ÍR - Afturelding - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HK - Grótta - Olís deild karla - hsi1
 DTSTART:20240926T193000
 DTEND:20240926T203000
 DTSTAMP:20240926T193000Z
 UID:2024-09-26T19:30:00/HK - Grótta
 DESCRIPTION:HK - Grótta - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Afturelding - Olís deild karla - hsi1
+DTSTART:20240926T193000
+DTEND:20240926T203000
+DTSTAMP:20240926T193000Z
+UID:2024-09-26T19:30:00/ÍR - Afturelding
+DESCRIPTION:ÍR - Afturelding - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olís deild karla - Olís deild karla - sjonvarpsimans
@@ -50,20 +50,20 @@ UID:2024-09-27T19:20:00/Olís deild karla
 DESCRIPTION:Olís deild karla - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - Haukar - Olís deild karla - hsi1
-DTSTART:20240927T193000
-DTEND:20240927T203000
-DTSTAMP:20240927T193000Z
-UID:2024-09-27T19:30:00/Fram - Haukar
-DESCRIPTION:Fram - Haukar - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - FH - Olís deild karla - hsi1
 DTSTART:20240927T193000
 DTEND:20240927T203000
 DTSTAMP:20240927T193000Z
 UID:2024-09-27T19:30:00/Stjarnan - FH
 DESCRIPTION:Stjarnan - FH - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Haukar - Olís deild karla - hsi1
+DTSTART:20240927T193000
+DTEND:20240927T203000
+DTSTAMP:20240927T193000Z
+UID:2024-09-27T19:30:00/Fram - Haukar
+DESCRIPTION:Fram - Haukar - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Man. City - Enska úrvalsdeildin - siminnsport
@@ -80,6 +80,14 @@ DTEND:20240928T143000
 DTSTAMP:20240928T133000Z
 UID:2024-09-28T13:30:00/Arsenal - Leicester
 DESCRIPTION:Arsenal - Leicester - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest - Fulham - Enska úrvalsdeildin - siminnsport5
+DTSTART:20240928T135000
+DTEND:20240928T145000
+DTSTAMP:20240928T135000Z
+UID:2024-09-28T13:50:00/Nottingham Forest - Fulham
+DESCRIPTION:Nottingham Forest - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Brighton - Enska úrvalsdeildin - siminnsport2
@@ -104,14 +112,6 @@ DTEND:20240928T145000
 DTSTAMP:20240928T135000Z
 UID:2024-09-28T13:50:00/Everton - Crystal Palace
 DESCRIPTION:Everton - Crystal Palace - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nottingham Forest - Fulham - Enska úrvalsdeildin - siminnsport5
-DTSTART:20240928T135000
-DTEND:20240928T145000
-DTSTAMP:20240928T135000Z
-UID:2024-09-28T13:50:00/Nottingham Forest - Fulham
-DESCRIPTION:Nottingham Forest - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Liverpool - Enska úrvalsdeildin - siminnsport
@@ -160,5 +160,13 @@ DTEND:20240930T193000
 DTSTAMP:20240930T183000Z
 UID:2024-09-30T18:30:00/Bournemouth - Southampton
 DESCRIPTION:Bournemouth - Southampton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20240930T210000
+DTEND:20240930T220000
+DTSTAMP:20240930T210000Z
+UID:2024-09-30T21:00:00/Völlurinn
+DESCRIPTION:Völlurinn - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR
