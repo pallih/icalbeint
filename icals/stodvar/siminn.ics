@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Valur - KA - Olís deild karla - hsi1
-DTSTART:20240925T180000
-DTEND:20240925T190000
-DTSTAMP:20240925T180000Z
-UID:2024-09-25T18:00:00/Valur - KA
-DESCRIPTION:Valur - KA - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spænski boltinn - LaLiga - Spænski boltinn - sjonvarpsimans
-DTSTART:20240925T185500
-DTEND:20240925T195500
-DTSTAMP:20240925T185500Z
-UID:2024-09-25T18:55:00/Spænski boltinn
-DESCRIPTION:Spænski boltinn - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - Fjölnir - Olís deild karla - hsi1
 DTSTART:20240926T190000
 DTEND:20240926T200000
@@ -50,20 +34,20 @@ UID:2024-09-27T19:20:00/Olís deild karla
 DESCRIPTION:Olís deild karla - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - FH - Olís deild karla - hsi1
-DTSTART:20240927T193000
-DTEND:20240927T203000
-DTSTAMP:20240927T193000Z
-UID:2024-09-27T19:30:00/Stjarnan - FH
-DESCRIPTION:Stjarnan - FH - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - Haukar - Olís deild karla - hsi1
 DTSTART:20240927T193000
 DTEND:20240927T203000
 DTSTAMP:20240927T193000Z
 UID:2024-09-27T19:30:00/Fram - Haukar
 DESCRIPTION:Fram - Haukar - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - FH - Olís deild karla - hsi1
+DTSTART:20240927T193000
+DTEND:20240927T203000
+DTSTAMP:20240927T193000Z
+UID:2024-09-27T19:30:00/Stjarnan - FH
+DESCRIPTION:Stjarnan - FH - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Man. City - Enska úrvalsdeildin - siminnsport
@@ -82,12 +66,12 @@ UID:2024-09-28T13:30:00/Arsenal - Leicester
 DESCRIPTION:Arsenal - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - West Ham - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Chelsea - Brighton - Enska úrvalsdeildin - siminnsport2
 DTSTART:20240928T135000
 DTEND:20240928T145000
 DTSTAMP:20240928T135000Z
-UID:2024-09-28T13:50:00/Brentford - West Ham
-DESCRIPTION:Brentford - West Ham - Enska úrvalsdeildin
+UID:2024-09-28T13:50:00/Chelsea - Brighton
+DESCRIPTION:Chelsea - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Crystal Palace - Enska úrvalsdeildin - siminnsport3
@@ -98,12 +82,12 @@ UID:2024-09-28T13:50:00/Everton - Crystal Palace
 DESCRIPTION:Everton - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Brighton - Enska úrvalsdeildin - siminnsport2
+SUMMARY:Brentford - West Ham - Enska úrvalsdeildin - siminnsport4
 DTSTART:20240928T135000
 DTEND:20240928T145000
 DTSTAMP:20240928T135000Z
-UID:2024-09-28T13:50:00/Chelsea - Brighton
-DESCRIPTION:Chelsea - Brighton - Enska úrvalsdeildin
+UID:2024-09-28T13:50:00/Brentford - West Ham
+DESCRIPTION:Brentford - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Fulham - Enska úrvalsdeildin - siminnsport5
@@ -168,5 +152,29 @@ DTEND:20240930T220000
 DTSTAMP:20240930T210000Z
 UID:2024-09-30T21:00:00/Völlurinn
 DESCRIPTION:Völlurinn - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Grótta - Olís deild kvenna - hsi1
+DTSTART:20241002T180000
+DTEND:20241002T190000
+DTSTAMP:20241002T180000Z
+UID:2024-10-02T18:00:00/Haukar - Grótta
+DESCRIPTION:Haukar - Grótta - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Valur - Olís deild kvenna - hsi1
+DTSTART:20241002T193000
+DTEND:20241002T203000
+DTSTAMP:20241002T193000Z
+UID:2024-10-02T19:30:00/Fram - Valur
+DESCRIPTION:Fram - Valur - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - HK - Olís deild karla - hsi1
+DTSTART:20241002T201500
+DTEND:20241002T211500
+DTSTAMP:20241002T201500Z
+UID:2024-10-02T20:15:00/Haukar - HK
+DESCRIPTION:Haukar - HK - Olís deild karla
 END:VEVENT
 END:VCALENDAR
