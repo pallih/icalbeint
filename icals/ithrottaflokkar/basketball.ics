@@ -2,24 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld - Upphitun - Bónus Körfuboltakvöld kve
- nna - Upphitun - stod2sport
-DTSTART:20240927T200000
-DTEND:20240927T210000
-DTSTAMP:20240927T200000Z
-UID:2024-09-27T20:00:00/Bónus Körfuboltakvöld - Upphitun
-DESCRIPTION:Bónus Körfuboltakvöld - Upphitun - Bónus Körfuboltakvöld
-  kvenna - Upphitun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Meistarakeppni kvenna: Keflavík - Þór Ak. - Meistarakeppni KK
- Í - stod2sport
+SUMMARY:Meistarakeppni kvenna: Keflavík - Þór Ak. - Meistarakeppni KKÍ
+  - stod2sport
 DTSTART:20240928T161500
 DTEND:20240928T171500
 DTSTAMP:20240928T161500Z
-UID:2024-09-28T16:15:00/ Meistarakeppni kvenna: Keflavík - Þór Ak.
-DESCRIPTION: Meistarakeppni kvenna: Keflavík - Þór Ak. - Meistarakeppni
-  KKÍ
+UID:2024-09-28T16:15:00/Meistarakeppni kvenna: Keflavík - Þór Ak.
+DESCRIPTION:Meistarakeppni kvenna: Keflavík - Þór Ak. - Meistarakeppni 
+ KKÍ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistarakeppni karla: Keflavík - Valur - Meistarakeppni KKÍ - st
@@ -31,14 +21,21 @@ UID:2024-09-28T19:00:00/Meistarakeppni karla: Keflavík - Valur
 DESCRIPTION:Meistarakeppni karla: Keflavík - Valur - Meistarakeppni KKÍ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld - Upphitun - Bónus Körfuboltakvöld - U
- pphitun - stod2sport
+SUMMARY:Bónus Körfuboltakvöld - Upphitun - Bónus deild karla - stod2sp
+ ort
 DTSTART:20240928T212000
 DTEND:20240928T222000
 DTSTAMP:20240928T212000Z
 UID:2024-09-28T21:20:00/Bónus Körfuboltakvöld - Upphitun
-DESCRIPTION:Bónus Körfuboltakvöld - Upphitun - Bónus Körfuboltakvöld
-  - Upphitun
+DESCRIPTION:Bónus Körfuboltakvöld - Upphitun - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Þór Ak. - Bónus deild kvenna - stod2besta02
+DTSTART:20241001T190500
+DTEND:20241001T200500
+DTSTAMP:20241001T190500Z
+UID:2024-10-01T19:05:00/Valur - Þór Ak.
+DESCRIPTION:Valur - Þór Ak. - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Njarðvík - Grindavík - Bónus deild kvenna - stod2sport
@@ -55,14 +52,6 @@ DTEND:20241001T200500
 DTSTAMP:20241001T190500Z
 UID:2024-10-01T19:05:00/Haukar - Hamar/Þór
 DESCRIPTION:Haukar - Hamar/Þór - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Þór Ak. - Bónus deild kvenna - stod2besta02
-DTSTART:20241001T190500
-DTEND:20241001T200500
-DTSTAMP:20241001T190500Z
-UID:2024-10-01T19:05:00/Valur - Þór Ak.
-DESCRIPTION:Valur - Þór Ak. - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Keflavík - Bónus deild kvenna - stod2sport
@@ -89,20 +78,20 @@ UID:2024-10-02T21:10:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónusdeild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
-DTSTART:20241003T190000
-DTEND:20241003T200000
-DTSTAMP:20241003T190000Z
-UID:2024-10-03T19:00:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór Þ. - Njarðvík - Bónus deild karla - stod2sport5
 DTSTART:20241003T190000
 DTEND:20241003T200000
 DTSTAMP:20241003T190000Z
 UID:2024-10-03T19:00:00/Þór Þ. - Njarðvík
 DESCRIPTION:Þór Þ. - Njarðvík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
+DTSTART:20241003T190000
+DTEND:20241003T200000
+DTSTAMP:20241003T190000Z
+UID:2024-10-03T19:00:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Álftanes - Keflavík - Bónus deild karla - stod2besta01
@@ -127,5 +116,29 @@ DTEND:20241003T221000
 DTSTAMP:20241003T211000Z
 UID:2024-10-03T21:10:00/Tilþrifin
 DESCRIPTION:Tilþrifin - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Valur - Bónus deild karla - stod2sport5
+DTSTART:20241004T185000
+DTEND:20241004T195000
+DTSTAMP:20241004T185000Z
+UID:2024-10-04T18:50:00/Stjarnan - Valur
+DESCRIPTION:Stjarnan - Valur - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - ÍR - Bónus deild karla - stod2sport
+DTSTART:20241004T201000
+DTEND:20241004T211000
+DTSTAMP:20241004T201000Z
+UID:2024-10-04T20:10:00/Grindavík - ÍR
+DESCRIPTION:Grindavík - ÍR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónusdeild karla - stod2sport
+DTSTART:20241004T221000
+DTEND:20241004T231000
+DTSTAMP:20241004T221000Z
+UID:2024-10-04T22:10:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónusdeild karla
 END:VEVENT
 END:VCALENDAR

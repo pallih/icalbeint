@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Eisenach - Flensburg-Handevitt - Bundesliga - viaplay
-DTSTART:20240927T175500
-DTEND:20240927T185500
-DTSTAMP:20240927T175500Z
-UID:2024-09-27T17:55:00/Eisenach - Flensburg-Handevitt
-DESCRIPTION:Eisenach - Flensburg-Handevitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Bochum - Bundesliga - viaplay
-DTSTART:20240927T182000
-DTEND:20240927T192000
-DTSTAMP:20240927T182000Z
-UID:2024-09-27T18:20:00/Dortmund - Bochum
-DESCRIPTION:Dortmund - Bochum - Bundesliga
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20240928T132000
+DTEND:20240928T142000
+DTSTAMP:20240928T132000Z
+UID:2024-09-28T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Augsburg - Bundesliga - viaplay
@@ -50,14 +42,6 @@ UID:2024-09-28T13:20:00/Mönchengladbach - Union Berlin
 DESCRIPTION:Mönchengladbach - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20240928T132000
-DTEND:20240928T142000
-DTSTAMP:20240928T132000Z
-UID:2024-09-28T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolfsburg - Stuttgart - Bundesliga - viaplay
 DTSTART:20240928T132000
 DTEND:20240928T142000
@@ -66,20 +50,20 @@ UID:2024-09-28T13:20:00/Wolfsburg - Stuttgart
 DESCRIPTION:Wolfsburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Leverkusen - Bundesliga - viaplay
-DTSTART:20240928T162000
-DTEND:20240928T172000
-DTSTAMP:20240928T162000Z
-UID:2024-09-28T16:20:00/Bayern München - Leverkusen
-DESCRIPTION:Bayern München - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Bayer Leverkusen - Bundesliga - stod2vodasport
 DTSTART:20240928T162000
 DTEND:20240928T172000
 DTSTAMP:20240928T162000Z
 UID:2024-09-28T16:20:00/Bayern München - Bayer Leverkusen
 DESCRIPTION:Bayern München - Bayer Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Leverkusen - Bundesliga - viaplay
+DTSTART:20240928T162000
+DTEND:20240928T172000
+DTSTAMP:20240928T162000Z
+UID:2024-09-28T16:20:00/Bayern München - Leverkusen
+DESCRIPTION:Bayern München - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Leverkusen (Tactical feed) - Bundesliga - viapla
@@ -113,5 +97,13 @@ DTEND:20240929T162000
 DTSTAMP:20240929T152000Z
 UID:2024-09-29T15:20:00/Hoffenheim - Werder Bremen
 DESCRIPTION:Hoffenheim - Werder Bremen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20241004T182000
+DTEND:20241004T192000
+DTSTAMP:20241004T182000Z
+UID:2024-10-04T18:20:00/Augsburg - Mönchengladbach
+DESCRIPTION:Augsburg - Mönchengladbach - Bundesliga
 END:VEVENT
 END:VCALENDAR

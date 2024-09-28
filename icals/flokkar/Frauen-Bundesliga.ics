@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Hoffenheim - Frauen-Bundesliga - viaplay
-DTSTART:20240927T162500
-DTEND:20240927T172500
-DTSTAMP:20240927T162500Z
-UID:2024-09-27T16:25:00/Leverkusen - Hoffenheim
-DESCRIPTION:Leverkusen - Hoffenheim - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Köln - Freiburg - Frauen-Bundesliga - viaplay
 DTSTART:20240928T095500
 DTEND:20240928T105500
@@ -32,5 +24,13 @@ DTEND:20240929T155500
 DTSTAMP:20240929T145500Z
 UID:2024-09-29T14:55:00/Frankfurt - Wolfsburg
 DESCRIPTION:Frankfurt - Wolfsburg - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Leipzig - Frauen-Bundesliga - viaplay
+DTSTART:20241004T162500
+DTEND:20241004T172500
+DTSTAMP:20241004T162500Z
+UID:2024-10-04T16:25:00/Wolfsburg - Leipzig
+DESCRIPTION:Wolfsburg - Leipzig - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR
