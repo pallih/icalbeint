@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Ipswich - Aston Villa - Enska úrvalsdeildin - siminnsport
-DTSTART:20240929T123000
-DTEND:20240929T133000
-DTSTAMP:20240929T123000Z
-UID:2024-09-29T12:30:00/Ipswich - Aston Villa
-DESCRIPTION:Ipswich - Aston Villa - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. Utd. - Tottenham - Enska úrvalsdeildin - siminnsport
-DTSTART:20240929T150000
-DTEND:20240929T160000
-DTSTAMP:20240929T150000Z
-UID:2024-09-29T15:00:00/Man. Utd. - Tottenham
-DESCRIPTION:Man. Utd. - Tottenham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spænski boltinn - LaLiga - Spænski boltinn - sjonvarpsimans
-DTSTART:20240929T185500
-DTEND:20240929T195500
-DTSTAMP:20240929T185500Z
-UID:2024-09-29T18:55:00/Spænski boltinn
-DESCRIPTION:Spænski boltinn - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bournemouth - Southampton - Enska úrvalsdeildin - siminnsport
 DTSTART:20240930T183000
 DTEND:20240930T193000
@@ -74,20 +50,20 @@ UID:2024-10-02T20:15:00/Haukar - HK
 DESCRIPTION:Haukar - HK - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KA - ÍR - Olís deild karla - hsi1
-DTSTART:20241003T183000
-DTEND:20241003T193000
-DTSTAMP:20241003T183000Z
-UID:2024-10-03T18:30:00/KA - ÍR
-DESCRIPTION:KA - ÍR - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grótta - ÍBV - Olís deild karla - hsi1
 DTSTART:20241003T183000
 DTEND:20241003T193000
 DTSTAMP:20241003T183000Z
 UID:2024-10-03T18:30:00/Grótta - ÍBV
 DESCRIPTION:Grótta - ÍBV - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KA - ÍR - Olís deild karla - hsi1
+DTSTART:20241003T183000
+DTEND:20241003T193000
+DTSTAMP:20241003T183000Z
+UID:2024-10-03T18:30:00/KA - ÍR
+DESCRIPTION:KA - ÍR - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olís deild karla - Olís deild karla - sjonvarpsimans
@@ -98,14 +74,6 @@ UID:2024-10-03T19:20:00/Olís deild karla
 DESCRIPTION:Olís deild karla - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afturelding - Fram - Olís deild karla - hsi1
-DTSTART:20241003T193000
-DTEND:20241003T203000
-DTSTAMP:20241003T193000Z
-UID:2024-10-03T19:30:00/Afturelding - Fram
-DESCRIPTION:Afturelding - Fram - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Valur - Olís deild karla - hsi1
 DTSTART:20241003T193000
 DTEND:20241003T203000
@@ -114,12 +82,12 @@ UID:2024-10-03T19:30:00/FH - Valur
 DESCRIPTION:FH - Valur - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
-DTSTART:20241004T184000
-DTEND:20241004T194000
-DTSTAMP:20241004T184000Z
-UID:2024-10-04T18:40:00/Ítalski boltinn
-DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
+SUMMARY:Afturelding - Fram - Olís deild karla - hsi1
+DTSTART:20241003T193000
+DTEND:20241003T203000
+DTSTAMP:20241003T193000Z
+UID:2024-10-03T19:30:00/Afturelding - Fram
+DESCRIPTION:Afturelding - Fram - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Selfoss - ÍR - Olís deild kvenna - hsi1
@@ -162,12 +130,12 @@ UID:2024-10-05T13:30:00/Arsenal - Southampton
 DESCRIPTION:Arsenal - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Wolves - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Man. City - Fulham - Enska úrvalsdeildin - siminnsport2
 DTSTART:20241005T135000
 DTEND:20241005T145000
 DTSTAMP:20241005T135000Z
-UID:2024-10-05T13:50:00/Brentford - Wolves
-DESCRIPTION:Brentford - Wolves - Enska úrvalsdeildin
+UID:2024-10-05T13:50:00/Man. City - Fulham
+DESCRIPTION:Man. City - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Ipswich - Enska úrvalsdeildin - siminnsport3
@@ -178,12 +146,12 @@ UID:2024-10-05T13:50:00/West Ham - Ipswich
 DESCRIPTION:West Ham - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. City - Fulham - Enska úrvalsdeildin - siminnsport2
+SUMMARY:Brentford - Wolves - Enska úrvalsdeildin - siminnsport4
 DTSTART:20241005T135000
 DTEND:20241005T145000
 DTSTAMP:20241005T135000Z
-UID:2024-10-05T13:50:00/Man. City - Fulham
-DESCRIPTION:Man. City - Fulham - Enska úrvalsdeildin
+UID:2024-10-05T13:50:00/Brentford - Wolves
+DESCRIPTION:Brentford - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leicester - Bournemouth - Enska úrvalsdeildin - siminnsport5
@@ -208,5 +176,37 @@ DTEND:20241005T173000
 DTSTAMP:20241005T163000Z
 UID:2024-10-05T16:30:00/Stjarnan - ÍBV
 DESCRIPTION:Stjarnan - ÍBV - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spænski boltinn - LaLiga - Spænski boltinn - sjonvarpsimans
+DTSTART:20241005T185500
+DTEND:20241005T195500
+DTSTAMP:20241005T185500Z
+UID:2024-10-05T18:55:00/Spænski boltinn
+DESCRIPTION:Spænski boltinn - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Man. Utd. - Enska úrvalsdeildin - siminnsport
+DTSTART:20241006T123000
+DTEND:20241006T133000
+DTSTAMP:20241006T123000Z
+UID:2024-10-06T12:30:00/Aston Villa - Man. Utd.
+DESCRIPTION:Aston Villa - Man. Utd. - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Nottingham Forest - Enska úrvalsdeildin - siminnsport2
+DTSTART:20241006T125000
+DTEND:20241006T135000
+DTSTAMP:20241006T125000Z
+UID:2024-10-06T12:50:00/Chelsea - Nottingham Forest
+DESCRIPTION:Chelsea - Nottingham Forest - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - Tottenham - Enska úrvalsdeildin - siminnsport
+DTSTART:20241006T150000
+DTEND:20241006T160000
+DTSTAMP:20241006T150000Z
+UID:2024-10-06T15:00:00/Brighton - Tottenham
+DESCRIPTION:Brighton - Tottenham - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR

@@ -2,36 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Bietigheim - Gummersbach - Bundesliga - viaplay
-DTSTART:20240929T125500
-DTEND:20240929T135500
-DTSTAMP:20240929T125500Z
-UID:2024-09-29T12:55:00/Bietigheim - Gummersbach
-DESCRIPTION:Bietigheim - Gummersbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Eintracht Frankfurt - Bundesliga - viaplay
-DTSTART:20240929T132000
-DTEND:20240929T142000
-DTSTAMP:20240929T132000Z
-UID:2024-09-29T13:20:00/Holstein Kiel - Eintracht Frankfurt
-DESCRIPTION:Holstein Kiel - Eintracht Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Werder Bremen - Bundesliga - viaplay
-DTSTART:20240929T152000
-DTEND:20240929T162000
-DTSTAMP:20240929T152000Z
-UID:2024-09-29T15:20:00/Hoffenheim - Werder Bremen
-DESCRIPTION:Hoffenheim - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Augsburg - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20241004T182000
 DTEND:20241004T192000
 DTSTAMP:20241004T182000Z
 UID:2024-10-04T18:20:00/Augsburg - Mönchengladbach
 DESCRIPTION:Augsburg - Mönchengladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Holstein Kiel - Bundesliga - viaplay
+DTSTART:20241005T132000
+DTEND:20241005T142000
+DTSTAMP:20241005T132000Z
+UID:2024-10-05T13:20:00/Leverkusen - Holstein Kiel
+DESCRIPTION:Leverkusen - Holstein Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum - Wolfsburg - Bundesliga - viaplay
+DTSTART:20241005T132000
+DTEND:20241005T142000
+DTSTAMP:20241005T132000Z
+UID:2024-10-05T13:20:00/Bochum - Wolfsburg
+DESCRIPTION:Bochum - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -50,20 +42,12 @@ UID:2024-10-05T13:20:00/Werder Bremen - Freiburg
 DESCRIPTION:Werder Bremen - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Wolfsburg - Bundesliga - viaplay
-DTSTART:20241005T132000
-DTEND:20241005T142000
-DTSTAMP:20241005T132000Z
-UID:2024-10-05T13:20:00/Bochum - Wolfsburg
-DESCRIPTION:Bochum - Wolfsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leverkusen - Holstein Kiel - Bundesliga - viaplay
-DTSTART:20241005T132000
-DTEND:20241005T142000
-DTSTAMP:20241005T132000Z
-UID:2024-10-05T13:20:00/Leverkusen - Holstein Kiel
-DESCRIPTION:Leverkusen - Holstein Kiel - Bundesliga
+SUMMARY:Bayer Leverkusen - Holstein Kiel - Bundesliga - stod2vodasport
+DTSTART:20241005T132500
+DTEND:20241005T142500
+DTSTAMP:20241005T132500Z
+UID:2024-10-05T13:25:00/Bayer Leverkusen - Holstein Kiel
+DESCRIPTION:Bayer Leverkusen - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Dortmund - Bundesliga - viaplay
@@ -72,14 +56,6 @@ DTEND:20241005T142500
 DTSTAMP:20241005T132500Z
 UID:2024-10-05T13:25:00/Union Berlin - Dortmund
 DESCRIPTION:Union Berlin - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayer Leverkusen - Holstein Kiel - Bundesliga - stod2vodasport
-DTSTART:20241005T132500
-DTEND:20241005T142500
-DTSTAMP:20241005T132500Z
-UID:2024-10-05T13:25:00/Bayer Leverkusen - Holstein Kiel
-DESCRIPTION:Bayer Leverkusen - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Mainz - Bundesliga - viaplay
@@ -96,5 +72,37 @@ DTEND:20241005T175500
 DTSTAMP:20241005T165500Z
 UID:2024-10-05T16:55:00/Kiel - Stuttgart
 DESCRIPTION:Kiel - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Leipzig - Bundesliga - viaplay
+DTSTART:20241006T132000
+DTEND:20241006T142000
+DTSTAMP:20241006T132000Z
+UID:2024-10-06T13:20:00/Heidenheim - Leipzig
+DESCRIPTION:Heidenheim - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Bayern München - Bundesliga - viaplay
+DTSTART:20241006T152000
+DTEND:20241006T162000
+DTSTAMP:20241006T152000Z
+UID:2024-10-06T15:20:00/Frankfurt - Bayern München
+DESCRIPTION:Frankfurt - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gummersbach - Flensburg-Handewitt - Bundesliga - viaplay
+DTSTART:20241006T155500
+DTEND:20241006T165500
+DTSTAMP:20241006T155500Z
+UID:2024-10-06T15:55:00/Gummersbach - Flensburg-Handewitt
+DESCRIPTION:Gummersbach - Flensburg-Handewitt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Hoffenheim - Bundesliga - viaplay
+DTSTART:20241006T172000
+DTEND:20241006T182000
+DTSTAMP:20241006T172000Z
+UID:2024-10-06T17:20:00/Stuttgart - Hoffenheim
+DESCRIPTION:Stuttgart - Hoffenheim - Bundesliga
 END:VEVENT
 END:VCALENDAR
