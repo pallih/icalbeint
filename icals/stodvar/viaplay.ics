@@ -3,51 +3,19 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
 SUMMARY:Paris Major - Premier Padel - viaplay
-DTSTART:20240930T083000
-DTEND:20240930T093000
-DTSTAMP:20240930T083000Z
-UID:2024-09-30T08:30:00/Paris Major
-DESCRIPTION:Paris Major - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Häcken - Växjö - OBOS Damallsvenskan - viaplay
-DTSTART:20240930T155000
-DTEND:20240930T165000
-DTSTAMP:20240930T155000Z
-UID:2024-09-30T15:50:00/Häcken - Växjö
-DESCRIPTION:Häcken - Växjö - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hammarby - KIF Örebro - OBOS Damallsvenskan - viaplay
-DTSTART:20240930T165000
-DTEND:20240930T175000
-DTSTAMP:20240930T165000Z
-UID:2024-09-30T16:50:00/Hammarby - KIF Örebro
-DESCRIPTION:Hammarby - KIF Örebro - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piteå - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20240930T165500
-DTEND:20240930T175500
-DTSTAMP:20240930T165500Z
-UID:2024-09-30T16:55:00/Piteå - Rosengård
-DESCRIPTION:Piteå - Rosengård - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florida - Tampa Bay - NHL - viaplay
-DTSTART:20240930T230500
-DTEND:20241001T000500
-DTSTAMP:20240930T230500Z
-UID:2024-09-30T23:05:00/Florida - Tampa Bay
-DESCRIPTION:Florida - Tampa Bay - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris Major - Premier Padel - viaplay
 DTSTART:20241001T090000
 DTEND:20241001T100000
 DTSTAMP:20241001T090000Z
 UID:2024-10-01T09:00:00/Paris Major
 DESCRIPTION:Paris Major - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20241001T100000
+DTEND:20241001T110000
+DTSTAMP:20241001T100000Z
+UID:2024-10-01T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Milan - UEFA Youth League - viaplay
@@ -90,12 +58,12 @@ UID:2024-10-01T18:40:00/Newcastle - AFC Wimbledon
 DESCRIPTION:Newcastle - AFC Wimbledon - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Milan - Champions League - viaplay
+SUMMARY:Arsenal - PSG - Champions League - viaplay
 DTSTART:20241001T185000
 DTEND:20241001T195000
 DTSTAMP:20241001T185000Z
-UID:2024-10-01T18:50:00/Leverkusen - Milan
-DESCRIPTION:Leverkusen - Milan - Champions League
+UID:2024-10-01T18:50:00/Arsenal - PSG
+DESCRIPTION:Arsenal - PSG - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Celtic - Champions League - viaplay
@@ -106,12 +74,12 @@ UID:2024-10-01T18:50:00/Dortmund - Celtic
 DESCRIPTION:Dortmund - Celtic - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - PSG - Champions League - viaplay
+SUMMARY:Leverkusen - Milan - Champions League - viaplay
 DTSTART:20241001T185000
 DTEND:20241001T195000
 DTSTAMP:20241001T185000Z
-UID:2024-10-01T18:50:00/Arsenal - PSG
-DESCRIPTION:Arsenal - PSG - Champions League
+UID:2024-10-01T18:50:00/Leverkusen - Milan
+DESCRIPTION:Leverkusen - Milan - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Brom - Middlesbrough - Championship - viaplay
@@ -146,6 +114,14 @@ UID:2024-10-02T09:00:00/Paris Major
 DESCRIPTION:Paris Major - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20241002T100000
+DTEND:20241002T110000
+DTSTAMP:20241002T100000Z
+UID:2024-10-02T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shaktar Donetsk - Atalanta - UEFA Youth League - viaplay
 DTSTART:20241002T115500
 DTEND:20241002T125500
@@ -162,15 +138,6 @@ UID:2024-10-02T13:55:00/Benfica - Atlético Madrid
 DESCRIPTION:Benfica - Atlético Madrid - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:İstanbul Başakşehir - Rapid - UEFA Europa Conference League - v
- iaplay
-DTSTART:20241002T142500
-DTEND:20241002T152500
-DTSTAMP:20241002T142500Z
-UID:2024-10-02T14:25:00/İstanbul Başakşehir - Rapid
-DESCRIPTION:İstanbul Başakşehir - Rapid - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vitória Guimarães - Celje - UEFA Europa Conference League - viap
  lay
 DTSTART:20241002T142500
@@ -178,6 +145,15 @@ DTEND:20241002T152500
 DTSTAMP:20241002T142500Z
 UID:2024-10-02T14:25:00/Vitória Guimarães - Celje
 DESCRIPTION:Vitória Guimarães - Celje - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:İstanbul Başakşehir - Rapid - UEFA Europa Conference League - v
+ iaplay
+DTSTART:20241002T142500
+DTEND:20241002T152500
+DTSTAMP:20241002T142500Z
+UID:2024-10-02T14:25:00/İstanbul Başakşehir - Rapid
+DESCRIPTION:İstanbul Başakşehir - Rapid - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Girona - Feyenoord - Champions League - viaplay
@@ -188,6 +164,14 @@ UID:2024-10-02T16:35:00/Girona - Feyenoord
 DESCRIPTION:Girona - Feyenoord - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lille - Real Madrid - Champions League - viaplay
+DTSTART:20241002T183000
+DTEND:20241002T193000
+DTSTAMP:20241002T183000Z
+UID:2024-10-02T18:30:00/Lille - Real Madrid
+DESCRIPTION:Lille - Real Madrid - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Instant Highlights - Champions League - viaplay
 DTSTART:20241002T183000
 DTEND:20241002T193000
@@ -196,28 +180,20 @@ UID:2024-10-02T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Benfica - Atlético Madrid - Champions League - viaplay
-DTSTART:20241002T185000
-DTEND:20241002T195000
-DTSTAMP:20241002T185000Z
-UID:2024-10-02T18:50:00/Benfica - Atlético Madrid
-DESCRIPTION:Benfica - Atlético Madrid - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lille - Real Madrid - Champions League - viaplay
-DTSTART:20241002T185000
-DTEND:20241002T195000
-DTSTAMP:20241002T185000Z
-UID:2024-10-02T18:50:00/Lille - Real Madrid
-DESCRIPTION:Lille - Real Madrid - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Bayern München - Champions League - viaplay
 DTSTART:20241002T185000
 DTEND:20241002T195000
 DTSTAMP:20241002T185000Z
 UID:2024-10-02T18:50:00/Aston Villa - Bayern München
 DESCRIPTION:Aston Villa - Bayern München - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benfica - Atlético Madrid - Champions League - viaplay
+DTSTART:20241002T185000
+DTEND:20241002T195000
+DTSTAMP:20241002T185000Z
+UID:2024-10-02T18:50:00/Benfica - Atlético Madrid
+DESCRIPTION:Benfica - Atlético Madrid - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sturm Graz - Club Brugge - Champions League - viaplay
@@ -260,6 +236,14 @@ UID:2024-10-03T09:00:00/Paris Major
 DESCRIPTION:Paris Major - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20241003T100000
+DTEND:20241003T110000
+DTSTAMP:20241003T100000Z
+UID:2024-10-03T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alfred Dunhill Links Championship - DP World Tour - viaplay
 DTSTART:20241003T110000
 DTEND:20241003T120000
@@ -276,12 +260,13 @@ UID:2024-10-03T16:35:00/Slavia Prag - Ajax
 DESCRIPTION:Slavia Prag - Ajax - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lazio - Nice - UEFA Europa League - viaplay
+SUMMARY:Cercle Brugge - St. Gallen - UEFA Europa Conference League - viapl
+ ay
 DTSTART:20241003T164000
 DTEND:20241003T174000
 DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Lazio - Nice
-DESCRIPTION:Lazio - Nice - UEFA Europa League
+UID:2024-10-03T16:40:00/Cercle Brugge - St. Gallen
+DESCRIPTION:Cercle Brugge - St. Gallen - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maccabi Tel Aviv - Midtjylland - UEFA Europa League - viaplay
@@ -292,69 +277,20 @@ UID:2024-10-03T16:40:00/Maccabi Tel Aviv - Midtjylland
 DESCRIPTION:Maccabi Tel Aviv - Midtjylland - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Olympiakos - Braga - UEFA Europa League - viaplay
+SUMMARY:Lazio - Nice - UEFA Europa League - viaplay
 DTSTART:20241003T164000
 DTEND:20241003T174000
 DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Olympiakos - Braga
-DESCRIPTION:Olympiakos - Braga - UEFA Europa League
+UID:2024-10-03T16:40:00/Lazio - Nice
+DESCRIPTION:Lazio - Nice - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qarabağ - Malmö FF - UEFA Europa League - viaplay
+SUMMARY:Molde - Larne - UEFA Europa Conference League - viaplay
 DTSTART:20241003T164000
 DTEND:20241003T174000
 DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Qarabağ - Malmö FF
-DESCRIPTION:Qarabağ - Malmö FF - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rīgas FS - Galatasaray - UEFA Europa League - viaplay
-DTSTART:20241003T164000
-DTEND:20241003T174000
-DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Rīgas FS - Galatasaray
-DESCRIPTION:Rīgas FS - Galatasaray - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Olimpija - UEFA Europa Conference League - viaplay
-DTSTART:20241003T164000
-DTEND:20241003T174000
-DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Heidenheim - Olimpija
-DESCRIPTION:Heidenheim - Olimpija - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cercle Brugge - St. Gallen - UEFA Europa Conference League - viapl
- ay
-DTSTART:20241003T164000
-DTEND:20241003T174000
-DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Cercle Brugge - St. Gallen
-DESCRIPTION:Cercle Brugge - St. Gallen - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Astana - TSC - UEFA Europa Conference League - viaplay
-DTSTART:20241003T164000
-DTEND:20241003T174000
-DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Astana - TSC
-DESCRIPTION:Astana - TSC - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinamo Minsk - Hearts - UEFA Europa Conference League - viaplay
-DTSTART:20241003T164000
-DTEND:20241003T174000
-DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Dinamo Minsk - Hearts
-DESCRIPTION:Dinamo Minsk - Hearts - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noah - Mladá Boleslav - UEFA Europa Conference League - viaplay
-DTSTART:20241003T164000
-DTEND:20241003T174000
-DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Noah - Mladá Boleslav
-DESCRIPTION:Noah - Mladá Boleslav - UEFA Europa Conference League
+UID:2024-10-03T16:40:00/Molde - Larne
+DESCRIPTION:Molde - Larne - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Legia Warszawa - Real Betis - UEFA Europa Conference League - viap
@@ -366,12 +302,36 @@ UID:2024-10-03T16:40:00/Legia Warszawa - Real Betis
 DESCRIPTION:Legia Warszawa - Real Betis - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Molde - Larne - UEFA Europa Conference League - viaplay
+SUMMARY:Noah - Mladá Boleslav - UEFA Europa Conference League - viaplay
 DTSTART:20241003T164000
 DTEND:20241003T174000
 DTSTAMP:20241003T164000Z
-UID:2024-10-03T16:40:00/Molde - Larne
-DESCRIPTION:Molde - Larne - UEFA Europa Conference League
+UID:2024-10-03T16:40:00/Noah - Mladá Boleslav
+DESCRIPTION:Noah - Mladá Boleslav - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinamo Minsk - Hearts - UEFA Europa Conference League - viaplay
+DTSTART:20241003T164000
+DTEND:20241003T174000
+DTSTAMP:20241003T164000Z
+UID:2024-10-03T16:40:00/Dinamo Minsk - Hearts
+DESCRIPTION:Dinamo Minsk - Hearts - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astana - TSC - UEFA Europa Conference League - viaplay
+DTSTART:20241003T164000
+DTEND:20241003T174000
+DTSTAMP:20241003T164000Z
+UID:2024-10-03T16:40:00/Astana - TSC
+DESCRIPTION:Astana - TSC - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Olimpija - UEFA Europa Conference League - viaplay
+DTSTART:20241003T164000
+DTEND:20241003T174000
+DTSTAMP:20241003T164000Z
+UID:2024-10-03T16:40:00/Heidenheim - Olimpija
+DESCRIPTION:Heidenheim - Olimpija - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Dynamo Kyiv - UEFA Europa League - viaplay
@@ -380,6 +340,30 @@ DTEND:20241003T174000
 DTSTAMP:20241003T164000Z
 UID:2024-10-03T16:40:00/Hoffenheim - Dynamo Kyiv
 DESCRIPTION:Hoffenheim - Dynamo Kyiv - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rīgas FS - Galatasaray - UEFA Europa League - viaplay
+DTSTART:20241003T164000
+DTEND:20241003T174000
+DTSTAMP:20241003T164000Z
+UID:2024-10-03T16:40:00/Rīgas FS - Galatasaray
+DESCRIPTION:Rīgas FS - Galatasaray - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qarabağ - Malmö FF - UEFA Europa League - viaplay
+DTSTART:20241003T164000
+DTEND:20241003T174000
+DTSTAMP:20241003T164000Z
+UID:2024-10-03T16:40:00/Qarabağ - Malmö FF
+DESCRIPTION:Qarabağ - Malmö FF - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiakos - Braga - UEFA Europa League - viaplay
+DTSTART:20241003T164000
+DTEND:20241003T174000
+DTSTAMP:20241003T164000Z
+UID:2024-10-03T16:40:00/Olympiakos - Braga
+DESCRIPTION:Olympiakos - Braga - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Al Okhdood - Al Ittihad - Saudi Pro League - viaplay
@@ -398,15 +382,6 @@ UID:2024-10-03T18:50:00/Porto - Man United
 DESCRIPTION:Porto - Man United - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fiorentina - The New Saints - UEFA Europa Conference League - viap
- lay
-DTSTART:20241003T185500
-DTEND:20241003T195500
-DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/Fiorentina - The New Saints
-DESCRIPTION:Fiorentina - The New Saints - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lugano - HJK - UEFA Europa Conference League - viaplay
 DTSTART:20241003T185500
 DTEND:20241003T195500
@@ -415,12 +390,68 @@ UID:2024-10-03T18:55:00/Lugano - HJK
 DESCRIPTION:Lugano - HJK - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Petrocub - Pafos - UEFA Europa Conference League - viaplay
+SUMMARY:Viktoria Plzeň - Ludogorets - UEFA Europa League - viaplay
 DTSTART:20241003T185500
 DTEND:20241003T195500
 DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/Petrocub - Pafos
-DESCRIPTION:Petrocub - Pafos - UEFA Europa Conference League
+UID:2024-10-03T18:55:00/Viktoria Plzeň - Ludogorets
+DESCRIPTION:Viktoria Plzeň - Ludogorets - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Saint-Gilloise - Bodø/Glimt - UEFA Europa League - viaplay
+DTSTART:20241003T185500
+DTEND:20241003T195500
+DTSTAMP:20241003T185500Z
+UID:2024-10-03T18:55:00/Union Saint-Gilloise - Bodø/Glimt
+DESCRIPTION:Union Saint-Gilloise - Bodø/Glimt - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAOK - FCSB - UEFA Europa League - viaplay
+DTSTART:20241003T185500
+DTEND:20241003T195500
+DTSTAMP:20241003T185500Z
+UID:2024-10-03T18:55:00/PAOK - FCSB
+DESCRIPTION:PAOK - FCSB - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twente - Fenerbahçe - UEFA Europa League - viaplay
+DTSTART:20241003T185500
+DTEND:20241003T195500
+DTSTAMP:20241003T185500Z
+UID:2024-10-03T18:55:00/Twente - Fenerbahçe
+DESCRIPTION:Twente - Fenerbahçe - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beşiktaş - Frankfurt - UEFA Europa League - viaplay
+DTSTART:20241003T185500
+DTEND:20241003T195500
+DTSTAMP:20241003T185500Z
+UID:2024-10-03T18:55:00/Beşiktaş - Frankfurt
+DESCRIPTION:Beşiktaş - Frankfurt - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Club - AZ Alkmaar - UEFA Europa League - viaplay
+DTSTART:20241003T185500
+DTEND:20241003T195500
+DTSTAMP:20241003T185500Z
+UID:2024-10-03T18:55:00/Athletic Club - AZ Alkmaar
+DESCRIPTION:Athletic Club - AZ Alkmaar - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shamrock Rovers - APOEL - UEFA Europa Conference League - viaplay
+DTSTART:20241003T185500
+DTEND:20241003T195500
+DTSTAMP:20241003T185500Z
+UID:2024-10-03T18:55:00/Shamrock Rovers - APOEL
+DESCRIPTION:Shamrock Rovers - APOEL - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LASK - Djurgården - UEFA Europa Conference League - viaplay
+DTSTART:20241003T185500
+DTEND:20241003T195500
+DTSTAMP:20241003T185500Z
+UID:2024-10-03T18:55:00/LASK - Djurgården
+DESCRIPTION:LASK - Djurgården - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Borac Banja Luka - Panathinaikos - UEFA Europa Conference League -
@@ -433,68 +464,12 @@ DESCRIPTION:Borac Banja Luka - Panathinaikos - UEFA Europa Conference Leag
  ue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LASK - Djurgården - UEFA Europa Conference League - viaplay
+SUMMARY:Petrocub - Pafos - UEFA Europa Conference League - viaplay
 DTSTART:20241003T185500
 DTEND:20241003T195500
 DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/LASK - Djurgården
-DESCRIPTION:LASK - Djurgården - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shamrock Rovers - APOEL - UEFA Europa Conference League - viaplay
-DTSTART:20241003T185500
-DTEND:20241003T195500
-DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/Shamrock Rovers - APOEL
-DESCRIPTION:Shamrock Rovers - APOEL - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Athletic Club - AZ Alkmaar - UEFA Europa League - viaplay
-DTSTART:20241003T185500
-DTEND:20241003T195500
-DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/Athletic Club - AZ Alkmaar
-DESCRIPTION:Athletic Club - AZ Alkmaar - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beşiktaş - Frankfurt - UEFA Europa League - viaplay
-DTSTART:20241003T185500
-DTEND:20241003T195500
-DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/Beşiktaş - Frankfurt
-DESCRIPTION:Beşiktaş - Frankfurt - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twente - Fenerbahçe - UEFA Europa League - viaplay
-DTSTART:20241003T185500
-DTEND:20241003T195500
-DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/Twente - Fenerbahçe
-DESCRIPTION:Twente - Fenerbahçe - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAOK - FCSB - UEFA Europa League - viaplay
-DTSTART:20241003T185500
-DTEND:20241003T195500
-DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/PAOK - FCSB
-DESCRIPTION:PAOK - FCSB - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Saint-Gilloise - Bodø/Glimt - UEFA Europa League - viaplay
-DTSTART:20241003T185500
-DTEND:20241003T195500
-DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/Union Saint-Gilloise - Bodø/Glimt
-DESCRIPTION:Union Saint-Gilloise - Bodø/Glimt - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viktoria Plzeň - Ludogorets - UEFA Europa League - viaplay
-DTSTART:20241003T185500
-DTEND:20241003T195500
-DTSTAMP:20241003T185500Z
-UID:2024-10-03T18:55:00/Viktoria Plzeň - Ludogorets
-DESCRIPTION:Viktoria Plzeň - Ludogorets - UEFA Europa League
+UID:2024-10-03T18:55:00/Petrocub - Pafos
+DESCRIPTION:Petrocub - Pafos - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Gent - UEFA Europa Conference League - viaplay
@@ -503,6 +478,15 @@ DTEND:20241003T195500
 DTSTAMP:20241003T185500Z
 UID:2024-10-03T18:55:00/Chelsea - Gent
 DESCRIPTION:Chelsea - Gent - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiorentina - The New Saints - UEFA Europa Conference League - viap
+ lay
+DTSTART:20241003T185500
+DTEND:20241003T195500
+DTSTAMP:20241003T185500Z
+UID:2024-10-03T18:55:00/Fiorentina - The New Saints
+DESCRIPTION:Fiorentina - The New Saints - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia - New Jersey - NHL - viaplay
@@ -569,6 +553,14 @@ UID:2024-10-04T05:50:00/Japanski Kappaksturinn (Æfing)
 DESCRIPTION:Japanski Kappaksturinn (Æfing) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20241004T100000
+DTEND:20241004T110000
+DTSTAMP:20241004T100000Z
+UID:2024-10-04T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paris Major - Premier Padel - viaplay
 DTSTART:20241004T110000
 DTEND:20241004T120000
@@ -601,20 +593,20 @@ UID:2024-10-04T16:25:00/Wolfsburg - Leipzig
 DESCRIPTION:Wolfsburg - Leipzig - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20241004T162500
-DTEND:20241004T172500
-DTSTAMP:20241004T162500Z
-UID:2024-10-04T16:25:00/Karlsruher - Darmstadt
-DESCRIPTION:Karlsruher - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paderborn - Jahn Regensburg - 2. Bundesliga - viaplay
 DTSTART:20241004T162500
 DTEND:20241004T172500
 DTSTAMP:20241004T162500Z
 UID:2024-10-04T16:25:00/Paderborn - Jahn Regensburg
 DESCRIPTION:Paderborn - Jahn Regensburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20241004T162500
+DTEND:20241004T172500
+DTSTAMP:20241004T162500Z
+UID:2024-10-04T16:25:00/Karlsruher - Darmstadt
+DESCRIPTION:Karlsruher - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linköping - Hammarby - OBOS Damallsvenskan - viaplay
@@ -631,6 +623,14 @@ DTEND:20241004T180500
 DTSTAMP:20241004T170500Z
 UID:2024-10-04T17:05:00/Buffalo - New Jersey
 DESCRIPTION:Buffalo - New Jersey - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA Nations League: Preview - UEFA Nations League - viaplay
+DTSTART:20241004T180000
+DTEND:20241004T190000
+DTSTAMP:20241004T180000Z
+UID:2024-10-04T18:00:00/UEFA Nations League: Preview
+DESCRIPTION:UEFA Nations League: Preview - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Augsburg - Mönchengladbach - Bundesliga - viaplay
@@ -729,12 +729,12 @@ UID:2024-10-05T05:35:00/Japanski Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Japanski Kappaksturinn (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köln - Ulm - 2. Bundesliga - viaplay
+SUMMARY:Nürnberg - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20241005T105500
 DTEND:20241005T115500
 DTSTAMP:20241005T105500Z
-UID:2024-10-05T10:55:00/Köln - Ulm
-DESCRIPTION:Köln - Ulm - 2. Bundesliga
+UID:2024-10-05T10:55:00/Nürnberg - Preußen Münster
+DESCRIPTION:Nürnberg - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Kaiserslautern - 2. Bundesliga - viaplay
@@ -745,12 +745,12 @@ UID:2024-10-05T10:55:00/Elversberg - Kaiserslautern
 DESCRIPTION:Elversberg - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Preußen Münster - 2. Bundesliga - viaplay
+SUMMARY:Köln - Ulm - 2. Bundesliga - viaplay
 DTSTART:20241005T105500
 DTEND:20241005T115500
 DTSTAMP:20241005T105500Z
-UID:2024-10-05T10:55:00/Nürnberg - Preußen Münster
-DESCRIPTION:Nürnberg - Preußen Münster - 2. Bundesliga
+UID:2024-10-05T10:55:00/Köln - Ulm
+DESCRIPTION:Köln - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alfred Dunhill Links Championship - DP World Tour - viaplay
@@ -759,6 +759,14 @@ DTEND:20241005T120000
 DTSTAMP:20241005T110000Z
 UID:2024-10-05T11:00:00/Alfred Dunhill Links Championship
 DESCRIPTION:Alfred Dunhill Links Championship - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20241005T110000
+DTEND:20241005T120000
+DTSTAMP:20241005T110000Z
+UID:2024-10-05T11:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burnley - Preston - Championship - viaplay
@@ -826,12 +834,12 @@ UID:2024-10-05T13:20:00/Leverkusen - Holstein Kiel
 DESCRIPTION:Leverkusen - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Wolfsburg - Bundesliga - viaplay
+SUMMARY:Werder Bremen - Freiburg - Bundesliga - viaplay
 DTSTART:20241005T132000
 DTEND:20241005T142000
 DTSTAMP:20241005T132000Z
-UID:2024-10-05T13:20:00/Bochum - Wolfsburg
-DESCRIPTION:Bochum - Wolfsburg - Bundesliga
+UID:2024-10-05T13:20:00/Werder Bremen - Freiburg
+DESCRIPTION:Werder Bremen - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -842,12 +850,12 @@ UID:2024-10-05T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Freiburg - Bundesliga - viaplay
+SUMMARY:Bochum - Wolfsburg - Bundesliga - viaplay
 DTSTART:20241005T132000
 DTEND:20241005T142000
 DTSTAMP:20241005T132000Z
-UID:2024-10-05T13:20:00/Werder Bremen - Freiburg
-DESCRIPTION:Werder Bremen - Freiburg - Bundesliga
+UID:2024-10-05T13:20:00/Bochum - Wolfsburg
+DESCRIPTION:Bochum - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Dortmund - Bundesliga - viaplay
@@ -1006,6 +1014,14 @@ UID:2024-10-06T06:35:00/Monza (Kappakstur 2)
 DESCRIPTION:Monza (Kappakstur 2) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20241006T100000
+DTEND:20241006T110000
+DTSTAMP:20241006T100000Z
+UID:2024-10-06T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alfred Dunhill Links Championship - DP World Tour - viaplay
 DTSTART:20241006T103000
 DTEND:20241006T113000
@@ -1039,12 +1055,12 @@ UID:2024-10-06T11:10:00/Jarama (Kappakstur 3)
 DESCRIPTION:Jarama (Kappakstur 3) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschweig - Hannover - 2. Bundesliga - viaplay
+SUMMARY:Düsseldorf - HSV - 2. Bundesliga - viaplay
 DTSTART:20241006T112500
 DTEND:20241006T122500
 DTSTAMP:20241006T112500Z
-UID:2024-10-06T11:25:00/Braunschweig - Hannover
-DESCRIPTION:Braunschweig - Hannover - 2. Bundesliga
+UID:2024-10-06T11:25:00/Düsseldorf - HSV
+DESCRIPTION:Düsseldorf - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magdeburg - Greuther Fürth - 2. Bundesliga - viaplay
@@ -1055,12 +1071,12 @@ UID:2024-10-06T11:25:00/Magdeburg - Greuther Fürth
 DESCRIPTION:Magdeburg - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - HSV - 2. Bundesliga - viaplay
+SUMMARY:Braunschweig - Hannover - 2. Bundesliga - viaplay
 DTSTART:20241006T112500
 DTEND:20241006T122500
 DTSTAMP:20241006T112500Z
-UID:2024-10-06T11:25:00/Düsseldorf - HSV
-DESCRIPTION:Düsseldorf - HSV - 2. Bundesliga
+UID:2024-10-06T11:25:00/Braunschweig - Hannover
+DESCRIPTION:Braunschweig - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris Major - Premier Padel - viaplay
@@ -1184,5 +1200,37 @@ DTSTAMP:20241006T205500Z
 UID:2024-10-06T20:55:00/Orlando Pride - Washington Spirit
 DESCRIPTION:Orlando Pride - Washington Spirit - National Women's Soccer Le
  ague
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20241007T100000
+DTEND:20241007T110000
+DTSTAMP:20241007T100000Z
+UID:2024-10-07T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Carl Zeiss Jena - Frauen-Bundesliga - viaplay
+DTSTART:20241007T155500
+DTEND:20241007T165500
+DTSTAMP:20241007T155500Z
+UID:2024-10-07T15:55:00/Leverkusen - Carl Zeiss Jena
+DESCRIPTION:Leverkusen - Carl Zeiss Jena - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhein-Neckar Löwen - Hamburg - Bundesliga - viaplay
+DTSTART:20241007T165500
+DTEND:20241007T175500
+DTSTAMP:20241007T165500Z
+UID:2024-10-07T16:55:00/Rhein-Neckar Löwen - Hamburg
+DESCRIPTION:Rhein-Neckar Löwen - Hamburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bradford - Newport - League Two - viaplay
+DTSTART:20241007T185000
+DTEND:20241007T195000
+DTSTAMP:20241007T185000Z
+UID:2024-10-07T18:50:00/Bradford - Newport
+DESCRIPTION:Bradford - Newport - League Two
 END:VEVENT
 END:VCALENDAR
