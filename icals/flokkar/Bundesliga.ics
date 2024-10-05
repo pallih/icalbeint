@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Augsburg - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20241004T182000
-DTEND:20241004T192000
-DTSTAMP:20241004T182000Z
-UID:2024-10-04T18:20:00/Augsburg - Mönchengladbach
-DESCRIPTION:Augsburg - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Werder Bremen - Freiburg - Bundesliga - viaplay
 DTSTART:20241005T132000
 DTEND:20241005T142000
 DTSTAMP:20241005T132000Z
-UID:2024-10-05T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Dortmund - Bundesliga - viaplay
-DTSTART:20241005T132000
-DTEND:20241005T142000
-DTSTAMP:20241005T132000Z
-UID:2024-10-05T13:20:00/Union Berlin - Dortmund
-DESCRIPTION:Union Berlin - Dortmund - Bundesliga
+UID:2024-10-05T13:20:00/Werder Bremen - Freiburg
+DESCRIPTION:Werder Bremen - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bochum - Wolfsburg - Bundesliga - viaplay
@@ -34,6 +18,14 @@ UID:2024-10-05T13:20:00/Bochum - Wolfsburg
 DESCRIPTION:Bochum - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20241005T132000
+DTEND:20241005T142000
+DTSTAMP:20241005T132000Z
+UID:2024-10-05T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leverkusen - Holstein Kiel - Bundesliga - viaplay
 DTSTART:20241005T132000
 DTEND:20241005T142000
@@ -42,12 +34,12 @@ UID:2024-10-05T13:20:00/Leverkusen - Holstein Kiel
 DESCRIPTION:Leverkusen - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Freiburg - Bundesliga - viaplay
+SUMMARY:Union Berlin - Dortmund - Bundesliga - viaplay
 DTSTART:20241005T132000
 DTEND:20241005T142000
 DTSTAMP:20241005T132000Z
-UID:2024-10-05T13:20:00/Werder Bremen - Freiburg
-DESCRIPTION:Werder Bremen - Freiburg - Bundesliga
+UID:2024-10-05T13:20:00/Union Berlin - Dortmund
+DESCRIPTION:Union Berlin - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayer Leverkusen - Holstein Kiel - Bundesliga - stod2vodasport
@@ -112,5 +104,13 @@ DTEND:20241007T175500
 DTSTAMP:20241007T165500Z
 UID:2024-10-07T16:55:00/Rhein-Neckar Löwen - Hamburg
 DESCRIPTION:Rhein-Neckar Löwen - Hamburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamburg - Kiel - Bundesliga - viaplay
+DTSTART:20241011T175500
+DTEND:20241011T185500
+DTSTAMP:20241011T175500Z
+UID:2024-10-11T17:55:00/Hamburg - Kiel
+DESCRIPTION:Hamburg - Kiel - Bundesliga
 END:VEVENT
 END:VCALENDAR
