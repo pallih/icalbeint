@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Bayern München - Köln - Frauen-Bundesliga - viaplay
-DTSTART:20241005T115500
-DTEND:20241005T125500
-DTSTAMP:20241005T115500Z
-UID:2024-10-05T11:55:00/Bayern München - Köln
-DESCRIPTION:Bayern München - Köln - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hoffenheim - Werder Bremen - Frauen-Bundesliga - viaplay
 DTSTART:20241006T162500
 DTEND:20241006T172500
@@ -32,5 +24,13 @@ DTEND:20241011T172500
 DTSTAMP:20241011T162500Z
 UID:2024-10-11T16:25:00/Turbine Potsdam - Essen
 DESCRIPTION:Turbine Potsdam - Essen - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Bayern München - Frauen-Bundesliga - viaplay
+DTSTART:20241012T154000
+DTEND:20241012T164000
+DTSTAMP:20241012T154000Z
+UID:2024-10-12T15:40:00/Wolfsburg - Bayern München
+DESCRIPTION:Wolfsburg - Bayern München - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR
