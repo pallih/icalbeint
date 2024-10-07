@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:HB Ludwigsburg - Brest Bretagne Handball - EHF - livey
-DTSTART:20241006T120000
-DTEND:20241006T130000
-DTSTAMP:20241006T120000Z
-UID:2024-10-06T12:00:00/HB Ludwigsburg - Brest Bretagne Handball
-DESCRIPTION:HB Ludwigsburg - Brest Bretagne Handball - EHF
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fenix Toulouse Handball - FH - EHF - livey
 DTSTART:20241008T164500
 DTEND:20241008T174500
@@ -34,20 +26,20 @@ UID:2024-10-09T16:45:00/HC Zagreb - OTP Bank-Pick Szeged
 DESCRIPTION:HC Zagreb - OTP Bank-Pick Szeged - EHF
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paris Saint-Germain - Fredericia Handboldklub - EHF - livey
-DTSTART:20241009T184500
-DTEND:20241009T194500
-DTSTAMP:20241009T184500Z
-UID:2024-10-09T18:45:00/Paris Saint-Germain - Fredericia Handboldklub
-DESCRIPTION:Paris Saint-Germain - Fredericia Handboldklub - EHF
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HC Eurofarm Pelister - Sporting CP - EHF - livey
 DTSTART:20241009T184500
 DTEND:20241009T194500
 DTSTAMP:20241009T184500Z
 UID:2024-10-09T18:45:00/HC Eurofarm Pelister - Sporting CP
 DESCRIPTION:HC Eurofarm Pelister - Sporting CP - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain - Fredericia Handboldklub - EHF - livey
+DTSTART:20241009T184500
+DTEND:20241009T194500
+DTSTAMP:20241009T184500Z
+UID:2024-10-09T18:45:00/Paris Saint-Germain - Fredericia Handboldklub
+DESCRIPTION:Paris Saint-Germain - Fredericia Handboldklub - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Füchse Berlin - Orlen Wisla Plock - EHF - livey
@@ -160,6 +152,14 @@ DTEND:20241012T150000
 DTSTAMP:20241012T140000Z
 UID:2024-10-12T14:00:00/ÍBV - Selfoss
 DESCRIPTION:ÍBV - Selfoss - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olís deild kvenna - Olís deild kvenna - sjonvarpsimans
+DTSTART:20241012T140500
+DTEND:20241012T150500
+DTSTAMP:20241012T140500Z
+UID:2024-10-12T14:05:00/Olís deild kvenna
+DESCRIPTION:Olís deild kvenna - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Haukar - Olís deild kvenna - hsi1
