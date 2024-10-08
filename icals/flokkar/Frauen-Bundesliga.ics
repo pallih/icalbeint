@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Carl Zeiss Jena - Frauen-Bundesliga - viaplay
-DTSTART:20241007T155500
-DTEND:20241007T165500
-DTSTAMP:20241007T155500Z
-UID:2024-10-07T15:55:00/Leverkusen - Carl Zeiss Jena
-DESCRIPTION:Leverkusen - Carl Zeiss Jena - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Turbine Potsdam - Essen - Frauen-Bundesliga - viaplay
 DTSTART:20241011T162500
 DTEND:20241011T172500
@@ -32,5 +24,13 @@ DTEND:20241013T125500
 DTSTAMP:20241013T115500Z
 UID:2024-10-13T11:55:00/Köln - Hoffenheim
 DESCRIPTION:Köln - Hoffenheim - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Freiburg - Frauen-Bundesliga - viaplay
+DTSTART:20241014T155500
+DTEND:20241014T165500
+DTSTAMP:20241014T155500Z
+UID:2024-10-14T15:55:00/Frankfurt - Freiburg
+DESCRIPTION:Frankfurt - Freiburg - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR
