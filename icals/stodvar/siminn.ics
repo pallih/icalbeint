@@ -10,20 +10,20 @@ UID:2024-10-16T17:50:00/Olís deild kvenna
 DESCRIPTION:Olís deild kvenna - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - ÍBV - Olís deild kvenna - hsi1
-DTSTART:20241016T180000
-DTEND:20241016T190000
-DTSTAMP:20241016T180000Z
-UID:2024-10-16T18:00:00/Fram - ÍBV
-DESCRIPTION:Fram - ÍBV - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Haukar - ÍR - Olís deild kvenna - hsi1
 DTSTART:20241016T180000
 DTEND:20241016T190000
 DTSTAMP:20241016T180000Z
 UID:2024-10-16T18:00:00/Haukar - ÍR
 DESCRIPTION:Haukar - ÍR - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - ÍBV - Olís deild kvenna - hsi1
+DTSTART:20241016T180000
+DTEND:20241016T190000
+DTSTAMP:20241016T180000Z
+UID:2024-10-16T18:00:00/Fram - ÍBV
+DESCRIPTION:Fram - ÍBV - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Selfoss - Olís deild kvenna - hsi1
@@ -74,20 +74,20 @@ UID:2024-10-17T19:30:00/ÍR - Fram
 DESCRIPTION:ÍR - Fram - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fjölnir - Valur - Olís deild karla - hsi1
-DTSTART:20241018T180000
-DTEND:20241018T190000
-DTSTAMP:20241018T180000Z
-UID:2024-10-18T18:00:00/Fjölnir - Valur
-DESCRIPTION:Fjölnir - Valur - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grótta - Valur - Olís deild kvenna - hsi1
 DTSTART:20241018T180000
 DTEND:20241018T190000
 DTSTAMP:20241018T180000Z
 UID:2024-10-18T18:00:00/Grótta - Valur
 DESCRIPTION:Grótta - Valur - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - Valur - Olís deild karla - hsi1
+DTSTART:20241018T180000
+DTEND:20241018T190000
+DTSTAMP:20241018T180000Z
+UID:2024-10-18T18:00:00/Fjölnir - Valur
+DESCRIPTION:Fjölnir - Valur - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grótta - FH - Olís deild karla - hsi1
@@ -122,12 +122,12 @@ UID:2024-10-19T13:30:00/Man. Utd. - Brentford
 DESCRIPTION:Man. Utd. - Brentford - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Leicester - Enska úrvalsdeildin - siminnsport5
+SUMMARY:Newcastle - Brighton - Enska úrvalsdeildin - siminnsport2
 DTSTART:20241019T135000
 DTEND:20241019T145000
 DTSTAMP:20241019T135000Z
-UID:2024-10-19T13:50:00/Southampton - Leicester
-DESCRIPTION:Southampton - Leicester - Enska úrvalsdeildin
+UID:2024-10-19T13:50:00/Newcastle - Brighton
+DESCRIPTION:Newcastle - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Aston Villa - Enska úrvalsdeildin - siminnsport3
@@ -138,14 +138,6 @@ UID:2024-10-19T13:50:00/Fulham - Aston Villa
 DESCRIPTION:Fulham - Aston Villa - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Brighton - Enska úrvalsdeildin - siminnsport2
-DTSTART:20241019T135000
-DTEND:20241019T145000
-DTSTAMP:20241019T135000Z
-UID:2024-10-19T13:50:00/Newcastle - Brighton
-DESCRIPTION:Newcastle - Brighton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ipswich - Everton - Enska úrvalsdeildin - siminnsport4
 DTSTART:20241019T135000
 DTEND:20241019T145000
@@ -154,11 +146,43 @@ UID:2024-10-19T13:50:00/Ipswich - Everton
 DESCRIPTION:Ipswich - Everton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Southampton - Leicester - Enska úrvalsdeildin - siminnsport5
+DTSTART:20241019T135000
+DTEND:20241019T145000
+DTSTAMP:20241019T135000Z
+UID:2024-10-19T13:50:00/Southampton - Leicester
+DESCRIPTION:Southampton - Leicester - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bournemouth - Arsenal - Enska úrvalsdeildin - siminnsport
 DTSTART:20241019T160000
 DTEND:20241019T170000
 DTSTAMP:20241019T160000Z
 UID:2024-10-19T16:00:00/Bournemouth - Arsenal
 DESCRIPTION:Bournemouth - Arsenal - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
+DTSTART:20241019T184000
+DTEND:20241019T194000
+DTSTAMP:20241019T184000Z
+UID:2024-10-19T18:40:00/Ítalski boltinn
+DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolves - Man. City - Enska úrvalsdeildin - siminnsport
+DTSTART:20241020T123000
+DTEND:20241020T133000
+DTSTAMP:20241020T123000Z
+UID:2024-10-20T12:30:00/Wolves - Man. City
+DESCRIPTION:Wolves - Man. City - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Chelsea - Enska úrvalsdeildin - siminnsport
+DTSTART:20241020T150000
+DTEND:20241020T160000
+DTSTAMP:20241020T150000Z
+UID:2024-10-20T15:00:00/Liverpool - Chelsea
+DESCRIPTION:Liverpool - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR

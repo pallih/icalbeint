@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:Repco Bathurst 1000 (Kappakstur 20) - Supercars Championship - via
- play
-DTSTART:20241013T003000
-DTEND:20241013T013000
-DTSTAMP:20241013T003000Z
-UID:2024-10-13T00:30:00/Repco Bathurst 1000 (Kappakstur 20)
-DESCRIPTION:Repco Bathurst 1000 (Kappakstur 20) - Supercars Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bank of America ROVAL 400 (Cup Series) - Nascar - viaplay
-DTSTART:20241013T180000
-DTEND:20241013T190000
-DTSTAMP:20241013T180000Z
-UID:2024-10-13T18:00:00/Bank of America ROVAL 400 (Cup Series)
-DESCRIPTION:Bank of America ROVAL 400 (Cup Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Imola (Coppa Shell & 488 | Kappakstur 1) - Ferrari Challenge Europ
  e - viaplay
 DTSTART:20241017T081500
@@ -159,6 +142,14 @@ UID:2024-10-18T17:25:00/Texas Kappaksturinn (Æfing 1)
 DESCRIPTION:Texas Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Texas Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241018T173000
+DTEND:20241018T183000
+DTSTAMP:20241018T173000Z
+UID:2024-10-18T17:30:00/Onboard (Æfing 1 | Texas Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Texas Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Texas Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20241018T173000
 DTEND:20241018T183000
@@ -184,14 +175,6 @@ UID:2024-10-18T17:30:00/Track Positioning (Æfing 1 | Texas Kappaksturinn)
 DESCRIPTION:Track Positioning (Æfing 1 | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Texas Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20241018T173000
-DTEND:20241018T183000
-DTSTAMP:20241018T173000Z
-UID:2024-10-18T17:30:00/Onboard (Æfing 1 | Texas Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Texas Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Sprint Shootout) - Formula 1 - viaplay
 DTSTART:20241018T212500
 DTEND:20241018T222500
@@ -208,15 +191,15 @@ UID:2024-10-18T21:25:00/F1 Bandaríkin: Sprint tímataka
 DESCRIPTION:F1 Bandaríkin: Sprint tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Pitlane (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formula 1
+  - viaplay
 DTSTART:20241018T213000
 DTEND:20241018T223000
 DTSTAMP:20241018T213000Z
-UID:2024-10-18T21:30:00/Timing (Sprettkeppni Qualifier | Texas Kappaksturi
- nn)
-DESCRIPTION:Timing (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formul
- a 1
+UID:2024-10-18T21:30:00/Pitlane (Sprettkeppni Qualifier | Texas Kappakstur
+ inn)
+DESCRIPTION:Pitlane (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Sprettkeppni Qualifier | Texas Kappaksturinn) -
@@ -230,15 +213,15 @@ DESCRIPTION:Track Positioning (Sprettkeppni Qualifier | Texas Kappaksturin
  n) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formula 1
-  - viaplay
+SUMMARY:Timing (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formula 1 
+ - viaplay
 DTSTART:20241018T213000
 DTEND:20241018T223000
 DTSTAMP:20241018T213000Z
-UID:2024-10-18T21:30:00/Pitlane (Sprettkeppni Qualifier | Texas Kappakstur
- inn)
-DESCRIPTION:Pitlane (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formu
- la 1
+UID:2024-10-18T21:30:00/Timing (Sprettkeppni Qualifier | Texas Kappaksturi
+ nn)
+DESCRIPTION:Timing (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formula 1
@@ -260,15 +243,12 @@ UID:2024-10-18T21:35:00/Ástralíu Kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Ástralíu Kappaksturinn (Frjáls æfing 2) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Qualifiying | Texas Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Onboard (Qualifiying | Texas Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20241018T220000
 DTEND:20241018T230000
 DTSTAMP:20241018T220000Z
-UID:2024-10-18T22:00:00/Track Positioning (Qualifiying | Texas Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Qualifiying | Texas Kappaksturinn) - Formul
- a 1
+UID:2024-10-18T22:00:00/Onboard (Qualifiying | Texas Kappaksturinn)
+DESCRIPTION:Onboard (Qualifiying | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Qualifiying | Texas Kappaksturinn) - Formula 1 - viaplay
@@ -279,12 +259,15 @@ UID:2024-10-18T22:00:00/Pitlane (Qualifiying | Texas Kappaksturinn)
 DESCRIPTION:Pitlane (Qualifiying | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Qualifiying | Texas Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Qualifiying | Texas Kappaksturinn) - Formula 1 
+ - viaplay
 DTSTART:20241018T220000
 DTEND:20241018T230000
 DTSTAMP:20241018T220000Z
-UID:2024-10-18T22:00:00/Onboard (Qualifiying | Texas Kappaksturinn)
-DESCRIPTION:Onboard (Qualifiying | Texas Kappaksturinn) - Formula 1
+UID:2024-10-18T22:00:00/Track Positioning (Qualifiying | Texas Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Qualifiying | Texas Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Qualifiying | Texas Kappaksturinn) - Formula 1 - viaplay
@@ -368,20 +351,20 @@ UID:2024-10-19T13:55:00/Imola (Superpole World Final Races)
 DESCRIPTION:Imola (Superpole World Final Races) - Ferrari Challenge Europe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 Bandaríkin: Sprint keppni - Formúla 1 - stod2vodasport
-DTSTART:20241019T175500
-DTEND:20241019T185500
-DTSTAMP:20241019T175500Z
-UID:2024-10-19T17:55:00/F1 Bandaríkin: Sprint keppni
-DESCRIPTION:F1 Bandaríkin: Sprint keppni - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United States Grand Prix (Sprettkeppni) - Formula 1 - viaplay
 DTSTART:20241019T175500
 DTEND:20241019T185500
 DTSTAMP:20241019T175500Z
 UID:2024-10-19T17:55:00/United States Grand Prix (Sprettkeppni)
 DESCRIPTION:United States Grand Prix (Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1 Bandaríkin: Sprint keppni - Formúla 1 - stod2vodasport
+DTSTART:20241019T175500
+DTEND:20241019T185500
+DTSTAMP:20241019T175500Z
+UID:2024-10-19T17:55:00/F1 Bandaríkin: Sprint keppni
+DESCRIPTION:F1 Bandaríkin: Sprint keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Sprettkeppni | Texas Kappaksturinn) - Formula 1 - viaplay
@@ -392,12 +375,12 @@ UID:2024-10-19T18:00:00/Timing (Sprettkeppni | Texas Kappaksturinn)
 DESCRIPTION:Timing (Sprettkeppni | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Sprettkeppni | Texas Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Sprettkeppni | Texas Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20241019T180000
 DTEND:20241019T190000
 DTSTAMP:20241019T180000Z
-UID:2024-10-19T18:00:00/Onboard (Sprettkeppni | Texas Kappaksturinn)
-DESCRIPTION:Onboard (Sprettkeppni | Texas Kappaksturinn) - Formula 1
+UID:2024-10-19T18:00:00/Pitlane (Sprettkeppni | Texas Kappaksturinn)
+DESCRIPTION:Pitlane (Sprettkeppni | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Sprettkeppni | Texas Kappaksturinn) - Formula 1
@@ -411,12 +394,12 @@ DESCRIPTION:Track Positioning (Sprettkeppni | Texas Kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Sprettkeppni | Texas Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Onboard (Sprettkeppni | Texas Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20241019T180000
 DTEND:20241019T190000
 DTSTAMP:20241019T180000Z
-UID:2024-10-19T18:00:00/Pitlane (Sprettkeppni | Texas Kappaksturinn)
-DESCRIPTION:Pitlane (Sprettkeppni | Texas Kappaksturinn) - Formula 1
+UID:2024-10-19T18:00:00/Onboard (Sprettkeppni | Texas Kappaksturinn)
+DESCRIPTION:Onboard (Sprettkeppni | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las Vegas Motor Speedway (Xfinity Series) - Nascar - viaplay
@@ -427,20 +410,20 @@ UID:2024-10-19T18:30:00/Las Vegas Motor Speedway (Xfinity Series)
 DESCRIPTION:Las Vegas Motor Speedway (Xfinity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 Bandaríkin: Tímataka - Formúla 1 - stod2vodasport
-DTSTART:20241019T215500
-DTEND:20241019T225500
-DTSTAMP:20241019T215500Z
-UID:2024-10-19T21:55:00/F1 Bandaríkin: Tímataka
-DESCRIPTION:F1 Bandaríkin: Tímataka - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United States Grand Prix (Tímatökur) - Formula 1 - viaplay
 DTSTART:20241019T215500
 DTEND:20241019T225500
 DTSTAMP:20241019T215500Z
 UID:2024-10-19T21:55:00/United States Grand Prix (Tímatökur)
 DESCRIPTION:United States Grand Prix (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1 Bandaríkin: Tímataka - Formúla 1 - stod2vodasport
+DTSTART:20241019T215500
+DTEND:20241019T225500
+DTSTAMP:20241019T215500Z
+UID:2024-10-19T21:55:00/F1 Bandaríkin: Tímataka
+DESCRIPTION:F1 Bandaríkin: Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Australian Grand Prix (WarmUp & Rider Fan Parade) - MotoGP - viapl
@@ -458,5 +441,126 @@ DTEND:20241020T004500
 DTSTAMP:20241019T234500Z
 UID:2024-10-19T23:45:00/Ástralíu Kappaksturinn (Kappakstur)
 DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Australian Grand Prix (Kappakstur) - Moto2 - viaplay
+DTSTART:20241020T010000
+DTEND:20241020T020000
+DTSTAMP:20241020T010000Z
+UID:2024-10-20T01:00:00/Australian Grand Prix (Kappakstur)
+DESCRIPTION:Australian Grand Prix (Kappakstur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20241020T020000
+DTEND:20241020T030000
+DTSTAMP:20241020T020000Z
+UID:2024-10-20T02:00:00/Ástralíu Kappaksturinn (Kappakstur)
+DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imola (Coppa Shell AM World Final Race) - Ferrari Challenge Europe
+  - viaplay
+DTSTART:20241020T071000
+DTEND:20241020T081000
+DTSTAMP:20241020T071000Z
+UID:2024-10-20T07:10:00/Imola (Coppa Shell AM World Final Race)
+DESCRIPTION:Imola (Coppa Shell AM World Final Race) - Ferrari Challenge Eu
+ rope
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hockenheim (Tímatökur 2) - DTM - viaplay
+DTSTART:20241020T073000
+DTEND:20241020T083000
+DTSTAMP:20241020T073000Z
+UID:2024-10-20T07:30:00/Hockenheim (Tímatökur 2)
+DESCRIPTION:Hockenheim (Tímatökur 2) - DTM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imola (Coppa Shell & 488 World Final Race) - Ferrari Challenge Eur
+ ope - viaplay
+DTSTART:20241020T082000
+DTEND:20241020T092000
+DTSTAMP:20241020T082000Z
+UID:2024-10-20T08:20:00/Imola (Coppa Shell & 488 World Final Race)
+DESCRIPTION:Imola (Coppa Shell & 488 World Final Race) - Ferrari Challenge
+  Europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imola (Trofeo Pirelli World Final Races) - Ferrari Challenge Europ
+ e - viaplay
+DTSTART:20241020T093000
+DTEND:20241020T103000
+DTSTAMP:20241020T093000Z
+UID:2024-10-20T09:30:00/Imola (Trofeo Pirelli World Final Races)
+DESCRIPTION:Imola (Trofeo Pirelli World Final Races) - Ferrari Challenge E
+ urope
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hockenheim (Kappakstur 2) - DTM - viaplay
+DTSTART:20241020T111500
+DTEND:20241020T121500
+DTSTAMP:20241020T111500Z
+UID:2024-10-20T11:15:00/Hockenheim (Kappakstur 2)
+DESCRIPTION:Hockenheim (Kappakstur 2) - DTM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Point 400 (Cup Series) - Nascar - viaplay
+DTSTART:20241020T180000
+DTEND:20241020T190000
+DTSTAMP:20241020T180000Z
+UID:2024-10-20T18:00:00/South Point 400 (Cup Series)
+DESCRIPTION:South Point 400 (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1 Bandaríkin: Keppni - Formúla 1 - stod2vodasport
+DTSTART:20241020T183000
+DTEND:20241020T193000
+DTSTAMP:20241020T183000Z
+UID:2024-10-20T18:30:00/F1 Bandaríkin: Keppni
+DESCRIPTION:F1 Bandaríkin: Keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Kappaksturinn (Kappakstur) - Formula 1 - viaplay
+DTSTART:20241020T183000
+DTEND:20241020T193000
+DTSTAMP:20241020T183000Z
+UID:2024-10-20T18:30:00/Texas Kappaksturinn (Kappakstur)
+DESCRIPTION:Texas Kappaksturinn (Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Texas Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241020T190000
+DTEND:20241020T200000
+DTSTAMP:20241020T190000Z
+UID:2024-10-20T19:00:00/Timing (Kappakstur | Texas Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Texas Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Texas Kappaksturinn) - Formula 1 -
+  viaplay
+DTSTART:20241020T190000
+DTEND:20241020T200000
+DTSTAMP:20241020T190000Z
+UID:2024-10-20T19:00:00/Track Positioning (Kappakstur | Texas Kappaksturin
+ n)
+DESCRIPTION:Track Positioning (Kappakstur | Texas Kappaksturinn) - Formula
+  1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Texas Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241020T190000
+DTEND:20241020T200000
+DTSTAMP:20241020T190000Z
+UID:2024-10-20T19:00:00/Onboard (Kappakstur | Texas Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Texas Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kappakstur | Texas Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241020T190000
+DTEND:20241020T200000
+DTSTAMP:20241020T190000Z
+UID:2024-10-20T19:00:00/Pitlane (Kappakstur | Texas Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 END:VCALENDAR
