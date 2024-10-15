@@ -10,20 +10,20 @@ UID:2024-10-16T17:50:00/Olís deild kvenna
 DESCRIPTION:Olís deild kvenna - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - ÍR - Olís deild kvenna - hsi1
-DTSTART:20241016T180000
-DTEND:20241016T190000
-DTSTAMP:20241016T180000Z
-UID:2024-10-16T18:00:00/Haukar - ÍR
-DESCRIPTION:Haukar - ÍR - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - ÍBV - Olís deild kvenna - hsi1
 DTSTART:20241016T180000
 DTEND:20241016T190000
 DTSTAMP:20241016T180000Z
 UID:2024-10-16T18:00:00/Fram - ÍBV
 DESCRIPTION:Fram - ÍBV - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - ÍR - Olís deild kvenna - hsi1
+DTSTART:20241016T180000
+DTEND:20241016T190000
+DTSTAMP:20241016T180000Z
+UID:2024-10-16T18:00:00/Haukar - ÍR
+DESCRIPTION:Haukar - ÍR - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Selfoss - Olís deild kvenna - hsi1
@@ -122,14 +122,6 @@ UID:2024-10-19T13:30:00/Man. Utd. - Brentford
 DESCRIPTION:Man. Utd. - Brentford - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Brighton - Enska úrvalsdeildin - siminnsport2
-DTSTART:20241019T135000
-DTEND:20241019T145000
-DTSTAMP:20241019T135000Z
-UID:2024-10-19T13:50:00/Newcastle - Brighton
-DESCRIPTION:Newcastle - Brighton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fulham - Aston Villa - Enska úrvalsdeildin - siminnsport3
 DTSTART:20241019T135000
 DTEND:20241019T145000
@@ -152,6 +144,14 @@ DTEND:20241019T145000
 DTSTAMP:20241019T135000Z
 UID:2024-10-19T13:50:00/Southampton - Leicester
 DESCRIPTION:Southampton - Leicester - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Brighton - Enska úrvalsdeildin - siminnsport2
+DTSTART:20241019T135000
+DTEND:20241019T145000
+DTSTAMP:20241019T135000Z
+UID:2024-10-19T13:50:00/Newcastle - Brighton
+DESCRIPTION:Newcastle - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Arsenal - Enska úrvalsdeildin - siminnsport
@@ -184,5 +184,22 @@ DTEND:20241020T160000
 DTSTAMP:20241020T150000Z
 UID:2024-10-20T15:00:00/Liverpool - Chelsea
 DESCRIPTION:Liverpool - Chelsea - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spænski boltinn - LaLiga - Spænski boltinn - sjonvarpsimans
+DTSTART:20241020T185500
+DTEND:20241020T195500
+DTSTAMP:20241020T185500Z
+UID:2024-10-20T18:55:00/Spænski boltinn
+DESCRIPTION:Spænski boltinn - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest - Crystal Palace - Enska úrvalsdeildin - siminn
+ sport
+DTSTART:20241021T183000
+DTEND:20241021T193000
+DTSTAMP:20241021T183000Z
+UID:2024-10-21T18:30:00/Nottingham Forest - Crystal Palace
+DESCRIPTION:Nottingham Forest - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR
