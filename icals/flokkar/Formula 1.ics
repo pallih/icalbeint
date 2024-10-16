@@ -10,28 +10,20 @@ UID:2024-10-18T17:25:00/Texas Kappaksturinn (Æfing 1)
 DESCRIPTION:Texas Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Texas Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20241018T173000
-DTEND:20241018T183000
-DTSTAMP:20241018T173000Z
-UID:2024-10-18T17:30:00/Timing (Æfing 1 | Texas Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Texas Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Texas Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20241018T173000
-DTEND:20241018T183000
-DTSTAMP:20241018T173000Z
-UID:2024-10-18T17:30:00/Onboard (Æfing 1 | Texas Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Texas Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Texas Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20241018T173000
 DTEND:20241018T183000
 DTSTAMP:20241018T173000Z
 UID:2024-10-18T17:30:00/Pitlane (Æfing 1 | Texas Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Texas Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Texas Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241018T173000
+DTEND:20241018T183000
+DTSTAMP:20241018T173000Z
+UID:2024-10-18T17:30:00/Timing (Æfing 1 | Texas Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Texas Kappaksturinn) - Formula 1 - v
@@ -43,6 +35,14 @@ UID:2024-10-18T17:30:00/Track Positioning (Æfing 1 | Texas Kappaksturinn)
 DESCRIPTION:Track Positioning (Æfing 1 | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Texas Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241018T173000
+DTEND:20241018T183000
+DTSTAMP:20241018T173000Z
+UID:2024-10-18T17:30:00/Onboard (Æfing 1 | Texas Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Texas Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Sprint Shootout) - Formula 1 - viaplay
 DTSTART:20241018T212500
 DTEND:20241018T222500
@@ -51,15 +51,15 @@ UID:2024-10-18T21:25:00/Texas Kappaksturinn (Sprint Shootout)
 DESCRIPTION:Texas Kappaksturinn (Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Track Positioning (Sprettkeppni Qualifier | Texas Kappaksturinn) -
+  Formula 1 - viaplay
 DTSTART:20241018T213000
 DTEND:20241018T223000
 DTSTAMP:20241018T213000Z
-UID:2024-10-18T21:30:00/Timing (Sprettkeppni Qualifier | Texas Kappaksturi
- nn)
-DESCRIPTION:Timing (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formul
- a 1
+UID:2024-10-18T21:30:00/Track Positioning (Sprettkeppni Qualifier | Texas 
+ Kappaksturinn)
+DESCRIPTION:Track Positioning (Sprettkeppni Qualifier | Texas Kappaksturin
+ n) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formula 1
@@ -84,23 +84,15 @@ DESCRIPTION:Pitlane (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Sprettkeppni Qualifier | Texas Kappaksturinn) -
-  Formula 1 - viaplay
+SUMMARY:Timing (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formula 1 
+ - viaplay
 DTSTART:20241018T213000
 DTEND:20241018T223000
 DTSTAMP:20241018T213000Z
-UID:2024-10-18T21:30:00/Track Positioning (Sprettkeppni Qualifier | Texas 
- Kappaksturinn)
-DESCRIPTION:Track Positioning (Sprettkeppni Qualifier | Texas Kappaksturin
- n) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Qualifiying | Texas Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20241018T220000
-DTEND:20241018T230000
-DTSTAMP:20241018T220000Z
-UID:2024-10-18T22:00:00/Onboard (Qualifiying | Texas Kappaksturinn)
-DESCRIPTION:Onboard (Qualifiying | Texas Kappaksturinn) - Formula 1
+UID:2024-10-18T21:30:00/Timing (Sprettkeppni Qualifier | Texas Kappaksturi
+ nn)
+DESCRIPTION:Timing (Sprettkeppni Qualifier | Texas Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:United States Grand Prix (Sprettkeppni) - Formula 1 - viaplay
@@ -117,14 +109,6 @@ DTEND:20241019T190000
 DTSTAMP:20241019T180000Z
 UID:2024-10-19T18:00:00/Pitlane (Sprettkeppni | Texas Kappaksturinn)
 DESCRIPTION:Pitlane (Sprettkeppni | Texas Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Sprettkeppni | Texas Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20241019T180000
-DTEND:20241019T190000
-DTSTAMP:20241019T180000Z
-UID:2024-10-19T18:00:00/Timing (Sprettkeppni | Texas Kappaksturinn)
-DESCRIPTION:Timing (Sprettkeppni | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Sprettkeppni | Texas Kappaksturinn) - Formula 1 - viaplay
@@ -144,6 +128,14 @@ UID:2024-10-19T18:00:00/Track Positioning (Sprettkeppni | Texas Kappakstur
  inn)
 DESCRIPTION:Track Positioning (Sprettkeppni | Texas Kappaksturinn) - Formu
  la 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Sprettkeppni | Texas Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241019T180000
+DTEND:20241019T190000
+DTSTAMP:20241019T180000Z
+UID:2024-10-19T18:00:00/Timing (Sprettkeppni | Texas Kappaksturinn)
+DESCRIPTION:Timing (Sprettkeppni | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:United States Grand Prix (Tímatökur) - Formula 1 - viaplay
@@ -181,20 +173,20 @@ DESCRIPTION:Track Positioning (Qualifiying | Texas Kappaksturinn) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Qualifiying | Texas Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241019T220000
+DTEND:20241019T230000
+DTSTAMP:20241019T220000Z
+UID:2024-10-19T22:00:00/Onboard (Qualifiying | Texas Kappaksturinn)
+DESCRIPTION:Onboard (Qualifiying | Texas Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Kappakstur) - Formula 1 - viaplay
 DTSTART:20241020T183000
 DTEND:20241020T193000
 DTSTAMP:20241020T183000Z
 UID:2024-10-20T18:30:00/Texas Kappaksturinn (Kappakstur)
 DESCRIPTION:Texas Kappaksturinn (Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Texas Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20241020T190000
-DTEND:20241020T200000
-DTSTAMP:20241020T190000Z
-UID:2024-10-20T19:00:00/Timing (Kappakstur | Texas Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Texas Kappaksturinn) - Formula 1 -
@@ -208,6 +200,14 @@ DESCRIPTION:Track Positioning (Kappakstur | Texas Kappaksturinn) - Formula
   1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Texas Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241020T190000
+DTEND:20241020T200000
+DTSTAMP:20241020T190000Z
+UID:2024-10-20T19:00:00/Onboard (Kappakstur | Texas Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Texas Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Texas Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20241020T190000
 DTEND:20241020T200000
@@ -216,11 +216,11 @@ UID:2024-10-20T19:00:00/Pitlane (Kappakstur | Texas Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Texas Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing (Kappakstur | Texas Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20241020T190000
 DTEND:20241020T200000
 DTSTAMP:20241020T190000Z
-UID:2024-10-20T19:00:00/Onboard (Kappakstur | Texas Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Texas Kappaksturinn) - Formula 1
+UID:2024-10-20T19:00:00/Timing (Kappakstur | Texas Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Texas Kappaksturinn) - Formula 1
 END:VEVENT
 END:VCALENDAR
