@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Braunschweig - 2. Bundesliga - viaplay
-DTSTART:20241018T162500
-DTEND:20241018T172500
-DTSTAMP:20241018T162500Z
-UID:2024-10-18T16:25:00/Hertha Berlin - Braunschweig
-DESCRIPTION:Hertha Berlin - Braunschweig - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Köln - 2. Bundesliga - viaplay
-DTSTART:20241018T162500
-DTEND:20241018T172500
-DTSTAMP:20241018T162500Z
-UID:2024-10-18T16:25:00/Darmstadt - Köln
-DESCRIPTION:Darmstadt - Köln - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hannover - Schalke - 2. Bundesliga - viaplay
 DTSTART:20241019T105500
 DTEND:20241019T115500
@@ -26,20 +10,20 @@ UID:2024-10-19T10:55:00/Hannover - Schalke
 DESCRIPTION:Hannover - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jahn Regensburg - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20241019T105500
-DTEND:20241019T115500
-DTSTAMP:20241019T105500Z
-UID:2024-10-19T10:55:00/Jahn Regensburg - Düsseldorf
-DESCRIPTION:Jahn Regensburg - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preußen Münster - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20241019T105500
 DTEND:20241019T115500
 DTSTAMP:20241019T105500Z
 UID:2024-10-19T10:55:00/Preußen Münster - Elversberg
 DESCRIPTION:Preußen Münster - Elversberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahn Regensburg - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20241019T105500
+DTEND:20241019T115500
+DTSTAMP:20241019T105500Z
+UID:2024-10-19T10:55:00/Jahn Regensburg - Düsseldorf
+DESCRIPTION:Jahn Regensburg - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Paderborn - 2. Bundesliga - viaplay
@@ -80,5 +64,21 @@ DTEND:20241020T122500
 DTSTAMP:20241020T112500Z
 UID:2024-10-20T11:25:00/Greuther Fürth - Nürnberg
 DESCRIPTION:Greuther Fürth - Nürnberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln - Paderborn - 2. Bundesliga - viaplay
+DTSTART:20241025T162500
+DTEND:20241025T172500
+DTSTAMP:20241025T162500Z
+UID:2024-10-25T16:25:00/Köln - Paderborn
+DESCRIPTION:Köln - Paderborn - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Jahn Regensburg - 2. Bundesliga - viaplay
+DTSTART:20241025T162500
+DTEND:20241025T172500
+DTSTAMP:20241025T162500Z
+UID:2024-10-25T16:25:00/Nürnberg - Jahn Regensburg
+DESCRIPTION:Nürnberg - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR

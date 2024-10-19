@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Monaco - Lille - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241018T184500
-DTEND:20241018T194500
-DTSTAMP:20241018T184500Z
-UID:2024-10-18T18:45:00/Monaco - Lille
-DESCRIPTION:Monaco - Lille - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deportivo Alaves - Valladolid - LaLiga - Spænski boltinn - livey
-DTSTART:20241018T190000
-DTEND:20241018T200000
-DTSTAMP:20241018T190000Z
-UID:2024-10-18T19:00:00/Deportivo Alaves - Valladolid
-DESCRIPTION:Deportivo Alaves - Valladolid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Athletic Bilbao - Espanyol - LaLiga - Spænski boltinn - livey
 DTSTART:20241019T120000
 DTEND:20241019T130000
@@ -74,6 +58,14 @@ UID:2024-10-19T16:30:00/Girona - Real Sociedad
 DESCRIPTION:Girona - Real Sociedad - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:St-Étienne - Lens - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241019T170000
+DTEND:20241019T180000
+DTSTAMP:20241019T170000Z
+UID:2024-10-19T17:00:00/St-Étienne - Lens
+DESCRIPTION:St-Étienne - Lens - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PFL Super Fights: Ngannou vs. Ferreira - PFL & Bellator MMA - live
  y
 DTSTART:20241019T170000
@@ -83,12 +75,13 @@ UID:2024-10-19T17:00:00/PFL Super Fights: Ngannou vs. Ferreira
 DESCRIPTION:PFL Super Fights: Ngannou vs. Ferreira - PFL & Bellator MMA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St-Étienne - Lens - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241019T170000
-DTEND:20241019T180000
-DTSTAMP:20241019T170000Z
-UID:2024-10-19T17:00:00/St-Étienne - Lens
-DESCRIPTION:St-Étienne - Lens - Ligue 1 - Franski Boltinn
+SUMMARY:Union Saint-Gilloise - Gent - Pro League - Belgíski boltinn - liv
+ ey
+DTSTART:20241019T184500
+DTEND:20241019T194500
+DTSTAMP:20241019T184500Z
+UID:2024-10-19T18:45:00/Union Saint-Gilloise - Gent
+DESCRIPTION:Union Saint-Gilloise - Gent - Pro League - Belgíski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juventus - Lazio - Serie A - Ítalski boltinn - livey
@@ -123,12 +116,36 @@ UID:2024-10-20T10:30:00/Empoli - Napoli
 DESCRIPTION:Empoli - Napoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Manchester City - Aston Villa - WSL - livey
+DTSTART:20241020T111500
+DTEND:20241020T121500
+DTSTAMP:20241020T111500Z
+UID:2024-10-20T11:15:00/Manchester City - Aston Villa
+DESCRIPTION:Manchester City - Aston Villa - WSL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genk - STVV - Pro League - Belgíski boltinn - livey
+DTSTART:20241020T113000
+DTEND:20241020T123000
+DTSTAMP:20241020T113000Z
+UID:2024-10-20T11:30:00/Genk - STVV
+DESCRIPTION:Genk - STVV - Pro League - Belgíski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RCD Mallorca - Rayo Vallecano - LaLiga - Spænski boltinn - livey
 DTSTART:20241020T120000
 DTEND:20241020T130000
 DTSTAMP:20241020T120000Z
 UID:2024-10-20T12:00:00/RCD Mallorca - Rayo Vallecano
 DESCRIPTION:RCD Mallorca - Rayo Vallecano - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venezia - Atalanta - Serie A - Ítalski boltinn - livey
+DTSTART:20241020T130000
+DTEND:20241020T140000
+DTSTAMP:20241020T130000Z
+UID:2024-10-20T13:00:00/Venezia - Atalanta
+DESCRIPTION:Venezia - Atalanta - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Havre - Lyon - Ligue 1 - Franski Boltinn - livey
@@ -147,14 +164,6 @@ UID:2024-10-20T13:00:00/Lecce - Fiorentina
 DESCRIPTION:Lecce - Fiorentina - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Venezia - Atalanta - Serie A - Ítalski boltinn - livey
-DTSTART:20241020T130000
-DTEND:20241020T140000
-DTSTAMP:20241020T130000Z
-UID:2024-10-20T13:00:00/Venezia - Atalanta
-DESCRIPTION:Venezia - Atalanta - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atletico Madrid - Deportivo Leganes - LaLiga - Spænski boltinn - 
  livey
 DTSTART:20241020T141500
@@ -163,14 +172,6 @@ DTSTAMP:20241020T141500Z
 UID:2024-10-20T14:15:00/Atletico Madrid - Deportivo Leganes
 DESCRIPTION:Atletico Madrid - Deportivo Leganes - LaLiga - Spænski boltin
  n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Auxerre - Reims - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241020T150000
-DTEND:20241020T160000
-DTSTAMP:20241020T150000Z
-UID:2024-10-20T15:00:00/Auxerre - Reims
-DESCRIPTION:Auxerre - Reims - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nantes - Nice - Ligue 1 - Franski Boltinn - livey
@@ -189,12 +190,28 @@ UID:2024-10-20T15:00:00/Toulouse - Angers
 DESCRIPTION:Toulouse - Angers - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Auxerre - Reims - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241020T150000
+DTEND:20241020T160000
+DTSTAMP:20241020T150000Z
+UID:2024-10-20T15:00:00/Auxerre - Reims
+DESCRIPTION:Auxerre - Reims - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cagliari - Torino - Serie A - Ítalski boltinn - livey
 DTSTART:20241020T160000
 DTEND:20241020T170000
 DTSTAMP:20241020T160000Z
 UID:2024-10-20T16:00:00/Cagliari - Torino
 DESCRIPTION:Cagliari - Torino - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Standard - Charleroi - Pro League - Belgíski boltinn - livey
+DTSTART:20241020T163000
+DTEND:20241020T173000
+DTSTAMP:20241020T163000Z
+UID:2024-10-20T16:30:00/Standard - Charleroi
+DESCRIPTION:Standard - Charleroi - Pro League - Belgíski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Villareal - Getafe - LaLiga - Spænski boltinn - livey
@@ -205,12 +222,12 @@ UID:2024-10-20T16:30:00/Villareal - Getafe
 DESCRIPTION:Villareal - Getafe - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Montpellier - Marseille - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241020T184500
-DTEND:20241020T194500
-DTSTAMP:20241020T184500Z
-UID:2024-10-20T18:45:00/Montpellier - Marseille
-DESCRIPTION:Montpellier - Marseille - Ligue 1 - Franski Boltinn
+SUMMARY:Chelsea - Tottenham - WSL - livey
+DTSTART:20241020T174500
+DTEND:20241020T184500
+DTSTAMP:20241020T174500Z
+UID:2024-10-20T17:45:00/Chelsea - Tottenham
+DESCRIPTION:Chelsea - Tottenham - WSL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roma - Inter Milan - Serie A - Ítalski boltinn - livey
@@ -219,6 +236,14 @@ DTEND:20241020T194500
 DTSTAMP:20241020T184500Z
 UID:2024-10-20T18:45:00/Roma - Inter Milan
 DESCRIPTION:Roma - Inter Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montpellier - Marseille - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241020T184500
+DTEND:20241020T194500
+DTSTAMP:20241020T184500Z
+UID:2024-10-20T18:45:00/Montpellier - Marseille
+DESCRIPTION:Montpellier - Marseille - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barcelona - Sevilla - LaLiga - Spænski boltinn - livey

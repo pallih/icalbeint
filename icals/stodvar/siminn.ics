@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Grótta - Valur - Olís deild kvenna - hsi1
-DTSTART:20241018T180000
-DTEND:20241018T190000
-DTSTAMP:20241018T180000Z
-UID:2024-10-18T18:00:00/Grótta - Valur
-DESCRIPTION:Grótta - Valur - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fjölnir - Valur - Olís deild karla - hsi1
-DTSTART:20241018T180000
-DTEND:20241018T190000
-DTSTAMP:20241018T180000Z
-UID:2024-10-18T18:00:00/Fjölnir - Valur
-DESCRIPTION:Fjölnir - Valur - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grótta - FH - Olís deild karla - hsi1
-DTSTART:20241018T201500
-DTEND:20241018T211500
-DTSTAMP:20241018T201500Z
-UID:2024-10-18T20:15:00/Grótta - FH
-DESCRIPTION:Grótta - FH - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tottenham - West Ham - Enska úrvalsdeildin - siminnsport
 DTSTART:20241019T110000
 DTEND:20241019T120000
@@ -50,22 +26,6 @@ UID:2024-10-19T13:30:00/Man. Utd. - Brentford
 DESCRIPTION:Man. Utd. - Brentford - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Aston Villa - Enska úrvalsdeildin - siminnsport3
-DTSTART:20241019T135000
-DTEND:20241019T145000
-DTSTAMP:20241019T135000Z
-UID:2024-10-19T13:50:00/Fulham - Aston Villa
-DESCRIPTION:Fulham - Aston Villa - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Leicester - Enska úrvalsdeildin - siminnsport5
-DTSTART:20241019T135000
-DTEND:20241019T145000
-DTSTAMP:20241019T135000Z
-UID:2024-10-19T13:50:00/Southampton - Leicester
-DESCRIPTION:Southampton - Leicester - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ipswich - Everton - Enska úrvalsdeildin - siminnsport4
 DTSTART:20241019T135000
 DTEND:20241019T145000
@@ -80,6 +40,22 @@ DTEND:20241019T145000
 DTSTAMP:20241019T135000Z
 UID:2024-10-19T13:50:00/Newcastle - Brighton
 DESCRIPTION:Newcastle - Brighton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Aston Villa - Enska úrvalsdeildin - siminnsport3
+DTSTART:20241019T135000
+DTEND:20241019T145000
+DTSTAMP:20241019T135000Z
+UID:2024-10-19T13:50:00/Fulham - Aston Villa
+DESCRIPTION:Fulham - Aston Villa - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southampton - Leicester - Enska úrvalsdeildin - siminnsport5
+DTSTART:20241019T135000
+DTEND:20241019T145000
+DTSTAMP:20241019T135000Z
+UID:2024-10-19T13:50:00/Southampton - Leicester
+DESCRIPTION:Southampton - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Arsenal - Enska úrvalsdeildin - siminnsport
@@ -139,12 +115,12 @@ UID:2024-10-21T21:00:00/Völlurinn
 DESCRIPTION:Völlurinn - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Afturelding - Olís deild karla - hsi1
+SUMMARY:Fjölnir - Grótta - Olís deild karla - hsi1
 DTSTART:20241024T193000
 DTEND:20241024T203000
 DTSTAMP:20241024T193000Z
-UID:2024-10-24T19:30:00/Stjarnan - Afturelding
-DESCRIPTION:Stjarnan - Afturelding - Olís deild karla
+UID:2024-10-24T19:30:00/Fjölnir - Grótta
+DESCRIPTION:Fjölnir - Grótta - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - ÍR - Olís deild karla - hsi1
@@ -155,11 +131,27 @@ UID:2024-10-24T19:30:00/HK - ÍR
 DESCRIPTION:HK - ÍR - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fjölnir - Grótta - Olís deild karla - hsi1
+SUMMARY:Stjarnan - Afturelding - Olís deild karla - hsi1
 DTSTART:20241024T193000
 DTEND:20241024T203000
 DTSTAMP:20241024T193000Z
-UID:2024-10-24T19:30:00/Fjölnir - Grótta
-DESCRIPTION:Fjölnir - Grótta - Olís deild karla
+UID:2024-10-24T19:30:00/Stjarnan - Afturelding
+DESCRIPTION:Stjarnan - Afturelding - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Valur - Olís deild karla - hsi1
+DTSTART:20241025T180000
+DTEND:20241025T190000
+DTSTAMP:20241025T180000Z
+UID:2024-10-25T18:00:00/Fram - Valur
+DESCRIPTION:Fram - Valur - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leicester - Nottingham Forest - Enska úrvalsdeildin - siminnsport
+DTSTART:20241025T183000
+DTEND:20241025T193000
+DTSTAMP:20241025T183000Z
+UID:2024-10-25T18:30:00/Leicester - Nottingham Forest
+DESCRIPTION:Leicester - Nottingham Forest - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR
