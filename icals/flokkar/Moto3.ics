@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Moto3 - ical
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Tímatökur) - Moto3 - viaplay
-DTSTART:20241019T014500
-DTEND:20241019T024500
-DTSTAMP:20241019T014500Z
-UID:2024-10-19T01:45:00/Ástralíu Kappaksturinn (Tímatökur)
-DESCRIPTION:Ástralíu Kappaksturinn (Tímatökur) - Moto3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Moto3 - viaplay
-DTSTART:20241019T234500
-DTEND:20241020T004500
-DTSTAMP:20241019T234500Z
-UID:2024-10-19T23:45:00/Ástralíu Kappaksturinn (Kappakstur)
-DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Moto3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Taíland kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
 DTSTART:20241025T015500
 DTEND:20241025T025500
@@ -32,5 +16,21 @@ DTEND:20241025T071000
 DTSTAMP:20241025T061000Z
 UID:2024-10-25T06:10:00/Taíland kappaksturinn (Æfing)
 DESCRIPTION:Taíland kappaksturinn (Æfing) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taíland kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
+DTSTART:20241026T013500
+DTEND:20241026T023500
+DTSTAMP:20241026T013500Z
+UID:2024-10-26T01:35:00/Taíland kappaksturinn (Frjáls æfing 2)
+DESCRIPTION:Taíland kappaksturinn (Frjáls æfing 2) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taíland kappaksturinn (Tímatökur) - Moto3 - viaplay
+DTSTART:20241026T054500
+DTEND:20241026T064500
+DTSTAMP:20241026T054500Z
+UID:2024-10-26T05:45:00/Taíland kappaksturinn (Tímatökur)
+DESCRIPTION:Taíland kappaksturinn (Tímatökur) - Moto3
 END:VEVENT
 END:VCALENDAR
