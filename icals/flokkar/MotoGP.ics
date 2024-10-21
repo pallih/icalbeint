@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - MotoGP - ical
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20241020T021500
-DTEND:20241020T031500
-DTSTAMP:20241020T021500Z
-UID:2024-10-20T02:15:00/Ástralíu Kappaksturinn (Kappakstur)
-DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Taíland kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
 DTSTART:20241025T033500
 DTEND:20241025T043500
@@ -48,5 +40,22 @@ DTEND:20241026T083500
 DTSTAMP:20241026T073500Z
 UID:2024-10-26T07:35:00/Taíland kappaksturinn (Sprettkeppni)
 DESCRIPTION:Taíland kappaksturinn (Sprettkeppni) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taíland kappaksturinn (WarmUp & Rider Fan Parade) - MotoGP - viap
+ lay
+DTSTART:20241027T033500
+DTEND:20241027T043500
+DTSTAMP:20241027T033500Z
+UID:2024-10-27T03:35:00/Taíland kappaksturinn (WarmUp & Rider Fan Parade)
+DESCRIPTION:Taíland kappaksturinn (WarmUp & Rider Fan Parade) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thailand Grand Prix (Kappakstur) - MotoGP - viaplay
+DTSTART:20241027T071500
+DTEND:20241027T081500
+DTSTAMP:20241027T071500Z
+UID:2024-10-27T07:15:00/Thailand Grand Prix (Kappakstur)
+DESCRIPTION:Thailand Grand Prix (Kappakstur) - MotoGP
 END:VEVENT
 END:VCALENDAR

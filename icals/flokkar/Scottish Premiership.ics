@@ -2,19 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Scottish Premiership - ical
 BEGIN:VEVENT
-SUMMARY:Kilmarnock - Rangers - Scottish Premiership - viaplay
-DTSTART:20241020T105500
-DTEND:20241020T115500
-DTSTAMP:20241020T105500Z
-UID:2024-10-20T10:55:00/Kilmarnock - Rangers
-DESCRIPTION:Kilmarnock - Rangers - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aberdeen - Dundee United - Scottish Premiership - viaplay
 DTSTART:20241026T162500
 DTEND:20241026T172500
 DTSTAMP:20241026T162500Z
 UID:2024-10-26T16:25:00/Aberdeen - Dundee United
 DESCRIPTION:Aberdeen - Dundee United - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hibernian - Hearts - Scottish Premiership - viaplay
+DTSTART:20241027T115500
+DTEND:20241027T125500
+DTSTAMP:20241027T115500Z
+UID:2024-10-27T11:55:00/Hibernian - Hearts
+DESCRIPTION:Hibernian - Hearts - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motherwell - Celtic - Scottish Premiership - viaplay
+DTSTART:20241027T145500
+DTEND:20241027T155500
+DTSTAMP:20241027T145500Z
+UID:2024-10-27T14:55:00/Motherwell - Celtic
+DESCRIPTION:Motherwell - Celtic - Scottish Premiership
 END:VEVENT
 END:VCALENDAR

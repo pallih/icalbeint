@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Union Berlin - Bundesliga - viaplay
-DTSTART:20241020T132000
-DTEND:20241020T142000
-DTSTAMP:20241020T132000Z
-UID:2024-10-20T13:20:00/Holstein Kiel - Union Berlin
-DESCRIPTION:Holstein Kiel - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - DHfK Leipzig - Bundesliga - viaplay
-DTSTART:20241020T135500
-DTEND:20241020T145500
-DTSTAMP:20241020T135500Z
-UID:2024-10-20T13:55:00/Magdeburg - DHfK Leipzig
-DESCRIPTION:Magdeburg - DHfK Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - Werder Bremen - Bundesliga - viaplay
-DTSTART:20241020T152000
-DTEND:20241020T162000
-DTSTAMP:20241020T152000Z
-UID:2024-10-20T15:20:00/Wolfsburg - Werder Bremen
-DESCRIPTION:Wolfsburg - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hamburg - Hannover-Burgdorf - Bundesliga - viaplay
 DTSTART:20241024T165500
 DTEND:20241024T175500
@@ -50,28 +26,12 @@ UID:2024-10-25T18:25:00/Erlangen - Kiel
 DESCRIPTION:Erlangen - Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Augsburg - Dortmund - Bundesliga - viaplay
 DTSTART:20241026T132000
 DTEND:20241026T142000
 DTSTAMP:20241026T132000Z
-UID:2024-10-26T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Freiburg - Bundesliga - viaplay
-DTSTART:20241026T132000
-DTEND:20241026T142000
-DTSTAMP:20241026T132000Z
-UID:2024-10-26T13:20:00/Leipzig - Freiburg
-DESCRIPTION:Leipzig - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stuttgart - Holstein Kiel - Bundesliga - viaplay
-DTSTART:20241026T132000
-DTEND:20241026T142000
-DTSTAMP:20241026T132000Z
-UID:2024-10-26T13:20:00/Stuttgart - Holstein Kiel
-DESCRIPTION:Stuttgart - Holstein Kiel - Bundesliga
+UID:2024-10-26T13:20:00/Augsburg - Dortmund
+DESCRIPTION:Augsburg - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Wolfsburg - Bundesliga - viaplay
@@ -82,12 +42,28 @@ UID:2024-10-26T13:20:00/St. Pauli - Wolfsburg
 DESCRIPTION:St. Pauli - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Dortmund - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20241026T132000
 DTEND:20241026T142000
 DTSTAMP:20241026T132000Z
-UID:2024-10-26T13:20:00/Augsburg - Dortmund
-DESCRIPTION:Augsburg - Dortmund - Bundesliga
+UID:2024-10-26T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Holstein Kiel - Bundesliga - viaplay
+DTSTART:20241026T132000
+DTEND:20241026T142000
+DTSTAMP:20241026T132000Z
+UID:2024-10-26T13:20:00/Stuttgart - Holstein Kiel
+DESCRIPTION:Stuttgart - Holstein Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Freiburg - Bundesliga - viaplay
+DTSTART:20241026T132000
+DTEND:20241026T142000
+DTSTAMP:20241026T132000Z
+UID:2024-10-26T13:20:00/Leipzig - Freiburg
+DESCRIPTION:Leipzig - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werder Bremen - Leverkusen - Bundesliga - viaplay
@@ -96,5 +72,37 @@ DTEND:20241026T172000
 DTSTAMP:20241026T162000Z
 UID:2024-10-26T16:20:00/Werder Bremen - Leverkusen
 DESCRIPTION:Werder Bremen - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Magdeburg - Bundesliga - viaplay
+DTSTART:20241027T135500
+DTEND:20241027T145500
+DTSTAMP:20241027T135500Z
+UID:2024-10-27T13:55:00/Stuttgart - Magdeburg
+DESCRIPTION:Stuttgart - Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum - Bayern München - Bundesliga - viaplay
+DTSTART:20241027T142000
+DTEND:20241027T152000
+DTSTAMP:20241027T142000Z
+UID:2024-10-27T14:20:00/Bochum - Bayern München
+DESCRIPTION:Bochum - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Frankfurt - Bundesliga - viaplay
+DTSTART:20241027T162000
+DTEND:20241027T172000
+DTSTAMP:20241027T162000Z
+UID:2024-10-27T16:20:00/Union Berlin - Frankfurt
+DESCRIPTION:Union Berlin - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Hoffenheim - Bundesliga - viaplay
+DTSTART:20241027T182000
+DTEND:20241027T192000
+DTSTAMP:20241027T182000Z
+UID:2024-10-27T18:20:00/Heidenheim - Hoffenheim
+DESCRIPTION:Heidenheim - Hoffenheim - Bundesliga
 END:VEVENT
 END:VCALENDAR
