@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Jahn Regensburg - 2. Bundesliga - viaplay
-DTSTART:20241025T162500
-DTEND:20241025T172500
-DTSTAMP:20241025T162500Z
-UID:2024-10-25T16:25:00/Nürnberg - Jahn Regensburg
-DESCRIPTION:Nürnberg - Jahn Regensburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Köln - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20241025T162500
 DTEND:20241025T172500
@@ -18,12 +10,12 @@ UID:2024-10-25T16:25:00/Köln - Paderborn
 DESCRIPTION:Köln - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - HSV - 2. Bundesliga - viaplay
-DTSTART:20241026T105500
-DTEND:20241026T115500
-DTSTAMP:20241026T105500Z
-UID:2024-10-26T10:55:00/Elversberg - HSV
-DESCRIPTION:Elversberg - HSV - 2. Bundesliga
+SUMMARY:Nürnberg - Jahn Regensburg - 2. Bundesliga - viaplay
+DTSTART:20241025T162500
+DTEND:20241025T172500
+DTSTAMP:20241025T162500Z
+UID:2024-10-25T16:25:00/Nürnberg - Jahn Regensburg
+DESCRIPTION:Nürnberg - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schalke - Greuther Fürth - 2. Bundesliga - viaplay
@@ -32,6 +24,14 @@ DTEND:20241026T115500
 DTSTAMP:20241026T105500Z
 UID:2024-10-26T10:55:00/Schalke - Greuther Fürth
 DESCRIPTION:Schalke - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elversberg - HSV - 2. Bundesliga - viaplay
+DTSTART:20241026T105500
+DTEND:20241026T115500
+DTSTAMP:20241026T105500Z
+UID:2024-10-26T10:55:00/Elversberg - HSV
+DESCRIPTION:Elversberg - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Hertha Berlin - 2. Bundesliga - viaplay
@@ -66,19 +66,19 @@ UID:2024-10-27T12:20:00/Magdeburg - Hannover
 DESCRIPTION:Magdeburg - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschweig - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20241027T122500
-DTEND:20241027T132500
-DTSTAMP:20241027T122500Z
-UID:2024-10-27T12:25:00/Braunschweig - Preußen Münster
-DESCRIPTION:Braunschweig - Preußen Münster - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darmstadt - Ulm - 2. Bundesliga - viaplay
 DTSTART:20241027T122500
 DTEND:20241027T132500
 DTSTAMP:20241027T122500Z
 UID:2024-10-27T12:25:00/Darmstadt - Ulm
 DESCRIPTION:Darmstadt - Ulm - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braunschweig - Preußen Münster - 2. Bundesliga - viaplay
+DTSTART:20241027T122500
+DTEND:20241027T132500
+DTSTAMP:20241027T122500Z
+UID:2024-10-27T12:25:00/Braunschweig - Preußen Münster
+DESCRIPTION:Braunschweig - Preußen Münster - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
