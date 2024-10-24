@@ -50,20 +50,20 @@ UID:2024-10-27T11:30:00/Parma - Empoli
 DESCRIPTION:Parma - Empoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monza - Venezia - Serie A - Ítalski boltinn - livey
-DTSTART:20241027T140000
-DTEND:20241027T150000
-DTSTAMP:20241027T140000Z
-UID:2024-10-27T14:00:00/Monza - Venezia
-DESCRIPTION:Monza - Venezia - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lazio - Genoa - Serie A - Ítalski boltinn - livey
 DTSTART:20241027T140000
 DTEND:20241027T150000
 DTSTAMP:20241027T140000Z
 UID:2024-10-27T14:00:00/Lazio - Genoa
 DESCRIPTION:Lazio - Genoa - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monza - Venezia - Serie A - Ítalski boltinn - livey
+DTSTART:20241027T140000
+DTEND:20241027T150000
+DTSTAMP:20241027T140000Z
+UID:2024-10-27T14:00:00/Monza - Venezia
+DESCRIPTION:Monza - Venezia - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Milan - Juventus - Serie A - Ítalski boltinn - livey
@@ -88,5 +88,13 @@ DTEND:20241027T204500
 DTSTAMP:20241027T194500Z
 UID:2024-10-27T19:45:00/Fiorentina - Roma
 DESCRIPTION:Fiorentina - Roma - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
+DTSTART:20241029T194000
+DTEND:20241029T204000
+DTSTAMP:20241029T194000Z
+UID:2024-10-29T19:40:00/Ítalski boltinn
+DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR
