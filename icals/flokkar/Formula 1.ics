@@ -21,14 +21,6 @@ DESCRIPTION:Track Positioning (Æfing 1 | Mexíkó Kappaksturinn) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Mexíkó Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20241025T183000
-DTEND:20241025T193000
-DTSTAMP:20241025T183000Z
-UID:2024-10-25T18:30:00/Timing (Æfing 1 | Mexíkó Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Mexíkó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 1 | Mexíkó Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20241025T183000
 DTEND:20241025T193000
@@ -45,6 +37,14 @@ UID:2024-10-25T18:30:00/Pitlane (Æfing 1 | Mexíkó Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Mexíkó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Mexíkó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241025T183000
+DTEND:20241025T193000
+DTSTAMP:20241025T183000Z
+UID:2024-10-25T18:30:00/Timing (Æfing 1 | Mexíkó Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Mexíkó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mexíkó Kappaksturinn (Æfing 2) - Formula 1 - viaplay
 DTSTART:20241025T215500
 DTEND:20241025T225500
@@ -53,12 +53,15 @@ UID:2024-10-25T21:55:00/Mexíkó Kappaksturinn (Æfing 2)
 DESCRIPTION:Mexíkó Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 2 | Mexíkó Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Æfing 2 | Mexíkó Kappaksturinn) - Formula 1 
+ - viaplay
 DTSTART:20241025T220000
 DTEND:20241025T230000
 DTSTAMP:20241025T220000Z
-UID:2024-10-25T22:00:00/Timing (Æfing 2 | Mexíkó Kappaksturinn)
-DESCRIPTION:Timing (Æfing 2 | Mexíkó Kappaksturinn) - Formula 1
+UID:2024-10-25T22:00:00/Track Positioning (Æfing 2 | Mexíkó Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Æfing 2 | Mexíkó Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 2 | Mexíkó Kappaksturinn) - Formula 1 - viaplay
@@ -77,15 +80,12 @@ UID:2024-10-25T22:00:00/Onboard (Æfing 2 | Mexíkó Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Mexíkó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 2 | Mexíkó Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Timing (Æfing 2 | Mexíkó Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20241025T220000
 DTEND:20241025T230000
 DTSTAMP:20241025T220000Z
-UID:2024-10-25T22:00:00/Track Positioning (Æfing 2 | Mexíkó Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Æfing 2 | Mexíkó Kappaksturinn) - Formul
- a 1
+UID:2024-10-25T22:00:00/Timing (Æfing 2 | Mexíkó Kappaksturinn)
+DESCRIPTION:Timing (Æfing 2 | Mexíkó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexíkó Kappaksturinn (Æfing 3) - Formula 1 - viaplay
@@ -94,6 +94,25 @@ DTEND:20241026T182500
 DTSTAMP:20241026T172500Z
 UID:2024-10-26T17:25:00/Mexíkó Kappaksturinn (Æfing 3)
 DESCRIPTION:Mexíkó Kappaksturinn (Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 3 | Mexíkó Kappaksturinn) - Formula 1 
+ - viaplay
+DTSTART:20241026T173000
+DTEND:20241026T183000
+DTSTAMP:20241026T173000Z
+UID:2024-10-26T17:30:00/Track Positioning (Æfing 3 | Mexíkó Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Æfing 3 | Mexíkó Kappaksturinn) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Mexíkó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241026T173000
+DTEND:20241026T183000
+DTSTAMP:20241026T173000Z
+UID:2024-10-26T17:30:00/Onboard (Æfing 3 | Mexíkó Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Mexíkó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 3 | Mexíkó Kappaksturinn) - Formula 1 - viaplay
@@ -112,40 +131,12 @@ UID:2024-10-26T17:30:00/Timing (Æfing 3 | Mexíkó Kappaksturinn)
 DESCRIPTION:Timing (Æfing 3 | Mexíkó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Mexíkó Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20241026T173000
-DTEND:20241026T183000
-DTSTAMP:20241026T173000Z
-UID:2024-10-26T17:30:00/Onboard (Æfing 3 | Mexíkó Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Mexíkó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 3 | Mexíkó Kappaksturinn) - Formula 1 
- - viaplay
-DTSTART:20241026T173000
-DTEND:20241026T183000
-DTSTAMP:20241026T173000Z
-UID:2024-10-26T17:30:00/Track Positioning (Æfing 3 | Mexíkó Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Æfing 3 | Mexíkó Kappaksturinn) - Formul
- a 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mexíkó Kappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20241026T204500
 DTEND:20241026T214500
 DTSTAMP:20241026T204500Z
 UID:2024-10-26T20:45:00/Mexíkó Kappaksturinn (Tímatökur)
 DESCRIPTION:Mexíkó Kappaksturinn (Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Mexíkó Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20241026T210000
-DTEND:20241026T220000
-DTSTAMP:20241026T210000Z
-UID:2024-10-26T21:00:00/Pitlane (Tímatökur | Mexíkó Kappaksturinn)
-DESCRIPTION:Pitlane (Tímatökur | Mexíkó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Mexíkó Kappaksturinn) - Formula
@@ -159,15 +150,6 @@ DESCRIPTION:Track Positioning (Tímatökur | Mexíkó Kappaksturinn) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Mexíkó Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20241026T210000
-DTEND:20241026T220000
-DTSTAMP:20241026T210000Z
-UID:2024-10-26T21:00:00/Timing (Tímatökur | Mexíkó Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Mexíkó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Mexíkó Kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20241026T210000
@@ -175,6 +157,24 @@ DTEND:20241026T220000
 DTSTAMP:20241026T210000Z
 UID:2024-10-26T21:00:00/Onboard (Tímatökur | Mexíkó Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Mexíkó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Tímatökur | Mexíkó Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20241026T210000
+DTEND:20241026T220000
+DTSTAMP:20241026T210000Z
+UID:2024-10-26T21:00:00/Pitlane (Tímatökur | Mexíkó Kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Mexíkó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Tímatökur | Mexíkó Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20241026T210000
+DTEND:20241026T220000
+DTSTAMP:20241026T210000Z
+UID:2024-10-26T21:00:00/Timing (Tímatökur | Mexíkó Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Mexíkó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexíkó Kappaksturinn (Kappakstur) - Formula 1 - viaplay
@@ -185,6 +185,14 @@ UID:2024-10-27T19:30:00/Mexíkó Kappaksturinn (Kappakstur)
 DESCRIPTION:Mexíkó Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Mexíkó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20241027T200000
+DTEND:20241027T210000
+DTSTAMP:20241027T200000Z
+UID:2024-10-27T20:00:00/Timing (Kappakstur | Mexíkó Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Mexíkó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Mexíkó Kappaksturinn) - Formula 1 - viapla
  y
 DTSTART:20241027T200000
@@ -192,14 +200,6 @@ DTEND:20241027T210000
 DTSTAMP:20241027T200000Z
 UID:2024-10-27T20:00:00/Pitlane (Kappakstur | Mexíkó Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Mexíkó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Mexíkó Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20241027T200000
-DTEND:20241027T210000
-DTSTAMP:20241027T200000Z
-UID:2024-10-27T20:00:00/Timing (Kappakstur | Mexíkó Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Mexíkó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Mexíkó Kappaksturinn) - Formula 1 - viapla
