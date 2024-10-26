@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Moto3 - ical
 BEGIN:VEVENT
-SUMMARY:Taíland kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
-DTSTART:20241025T015500
-DTEND:20241025T025500
-DTSTAMP:20241025T015500Z
-UID:2024-10-25T01:55:00/Taíland kappaksturinn (Frjáls æfing 1)
-DESCRIPTION:Taíland kappaksturinn (Frjáls æfing 1) - Moto3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taíland kappaksturinn (Æfing) - Moto3 - viaplay
-DTSTART:20241025T061000
-DTEND:20241025T071000
-DTSTAMP:20241025T061000Z
-UID:2024-10-25T06:10:00/Taíland kappaksturinn (Æfing)
-DESCRIPTION:Taíland kappaksturinn (Æfing) - Moto3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Taíland kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
 DTSTART:20241026T013500
 DTEND:20241026T023500
@@ -40,5 +24,21 @@ DTEND:20241027T054500
 DTSTAMP:20241027T044500Z
 UID:2024-10-27T04:45:00/Taíland kappaksturinn (Kappakstur)
 DESCRIPTION:Taíland kappaksturinn (Kappakstur) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malasíu Grand Prix (Frjáls æfing 1) - Moto3 - viaplay
+DTSTART:20241101T005500
+DTEND:20241101T015500
+DTSTAMP:20241101T005500Z
+UID:2024-11-01T00:55:00/Malasíu Grand Prix (Frjáls æfing 1)
+DESCRIPTION:Malasíu Grand Prix (Frjáls æfing 1) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malasíu Grand Prix (Æfing) - Moto3 - viaplay
+DTSTART:20241101T051000
+DTEND:20241101T061000
+DTSTAMP:20241101T051000Z
+UID:2024-11-01T05:10:00/Malasíu Grand Prix (Æfing)
+DESCRIPTION:Malasíu Grand Prix (Æfing) - Moto3
 END:VEVENT
 END:VCALENDAR

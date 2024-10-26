@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Haukar - Stjarnan - Bónus deild karla - stod2sport5
-DTSTART:20241025T190500
-DTEND:20241025T200500
-DTSTAMP:20241025T190500Z
-UID:2024-10-25T19:05:00/Haukar - Stjarnan
-DESCRIPTION:Haukar - Stjarnan - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grindavík - Tindastóll - Bónus deild karla - stod2sport
-DTSTART:20241025T200000
-DTEND:20241025T210000
-DTSTAMP:20241025T200000Z
-UID:2024-10-25T20:00:00/Grindavík - Tindastóll
-DESCRIPTION:Grindavík - Tindastóll - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
-DTSTART:20241025T221000
-DTEND:20241025T231000
-DTSTAMP:20241025T221000Z
-UID:2024-10-25T22:10:00/Bónus Körfuboltakvöld
-DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nuggets - Clippers - NBA - stod2sport2
 DTSTART:20241026T210000
 DTEND:20241026T220000
@@ -122,20 +98,20 @@ UID:2024-10-31T19:05:00/Stjarnan - Grindavík
 DESCRIPTION:Stjarnan - Grindavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Álftanes - ÍR - Bónus deild karla - stod2besta02
+DTSTART:20241031T191000
+DTEND:20241031T201000
+DTSTAMP:20241031T191000Z
+UID:2024-10-31T19:10:00/Álftanes - ÍR
+DESCRIPTION:Álftanes - ÍR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Njarðvík - Valur - Bónus deild karla - stod2besta01
 DTSTART:20241031T191000
 DTEND:20241031T201000
 DTSTAMP:20241031T191000Z
 UID:2024-10-31T19:10:00/Njarðvík - Valur
 DESCRIPTION:Njarðvík - Valur - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
-DTSTART:20241031T191000
-DTEND:20241031T201000
-DTSTAMP:20241031T191000Z
-UID:2024-10-31T19:10:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - Höttur - Bónus deild karla - stod2besta03
@@ -146,12 +122,12 @@ UID:2024-10-31T19:10:00/Tindastóll - Höttur
 DESCRIPTION:Tindastóll - Höttur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Álftanes - ÍR - Bónus deild karla - stod2besta02
+SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
 DTSTART:20241031T191000
 DTEND:20241031T201000
 DTSTAMP:20241031T191000Z
-UID:2024-10-31T19:10:00/Álftanes - ÍR
-DESCRIPTION:Álftanes - ÍR - Bónus deild karla
+UID:2024-10-31T19:10:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
@@ -160,5 +136,29 @@ DTEND:20241031T221000
 DTSTAMP:20241031T211000Z
 UID:2024-10-31T21:10:00/Tilþrifin
 DESCRIPTION:Tilþrifin - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Þ. - Haukar - Bónus deild karla - stod2sport5
+DTSTART:20241101T185000
+DTEND:20241101T195000
+DTSTAMP:20241101T185000Z
+UID:2024-11-01T18:50:00/Þór Þ. - Haukar
+DESCRIPTION:Þór Þ. - Haukar - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keflavík - KR - Bónus deild karla - stod2sport
+DTSTART:20241101T192000
+DTEND:20241101T202000
+DTSTAMP:20241101T192000Z
+UID:2024-11-01T19:20:00/Keflavík - KR
+DESCRIPTION:Keflavík - KR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
+DTSTART:20241101T212000
+DTEND:20241101T222000
+DTSTAMP:20241101T212000Z
+UID:2024-11-01T21:20:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
