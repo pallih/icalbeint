@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Nascar - ical
 BEGIN:VEVENT
-SUMMARY:Playoff Race at Homestead-Miami (Truck Series) - Nascar - viaplay
-DTSTART:20241026T160000
-DTEND:20241026T170000
-DTSTAMP:20241026T160000Z
-UID:2024-10-26T16:00:00/Playoff Race at Homestead-Miami (Truck Series)
-DESCRIPTION:Playoff Race at Homestead-Miami (Truck Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Homestead - Miami Speedway (Xfinity Series) - Nascar - viaplay
-DTSTART:20241026T193000
-DTEND:20241026T203000
-DTSTAMP:20241026T193000Z
-UID:2024-10-26T19:30:00/Homestead - Miami Speedway (Xfinity Series)
-DESCRIPTION:Homestead - Miami Speedway (Xfinity Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Race at Homestead-Miami (Cup Series) - Nascar - viaplay
 DTSTART:20241027T180000
 DTEND:20241027T190000
@@ -32,5 +16,13 @@ DTEND:20241101T230000
 DTSTAMP:20241101T220000Z
 UID:2024-11-01T22:00:00/Playoff Race at Martinsville (Truck Series)
 DESCRIPTION:Playoff Race at Martinsville (Truck Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martinsville Speedway (Xfinity Series) - Nascar - viaplay
+DTSTART:20241102T193000
+DTEND:20241102T203000
+DTSTAMP:20241102T193000Z
+UID:2024-11-02T19:30:00/Martinsville Speedway (Xfinity Series)
+DESCRIPTION:Martinsville Speedway (Xfinity Series) - Nascar
 END:VEVENT
 END:VCALENDAR

@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Elversberg - HSV - 2. Bundesliga - viaplay
-DTSTART:20241026T105500
-DTEND:20241026T115500
-DTSTAMP:20241026T105500Z
-UID:2024-10-26T10:55:00/Elversberg - HSV
-DESCRIPTION:Elversberg - HSV - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schalke - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20241026T105500
-DTEND:20241026T115500
-DTSTAMP:20241026T105500Z
-UID:2024-10-26T10:55:00/Schalke - Greuther Fürth
-DESCRIPTION:Schalke - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karlsruher - Hertha Berlin - 2. Bundesliga - viaplay
-DTSTART:20241026T105500
-DTEND:20241026T115500
-DTSTAMP:20241026T105500Z
-UID:2024-10-26T10:55:00/Karlsruher - Hertha Berlin
-DESCRIPTION:Karlsruher - Hertha Berlin - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Düsseldorf - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20241026T182500
-DTEND:20241026T192500
-DTSTAMP:20241026T182500Z
-UID:2024-10-26T18:25:00/Düsseldorf - Kaiserslautern
-DESCRIPTION:Düsseldorf - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Hannover 96 - 2. Bundesliga - stod2vodasport
 DTSTART:20241027T112000
 DTEND:20241027T122000
@@ -50,6 +18,14 @@ UID:2024-10-27T12:25:00/Magdeburg - Hannover
 DESCRIPTION:Magdeburg - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Darmstadt - Ulm - 2. Bundesliga - viaplay
+DTSTART:20241027T122500
+DTEND:20241027T132500
+DTSTAMP:20241027T122500Z
+UID:2024-10-27T12:25:00/Darmstadt - Ulm
+DESCRIPTION:Darmstadt - Ulm - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Braunschweig - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20241027T122500
 DTEND:20241027T132500
@@ -58,12 +34,12 @@ UID:2024-10-27T12:25:00/Braunschweig - Preußen Münster
 DESCRIPTION:Braunschweig - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - Ulm - 2. Bundesliga - viaplay
-DTSTART:20241027T122500
-DTEND:20241027T132500
-DTSTAMP:20241027T122500Z
-UID:2024-10-27T12:25:00/Darmstadt - Ulm
-DESCRIPTION:Darmstadt - Ulm - 2. Bundesliga
+SUMMARY:Ulm - Schalke - 2. Bundesliga - viaplay
+DTSTART:20241101T172500
+DTEND:20241101T182500
+DTSTAMP:20241101T172500Z
+UID:2024-11-01T17:25:00/Ulm - Schalke
+DESCRIPTION:Ulm - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preußen Münster - Düsseldorf - 2. Bundesliga - viaplay
@@ -74,11 +50,35 @@ UID:2024-11-01T17:25:00/Preußen Münster - Düsseldorf
 DESCRIPTION:Preußen Münster - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ulm - Schalke - 2. Bundesliga - viaplay
-DTSTART:20241101T172500
-DTEND:20241101T182500
-DTSTAMP:20241101T172500Z
-UID:2024-11-01T17:25:00/Ulm - Schalke
-DESCRIPTION:Ulm - Schalke - 2. Bundesliga
+SUMMARY:Jahn Regensburg - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20241102T115500
+DTEND:20241102T125500
+DTSTAMP:20241102T115500Z
+UID:2024-11-02T11:55:00/Jahn Regensburg - Elversberg
+DESCRIPTION:Jahn Regensburg - Elversberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greuther Fürth - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20241102T115500
+DTEND:20241102T125500
+DTSTAMP:20241102T115500Z
+UID:2024-11-02T11:55:00/Greuther Fürth - Darmstadt
+DESCRIPTION:Greuther Fürth - Darmstadt - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20241102T115500
+DTEND:20241102T125500
+DTSTAMP:20241102T115500Z
+UID:2024-11-02T11:55:00/Hannover - Karlsruher
+DESCRIPTION:Hannover - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hertha Berlin - Köln - 2. Bundesliga - viaplay
+DTSTART:20241102T192500
+DTEND:20241102T202500
+DTSTAMP:20241102T192500Z
+UID:2024-11-02T19:25:00/Hertha Berlin - Köln
+DESCRIPTION:Hertha Berlin - Köln - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
