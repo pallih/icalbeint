@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Stuttgart - Magdeburg - Bundesliga - viaplay
-DTSTART:20241027T135500
-DTEND:20241027T145500
-DTSTAMP:20241027T135500Z
-UID:2024-10-27T13:55:00/Stuttgart - Magdeburg
-DESCRIPTION:Stuttgart - Magdeburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bochum - Bayern München - Bundesliga - viaplay
-DTSTART:20241027T142000
-DTEND:20241027T152000
-DTSTAMP:20241027T142000Z
-UID:2024-10-27T14:20:00/Bochum - Bayern München
-DESCRIPTION:Bochum - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Frankfurt - Bundesliga - viaplay
-DTSTART:20241027T162000
-DTEND:20241027T172000
-DTSTAMP:20241027T162000Z
-UID:2024-10-27T16:20:00/Union Berlin - Frankfurt
-DESCRIPTION:Union Berlin - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Hoffenheim - Bundesliga - viaplay
-DTSTART:20241027T182000
-DTEND:20241027T192000
-DTSTAMP:20241027T182000Z
-UID:2024-10-27T18:20:00/Heidenheim - Hoffenheim
-DESCRIPTION:Heidenheim - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rhein-Neckar Löwen - Eisenach - Bundesliga - viaplay
 DTSTART:20241101T185500
 DTEND:20241101T195500
@@ -50,28 +18,12 @@ UID:2024-11-01T19:20:00/Leverkusen - Stuttgart
 DESCRIPTION:Leverkusen - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Union Berlin - Bundesliga - viaplay
-DTSTART:20241102T142000
-DTEND:20241102T152000
-DTSTAMP:20241102T142000Z
-UID:2024-11-02T14:20:00/Bayern München - Union Berlin
-DESCRIPTION:Bayern München - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frankfurt - Bochum - Bundesliga - viaplay
 DTSTART:20241102T142000
 DTEND:20241102T152000
 DTSTAMP:20241102T142000Z
 UID:2024-11-02T14:20:00/Frankfurt - Bochum
 DESCRIPTION:Frankfurt - Bochum - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
-DTSTART:20241102T142000
-DTEND:20241102T152000
-DTSTAMP:20241102T142000Z
-UID:2024-11-02T14:20:00/Hoffenheim - St. Pauli
-DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Augsburg - Bundesliga - viaplay
@@ -90,6 +42,14 @@ UID:2024-11-02T14:20:00/Holstein Kiel - Heidenheim
 DESCRIPTION:Holstein Kiel - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
+DTSTART:20241102T142000
+DTEND:20241102T152000
+DTSTAMP:20241102T142000Z
+UID:2024-11-02T14:20:00/Hoffenheim - St. Pauli
+DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20241102T142000
 DTEND:20241102T152000
@@ -98,11 +58,51 @@ UID:2024-11-02T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bayern München - Union Berlin - Bundesliga - viaplay
+DTSTART:20241102T142000
+DTEND:20241102T152000
+DTSTAMP:20241102T142000Z
+UID:2024-11-02T14:20:00/Bayern München - Union Berlin
+DESCRIPTION:Bayern München - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dortmund - Leipzig - Bundesliga - viaplay
 DTSTART:20241102T172000
 DTEND:20241102T182000
 DTSTAMP:20241102T172000Z
 UID:2024-11-02T17:20:00/Dortmund - Leipzig
 DESCRIPTION:Dortmund - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Kiel - Bundesliga - viaplay
+DTSTART:20241103T135500
+DTEND:20241103T145500
+DTSTAMP:20241103T135500Z
+UID:2024-11-03T13:55:00/Füchse Berlin - Kiel
+DESCRIPTION:Füchse Berlin - Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Mainz - Bundesliga - viaplay
+DTSTART:20241103T142000
+DTEND:20241103T152000
+DTSTAMP:20241103T142000Z
+UID:2024-11-03T14:20:00/Freiburg - Mainz
+DESCRIPTION:Freiburg - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Werder Bremen - Bundesliga - viaplay
+DTSTART:20241103T162000
+DTEND:20241103T172000
+DTSTAMP:20241103T162000Z
+UID:2024-11-03T16:20:00/Mönchengladbach - Werder Bremen
+DESCRIPTION:Mönchengladbach - Werder Bremen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Lemgo Lippe - Bundesliga - viaplay
+DTSTART:20241103T165500
+DTEND:20241103T175500
+DTSTAMP:20241103T165500Z
+UID:2024-11-03T16:55:00/Magdeburg - Lemgo Lippe
+DESCRIPTION:Magdeburg - Lemgo Lippe - Bundesliga
 END:VEVENT
 END:VCALENDAR
