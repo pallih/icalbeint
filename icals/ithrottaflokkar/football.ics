@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Ástralía - Æfingaleikur - viaplay
-DTSTART:20241028T170500
-DTEND:20241028T180500
-DTSTAMP:20241028T170500Z
-UID:2024-10-28T17:05:00/Þýskaland - Ástralía
-DESCRIPTION:Þýskaland - Ástralía - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackpool - Wigan - EFL League One - stod2vodasport
-DTSTART:20241028T195500
-DTEND:20241028T205500
-DTSTAMP:20241028T195500Z
-UID:2024-10-28T19:55:00/Blackpool - Wigan
-DESCRIPTION:Blackpool - Wigan - EFL League One
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackpool - Wigan - League One - viaplay
-DTSTART:20241028T195500
-DTEND:20241028T205500
-DTSTAMP:20241028T195500Z
-UID:2024-10-28T19:55:00/Blackpool - Wigan
-DESCRIPTION:Blackpool - Wigan - League One
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RCD Mallorca - Athletic Bilbao - LaLiga - Spænski boltinn - livey
-DTSTART:20241028T200000
-DTEND:20241028T210000
-DTSTAMP:20241028T200000Z
-UID:2024-10-28T20:00:00/RCD Mallorca - Athletic Bilbao
-DESCRIPTION:RCD Mallorca - Athletic Bilbao - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20241028T210000
-DTEND:20241028T220000
-DTSTAMP:20241028T210000Z
-UID:2024-10-28T21:00:00/Völlurinn
-DESCRIPTION:Völlurinn - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Svíþjóð - Lúxemborg - Undankeppni EM kvenna - viaplay
 DTSTART:20241029T175500
 DTEND:20241029T185500
@@ -50,20 +10,20 @@ UID:2024-10-29T17:55:00/Svíþjóð - Lúxemborg
 DESCRIPTION:Svíþjóð - Lúxemborg - Undankeppni EM kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Stoke City - Carabao Cup - viaplay
-DTSTART:20241029T194000
-DTEND:20241029T204000
-DTSTAMP:20241029T194000Z
-UID:2024-10-29T19:40:00/Southampton - Stoke City
-DESCRIPTION:Southampton - Stoke City - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:England - Suður-Afríka - Æfingaleikur - viaplay
 DTSTART:20241029T194000
 DTEND:20241029T204000
 DTSTAMP:20241029T194000Z
 UID:2024-10-29T19:40:00/England - Suður-Afríka
 DESCRIPTION:England - Suður-Afríka - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southampton - Stoke City - Carabao Cup - viaplay
+DTSTART:20241029T194000
+DTEND:20241029T204000
+DTSTAMP:20241029T194000Z
+UID:2024-10-29T19:40:00/Southampton - Stoke City
+DESCRIPTION:Southampton - Stoke City - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
@@ -106,6 +66,14 @@ UID:2024-10-30T19:20:00/Brighton - Liverpool
 DESCRIPTION:Brighton - Liverpool - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Man United - Leicester - Carabao Cup - viaplay
+DTSTART:20241030T194000
+DTEND:20241030T204000
+DTSTAMP:20241030T194000Z
+UID:2024-10-30T19:40:00/Man United - Leicester
+DESCRIPTION:Man United - Leicester - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Preston - Arsenal - Carabao Cup - viaplay
 DTSTART:20241030T194000
 DTEND:20241030T204000
@@ -130,14 +98,6 @@ UID:2024-10-30T19:40:00/Newcastle - Chelsea
 DESCRIPTION:Newcastle - Chelsea - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man United - Leicester - Carabao Cup - viaplay
-DTSTART:20241030T194000
-DTEND:20241030T204000
-DTSTAMP:20241030T194000Z
-UID:2024-10-30T19:40:00/Man United - Leicester
-DESCRIPTION:Man United - Leicester - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aberdeen - Rangers - Scottish Premiership - viaplay
 DTSTART:20241030T195500
 DTEND:20241030T205500
@@ -152,14 +112,6 @@ DTEND:20241030T211000
 DTSTAMP:20241030T201000Z
 UID:2024-10-30T20:10:00/Tottenham - Man City
 DESCRIPTION:Tottenham - Man City - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
-DTSTART:20241031T172500
-DTEND:20241031T182500
-DTSTAMP:20241031T172500Z
-UID:2024-10-31T17:25:00/Ítalski boltinn
-DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Al Ittihad - Al Ahli - Saudi Pro League - viaplay
@@ -178,20 +130,20 @@ UID:2024-11-01T17:25:00/Köln - Leverkusen
 DESCRIPTION:Köln - Leverkusen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preußen Münster - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20241101T172500
-DTEND:20241101T182500
-DTSTAMP:20241101T172500Z
-UID:2024-11-01T17:25:00/Preußen Münster - Düsseldorf
-DESCRIPTION:Preußen Münster - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ulm - Schalke - 2. Bundesliga - viaplay
 DTSTART:20241101T172500
 DTEND:20241101T182500
 DTSTAMP:20241101T172500Z
 UID:2024-11-01T17:25:00/Ulm - Schalke
 DESCRIPTION:Ulm - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preußen Münster - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20241101T172500
+DTEND:20241101T182500
+DTSTAMP:20241101T172500Z
+UID:2024-11-01T17:25:00/Preußen Münster - Düsseldorf
+DESCRIPTION:Preußen Münster - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Al Nassr - Al Hilal - Saudi Pro League - viaplay
@@ -258,20 +210,20 @@ UID:2024-11-02T11:55:00/Jahn Regensburg - Elversberg
 DESCRIPTION:Jahn Regensburg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20241102T115500
-DTEND:20241102T125500
-DTSTAMP:20241102T115500Z
-UID:2024-11-02T11:55:00/Hannover - Karlsruher
-DESCRIPTION:Hannover - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Darmstadt - 2. Bundesliga - viaplay
 DTSTART:20241102T115500
 DTEND:20241102T125500
 DTSTAMP:20241102T115500Z
 UID:2024-11-02T11:55:00/Greuther Fürth - Darmstadt
 DESCRIPTION:Greuther Fürth - Darmstadt - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20241102T115500
+DTEND:20241102T125500
+DTSTAMP:20241102T115500Z
+UID:2024-11-02T11:55:00/Hannover - Karlsruher
+DESCRIPTION:Hannover - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Arsenal - Enska úrvalsdeildin - siminnsport
@@ -290,6 +242,14 @@ UID:2024-11-02T12:25:00/Stoke - Derby
 DESCRIPTION:Stoke - Derby - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vittsjö - Brommapojkarna - OBOS Damallsvenskan - viaplay
+DTSTART:20241102T135000
+DTEND:20241102T145000
+DTSTAMP:20241102T135000Z
+UID:2024-11-02T13:50:00/Vittsjö - Brommapojkarna
+DESCRIPTION:Vittsjö - Brommapojkarna - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIK - Trelleborg - OBOS Damallsvenskan - viaplay
 DTSTART:20241102T135000
 DTEND:20241102T145000
@@ -306,20 +266,12 @@ UID:2024-11-02T13:50:00/Växjö - Hammarby
 DESCRIPTION:Växjö - Hammarby - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vittsjö - Brommapojkarna - OBOS Damallsvenskan - viaplay
-DTSTART:20241102T135000
-DTEND:20241102T145000
-DTSTAMP:20241102T135000Z
-UID:2024-11-02T13:50:00/Vittsjö - Brommapojkarna
-DESCRIPTION:Vittsjö - Brommapojkarna - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankfurt - Bochum - Bundesliga - viaplay
+SUMMARY:Holstein Kiel - Heidenheim - Bundesliga - viaplay
 DTSTART:20241102T142000
 DTEND:20241102T152000
 DTSTAMP:20241102T142000Z
-UID:2024-11-02T14:20:00/Frankfurt - Bochum
-DESCRIPTION:Frankfurt - Bochum - Bundesliga
+UID:2024-11-02T14:20:00/Holstein Kiel - Heidenheim
+DESCRIPTION:Holstein Kiel - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Augsburg - Bundesliga - viaplay
@@ -330,14 +282,6 @@ UID:2024-11-02T14:20:00/Wolfsburg - Augsburg
 DESCRIPTION:Wolfsburg - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Heidenheim - Bundesliga - viaplay
-DTSTART:20241102T142000
-DTEND:20241102T152000
-DTSTAMP:20241102T142000Z
-UID:2024-11-02T14:20:00/Holstein Kiel - Heidenheim
-DESCRIPTION:Holstein Kiel - Heidenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
 DTSTART:20241102T142000
 DTEND:20241102T152000
@@ -346,12 +290,12 @@ UID:2024-11-02T14:20:00/Hoffenheim - St. Pauli
 DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Frankfurt - Bochum - Bundesliga - viaplay
 DTSTART:20241102T142000
 DTEND:20241102T152000
 DTSTAMP:20241102T142000Z
-UID:2024-11-02T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2024-11-02T14:20:00/Frankfurt - Bochum
+DESCRIPTION:Frankfurt - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Union Berlin - Bundesliga - viaplay
@@ -360,6 +304,14 @@ DTEND:20241102T152000
 DTSTAMP:20241102T142000Z
 UID:2024-11-02T14:20:00/Bayern München - Union Berlin
 DESCRIPTION:Bayern München - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20241102T142000
+DTEND:20241102T152000
+DTSTAMP:20241102T142000Z
+UID:2024-11-02T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Brighton - Enska úrvalsdeildin - siminnsport
@@ -386,12 +338,12 @@ UID:2024-11-02T14:50:00/Southampton - Everton
 DESCRIPTION:Southampton - Everton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Leicester - Enska úrvalsdeildin - siminnsport5
+SUMMARY:Bournemouth - Man. City - Enska úrvalsdeildin - siminnsport2
 DTSTART:20241102T145000
 DTEND:20241102T155000
 DTSTAMP:20241102T145000Z
-UID:2024-11-02T14:50:00/Ipswich - Leicester
-DESCRIPTION:Ipswich - Leicester - Enska úrvalsdeildin
+UID:2024-11-02T14:50:00/Bournemouth - Man. City
+DESCRIPTION:Bournemouth - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nottingham Forest - West Ham - Enska úrvalsdeildin - siminnsport3
@@ -402,12 +354,12 @@ UID:2024-11-02T14:50:00/Nottingham Forest - West Ham
 DESCRIPTION:Nottingham Forest - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Man. City - Enska úrvalsdeildin - siminnsport2
+SUMMARY:Ipswich - Leicester - Enska úrvalsdeildin - siminnsport5
 DTSTART:20241102T145000
 DTEND:20241102T155000
 DTSTAMP:20241102T145000Z
-UID:2024-11-02T14:50:00/Bournemouth - Man. City
-DESCRIPTION:Bournemouth - Man. City - Enska úrvalsdeildin
+UID:2024-11-02T14:50:00/Ipswich - Leicester
+DESCRIPTION:Ipswich - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preston - Bristol City - Championship - viaplay
@@ -466,12 +418,20 @@ UID:2024-11-02T19:55:00/Spænski boltinn
 DESCRIPTION:Spænski boltinn - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paderborn - Braunschweig - 2. Bundesliga - viaplay
+SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
+DTSTART:20241103T112500
+DTEND:20241103T122500
+DTSTAMP:20241103T112500Z
+UID:2024-11-03T11:25:00/Ítalski boltinn
+DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20241103T122500
 DTEND:20241103T132500
 DTSTAMP:20241103T122500Z
-UID:2024-11-03T12:25:00/Paderborn - Braunschweig
-DESCRIPTION:Paderborn - Braunschweig - 2. Bundesliga
+UID:2024-11-03T12:25:00/HSV - Nürnberg
+DESCRIPTION:HSV - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Magdeburg - 2. Bundesliga - viaplay
@@ -482,12 +442,12 @@ UID:2024-11-03T12:25:00/Kaiserslautern - Magdeburg
 DESCRIPTION:Kaiserslautern - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HSV - Nürnberg - 2. Bundesliga - viaplay
+SUMMARY:Paderborn - Braunschweig - 2. Bundesliga - viaplay
 DTSTART:20241103T122500
 DTEND:20241103T132500
 DTSTAMP:20241103T122500Z
-UID:2024-11-03T12:25:00/HSV - Nürnberg
-DESCRIPTION:HSV - Nürnberg - 2. Bundesliga
+UID:2024-11-03T12:25:00/Paderborn - Braunschweig
+DESCRIPTION:Paderborn - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piteå - Norrköping - OBOS Damallsvenskan - viaplay
@@ -538,20 +498,20 @@ UID:2024-11-03T14:20:00/Freiburg - Mainz
 DESCRIPTION:Freiburg - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Motherwell - Rangers - Premier Sports Cup - viaplay
-DTSTART:20241103T145500
-DTEND:20241103T155500
-DTSTAMP:20241103T145500Z
-UID:2024-11-03T14:55:00/Motherwell - Rangers
-DESCRIPTION:Motherwell - Rangers - Premier Sports Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Millwall - Burnley - Championship - viaplay
 DTSTART:20241103T145500
 DTEND:20241103T155500
 DTSTAMP:20241103T145500Z
 UID:2024-11-03T14:55:00/Millwall - Burnley
 DESCRIPTION:Millwall - Burnley - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motherwell - Rangers - Premier Sports Cup - viaplay
+DTSTART:20241103T145500
+DTEND:20241103T155500
+DTSTAMP:20241103T145500Z
+UID:2024-11-03T14:55:00/Motherwell - Rangers
+DESCRIPTION:Motherwell - Rangers - Premier Sports Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. Utd. - Chelsea - Enska úrvalsdeildin - siminnsport
@@ -586,6 +546,22 @@ UID:2024-11-03T17:25:00/Wolfsburg - Freiburg
 DESCRIPTION:Wolfsburg - Freiburg - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
+DTSTART:20241103T193000
+DTEND:20241103T203000
+DTSTAMP:20241103T193000Z
+UID:2024-11-03T19:30:00/Ítalski boltinn
+DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
+DTSTART:20241103T194000
+DTEND:20241103T204000
+DTSTAMP:20241103T194000Z
+UID:2024-11-03T19:40:00/Ítalski boltinn
+DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Red Stars - Kansas City - National Women's Soccer League -
   viaplay
 DTSTART:20241103T195500
@@ -594,5 +570,29 @@ DTSTAMP:20241103T195500Z
 UID:2024-11-03T19:55:00/Chicago Red Stars - Kansas City
 DESCRIPTION:Chicago Red Stars - Kansas City - National Women's Soccer Leag
  ue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Frankfurt - Frauen-Bundesliga - viaplay
+DTSTART:20241104T165500
+DTEND:20241104T175500
+DTSTAMP:20241104T165500Z
+UID:2024-11-04T16:55:00/Bayern München - Frankfurt
+DESCRIPTION:Bayern München - Frankfurt - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Häcken - Örebro - OBOS Damallsvenskan - viaplay
+DTSTART:20241104T174500
+DTEND:20241104T184500
+DTSTAMP:20241104T174500Z
+UID:2024-11-04T17:45:00/Häcken - Örebro
+DESCRIPTION:Häcken - Örebro - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Brentford - Enska úrvalsdeildin - siminnsport
+DTSTART:20241104T193000
+DTEND:20241104T203000
+DTSTAMP:20241104T193000Z
+UID:2024-11-04T19:30:00/Fulham - Brentford
+DESCRIPTION:Fulham - Brentford - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR

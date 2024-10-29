@@ -78,15 +78,6 @@ DESCRIPTION:Track Positioning (Æfing 1 | Brasilíski Kappaksturinn) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Brasilíski Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20241101T143000
-DTEND:20241101T153000
-DTSTAMP:20241101T143000Z
-UID:2024-11-01T14:30:00/Timing (Æfing 1 | Brasilíski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Brasilíski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 1 | Brasilíski Kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20241101T143000
@@ -94,6 +85,15 @@ DTEND:20241101T153000
 DTSTAMP:20241101T143000Z
 UID:2024-11-01T14:30:00/Onboard (Æfing 1 | Brasilíski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Brasilíski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Brasilíski Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20241101T143000
+DTEND:20241101T153000
+DTSTAMP:20241101T143000Z
+UID:2024-11-01T14:30:00/Timing (Æfing 1 | Brasilíski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Brasilíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brasilíski Kappaksturinn (Sprint Shootout) - Formula 1 - viaplay
@@ -115,15 +115,15 @@ DESCRIPTION:Onboard (Sprint Shootout  | Brasilíski Kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Sprint Shootout  | Brasilíski Kappaksturinn) - Formula 1
-  - viaplay
+SUMMARY:Timing (Sprint Shootout  | Brasilíski Kappaksturinn) - Formula 1 
+ - viaplay
 DTSTART:20241101T183000
 DTEND:20241101T193000
 DTSTAMP:20241101T183000Z
-UID:2024-11-01T18:30:00/Pitlane (Sprint Shootout  | Brasilíski Kappakstur
- inn)
-DESCRIPTION:Pitlane (Sprint Shootout  | Brasilíski Kappaksturinn) - Formu
- la 1
+UID:2024-11-01T18:30:00/Timing (Sprint Shootout  | Brasilíski Kappaksturi
+ nn)
+DESCRIPTION:Timing (Sprint Shootout  | Brasilíski Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Sprint Shootout  | Brasilíski Kappaksturinn) -
@@ -137,15 +137,15 @@ DESCRIPTION:Track Positioning (Sprint Shootout  | Brasilíski Kappaksturin
  n) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Sprint Shootout  | Brasilíski Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Pitlane (Sprint Shootout  | Brasilíski Kappaksturinn) - Formula 1
+  - viaplay
 DTSTART:20241101T183000
 DTEND:20241101T193000
 DTSTAMP:20241101T183000Z
-UID:2024-11-01T18:30:00/Timing (Sprint Shootout  | Brasilíski Kappaksturi
- nn)
-DESCRIPTION:Timing (Sprint Shootout  | Brasilíski Kappaksturinn) - Formul
- a 1
+UID:2024-11-01T18:30:00/Pitlane (Sprint Shootout  | Brasilíski Kappakstur
+ inn)
+DESCRIPTION:Pitlane (Sprint Shootout  | Brasilíski Kappaksturinn) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playoff Race at Martinsville (Truck Series) - Nascar - viaplay
@@ -220,6 +220,15 @@ UID:2024-11-02T13:55:00/Brasilíski Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Brasilíski Kappaksturinn (Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1 - v
+ iaplay
+DTSTART:20241102T140000
+DTEND:20241102T150000
+DTSTAMP:20241102T140000Z
+UID:2024-11-02T14:00:00/Onboard (Sprettkeppni | Brasilíski Kappaksturinn)
+DESCRIPTION:Onboard (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1 - vi
  aplay
 DTSTART:20241102T140000
@@ -227,15 +236,6 @@ DTEND:20241102T150000
 DTSTAMP:20241102T140000Z
 UID:2024-11-02T14:00:00/Timing (Sprettkeppni | Brasilíski Kappaksturinn)
 DESCRIPTION:Timing (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1 - v
- iaplay
-DTSTART:20241102T140000
-DTEND:20241102T150000
-DTSTAMP:20241102T140000Z
-UID:2024-11-02T14:00:00/Pitlane (Sprettkeppni | Brasilíski Kappaksturinn)
-DESCRIPTION:Pitlane (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Sprettkeppni | Brasilíski Kappaksturinn) - For
@@ -249,20 +249,20 @@ DESCRIPTION:Track Positioning (Sprettkeppni | Brasilíski Kappaksturinn) -
   Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1 - v
+SUMMARY:Pitlane (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1 - v
  iaplay
 DTSTART:20241102T140000
 DTEND:20241102T150000
 DTSTAMP:20241102T140000Z
-UID:2024-11-02T14:00:00/Onboard (Sprettkeppni | Brasilíski Kappaksturinn)
-DESCRIPTION:Onboard (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1
+UID:2024-11-02T14:00:00/Pitlane (Sprettkeppni | Brasilíski Kappaksturinn)
+DESCRIPTION:Pitlane (Sprettkeppni | Brasilíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brasilíski Kappaksturinn (Tímatökur) - Formula 1 - viaplay
-DTSTART:20241102T175500
-DTEND:20241102T185500
-DTSTAMP:20241102T175500Z
-UID:2024-11-02T17:55:00/Brasilíski Kappaksturinn (Tímatökur)
+DTSTART:20241102T174500
+DTEND:20241102T184500
+DTSTAMP:20241102T174500Z
+UID:2024-11-02T17:45:00/Brasilíski Kappaksturinn (Tímatökur)
 DESCRIPTION:Brasilíski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
@@ -275,13 +275,13 @@ UID:2024-11-02T18:00:00/Timing (Tímatökur | Brasilíski Kappaksturinn)
 DESCRIPTION:Timing (Tímatökur | Brasilíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Brasilíski Kappaksturinn) - Formula 1 - vi
+SUMMARY:Onboard (Tímatökur | Brasilíski Kappaksturinn) - Formula 1 - vi
  aplay
 DTSTART:20241102T180000
 DTEND:20241102T190000
 DTSTAMP:20241102T180000Z
-UID:2024-11-02T18:00:00/Pitlane (Tímatökur | Brasilíski Kappaksturinn)
-DESCRIPTION:Pitlane (Tímatökur | Brasilíski Kappaksturinn) - Formula 1
+UID:2024-11-02T18:00:00/Onboard (Tímatökur | Brasilíski Kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Brasilíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Brasilíski Kappaksturinn) - Form
@@ -295,20 +295,20 @@ DESCRIPTION:Track Positioning (Tímatökur | Brasilíski Kappaksturinn) -
  Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Brasilíski Kappaksturinn) - Formula 1 - vi
+SUMMARY:Pitlane (Tímatökur | Brasilíski Kappaksturinn) - Formula 1 - vi
  aplay
 DTSTART:20241102T180000
 DTEND:20241102T190000
 DTSTAMP:20241102T180000Z
-UID:2024-11-02T18:00:00/Onboard (Tímatökur | Brasilíski Kappaksturinn)
-DESCRIPTION:Onboard (Tímatökur | Brasilíski Kappaksturinn) - Formula 1
+UID:2024-11-02T18:00:00/Pitlane (Tímatökur | Brasilíski Kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Brasilíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Martinsville Speedway (Xfinity Series) - Nascar - viaplay
-DTSTART:20241102T193000
-DTEND:20241102T203000
-DTSTAMP:20241102T193000Z
-UID:2024-11-02T19:30:00/Martinsville Speedway (Xfinity Series)
+DTSTART:20241102T183000
+DTEND:20241102T193000
+DTSTAMP:20241102T183000Z
+UID:2024-11-02T18:30:00/Martinsville Speedway (Xfinity Series)
 DESCRIPTION:Martinsville Speedway (Xfinity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
@@ -362,24 +362,6 @@ UID:2024-11-03T16:55:00/F1 Kids (Brasilíski Kappaksturinn | Kappakstur)
 DESCRIPTION:F1 Kids (Brasilíski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Brasilíski Kappaksturinn) - Formula 1 - via
- play
-DTSTART:20241103T170000
-DTEND:20241103T180000
-DTSTAMP:20241103T170000Z
-UID:2024-11-03T17:00:00/Onboard (Kappakstur | Brasilíski Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Brasilíski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Brasilíski Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20241103T170000
-DTEND:20241103T180000
-DTSTAMP:20241103T170000Z
-UID:2024-11-03T17:00:00/Timing (Kappakstur | Brasilíski Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Brasilíski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Brasilíski Kappaksturinn) - Formu
  la 1 - viaplay
 DTSTART:20241103T170000
@@ -398,6 +380,24 @@ DTEND:20241103T180000
 DTSTAMP:20241103T170000Z
 UID:2024-11-03T17:00:00/Pitlane (Kappakstur | Brasilíski Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Brasilíski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Brasilíski Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20241103T170000
+DTEND:20241103T180000
+DTSTAMP:20241103T170000Z
+UID:2024-11-03T17:00:00/Timing (Kappakstur | Brasilíski Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Brasilíski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Brasilíski Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20241103T170000
+DTEND:20241103T180000
+DTSTAMP:20241103T170000Z
+UID:2024-11-03T17:00:00/Onboard (Kappakstur | Brasilíski Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Brasilíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xfinity 500 (Cup Series) - Nascar - viaplay
