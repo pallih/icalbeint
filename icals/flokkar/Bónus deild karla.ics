@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bónus deild karla - ical
 BEGIN:VEVENT
-SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
-DTSTART:20241029T193000
-DTEND:20241029T203000
-DTSTAMP:20241029T193000Z
-UID:2024-10-29T19:30:00/Bónus deildin - Extra
-DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GAZið: Upphitun - Bónus deild karla - stod2sport
 DTSTART:20241031T190000
 DTEND:20241031T200000
@@ -26,12 +18,12 @@ UID:2024-10-31T19:05:00/Stjarnan - Grindavík
 DESCRIPTION:Stjarnan - Grindavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Höttur - Bónus deild karla - stod2besta03
+SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
 DTSTART:20241031T191000
 DTEND:20241031T201000
 DTSTAMP:20241031T191000Z
-UID:2024-10-31T19:10:00/Tindastóll - Höttur
-DESCRIPTION:Tindastóll - Höttur - Bónus deild karla
+UID:2024-10-31T19:10:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GAZið: Njarðvík - Valur - Bónus deild karla - stod2besta01
@@ -42,20 +34,20 @@ UID:2024-10-31T19:10:00/GAZið: Njarðvík - Valur
 DESCRIPTION:GAZið: Njarðvík - Valur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
-DTSTART:20241031T191000
-DTEND:20241031T201000
-DTSTAMP:20241031T191000Z
-UID:2024-10-31T19:10:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Álftanes - ÍR - Bónus deild karla - stod2besta02
 DTSTART:20241031T191000
 DTEND:20241031T201000
 DTSTAMP:20241031T191000Z
 UID:2024-10-31T19:10:00/Álftanes - ÍR
 DESCRIPTION:Álftanes - ÍR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Höttur - Bónus deild karla - stod2besta03
+DTSTART:20241031T191000
+DTEND:20241031T201000
+DTSTAMP:20241031T191000Z
+UID:2024-10-31T19:10:00/Tindastóll - Höttur
+DESCRIPTION:Tindastóll - Höttur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
@@ -96,5 +88,13 @@ DTEND:20241103T200500
 DTSTAMP:20241103T190500Z
 UID:2024-11-03T19:05:00/Tindastóll - Stjarnan
 DESCRIPTION:Tindastóll - Stjarnan - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
+DTSTART:20241105T200000
+DTEND:20241105T210000
+DTSTAMP:20241105T200000Z
+UID:2024-11-05T20:00:00/Bónus deildin - Extra
+DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
