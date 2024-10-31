@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:ÍBV 2 - Þór - Powerade bikar karla  2025 - hsi1
-DTSTART:20241030T173000
-DTEND:20241030T183000
-DTSTAMP:20241030T173000Z
-UID:2024-10-30T17:30:00/ÍBV 2 - Þór
-DESCRIPTION:ÍBV 2 - Þór - Powerade bikar karla  2025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - ÍBV - Olís deild karla - hsi1
 DTSTART:20241031T180000
 DTEND:20241031T190000
@@ -26,6 +18,14 @@ UID:2024-10-31T19:00:00/KA - Stjarnan
 DESCRIPTION:KA - Stjarnan - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Stjarnan - Olís deild kvenna - hsi1
+DTSTART:20241031T193000
+DTEND:20241031T203000
+DTSTAMP:20241031T193000Z
+UID:2024-10-31T19:30:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Haukar - Fjölnir - Olís deild karla - hsi1
 DTSTART:20241031T193000
 DTEND:20241031T203000
@@ -40,14 +40,6 @@ DTEND:20241031T203000
 DTSTAMP:20241031T193000Z
 UID:2024-10-31T19:30:00/Fram - HK
 DESCRIPTION:Fram - HK - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Stjarnan - Olís deild kvenna - hsi1
-DTSTART:20241031T193000
-DTEND:20241031T203000
-DTSTAMP:20241031T193000Z
-UID:2024-10-31T19:30:00/Valur - Stjarnan
-DESCRIPTION:Valur - Stjarnan - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olís deild kvenna - Olís deild kvenna - sjonvarpsimans
@@ -82,20 +74,20 @@ UID:2024-11-01T18:10:00/Hvíti Riddarinn - Víkingur
 DESCRIPTION:Hvíti Riddarinn - Víkingur - Powerade bikar karla  2025
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grótta - Valur - Olís deild karla - hsi1
-DTSTART:20241101T193000
-DTEND:20241101T203000
-DTSTAMP:20241101T193000Z
-UID:2024-11-01T19:30:00/Grótta - Valur
-DESCRIPTION:Grótta - Valur - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Víðir - Hörður - Powerade bikar karla  2025 - hsi1
 DTSTART:20241101T193000
 DTEND:20241101T203000
 DTSTAMP:20241101T193000Z
 UID:2024-11-01T19:30:00/Víðir - Hörður
 DESCRIPTION:Víðir - Hörður - Powerade bikar karla  2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grótta - Valur - Olís deild karla - hsi1
+DTSTART:20241101T193000
+DTEND:20241101T203000
+DTSTAMP:20241101T193000Z
+UID:2024-11-01T19:30:00/Grótta - Valur
+DESCRIPTION:Grótta - Valur - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍH - Selfoss - Powerade bikar karla  2025 - hsi1
@@ -138,12 +130,12 @@ UID:2024-11-02T14:30:00/Liverpool - Brighton
 DESCRIPTION:Liverpool - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Leicester - Enska úrvalsdeildin - siminnsport5
+SUMMARY:Nottingham Forest - West Ham - Enska úrvalsdeildin - siminnsport3
 DTSTART:20241102T145000
 DTEND:20241102T155000
 DTSTAMP:20241102T145000Z
-UID:2024-11-02T14:50:00/Ipswich - Leicester
-DESCRIPTION:Ipswich - Leicester - Enska úrvalsdeildin
+UID:2024-11-02T14:50:00/Nottingham Forest - West Ham
+DESCRIPTION:Nottingham Forest - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Man. City - Enska úrvalsdeildin - siminnsport2
@@ -154,12 +146,12 @@ UID:2024-11-02T14:50:00/Bournemouth - Man. City
 DESCRIPTION:Bournemouth - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nottingham Forest - West Ham - Enska úrvalsdeildin - siminnsport3
+SUMMARY:Ipswich - Leicester - Enska úrvalsdeildin - siminnsport5
 DTSTART:20241102T145000
 DTEND:20241102T155000
 DTSTAMP:20241102T145000Z
-UID:2024-11-02T14:50:00/Nottingham Forest - West Ham
-DESCRIPTION:Nottingham Forest - West Ham - Enska úrvalsdeildin
+UID:2024-11-02T14:50:00/Ipswich - Leicester
+DESCRIPTION:Ipswich - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southampton - Everton - Enska úrvalsdeildin - siminnsport4
@@ -258,6 +250,14 @@ UID:2024-11-05T18:00:00/HK - ÍBV
 DESCRIPTION:HK - ÍBV - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ÍR - Valur - Olís deild kvenna - hsi1
+DTSTART:20241105T193000
+DTEND:20241105T203000
+DTSTAMP:20241105T193000Z
+UID:2024-11-05T19:30:00/ÍR - Valur
+DESCRIPTION:ÍR - Valur - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Víkingur - Fjölnir - Powerade bikar kvenna 2025 - hsi1
 DTSTART:20241105T193000
 DTEND:20241105T203000
@@ -266,11 +266,19 @@ UID:2024-11-05T19:30:00/Víkingur - Fjölnir
 DESCRIPTION:Víkingur - Fjölnir - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Valur - Olís deild kvenna - hsi1
-DTSTART:20241105T193000
-DTEND:20241105T203000
-DTSTAMP:20241105T193000Z
-UID:2024-11-05T19:30:00/ÍR - Valur
-DESCRIPTION:ÍR - Valur - Olís deild kvenna
+SUMMARY:KA/Þór - Stjarnan - Powerade bikar kvenna 2025 - hsi1
+DTSTART:20241106T173000
+DTEND:20241106T183000
+DTSTAMP:20241106T173000Z
+UID:2024-11-06T17:30:00/KA/Þór - Stjarnan
+DESCRIPTION:KA/Þór - Stjarnan - Powerade bikar kvenna 2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Grótta - Powerade bikar kvenna 2025 - hsi1
+DTSTART:20241106T180000
+DTEND:20241106T190000
+DTSTAMP:20241106T180000Z
+UID:2024-11-06T18:00:00/FH - Grótta
+DESCRIPTION:FH - Grótta - Powerade bikar kvenna 2025
 END:VEVENT
 END:VCALENDAR
