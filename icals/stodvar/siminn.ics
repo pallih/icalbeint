@@ -2,62 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:ÍR - ÍBV - Olís deild karla - hsi1
-DTSTART:20241031T180000
-DTEND:20241031T190000
-DTSTAMP:20241031T180000Z
-UID:2024-10-31T18:00:00/ÍR - ÍBV
-DESCRIPTION:ÍR - ÍBV - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KA - Stjarnan - Olís deild karla - hsi1
-DTSTART:20241031T190000
-DTEND:20241031T200000
-DTSTAMP:20241031T190000Z
-UID:2024-10-31T19:00:00/KA - Stjarnan
-DESCRIPTION:KA - Stjarnan - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Stjarnan - Olís deild kvenna - hsi1
-DTSTART:20241031T193000
-DTEND:20241031T203000
-DTSTAMP:20241031T193000Z
-UID:2024-10-31T19:30:00/Valur - Stjarnan
-DESCRIPTION:Valur - Stjarnan - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - Fjölnir - Olís deild karla - hsi1
-DTSTART:20241031T193000
-DTEND:20241031T203000
-DTSTAMP:20241031T193000Z
-UID:2024-10-31T19:30:00/Haukar - Fjölnir
-DESCRIPTION:Haukar - Fjölnir - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fram - HK - Olís deild karla - hsi1
-DTSTART:20241031T193000
-DTEND:20241031T203000
-DTSTAMP:20241031T193000Z
-UID:2024-10-31T19:30:00/Fram - HK
-DESCRIPTION:Fram - HK - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Olís deild kvenna - Olís deild kvenna - sjonvarpsimans
-DTSTART:20241031T200500
-DTEND:20241031T210500
-DTSTAMP:20241031T200500Z
-UID:2024-10-31T20:05:00/Olís deild kvenna
-DESCRIPTION:Olís deild kvenna - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Grótta - Olís deild kvenna - hsi1
-DTSTART:20241031T201500
-DTEND:20241031T211500
-DTSTAMP:20241031T201500Z
-UID:2024-10-31T20:15:00/ÍR - Grótta
-DESCRIPTION:ÍR - Grótta - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Selfoss - Fram - Olís deild kvenna - hsi1
 DTSTART:20241101T180000
 DTEND:20241101T190000
@@ -114,7 +58,7 @@ UID:2024-11-02T14:00:00/ÍBV - Haukar
 DESCRIPTION:ÍBV - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Brighton - Enska úrvalsdeildin - siminnsport
+SUMMARY:Liverpool - Brighton - Enska úrvalsdeildin - sjonvarpsimans
 DTSTART:20241102T143000
 DTEND:20241102T153000
 DTSTAMP:20241102T143000Z
@@ -122,7 +66,7 @@ UID:2024-11-02T14:30:00/Liverpool - Brighton
 DESCRIPTION:Liverpool - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Brighton - Enska úrvalsdeildin - sjonvarpsimans
+SUMMARY:Liverpool - Brighton - Enska úrvalsdeildin - siminnsport
 DTSTART:20241102T143000
 DTEND:20241102T153000
 DTSTAMP:20241102T143000Z
@@ -146,20 +90,20 @@ UID:2024-11-02T14:50:00/Bournemouth - Man. City
 DESCRIPTION:Bournemouth - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Leicester - Enska úrvalsdeildin - siminnsport5
-DTSTART:20241102T145000
-DTEND:20241102T155000
-DTSTAMP:20241102T145000Z
-UID:2024-11-02T14:50:00/Ipswich - Leicester
-DESCRIPTION:Ipswich - Leicester - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Southampton - Everton - Enska úrvalsdeildin - siminnsport4
 DTSTART:20241102T145000
 DTEND:20241102T155000
 DTSTAMP:20241102T145000Z
 UID:2024-11-02T14:50:00/Southampton - Everton
 DESCRIPTION:Southampton - Everton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ipswich - Leicester - Enska úrvalsdeildin - siminnsport5
+DTSTART:20241102T145000
+DTEND:20241102T155000
+DTSTAMP:20241102T145000Z
+UID:2024-11-02T14:50:00/Ipswich - Leicester
+DESCRIPTION:Ipswich - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Crystal Palace - Enska úrvalsdeildin - siminnsport
