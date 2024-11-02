@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Ligue 1 - Franski Boltinn - ical
 BEGIN:VEVENT
-SUMMARY:Monaco - Angers - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241101T180000
-DTEND:20241101T190000
-DTSTAMP:20241101T180000Z
-UID:2024-11-01T18:00:00/Monaco - Angers
-DESCRIPTION:Monaco - Angers - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lille - Lyon - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241101T200000
-DTEND:20241101T210000
-DTSTAMP:20241101T200000Z
-UID:2024-11-01T20:00:00/Lille - Lyon
-DESCRIPTION:Lille - Lyon - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PSG - Lens - Ligue 1 - Franski Boltinn - livey
 DTSTART:20241102T160000
 DTEND:20241102T170000
@@ -50,20 +34,20 @@ UID:2024-11-03T14:00:00/Toulouse - Reims
 DESCRIPTION:Toulouse - Reims - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Auxerre - Rennes - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241103T160000
-DTEND:20241103T170000
-DTSTAMP:20241103T160000Z
-UID:2024-11-03T16:00:00/Auxerre - Rennes
-DESCRIPTION:Auxerre - Rennes - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le Havre - Montpellier - Ligue 1 - Franski Boltinn - livey
 DTSTART:20241103T160000
 DTEND:20241103T170000
 DTSTAMP:20241103T160000Z
 UID:2024-11-03T16:00:00/Le Havre - Montpellier
 DESCRIPTION:Le Havre - Montpellier - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre - Rennes - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241103T160000
+DTEND:20241103T170000
+DTSTAMP:20241103T160000Z
+UID:2024-11-03T16:00:00/Auxerre - Rennes
+DESCRIPTION:Auxerre - Rennes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nantes - Marseille - Ligue 1 - Franski Boltinn - livey

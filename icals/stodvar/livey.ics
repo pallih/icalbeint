@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Monaco - Angers - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241101T180000
-DTEND:20241101T190000
-DTSTAMP:20241101T180000Z
-UID:2024-11-01T18:00:00/Monaco - Angers
-DESCRIPTION:Monaco - Angers - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lille - Lyon - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241101T200000
-DTEND:20241101T210000
-DTSTAMP:20241101T200000Z
-UID:2024-11-01T20:00:00/Lille - Lyon
-DESCRIPTION:Lille - Lyon - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deportivo Alaves - RCD Mallorca - LaLiga - Spænski boltinn - live
- y
-DTSTART:20241101T200000
-DTEND:20241101T210000
-DTSTAMP:20241101T200000Z
-UID:2024-11-01T20:00:00/Deportivo Alaves - RCD Mallorca
-DESCRIPTION:Deportivo Alaves - RCD Mallorca - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Osasuna - Valladolid - LaLiga - Spænski boltinn - livey
 DTSTART:20241102T130000
 DTEND:20241102T140000
@@ -75,6 +50,14 @@ UID:2024-11-02T18:00:00/Brest - Nice
 DESCRIPTION:Brest - Nice - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Monza - AC Milan - Serie A - Ítalski boltinn - livey
+DTSTART:20241102T194500
+DTEND:20241102T204500
+DTSTAMP:20241102T194500Z
+UID:2024-11-02T19:45:00/Monza - AC Milan
+DESCRIPTION:Monza - AC Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mechelen - Union Saint-Gilloise - Pro League - Belgíski boltinn -
   livey
 DTSTART:20241102T194500
@@ -83,14 +66,6 @@ DTSTAMP:20241102T194500Z
 UID:2024-11-02T19:45:00/Mechelen - Union Saint-Gilloise
 DESCRIPTION:Mechelen - Union Saint-Gilloise - Pro League - Belgíski bolti
  nn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monza - AC Milan - Serie A - Ítalski boltinn - livey
-DTSTART:20241102T194500
-DTEND:20241102T204500
-DTSTAMP:20241102T194500Z
-UID:2024-11-02T19:45:00/Monza - AC Milan
-DESCRIPTION:Monza - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St-Étienne - RC Strasbourg - Ligue 1 - Franski Boltinn - livey
@@ -133,20 +108,20 @@ UID:2024-11-03T13:00:00/Atletico Madrid - Las Palmas
 DESCRIPTION:Atletico Madrid - Las Palmas - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toulouse - Reims - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241103T140000
-DTEND:20241103T150000
-DTSTAMP:20241103T140000Z
-UID:2024-11-03T14:00:00/Toulouse - Reims
-DESCRIPTION:Toulouse - Reims - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Torino - Fiorentina - Serie A - Ítalski boltinn - livey
 DTSTART:20241103T140000
 DTEND:20241103T150000
 DTSTAMP:20241103T140000Z
 UID:2024-11-03T14:00:00/Torino - Fiorentina
 DESCRIPTION:Torino - Fiorentina - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toulouse - Reims - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241103T140000
+DTEND:20241103T150000
+DTSTAMP:20241103T140000Z
+UID:2024-11-03T14:00:00/Toulouse - Reims
+DESCRIPTION:Toulouse - Reims - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barcelona - Espanyol - LaLiga - Spænski boltinn - livey
@@ -157,20 +132,20 @@ UID:2024-11-03T15:15:00/Barcelona - Espanyol
 DESCRIPTION:Barcelona - Espanyol - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Auxerre - Rennes - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241103T160000
-DTEND:20241103T170000
-DTSTAMP:20241103T160000Z
-UID:2024-11-03T16:00:00/Auxerre - Rennes
-DESCRIPTION:Auxerre - Rennes - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le Havre - Montpellier - Ligue 1 - Franski Boltinn - livey
 DTSTART:20241103T160000
 DTEND:20241103T170000
 DTSTAMP:20241103T160000Z
 UID:2024-11-03T16:00:00/Le Havre - Montpellier
 DESCRIPTION:Le Havre - Montpellier - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre - Rennes - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241103T160000
+DTEND:20241103T170000
+DTSTAMP:20241103T160000Z
+UID:2024-11-03T16:00:00/Auxerre - Rennes
+DESCRIPTION:Auxerre - Rennes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hellas Verona - Roma - Serie A - Ítalski boltinn - livey
@@ -229,20 +204,20 @@ UID:2024-11-03T20:00:00/Athletic Bilbao - Real Betis
 DESCRIPTION:Athletic Bilbao - Real Betis - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Empoli - Como - Serie A - Ítalski boltinn - livey
-DTSTART:20241104T173000
-DTEND:20241104T183000
-DTSTAMP:20241104T173000Z
-UID:2024-11-04T17:30:00/Empoli - Como
-DESCRIPTION:Empoli - Como - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Parma - Genoa - Serie A - Ítalski boltinn - livey
 DTSTART:20241104T173000
 DTEND:20241104T183000
 DTSTAMP:20241104T173000Z
 UID:2024-11-04T17:30:00/Parma - Genoa
 DESCRIPTION:Parma - Genoa - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empoli - Como - Serie A - Ítalski boltinn - livey
+DTSTART:20241104T173000
+DTEND:20241104T183000
+DTSTAMP:20241104T173000Z
+UID:2024-11-04T17:30:00/Empoli - Como
+DESCRIPTION:Empoli - Como - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lazio - Cagliari - Serie A - Ítalski boltinn - livey

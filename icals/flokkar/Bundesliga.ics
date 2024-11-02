@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Rhein-Neckar Löwen - Eisenach - Bundesliga - viaplay
-DTSTART:20241101T185500
-DTEND:20241101T195500
-DTSTAMP:20241101T185500Z
-UID:2024-11-01T18:55:00/Rhein-Neckar Löwen - Eisenach
-DESCRIPTION:Rhein-Neckar Löwen - Eisenach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leverkusen - Stuttgart - Bundesliga - viaplay
-DTSTART:20241101T192000
-DTEND:20241101T202000
-DTSTAMP:20241101T192000Z
-UID:2024-11-01T19:20:00/Leverkusen - Stuttgart
-DESCRIPTION:Leverkusen - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
 DTSTART:20241102T142000
 DTEND:20241102T152000
@@ -26,20 +10,20 @@ UID:2024-11-02T14:20:00/Hoffenheim - St. Pauli
 DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Union Berlin - Bundesliga - viaplay
-DTSTART:20241102T142000
-DTEND:20241102T152000
-DTSTAMP:20241102T142000Z
-UID:2024-11-02T14:20:00/Bayern München - Union Berlin
-DESCRIPTION:Bayern München - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frankfurt - Bochum - Bundesliga - viaplay
 DTSTART:20241102T142000
 DTEND:20241102T152000
 DTSTAMP:20241102T142000Z
 UID:2024-11-02T14:20:00/Frankfurt - Bochum
 DESCRIPTION:Frankfurt - Bochum - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Union Berlin - Bundesliga - viaplay
+DTSTART:20241102T142000
+DTEND:20241102T152000
+DTSTAMP:20241102T142000Z
+UID:2024-11-02T14:20:00/Bayern München - Union Berlin
+DESCRIPTION:Bayern München - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Heidenheim - Bundesliga - viaplay
@@ -104,5 +88,13 @@ DTEND:20241103T175500
 DTSTAMP:20241103T165500Z
 UID:2024-11-03T16:55:00/Magdeburg - Lemgo Lippe
 DESCRIPTION:Magdeburg - Lemgo Lippe - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Freiburg - Bundesliga - viaplay
+DTSTART:20241108T192000
+DTEND:20241108T202000
+DTSTAMP:20241108T192000Z
+UID:2024-11-08T19:20:00/Union Berlin - Freiburg
+DESCRIPTION:Union Berlin - Freiburg - Bundesliga
 END:VEVENT
 END:VCALENDAR
