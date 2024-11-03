@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Essen - Frauen-Bundesliga - viaplay
-DTSTART:20241102T105500
-DTEND:20241102T115500
-DTSTAMP:20241102T105500Z
-UID:2024-11-02T10:55:00/Werder Bremen - Essen
-DESCRIPTION:Werder Bremen - Essen - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolfsburg - Freiburg - Frauen-Bundesliga - viaplay
 DTSTART:20241103T172500
 DTEND:20241103T182500
@@ -32,5 +24,13 @@ DTEND:20241108T182500
 DTSTAMP:20241108T172500Z
 UID:2024-11-08T17:25:00/Freiburg - Bayern München
 DESCRIPTION:Freiburg - Bayern München - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Wolfsburg - Frauen-Bundesliga - viaplay
+DTSTART:20241109T105500
+DTEND:20241109T115500
+DTSTAMP:20241109T105500Z
+UID:2024-11-09T10:55:00/Hoffenheim - Wolfsburg
+DESCRIPTION:Hoffenheim - Wolfsburg - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR

@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:F1 Brasilía: Sprint keppni - Formúla 1 - stod2vodasport
-DTSTART:20241102T135500
-DTEND:20241102T145500
-DTSTAMP:20241102T135500Z
-UID:2024-11-02T13:55:00/F1 Brasilía: Sprint keppni
-DESCRIPTION:F1 Brasilía: Sprint keppni - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1 Brasilía: Tímataka - Formúla 1 - stod2vodasport
-DTSTART:20241102T174500
-DTEND:20241102T184500
-DTSTAMP:20241102T174500Z
-UID:2024-11-02T17:45:00/F1 Brasilía: Tímataka
-DESCRIPTION:F1 Brasilía: Tímataka - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Úrvalsdeildin í pílukasti - Íslenskt pílukast - stod2sport
-DTSTART:20241102T193000
-DTEND:20241102T203000
-DTSTAMP:20241102T193000Z
-UID:2024-11-02T19:30:00/Úrvalsdeildin í pílukasti
-DESCRIPTION:Úrvalsdeildin í pílukasti - Íslenskt pílukast
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kings - Blackhawks - NHL - stod2vodasport
-DTSTART:20241102T200500
-DTEND:20241102T210500
-DTSTAMP:20241102T200500Z
-UID:2024-11-02T20:05:00/Kings - Blackhawks
-DESCRIPTION:Kings - Blackhawks - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hornets - Celtics - NBA - stod2sport2
-DTSTART:20241102T220000
-DTEND:20241102T230000
-DTSTAMP:20241102T220000Z
-UID:2024-11-02T22:00:00/Hornets - Celtics
-DESCRIPTION:Hornets - Celtics - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TOTO Japan Classic - LPGA Tour - stod2sport4
-DTSTART:20241103T030000
-DTEND:20241103T040000
-DTSTAMP:20241103T030000Z
-UID:2024-11-03T03:00:00/TOTO Japan Classic
-DESCRIPTION:TOTO Japan Classic - LPGA Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Füchse Berlin - THW Kiel - Bundesliga handbolti - stod2vodasport
 DTSTART:20241103T135500
 DTEND:20241103T145500
@@ -66,20 +18,20 @@ UID:2024-11-03T16:30:00/F1 Brasilía: Keppni
 DESCRIPTION:F1 Brasilía: Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NFL Red Zone - NFL - stod2sport3
-DTSTART:20241103T175500
-DTEND:20241103T185500
-DTSTAMP:20241103T175500Z
-UID:2024-11-03T17:55:00/NFL Red Zone
-DESCRIPTION:NFL Red Zone - NFL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcons - Cowboys - NFL - stod2sport2
 DTSTART:20241103T175500
 DTEND:20241103T185500
 DTSTAMP:20241103T175500Z
 UID:2024-11-03T17:55:00/Falcons - Cowboys
 DESCRIPTION:Falcons - Cowboys - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL Red Zone - NFL - stod2sport3
+DTSTART:20241103T175500
+DTEND:20241103T185500
+DTSTAMP:20241103T175500Z
+UID:2024-11-03T17:55:00/NFL Red Zone
+DESCRIPTION:NFL Red Zone - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - stod2sport
@@ -179,20 +131,12 @@ UID:2024-11-05T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Sturm Graz - Meistaradeild Evrópu - stod2sport5
+SUMMARY:Real Madrid - AC Milan - Meistaradeild Evrópu - stod2sport3
 DTSTART:20241105T195000
 DTEND:20241105T205000
 DTSTAMP:20241105T195000Z
-UID:2024-11-05T19:50:00/Dortmund - Sturm Graz
-DESCRIPTION:Dortmund - Sturm Graz - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bologna - Monaco - Meistaradeild Evrópu - stod2sport6
-DTSTART:20241105T195000
-DTEND:20241105T205000
-DTSTAMP:20241105T195000Z
-UID:2024-11-05T19:50:00/Bologna - Monaco
-DESCRIPTION:Bologna - Monaco - Meistaradeild Evrópu
+UID:2024-11-05T19:50:00/Real Madrid - AC Milan
+DESCRIPTION:Real Madrid - AC Milan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Leverkusen - Meistaradeild Evrópu - stod2vodasport
@@ -203,12 +147,20 @@ UID:2024-11-05T19:50:00/Liverpool - Leverkusen
 DESCRIPTION:Liverpool - Leverkusen - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Madrid - AC Milan - Meistaradeild Evrópu - stod2sport3
+SUMMARY:Bologna - Monaco - Meistaradeild Evrópu - stod2sport6
 DTSTART:20241105T195000
 DTEND:20241105T205000
 DTSTAMP:20241105T195000Z
-UID:2024-11-05T19:50:00/Real Madrid - AC Milan
-DESCRIPTION:Real Madrid - AC Milan - Meistaradeild Evrópu
+UID:2024-11-05T19:50:00/Bologna - Monaco
+DESCRIPTION:Bologna - Monaco - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Sturm Graz - Meistaradeild Evrópu - stod2sport5
+DTSTART:20241105T195000
+DTEND:20241105T205000
+DTSTAMP:20241105T195000Z
+UID:2024-11-05T19:50:00/Dortmund - Sturm Graz
+DESCRIPTION:Dortmund - Sturm Graz - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Lissabon - Manchester City - Meistaradeild Evrópu - stod
@@ -292,12 +244,12 @@ UID:2024-11-06T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Feyenoord - Salzburg - Meistaradeild Evrópu - stod2sport5
+SUMMARY:Inter - Arsenal - Meistaradeild Evrópu - stod2sport3
 DTSTART:20241106T195000
 DTEND:20241106T205000
 DTSTAMP:20241106T195000Z
-UID:2024-11-06T19:50:00/Feyenoord - Salzburg
-DESCRIPTION:Feyenoord - Salzburg - Meistaradeild Evrópu
+UID:2024-11-06T19:50:00/Inter - Arsenal
+DESCRIPTION:Inter - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rauða stjarnan - Barcelona - Meistaradeild Evrópu - stod2vodaspo
@@ -309,20 +261,20 @@ UID:2024-11-06T19:50:00/Rauða stjarnan - Barcelona
 DESCRIPTION:Rauða stjarnan - Barcelona - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Feyenoord - Salzburg - Meistaradeild Evrópu - stod2sport5
+DTSTART:20241106T195000
+DTEND:20241106T205000
+DTSTAMP:20241106T195000Z
+UID:2024-11-06T19:50:00/Feyenoord - Salzburg
+DESCRIPTION:Feyenoord - Salzburg - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PSG - Atletico Madrid - Meistaradeild Evrópu - stod2sport4
 DTSTART:20241106T195000
 DTEND:20241106T205000
 DTSTAMP:20241106T195000Z
 UID:2024-11-06T19:50:00/PSG - Atletico Madrid
 DESCRIPTION:PSG - Atletico Madrid - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inter - Arsenal - Meistaradeild Evrópu - stod2sport3
-DTSTART:20241106T195000
-DTEND:20241106T205000
-DTSTAMP:20241106T195000Z
-UID:2024-11-06T19:50:00/Inter - Arsenal
-DESCRIPTION:Inter - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
@@ -381,12 +333,12 @@ UID:2024-11-07T17:35:00/Gent - Omonia
 DESCRIPTION:Gent - Omonia - Sambandsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - PAOK - Evrópudeildin - stod2vodasport
+SUMMARY:Ajax - M. Tel-Aviv - Evrópudeildin - stod2sport3
 DTSTART:20241107T195000
 DTEND:20241107T205000
 DTSTAMP:20241107T195000Z
-UID:2024-11-07T19:50:00/Man. Utd. - PAOK
-DESCRIPTION:Man. Utd. - PAOK - Evrópudeildin
+UID:2024-11-07T19:50:00/Ajax - M. Tel-Aviv
+DESCRIPTION:Ajax - M. Tel-Aviv - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Viktoria Plzen - Real Sociedad - Evrópudeildin - stod2sport2
@@ -397,12 +349,12 @@ UID:2024-11-07T19:50:00/Viktoria Plzen - Real Sociedad
 DESCRIPTION:Viktoria Plzen - Real Sociedad - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ajax - M. Tel-Aviv - Evrópudeildin - stod2sport3
+SUMMARY:Man. Utd. - PAOK - Evrópudeildin - stod2vodasport
 DTSTART:20241107T195000
 DTEND:20241107T205000
 DTSTAMP:20241107T195000Z
-UID:2024-11-07T19:50:00/Ajax - M. Tel-Aviv
-DESCRIPTION:Ajax - M. Tel-Aviv - Evrópudeildin
+UID:2024-11-07T19:50:00/Man. Utd. - PAOK
+DESCRIPTION:Man. Utd. - PAOK - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FCK - Basaksehir - Sambandsdeildin - stod2sport4
@@ -461,14 +413,6 @@ UID:2024-11-08T19:05:00/KR - Njarðvík
 DESCRIPTION:KR - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
-DTSTART:20241108T191000
-DTEND:20241108T201000
-DTSTAMP:20241108T191000Z
-UID:2024-11-08T19:10:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Haukar - Álftanes - Bónus deild karla - stod2besta03
 DTSTART:20241108T191000
 DTEND:20241108T201000
@@ -477,20 +421,28 @@ UID:2024-11-08T19:10:00/Haukar - Álftanes
 DESCRIPTION:Haukar - Álftanes - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Höttur - Valur - Bónus deild karla - stod2besta02
-DTSTART:20241108T191000
-DTEND:20241108T201000
-DTSTAMP:20241108T191000Z
-UID:2024-11-08T19:10:00/Höttur - Valur
-DESCRIPTION:Höttur - Valur - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - Keflavík - Bónus deild karla - stod2besta01
 DTSTART:20241108T191000
 DTEND:20241108T201000
 DTSTAMP:20241108T191000Z
 UID:2024-11-08T19:10:00/ÍR - Keflavík
 DESCRIPTION:ÍR - Keflavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
+DTSTART:20241108T191000
+DTEND:20241108T201000
+DTSTAMP:20241108T191000Z
+UID:2024-11-08T19:10:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Höttur - Valur - Bónus deild karla - stod2besta02
+DTSTART:20241108T191000
+DTEND:20241108T201000
+DTSTAMP:20241108T191000Z
+UID:2024-11-08T19:10:00/Höttur - Valur
+DESCRIPTION:Höttur - Valur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Watford - Oxford United - EFL Championship - stod2vodasport
@@ -507,5 +459,102 @@ DTEND:20241108T221000
 DTSTAMP:20241108T211000Z
 UID:2024-11-08T21:10:00/Tilþrifin
 DESCRIPTION:Tilþrifin - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lotte Championship - LPGA Tour - stod2sport4
+DTSTART:20241109T000000
+DTEND:20241109T010000
+DTSTAMP:20241109T000000Z
+UID:2024-11-09T00:00:00/Lotte Championship
+DESCRIPTION:Lotte Championship - LPGA Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maple Leafs - Red Wings - NHL - stod2vodasport
+DTSTART:20241109T000500
+DTEND:20241109T010500
+DTSTAMP:20241109T000500Z
+UID:2024-11-09T00:05:00/Maple Leafs - Red Wings
+DESCRIPTION:Maple Leafs - Red Wings - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Wolfsburg - Bundesliga kvenna - stod2vodasport
+DTSTART:20241109T105500
+DTEND:20241109T115500
+DTSTAMP:20241109T105500Z
+UID:2024-11-09T10:55:00/Hoffenheim - Wolfsburg
+DESCRIPTION:Hoffenheim - Wolfsburg - Bundesliga kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Djurgarden - Rosengard - Sænska úrvalsdeildin - stod2vodasport
+DTSTART:20241109T130000
+DTEND:20241109T140000
+DTSTAMP:20241109T130000Z
+UID:2024-11-09T13:00:00/Djurgarden - Rosengard
+DESCRIPTION:Djurgarden - Rosengard - Sænska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norwich - Bristol - EFL Championship - stod2vodasport
+DTSTART:20241109T150000
+DTEND:20241109T160000
+DTSTAMP:20241109T150000Z
+UID:2024-11-09T15:00:00/Norwich - Bristol
+DESCRIPTION:Norwich - Bristol - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Þór Þ. - Bónus deild karla - stod2sport
+DTSTART:20241109T165000
+DTEND:20241109T175000
+DTSTAMP:20241109T165000Z
+UID:2024-11-09T16:50:00/Grindavík - Þór Þ.
+DESCRIPTION:Grindavík - Þór Þ. - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB Leipzig - M´gladbach - Bundesliga - stod2vodasport
+DTSTART:20241109T172500
+DTEND:20241109T182500
+DTSTAMP:20241109T172500Z
+UID:2024-11-09T17:25:00/RB Leipzig - M´gladbach
+DESCRIPTION:RB Leipzig - M´gladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
+DTSTART:20241109T183500
+DTEND:20241109T193500
+DTSTAMP:20241109T183500Z
+UID:2024-11-09T18:35:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Úrvalsdeildin í pílukasti - Íslenskt pílukast - stod2sport5
+DTSTART:20241109T193000
+DTEND:20241109T203000
+DTSTAMP:20241109T193000Z
+UID:2024-11-09T19:30:00/Úrvalsdeildin í pílukasti
+DESCRIPTION:Úrvalsdeildin í pílukasti - Íslenskt pílukast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Slam of Darts - Dagur 1 - Grand Slam of Darts - stod2vodaspo
+ rt
+DTSTART:20241109T193000
+DTEND:20241109T203000
+DTSTAMP:20241109T193000Z
+UID:2024-11-09T19:30:00/Grand Slam of Darts - Dagur 1
+DESCRIPTION:Grand Slam of Darts - Dagur 1 - Grand Slam of Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spurs - Jazz - NBA - stod2sport2
+DTSTART:20241109T220000
+DTEND:20241109T230000
+DTSTAMP:20241109T220000Z
+UID:2024-11-09T22:00:00/Spurs - Jazz
+DESCRIPTION:Spurs - Jazz - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panthers - Flyers - NHL - stod2vodasport
+DTSTART:20241109T230500
+DTEND:20241110T000500
+DTSTAMP:20241109T230500Z
+UID:2024-11-09T23:05:00/Panthers - Flyers
+DESCRIPTION:Panthers - Flyers - NHL
 END:VEVENT
 END:VCALENDAR
