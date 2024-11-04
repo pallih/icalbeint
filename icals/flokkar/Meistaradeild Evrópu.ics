@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Meistaradeild Evrópu - ical
 BEGIN:VEVENT
+SUMMARY:PSV - Girona - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20241105T173500
+DTEND:20241105T183500
+DTSTAMP:20241105T173500Z
+UID:2024-11-05T17:35:00/PSV - Girona
+DESCRIPTION:PSV - Girona - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Slovan Bratislava - Dinamo Zagreb - Meistaradeild Evrópu - stod2s
  port3
 DTSTART:20241105T173500
@@ -9,14 +17,6 @@ DTEND:20241105T183500
 DTSTAMP:20241105T173500Z
 UID:2024-11-05T17:35:00/Slovan Bratislava - Dinamo Zagreb
 DESCRIPTION:Slovan Bratislava - Dinamo Zagreb - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PSV - Girona - Meistaradeild Evrópu - stod2vodasport
-DTSTART:20241105T173500
-DTEND:20241105T183500
-DTSTAMP:20241105T173500Z
-UID:2024-11-05T17:35:00/PSV - Girona
-DESCRIPTION:PSV - Girona - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - stod2sport2
@@ -35,6 +35,14 @@ UID:2024-11-05T19:50:00/Real Madrid - AC Milan
 DESCRIPTION:Real Madrid - AC Milan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dortmund - Sturm Graz - Meistaradeild Evrópu - stod2sport5
+DTSTART:20241105T195000
+DTEND:20241105T205000
+DTSTAMP:20241105T195000Z
+UID:2024-11-05T19:50:00/Dortmund - Sturm Graz
+DESCRIPTION:Dortmund - Sturm Graz - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Liverpool - Leverkusen - Meistaradeild Evrópu - stod2vodasport
 DTSTART:20241105T195000
 DTEND:20241105T205000
@@ -49,14 +57,6 @@ DTEND:20241105T205000
 DTSTAMP:20241105T195000Z
 UID:2024-11-05T19:50:00/Bologna - Monaco
 DESCRIPTION:Bologna - Monaco - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Sturm Graz - Meistaradeild Evrópu - stod2sport5
-DTSTART:20241105T195000
-DTEND:20241105T205000
-DTSTAMP:20241105T195000Z
-UID:2024-11-05T19:50:00/Dortmund - Sturm Graz
-DESCRIPTION:Dortmund - Sturm Graz - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Lissabon - Manchester City - Meistaradeild Evrópu - stod
@@ -100,12 +100,12 @@ UID:2024-11-06T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter - Arsenal - Meistaradeild Evrópu - stod2sport3
+SUMMARY:Feyenoord - Salzburg - Meistaradeild Evrópu - stod2sport5
 DTSTART:20241106T195000
 DTEND:20241106T205000
 DTSTAMP:20241106T195000Z
-UID:2024-11-06T19:50:00/Inter - Arsenal
-DESCRIPTION:Inter - Arsenal - Meistaradeild Evrópu
+UID:2024-11-06T19:50:00/Feyenoord - Salzburg
+DESCRIPTION:Feyenoord - Salzburg - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rauða stjarnan - Barcelona - Meistaradeild Evrópu - stod2vodaspo
@@ -117,20 +117,20 @@ UID:2024-11-06T19:50:00/Rauða stjarnan - Barcelona
 DESCRIPTION:Rauða stjarnan - Barcelona - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Feyenoord - Salzburg - Meistaradeild Evrópu - stod2sport5
-DTSTART:20241106T195000
-DTEND:20241106T205000
-DTSTAMP:20241106T195000Z
-UID:2024-11-06T19:50:00/Feyenoord - Salzburg
-DESCRIPTION:Feyenoord - Salzburg - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PSG - Atletico Madrid - Meistaradeild Evrópu - stod2sport4
 DTSTART:20241106T195000
 DTEND:20241106T205000
 DTSTAMP:20241106T195000Z
 UID:2024-11-06T19:50:00/PSG - Atletico Madrid
 DESCRIPTION:PSG - Atletico Madrid - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter - Arsenal - Meistaradeild Evrópu - stod2sport3
+DTSTART:20241106T195000
+DTEND:20241106T205000
+DTSTAMP:20241106T195000Z
+UID:2024-11-06T19:50:00/Inter - Arsenal
+DESCRIPTION:Inter - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2

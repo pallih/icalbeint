@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - stod2sport
-DTSTART:20241103T190500
-DTEND:20241103T200500
-DTSTAMP:20241103T190500Z
-UID:2024-11-03T19:05:00/Tindastóll - Stjarnan
-DESCRIPTION:Tindastóll - Stjarnan - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nets - Pistons - NBA - stod2sport4
-DTSTART:20241103T203000
-DTEND:20241103T213000
-DTSTAMP:20241103T203000Z
-UID:2024-11-03T20:30:00/Nets - Pistons
-DESCRIPTION:Nets - Pistons - NBA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lögmál leiksins - NBA - stod2sport2
 DTSTART:20241104T200000
 DTEND:20241104T210000
@@ -58,20 +42,12 @@ UID:2024-11-08T19:05:00/KR - Njarðvík
 DESCRIPTION:KR - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Álftanes - Bónus deild karla - stod2besta03
+SUMMARY:Höttur - Valur - Bónus deild karla - stod2besta02
 DTSTART:20241108T191000
 DTEND:20241108T201000
 DTSTAMP:20241108T191000Z
-UID:2024-11-08T19:10:00/Haukar - Álftanes
-DESCRIPTION:Haukar - Álftanes - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Keflavík - Bónus deild karla - stod2besta01
-DTSTART:20241108T191000
-DTEND:20241108T201000
-DTSTAMP:20241108T191000Z
-UID:2024-11-08T19:10:00/ÍR - Keflavík
-DESCRIPTION:ÍR - Keflavík - Bónus deild karla
+UID:2024-11-08T19:10:00/Höttur - Valur
+DESCRIPTION:Höttur - Valur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
@@ -82,12 +58,20 @@ UID:2024-11-08T19:10:00/Skiptiborðið
 DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Höttur - Valur - Bónus deild karla - stod2besta02
+SUMMARY:ÍR - Keflavík - Bónus deild karla - stod2besta01
 DTSTART:20241108T191000
 DTEND:20241108T201000
 DTSTAMP:20241108T191000Z
-UID:2024-11-08T19:10:00/Höttur - Valur
-DESCRIPTION:Höttur - Valur - Bónus deild karla
+UID:2024-11-08T19:10:00/ÍR - Keflavík
+DESCRIPTION:ÍR - Keflavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Álftanes - Bónus deild karla - stod2besta03
+DTSTART:20241108T191000
+DTEND:20241108T201000
+DTSTAMP:20241108T191000Z
+UID:2024-11-08T19:10:00/Haukar - Álftanes
+DESCRIPTION:Haukar - Álftanes - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
@@ -120,5 +104,21 @@ DTEND:20241109T230000
 DTSTAMP:20241109T220000Z
 UID:2024-11-09T22:00:00/Spurs - Jazz
 DESCRIPTION:Spurs - Jazz - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísland - Rúmenía - Undankeppni EM kvenna í körfubolta - ruv2
+DTSTART:20241110T170000
+DTEND:20241110T180000
+DTSTAMP:20241110T170000Z
+UID:2024-11-10T17:00:00/Ísland - Rúmenía
+DESCRIPTION:Ísland - Rúmenía - Undankeppni EM kvenna í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bucks - Celtics - NBA - stod2sport4
+DTSTART:20241110T203000
+DTEND:20241110T213000
+DTSTAMP:20241110T203000Z
+UID:2024-11-10T20:30:00/Bucks - Celtics
+DESCRIPTION:Bucks - Celtics - NBA
 END:VEVENT
 END:VCALENDAR

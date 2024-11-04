@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Selfoss - Fram - Powerade bikar kvenna 2025 - hsi1
-DTSTART:20241104T193000
-DTEND:20241104T203000
-DTSTAMP:20241104T193000Z
-UID:2024-11-04T19:30:00/Selfoss - Fram
-DESCRIPTION:Selfoss - Fram - Powerade bikar kvenna 2025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Selfoss - Fram - 16-liða úrslit - Powerade bikar kvenna í handb
  olta - ruv2
 DTSTART:20241104T193000
@@ -20,6 +12,14 @@ DESCRIPTION:Selfoss - Fram - 16-liða úrslit - Powerade bikar kvenna í h
  andbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Selfoss - Fram - Powerade bikar kvenna 2025 - hsi1
+DTSTART:20241104T193000
+DTEND:20241104T203000
+DTSTAMP:20241104T193000Z
+UID:2024-11-04T19:30:00/Selfoss - Fram
+DESCRIPTION:Selfoss - Fram - Powerade bikar kvenna 2025
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HK - ÍBV - Powerade bikar kvenna 2025 - hsi1
 DTSTART:20241105T180000
 DTEND:20241105T190000
@@ -28,20 +28,20 @@ UID:2024-11-05T18:00:00/HK - ÍBV
 DESCRIPTION:HK - ÍBV - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víkingur - Fjölnir - Powerade bikar kvenna 2025 - hsi1
-DTSTART:20241105T193000
-DTEND:20241105T203000
-DTSTAMP:20241105T193000Z
-UID:2024-11-05T19:30:00/Víkingur - Fjölnir
-DESCRIPTION:Víkingur - Fjölnir - Powerade bikar kvenna 2025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - Valur - Olís deild kvenna - hsi1
 DTSTART:20241105T193000
 DTEND:20241105T203000
 DTSTAMP:20241105T193000Z
 UID:2024-11-05T19:30:00/ÍR - Valur
 DESCRIPTION:ÍR - Valur - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur - Fjölnir - Powerade bikar kvenna 2025 - hsi1
+DTSTART:20241105T193000
+DTEND:20241105T203000
+DTSTAMP:20241105T193000Z
+UID:2024-11-05T19:30:00/Víkingur - Fjölnir
+DESCRIPTION:Víkingur - Fjölnir - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KA/Þór - Stjarnan - Powerade bikar kvenna 2025 - hsi1
@@ -76,6 +76,14 @@ UID:2024-11-08T19:30:00/Selfoss - Haukar
 DESCRIPTION:Selfoss - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Olís deild kvenna - Olís deild kvenna - sjonvarpsimans
+DTSTART:20241109T125000
+DTEND:20241109T135000
+DTSTAMP:20241109T125000Z
+UID:2024-11-09T12:50:00/Olís deild kvenna
+DESCRIPTION:Olís deild kvenna - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stjarnan - Fram - Olís deild kvenna - hsi1
 DTSTART:20241109T130000
 DTEND:20241109T140000
@@ -90,5 +98,13 @@ DTEND:20241109T150000
 DTSTAMP:20241109T140000Z
 UID:2024-11-09T14:00:00/ÍBV - Grótta
 DESCRIPTION:ÍBV - Grótta - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgía - Ísland - Undankeppni EM karla í handbolta - ruv
+DTSTART:20241110T140000
+DTEND:20241110T150000
+DTSTAMP:20241110T140000Z
+UID:2024-11-10T14:00:00/Georgía - Ísland
+DESCRIPTION:Georgía - Ísland - Undankeppni EM karla í handbolta
 END:VEVENT
 END:VCALENDAR

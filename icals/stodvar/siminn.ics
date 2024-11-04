@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Tottenham - Aston Villa - Enska úrvalsdeildin - siminnsport
-DTSTART:20241103T133000
-DTEND:20241103T143000
-DTSTAMP:20241103T133000Z
-UID:2024-11-03T13:30:00/Tottenham - Aston Villa
-DESCRIPTION:Tottenham - Aston Villa - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. Utd. - Chelsea - Enska úrvalsdeildin - siminnsport
-DTSTART:20241103T160000
-DTEND:20241103T170000
-DTSTAMP:20241103T160000Z
-UID:2024-11-03T16:00:00/Man. Utd. - Chelsea
-DESCRIPTION:Man. Utd. - Chelsea - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
-DTSTART:20241103T194000
-DTEND:20241103T204000
-DTSTAMP:20241103T194000Z
-UID:2024-11-03T19:40:00/Ítalski boltinn
-DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fulham - Brentford - Enska úrvalsdeildin - siminnsport
 DTSTART:20241104T193000
 DTEND:20241104T203000
@@ -58,20 +34,20 @@ UID:2024-11-05T18:00:00/HK - ÍBV
 DESCRIPTION:HK - ÍBV - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víkingur - Fjölnir - Powerade bikar kvenna 2025 - hsi1
-DTSTART:20241105T193000
-DTEND:20241105T203000
-DTSTAMP:20241105T193000Z
-UID:2024-11-05T19:30:00/Víkingur - Fjölnir
-DESCRIPTION:Víkingur - Fjölnir - Powerade bikar kvenna 2025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - Valur - Olís deild kvenna - hsi1
 DTSTART:20241105T193000
 DTEND:20241105T203000
 DTSTAMP:20241105T193000Z
 UID:2024-11-05T19:30:00/ÍR - Valur
 DESCRIPTION:ÍR - Valur - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur - Fjölnir - Powerade bikar kvenna 2025 - hsi1
+DTSTART:20241105T193000
+DTEND:20241105T203000
+DTSTAMP:20241105T193000Z
+UID:2024-11-05T19:30:00/Víkingur - Fjölnir
+DESCRIPTION:Víkingur - Fjölnir - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KA/Þór - Stjarnan - Powerade bikar kvenna 2025 - hsi1
@@ -98,6 +74,14 @@ UID:2024-11-08T19:30:00/Selfoss - Haukar
 DESCRIPTION:Selfoss - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Olís deild kvenna - Olís deild kvenna - sjonvarpsimans
+DTSTART:20241109T125000
+DTEND:20241109T135000
+DTSTAMP:20241109T125000Z
+UID:2024-11-09T12:50:00/Olís deild kvenna
+DESCRIPTION:Olís deild kvenna - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stjarnan - Fram - Olís deild kvenna - hsi1
 DTSTART:20241109T130000
 DTEND:20241109T140000
@@ -114,14 +98,6 @@ UID:2024-11-09T14:00:00/ÍBV - Grótta
 DESCRIPTION:ÍBV - Grótta - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Ham - Everton - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20241109T143000
-DTEND:20241109T153000
-DTSTAMP:20241109T143000Z
-UID:2024-11-09T14:30:00/West Ham - Everton
-DESCRIPTION:West Ham - Everton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Ham - Everton - Enska úrvalsdeildin - siminnsport
 DTSTART:20241109T143000
 DTEND:20241109T153000
@@ -130,12 +106,20 @@ UID:2024-11-09T14:30:00/West Ham - Everton
 DESCRIPTION:West Ham - Everton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Bournemouth - Enska úrvalsdeildin - siminnsport3
+SUMMARY:West Ham - Everton - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20241109T143000
+DTEND:20241109T153000
+DTSTAMP:20241109T143000Z
+UID:2024-11-09T14:30:00/West Ham - Everton
+DESCRIPTION:West Ham - Everton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolves - Southampton - Enska úrvalsdeildin - siminnsport2
 DTSTART:20241109T145000
 DTEND:20241109T155000
 DTSTAMP:20241109T145000Z
-UID:2024-11-09T14:50:00/Brentford - Bournemouth
-DESCRIPTION:Brentford - Bournemouth - Enska úrvalsdeildin
+UID:2024-11-09T14:50:00/Wolves - Southampton
+DESCRIPTION:Wolves - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Fulham - Enska úrvalsdeildin - siminnsport4
@@ -146,12 +130,12 @@ UID:2024-11-09T14:50:00/Crystal Palace - Fulham
 DESCRIPTION:Crystal Palace - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolves - Southampton - Enska úrvalsdeildin - siminnsport2
+SUMMARY:Brentford - Bournemouth - Enska úrvalsdeildin - siminnsport3
 DTSTART:20241109T145000
 DTEND:20241109T155000
 DTSTAMP:20241109T145000Z
-UID:2024-11-09T14:50:00/Wolves - Southampton
-DESCRIPTION:Wolves - Southampton - Enska úrvalsdeildin
+UID:2024-11-09T14:50:00/Brentford - Bournemouth
+DESCRIPTION:Brentford - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brighton - Man. City - Enska úrvalsdeildin - siminnsport
@@ -168,5 +152,46 @@ DTEND:20241109T203000
 DTSTAMP:20241109T193000Z
 UID:2024-11-09T19:30:00/Liverpool - Aston Villa
 DESCRIPTION:Liverpool - Aston Villa - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
+DTSTART:20241109T194000
+DTEND:20241109T204000
+DTSTAMP:20241109T194000Z
+UID:2024-11-09T19:40:00/Ítalski boltinn
+DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Leicester - Enska úrvalsdeildin - siminnsport
+DTSTART:20241110T133000
+DTEND:20241110T143000
+DTSTAMP:20241110T133000Z
+UID:2024-11-10T13:30:00/Man. Utd. - Leicester
+DESCRIPTION:Man. Utd. - Leicester - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest - Newcastle - Enska úrvalsdeildin - siminnsport
+ 3
+DTSTART:20241110T135000
+DTEND:20241110T145000
+DTSTAMP:20241110T135000Z
+UID:2024-11-10T13:50:00/Nottingham Forest - Newcastle
+DESCRIPTION:Nottingham Forest - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Ipswich - Enska úrvalsdeildin - siminnsport2
+DTSTART:20241110T135000
+DTEND:20241110T145000
+DTSTAMP:20241110T135000Z
+UID:2024-11-10T13:50:00/Tottenham - Ipswich
+DESCRIPTION:Tottenham - Ipswich - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Arsenal - Enska úrvalsdeildin - siminnsport
+DTSTART:20241110T160000
+DTEND:20241110T170000
+DTSTAMP:20241110T160000Z
+UID:2024-11-10T16:00:00/Chelsea - Arsenal
+DESCRIPTION:Chelsea - Arsenal - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR

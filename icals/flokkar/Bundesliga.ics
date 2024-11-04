@@ -2,44 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Füchse Berlin - Kiel - Bundesliga - viaplay
-DTSTART:20241103T135500
-DTEND:20241103T145500
-DTSTAMP:20241103T135500Z
-UID:2024-11-03T13:55:00/Füchse Berlin - Kiel
-DESCRIPTION:Füchse Berlin - Kiel - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Mainz - Bundesliga - viaplay
-DTSTART:20241103T142000
-DTEND:20241103T152000
-DTSTAMP:20241103T142000Z
-UID:2024-11-03T14:20:00/Freiburg - Mainz
-DESCRIPTION:Freiburg - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Werder Bremen - Bundesliga - viaplay
-DTSTART:20241103T162000
-DTEND:20241103T172000
-DTSTAMP:20241103T162000Z
-UID:2024-11-03T16:20:00/Mönchengladbach - Werder Bremen
-DESCRIPTION:Mönchengladbach - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Lemgo Lippe - Bundesliga - viaplay
-DTSTART:20241103T165500
-DTEND:20241103T175500
-DTSTAMP:20241103T165500Z
-UID:2024-11-03T16:55:00/Magdeburg - Lemgo Lippe
-DESCRIPTION:Magdeburg - Lemgo Lippe - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Union Berlin - Freiburg - Bundesliga - viaplay
 DTSTART:20241108T192000
 DTEND:20241108T202000
 DTSTAMP:20241108T192000Z
 UID:2024-11-08T19:20:00/Union Berlin - Freiburg
 DESCRIPTION:Union Berlin - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - Bayern München - Bundesliga - viaplay
+DTSTART:20241109T142000
+DTEND:20241109T152000
+DTSTAMP:20241109T142000Z
+UID:2024-11-09T14:20:00/St. Pauli - Bayern München
+DESCRIPTION:St. Pauli - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -58,12 +34,12 @@ UID:2024-11-09T14:20:00/Werder Bremen - Holstein Kiel
 DESCRIPTION:Werder Bremen - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Bayern München - Bundesliga - viaplay
+SUMMARY:Mainz - Dortmund - Bundesliga - viaplay
 DTSTART:20241109T142000
 DTEND:20241109T152000
 DTSTAMP:20241109T142000Z
-UID:2024-11-09T14:20:00/St. Pauli - Bayern München
-DESCRIPTION:St. Pauli - Bayern München - Bundesliga
+UID:2024-11-09T14:20:00/Mainz - Dortmund
+DESCRIPTION:Mainz - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bochum - Leverkusen - Bundesliga - viaplay
@@ -72,14 +48,6 @@ DTEND:20241109T152000
 DTSTAMP:20241109T142000Z
 UID:2024-11-09T14:20:00/Bochum - Leverkusen
 DESCRIPTION:Bochum - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mainz - Dortmund - Bundesliga - viaplay
-DTSTART:20241109T142000
-DTEND:20241109T152000
-DTSTAMP:20241109T142000Z
-UID:2024-11-09T14:20:00/Mainz - Dortmund
-DESCRIPTION:Mainz - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Mönchengladbach - Bundesliga - viaplay
@@ -96,5 +64,45 @@ DTEND:20241109T182500
 DTSTAMP:20241109T172500Z
 UID:2024-11-09T17:25:00/RB Leipzig - M´gladbach
 DESCRIPTION:RB Leipzig - M´gladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Hoffenheim - Bundesliga - viaplay
+DTSTART:20241110T142000
+DTEND:20241110T152000
+DTSTAMP:20241110T142000Z
+UID:2024-11-10T14:20:00/Augsburg - Hoffenheim
+DESCRIPTION:Augsburg - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Hoffenheim - Bundesliga - stod2vodasport
+DTSTART:20241110T143000
+DTEND:20241110T153000
+DTSTAMP:20241110T143000Z
+UID:2024-11-10T14:30:00/Augsburg - Hoffenheim
+DESCRIPTION:Augsburg - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Frankfurt - Bundesliga - viaplay
+DTSTART:20241110T162000
+DTEND:20241110T172000
+DTSTAMP:20241110T162000Z
+UID:2024-11-10T16:20:00/Stuttgart - Frankfurt
+DESCRIPTION:Stuttgart - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Frankfurt - Bundesliga - stod2vodasport
+DTSTART:20241110T163000
+DTEND:20241110T173000
+DTSTAMP:20241110T163000Z
+UID:2024-11-10T16:30:00/Stuttgart - Frankfurt
+DESCRIPTION:Stuttgart - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Wolfsburg - Bundesliga - viaplay
+DTSTART:20241110T182000
+DTEND:20241110T192000
+DTSTAMP:20241110T182000Z
+UID:2024-11-10T18:20:00/Heidenheim - Wolfsburg
+DESCRIPTION:Heidenheim - Wolfsburg - Bundesliga
 END:VEVENT
 END:VCALENDAR
