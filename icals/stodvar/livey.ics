@@ -10,20 +10,20 @@ UID:2024-11-07T19:45:00/Genoa - Como
 DESCRIPTION:Genoa - Como - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marseille - Auxerre - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241108T194500
-DTEND:20241108T204500
-DTSTAMP:20241108T194500Z
-UID:2024-11-08T19:45:00/Marseille - Auxerre
-DESCRIPTION:Marseille - Auxerre - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lecce - Empoli - Serie A - Ítalski boltinn - livey
 DTSTART:20241108T194500
 DTEND:20241108T204500
 DTSTAMP:20241108T194500Z
 UID:2024-11-08T19:45:00/Lecce - Empoli
 DESCRIPTION:Lecce - Empoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marseille - Auxerre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241108T194500
+DTEND:20241108T204500
+DTSTAMP:20241108T194500Z
+UID:2024-11-08T19:45:00/Marseille - Auxerre
+DESCRIPTION:Marseille - Auxerre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rayo Vallecano - Las Palmas - LaLiga - Spænski boltinn - livey
@@ -162,14 +162,6 @@ UID:2024-11-10T15:15:00/RCD Mallorca - Atletico Madrid
 DESCRIPTION:RCD Mallorca - Atletico Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Montpellier - Brest - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241110T160000
-DTEND:20241110T170000
-DTSTAMP:20241110T160000Z
-UID:2024-11-10T16:00:00/Montpellier - Brest
-DESCRIPTION:Montpellier - Brest - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rennes - Toulouse - Ligue 1 - Franski Boltinn - livey
 DTSTART:20241110T160000
 DTEND:20241110T170000
@@ -184,6 +176,14 @@ DTEND:20241110T170000
 DTSTAMP:20241110T160000Z
 UID:2024-11-10T16:00:00/Le Havre - Reims
 DESCRIPTION:Le Havre - Reims - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montpellier - Brest - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241110T160000
+DTEND:20241110T170000
+DTSTAMP:20241110T160000Z
+UID:2024-11-10T16:00:00/Montpellier - Brest
+DESCRIPTION:Montpellier - Brest - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monza - Lazio - Serie A - Ítalski boltinn - livey
