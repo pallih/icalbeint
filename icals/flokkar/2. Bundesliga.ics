@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
+SUMMARY:Nürnberg - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20241108T172500
+DTEND:20241108T182500
+DTSTAMP:20241108T172500Z
+UID:2024-11-08T17:25:00/Nürnberg - Kaiserslautern
+DESCRIPTION:Nürnberg - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Braunschweig - HSV - 2. Bundesliga - viaplay
 DTSTART:20241108T172500
 DTEND:20241108T182500
@@ -10,12 +18,12 @@ UID:2024-11-08T17:25:00/Braunschweig - HSV
 DESCRIPTION:Braunschweig - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20241108T172500
-DTEND:20241108T182500
-DTSTAMP:20241108T172500Z
-UID:2024-11-08T17:25:00/Nürnberg - Kaiserslautern
-DESCRIPTION:Nürnberg - Kaiserslautern - 2. Bundesliga
+SUMMARY:Darmstadt - Hertha Berlin - 2. Bundesliga - viaplay
+DTSTART:20241109T115500
+DTEND:20241109T125500
+DTSTAMP:20241109T115500Z
+UID:2024-11-09T11:55:00/Darmstadt - Hertha Berlin
+DESCRIPTION:Darmstadt - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Greuther Fürth - 2. Bundesliga - viaplay
@@ -34,14 +42,6 @@ UID:2024-11-09T11:55:00/Magdeburg - Ulm
 DESCRIPTION:Magdeburg - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - Hertha Berlin - 2. Bundesliga - viaplay
-DTSTART:20241109T115500
-DTEND:20241109T125500
-DTSTAMP:20241109T115500Z
-UID:2024-11-09T11:55:00/Darmstadt - Hertha Berlin
-DESCRIPTION:Darmstadt - Hertha Berlin - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Düsseldorf - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20241109T192500
 DTEND:20241109T202500
@@ -58,19 +58,19 @@ UID:2024-11-10T12:25:00/Karlsruher - Preußen Münster
 DESCRIPTION:Karlsruher - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schalke - Jahn Regensburg - 2. Bundesliga - viaplay
-DTSTART:20241110T122500
-DTEND:20241110T132500
-DTSTAMP:20241110T122500Z
-UID:2024-11-10T12:25:00/Schalke - Jahn Regensburg
-DESCRIPTION:Schalke - Jahn Regensburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elversberg - Hannover - 2. Bundesliga - viaplay
 DTSTART:20241110T122500
 DTEND:20241110T132500
 DTSTAMP:20241110T122500Z
 UID:2024-11-10T12:25:00/Elversberg - Hannover
 DESCRIPTION:Elversberg - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schalke - Jahn Regensburg - 2. Bundesliga - viaplay
+DTSTART:20241110T122500
+DTEND:20241110T132500
+DTSTAMP:20241110T122500Z
+UID:2024-11-10T12:25:00/Schalke - Jahn Regensburg
+DESCRIPTION:Schalke - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
