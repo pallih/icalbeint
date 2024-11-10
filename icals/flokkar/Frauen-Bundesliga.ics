@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Wolfsburg - Frauen-Bundesliga - viaplay
-DTSTART:20241109T105500
-DTEND:20241109T115500
-DTSTAMP:20241109T105500Z
-UID:2024-11-09T10:55:00/Hoffenheim - Wolfsburg
-DESCRIPTION:Hoffenheim - Wolfsburg - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leverkusen - Turbine Potsdam - Frauen-Bundesliga - viaplay
 DTSTART:20241110T125500
 DTEND:20241110T135500
@@ -24,5 +16,21 @@ DTEND:20241111T175500
 DTSTAMP:20241111T165500Z
 UID:2024-11-11T16:55:00/Essen - Leipzig
 DESCRIPTION:Essen - Leipzig - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Turbine Potsdam - Frauen-Bundesliga - viaplay
+DTSTART:20241116T125500
+DTEND:20241116T135500
+DTSTAMP:20241116T125500Z
+UID:2024-11-16T12:55:00/Wolfsburg - Turbine Potsdam
+DESCRIPTION:Wolfsburg - Turbine Potsdam - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Frankfurt - Frauen-Bundesliga - viaplay
+DTSTART:20241116T160500
+DTEND:20241116T170500
+DTSTAMP:20241116T160500Z
+UID:2024-11-16T16:05:00/Hoffenheim - Frankfurt
+DESCRIPTION:Hoffenheim - Frankfurt - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR
