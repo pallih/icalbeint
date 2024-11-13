@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
-DTSTART:20241112T200000
-DTEND:20241112T210000
-DTSTAMP:20241112T200000Z
-UID:2024-11-12T20:00:00/Bónus deildin - Extra
-DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GAZið: Upphitun - Bónus deild karla - stod2sport
 DTSTART:20241114T185500
 DTEND:20241114T195500
@@ -18,20 +10,20 @@ UID:2024-11-14T18:55:00/GAZið: Upphitun
 DESCRIPTION:GAZið: Upphitun - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Álftanes - Grindavík - Bónus deild karla - stod2sport5
-DTSTART:20241114T190500
-DTEND:20241114T200500
-DTSTAMP:20241114T190500Z
-UID:2024-11-14T19:05:00/Álftanes - Grindavík
-DESCRIPTION:Álftanes - Grindavík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - Höttur - Bónus deild karla - stod2besta03
 DTSTART:20241114T190500
 DTEND:20241114T200500
 DTSTAMP:20241114T190500Z
 UID:2024-11-14T19:05:00/Stjarnan - Höttur
 DESCRIPTION:Stjarnan - Höttur - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Álftanes - Grindavík - Bónus deild karla - stod2sport5
+DTSTART:20241114T190500
+DTEND:20241114T200500
+DTSTAMP:20241114T190500Z
+UID:2024-11-14T19:05:00/Álftanes - Grindavík
+DESCRIPTION:Álftanes - Grindavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
@@ -160,5 +152,21 @@ DTEND:20241118T210000
 DTSTAMP:20241118T200000Z
 UID:2024-11-18T20:00:00/Lögmál leiksins
 DESCRIPTION:Lögmál leiksins - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Hamar/Þór - Bónus deild kvenna - stod2besta01
+DTSTART:20241119T191000
+DTEND:20241119T201000
+DTSTAMP:20241119T191000Z
+UID:2024-11-19T19:10:00/Njarðvík - Hamar/Þór
+DESCRIPTION:Njarðvík - Hamar/Þór - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Haukar - Bónus deild kvenna - stod2sport5
+DTSTART:20241119T200500
+DTEND:20241119T210500
+DTSTAMP:20241119T200500Z
+UID:2024-11-19T20:05:00/Grindavík - Haukar
+DESCRIPTION:Grindavík - Haukar - Bónus deild kvenna
 END:VEVENT
 END:VCALENDAR
