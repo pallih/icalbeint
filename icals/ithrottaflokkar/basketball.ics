@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Lögmál leiksins - NBA - stod2sport2
-DTSTART:20241118T200000
-DTEND:20241118T210000
-DTSTAMP:20241118T200000Z
-UID:2024-11-18T20:00:00/Lögmál leiksins
-DESCRIPTION:Lögmál leiksins - NBA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grindavík - Haukar - Bónus deild kvenna - stod2sport5
 DTSTART:20241119T190500
 DTEND:20241119T200500
@@ -42,20 +34,20 @@ UID:2024-11-20T19:05:00/Keflavík - Tindastóll
 DESCRIPTION:Keflavík - Tindastóll - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Ak. - Aþena - Bónus deild kvenna - stod2besta01
-DTSTART:20241120T191000
-DTEND:20241120T201000
-DTSTAMP:20241120T191000Z
-UID:2024-11-20T19:10:00/Þór Ak. - Aþena
-DESCRIPTION:Þór Ak. - Aþena - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - Stjarnan - Bónus deild kvenna - stod2besta02
 DTSTART:20241120T191000
 DTEND:20241120T201000
 DTSTAMP:20241120T191000Z
 UID:2024-11-20T19:10:00/Valur - Stjarnan
 DESCRIPTION:Valur - Stjarnan - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Ak. - Aþena - Bónus deild kvenna - stod2besta01
+DTSTART:20241120T191000
+DTEND:20241120T201000
+DTSTAMP:20241120T191000Z
+UID:2024-11-20T19:10:00/Þór Ak. - Aþena
+DESCRIPTION:Þór Ak. - Aþena - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
@@ -66,6 +58,14 @@ UID:2024-11-20T21:10:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KV - Skallagrímur - 1. deild karla í körfubolta - stod2sport
+DTSTART:20241121T190500
+DTEND:20241121T200500
+DTSTAMP:20241121T190500Z
+UID:2024-11-21T19:05:00/KV - Skallagrímur
+DESCRIPTION:KV - Skallagrímur - 1. deild karla í körfubolta
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ísland - Ítalía - Undankeppni EM karla í körfubolta - ruv2
 DTSTART:20241122T193000
 DTEND:20241122T203000
@@ -74,11 +74,43 @@ UID:2024-11-22T19:30:00/Ísland - Ítalía
 DESCRIPTION:Ísland - Ítalía - Undankeppni EM karla í körfubolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ármann - KR - 1. deild kvenna í körfubolta - stod2sport
+DTSTART:20241123T135000
+DTEND:20241123T145000
+DTSTAMP:20241123T135000Z
+UID:2024-11-23T13:50:00/Ármann - KR
+DESCRIPTION:Ármann - KR - 1. deild kvenna í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ármann - Selfoss - 1. deild karla í körfubolta - stod2sport
+DTSTART:20241123T165000
+DTEND:20241123T175000
+DTSTAMP:20241123T165000Z
+UID:2024-11-23T16:50:00/Ármann - Selfoss
+DESCRIPTION:Ármann - Selfoss - 1. deild karla í körfubolta
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jazz - Knicks - NBA - stod2sport2
 DTSTART:20241123T220000
 DTEND:20241123T230000
 DTSTAMP:20241123T220000Z
 UID:2024-11-23T22:00:00/Jazz - Knicks
 DESCRIPTION:Jazz - Knicks - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ítalía - Ísland - Undankeppni EM karla í körfubolta - ruv2
+DTSTART:20241125T193000
+DTEND:20241125T203000
+DTSTAMP:20241125T193000Z
+UID:2024-11-25T19:30:00/Ítalía - Ísland
+DESCRIPTION:Ítalía - Ísland - Undankeppni EM karla í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lögmál leiksins - NBA - stod2sport2
+DTSTART:20241125T200000
+DTEND:20241125T210000
+DTSTAMP:20241125T200000Z
+UID:2024-11-25T20:00:00/Lögmál leiksins
+DESCRIPTION:Lögmál leiksins - NBA
 END:VEVENT
 END:VCALENDAR
