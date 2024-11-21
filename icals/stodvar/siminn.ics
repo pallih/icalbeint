@@ -34,20 +34,20 @@ UID:2024-11-22T19:30:00/HK - ÍBV
 DESCRIPTION:HK - ÍBV - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afturelding - Grótta - Olís deild karla - hsi1
-DTSTART:20241122T193000
-DTEND:20241122T203000
-DTSTAMP:20241122T193000Z
-UID:2024-11-22T19:30:00/Afturelding - Grótta
-DESCRIPTION:Afturelding - Grótta - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - FH - Olís deild karla - hsi1
 DTSTART:20241122T193000
 DTEND:20241122T203000
 DTSTAMP:20241122T193000Z
 UID:2024-11-22T19:30:00/ÍR - FH
 DESCRIPTION:ÍR - FH - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - Grótta - Olís deild karla - hsi1
+DTSTART:20241122T193000
+DTEND:20241122T203000
+DTSTAMP:20241122T193000Z
+UID:2024-11-22T19:30:00/Afturelding - Grótta
+DESCRIPTION:Afturelding - Grótta - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Valur - Olís deild karla - hsi1
@@ -66,6 +66,14 @@ UID:2024-11-23T12:00:00/Leicester - Chelsea
 DESCRIPTION:Leicester - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arsenal - Nottingham Forest - Enska úrvalsdeildin - siminnsport
+DTSTART:20241123T143000
+DTEND:20241123T153000
+DTSTAMP:20241123T143000Z
+UID:2024-11-23T14:30:00/Arsenal - Nottingham Forest
+DESCRIPTION:Arsenal - Nottingham Forest - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arsenal - Nottingham Forest - Enska úrvalsdeildin - sjonvarpsiman
  s
 DTSTART:20241123T143000
@@ -75,20 +83,12 @@ UID:2024-11-23T14:30:00/Arsenal - Nottingham Forest
 DESCRIPTION:Arsenal - Nottingham Forest - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Nottingham Forest - Enska úrvalsdeildin - siminnsport
-DTSTART:20241123T143000
-DTEND:20241123T153000
-DTSTAMP:20241123T143000Z
-UID:2024-11-23T14:30:00/Arsenal - Nottingham Forest
-DESCRIPTION:Arsenal - Nottingham Forest - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fulham - Wolves - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Bournemouth - Brighton - Enska úrvalsdeildin - siminnsport5
 DTSTART:20241123T145000
 DTEND:20241123T155000
 DTSTAMP:20241123T145000Z
-UID:2024-11-23T14:50:00/Fulham - Wolves
-DESCRIPTION:Fulham - Wolves - Enska úrvalsdeildin
+UID:2024-11-23T14:50:00/Bournemouth - Brighton
+DESCRIPTION:Bournemouth - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aston Villa - Crystal Palace - Enska úrvalsdeildin - siminnsport2
@@ -107,12 +107,12 @@ UID:2024-11-23T14:50:00/Everton - Brentford
 DESCRIPTION:Everton - Brentford - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Brighton - Enska úrvalsdeildin - siminnsport5
+SUMMARY:Fulham - Wolves - Enska úrvalsdeildin - siminnsport4
 DTSTART:20241123T145000
 DTEND:20241123T155000
 DTSTAMP:20241123T145000Z
-UID:2024-11-23T14:50:00/Bournemouth - Brighton
-DESCRIPTION:Bournemouth - Brighton - Enska úrvalsdeildin
+UID:2024-11-23T14:50:00/Fulham - Wolves
+DESCRIPTION:Fulham - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Tottenham - Enska úrvalsdeildin - siminnsport

@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
+SUMMARY:F1 Las Vegas: Æfing 1 - Formúla 1 - stod2vodasport
+DTSTART:20241122T022500
+DTEND:20241122T032500
+DTSTAMP:20241122T022500Z
+UID:2024-11-22T02:25:00/F1 Las Vegas: Æfing 1
+DESCRIPTION:F1 Las Vegas: Æfing 1 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Las Vegas kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20241122T022500
 DTEND:20241122T032500
@@ -10,12 +18,13 @@ UID:2024-11-22T02:25:00/Las Vegas kappaksturinn (Æfing 1)
 DESCRIPTION:Las Vegas kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 Las Vegas: Æfing 1 - Formúla 1 - stod2vodasport
-DTSTART:20241122T022500
-DTEND:20241122T032500
-DTSTAMP:20241122T022500Z
-UID:2024-11-22T02:25:00/F1 Las Vegas: Æfing 1
-DESCRIPTION:F1 Las Vegas: Æfing 1 - Formúla 1
+SUMMARY:Pitlane (Æfing 1 | Las Vegas kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20241122T023000
+DTEND:20241122T033000
+DTSTAMP:20241122T023000Z
+UID:2024-11-22T02:30:00/Pitlane (Æfing 1 | Las Vegas kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Las Vegas kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Las Vegas kappaksturinn) - Formula 1 - viapla
@@ -34,15 +43,6 @@ DTEND:20241122T033000
 DTSTAMP:20241122T023000Z
 UID:2024-11-22T02:30:00/Onboard (Æfing 1 | Las Vegas kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Las Vegas kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Las Vegas kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20241122T023000
-DTEND:20241122T033000
-DTSTAMP:20241122T023000Z
-UID:2024-11-22T02:30:00/Pitlane (Æfing 1 | Las Vegas kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Las Vegas kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Las Vegas kappaksturinn) - Formula
@@ -81,6 +81,15 @@ UID:2024-11-22T06:00:00/Pitlane (Æfing 2 | Las Vegas kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 2 | Las Vegas kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Æfing 2 | Las Vegas kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20241122T060000
+DTEND:20241122T070000
+DTSTAMP:20241122T060000Z
+UID:2024-11-22T06:00:00/Timing (Æfing 2 | Las Vegas kappaksturinn)
+DESCRIPTION:Timing (Æfing 2 | Las Vegas kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Las Vegas kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20241122T060000
@@ -101,15 +110,6 @@ DESCRIPTION:Track Positioning (Æfing 2 | Las Vegas kappaksturinn) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 2 | Las Vegas kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20241122T060000
-DTEND:20241122T070000
-DTSTAMP:20241122T060000Z
-UID:2024-11-22T06:00:00/Timing (Æfing 2 | Las Vegas kappaksturinn)
-DESCRIPTION:Timing (Æfing 2 | Las Vegas kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Las Vegas kappaksturinn (Practice 3) - Formula 1 - viaplay
 DTSTART:20241123T022500
 DTEND:20241123T032500
@@ -126,13 +126,13 @@ UID:2024-11-23T02:25:00/F1 Las Vegas: Æfing 3
 DESCRIPTION:F1 Las Vegas: Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Las Vegas kappaksturinn) - Formula 1 - viapl
+SUMMARY:Onboard (Æfing 3 | Las Vegas kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20241123T023000
 DTEND:20241123T033000
 DTSTAMP:20241123T023000Z
-UID:2024-11-23T02:30:00/Pitlane (Æfing 3 | Las Vegas kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Las Vegas kappaksturinn) - Formula 1
+UID:2024-11-23T02:30:00/Onboard (Æfing 3 | Las Vegas kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Las Vegas kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Las Vegas kappaksturinn) - Formula
@@ -146,13 +146,13 @@ DESCRIPTION:Track Positioning (Æfing 3 | Las Vegas kappaksturinn) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Las Vegas kappaksturinn) - Formula 1 - viapl
+SUMMARY:Pitlane (Æfing 3 | Las Vegas kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20241123T023000
 DTEND:20241123T033000
 DTSTAMP:20241123T023000Z
-UID:2024-11-23T02:30:00/Onboard (Æfing 3 | Las Vegas kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Las Vegas kappaksturinn) - Formula 1
+UID:2024-11-23T02:30:00/Pitlane (Æfing 3 | Las Vegas kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Las Vegas kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 3 | Las Vegas kappaksturinn) - Formula 1 - viapla
@@ -180,15 +180,13 @@ UID:2024-11-23T05:45:00/Las Vegas kappaksturinn (Tímatökur)
 DESCRIPTION:Las Vegas kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Tímatökur | Las Vegas kappaksturinn) - Form
- ula 1 - viaplay
+SUMMARY:Timing (Tímatökur | Las Vegas kappaksturinn) - Formula 1 - via
+ play
 DTSTART:20241123T060000
 DTEND:20241123T070000
 DTSTAMP:20241123T060000Z
-UID:2024-11-23T06:00:00/Track Positioning (Tímatökur | Las Vegas kappa
- ksturinn)
-DESCRIPTION:Track Positioning (Tímatökur | Las Vegas kappaksturinn) - 
- Formula 1
+UID:2024-11-23T06:00:00/Timing (Tímatökur | Las Vegas kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Las Vegas kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Las Vegas kappaksturinn) - Formula 1 - vi
@@ -200,13 +198,15 @@ UID:2024-11-23T06:00:00/Pitlane (Tímatökur | Las Vegas kappaksturinn)
 DESCRIPTION:Pitlane (Tímatökur | Las Vegas kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Las Vegas kappaksturinn) - Formula 1 - via
- play
+SUMMARY:Track Positioning (Tímatökur | Las Vegas kappaksturinn) - Form
+ ula 1 - viaplay
 DTSTART:20241123T060000
 DTEND:20241123T070000
 DTSTAMP:20241123T060000Z
-UID:2024-11-23T06:00:00/Timing (Tímatökur | Las Vegas kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Las Vegas kappaksturinn) - Formula 1
+UID:2024-11-23T06:00:00/Track Positioning (Tímatökur | Las Vegas kappa
+ ksturinn)
+DESCRIPTION:Track Positioning (Tímatökur | Las Vegas kappaksturinn) - 
+ Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Las Vegas kappaksturinn) - Formula 1 - vi
@@ -234,13 +234,15 @@ UID:2024-11-24T05:30:00/Formúla 1
 DESCRIPTION:Formúla 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Las Vegas kappaksturinn) - Formula 1 - viap
- lay
+SUMMARY:Track Positioning (Kappakstur | Las Vegas kappaksturinn) - Formu
+ la 1 - viaplay
 DTSTART:20241124T060000
 DTEND:20241124T070000
 DTSTAMP:20241124T060000Z
-UID:2024-11-24T06:00:00/Timing (Kappakstur | Las Vegas kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Las Vegas kappaksturinn) - Formula 1
+UID:2024-11-24T06:00:00/Track Positioning (Kappakstur | Las Vegas kappak
+ sturinn)
+DESCRIPTION:Track Positioning (Kappakstur | Las Vegas kappaksturinn) - F
+ ormula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Las Vegas kappaksturinn) - Formula 1 - via
@@ -261,14 +263,12 @@ UID:2024-11-24T06:00:00/Onboard (Kappakstur | Las Vegas kappaksturinn)
 DESCRIPTION:Onboard (Kappakstur | Las Vegas kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Las Vegas kappaksturinn) - Formu
- la 1 - viaplay
+SUMMARY:Timing (Kappakstur | Las Vegas kappaksturinn) - Formula 1 - viap
+ lay
 DTSTART:20241124T060000
 DTEND:20241124T070000
 DTSTAMP:20241124T060000Z
-UID:2024-11-24T06:00:00/Track Positioning (Kappakstur | Las Vegas kappak
- sturinn)
-DESCRIPTION:Track Positioning (Kappakstur | Las Vegas kappaksturinn) - F
- ormula 1
+UID:2024-11-24T06:00:00/Timing (Kappakstur | Las Vegas kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Las Vegas kappaksturinn) - Formula 1
 END:VEVENT
 END:VCALENDAR

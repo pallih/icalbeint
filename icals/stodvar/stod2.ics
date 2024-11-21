@@ -3,54 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
 SUMMARY:World Table Tennis - World Table Tennis - stod2vodasport
-DTSTART:20241120T090000
-DTEND:20241120T100000
-DTSTAMP:20241120T090000Z
-UID:2024-11-20T09:00:00/World Table Tennis
-DESCRIPTION:World Table Tennis - World Table Tennis
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Keflavík - Tindastóll - Bónus deild kvenna - stod2sport
-DTSTART:20241120T190500
-DTEND:20241120T200500
-DTSTAMP:20241120T190500Z
-UID:2024-11-20T19:05:00/Keflavík - Tindastóll
-DESCRIPTION:Keflavík - Tindastóll - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór Ak. - Aþena - Bónus deild kvenna - stod2besta01
-DTSTART:20241120T191000
-DTEND:20241120T201000
-DTSTAMP:20241120T191000Z
-UID:2024-11-20T19:10:00/Þór Ak. - Aþena
-DESCRIPTION:Þór Ak. - Aþena - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Stjarnan - Bónus deild kvenna - stod2besta02
-DTSTART:20241120T191000
-DTEND:20241120T201000
-DTSTAMP:20241120T191000Z
-UID:2024-11-20T19:10:00/Valur - Stjarnan
-DESCRIPTION:Valur - Stjarnan - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
-DTSTART:20241120T211000
-DTEND:20241120T221000
-DTSTAMP:20241120T211000Z
-UID:2024-11-20T21:10:00/Bónus Körfuboltakvöld
-DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maple Leafs - Knights - NHL - stod2vodasport
-DTSTART:20241121T003500
-DTEND:20241121T013500
-DTSTAMP:20241121T003500Z
-UID:2024-11-21T00:35:00/Maple Leafs - Knights
-DESCRIPTION:Maple Leafs - Knights - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Table Tennis - World Table Tennis - stod2vodasport
 DTSTART:20241121T090000
 DTEND:20241121T100000
 DTSTAMP:20241121T090000Z
@@ -282,6 +234,14 @@ UID:2024-11-24T18:55:00/Players Championship
 DESCRIPTION:Players Championship - Matchroom Darts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Celtics - Timberwolves - NBA - stod2sport6
+DTSTART:20241124T203000
+DTEND:20241124T213000
+DTSTAMP:20241124T203000Z
+UID:2024-11-24T20:30:00/Celtics - Timberwolves
+DESCRIPTION:Celtics - Timberwolves - NBA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Packers - 49ers - NFL - stod2sport2
 DTSTART:20241124T212000
 DTEND:20241124T222000
@@ -396,14 +356,6 @@ UID:2024-11-26T19:50:00/Inter - Leipzig
 DESCRIPTION:Inter - Leipzig - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Young Boys - Atalanta - Meistaradeild Evrópu - stod2sport6
-DTSTART:20241126T195000
-DTEND:20241126T205000
-DTSTAMP:20241126T195000Z
-UID:2024-11-26T19:50:00/Young Boys - Atalanta
-DESCRIPTION:Young Boys - Atalanta - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sporting Lissabon - Arsenal - Meistaradeild Evrópu - stod2vodaspo
  rt
 DTSTART:20241126T195000
@@ -413,12 +365,12 @@ UID:2024-11-26T19:50:00/Sporting Lissabon - Arsenal
 DESCRIPTION:Sporting Lissabon - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manchester City - Feyenoord - Meistaradeild Evrópu - stod2sport3
+SUMMARY:Young Boys - Atalanta - Meistaradeild Evrópu - stod2sport6
 DTSTART:20241126T195000
 DTEND:20241126T205000
 DTSTAMP:20241126T195000Z
-UID:2024-11-26T19:50:00/Manchester City - Feyenoord
-DESCRIPTION:Manchester City - Feyenoord - Meistaradeild Evrópu
+UID:2024-11-26T19:50:00/Young Boys - Atalanta
+DESCRIPTION:Young Boys - Atalanta - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - PSG - Meistaradeild Evrópu - stod2sport4
@@ -427,6 +379,14 @@ DTEND:20241126T205000
 DTSTAMP:20241126T195000Z
 UID:2024-11-26T19:50:00/Bayern München - PSG
 DESCRIPTION:Bayern München - PSG - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City - Feyenoord - Meistaradeild Evrópu - stod2sport3
+DTSTART:20241126T195000
+DTEND:20241126T205000
+DTSTAMP:20241126T195000Z
+UID:2024-11-26T19:50:00/Manchester City - Feyenoord
+DESCRIPTION:Manchester City - Feyenoord - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
@@ -443,5 +403,117 @@ DTEND:20241126T234500
 DTSTAMP:20241126T224500Z
 UID:2024-11-26T22:45:00/Lokasóknin
 DESCRIPTION:Lokasóknin - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bruins - Canucks - NHL - stod2vodasport
+DTSTART:20241127T000500
+DTEND:20241127T010500
+DTSTAMP:20241127T000500Z
+UID:2024-11-27T00:05:00/Bruins - Canucks
+DESCRIPTION:Bruins - Canucks - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Real Madrid - UEFA Youth League - stod2sport2
+DTSTART:20241127T135500
+DTEND:20241127T145500
+DTSTAMP:20241127T135500Z
+UID:2024-11-27T13:55:00/Liverpool - Real Madrid
+DESCRIPTION:Liverpool - Real Madrid - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celtic - Brugge - UEFA Youth League - stod2sport3
+DTSTART:20241127T135500
+DTEND:20241127T145500
+DTSTAMP:20241127T135500Z
+UID:2024-11-27T13:55:00/Celtic - Brugge
+DESCRIPTION:Celtic - Brugge - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sturm Graz - Girona - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20241127T173500
+DTEND:20241127T183500
+DTSTAMP:20241127T173500Z
+UID:2024-11-27T17:35:00/Sturm Graz - Girona
+DESCRIPTION:Sturm Graz - Girona - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rauða stjarnan - Stuttgart - Meistaradeild Evrópu - stod2sport3
+DTSTART:20241127T173500
+DTEND:20241127T183500
+DTSTAMP:20241127T173500Z
+UID:2024-11-27T17:35:00/Rauða stjarnan - Stuttgart
+DESCRIPTION:Rauða stjarnan - Stuttgart - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Keflavík - Bónus deild kvenna - stod2sport
+DTSTART:20241127T190000
+DTEND:20241127T200000
+DTSTAMP:20241127T190000Z
+UID:2024-11-27T19:00:00/Haukar - Keflavík
+DESCRIPTION:Haukar - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aþena - Grindavík - Bónus deild kvenna - stod2besta01
+DTSTART:20241127T191000
+DTEND:20241127T201000
+DTSTAMP:20241127T191000Z
+UID:2024-11-27T19:10:00/Aþena - Grindavík
+DESCRIPTION:Aþena - Grindavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - stod2sport2
+DTSTART:20241127T193000
+DTEND:20241127T203000
+DTSTAMP:20241127T193000Z
+UID:2024-11-27T19:30:00/Meistaradeildarmessan
+DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Real Madrid - Meistaradeild Evrópu - stod2sport3
+DTSTART:20241127T195000
+DTEND:20241127T205000
+DTSTAMP:20241127T195000Z
+UID:2024-11-27T19:50:00/Liverpool - Real Madrid
+DESCRIPTION:Liverpool - Real Madrid - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV - Shakhtar - Meistaradeild Evrópu - stod2sport5
+DTSTART:20241127T195000
+DTEND:20241127T205000
+DTSTAMP:20241127T195000Z
+UID:2024-11-27T19:50:00/PSV - Shakhtar
+DESCRIPTION:PSV - Shakhtar - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Juventus - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20241127T195000
+DTEND:20241127T205000
+DTSTAMP:20241127T195000Z
+UID:2024-11-27T19:50:00/Aston Villa - Juventus
+DESCRIPTION:Aston Villa - Juventus - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bologna - Lille - Meistaradeild Evrópu - stod2sport4
+DTSTART:20241127T195000
+DTEND:20241127T205000
+DTSTAMP:20241127T195000Z
+UID:2024-11-27T19:50:00/Bologna - Lille
+DESCRIPTION:Bologna - Lille - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
+DTSTART:20241127T211000
+DTEND:20241127T221000
+DTSTAMP:20241127T211000Z
+UID:2024-11-27T21:10:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
+DTSTART:20241127T220000
+DTEND:20241127T230000
+DTSTAMP:20241127T220000Z
+UID:2024-11-27T22:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
 END:VEVENT
 END:VCALENDAR
