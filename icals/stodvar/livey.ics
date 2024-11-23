@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Monaco - Brest - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241122T180000
-DTEND:20241122T190000
-DTSTAMP:20241122T180000Z
-UID:2024-11-22T18:00:00/Monaco - Brest
-DESCRIPTION:Monaco - Brest - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PSG - Toulouse - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241122T200000
-DTEND:20241122T210000
-DTSTAMP:20241122T200000Z
-UID:2024-11-22T20:00:00/PSG - Toulouse
-DESCRIPTION:PSG - Toulouse - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Getafe - Valladolid - LaLiga - Spænski boltinn - livey
-DTSTART:20241122T200000
-DTEND:20241122T210000
-DTSTAMP:20241122T200000Z
-UID:2024-11-22T20:00:00/Getafe - Valladolid
-DESCRIPTION:Getafe - Valladolid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valencia - Real Betis - LaLiga - Spænski boltinn - livey
 DTSTART:20241123T130000
 DTEND:20241123T140000
@@ -67,20 +43,20 @@ UID:2024-11-23T17:00:00/AC Milan - Juventus
 DESCRIPTION:AC Milan - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Las Palmas - RCD Mallorca - LaLiga - Spænski boltinn - livey
-DTSTART:20241123T173000
-DTEND:20241123T183000
-DTSTAMP:20241123T173000Z
-UID:2024-11-23T17:30:00/Las Palmas - RCD Mallorca
-DESCRIPTION:Las Palmas - RCD Mallorca - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Girona - Espanyol - LaLiga - Spænski boltinn - livey
 DTSTART:20241123T173000
 DTEND:20241123T183000
 DTSTAMP:20241123T173000Z
 UID:2024-11-23T17:30:00/Girona - Espanyol
 DESCRIPTION:Girona - Espanyol - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Palmas - RCD Mallorca - LaLiga - Spænski boltinn - livey
+DTSTART:20241123T173000
+DTEND:20241123T183000
+DTSTAMP:20241123T173000Z
+UID:2024-11-23T17:30:00/Las Palmas - RCD Mallorca
+DESCRIPTION:Las Palmas - RCD Mallorca - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St-Étienne - Montpellier - Ligue 1 - Franski Boltinn - livey
@@ -107,20 +83,20 @@ UID:2024-11-23T19:45:00/Genk - Charleroi
 DESCRIPTION:Genk - Charleroi - Pro League - Belgíski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celta Vigo - Barcelona - LaLiga - Spænski boltinn - livey
-DTSTART:20241123T200000
-DTEND:20241123T210000
-DTSTAMP:20241123T200000Z
-UID:2024-11-23T20:00:00/Celta Vigo - Barcelona
-DESCRIPTION:Celta Vigo - Barcelona - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reims - Lyon - Ligue 1 - Franski Boltinn - livey
 DTSTART:20241123T200000
 DTEND:20241123T210000
 DTSTAMP:20241123T200000Z
 UID:2024-11-23T20:00:00/Reims - Lyon
 DESCRIPTION:Reims - Lyon - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celta Vigo - Barcelona - LaLiga - Spænski boltinn - livey
+DTSTART:20241123T200000
+DTEND:20241123T210000
+DTSTAMP:20241123T200000Z
+UID:2024-11-23T20:00:00/Celta Vigo - Barcelona
+DESCRIPTION:Celta Vigo - Barcelona - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Genoa - Cagliari - Serie A - Ítalski boltinn - livey
@@ -155,12 +131,12 @@ UID:2024-11-24T13:00:00/Osasuna - Villareal
 DESCRIPTION:Osasuna - Villareal - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Torino - Monza - Serie A - Ítalski boltinn - livey
+SUMMARY:Como - Fiorentina - Serie A - Ítalski boltinn - livey
 DTSTART:20241124T140000
 DTEND:20241124T150000
 DTSTAMP:20241124T140000Z
-UID:2024-11-24T14:00:00/Torino - Monza
-DESCRIPTION:Torino - Monza - Serie A - Ítalski boltinn
+UID:2024-11-24T14:00:00/Como - Fiorentina
+DESCRIPTION:Como - Fiorentina - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lille - Rennes - Ligue 1 - Franski Boltinn - livey
@@ -171,12 +147,12 @@ UID:2024-11-24T14:00:00/Lille - Rennes
 DESCRIPTION:Lille - Rennes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Como - Fiorentina - Serie A - Ítalski boltinn - livey
+SUMMARY:Torino - Monza - Serie A - Ítalski boltinn - livey
 DTSTART:20241124T140000
 DTEND:20241124T150000
 DTSTAMP:20241124T140000Z
-UID:2024-11-24T14:00:00/Como - Fiorentina
-DESCRIPTION:Como - Fiorentina - Serie A - Ítalski boltinn
+UID:2024-11-24T14:00:00/Torino - Monza
+DESCRIPTION:Torino - Monza - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sevilla - Rayo Vallecano - LaLiga - Spænski boltinn - livey
@@ -187,20 +163,20 @@ UID:2024-11-24T15:15:00/Sevilla - Rayo Vallecano
 DESCRIPTION:Sevilla - Rayo Vallecano - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nantes - Le Havre - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241124T160000
-DTEND:20241124T170000
-DTSTAMP:20241124T160000Z
-UID:2024-11-24T16:00:00/Nantes - Le Havre
-DESCRIPTION:Nantes - Le Havre - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Auxerre - Angers - Ligue 1 - Franski Boltinn - livey
 DTSTART:20241124T160000
 DTEND:20241124T170000
 DTSTAMP:20241124T160000Z
 UID:2024-11-24T16:00:00/Auxerre - Angers
 DESCRIPTION:Auxerre - Angers - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes - Le Havre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241124T160000
+DTEND:20241124T170000
+DTSTAMP:20241124T160000Z
+UID:2024-11-24T16:00:00/Nantes - Le Havre
+DESCRIPTION:Nantes - Le Havre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Napoli - Roma - Serie A - Ítalski boltinn - livey
@@ -211,6 +187,14 @@ UID:2024-11-24T17:00:00/Napoli - Roma
 DESCRIPTION:Napoli - Roma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anderlecht - Gent - Pro League - Belgíski boltinn - livey
+DTSTART:20241124T173000
+DTEND:20241124T183000
+DTSTAMP:20241124T173000Z
+UID:2024-11-24T17:30:00/Anderlecht - Gent
+DESCRIPTION:Anderlecht - Gent - Pro League - Belgíski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Deportivo Leganes - Real Madrid - LaLiga - Spænski boltinn - live
  y
 DTSTART:20241124T173000
@@ -218,14 +202,6 @@ DTEND:20241124T183000
 DTSTAMP:20241124T173000Z
 UID:2024-11-24T17:30:00/Deportivo Leganes - Real Madrid
 DESCRIPTION:Deportivo Leganes - Real Madrid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anderlecht - Gent - Pro League - Belgíski boltinn - livey
-DTSTART:20241124T173000
-DTEND:20241124T183000
-DTSTAMP:20241124T173000Z
-UID:2024-11-24T17:30:00/Anderlecht - Gent
-DESCRIPTION:Anderlecht - Gent - Pro League - Belgíski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nice - RC Strasbourg - Ligue 1 - Franski Boltinn - livey
@@ -269,6 +245,14 @@ UID:2024-11-25T19:45:00/Venezia - Lecce
 DESCRIPTION:Venezia - Lecce - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FC Porto - Valur - EHF - livey
+DTSTART:20241126T194500
+DTEND:20241126T204500
+DTSTAMP:20241126T194500Z
+UID:2024-11-26T19:45:00/FC Porto - Valur
+DESCRIPTION:FC Porto - Valur - EHF
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FH - Fenix Toulouse Handball - EHF - livey
 DTSTART:20241126T194500
 DTEND:20241126T204500
@@ -277,11 +261,19 @@ UID:2024-11-26T19:45:00/FH - Fenix Toulouse Handball
 DESCRIPTION:FH - Fenix Toulouse Handball - EHF
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Porto - Valur - EHF - livey
-DTSTART:20241126T194500
-DTEND:20241126T204500
-DTSTAMP:20241126T194500Z
-UID:2024-11-26T19:45:00/FC Porto - Valur
-DESCRIPTION:FC Porto - Valur - EHF
+SUMMARY:PFL World Championships - MENA Card - PFL & Bellator MMA - livey
+DTSTART:20241129T143000
+DTEND:20241129T153000
+DTSTAMP:20241129T143000Z
+UID:2024-11-29T14:30:00/PFL World Championships - MENA Card
+DESCRIPTION:PFL World Championships - MENA Card - PFL & Bellator MMA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PFL World Championships - Main Card - PFL & Bellator MMA - livey
+DTSTART:20241129T200000
+DTEND:20241129T210000
+DTSTAMP:20241129T200000Z
+UID:2024-11-29T20:00:00/PFL World Championships - Main Card
+DESCRIPTION:PFL World Championships - Main Card - PFL & Bellator MMA
 END:VEVENT
 END:VCALENDAR

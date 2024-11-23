@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:VfL Gummersbach - THW Kiel - Bundesliga - viaplay
-DTSTART:20241122T185500
-DTEND:20241122T195500
-DTSTAMP:20241122T185500Z
-UID:2024-11-22T18:55:00/VfL Gummersbach - THW Kiel
-DESCRIPTION:VfL Gummersbach - THW Kiel - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Augsburg - Bundesliga - viaplay
-DTSTART:20241122T192000
-DTEND:20241122T202000
-DTSTAMP:20241122T192000Z
-UID:2024-11-22T19:20:00/Bayern München - Augsburg
-DESCRIPTION:Bayern München - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Augsburg - Bundesliga - stod2vodasport
-DTSTART:20241122T192500
-DTEND:20241122T202500
-DTSTAMP:20241122T192500Z
-UID:2024-11-22T19:25:00/Bayern München - Augsburg
-DESCRIPTION:Bayern München - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Leipzig - Bundesliga - viaplay
+SUMMARY:Leverkusen - Heidenheim - Bundesliga - viaplay
 DTSTART:20241123T142000
 DTEND:20241123T152000
 DTSTAMP:20241123T142000Z
-UID:2024-11-23T14:20:00/Hoffenheim - Leipzig
-DESCRIPTION:Hoffenheim - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - Union Berlin - Bundesliga - viaplay
-DTSTART:20241123T142000
-DTEND:20241123T152000
-DTSTAMP:20241123T142000Z
-UID:2024-11-23T14:20:00/Wolfsburg - Union Berlin
-DESCRIPTION:Wolfsburg - Union Berlin - Bundesliga
+UID:2024-11-23T14:20:00/Leverkusen - Heidenheim
+DESCRIPTION:Leverkusen - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -50,12 +18,20 @@ UID:2024-11-23T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Heidenheim - Bundesliga - viaplay
+SUMMARY:Hoffenheim - Leipzig - Bundesliga - viaplay
 DTSTART:20241123T142000
 DTEND:20241123T152000
 DTSTAMP:20241123T142000Z
-UID:2024-11-23T14:20:00/Leverkusen - Heidenheim
-DESCRIPTION:Leverkusen - Heidenheim - Bundesliga
+UID:2024-11-23T14:20:00/Hoffenheim - Leipzig
+DESCRIPTION:Hoffenheim - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Freiburg - Bundesliga - viaplay
+DTSTART:20241123T142000
+DTEND:20241123T152000
+DTSTAMP:20241123T142000Z
+UID:2024-11-23T14:20:00/Dortmund - Freiburg
+DESCRIPTION:Dortmund - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stuttgart - Bochum - Bundesliga - viaplay
@@ -66,12 +42,12 @@ UID:2024-11-23T14:20:00/Stuttgart - Bochum
 DESCRIPTION:Stuttgart - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Freiburg - Bundesliga - viaplay
+SUMMARY:Wolfsburg - Union Berlin - Bundesliga - viaplay
 DTSTART:20241123T142000
 DTEND:20241123T152000
 DTSTAMP:20241123T142000Z
-UID:2024-11-23T14:20:00/Dortmund - Freiburg
-DESCRIPTION:Dortmund - Freiburg - Bundesliga
+UID:2024-11-23T14:20:00/Wolfsburg - Union Berlin
+DESCRIPTION:Wolfsburg - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Freiburg - Bundesliga - stod2vodasport
@@ -128,5 +104,21 @@ DTEND:20241128T185500
 DTSTAMP:20241128T175500Z
 UID:2024-11-28T17:55:00/Rhein-Neckar Löwen - VfL Gummersbach
 DESCRIPTION:Rhein-Neckar Löwen - VfL Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MT Melsungen - SG Flensburg-Handewitt - Bundesliga - viaplay
+DTSTART:20241129T185500
+DTEND:20241129T195500
+DTSTAMP:20241129T185500Z
+UID:2024-11-29T18:55:00/MT Melsungen - SG Flensburg-Handewitt
+DESCRIPTION:MT Melsungen - SG Flensburg-Handewitt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - Holstein Kiel - Bundesliga - viaplay
+DTSTART:20241129T192000
+DTEND:20241129T202000
+DTSTAMP:20241129T192000Z
+UID:2024-11-29T19:20:00/St. Pauli - Holstein Kiel
+DESCRIPTION:St. Pauli - Holstein Kiel - Bundesliga
 END:VEVENT
 END:VCALENDAR
