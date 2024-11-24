@@ -2,86 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:F1 Las Vegas: Tímataka - Formúla 1 - stod2vodasport
-DTSTART:20241123T054500
-DTEND:20241123T064500
-DTSTAMP:20241123T054500Z
-UID:2024-11-23T05:45:00/F1 Las Vegas: Tímataka
-DESCRIPTION:F1 Las Vegas: Tímataka - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coventry - Sheffield Utd. - EFL Championship - stod2vodasport
-DTSTART:20241123T122500
-DTEND:20241123T132500
-DTSTAMP:20241123T122500Z
-UID:2024-11-23T12:25:00/Coventry - Sheffield Utd.
-DESCRIPTION:Coventry - Sheffield Utd. - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ármann - KR - 1. deild kvenna í körfubolta - stod2sport
-DTSTART:20241123T135000
-DTEND:20241123T145000
-DTSTAMP:20241123T135000Z
-UID:2024-11-23T13:50:00/Ármann - KR
-DESCRIPTION:Ármann - KR - 1. deild kvenna í körfubolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Freiburg - Bundesliga - stod2vodasport
-DTSTART:20241123T143000
-DTEND:20241123T153000
-DTSTAMP:20241123T143000Z
-UID:2024-11-23T14:30:00/Dortmund - Freiburg
-DESCRIPTION:Dortmund - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ármann - Selfoss - 1. deild karla í körfubolta - stod2sport
-DTSTART:20241123T165000
-DTEND:20241123T175000
-DTSTAMP:20241123T165000Z
-UID:2024-11-23T16:50:00/Ármann - Selfoss
-DESCRIPTION:Ármann - Selfoss - 1. deild karla í körfubolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hannover - Magdeburg - Bundesliga handbolti - stod2vodasport
-DTSTART:20241123T175500
-DTEND:20241123T185500
-DTSTAMP:20241123T175500Z
-UID:2024-11-23T17:55:00/Hannover - Magdeburg
-DESCRIPTION:Hannover - Magdeburg - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CME Group Tour Championship - LPGA Tour - stod2sport4
-DTSTART:20241123T190000
-DTEND:20241123T200000
-DTSTAMP:20241123T190000Z
-UID:2024-11-23T19:00:00/CME Group Tour Championship
-DESCRIPTION:CME Group Tour Championship - LPGA Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Úrvalsdeildin í pílukasti - Íslenskt pílukast - stod2sport
-DTSTART:20241123T193000
-DTEND:20241123T203000
-DTSTAMP:20241123T193000Z
-UID:2024-11-23T19:30:00/Úrvalsdeildin í pílukasti
-DESCRIPTION:Úrvalsdeildin í pílukasti - Íslenskt pílukast
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz - Knicks - NBA - stod2sport2
-DTSTART:20241123T220000
-DTEND:20241123T230000
-DTSTAMP:20241123T220000Z
-UID:2024-11-23T22:00:00/Jazz - Knicks
-DESCRIPTION:Jazz - Knicks - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Panthers - Avalanche - NHL - stod2vodasport
-DTSTART:20241123T230500
-DTEND:20241124T000500
-DTSTAMP:20241123T230500Z
-UID:2024-11-23T23:05:00/Panthers - Avalanche
-DESCRIPTION:Panthers - Avalanche - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Formúla 1 - Formúla 1 - stod2vodasport
 DTSTART:20241124T053000
 DTEND:20241124T063000
@@ -202,15 +122,6 @@ UID:2024-11-26T14:55:00/Bayern München - PSG
 DESCRIPTION:Bayern München - PSG - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slovan Bratislava - AC Milan - Meistaradeild Evrópu - stod2vodasp
- ort
-DTSTART:20241126T173500
-DTEND:20241126T183500
-DTSTAMP:20241126T173500Z
-UID:2024-11-26T17:35:00/Slovan Bratislava - AC Milan
-DESCRIPTION:Slovan Bratislava - AC Milan - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sparta Prag - Atletico Madrid - Meistaradeild Evrópu - stod2sport
  3
 DTSTART:20241126T173500
@@ -218,6 +129,15 @@ DTEND:20241126T183500
 DTSTAMP:20241126T173500Z
 UID:2024-11-26T17:35:00/Sparta Prag - Atletico Madrid
 DESCRIPTION:Sparta Prag - Atletico Madrid - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava - AC Milan - Meistaradeild Evrópu - stod2vodasp
+ ort
+DTSTART:20241126T173500
+DTEND:20241126T183500
+DTSTAMP:20241126T173500Z
+UID:2024-11-26T17:35:00/Slovan Bratislava - AC Milan
+DESCRIPTION:Slovan Bratislava - AC Milan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Þór Ak. - Bónus deild kvenna - stod2besta01
@@ -252,29 +172,12 @@ UID:2024-11-26T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Young Boys - Atalanta - Meistaradeild Evrópu - stod2sport6
+SUMMARY:Manchester City - Feyenoord - Meistaradeild Evrópu - stod2sport3
 DTSTART:20241126T195000
 DTEND:20241126T205000
 DTSTAMP:20241126T195000Z
-UID:2024-11-26T19:50:00/Young Boys - Atalanta
-DESCRIPTION:Young Boys - Atalanta - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inter - Leipzig - Meistaradeild Evrópu - stod2sport5
-DTSTART:20241126T195000
-DTEND:20241126T205000
-DTSTAMP:20241126T195000Z
-UID:2024-11-26T19:50:00/Inter - Leipzig
-DESCRIPTION:Inter - Leipzig - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sporting Lissabon - Arsenal - Meistaradeild Evrópu - stod2vodaspo
- rt
-DTSTART:20241126T195000
-DTEND:20241126T205000
-DTSTAMP:20241126T195000Z
-UID:2024-11-26T19:50:00/Sporting Lissabon - Arsenal
-DESCRIPTION:Sporting Lissabon - Arsenal - Meistaradeild Evrópu
+UID:2024-11-26T19:50:00/Manchester City - Feyenoord
+DESCRIPTION:Manchester City - Feyenoord - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - PSG - Meistaradeild Evrópu - stod2sport4
@@ -285,12 +188,29 @@ UID:2024-11-26T19:50:00/Bayern München - PSG
 DESCRIPTION:Bayern München - PSG - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manchester City - Feyenoord - Meistaradeild Evrópu - stod2sport3
+SUMMARY:Inter - Leipzig - Meistaradeild Evrópu - stod2sport5
 DTSTART:20241126T195000
 DTEND:20241126T205000
 DTSTAMP:20241126T195000Z
-UID:2024-11-26T19:50:00/Manchester City - Feyenoord
-DESCRIPTION:Manchester City - Feyenoord - Meistaradeild Evrópu
+UID:2024-11-26T19:50:00/Inter - Leipzig
+DESCRIPTION:Inter - Leipzig - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Boys - Atalanta - Meistaradeild Evrópu - stod2sport6
+DTSTART:20241126T195000
+DTEND:20241126T205000
+DTSTAMP:20241126T195000Z
+UID:2024-11-26T19:50:00/Young Boys - Atalanta
+DESCRIPTION:Young Boys - Atalanta - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Lissabon - Arsenal - Meistaradeild Evrópu - stod2vodaspo
+ rt
+DTSTART:20241126T195000
+DTEND:20241126T205000
+DTSTAMP:20241126T195000Z
+UID:2024-11-26T19:50:00/Sporting Lissabon - Arsenal
+DESCRIPTION:Sporting Lissabon - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
@@ -373,14 +293,6 @@ UID:2024-11-27T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PSV - Shakhtar - Meistaradeild Evrópu - stod2sport5
-DTSTART:20241127T195000
-DTEND:20241127T205000
-DTSTAMP:20241127T195000Z
-UID:2024-11-27T19:50:00/PSV - Shakhtar
-DESCRIPTION:PSV - Shakhtar - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bologna - Lille - Meistaradeild Evrópu - stod2sport4
 DTSTART:20241127T195000
 DTEND:20241127T205000
@@ -403,6 +315,14 @@ DTEND:20241127T205000
 DTSTAMP:20241127T195000Z
 UID:2024-11-27T19:50:00/Aston Villa - Juventus
 DESCRIPTION:Aston Villa - Juventus - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV - Shakhtar - Meistaradeild Evrópu - stod2sport5
+DTSTART:20241127T195000
+DTEND:20241127T205000
+DTSTAMP:20241127T195000Z
+UID:2024-11-27T19:50:00/PSV - Shakhtar
+DESCRIPTION:PSV - Shakhtar - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
@@ -437,14 +357,6 @@ UID:2024-11-28T17:30:00/Lions - Bears
 DESCRIPTION:Lions - Bears - NFL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Athletic Club - Elfsborg - Evrópudeildin - stod2sport3
-DTSTART:20241128T173500
-DTEND:20241128T183500
-DTSTAMP:20241128T173500Z
-UID:2024-11-28T17:35:00/Athletic Club - Elfsborg
-DESCRIPTION:Athletic Club - Elfsborg - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heidenheim - Chelsea - Sambandsdeildin - stod2sport5
 DTSTART:20241128T173500
 DTEND:20241128T183500
@@ -453,12 +365,12 @@ UID:2024-11-28T17:35:00/Heidenheim - Chelsea
 DESCRIPTION:Heidenheim - Chelsea - Sambandsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Bodö/Glimt - Evrópudeildin - stod2sport3
-DTSTART:20241128T195000
-DTEND:20241128T205000
-DTSTAMP:20241128T195000Z
-UID:2024-11-28T19:50:00/Man. Utd. - Bodö/Glimt
-DESCRIPTION:Man. Utd. - Bodö/Glimt - Evrópudeildin
+SUMMARY:Athletic Club - Elfsborg - Evrópudeildin - stod2sport3
+DTSTART:20241128T173500
+DTEND:20241128T183500
+DTSTAMP:20241128T173500Z
+UID:2024-11-28T17:35:00/Athletic Club - Elfsborg
+DESCRIPTION:Athletic Club - Elfsborg - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fiorentina - Pafos - Sambandsdeildin - stod2sport5
@@ -467,6 +379,14 @@ DTEND:20241128T205000
 DTSTAMP:20241128T195000Z
 UID:2024-11-28T19:50:00/Fiorentina - Pafos
 DESCRIPTION:Fiorentina - Pafos - Sambandsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Bodö/Glimt - Evrópudeildin - stod2sport3
+DTSTART:20241128T195000
+DTEND:20241128T205000
+DTSTAMP:20241128T195000Z
+UID:2024-11-28T19:50:00/Man. Utd. - Bodö/Glimt
+DESCRIPTION:Man. Utd. - Bodö/Glimt - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cowboys - Giants - NFL - stod2sport2
@@ -539,5 +459,45 @@ DTEND:20241129T221000
 DTSTAMP:20241129T211000Z
 UID:2024-11-29T21:10:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1 Qatar : Sprint keppni - Formúla 1 - stod2vodasport
+DTSTART:20241130T135500
+DTEND:20241130T145500
+DTSTAMP:20241130T135500Z
+UID:2024-11-30T13:55:00/F1 Qatar : Sprint keppni
+DESCRIPTION:F1 Qatar : Sprint keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Þór Þ. - Bónus deild karla - stod2sport
+DTSTART:20241130T144500
+DTEND:20241130T154500
+DTSTAMP:20241130T144500Z
+UID:2024-11-30T14:45:00/Stjarnan - Þór Þ.
+DESCRIPTION:Stjarnan - Þór Þ. - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1 Qatar: Tímataka - Formúla 1 - stod2vodasport
+DTSTART:20241130T174500
+DTEND:20241130T184500
+DTSTAMP:20241130T174500Z
+UID:2024-11-30T17:45:00/F1 Qatar: Tímataka
+DESCRIPTION:F1 Qatar: Tímataka - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wimbledon - Dagenham & Redbridge - FA Cup - stod2vodasport
+DTSTART:20241130T191500
+DTEND:20241130T201500
+DTSTAMP:20241130T191500Z
+UID:2024-11-30T19:15:00/Wimbledon - Dagenham & Redbridge
+DESCRIPTION:Wimbledon - Dagenham & Redbridge - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawks - Hornets - NBA - stod2sport2
+DTSTART:20241130T230000
+DTEND:20241201T000000
+DTSTAMP:20241130T230000Z
+UID:2024-11-30T23:00:00/Hawks - Hornets
+DESCRIPTION:Hawks - Hornets - NBA
 END:VEVENT
 END:VCALENDAR
