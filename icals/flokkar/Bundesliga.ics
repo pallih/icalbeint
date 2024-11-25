@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:HSV Hamburg - HC Erlangen - Bundesliga - viaplay
-DTSTART:20241124T135500
-DTEND:20241124T145500
-DTSTAMP:20241124T135500Z
-UID:2024-11-24T13:55:00/HSV Hamburg - HC Erlangen
-DESCRIPTION:HSV Hamburg - HC Erlangen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Mainz - Bundesliga - viaplay
-DTSTART:20241124T142000
-DTEND:20241124T152000
-DTSTAMP:20241124T142000Z
-UID:2024-11-24T14:20:00/Holstein Kiel - Mainz
-DESCRIPTION:Holstein Kiel - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - St. Pauli - Bundesliga - viaplay
-DTSTART:20241124T162000
-DTEND:20241124T172000
-DTSTAMP:20241124T162000Z
-UID:2024-11-24T16:20:00/Mönchengladbach - St. Pauli
-DESCRIPTION:Mönchengladbach - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rhein-Neckar Löwen - VfL Gummersbach - Bundesliga - viaplay
 DTSTART:20241128T175500
 DTEND:20241128T185500
@@ -48,22 +24,6 @@ DTEND:20241129T202000
 DTSTAMP:20241129T192000Z
 UID:2024-11-29T19:20:00/St. Pauli - Holstein Kiel
 DESCRIPTION:St. Pauli - Holstein Kiel - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werder Bremen - Stuttgart - Bundesliga - viaplay
-DTSTART:20241130T142000
-DTEND:20241130T152000
-DTSTAMP:20241130T142000Z
-UID:2024-11-30T14:20:00/Werder Bremen - Stuttgart
-DESCRIPTION:Werder Bremen - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20241130T142000
-DTEND:20241130T152000
-DTSTAMP:20241130T142000Z
-UID:2024-11-30T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Wolfsburg - Bundesliga - viaplay
@@ -98,12 +58,20 @@ UID:2024-11-30T14:20:00/Freiburg - Mönchengladbach
 DESCRIPTION:Freiburg - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Bayern München - Bundesliga - viaplay
-DTSTART:20241130T172000
-DTEND:20241130T182000
-DTSTAMP:20241130T172000Z
-UID:2024-11-30T17:20:00/Dortmund - Bayern München
-DESCRIPTION:Dortmund - Bayern München - Bundesliga
+SUMMARY:Werder Bremen - Stuttgart - Bundesliga - viaplay
+DTSTART:20241130T142000
+DTEND:20241130T152000
+DTSTAMP:20241130T142000Z
+UID:2024-11-30T14:20:00/Werder Bremen - Stuttgart
+DESCRIPTION:Werder Bremen - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20241130T142000
+DTEND:20241130T152000
+DTSTAMP:20241130T142000Z
+UID:2024-11-30T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Bayern München (Tactical feed) - Bundesliga - viaplay
@@ -112,5 +80,29 @@ DTEND:20241130T182000
 DTSTAMP:20241130T172000Z
 UID:2024-11-30T17:20:00/Dortmund - Bayern München (Tactical feed)
 DESCRIPTION:Dortmund - Bayern München (Tactical feed) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Bayern München - Bundesliga - viaplay
+DTSTART:20241130T172000
+DTEND:20241130T182000
+DTSTAMP:20241130T172000Z
+UID:2024-11-30T17:20:00/Dortmund - Bayern München
+DESCRIPTION:Dortmund - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mainz - Hoffenheim - Bundesliga - viaplay
+DTSTART:20241201T142000
+DTEND:20241201T152000
+DTSTAMP:20241201T142000Z
+UID:2024-12-01T14:20:00/Mainz - Hoffenheim
+DESCRIPTION:Mainz - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Frankfurt - Bundesliga - viaplay
+DTSTART:20241201T162000
+DTEND:20241201T172000
+DTSTAMP:20241201T162000Z
+UID:2024-12-01T16:20:00/Heidenheim - Frankfurt
+DESCRIPTION:Heidenheim - Frankfurt - Bundesliga
 END:VEVENT
 END:VCALENDAR

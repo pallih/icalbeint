@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Serie A - Ítalski boltinn - ical
 BEGIN:VEVENT
-SUMMARY:Genoa - Cagliari - Serie A - Ítalski boltinn - livey
-DTSTART:20241124T113000
-DTEND:20241124T123000
-DTSTAMP:20241124T113000Z
-UID:2024-11-24T11:30:00/Genoa - Cagliari
-DESCRIPTION:Genoa - Cagliari - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torino - Monza - Serie A - Ítalski boltinn - livey
-DTSTART:20241124T140000
-DTEND:20241124T150000
-DTSTAMP:20241124T140000Z
-UID:2024-11-24T14:00:00/Torino - Monza
-DESCRIPTION:Torino - Monza - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Como - Fiorentina - Serie A - Ítalski boltinn - livey
-DTSTART:20241124T140000
-DTEND:20241124T150000
-DTSTAMP:20241124T140000Z
-UID:2024-11-24T14:00:00/Como - Fiorentina
-DESCRIPTION:Como - Fiorentina - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Napoli - Roma - Serie A - Ítalski boltinn - livey
-DTSTART:20241124T170000
-DTEND:20241124T180000
-DTSTAMP:20241124T170000Z
-UID:2024-11-24T17:00:00/Napoli - Roma
-DESCRIPTION:Napoli - Roma - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lazio - Bologna - Serie A - Ítalski boltinn - livey
-DTSTART:20241124T194500
-DTEND:20241124T204500
-DTSTAMP:20241124T194500Z
-UID:2024-11-24T19:45:00/Lazio - Bologna
-DESCRIPTION:Lazio - Bologna - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Empoli - Udinese - Serie A - Ítalski boltinn - livey
 DTSTART:20241125T173000
 DTEND:20241125T183000
@@ -56,5 +16,85 @@ DTEND:20241125T204500
 DTSTAMP:20241125T194500Z
 UID:2024-11-25T19:45:00/Venezia - Lecce
 DESCRIPTION:Venezia - Lecce - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cagliari - Hellas Verona - Serie A - Ítalski boltinn - livey
+DTSTART:20241129T194500
+DTEND:20241129T204500
+DTSTAMP:20241129T194500Z
+UID:2024-11-29T19:45:00/Cagliari - Hellas Verona
+DESCRIPTION:Cagliari - Hellas Verona - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como - Monza - Serie A - Ítalski boltinn - livey
+DTSTART:20241130T140000
+DTEND:20241130T150000
+DTSTAMP:20241130T140000Z
+UID:2024-11-30T14:00:00/Como - Monza
+DESCRIPTION:Como - Monza - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AC Milan - Empoli - Serie A - Ítalski boltinn - livey
+DTSTART:20241130T170000
+DTEND:20241130T180000
+DTSTAMP:20241130T170000Z
+UID:2024-11-30T17:00:00/AC Milan - Empoli
+DESCRIPTION:AC Milan - Empoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
+DTSTART:20241130T194000
+DTEND:20241130T204000
+DTSTAMP:20241130T194000Z
+UID:2024-11-30T19:40:00/Ítalski boltinn
+DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bologna - Venezia - Serie A - Ítalski boltinn - livey
+DTSTART:20241130T194500
+DTEND:20241130T204500
+DTSTAMP:20241130T194500Z
+UID:2024-11-30T19:45:00/Bologna - Venezia
+DESCRIPTION:Bologna - Venezia - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Udinese - Genoa - Serie A - Ítalski boltinn - livey
+DTSTART:20241201T113000
+DTEND:20241201T123000
+DTSTAMP:20241201T113000Z
+UID:2024-12-01T11:30:00/Udinese - Genoa
+DESCRIPTION:Udinese - Genoa - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Torino - Napoli - Serie A - Ítalski boltinn - livey
+DTSTART:20241201T140000
+DTEND:20241201T150000
+DTSTAMP:20241201T140000Z
+UID:2024-12-01T14:00:00/Torino - Napoli
+DESCRIPTION:Torino - Napoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parma - Lazio - Serie A - Ítalski boltinn - livey
+DTSTART:20241201T140000
+DTEND:20241201T150000
+DTSTAMP:20241201T140000Z
+UID:2024-12-01T14:00:00/Parma - Lazio
+DESCRIPTION:Parma - Lazio - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiorentina - Inter Milan - Serie A - Ítalski boltinn - livey
+DTSTART:20241201T170000
+DTEND:20241201T180000
+DTSTAMP:20241201T170000Z
+UID:2024-12-01T17:00:00/Fiorentina - Inter Milan
+DESCRIPTION:Fiorentina - Inter Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecce - Juventus - Serie A - Ítalski boltinn - livey
+DTSTART:20241201T194500
+DTEND:20241201T204500
+DTSTAMP:20241201T194500Z
+UID:2024-12-01T19:45:00/Lecce - Juventus
+DESCRIPTION:Lecce - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR
