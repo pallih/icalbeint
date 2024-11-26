@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Serie A - Ítalski boltinn - ical
 BEGIN:VEVENT
-SUMMARY:Empoli - Udinese - Serie A - Ítalski boltinn - livey
-DTSTART:20241125T173000
-DTEND:20241125T183000
-DTSTAMP:20241125T173000Z
-UID:2024-11-25T17:30:00/Empoli - Udinese
-DESCRIPTION:Empoli - Udinese - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Venezia - Lecce - Serie A - Ítalski boltinn - livey
-DTSTART:20241125T194500
-DTEND:20241125T204500
-DTSTAMP:20241125T194500Z
-UID:2024-11-25T19:45:00/Venezia - Lecce
-DESCRIPTION:Venezia - Lecce - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cagliari - Hellas Verona - Serie A - Ítalski boltinn - livey
 DTSTART:20241129T194500
 DTEND:20241129T204500
@@ -66,20 +50,20 @@ UID:2024-12-01T11:30:00/Udinese - Genoa
 DESCRIPTION:Udinese - Genoa - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Torino - Napoli - Serie A - Ítalski boltinn - livey
-DTSTART:20241201T140000
-DTEND:20241201T150000
-DTSTAMP:20241201T140000Z
-UID:2024-12-01T14:00:00/Torino - Napoli
-DESCRIPTION:Torino - Napoli - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Parma - Lazio - Serie A - Ítalski boltinn - livey
 DTSTART:20241201T140000
 DTEND:20241201T150000
 DTSTAMP:20241201T140000Z
 UID:2024-12-01T14:00:00/Parma - Lazio
 DESCRIPTION:Parma - Lazio - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Torino - Napoli - Serie A - Ítalski boltinn - livey
+DTSTART:20241201T140000
+DTEND:20241201T150000
+DTSTAMP:20241201T140000Z
+UID:2024-12-01T14:00:00/Torino - Napoli
+DESCRIPTION:Torino - Napoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fiorentina - Inter Milan - Serie A - Ítalski boltinn - livey
@@ -96,5 +80,13 @@ DTEND:20241201T204500
 DTSTAMP:20241201T194500Z
 UID:2024-12-01T19:45:00/Lecce - Juventus
 DESCRIPTION:Lecce - Juventus - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roma - Atalanta - Serie A - Ítalski boltinn - livey
+DTSTART:20241202T194500
+DTEND:20241202T204500
+DTSTAMP:20241202T194500Z
+UID:2024-12-02T19:45:00/Roma - Atalanta
+DESCRIPTION:Roma - Atalanta - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR

@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Newcastle - West Ham - Enska úrvalsdeildin - siminnsport
-DTSTART:20241125T193000
-DTEND:20241125T203000
-DTSTAMP:20241125T193000Z
-UID:2024-11-25T19:30:00/Newcastle - West Ham
-DESCRIPTION:Newcastle - West Ham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20241125T210000
-DTEND:20241125T220000
-DTSTAMP:20241125T210000Z
-UID:2024-11-25T21:00:00/Völlurinn
-DESCRIPTION:Völlurinn - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Afturelding - Haukar - Olís deild karla - hsi1
 DTSTART:20241126T190000
 DTEND:20241126T200000
@@ -58,14 +42,6 @@ UID:2024-11-29T17:55:00/Ísland - Kanada
 DESCRIPTION:Ísland - Kanada - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HK - Stjarnan - Olís deild karla - hsi1
-DTSTART:20241129T193000
-DTEND:20241129T203000
-DTSTAMP:20241129T193000Z
-UID:2024-11-29T19:30:00/HK - Stjarnan
-DESCRIPTION:HK - Stjarnan - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brighton - Southampton - Enska úrvalsdeildin - siminnsport
 DTSTART:20241129T193000
 DTEND:20241129T203000
@@ -82,12 +58,12 @@ UID:2024-11-29T19:30:00/Fram - FH
 DESCRIPTION:Fram - FH - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Newcastle - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20241130T143000
-DTEND:20241130T153000
-DTSTAMP:20241130T143000Z
-UID:2024-11-30T14:30:00/Crystal Palace - Newcastle
-DESCRIPTION:Crystal Palace - Newcastle - Enska úrvalsdeildin
+SUMMARY:HK - Stjarnan - Olís deild karla - hsi1
+DTSTART:20241129T193000
+DTEND:20241129T203000
+DTSTAMP:20241129T193000Z
+UID:2024-11-29T19:30:00/HK - Stjarnan
+DESCRIPTION:HK - Stjarnan - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Newcastle - Enska úrvalsdeildin - siminnsport
@@ -98,12 +74,20 @@ UID:2024-11-30T14:30:00/Crystal Palace - Newcastle
 DESCRIPTION:Crystal Palace - Newcastle - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolves - Bournemouth - Enska úrvalsdeildin - siminnsport3
+SUMMARY:Crystal Palace - Newcastle - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20241130T143000
+DTEND:20241130T153000
+DTSTAMP:20241130T143000Z
+UID:2024-11-30T14:30:00/Crystal Palace - Newcastle
+DESCRIPTION:Crystal Palace - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford - Leicester - Enska úrvalsdeildin - siminnsport4
 DTSTART:20241130T145000
 DTEND:20241130T155000
 DTSTAMP:20241130T145000Z
-UID:2024-11-30T14:50:00/Wolves - Bournemouth
-DESCRIPTION:Wolves - Bournemouth - Enska úrvalsdeildin
+UID:2024-11-30T14:50:00/Brentford - Leicester
+DESCRIPTION:Brentford - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Ipswich - Enska úrvalsdeildin - siminnsport2
@@ -114,12 +98,12 @@ UID:2024-11-30T14:50:00/Nottingham Forest - Ipswich
 DESCRIPTION:Nottingham Forest - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Leicester - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Wolves - Bournemouth - Enska úrvalsdeildin - siminnsport3
 DTSTART:20241130T145000
 DTEND:20241130T155000
 DTSTAMP:20241130T145000Z
-UID:2024-11-30T14:50:00/Brentford - Leicester
-DESCRIPTION:Brentford - Leicester - Enska úrvalsdeildin
+UID:2024-11-30T14:50:00/Wolves - Bournemouth
+DESCRIPTION:Wolves - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍBV - Valur - Olís deild karla - hsi1
@@ -176,5 +160,21 @@ DTEND:20241201T163000
 DTSTAMP:20241201T153000Z
 UID:2024-12-01T15:30:00/Liverpool - Man. City
 DESCRIPTION:Liverpool - Man. City - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20241201T180000
+DTEND:20241201T190000
+DTSTAMP:20241201T180000Z
+UID:2024-12-01T18:00:00/Völlurinn
+DESCRIPTION:Völlurinn - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spænski boltinn - LaLiga - Spænski boltinn - sjonvarpsimans
+DTSTART:20241201T195500
+DTEND:20241201T205500
+DTSTAMP:20241201T195500Z
+UID:2024-12-01T19:55:00/Spænski boltinn
+DESCRIPTION:Spænski boltinn - LaLiga - Spænski boltinn
 END:VEVENT
 END:VCALENDAR
