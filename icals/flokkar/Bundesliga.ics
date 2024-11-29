@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:DHfK Leipzig - ThSV Eisenach - Bundesliga - viaplay
-DTSTART:20241128T175500
-DTEND:20241128T185500
-DTSTAMP:20241128T175500Z
-UID:2024-11-28T17:55:00/DHfK Leipzig - ThSV Eisenach
-DESCRIPTION:DHfK Leipzig - ThSV Eisenach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Melsungen - Flensburg-Handewitt - Bundesliga - viaplay
 DTSTART:20241129T185500
 DTEND:20241129T195500
@@ -26,20 +18,20 @@ UID:2024-11-29T19:20:00/St. Pauli - Holstein Kiel
 DESCRIPTION:St. Pauli - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Augsburg - Bochum - Bundesliga - viaplay
+DTSTART:20241130T142000
+DTEND:20241130T152000
+DTSTAMP:20241130T142000Z
+UID:2024-11-30T14:20:00/Augsburg - Bochum
+DESCRIPTION:Augsburg - Bochum - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Freiburg - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20241130T142000
 DTEND:20241130T152000
 DTSTAMP:20241130T142000Z
 UID:2024-11-30T14:20:00/Freiburg - Mönchengladbach
 DESCRIPTION:Freiburg - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Wolfsburg - Bundesliga - viaplay
-DTSTART:20241130T142000
-DTEND:20241130T152000
-DTSTAMP:20241130T142000Z
-UID:2024-11-30T14:20:00/Leipzig - Wolfsburg
-DESCRIPTION:Leipzig - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werder Bremen - Stuttgart - Bundesliga - viaplay
@@ -50,12 +42,12 @@ UID:2024-11-30T14:20:00/Werder Bremen - Stuttgart
 DESCRIPTION:Werder Bremen - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Bochum - Bundesliga - viaplay
+SUMMARY:Leipzig - Wolfsburg - Bundesliga - viaplay
 DTSTART:20241130T142000
 DTEND:20241130T152000
 DTSTAMP:20241130T142000Z
-UID:2024-11-30T14:20:00/Augsburg - Bochum
-DESCRIPTION:Augsburg - Bochum - Bundesliga
+UID:2024-11-30T14:20:00/Leipzig - Wolfsburg
+DESCRIPTION:Leipzig - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Leverkusen - Bundesliga - viaplay
@@ -112,5 +104,13 @@ DTEND:20241201T172000
 DTSTAMP:20241201T162000Z
 UID:2024-12-01T16:20:00/Heidenheim - Frankfurt
 DESCRIPTION:Heidenheim - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TVB 1898 Stuttgart - FRISCH AUF! Göppingen - Bundesliga - viaplay
+DTSTART:20241205T175500
+DTEND:20241205T185500
+DTSTAMP:20241205T175500Z
+UID:2024-12-05T17:55:00/TVB 1898 Stuttgart - FRISCH AUF! Göppingen
+DESCRIPTION:TVB 1898 Stuttgart - FRISCH AUF! Göppingen - Bundesliga
 END:VEVENT
 END:VCALENDAR

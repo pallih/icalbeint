@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Ungverjaland - Tyrkland - EM kvenna í handbolta - ruv2
-DTSTART:20241128T170000
-DTEND:20241128T180000
-DTSTAMP:20241128T170000Z
-UID:2024-11-28T17:00:00/Ungverjaland - Tyrkland
-DESCRIPTION:Ungverjaland - Tyrkland - EM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noregur - Slóvenía - EM kvenna í handbolta - ruv2
-DTSTART:20241128T193000
-DTEND:20241128T203000
-DTSTAMP:20241128T193000Z
-UID:2024-11-28T19:30:00/Noregur - Slóvenía
-DESCRIPTION:Noregur - Slóvenía - EM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holland - Ísland - EM kvenna í handbolta - ruv
 DTSTART:20241129T170000
 DTEND:20241129T180000
@@ -42,20 +26,20 @@ UID:2024-11-30T14:30:00/Pólland - Portúgal
 DESCRIPTION:Pólland - Portúgal - EM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frakkland - Spánn - EM kvenna í handbolta - ruvis
-DTSTART:20241130T170000
-DTEND:20241130T180000
-DTSTAMP:20241130T170000Z
-UID:2024-11-30T17:00:00/Frakkland - Spánn
-DESCRIPTION:Frakkland - Spánn - EM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Svíþjóð - Ungverjaland - EM kvenna í handbolta - ruv2
 DTSTART:20241130T170000
 DTEND:20241130T180000
 DTSTAMP:20241130T170000Z
 UID:2024-11-30T17:00:00/Svíþjóð - Ungverjaland
 DESCRIPTION:Svíþjóð - Ungverjaland - EM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Spánn - EM kvenna í handbolta - ruvis
+DTSTART:20241130T170000
+DTEND:20241130T180000
+DTSTAMP:20241130T170000Z
+UID:2024-11-30T17:00:00/Frakkland - Spánn
+DESCRIPTION:Frakkland - Spánn - EM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Króatía - Færeyjar - EM kvenna í handbolta - ruv
@@ -112,5 +96,29 @@ DTEND:20241203T203000
 DTSTAMP:20241203T193000Z
 UID:2024-12-03T19:30:00/Ísland - Þýskaland
 DESCRIPTION:Ísland - Þýskaland - EM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milliriðlar - EM kvenna í handbolta - ruv
+DTSTART:20241205T143000
+DTEND:20241205T153000
+DTSTAMP:20241205T143000Z
+UID:2024-12-05T14:30:00/Milliriðlar
+DESCRIPTION:Milliriðlar - EM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milliriðlar - EM kvenna í handbolta - ruv2
+DTSTART:20241205T170000
+DTEND:20241205T180000
+DTSTAMP:20241205T170000Z
+UID:2024-12-05T17:00:00/Milliriðlar
+DESCRIPTION:Milliriðlar - EM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milliriðlar - EM kvenna í handbolta - ruv2
+DTSTART:20241205T193000
+DTEND:20241205T203000
+DTSTAMP:20241205T193000Z
+UID:2024-12-05T19:30:00/Milliriðlar
+DESCRIPTION:Milliriðlar - EM kvenna í handbolta
 END:VEVENT
 END:VCALENDAR
