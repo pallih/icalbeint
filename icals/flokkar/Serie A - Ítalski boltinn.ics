@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Serie A - Ítalski boltinn - ical
 BEGIN:VEVENT
-SUMMARY:Cagliari - Hellas Verona - Serie A - Ítalski boltinn - livey
-DTSTART:20241129T194500
-DTEND:20241129T204500
-DTSTAMP:20241129T194500Z
-UID:2024-11-29T19:45:00/Cagliari - Hellas Verona
-DESCRIPTION:Cagliari - Hellas Verona - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Como - Monza - Serie A - Ítalski boltinn - livey
 DTSTART:20241130T140000
 DTEND:20241130T150000
@@ -50,20 +42,20 @@ UID:2024-12-01T11:30:00/Udinese - Genoa
 DESCRIPTION:Udinese - Genoa - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Torino - Napoli - Serie A - Ítalski boltinn - livey
-DTSTART:20241201T140000
-DTEND:20241201T150000
-DTSTAMP:20241201T140000Z
-UID:2024-12-01T14:00:00/Torino - Napoli
-DESCRIPTION:Torino - Napoli - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Parma - Lazio - Serie A - Ítalski boltinn - livey
 DTSTART:20241201T140000
 DTEND:20241201T150000
 DTSTAMP:20241201T140000Z
 UID:2024-12-01T14:00:00/Parma - Lazio
 DESCRIPTION:Parma - Lazio - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Torino - Napoli - Serie A - Ítalski boltinn - livey
+DTSTART:20241201T140000
+DTEND:20241201T150000
+DTSTAMP:20241201T140000Z
+UID:2024-12-01T14:00:00/Torino - Napoli
+DESCRIPTION:Torino - Napoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fiorentina - Inter Milan - Serie A - Ítalski boltinn - livey
@@ -88,5 +80,53 @@ DTEND:20241202T204500
 DTSTAMP:20241202T194500Z
 UID:2024-12-02T19:45:00/Roma - Atalanta
 DESCRIPTION:Roma - Atalanta - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bologna - Monza - Serie A - Ítalski boltinn - livey
+DTSTART:20241203T173000
+DTEND:20241203T183000
+DTSTAMP:20241203T173000Z
+UID:2024-12-03T17:30:00/Bologna - Monza
+DESCRIPTION:Bologna - Monza - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AC Milan - Sassuolo - Serie A - Ítalski boltinn - livey
+DTSTART:20241203T200000
+DTEND:20241203T210000
+DTSTAMP:20241203T200000Z
+UID:2024-12-03T20:00:00/AC Milan - Sassuolo
+DESCRIPTION:AC Milan - Sassuolo - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiorentina - Empoli - Serie A - Ítalski boltinn - livey
+DTSTART:20241204T200000
+DTEND:20241204T210000
+DTSTAMP:20241204T200000Z
+UID:2024-12-04T20:00:00/Fiorentina - Empoli
+DESCRIPTION:Fiorentina - Empoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lazio - Napoli - Serie A - Ítalski boltinn - livey
+DTSTART:20241205T200000
+DTEND:20241205T210000
+DTSTAMP:20241205T200000Z
+UID:2024-12-05T20:00:00/Lazio - Napoli
+DESCRIPTION:Lazio - Napoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Milan - Parma - Serie A - Ítalski boltinn - livey
+DTSTART:20241206T173000
+DTEND:20241206T183000
+DTSTAMP:20241206T173000Z
+UID:2024-12-06T17:30:00/Inter Milan - Parma
+DESCRIPTION:Inter Milan - Parma - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atalanta - AC Milan - Serie A - Ítalski boltinn - livey
+DTSTART:20241206T194500
+DTEND:20241206T204500
+DTSTAMP:20241206T194500Z
+UID:2024-12-06T19:45:00/Atalanta - AC Milan
+DESCRIPTION:Atalanta - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR

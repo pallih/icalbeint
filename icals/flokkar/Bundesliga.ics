@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Melsungen - Flensburg-Handewitt - Bundesliga - viaplay
-DTSTART:20241129T185500
-DTEND:20241129T195500
-DTSTAMP:20241129T185500Z
-UID:2024-11-29T18:55:00/Melsungen - Flensburg-Handewitt
-DESCRIPTION:Melsungen - Flensburg-Handewitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St. Pauli - Holstein Kiel - Bundesliga - viaplay
-DTSTART:20241129T192000
-DTEND:20241129T202000
-DTSTAMP:20241129T192000Z
-UID:2024-11-29T19:20:00/St. Pauli - Holstein Kiel
-DESCRIPTION:St. Pauli - Holstein Kiel - Bundesliga
+SUMMARY:Union Berlin - Leverkusen - Bundesliga - viaplay
+DTSTART:20241130T142000
+DTEND:20241130T152000
+DTSTAMP:20241130T142000Z
+UID:2024-11-30T14:20:00/Union Berlin - Leverkusen
+DESCRIPTION:Union Berlin - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Augsburg - Bochum - Bundesliga - viaplay
@@ -34,14 +26,6 @@ UID:2024-11-30T14:20:00/Freiburg - Mönchengladbach
 DESCRIPTION:Freiburg - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Stuttgart - Bundesliga - viaplay
-DTSTART:20241130T142000
-DTEND:20241130T152000
-DTSTAMP:20241130T142000Z
-UID:2024-11-30T14:20:00/Werder Bremen - Stuttgart
-DESCRIPTION:Werder Bremen - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leipzig - Wolfsburg - Bundesliga - viaplay
 DTSTART:20241130T142000
 DTEND:20241130T152000
@@ -50,12 +34,12 @@ UID:2024-11-30T14:20:00/Leipzig - Wolfsburg
 DESCRIPTION:Leipzig - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Leverkusen - Bundesliga - viaplay
+SUMMARY:Werder Bremen - Stuttgart - Bundesliga - viaplay
 DTSTART:20241130T142000
 DTEND:20241130T152000
 DTSTAMP:20241130T142000Z
-UID:2024-11-30T14:20:00/Union Berlin - Leverkusen
-DESCRIPTION:Union Berlin - Leverkusen - Bundesliga
+UID:2024-11-30T14:20:00/Werder Bremen - Stuttgart
+DESCRIPTION:Werder Bremen - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -112,5 +96,21 @@ DTEND:20241205T185500
 DTSTAMP:20241205T175500Z
 UID:2024-12-05T17:55:00/TVB 1898 Stuttgart - FRISCH AUF! Göppingen
 DESCRIPTION:TVB 1898 Stuttgart - FRISCH AUF! Göppingen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover-Burgdorf - Rhein-Neckar Löwen - Bundesliga - viaplay
+DTSTART:20241206T175500
+DTEND:20241206T185500
+DTSTAMP:20241206T175500Z
+UID:2024-12-06T17:55:00/Hannover-Burgdorf - Rhein-Neckar Löwen
+DESCRIPTION:Hannover-Burgdorf - Rhein-Neckar Löwen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Union Berlin - Bundesliga - viaplay
+DTSTART:20241206T192000
+DTEND:20241206T202000
+DTSTAMP:20241206T192000Z
+UID:2024-12-06T19:20:00/Stuttgart - Union Berlin
+DESCRIPTION:Stuttgart - Union Berlin - Bundesliga
 END:VEVENT
 END:VCALENDAR
