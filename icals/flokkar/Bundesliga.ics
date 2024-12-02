@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:1. VfL Potsdam - Füchse Berlin - Bundesliga - viaplay
-DTSTART:20241201T135500
-DTEND:20241201T145500
-DTSTAMP:20241201T135500Z
-UID:2024-12-01T13:55:00/1. VfL Potsdam - Füchse Berlin
-DESCRIPTION:1. VfL Potsdam - Füchse Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mainz - Hoffenheim - Bundesliga - viaplay
-DTSTART:20241201T142000
-DTEND:20241201T152000
-DTSTAMP:20241201T142000Z
-UID:2024-12-01T14:20:00/Mainz - Hoffenheim
-DESCRIPTION:Mainz - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Frankfurt - Bundesliga - viaplay
-DTSTART:20241201T162000
-DTEND:20241201T172000
-DTSTAMP:20241201T162000Z
-UID:2024-12-01T16:20:00/Heidenheim - Frankfurt
-DESCRIPTION:Heidenheim - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TVB 1898 Stuttgart - FRISCH AUF! Göppingen - Bundesliga - viaplay
 DTSTART:20241205T175500
 DTEND:20241205T185500
@@ -50,36 +26,28 @@ UID:2024-12-06T19:20:00/Stuttgart - Union Berlin
 DESCRIPTION:Stuttgart - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Werder Bremen - Bundesliga - viaplay
-DTSTART:20241207T142000
-DTEND:20241207T152000
-DTSTAMP:20241207T142000Z
-UID:2024-12-07T14:20:00/Bochum - Werder Bremen
-DESCRIPTION:Bochum - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20241207T142000
-DTEND:20241207T152000
-DTSTAMP:20241207T142000Z
-UID:2024-12-07T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayer Leverkusen - St. Pauli - Bundesliga - viaplay
-DTSTART:20241207T142000
-DTEND:20241207T152000
-DTSTAMP:20241207T142000Z
-UID:2024-12-07T14:20:00/Bayer Leverkusen - St. Pauli
-DESCRIPTION:Bayer Leverkusen - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Heidenheim - Bundesliga - viaplay
 DTSTART:20241207T142000
 DTEND:20241207T152000
 DTSTAMP:20241207T142000Z
 UID:2024-12-07T14:20:00/Bayern München - Heidenheim
 DESCRIPTION:Bayern München - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Leipzig - Bundesliga - viaplay
+DTSTART:20241207T142000
+DTEND:20241207T152000
+DTSTAMP:20241207T142000Z
+UID:2024-12-07T14:20:00/Holstein Kiel - Leipzig
+DESCRIPTION:Holstein Kiel - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum - Werder Bremen - Bundesliga - viaplay
+DTSTART:20241207T142000
+DTEND:20241207T152000
+DTSTAMP:20241207T142000Z
+UID:2024-12-07T14:20:00/Bochum - Werder Bremen
+DESCRIPTION:Bochum - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Augsburg - Bundesliga - viaplay
@@ -90,12 +58,20 @@ UID:2024-12-07T14:20:00/Frankfurt - Augsburg
 DESCRIPTION:Frankfurt - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Leipzig - Bundesliga - viaplay
+SUMMARY:Bayer Leverkusen - St. Pauli - Bundesliga - viaplay
 DTSTART:20241207T142000
 DTEND:20241207T152000
 DTSTAMP:20241207T142000Z
-UID:2024-12-07T14:20:00/Holstein Kiel - Leipzig
-DESCRIPTION:Holstein Kiel - Leipzig - Bundesliga
+UID:2024-12-07T14:20:00/Bayer Leverkusen - St. Pauli
+DESCRIPTION:Bayer Leverkusen - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20241207T142000
+DTEND:20241207T152000
+DTSTAMP:20241207T142000Z
+UID:2024-12-07T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Dortmund - Bundesliga - viaplay
@@ -112,5 +88,29 @@ DTEND:20241207T182500
 DTSTAMP:20241207T172500Z
 UID:2024-12-07T17:25:00/M´gladbach - Dortmund
 DESCRIPTION:M´gladbach - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Mainz - Bundesliga - viaplay
+DTSTART:20241208T142000
+DTEND:20241208T152000
+DTSTAMP:20241208T142000Z
+UID:2024-12-08T14:20:00/Wolfsburg - Mainz
+DESCRIPTION:Wolfsburg - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Freiburg - Bundesliga - viaplay
+DTSTART:20241208T162000
+DTEND:20241208T172000
+DTSTAMP:20241208T162000Z
+UID:2024-12-08T16:20:00/Hoffenheim - Freiburg
+DESCRIPTION:Hoffenheim - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - SC Magdeburg - Bundesliga - viaplay
+DTSTART:20241208T165500
+DTEND:20241208T175500
+DTSTAMP:20241208T165500Z
+UID:2024-12-08T16:55:00/Füchse Berlin - SC Magdeburg
+DESCRIPTION:Füchse Berlin - SC Magdeburg - Bundesliga
 END:VEVENT
 END:VCALENDAR
