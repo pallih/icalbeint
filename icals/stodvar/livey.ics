@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Roma - Atalanta - Serie A - Ítalski boltinn - livey
-DTSTART:20241202T194500
-DTEND:20241202T204500
-DTSTAMP:20241202T194500Z
-UID:2024-12-02T19:45:00/Roma - Atalanta
-DESCRIPTION:Roma - Atalanta - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sevilla - Osasuna - LaLiga - Spænski boltinn - livey
-DTSTART:20241202T200000
-DTEND:20241202T210000
-DTSTAMP:20241202T200000Z
-UID:2024-12-02T20:00:00/Sevilla - Osasuna
-DESCRIPTION:Sevilla - Osasuna - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bologna - Monza - Serie A - Ítalski boltinn - livey
 DTSTART:20241203T173000
 DTEND:20241203T183000
@@ -42,12 +26,36 @@ UID:2024-12-03T20:00:00/AC Milan - Sassuolo
 DESCRIPTION:AC Milan - Sassuolo - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fiorentina - Empoli - Serie A - Ítalski boltinn - livey
-DTSTART:20241204T200000
-DTEND:20241204T210000
-DTSTAMP:20241204T200000Z
-UID:2024-12-04T20:00:00/Fiorentina - Empoli
-DESCRIPTION:Fiorentina - Empoli - Serie A - Ítalski boltinn
+SUMMARY:Industria Kielce - Kolstad Handball - EHF - livey
+DTSTART:20241204T174500
+DTEND:20241204T184500
+DTSTAMP:20241204T174500Z
+UID:2024-12-04T17:45:00/Industria Kielce - Kolstad Handball
+DESCRIPTION:Industria Kielce - Kolstad Handball - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fredericia Handboldklub - Veszprém HC - EHF - livey
+DTSTART:20241204T174500
+DTEND:20241204T184500
+DTSTAMP:20241204T174500Z
+UID:2024-12-04T17:45:00/Fredericia Handboldklub - Veszprém HC
+DESCRIPTION:Fredericia Handboldklub - Veszprém HC - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HBC Nantes - SC Magdeburg - EHF - livey
+DTSTART:20241204T194500
+DTEND:20241204T204500
+DTSTAMP:20241204T194500Z
+UID:2024-12-04T19:45:00/HBC Nantes - SC Magdeburg
+DESCRIPTION:HBC Nantes - SC Magdeburg - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Eurofarm Pelister - Orlen Wisla Plock - EHF - livey
+DTSTART:20241204T194500
+DTEND:20241204T204500
+DTSTAMP:20241204T194500Z
+UID:2024-12-04T19:45:00/HC Eurofarm Pelister - Orlen Wisla Plock
+DESCRIPTION:HC Eurofarm Pelister - Orlen Wisla Plock - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Athletic Bilbao - Real Madrid - LaLiga - Spænski boltinn - livey
@@ -56,6 +64,46 @@ DTEND:20241204T210000
 DTSTAMP:20241204T200000Z
 UID:2024-12-04T20:00:00/Athletic Bilbao - Real Madrid
 DESCRIPTION:Athletic Bilbao - Real Madrid - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiorentina - Empoli - Serie A - Ítalski boltinn - livey
+DTSTART:20241204T200000
+DTEND:20241204T210000
+DTSTAMP:20241204T200000Z
+UID:2024-12-04T20:00:00/Fiorentina - Empoli
+DESCRIPTION:Fiorentina - Empoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinamo Bucuresti - Paris Saint-Germain - EHF - livey
+DTSTART:20241205T174500
+DTEND:20241205T184500
+DTSTAMP:20241205T174500Z
+UID:2024-12-05T17:45:00/Dinamo Bucuresti - Paris Saint-Germain
+DESCRIPTION:Dinamo Bucuresti - Paris Saint-Germain - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTP Bank-Pick Szeged - Aalborg Handbold - EHF - livey
+DTSTART:20241205T174500
+DTEND:20241205T184500
+DTSTAMP:20241205T174500Z
+UID:2024-12-05T17:45:00/OTP Bank-Pick Szeged - Aalborg Handbold
+DESCRIPTION:OTP Bank-Pick Szeged - Aalborg Handbold - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barça - HC Zagreb - EHF - livey
+DTSTART:20241205T194500
+DTEND:20241205T204500
+DTSTAMP:20241205T194500Z
+UID:2024-12-05T19:45:00/Barça - HC Zagreb
+DESCRIPTION:Barça - HC Zagreb - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Sporting CP - EHF - livey
+DTSTART:20241205T194500
+DTEND:20241205T204500
+DTSTAMP:20241205T194500Z
+UID:2024-12-05T19:45:00/Füchse Berlin - Sporting CP
+DESCRIPTION:Füchse Berlin - Sporting CP - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lazio - Napoli - Serie A - Ítalski boltinn - livey
@@ -90,20 +138,20 @@ UID:2024-12-06T19:45:00/Atalanta - AC Milan
 DESCRIPTION:Atalanta - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Auxerre - PSG - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241206T200000
-DTEND:20241206T210000
-DTSTAMP:20241206T200000Z
-UID:2024-12-06T20:00:00/Auxerre - PSG
-DESCRIPTION:Auxerre - PSG - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Celta Vigo - RCD Mallorca - LaLiga - Spænski boltinn - livey
 DTSTART:20241206T200000
 DTEND:20241206T210000
 DTSTAMP:20241206T200000Z
 UID:2024-12-06T20:00:00/Celta Vigo - RCD Mallorca
 DESCRIPTION:Celta Vigo - RCD Mallorca - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre - PSG - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241206T200000
+DTEND:20241206T210000
+DTSTAMP:20241206T200000Z
+UID:2024-12-06T20:00:00/Auxerre - PSG
+DESCRIPTION:Auxerre - PSG - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las Palmas - Valladolid - LaLiga - Spænski boltinn - livey
@@ -227,20 +275,20 @@ UID:2024-12-08T15:15:00/Athletic Bilbao - Villareal
 DESCRIPTION:Athletic Bilbao - Villareal - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nantes - Rennes - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241208T160000
-DTEND:20241208T170000
-DTSTAMP:20241208T160000Z
-UID:2024-12-08T16:00:00/Nantes - Rennes
-DESCRIPTION:Nantes - Rennes - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RC Strasbourg - Reims - Ligue 1 - Franski Boltinn - livey
 DTSTART:20241208T160000
 DTEND:20241208T170000
 DTSTAMP:20241208T160000Z
 UID:2024-12-08T16:00:00/RC Strasbourg - Reims
 DESCRIPTION:RC Strasbourg - Reims - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes - Rennes - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241208T160000
+DTEND:20241208T170000
+DTSTAMP:20241208T160000Z
+UID:2024-12-08T16:00:00/Nantes - Rennes
+DESCRIPTION:Nantes - Rennes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Venezia - Como - Serie A - Ítalski boltinn - livey
@@ -281,5 +329,21 @@ DTEND:20241208T210000
 DTSTAMP:20241208T200000Z
 UID:2024-12-08T20:00:00/Atletico Madrid - Sevilla
 DESCRIPTION:Atletico Madrid - Sevilla - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monza - Udinese - Serie A - Ítalski boltinn - livey
+DTSTART:20241209T194500
+DTEND:20241209T204500
+DTSTAMP:20241209T194500Z
+UID:2024-12-09T19:45:00/Monza - Udinese
+DESCRIPTION:Monza - Udinese - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe - Espanyol - LaLiga - Spænski boltinn - livey
+DTSTART:20241209T200000
+DTEND:20241209T210000
+DTSTAMP:20241209T200000Z
+UID:2024-12-09T20:00:00/Getafe - Espanyol
+DESCRIPTION:Getafe - Espanyol - LaLiga - Spænski boltinn
 END:VEVENT
 END:VCALENDAR

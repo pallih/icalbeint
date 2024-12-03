@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Ísland - Danmörk - Landsleikur - sjonvarpsimans
-DTSTART:20241202T165500
-DTEND:20241202T175500
-DTSTAMP:20241202T165500Z
-UID:2024-12-02T16:55:00/Ísland - Danmörk
-DESCRIPTION:Ísland - Danmörk - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ipswich - Crystal Palace - Enska úrvalsdeildin - siminnsport2
 DTSTART:20241203T192000
 DTEND:20241203T202000
@@ -75,6 +67,14 @@ UID:2024-12-05T19:20:00/Fulham - Brighton
 DESCRIPTION:Fulham - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grótta - ÍR - Olís deild karla - hsi1
+DTSTART:20241205T193000
+DTEND:20241205T203000
+DTSTAMP:20241205T193000Z
+UID:2024-12-05T19:30:00/Grótta - ÍR
+DESCRIPTION:Grótta - ÍR - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fjölnir - Fram - Olís deild karla - hsi1
 DTSTART:20241205T193000
 DTEND:20241205T203000
@@ -97,14 +97,6 @@ DTEND:20241205T203000
 DTSTAMP:20241205T193000Z
 UID:2024-12-05T19:30:00/Afturelding - Valur
 DESCRIPTION:Afturelding - Valur - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grótta - ÍR - Olís deild karla - hsi1
-DTSTART:20241205T193000
-DTEND:20241205T203000
-DTSTAMP:20241205T193000Z
-UID:2024-12-05T19:30:00/Grótta - ÍR
-DESCRIPTION:Grótta - ÍR - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Tottenham - Enska úrvalsdeildin - siminnsport
@@ -147,20 +139,20 @@ UID:2024-12-07T14:30:00/Crystal Palace - Man. City
 DESCRIPTION:Crystal Palace - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aston Villa - Southampton - Enska úrvalsdeildin - siminnsport3
-DTSTART:20241207T145000
-DTEND:20241207T155000
-DTSTAMP:20241207T145000Z
-UID:2024-12-07T14:50:00/Aston Villa - Southampton
-DESCRIPTION:Aston Villa - Southampton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brentford - Newcastle - Enska úrvalsdeildin - siminnsport2
 DTSTART:20241207T145000
 DTEND:20241207T155000
 DTSTAMP:20241207T145000Z
 UID:2024-12-07T14:50:00/Brentford - Newcastle
 DESCRIPTION:Brentford - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Southampton - Enska úrvalsdeildin - siminnsport3
+DTSTART:20241207T145000
+DTEND:20241207T155000
+DTSTAMP:20241207T145000Z
+UID:2024-12-07T14:50:00/Aston Villa - Southampton
+DESCRIPTION:Aston Villa - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. Utd. - Nottingham Forest - Enska úrvalsdeildin - siminnsport
@@ -209,5 +201,37 @@ DTEND:20241208T170000
 DTSTAMP:20241208T160000Z
 UID:2024-12-08T16:00:00/Tottenham - Chelsea
 DESCRIPTION:Tottenham - Chelsea - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ítalski boltinn - Serie A - Ítalski boltinn - sjonvarpsimans
+DTSTART:20241208T194000
+DTEND:20241208T204000
+DTSTAMP:20241208T194000Z
+UID:2024-12-08T19:40:00/Ítalski boltinn
+DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Wolves - Enska úrvalsdeildin - siminnsport
+DTSTART:20241209T193000
+DTEND:20241209T203000
+DTSTAMP:20241209T193000Z
+UID:2024-12-09T19:30:00/West Ham - Wolves
+DESCRIPTION:West Ham - Wolves - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - FH - Powerade bikar karla  2025 - hsi1
+DTSTART:20241209T193000
+DTEND:20241209T203000
+DTSTAMP:20241209T193000Z
+UID:2024-12-09T19:30:00/Selfoss - FH
+DESCRIPTION:Selfoss - FH - Powerade bikar karla  2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Grótta - Powerade bikar karla  2025 - hsi1
+DTSTART:20241209T193000
+DTEND:20241209T203000
+DTSTAMP:20241209T193000Z
+UID:2024-12-09T19:30:00/Valur - Grótta
+DESCRIPTION:Valur - Grótta - Powerade bikar karla  2025
 END:VEVENT
 END:VCALENDAR
