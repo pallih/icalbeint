@@ -2,71 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Newcastle - Liverpool - Enska úrvalsdeildin - siminnsport2
-DTSTART:20241204T190000
-DTEND:20241204T200000
-DTSTAMP:20241204T190000Z
-UID:2024-12-04T19:00:00/Newcastle - Liverpool
-DESCRIPTION:Newcastle - Liverpool - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - Wolves - Enska úrvalsdeildin - siminnsport5
-DTSTART:20241204T192000
-DTEND:20241204T202000
-DTSTAMP:20241204T192000Z
-UID:2024-12-04T19:20:00/Everton - Wolves
-DESCRIPTION:Everton - Wolves - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. City - Nottingham Forest - Enska úrvalsdeildin - siminnsport
- 3
-DTSTART:20241204T192000
-DTEND:20241204T202000
-DTSTAMP:20241204T192000Z
-UID:2024-12-04T19:20:00/Man. City - Nottingham Forest
-DESCRIPTION:Man. City - Nottingham Forest - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Chelsea - Enska úrvalsdeildin - siminnsport4
-DTSTART:20241204T192000
-DTEND:20241204T202000
-DTSTAMP:20241204T192000Z
-UID:2024-12-04T19:20:00/Southampton - Chelsea
-DESCRIPTION:Southampton - Chelsea - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - Man. Utd. - Enska úrvalsdeildin - siminnsport
-DTSTART:20241204T194500
-DTEND:20241204T204500
-DTSTAMP:20241204T194500Z
-UID:2024-12-04T19:45:00/Arsenal - Man. Utd.
-DESCRIPTION:Arsenal - Man. Utd. - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aberdeen - Celtic - Scottish Premiership - viaplay
-DTSTART:20241204T195500
-DTEND:20241204T205500
-DTSTAMP:20241204T195500Z
-UID:2024-12-04T19:55:00/Aberdeen - Celtic
-DESCRIPTION:Aberdeen - Celtic - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fiorentina - Empoli - Serie A - Ítalski boltinn - livey
-DTSTART:20241204T200000
-DTEND:20241204T210000
-DTSTAMP:20241204T200000Z
-UID:2024-12-04T20:00:00/Fiorentina - Empoli
-DESCRIPTION:Fiorentina - Empoli - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Athletic Bilbao - Real Madrid - LaLiga - Spænski boltinn - livey
-DTSTART:20241204T200000
-DTEND:20241204T210000
-DTSTAMP:20241204T200000Z
-UID:2024-12-04T20:00:00/Athletic Bilbao - Real Madrid
-DESCRIPTION:Athletic Bilbao - Real Madrid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stuttgart - Göppingen - Bundesliga handbolti - stod2vodasport
 DTSTART:20241205T175000
 DTEND:20241205T185000
@@ -115,12 +50,12 @@ UID:2024-12-06T16:55:00/Al Ittihad - Al Nassr
 DESCRIPTION:Al Ittihad - Al Nassr - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Wolfsburg - Bundesliga kvenna - stod2vodasport
+SUMMARY:Leverkusen - Wolfsburg - Frauen-Bundesliga - viaplay
 DTSTART:20241206T172500
 DTEND:20241206T182500
 DTSTAMP:20241206T172500Z
 UID:2024-12-06T17:25:00/Leverkusen - Wolfsburg
-DESCRIPTION:Leverkusen - Wolfsburg - Bundesliga kvenna
+DESCRIPTION:Leverkusen - Wolfsburg - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Nürnberg - 2. Bundesliga - viaplay
@@ -131,20 +66,20 @@ UID:2024-12-06T17:25:00/Elversberg - Nürnberg
 DESCRIPTION:Elversberg - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Wolfsburg - Frauen-Bundesliga - viaplay
-DTSTART:20241206T172500
-DTEND:20241206T182500
-DTSTAMP:20241206T172500Z
-UID:2024-12-06T17:25:00/Leverkusen - Wolfsburg
-DESCRIPTION:Leverkusen - Wolfsburg - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paderborn - Schalke - 2. Bundesliga - viaplay
 DTSTART:20241206T172500
 DTEND:20241206T182500
 DTSTAMP:20241206T172500Z
 UID:2024-12-06T17:25:00/Paderborn - Schalke
 DESCRIPTION:Paderborn - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Wolfsburg - Bundesliga kvenna - stod2vodasport
+DTSTART:20241206T172500
+DTEND:20241206T182500
+DTSTAMP:20241206T172500Z
+UID:2024-12-06T17:25:00/Leverkusen - Wolfsburg
+DESCRIPTION:Leverkusen - Wolfsburg - Bundesliga kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Milan - Parma - Serie A - Ítalski boltinn - livey
@@ -187,20 +122,20 @@ UID:2024-12-06T19:45:00/Atalanta - AC Milan
 DESCRIPTION:Atalanta - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Middlesbrough - EFL Championship - stod2vodasport
-DTSTART:20241206T195000
-DTEND:20241206T205000
-DTSTAMP:20241206T195000Z
-UID:2024-12-06T19:50:00/Burnley - Middlesbrough
-DESCRIPTION:Burnley - Middlesbrough - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burnley - Middlesbrough - Championship - viaplay
 DTSTART:20241206T195000
 DTEND:20241206T205000
 DTSTAMP:20241206T195000Z
 UID:2024-12-06T19:50:00/Burnley - Middlesbrough
 DESCRIPTION:Burnley - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Middlesbrough - EFL Championship - stod2vodasport
+DTSTART:20241206T195000
+DTEND:20241206T205000
+DTSTAMP:20241206T195000Z
+UID:2024-12-06T19:50:00/Burnley - Middlesbrough
+DESCRIPTION:Burnley - Middlesbrough - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Auxerre - PSG - Ligue 1 - Franski Boltinn - livey
@@ -283,28 +218,12 @@ UID:2024-12-07T14:00:00/Genoa - Torino
 DESCRIPTION:Genoa - Torino - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Leipzig - Bundesliga - viaplay
-DTSTART:20241207T142000
-DTEND:20241207T152000
-DTSTAMP:20241207T142000Z
-UID:2024-12-07T14:20:00/Holstein Kiel - Leipzig
-DESCRIPTION:Holstein Kiel - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20241207T142000
 DTEND:20241207T152000
 DTSTAMP:20241207T142000Z
 UID:2024-12-07T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayer Leverkusen - St. Pauli - Bundesliga - viaplay
-DTSTART:20241207T142000
-DTEND:20241207T152000
-DTSTAMP:20241207T142000Z
-UID:2024-12-07T14:20:00/Bayer Leverkusen - St. Pauli
-DESCRIPTION:Bayer Leverkusen - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Heidenheim - Bundesliga - viaplay
@@ -329,6 +248,22 @@ DTEND:20241207T152000
 DTSTAMP:20241207T142000Z
 UID:2024-12-07T14:20:00/Bochum - Werder Bremen
 DESCRIPTION:Bochum - Werder Bremen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Leipzig - Bundesliga - viaplay
+DTSTART:20241207T142000
+DTEND:20241207T152000
+DTSTAMP:20241207T142000Z
+UID:2024-12-07T14:20:00/Holstein Kiel - Leipzig
+DESCRIPTION:Holstein Kiel - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayer Leverkusen - St. Pauli - Bundesliga - viaplay
+DTSTART:20241207T142000
+DTEND:20241207T152000
+DTSTAMP:20241207T142000Z
+UID:2024-12-07T14:20:00/Bayer Leverkusen - St. Pauli
+DESCRIPTION:Bayer Leverkusen - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Man. City - Enska úrvalsdeildin - sjonvarpsimans
@@ -427,20 +362,20 @@ UID:2024-12-07T17:00:00/Juventus - Bologna
 DESCRIPTION:Juventus - Bologna - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:M´gladbach - Dortmund - Bundesliga - stod2vodasport
+DTSTART:20241207T172000
+DTEND:20241207T182000
+DTSTAMP:20241207T172000Z
+UID:2024-12-07T17:20:00/M´gladbach - Dortmund
+DESCRIPTION:M´gladbach - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Dortmund - Bundesliga - viaplay
 DTSTART:20241207T172000
 DTEND:20241207T182000
 DTSTAMP:20241207T172000Z
 UID:2024-12-07T17:20:00/Mönchengladbach - Dortmund
 DESCRIPTION:Mönchengladbach - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:M´gladbach - Dortmund - Bundesliga - stod2vodasport
-DTSTART:20241207T172500
-DTEND:20241207T182500
-DTSTAMP:20241207T172500Z
-UID:2024-12-07T17:25:00/M´gladbach - Dortmund
-DESCRIPTION:M´gladbach - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valencia - Rayo Vallecano - LaLiga - Spænski boltinn - livey
@@ -459,20 +394,20 @@ UID:2024-12-07T18:00:00/Nice - Le Havre
 DESCRIPTION:Nice - Le Havre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Münster - Magdeburg - 2. Bundesliga - stod2vodasport
-DTSTART:20241207T192500
-DTEND:20241207T202500
-DTSTAMP:20241207T192500Z
-UID:2024-12-07T19:25:00/Münster - Magdeburg
-DESCRIPTION:Münster - Magdeburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preußen Münster - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20241207T192500
 DTEND:20241207T202500
 DTSTAMP:20241207T192500Z
 UID:2024-12-07T19:25:00/Preußen Münster - Magdeburg
 DESCRIPTION:Preußen Münster - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster - Magdeburg - 2. Bundesliga - stod2vodasport
+DTSTART:20241207T192500
+DTEND:20241207T202500
+DTSTAMP:20241207T192500Z
+UID:2024-12-07T19:25:00/Münster - Magdeburg
+DESCRIPTION:Münster - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roma - Lecce - Serie A - Ítalski boltinn - livey
@@ -491,20 +426,20 @@ UID:2024-12-07T19:55:00/Spænski boltinn
 DESCRIPTION:Spænski boltinn - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Angers - Lyon - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241207T200000
-DTEND:20241207T210000
-DTSTAMP:20241207T200000Z
-UID:2024-12-07T20:00:00/Angers - Lyon
-DESCRIPTION:Angers - Lyon - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Girona - Real Madrid - LaLiga - Spænski boltinn - livey
 DTSTART:20241207T200000
 DTEND:20241207T210000
 DTSTAMP:20241207T200000Z
 UID:2024-12-07T20:00:00/Girona - Real Madrid
 DESCRIPTION:Girona - Real Madrid - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angers - Lyon - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241207T200000
+DTEND:20241207T210000
+DTSTAMP:20241207T200000Z
+UID:2024-12-07T20:00:00/Angers - Lyon
+DESCRIPTION:Angers - Lyon - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fiorentina - Cagliari - Serie A - Ítalski boltinn - livey
@@ -636,20 +571,20 @@ UID:2024-12-08T16:00:00/RC Strasbourg - Reims
 DESCRIPTION:RC Strasbourg - Reims - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Chelsea - Enska úrvalsdeildin - siminnsport
-DTSTART:20241208T160000
-DTEND:20241208T170000
-DTSTAMP:20241208T160000Z
-UID:2024-12-08T16:00:00/Tottenham - Chelsea
-DESCRIPTION:Tottenham - Chelsea - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nantes - Rennes - Ligue 1 - Franski Boltinn - livey
 DTSTART:20241208T160000
 DTEND:20241208T170000
 DTSTAMP:20241208T160000Z
 UID:2024-12-08T16:00:00/Nantes - Rennes
 DESCRIPTION:Nantes - Rennes - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Chelsea - Enska úrvalsdeildin - siminnsport
+DTSTART:20241208T160000
+DTEND:20241208T170000
+DTSTAMP:20241208T160000Z
+UID:2024-12-08T16:00:00/Tottenham - Chelsea
+DESCRIPTION:Tottenham - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Freiburg - Bundesliga - viaplay
@@ -660,20 +595,20 @@ UID:2024-12-08T16:20:00/Hoffenheim - Freiburg
 DESCRIPTION:Hoffenheim - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Füchse Berlin - Magdeburg - Bundesliga handbolti - stod2vodasport
-DTSTART:20241208T165500
-DTEND:20241208T175500
-DTSTAMP:20241208T165500Z
-UID:2024-12-08T16:55:00/Füchse Berlin - Magdeburg
-DESCRIPTION:Füchse Berlin - Magdeburg - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Füchse Berlin - SC Magdeburg - Bundesliga - viaplay
 DTSTART:20241208T165500
 DTEND:20241208T175500
 DTSTAMP:20241208T165500Z
 UID:2024-12-08T16:55:00/Füchse Berlin - SC Magdeburg
 DESCRIPTION:Füchse Berlin - SC Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Magdeburg - Bundesliga handbolti - stod2vodasport
+DTSTART:20241208T165500
+DTEND:20241208T175500
+DTSTAMP:20241208T165500Z
+UID:2024-12-08T16:55:00/Füchse Berlin - Magdeburg
+DESCRIPTION:Füchse Berlin - Magdeburg - Bundesliga handbolti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Venezia - Como - Serie A - Ítalski boltinn - livey
@@ -700,20 +635,20 @@ UID:2024-12-08T19:40:00/Ítalski boltinn
 DESCRIPTION:Ítalski boltinn - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St-Étienne - Marseille - Ligue 1 - Franski Boltinn - livey
-DTSTART:20241208T194500
-DTEND:20241208T204500
-DTSTAMP:20241208T194500Z
-UID:2024-12-08T19:45:00/St-Étienne - Marseille
-DESCRIPTION:St-Étienne - Marseille - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Napoli - Lazio - Serie A - Ítalski boltinn - livey
 DTSTART:20241208T194500
 DTEND:20241208T204500
 DTSTAMP:20241208T194500Z
 UID:2024-12-08T19:45:00/Napoli - Lazio
 DESCRIPTION:Napoli - Lazio - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St-Étienne - Marseille - Ligue 1 - Franski Boltinn - livey
+DTSTART:20241208T194500
+DTEND:20241208T204500
+DTSTAMP:20241208T194500Z
+UID:2024-12-08T19:45:00/St-Étienne - Marseille
+DESCRIPTION:St-Étienne - Marseille - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atletico Madrid - Sevilla - LaLiga - Spænski boltinn - livey
@@ -724,20 +659,20 @@ UID:2024-12-08T20:00:00/Atletico Madrid - Sevilla
 DESCRIPTION:Atletico Madrid - Sevilla - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Leipzig - Frauen-Bundesliga - viaplay
-DTSTART:20241209T165500
-DTEND:20241209T175500
-DTSTAMP:20241209T165500Z
-UID:2024-12-09T16:55:00/Frankfurt - Leipzig
-DESCRIPTION:Frankfurt - Leipzig - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frankfurt - RB Leipzig - Bundesliga kvenna - stod2vodasport
 DTSTART:20241209T165500
 DTEND:20241209T175500
 DTSTAMP:20241209T165500Z
 UID:2024-12-09T16:55:00/Frankfurt - RB Leipzig
 DESCRIPTION:Frankfurt - RB Leipzig - Bundesliga kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Leipzig - Frauen-Bundesliga - viaplay
+DTSTART:20241209T165500
+DTEND:20241209T175500
+DTSTAMP:20241209T165500Z
+UID:2024-12-09T16:55:00/Frankfurt - Leipzig
+DESCRIPTION:Frankfurt - Leipzig - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Wolves - Enska úrvalsdeildin - siminnsport
@@ -796,6 +731,22 @@ UID:2024-12-10T12:55:00/Leverkusen - Inter
 DESCRIPTION:Leverkusen - Inter - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leverkusen - Inter - UEFA Youth League - viaplay
+DTSTART:20241210T125500
+DTEND:20241210T135500
+DTSTAMP:20241210T125500Z
+UID:2024-12-10T12:55:00/Leverkusen - Inter
+DESCRIPTION:Leverkusen - Inter - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atalanta - Real Madrid - UEFA Youth League - viaplay
+DTSTART:20241210T145500
+DTEND:20241210T155500
+DTSTAMP:20241210T145500Z
+UID:2024-12-10T14:55:00/Atalanta - Real Madrid
+DESCRIPTION:Atalanta - Real Madrid - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlanta - Real Madrid - UEFA Youth League - stod2sport2
 DTSTART:20241210T145500
 DTEND:20241210T155500
@@ -828,6 +779,14 @@ UID:2024-12-10T17:35:00/Girona - Liverpool
 DESCRIPTION:Girona - Liverpool - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Instant Highlights - Champions League - viaplay
+DTSTART:20241210T193000
+DTEND:20241210T203000
+DTSTAMP:20241210T193000Z
+UID:2024-12-10T19:30:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - stod2sport2
 DTSTART:20241210T193000
 DTEND:20241210T203000
@@ -845,14 +804,6 @@ UID:2024-12-10T19:50:00/Club Brugge - Sporting Lissabon
 DESCRIPTION:Club Brugge - Sporting Lissabon - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atalanta - Real Madrid - Meistaradeild Evrópu - stod2sport3
-DTSTART:20241210T195000
-DTEND:20241210T205000
-DTSTAMP:20241210T195000Z
-UID:2024-12-10T19:50:00/Atalanta - Real Madrid
-DESCRIPTION:Atalanta - Real Madrid - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Shakhtar - Bayern München - Meistaradeild Evrópu - stod2sport4
 DTSTART:20241210T195000
 DTEND:20241210T205000
@@ -861,28 +812,12 @@ UID:2024-12-10T19:50:00/Shakhtar - Bayern München
 DESCRIPTION:Shakhtar - Bayern München - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Inter - Meistaradeild Evrópu - stod2sport5
+SUMMARY:Brest - PSV - Champions League - viaplay
 DTSTART:20241210T195000
 DTEND:20241210T205000
 DTSTAMP:20241210T195000Z
-UID:2024-12-10T19:50:00/Leverkusen - Inter
-DESCRIPTION:Leverkusen - Inter - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Aston Villa - Meistaradeild Evrópu - stod2vodasport
-DTSTART:20241210T195000
-DTEND:20241210T205000
-DTSTAMP:20241210T195000Z
-UID:2024-12-10T19:50:00/Leipzig - Aston Villa
-DESCRIPTION:Leipzig - Aston Villa - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Aston Villa - Champions League - viaplay
-DTSTART:20241210T195000
-DTEND:20241210T205000
-DTSTAMP:20241210T195000Z
-UID:2024-12-10T19:50:00/Leipzig - Aston Villa
-DESCRIPTION:Leipzig - Aston Villa - Champions League
+UID:2024-12-10T19:50:00/Brest - PSV
+DESCRIPTION:Brest - PSV - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salzburg - PSG - Champions League - viaplay
@@ -893,12 +828,36 @@ UID:2024-12-10T19:50:00/Salzburg - PSG
 DESCRIPTION:Salzburg - PSG - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brest - PSV - Champions League - viaplay
+SUMMARY:Leipzig - Aston Villa - Champions League - viaplay
 DTSTART:20241210T195000
 DTEND:20241210T205000
 DTSTAMP:20241210T195000Z
-UID:2024-12-10T19:50:00/Brest - PSV
-DESCRIPTION:Brest - PSV - Champions League
+UID:2024-12-10T19:50:00/Leipzig - Aston Villa
+DESCRIPTION:Leipzig - Aston Villa - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atalanta - Real Madrid - Meistaradeild Evrópu - stod2sport3
+DTSTART:20241210T195000
+DTEND:20241210T205000
+DTSTAMP:20241210T195000Z
+UID:2024-12-10T19:50:00/Atalanta - Real Madrid
+DESCRIPTION:Atalanta - Real Madrid - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Aston Villa - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20241210T195000
+DTEND:20241210T205000
+DTSTAMP:20241210T195000Z
+UID:2024-12-10T19:50:00/Leipzig - Aston Villa
+DESCRIPTION:Leipzig - Aston Villa - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Inter - Meistaradeild Evrópu - stod2sport5
+DTSTART:20241210T195000
+DTEND:20241210T205000
+DTSTAMP:20241210T195000Z
+UID:2024-12-10T19:50:00/Leverkusen - Inter
+DESCRIPTION:Leverkusen - Inter - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leeds - Middlesbrough - Championship - viaplay
@@ -915,5 +874,182 @@ DTEND:20241210T230000
 DTSTAMP:20241210T220000Z
 UID:2024-12-10T22:00:00/Meistaradeildarmörkin
 DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goalshow - Champions League - viaplay
+DTSTART:20241210T220000
+DTEND:20241210T230000
+DTSTAMP:20241210T220000Z
+UID:2024-12-10T22:00:00/Goalshow
+DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus - Man City - UEFA Youth League - viaplay
+DTSTART:20241211T125500
+DTEND:20241211T135500
+DTSTAMP:20241211T125500Z
+UID:2024-12-11T12:55:00/Juventus - Man City
+DESCRIPTION:Juventus - Man City - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus - Manchester City - UEFA Youth League - stod2sport2
+DTSTART:20241211T125500
+DTEND:20241211T135500
+DTSTAMP:20241211T125500Z
+UID:2024-12-11T12:55:00/Juventus - Manchester City
+DESCRIPTION:Juventus - Manchester City - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Barcelona - UEFA Youth League - stod2sport2
+DTSTART:20241211T145500
+DTEND:20241211T155500
+DTSTAMP:20241211T145500Z
+UID:2024-12-11T14:55:00/Dortmund - Barcelona
+DESCRIPTION:Dortmund - Barcelona - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Barcelona - UEFA Youth League - viaplay
+DTSTART:20241211T145500
+DTEND:20241211T155500
+DTSTAMP:20241211T145500Z
+UID:2024-12-11T14:55:00/Dortmund - Barcelona
+DESCRIPTION:Dortmund - Barcelona - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahçe - Athletic Club - UEFA Europa League - viaplay
+DTSTART:20241211T152500
+DTEND:20241211T162500
+DTSTAMP:20241211T152500Z
+UID:2024-12-11T15:25:00/Fenerbahçe - Athletic Club
+DESCRIPTION:Fenerbahçe - Athletic Club - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille - Sturm Graz - Champions League - viaplay
+DTSTART:20241211T173500
+DTEND:20241211T183500
+DTSTAMP:20241211T173500Z
+UID:2024-12-11T17:35:00/Lille - Sturm Graz
+DESCRIPTION:Lille - Sturm Graz - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille - Sturm Graz - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20241211T173500
+DTEND:20241211T183500
+DTSTAMP:20241211T173500Z
+UID:2024-12-11T17:35:00/Lille - Sturm Graz
+DESCRIPTION:Lille - Sturm Graz - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atletico Madrid - Slovan Bratislava - Meistaradeild Evrópu - stod
+ 2sport3
+DTSTART:20241211T173500
+DTEND:20241211T183500
+DTSTAMP:20241211T173500Z
+UID:2024-12-11T17:35:00/Atletico Madrid - Slovan Bratislava
+DESCRIPTION:Atletico Madrid - Slovan Bratislava - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC Magdeburg - VfL Gummersbach - Bundesliga - viaplay
+DTSTART:20241211T175500
+DTEND:20241211T185500
+DTSTAMP:20241211T175500Z
+UID:2024-12-11T17:55:00/SC Magdeburg - VfL Gummersbach
+DESCRIPTION:SC Magdeburg - VfL Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Monaco - Champions League - viaplay
+DTSTART:20241211T193000
+DTEND:20241211T203000
+DTSTAMP:20241211T193000Z
+UID:2024-12-11T19:30:00/Arsenal - Monaco
+DESCRIPTION:Arsenal - Monaco - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - stod2sport2
+DTSTART:20241211T193000
+DTEND:20241211T203000
+DTSTAMP:20241211T193000Z
+UID:2024-12-11T19:30:00/Meistaradeildarmessan
+DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeild Evrópu - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20241211T195000
+DTEND:20241211T205000
+DTSTAMP:20241211T195000Z
+UID:2024-12-11T19:50:00/Meistaradeild Evrópu
+DESCRIPTION:Meistaradeild Evrópu - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus - Manchester City - Meistaradeild Evrópu - stod2sport3
+DTSTART:20241211T195000
+DTEND:20241211T205000
+DTSTAMP:20241211T195000Z
+UID:2024-12-11T19:50:00/Juventus - Manchester City
+DESCRIPTION:Juventus - Manchester City - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AC Milan - Rauða stjarnan - Meistaradeild Evrópu - stod2sport4
+DTSTART:20241211T195000
+DTEND:20241211T205000
+DTSTAMP:20241211T195000Z
+UID:2024-12-11T19:50:00/AC Milan - Rauða stjarnan
+DESCRIPTION:AC Milan - Rauða stjarnan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benfica - Bologna - Meistaradeild Evrópu - stod2sport5
+DTSTART:20241211T195000
+DTEND:20241211T205000
+DTSTAMP:20241211T195000Z
+UID:2024-12-11T19:50:00/Benfica - Bologna
+DESCRIPTION:Benfica - Bologna - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Young Boys - Champions League - viaplay
+DTSTART:20241211T195000
+DTEND:20241211T205000
+DTSTAMP:20241211T195000Z
+UID:2024-12-11T19:50:00/Stuttgart - Young Boys
+DESCRIPTION:Stuttgart - Young Boys - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feyenoord - Sparta Prag - Champions League - viaplay
+DTSTART:20241211T195000
+DTEND:20241211T205000
+DTSTAMP:20241211T195000Z
+UID:2024-12-11T19:50:00/Feyenoord - Sparta Prag
+DESCRIPTION:Feyenoord - Sparta Prag - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Barcelona - Champions League - viaplay
+DTSTART:20241211T195000
+DTEND:20241211T205000
+DTSTAMP:20241211T195000Z
+UID:2024-12-11T19:50:00/Dortmund - Barcelona
+DESCRIPTION:Dortmund - Barcelona - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Brom - Coventry - Championship - viaplay
+DTSTART:20241211T195500
+DTEND:20241211T205500
+DTSTAMP:20241211T195500Z
+UID:2024-12-11T19:55:00/West Brom - Coventry
+DESCRIPTION:West Brom - Coventry - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
+DTSTART:20241211T220000
+DTEND:20241211T230000
+DTSTAMP:20241211T220000Z
+UID:2024-12-11T22:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goalshow - Champions League - viaplay
+DTSTART:20241211T220000
+DTEND:20241211T230000
+DTSTAMP:20241211T220000Z
+UID:2024-12-11T22:00:00/Goalshow
+DESCRIPTION:Goalshow - Champions League
 END:VEVENT
 END:VCALENDAR
