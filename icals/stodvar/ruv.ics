@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Sviss - Slóvenía - EM kvenna í handbolta - ruv2
-DTSTART:20241207T143000
-DTEND:20241207T153000
-DTSTAMP:20241207T143000Z
-UID:2024-12-07T14:30:00/Sviss - Slóvenía
-DESCRIPTION:Sviss - Slóvenía - EM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Njarðvík - Keflavík - VÍS bikar kvenna í körfubolta - ruv
-DTSTART:20241207T160000
-DTEND:20241207T170000
-DTSTAMP:20241207T160000Z
-UID:2024-12-07T16:00:00/Njarðvík - Keflavík
-DESCRIPTION:Njarðvík - Keflavík - VÍS bikar kvenna í körfubolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danmörk - Þýskaland - EM kvenna í handbolta - ruv2
-DTSTART:20241207T170000
-DTEND:20241207T180000
-DTSTAMP:20241207T170000Z
-UID:2024-12-07T17:00:00/Danmörk - Þýskaland
-DESCRIPTION:Danmörk - Þýskaland - EM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holland - Noregur - EM kvenna í handbolta - ruv2
-DTSTART:20241207T193000
-DTEND:20241207T203000
-DTSTAMP:20241207T193000Z
-UID:2024-12-07T19:30:00/Holland - Noregur
-DESCRIPTION:Holland - Noregur - EM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Svartfjallaland - Pólland - EM kvenna í handbolta - ruv
 DTSTART:20241208T143000
 DTEND:20241208T153000
@@ -42,20 +10,20 @@ UID:2024-12-08T14:30:00/Svartfjallaland - Pólland
 DESCRIPTION:Svartfjallaland - Pólland - EM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Haukar - VÍS bikar kvenna í körfubolta - ruv2
-DTSTART:20241208T170000
-DTEND:20241208T180000
-DTSTAMP:20241208T170000Z
-UID:2024-12-08T17:00:00/Valur - Haukar
-DESCRIPTION:Valur - Haukar - VÍS bikar kvenna í körfubolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ungverjaland - Rúmenía - EM kvenna í handbolta - ruvis
 DTSTART:20241208T170000
 DTEND:20241208T180000
 DTSTAMP:20241208T170000Z
 UID:2024-12-08T17:00:00/Ungverjaland - Rúmenía
 DESCRIPTION:Ungverjaland - Rúmenía - EM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Haukar - VÍS bikar kvenna í körfubolta - ruv2
+DTSTART:20241208T170000
+DTEND:20241208T180000
+DTSTAMP:20241208T170000Z
+UID:2024-12-08T17:00:00/Valur - Haukar
+DESCRIPTION:Valur - Haukar - VÍS bikar kvenna í körfubolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Grindavík - VÍS bikar karla í körfubolta - ruv2
@@ -90,20 +58,20 @@ UID:2024-12-09T17:00:00/Noregur - Þýskaland
 DESCRIPTION:Noregur - Þýskaland - EM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Danmörk - Slóvenía - EM kvenna í handbolta - ruvis
-DTSTART:20241209T193000
-DTEND:20241209T203000
-DTSTAMP:20241209T193000Z
-UID:2024-12-09T19:30:00/Danmörk - Slóvenía
-DESCRIPTION:Danmörk - Slóvenía - EM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keflavík - Tindastóll - VÍS bikar karla í körfubolta - ruv2
 DTSTART:20241209T193000
 DTEND:20241209T203000
 DTSTAMP:20241209T193000Z
 UID:2024-12-09T19:30:00/Keflavík - Tindastóll
 DESCRIPTION:Keflavík - Tindastóll - VÍS bikar karla í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Slóvenía - EM kvenna í handbolta - ruvis
+DTSTART:20241209T193000
+DTEND:20241209T203000
+DTSTAMP:20241209T193000Z
+UID:2024-12-09T19:30:00/Danmörk - Slóvenía
+DESCRIPTION:Danmörk - Slóvenía - EM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sund - HM í sundi - ruv
@@ -200,5 +168,13 @@ DTEND:20241213T203000
 DTSTAMP:20241213T193000Z
 UID:2024-12-13T19:30:00/Undanúrslit
 DESCRIPTION:Undanúrslit - EM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sund - HM í sundi - ruv2
+DTSTART:20241214T075500
+DTEND:20241214T085500
+DTSTAMP:20241214T075500Z
+UID:2024-12-14T07:55:00/Sund
+DESCRIPTION:Sund - HM í sundi
 END:VEVENT
 END:VCALENDAR
