@@ -2,70 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:F1 Abu Dhabi: Keppni - Formúla 1 - stod2vodasport
-DTSTART:20241208T123000
-DTEND:20241208T133000
-DTSTAMP:20241208T123000Z
-UID:2024-12-08T12:30:00/F1 Abu Dhabi: Keppni
-DESCRIPTION:F1 Abu Dhabi: Keppni - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Füchse Berlin - Magdeburg - Bundesliga handbolti - stod2vodasport
-DTSTART:20241208T165500
-DTEND:20241208T175500
-DTSTAMP:20241208T165500Z
-UID:2024-12-08T16:55:00/Füchse Berlin - Magdeburg
-DESCRIPTION:Füchse Berlin - Magdeburg - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vikings - Falcons - NFL - stod2sport2
-DTSTART:20241208T175500
-DTEND:20241208T185500
-DTSTAMP:20241208T175500Z
-UID:2024-12-08T17:55:00/Vikings - Falcons
-DESCRIPTION:Vikings - Falcons - NFL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NFL Red Zone - NFL - stod2sport3
-DTSTART:20241208T175500
-DTEND:20241208T185500
-DTSTAMP:20241208T175500Z
-UID:2024-12-08T17:55:00/NFL Red Zone
-DESCRIPTION:NFL Red Zone - NFL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nets - Bucks - NBA - stod2sport4
-DTSTART:20241208T203000
-DTEND:20241208T213000
-DTSTAMP:20241208T203000Z
-UID:2024-12-08T20:30:00/Nets - Bucks
-DESCRIPTION:Nets - Bucks - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canucks - Lightning - NHL - stod2vodasport
-DTSTART:20241208T210500
-DTEND:20241208T220500
-DTSTAMP:20241208T210500Z
-UID:2024-12-08T21:05:00/Canucks - Lightning
-DESCRIPTION:Canucks - Lightning - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rams - Bills - NFL - stod2sport2
-DTSTART:20241208T212000
-DTEND:20241208T222000
-DTSTAMP:20241208T212000Z
-UID:2024-12-08T21:20:00/Rams - Bills
-DESCRIPTION:Rams - Bills - NFL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Devils - Avalanche - NHL - stod2vodasport
-DTSTART:20241209T000500
-DTEND:20241209T010500
-DTSTAMP:20241209T000500Z
-UID:2024-12-09T00:05:00/Devils - Avalanche
-DESCRIPTION:Devils - Avalanche - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frankfurt - RB Leipzig - Bundesliga kvenna - stod2vodasport
 DTSTART:20241209T165500
 DTEND:20241209T175500
@@ -114,20 +50,20 @@ UID:2024-12-10T14:55:00/Atlanta - Real Madrid
 DESCRIPTION:Atlanta - Real Madrid - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Girona - Liverpool - Meistaradeild Evrópu - stod2vodasport
-DTSTART:20241210T173500
-DTEND:20241210T183500
-DTSTAMP:20241210T173500Z
-UID:2024-12-10T17:35:00/Girona - Liverpool
-DESCRIPTION:Girona - Liverpool - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dinamo Zagreb - Celtic - Meistaradeild Evrópu - stod2sport3
 DTSTART:20241210T173500
 DTEND:20241210T183500
 DTSTAMP:20241210T173500Z
 UID:2024-12-10T17:35:00/Dinamo Zagreb - Celtic
 DESCRIPTION:Dinamo Zagreb - Celtic - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girona - Liverpool - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20241210T173500
+DTEND:20241210T183500
+DTSTAMP:20241210T173500Z
+UID:2024-12-10T17:35:00/Girona - Liverpool
+DESCRIPTION:Girona - Liverpool - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
@@ -170,13 +106,12 @@ UID:2024-12-10T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Brugge - Sporting Lissabon - Meistaradeild Evrópu - stod2spo
- rt6
+SUMMARY:Atalanta - Real Madrid - Meistaradeild Evrópu - stod2sport3
 DTSTART:20241210T195000
 DTEND:20241210T205000
 DTSTAMP:20241210T195000Z
-UID:2024-12-10T19:50:00/Club Brugge - Sporting Lissabon
-DESCRIPTION:Club Brugge - Sporting Lissabon - Meistaradeild Evrópu
+UID:2024-12-10T19:50:00/Atalanta - Real Madrid
+DESCRIPTION:Atalanta - Real Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Aston Villa - Meistaradeild Evrópu - stod2vodasport
@@ -185,6 +120,15 @@ DTEND:20241210T205000
 DTSTAMP:20241210T195000Z
 UID:2024-12-10T19:50:00/Leipzig - Aston Villa
 DESCRIPTION:Leipzig - Aston Villa - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Brugge - Sporting Lissabon - Meistaradeild Evrópu - stod2spo
+ rt6
+DTSTART:20241210T195000
+DTEND:20241210T205000
+DTSTAMP:20241210T195000Z
+UID:2024-12-10T19:50:00/Club Brugge - Sporting Lissabon
+DESCRIPTION:Club Brugge - Sporting Lissabon - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Inter - Meistaradeild Evrópu - stod2sport5
@@ -201,14 +145,6 @@ DTEND:20241210T205000
 DTSTAMP:20241210T195000Z
 UID:2024-12-10T19:50:00/Shakhtar - Bayern München
 DESCRIPTION:Shakhtar - Bayern München - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atalanta - Real Madrid - Meistaradeild Evrópu - stod2sport3
-DTSTART:20241210T195000
-DTEND:20241210T205000
-DTSTAMP:20241210T195000Z
-UID:2024-12-10T19:50:00/Atalanta - Real Madrid
-DESCRIPTION:Atalanta - Real Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
@@ -308,14 +244,6 @@ UID:2024-12-11T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AC Milan - Rauða stjarnan - Meistaradeild Evrópu - stod2sport4
-DTSTART:20241211T195000
-DTEND:20241211T205000
-DTSTAMP:20241211T195000Z
-UID:2024-12-11T19:50:00/AC Milan - Rauða stjarnan
-DESCRIPTION:AC Milan - Rauða stjarnan - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juventus - Manchester City - Meistaradeild Evrópu - stod2sport3
 DTSTART:20241211T195000
 DTEND:20241211T205000
@@ -324,12 +252,12 @@ UID:2024-12-11T19:50:00/Juventus - Manchester City
 DESCRIPTION:Juventus - Manchester City - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meistaradeild Evrópu - Meistaradeild Evrópu - stod2vodasport
+SUMMARY:AC Milan - Rauða stjarnan - Meistaradeild Evrópu - stod2sport4
 DTSTART:20241211T195000
 DTEND:20241211T205000
 DTSTAMP:20241211T195000Z
-UID:2024-12-11T19:50:00/Meistaradeild Evrópu
-DESCRIPTION:Meistaradeild Evrópu - Meistaradeild Evrópu
+UID:2024-12-11T19:50:00/AC Milan - Rauða stjarnan
+DESCRIPTION:AC Milan - Rauða stjarnan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Benfica - Bologna - Meistaradeild Evrópu - stod2sport5
@@ -338,6 +266,14 @@ DTEND:20241211T205000
 DTSTAMP:20241211T195000Z
 UID:2024-12-11T19:50:00/Benfica - Bologna
 DESCRIPTION:Benfica - Bologna - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeild Evrópu - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20241211T195000
+DTEND:20241211T205000
+DTSTAMP:20241211T195000Z
+UID:2024-12-11T19:50:00/Meistaradeild Evrópu
+DESCRIPTION:Meistaradeild Evrópu - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
@@ -436,12 +372,12 @@ UID:2024-12-12T19:05:00/Stjarnan - Keflavík
 DESCRIPTION:Stjarnan - Keflavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
+SUMMARY:Höttur - ÍR - Bónus deild karla - stod2besta03
 DTSTART:20241212T191000
 DTEND:20241212T201000
 DTSTAMP:20241212T191000Z
-UID:2024-12-12T19:10:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild karla
+UID:2024-12-12T19:10:00/Höttur - ÍR
+DESCRIPTION:Höttur - ÍR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - Njarðvík - Bónus deild karla - stod2besta02
@@ -452,20 +388,12 @@ UID:2024-12-12T19:10:00/Tindastóll - Njarðvík
 DESCRIPTION:Tindastóll - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Höttur - ÍR - Bónus deild karla - stod2besta03
+SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
 DTSTART:20241212T191000
 DTEND:20241212T201000
 DTSTAMP:20241212T191000Z
-UID:2024-12-12T19:10:00/Höttur - ÍR
-DESCRIPTION:Höttur - ÍR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Sociedad - Dynamo Kyiv - Evrópudeildin - stod2sport3
-DTSTART:20241212T195000
-DTEND:20241212T205000
-DTSTAMP:20241212T195000Z
-UID:2024-12-12T19:50:00/Real Sociedad - Dynamo Kyiv
-DESCRIPTION:Real Sociedad - Dynamo Kyiv - Evrópudeildin
+UID:2024-12-12T19:10:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rangers - Tottenham - Evrópudeildin - stod2sport2
@@ -474,6 +402,14 @@ DTEND:20241212T205000
 DTSTAMP:20241212T195000Z
 UID:2024-12-12T19:50:00/Rangers - Tottenham
 DESCRIPTION:Rangers - Tottenham - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Sociedad - Dynamo Kyiv - Evrópudeildin - stod2sport3
+DTSTART:20241212T195000
+DTEND:20241212T205000
+DTSTAMP:20241212T195000Z
+UID:2024-12-12T19:50:00/Real Sociedad - Dynamo Kyiv
+DESCRIPTION:Real Sociedad - Dynamo Kyiv - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
@@ -514,5 +450,45 @@ DTEND:20241214T223000
 DTSTAMP:20241214T213000Z
 UID:2024-12-14T21:30:00/NBA Cup
 DESCRIPTION:NBA Cup - NBA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NBA Cup - NBA Cup - stod2sport2
+DTSTART:20241215T013000
+DTEND:20241215T023000
+DTSTAMP:20241215T013000Z
+UID:2024-12-15T01:30:00/NBA Cup
+DESCRIPTION:NBA Cup - NBA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texans - Dolphins - NFL - stod2sport2
+DTSTART:20241215T175500
+DTEND:20241215T185500
+DTSTAMP:20241215T175500Z
+UID:2024-12-15T17:55:00/Texans - Dolphins
+DESCRIPTION:Texans - Dolphins - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL Red Zone - NFL - stod2sport3
+DTSTART:20241215T175500
+DTEND:20241215T185500
+DTSTAMP:20241215T175500Z
+UID:2024-12-15T17:55:00/NFL Red Zone
+DESCRIPTION:NFL Red Zone - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Keflavík - Bónus deild kvenna - stod2sport
+DTSTART:20241215T190500
+DTEND:20241215T200500
+DTSTAMP:20241215T190500Z
+UID:2024-12-15T19:05:00/Njarðvík - Keflavík
+DESCRIPTION:Njarðvík - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lions - Bills - NFL - stod2sport2
+DTSTART:20241215T212000
+DTEND:20241215T222000
+DTSTAMP:20241215T212000Z
+UID:2024-12-15T21:20:00/Lions - Bills
+DESCRIPTION:Lions - Bills - NFL
 END:VEVENT
 END:VCALENDAR
