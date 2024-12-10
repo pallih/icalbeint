@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Leipzig - Frauen-Bundesliga - viaplay
-DTSTART:20241209T165500
-DTEND:20241209T175500
-DTSTAMP:20241209T165500Z
-UID:2024-12-09T16:55:00/Frankfurt - Leipzig
-DESCRIPTION:Frankfurt - Leipzig - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carl Zeiss Jena - Frankfurt - Frauen-Bundesliga - viaplay
 DTSTART:20241213T172500
 DTEND:20241213T182500
@@ -32,5 +24,13 @@ DTEND:20241215T135500
 DTSTAMP:20241215T125500Z
 UID:2024-12-15T12:55:00/Bayern München - Turbine Potsdam
 DESCRIPTION:Bayern München - Turbine Potsdam - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln - Leipzig - Frauen-Bundesliga - viaplay
+DTSTART:20241216T165500
+DTEND:20241216T175500
+DTSTAMP:20241216T165500Z
+UID:2024-12-16T16:55:00/Köln - Leipzig
+DESCRIPTION:Köln - Leipzig - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR
