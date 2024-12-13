@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
 SUMMARY:Sund - HM í sundi - ruv
-DTSTART:20241212T075500
-DTEND:20241212T085500
-DTSTAMP:20241212T075500Z
-UID:2024-12-12T07:55:00/Sund
-DESCRIPTION:Sund - HM í sundi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sund - HM í sundi - ruv
 DTSTART:20241213T075500
 DTEND:20241213T085500
 DTSTAMP:20241213T075500Z
@@ -64,5 +56,25 @@ DTEND:20241215T180000
 DTSTAMP:20241215T170000Z
 UID:2024-12-15T17:00:00/Úrslitaleikur
 DESCRIPTION:Úrslitaleikur - EM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Stjarnan - 8-liða úrslit - Powerade bikar karla í handbol
+ ta - ruv2
+DTSTART:20241217T193000
+DTEND:20241217T203000
+DTSTAMP:20241217T193000Z
+UID:2024-12-17T19:30:00/ÍR - Stjarnan - 8-liða úrslit
+DESCRIPTION:ÍR - Stjarnan - 8-liða úrslit - Powerade bikar karla í han
+ dbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Valur - 8-liða úrslit - Powerade bikar karla í handbolta
+  - ruv2
+DTSTART:20241218T193000
+DTEND:20241218T203000
+DTSTAMP:20241218T193000Z
+UID:2024-12-18T19:30:00/Fram - Valur - 8-liða úrslit
+DESCRIPTION:Fram - Valur - 8-liða úrslit - Powerade bikar karla í handb
+ olta
 END:VEVENT
 END:VCALENDAR
