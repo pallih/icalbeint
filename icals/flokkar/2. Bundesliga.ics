@@ -2,60 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20241214T115500
-DTEND:20241214T125500
-DTSTAMP:20241214T115500Z
-UID:2024-12-14T11:55:00/Magdeburg - Paderborn
-DESCRIPTION:Magdeburg - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ulm - HSV - 2. Bundesliga - viaplay
-DTSTART:20241214T115500
-DTEND:20241214T125500
-DTSTAMP:20241214T115500Z
-UID:2024-12-14T11:55:00/Ulm - HSV
-DESCRIPTION:Ulm - HSV - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schalke - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20241214T115500
-DTEND:20241214T125500
-DTSTAMP:20241214T115500Z
-UID:2024-12-14T11:55:00/Schalke - Düsseldorf
-DESCRIPTION:Schalke - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schalke 04 - Düsseldorf - 2. Bundesliga - stod2vodasport
-DTSTART:20241214T115500
-DTEND:20241214T125500
-DTSTAMP:20241214T115500Z
-UID:2024-12-14T11:55:00/Schalke 04 - Düsseldorf
-DESCRIPTION:Schalke 04 - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20241214T192500
-DTEND:20241214T202500
-DTSTAMP:20241214T192500Z
-UID:2024-12-14T19:25:00/Darmstadt - Kaiserslautern
-DESCRIPTION:Darmstadt - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Kaiserslautern - 2. Bundesliga - stod2vodasport
-DTSTART:20241214T193000
-DTEND:20241214T203000
-DTSTAMP:20241214T193000Z
-UID:2024-12-14T19:30:00/Darmstadt - Kaiserslautern
-DESCRIPTION:Darmstadt - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Köln - Nürnberg - 2. Bundesliga - viaplay
+SUMMARY:Greuther Fürth - Hannover - 2. Bundesliga - viaplay
 DTSTART:20241215T122500
 DTEND:20241215T132500
 DTSTAMP:20241215T122500Z
-UID:2024-12-15T12:25:00/Köln - Nürnberg
-DESCRIPTION:Köln - Nürnberg - 2. Bundesliga
+UID:2024-12-15T12:25:00/Greuther Fürth - Hannover
+DESCRIPTION:Greuther Fürth - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braunschweig - Elversberg - 2. Bundesliga - viaplay
@@ -66,12 +18,20 @@ UID:2024-12-15T12:25:00/Braunschweig - Elversberg
 DESCRIPTION:Braunschweig - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Hannover - 2. Bundesliga - viaplay
+SUMMARY:Köln - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20241215T122500
 DTEND:20241215T132500
 DTSTAMP:20241215T122500Z
-UID:2024-12-15T12:25:00/Greuther Fürth - Hannover
-DESCRIPTION:Greuther Fürth - Hannover - 2. Bundesliga
+UID:2024-12-15T12:25:00/Köln - Nürnberg
+DESCRIPTION:Köln - Nürnberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elversberg - Schalke - 2. Bundesliga - viaplay
+DTSTART:20241220T172500
+DTEND:20241220T182500
+DTSTAMP:20241220T172500Z
+UID:2024-12-20T17:25:00/Elversberg - Schalke
+DESCRIPTION:Elversberg - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Düsseldorf - Magdeburg - 2. Bundesliga - viaplay
@@ -82,11 +42,35 @@ UID:2024-12-20T17:25:00/Düsseldorf - Magdeburg
 DESCRIPTION:Düsseldorf - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Schalke - 2. Bundesliga - viaplay
-DTSTART:20241220T172500
-DTEND:20241220T182500
-DTSTAMP:20241220T172500Z
-UID:2024-12-20T17:25:00/Elversberg - Schalke
-DESCRIPTION:Elversberg - Schalke - 2. Bundesliga
+SUMMARY:Paderborn - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20241221T115500
+DTEND:20241221T125500
+DTSTAMP:20241221T115500Z
+UID:2024-12-21T11:55:00/Paderborn - Karlsruher
+DESCRIPTION:Paderborn - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preußen Münster - Ulm - 2. Bundesliga - viaplay
+DTSTART:20241221T115500
+DTEND:20241221T125500
+DTSTAMP:20241221T115500Z
+UID:2024-12-21T11:55:00/Preußen Münster - Ulm
+DESCRIPTION:Preußen Münster - Ulm - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20241221T115500
+DTEND:20241221T125500
+DTSTAMP:20241221T115500Z
+UID:2024-12-21T11:55:00/HSV - Greuther Fürth
+DESCRIPTION:HSV - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Braunschweig - 2. Bundesliga - viaplay
+DTSTART:20241221T192500
+DTEND:20241221T202500
+DTSTAMP:20241221T192500Z
+UID:2024-12-21T19:25:00/Nürnberg - Braunschweig
+DESCRIPTION:Nürnberg - Braunschweig - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
