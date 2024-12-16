@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Rhein-Neckar Löwen - Magdeburg - Bundesliga - viaplay
-DTSTART:20241215T131500
-DTEND:20241215T141500
-DTSTAMP:20241215T131500Z
-UID:2024-12-15T13:15:00/Rhein-Neckar Löwen - Magdeburg
-DESCRIPTION:Rhein-Neckar Löwen - Magdeburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Stuttgart - Bundesliga - viaplay
-DTSTART:20241215T142000
-DTEND:20241215T152000
-DTSTAMP:20241215T142000Z
-UID:2024-12-15T14:20:00/Heidenheim - Stuttgart
-DESCRIPTION:Heidenheim - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Hoffenheim - Bundesliga - viaplay
-DTSTART:20241215T162000
-DTEND:20241215T172000
-DTSTAMP:20241215T162000Z
-UID:2024-12-15T16:20:00/Dortmund - Hoffenheim
-DESCRIPTION:Dortmund - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Frankfurt - Bundesliga - viaplay
-DTSTART:20241215T182000
-DTEND:20241215T192000
-DTSTAMP:20241215T182000Z
-UID:2024-12-15T18:20:00/Leipzig - Frankfurt
-DESCRIPTION:Leipzig - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Füchse Berlin - Bundesliga - viaplay
 DTSTART:20241216T182500
 DTEND:20241216T192500
@@ -48,6 +16,30 @@ DTEND:20241220T202000
 DTSTAMP:20241220T192000Z
 UID:2024-12-20T19:20:00/Bayern München - Leipzig
 DESCRIPTION:Bayern München - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20241221T142000
+DTEND:20241221T152000
+DTSTAMP:20241221T142000Z
+UID:2024-12-21T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Augsburg - Bundesliga - viaplay
+DTSTART:20241221T142000
+DTEND:20241221T152000
+DTSTAMP:20241221T142000Z
+UID:2024-12-21T14:20:00/Holstein Kiel - Augsburg
+DESCRIPTION:Holstein Kiel - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Union Berlin - Bundesliga - viaplay
+DTSTART:20241221T142000
+DTEND:20241221T152000
+DTSTAMP:20241221T142000Z
+UID:2024-12-21T14:20:00/Werder Bremen - Union Berlin
+DESCRIPTION:Werder Bremen - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Mönchengladbach - Bundesliga - viaplay
@@ -66,30 +58,6 @@ UID:2024-12-21T14:20:00/Frankfurt - Mainz
 DESCRIPTION:Frankfurt - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Union Berlin - Bundesliga - viaplay
-DTSTART:20241221T142000
-DTEND:20241221T152000
-DTSTAMP:20241221T142000Z
-UID:2024-12-21T14:20:00/Werder Bremen - Union Berlin
-DESCRIPTION:Werder Bremen - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Augsburg - Bundesliga - viaplay
-DTSTART:20241221T142000
-DTEND:20241221T152000
-DTSTAMP:20241221T142000Z
-UID:2024-12-21T14:20:00/Holstein Kiel - Augsburg
-DESCRIPTION:Holstein Kiel - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20241221T142000
-DTEND:20241221T152000
-DTSTAMP:20241221T142000Z
-UID:2024-12-21T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stuttgart - St. Pauli - Bundesliga - viaplay
 DTSTART:20241221T142000
 DTEND:20241221T152000
@@ -104,5 +72,37 @@ DTEND:20241221T182000
 DTSTAMP:20241221T172000Z
 UID:2024-12-21T17:20:00/Leverkusen - Freiburg
 DESCRIPTION:Leverkusen - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV Hamburg - Flensburg-Handewitt - Bundesliga - viaplay
+DTSTART:20241222T135500
+DTEND:20241222T145500
+DTSTAMP:20241222T135500Z
+UID:2024-12-22T13:55:00/HSV Hamburg - Flensburg-Handewitt
+DESCRIPTION:HSV Hamburg - Flensburg-Handewitt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum - Heidenheim - Bundesliga - viaplay
+DTSTART:20241222T142500
+DTEND:20241222T152500
+DTSTAMP:20241222T142500Z
+UID:2024-12-22T14:25:00/Bochum - Heidenheim
+DESCRIPTION:Bochum - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Dortmund - Bundesliga - viaplay
+DTSTART:20241222T162000
+DTEND:20241222T172000
+DTSTAMP:20241222T162000Z
+UID:2024-12-22T16:20:00/Wolfsburg - Dortmund
+DESCRIPTION:Wolfsburg - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Dortmund - Bundesliga - stod2vodasport
+DTSTART:20241222T163000
+DTEND:20241222T173000
+DTSTAMP:20241222T163000Z
+UID:2024-12-22T16:30:00/Wolfsburg - Dortmund
+DESCRIPTION:Wolfsburg - Dortmund - Bundesliga
 END:VEVENT
 END:VCALENDAR

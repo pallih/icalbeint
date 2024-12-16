@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Keflavík - Bónus deild kvenna - stod2sport
-DTSTART:20241215T190500
-DTEND:20241215T200500
-DTSTAMP:20241215T190500Z
-UID:2024-12-15T19:05:00/Njarðvík - Keflavík
-DESCRIPTION:Njarðvík - Keflavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kaninn: Arfleifðin - Kaninn - stod2sport
-DTSTART:20241215T211500
-DTEND:20241215T221500
-DTSTAMP:20241215T211500Z
-UID:2024-12-15T21:15:00/Kaninn: Arfleifðin
-DESCRIPTION:Kaninn: Arfleifðin - Kaninn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pacers - Pelicans - NBA - stod2sport4
-DTSTART:20241215T220000
-DTEND:20241215T230000
-DTSTAMP:20241215T220000Z
-UID:2024-12-15T22:00:00/Pacers - Pelicans
-DESCRIPTION:Pacers - Pelicans - NBA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lögmál leiksins - NBA - stod2sport2
 DTSTART:20241216T200000
 DTEND:20241216T210000
@@ -43,10 +19,10 @@ DESCRIPTION:Stjarnan - Tindastóll - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
-DTSTART:20241217T183500
-DTEND:20241217T193500
-DTSTAMP:20241217T183500Z
-UID:2024-12-17T18:35:00/Bónus deildin - Extra
+DTSTART:20241217T183000
+DTEND:20241217T193000
+DTSTAMP:20241217T183000Z
+UID:2024-12-17T18:30:00/Bónus deildin - Extra
 DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
@@ -66,12 +42,12 @@ UID:2024-12-17T19:10:00/Þór Ak. - Hamar/Þór
 DESCRIPTION:Þór Ak. - Hamar/Þór - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NBA Cup - NBA Cup - stod2sport2
+SUMMARY:Thunder - Bucks - NBA Cup - stod2sport2
 DTSTART:20241218T013000
 DTEND:20241218T023000
 DTSTAMP:20241218T013000Z
-UID:2024-12-18T01:30:00/NBA Cup
-DESCRIPTION:NBA Cup - NBA Cup
+UID:2024-12-18T01:30:00/Thunder - Bucks
+DESCRIPTION:Thunder - Bucks - NBA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Grindavík - Bónus deild kvenna - stod2sport
@@ -114,12 +90,12 @@ UID:2024-12-19T19:05:00/Keflavík - Þór Þ.
 DESCRIPTION:Keflavík - Þór Þ. - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
+SUMMARY:Njarðvík - Stjarnan - Bónus deild karla - stod2besta01
 DTSTART:20241219T191000
 DTEND:20241219T201000
 DTSTAMP:20241219T191000Z
-UID:2024-12-19T19:10:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild karla
+UID:2024-12-19T19:10:00/Njarðvík - Stjarnan
+DESCRIPTION:Njarðvík - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Álftanes - Höttur - Bónus deild karla - stod2besta03
@@ -130,12 +106,12 @@ UID:2024-12-19T19:10:00/Álftanes - Höttur
 DESCRIPTION:Álftanes - Höttur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Stjarnan - Bónus deild karla - stod2besta01
+SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
 DTSTART:20241219T191000
 DTEND:20241219T201000
 DTSTAMP:20241219T191000Z
-UID:2024-12-19T19:10:00/Njarðvík - Stjarnan
-DESCRIPTION:Njarðvík - Stjarnan - Bónus deild karla
+UID:2024-12-19T19:10:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Grindavík - Bónus deild karla - stod2besta02
@@ -168,5 +144,21 @@ DTEND:20241220T220500
 DTSTAMP:20241220T210500Z
 UID:2024-12-20T21:05:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kings - Lakers - NBA - stod2sport3
+DTSTART:20241221T230000
+DTEND:20241222T000000
+DTSTAMP:20241221T230000Z
+UID:2024-12-21T23:00:00/Kings - Lakers
+DESCRIPTION:Kings - Lakers - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kings - Pacers - NBA - stod2sport4
+DTSTART:20241222T230000
+DTEND:20241223T000000
+DTSTAMP:20241222T230000Z
+UID:2024-12-22T23:00:00/Kings - Pacers
+DESCRIPTION:Kings - Pacers - NBA
 END:VEVENT
 END:VCALENDAR

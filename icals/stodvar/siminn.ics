@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Brighton - Crystal Palace - Enska úrvalsdeildin - siminnsport
-DTSTART:20241215T133000
-DTEND:20241215T143000
-DTSTAMP:20241215T133000Z
-UID:2024-12-15T13:30:00/Brighton - Crystal Palace
-DESCRIPTION:Brighton - Crystal Palace - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. City - Man. Utd. - Enska úrvalsdeildin - siminnsport
-DTSTART:20241215T160000
-DTEND:20241215T170000
-DTSTAMP:20241215T160000Z
-UID:2024-12-15T16:00:00/Man. City - Man. Utd.
-DESCRIPTION:Man. City - Man. Utd. - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chelsea - Brentford - Enska úrvalsdeildin - siminnsport
-DTSTART:20241215T183000
-DTEND:20241215T193000
-DTSTAMP:20241215T183000Z
-UID:2024-12-15T18:30:00/Chelsea - Brentford
-DESCRIPTION:Chelsea - Brentford - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Tottenham - Enska úrvalsdeildin - siminnsport2
-DTSTART:20241215T185000
-DTEND:20241215T195000
-DTSTAMP:20241215T185000Z
-UID:2024-12-15T18:50:00/Southampton - Tottenham
-DESCRIPTION:Southampton - Tottenham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barcelona - Leganes - LaLiga - Spænski boltinn - sjonvarpsimans
-DTSTART:20241215T195500
-DTEND:20241215T205500
-DTSTAMP:20241215T195500Z
-UID:2024-12-15T19:55:00/Barcelona - Leganes
-DESCRIPTION:Barcelona - Leganes - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bournemouth - West Ham - Enska úrvalsdeildin - siminnsport
 DTSTART:20241216T193000
 DTEND:20241216T203000
@@ -90,12 +50,28 @@ UID:2024-12-18T19:30:00/Fram - Valur
 DESCRIPTION:Fram - Valur - Powerade bikar karla  2025
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Handbolta Akademían Skot - Olís deildin - sjonvarpsimans
+DTSTART:20241221T095000
+DTEND:20241221T105000
+DTSTAMP:20241221T095000Z
+UID:2024-12-21T09:50:00/Handbolta Akademían Skot
+DESCRIPTION:Handbolta Akademían Skot - Olís deildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aston Villa - Man. City - Enska úrvalsdeildin - siminnsport
 DTSTART:20241221T120000
 DTEND:20241221T130000
 DTSTAMP:20241221T120000Z
 UID:2024-12-21T12:00:00/Aston Villa - Man. City
 DESCRIPTION:Aston Villa - Man. City - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Bournemouth - Enska úrvalsdeildin - siminnsport
+DTSTART:20241221T143000
+DTEND:20241221T153000
+DTSTAMP:20241221T143000Z
+UID:2024-12-21T14:30:00/Man. Utd. - Bournemouth
+DESCRIPTION:Man. Utd. - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. Utd. - Bournemouth - Enska úrvalsdeildin - sjonvarpsimans
@@ -106,12 +82,12 @@ UID:2024-12-21T14:30:00/Man. Utd. - Bournemouth
 DESCRIPTION:Man. Utd. - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Bournemouth - Enska úrvalsdeildin - siminnsport
-DTSTART:20241221T143000
-DTEND:20241221T153000
-DTSTAMP:20241221T143000Z
-UID:2024-12-21T14:30:00/Man. Utd. - Bournemouth
-DESCRIPTION:Man. Utd. - Bournemouth - Enska úrvalsdeildin
+SUMMARY:West Ham - Brighton - Enska úrvalsdeildin - siminnsport3
+DTSTART:20241221T145000
+DTEND:20241221T155000
+DTSTAMP:20241221T145000Z
+UID:2024-12-21T14:50:00/West Ham - Brighton
+DESCRIPTION:West Ham - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brentford - Nottingham Forest - Enska úrvalsdeildin - siminnsport
@@ -131,14 +107,6 @@ UID:2024-12-21T14:50:00/Leicester - Wolves
 DESCRIPTION:Leicester - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Ham - Brighton - Enska úrvalsdeildin - siminnsport3
-DTSTART:20241221T145000
-DTEND:20241221T155000
-DTSTAMP:20241221T145000Z
-UID:2024-12-21T14:50:00/West Ham - Brighton
-DESCRIPTION:West Ham - Brighton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ipswich - Newcastle - Enska úrvalsdeildin - siminnsport2
 DTSTART:20241221T145000
 DTEND:20241221T155000
@@ -153,5 +121,38 @@ DTEND:20241221T180000
 DTSTAMP:20241221T170000Z
 UID:2024-12-21T17:00:00/Crystal Palace - Arsenal
 DESCRIPTION:Crystal Palace - Arsenal - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Barcelona - Atletico Madrid - LaLiga - Spænski boltinn - siminns
+ port
+DTSTART:20241221T195500
+DTEND:20241221T205500
+DTSTAMP:20241221T195500Z
+UID:2024-12-21T19:55:00/ Barcelona - Atletico Madrid
+DESCRIPTION: Barcelona - Atletico Madrid - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Chelsea - Enska úrvalsdeildin - siminnsport
+DTSTART:20241222T133000
+DTEND:20241222T143000
+DTSTAMP:20241222T133000Z
+UID:2024-12-22T13:30:00/Everton - Chelsea
+DESCRIPTION:Everton - Chelsea - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Southampton - Enska úrvalsdeildin - siminnsport2
+DTSTART:20241222T135000
+DTEND:20241222T145000
+DTSTAMP:20241222T135000Z
+UID:2024-12-22T13:50:00/Fulham - Southampton
+DESCRIPTION:Fulham - Southampton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Liverpool - Enska úrvalsdeildin - siminnsport
+DTSTART:20241222T160000
+DTEND:20241222T170000
+DTSTAMP:20241222T160000Z
+UID:2024-12-22T16:00:00/Tottenham - Liverpool
+DESCRIPTION:Tottenham - Liverpool - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR
