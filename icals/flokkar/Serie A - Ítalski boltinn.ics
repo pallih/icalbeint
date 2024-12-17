@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Serie A - Ítalski boltinn - ical
 BEGIN:VEVENT
-SUMMARY:Lazio - Inter Milan - Serie A - Ítalski boltinn - livey
-DTSTART:20241216T194500
-DTEND:20241216T204500
-DTSTAMP:20241216T194500Z
-UID:2024-12-16T19:45:00/Lazio - Inter Milan
-DESCRIPTION:Lazio - Inter Milan - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juventus - Cagliari - Serie A - Ítalski boltinn - livey
 DTSTART:20241217T200000
 DTEND:20241217T210000
@@ -40,5 +32,13 @@ DTEND:20241219T210000
 DTSTAMP:20241219T200000Z
 UID:2024-12-19T20:00:00/Inter Milan - Udinese
 DESCRIPTION:Inter Milan - Udinese - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Monza - Juventus - Serie A - Ítalski boltinn - siminnsport
+DTSTART:20241222T194000
+DTEND:20241222T204000
+DTSTAMP:20241222T194000Z
+UID:2024-12-22T19:40:00/ Monza - Juventus
+DESCRIPTION: Monza - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR
