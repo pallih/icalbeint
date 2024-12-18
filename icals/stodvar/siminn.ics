@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:ÍR - Stjarnan - Powerade bikar karla  2025 - hsi1
-DTSTART:20241217T193000
-DTEND:20241217T203000
-DTSTAMP:20241217T193000Z
-UID:2024-12-17T19:30:00/ÍR - Stjarnan
-DESCRIPTION:ÍR - Stjarnan - Powerade bikar karla  2025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - FH - Powerade bikar karla  2025 - hsi1
 DTSTART:20241218T000000
 DTEND:20241218T010000
@@ -50,14 +42,6 @@ UID:2024-12-21T12:00:00/Aston Villa - Man. City
 DESCRIPTION:Aston Villa - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Bournemouth - Enska úrvalsdeildin - siminnsport
-DTSTART:20241221T143000
-DTEND:20241221T153000
-DTSTAMP:20241221T143000Z
-UID:2024-12-21T14:30:00/Man. Utd. - Bournemouth
-DESCRIPTION:Man. Utd. - Bournemouth - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. Utd. - Bournemouth - Enska úrvalsdeildin - sjonvarpsimans
 DTSTART:20241221T143000
 DTEND:20241221T153000
@@ -66,20 +50,28 @@ UID:2024-12-21T14:30:00/Man. Utd. - Bournemouth
 DESCRIPTION:Man. Utd. - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Man. Utd. - Bournemouth - Enska úrvalsdeildin - siminnsport
+DTSTART:20241221T143000
+DTEND:20241221T153000
+DTSTAMP:20241221T143000Z
+UID:2024-12-21T14:30:00/Man. Utd. - Bournemouth
+DESCRIPTION:Man. Utd. - Bournemouth - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ipswich - Newcastle - Enska úrvalsdeildin - siminnsport2
+DTSTART:20241221T145000
+DTEND:20241221T155000
+DTSTAMP:20241221T145000Z
+UID:2024-12-21T14:50:00/Ipswich - Newcastle
+DESCRIPTION:Ipswich - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leicester - Wolves - Enska úrvalsdeildin - siminnsport4
 DTSTART:20241221T145000
 DTEND:20241221T155000
 DTSTAMP:20241221T145000Z
 UID:2024-12-21T14:50:00/Leicester - Wolves
 DESCRIPTION:Leicester - Wolves - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Ham - Brighton - Enska úrvalsdeildin - siminnsport3
-DTSTART:20241221T145000
-DTEND:20241221T155000
-DTSTAMP:20241221T145000Z
-UID:2024-12-21T14:50:00/West Ham - Brighton
-DESCRIPTION:West Ham - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brentford - Nottingham Forest - Enska úrvalsdeildin - siminnsport
@@ -91,12 +83,12 @@ UID:2024-12-21T14:50:00/Brentford - Nottingham Forest
 DESCRIPTION:Brentford - Nottingham Forest - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Newcastle - Enska úrvalsdeildin - siminnsport2
+SUMMARY:West Ham - Brighton - Enska úrvalsdeildin - siminnsport3
 DTSTART:20241221T145000
 DTEND:20241221T155000
 DTSTAMP:20241221T145000Z
-UID:2024-12-21T14:50:00/Ipswich - Newcastle
-DESCRIPTION:Ipswich - Newcastle - Enska úrvalsdeildin
+UID:2024-12-21T14:50:00/West Ham - Brighton
+DESCRIPTION:West Ham - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Arsenal - Enska úrvalsdeildin - siminnsport
@@ -154,5 +146,21 @@ DTEND:20241222T204000
 DTSTAMP:20241222T194000Z
 UID:2024-12-22T19:40:00/ Monza - Juventus
 DESCRIPTION: Monza - Juventus - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbolta Akademían Skot - Olís deildin - sjonvarpsimans
+DTSTART:20241223T094000
+DTEND:20241223T104000
+DTSTAMP:20241223T094000Z
+UID:2024-12-23T09:40:00/Handbolta Akademían Skot
+DESCRIPTION:Handbolta Akademían Skot - Olís deildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Fiorentina - Udinese - Serie A - Ítalski boltinn - siminnsport
+DTSTART:20241223T172500
+DTEND:20241223T182500
+DTSTAMP:20241223T172500Z
+UID:2024-12-23T17:25:00/ Fiorentina - Udinese
+DESCRIPTION: Fiorentina - Udinese - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR
