@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Elversberg - Schalke - 2. Bundesliga - viaplay
-DTSTART:20241220T172500
-DTEND:20241220T182500
-DTSTAMP:20241220T172500Z
-UID:2024-12-20T17:25:00/Elversberg - Schalke
-DESCRIPTION:Elversberg - Schalke - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Düsseldorf - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20241220T172500
 DTEND:20241220T182500
@@ -18,12 +10,12 @@ UID:2024-12-20T17:25:00/Düsseldorf - Magdeburg
 DESCRIPTION:Düsseldorf - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paderborn - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20241221T115500
-DTEND:20241221T125500
-DTSTAMP:20241221T115500Z
-UID:2024-12-21T11:55:00/Paderborn - Karlsruher
-DESCRIPTION:Paderborn - Karlsruher - 2. Bundesliga
+SUMMARY:Elversberg - Schalke - 2. Bundesliga - viaplay
+DTSTART:20241220T172500
+DTEND:20241220T182500
+DTSTAMP:20241220T172500Z
+UID:2024-12-20T17:25:00/Elversberg - Schalke
+DESCRIPTION:Elversberg - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preußen Münster - Ulm - 2. Bundesliga - viaplay
@@ -32,6 +24,14 @@ DTEND:20241221T125500
 DTSTAMP:20241221T115500Z
 UID:2024-12-21T11:55:00/Preußen Münster - Ulm
 DESCRIPTION:Preußen Münster - Ulm - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paderborn - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20241221T115500
+DTEND:20241221T125500
+DTSTAMP:20241221T115500Z
+UID:2024-12-21T11:55:00/Paderborn - Karlsruher
+DESCRIPTION:Paderborn - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HSV - Greuther Fürth - 2. Bundesliga - viaplay
@@ -50,6 +50,14 @@ UID:2024-12-21T19:25:00/Nürnberg - Braunschweig
 DESCRIPTION:Nürnberg - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Köln - 2. Bundesliga - viaplay
+DTSTART:20241222T122500
+DTEND:20241222T132500
+DTSTAMP:20241222T122500Z
+UID:2024-12-22T12:25:00/Kaiserslautern - Köln
+DESCRIPTION:Kaiserslautern - Köln - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hannover - Hertha Berlin - 2. Bundesliga - viaplay
 DTSTART:20241222T122500
 DTEND:20241222T132500
@@ -64,13 +72,5 @@ DTEND:20241222T132500
 DTSTAMP:20241222T122500Z
 UID:2024-12-22T12:25:00/Jahn Regensburg - Darmstadt
 DESCRIPTION:Jahn Regensburg - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Köln - 2. Bundesliga - viaplay
-DTSTART:20241222T122500
-DTEND:20241222T132500
-DTSTAMP:20241222T122500Z
-UID:2024-12-22T12:25:00/Kaiserslautern - Köln
-DESCRIPTION:Kaiserslautern - Köln - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
