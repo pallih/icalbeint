@@ -34,6 +34,14 @@ UID:2024-12-21T14:30:00/Ipswich - Newcastle
 DESCRIPTION:Ipswich - Newcastle - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:West Ham - Brighton - Enska úrvalsdeildin - siminnsport2
+DTSTART:20241221T145000
+DTEND:20241221T155000
+DTSTAMP:20241221T145000Z
+UID:2024-12-21T14:50:00/West Ham - Brighton
+DESCRIPTION:West Ham - Brighton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brentford - Nottingham Forest - Enska úrvalsdeildin - siminnsport
  3
 DTSTART:20241221T145000
@@ -41,14 +49,6 @@ DTEND:20241221T155000
 DTSTAMP:20241221T145000Z
 UID:2024-12-21T14:50:00/Brentford - Nottingham Forest
 DESCRIPTION:Brentford - Nottingham Forest - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Ham - Brighton - Enska úrvalsdeildin - siminnsport2
-DTSTART:20241221T145000
-DTEND:20241221T155000
-DTSTAMP:20241221T145000Z
-UID:2024-12-21T14:50:00/West Ham - Brighton
-DESCRIPTION:West Ham - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Arsenal - Enska úrvalsdeildin - siminnsport
@@ -76,14 +76,6 @@ UID:2024-12-22T13:30:00/Man. Utd. - Bournemouth
 DESCRIPTION:Man. Utd. - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leicester - Wolves - Enska úrvalsdeildin - siminnsport4
-DTSTART:20241222T135000
-DTEND:20241222T145000
-DTSTAMP:20241222T135000Z
-UID:2024-12-22T13:50:00/Leicester - Wolves
-DESCRIPTION:Leicester - Wolves - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fulham - Southampton - Enska úrvalsdeildin - siminnsport3
 DTSTART:20241222T135000
 DTEND:20241222T145000
@@ -100,6 +92,14 @@ UID:2024-12-22T13:50:00/Everton - Chelsea
 DESCRIPTION:Everton - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leicester - Wolves - Enska úrvalsdeildin - siminnsport4
+DTSTART:20241222T135000
+DTEND:20241222T145000
+DTSTAMP:20241222T135000Z
+UID:2024-12-22T13:50:00/Leicester - Wolves
+DESCRIPTION:Leicester - Wolves - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tottenham - Liverpool - Enska úrvalsdeildin - siminnsport
 DTSTART:20241222T160000
 DTEND:20241222T170000
@@ -109,10 +109,10 @@ DESCRIPTION:Tottenham - Liverpool - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20241222T183500
-DTEND:20241222T193500
-DTSTAMP:20241222T183500Z
-UID:2024-12-22T18:35:00/Völlurinn
+DTSTART:20241222T183000
+DTEND:20241222T193000
+DTSTAMP:20241222T183000Z
+UID:2024-12-22T18:30:00/Völlurinn
 DESCRIPTION:Völlurinn - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
@@ -137,6 +137,14 @@ DTSTART:20241224T095000
 DTEND:20241224T105000
 DTSTAMP:20241224T095000Z
 UID:2024-12-24T09:50:00/Handbolta Akademían Skot
+DESCRIPTION:Handbolta Akademían Skot - Olís deildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handbolta Akademían Skot - Olís deildin - sjonvarpsimans
+DTSTART:20241226T094000
+DTEND:20241226T104000
+DTSTAMP:20241226T094000Z
+UID:2024-12-26T09:40:00/Handbolta Akademían Skot
 DESCRIPTION:Handbolta Akademían Skot - Olís deildin
 END:VEVENT
 BEGIN:VEVENT
@@ -173,12 +181,12 @@ UID:2024-12-26T14:50:00/Bournemouth - Crystal Palace
 DESCRIPTION:Bournemouth - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Fulham - Enska úrvalsdeildin - siminnsport2
+SUMMARY:Southampton - West Ham - Enska úrvalsdeildin - siminnsport4
 DTSTART:20241226T145000
 DTEND:20241226T155000
 DTSTAMP:20241226T145000Z
-UID:2024-12-26T14:50:00/Chelsea - Fulham
-DESCRIPTION:Chelsea - Fulham - Enska úrvalsdeildin
+UID:2024-12-26T14:50:00/Southampton - West Ham
+DESCRIPTION:Southampton - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle  - Aston Villa - Enska úrvalsdeildin - siminnsport3
@@ -189,12 +197,12 @@ UID:2024-12-26T14:50:00/Newcastle  - Aston Villa
 DESCRIPTION:Newcastle  - Aston Villa - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - West Ham - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Chelsea - Fulham - Enska úrvalsdeildin - siminnsport2
 DTSTART:20241226T145000
 DTEND:20241226T155000
 DTSTAMP:20241226T145000Z
-UID:2024-12-26T14:50:00/Southampton - West Ham
-DESCRIPTION:Southampton - West Ham - Enska úrvalsdeildin
+UID:2024-12-26T14:50:00/Chelsea - Fulham
+DESCRIPTION:Chelsea - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Man. Utd. - Enska úrvalsdeildin - siminnsport
@@ -211,5 +219,21 @@ DTEND:20241226T203000
 DTSTAMP:20241226T193000Z
 UID:2024-12-26T19:30:00/Liverpool - Leicester
 DESCRIPTION:Liverpool - Leicester - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - Brentford - Enska úrvalsdeildin - siminnsport2
+DTSTART:20241227T192000
+DTEND:20241227T202000
+DTSTAMP:20241227T192000Z
+UID:2024-12-27T19:20:00/Brighton - Brentford
+DESCRIPTION:Brighton - Brentford - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Ipswich - Enska úrvalsdeildin - siminnsport
+DTSTART:20241227T194500
+DTEND:20241227T204500
+DTSTAMP:20241227T194500Z
+UID:2024-12-27T19:45:00/Arsenal - Ipswich
+DESCRIPTION:Arsenal - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR
