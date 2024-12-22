@@ -2,68 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Getafe - RCD Mallorca - LaLiga - Spænski boltinn - livey
-DTSTART:20241221T130000
-DTEND:20241221T140000
-DTSTAMP:20241221T130000Z
-UID:2024-12-21T13:00:00/Getafe - RCD Mallorca
-DESCRIPTION:Getafe - RCD Mallorca - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torino - Bologna - Serie A - Ítalski boltinn - livey
-DTSTART:20241221T140000
-DTEND:20241221T150000
-DTSTAMP:20241221T140000Z
-UID:2024-12-21T14:00:00/Torino - Bologna
-DESCRIPTION:Torino - Bologna - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Celta Vigo - Real Sociedad - LaLiga - Spænski boltinn - livey
-DTSTART:20241221T151500
-DTEND:20241221T161500
-DTSTAMP:20241221T151500Z
-UID:2024-12-21T15:15:00/Celta Vigo - Real Sociedad
-DESCRIPTION:Celta Vigo - Real Sociedad - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Genoa - Napoli - Serie A - Ítalski boltinn - livey
-DTSTART:20241221T170000
-DTEND:20241221T180000
-DTSTAMP:20241221T170000Z
-UID:2024-12-21T17:00:00/Genoa - Napoli
-DESCRIPTION:Genoa - Napoli - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Osasuna - Athletic Bilbao - LaLiga - Spænski boltinn - livey
-DTSTART:20241221T173000
-DTEND:20241221T183000
-DTSTAMP:20241221T173000Z
-UID:2024-12-21T17:30:00/Osasuna - Athletic Bilbao
-DESCRIPTION:Osasuna - Athletic Bilbao - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lecce - Lazio - Serie A - Ítalski boltinn - livey
-DTSTART:20241221T194500
-DTEND:20241221T204500
-DTSTAMP:20241221T194500Z
-UID:2024-12-21T19:45:00/Lecce - Lazio
-DESCRIPTION:Lecce - Lazio - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barcelona - Atletico Madrid - LaLiga - Spænski boltinn - livey
-DTSTART:20241221T200000
-DTEND:20241221T210000
-DTSTAMP:20241221T200000Z
-UID:2024-12-21T20:00:00/Barcelona - Atletico Madrid
-DESCRIPTION:Barcelona - Atletico Madrid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Roma - Parma - Serie A - Ítalski boltinn - livey
 DTSTART:20241222T113000
 DTEND:20241222T123000
 DTSTAMP:20241222T113000Z
 UID:2024-12-22T11:30:00/Roma - Parma
 DESCRIPTION:Roma - Parma - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genk - Anderlecht - Pro League - Belgíski boltinn - livey
+DTSTART:20241222T123000
+DTEND:20241222T133000
+DTSTAMP:20241222T123000Z
+UID:2024-12-22T12:30:00/Genk - Anderlecht
+DESCRIPTION:Genk - Anderlecht - Pro League - Belgíski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valencia - Deportivo Alaves - LaLiga - Spænski boltinn - livey
@@ -96,6 +48,16 @@ DTEND:20241222T180000
 DTSTAMP:20241222T170000Z
 UID:2024-12-22T17:00:00/Atalanta - Empoli
 DESCRIPTION:Atalanta - Empoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Saint-Gilloise - Club Brugge - Pro League - Belgíski boltin
+ n - livey
+DTSTART:20241222T173000
+DTEND:20241222T183000
+DTSTAMP:20241222T173000Z
+UID:2024-12-22T17:30:00/Union Saint-Gilloise - Club Brugge
+DESCRIPTION:Union Saint-Gilloise - Club Brugge - Pro League - Belgíski bo
+ ltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deportivo Leganes - Villareal - LaLiga - Spænski boltinn - livey
@@ -144,5 +106,37 @@ DTEND:20241223T204500
 DTSTAMP:20241223T194500Z
 UID:2024-12-23T19:45:00/Inter Milan - Como
 DESCRIPTION:Inter Milan - Como - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empoli - Genoa - Serie A - Ítalski boltinn - livey
+DTSTART:20241228T140000
+DTEND:20241228T150000
+DTSTAMP:20241228T140000Z
+UID:2024-12-28T14:00:00/Empoli - Genoa
+DESCRIPTION:Empoli - Genoa - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parma - Monza - Serie A - Ítalski boltinn - livey
+DTSTART:20241228T140000
+DTEND:20241228T150000
+DTSTAMP:20241228T140000Z
+UID:2024-12-28T14:00:00/Parma - Monza
+DESCRIPTION:Parma - Monza - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cagliari - Inter Milan - Serie A - Ítalski boltinn - livey
+DTSTART:20241228T170000
+DTEND:20241228T180000
+DTSTAMP:20241228T170000Z
+UID:2024-12-28T17:00:00/Cagliari - Inter Milan
+DESCRIPTION:Cagliari - Inter Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lazio - Atalanta - Serie A - Ítalski boltinn - livey
+DTSTART:20241228T194500
+DTEND:20241228T204500
+DTSTAMP:20241228T194500Z
+UID:2024-12-28T19:45:00/Lazio - Atalanta
+DESCRIPTION:Lazio - Atalanta - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR
