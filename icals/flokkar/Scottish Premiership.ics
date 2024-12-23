@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Scottish Premiership - ical
 BEGIN:VEVENT
-SUMMARY:Dundee United - Celtic - Scottish Premiership - viaplay
-DTSTART:20241222T115500
-DTEND:20241222T125500
-DTSTAMP:20241222T115500Z
-UID:2024-12-22T11:55:00/Dundee United - Celtic
-DESCRIPTION:Dundee United - Celtic - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hearts - Hibernian - Scottish Premiership - viaplay
 DTSTART:20241226T122500
 DTEND:20241226T132500
@@ -24,5 +16,21 @@ DTEND:20241226T184000
 DTSTAMP:20241226T174000Z
 UID:2024-12-26T17:40:00/St. Mirren - Rangers
 DESCRIPTION:St. Mirren - Rangers - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motherwell - Rangers - Scottish Premiership - viaplay
+DTSTART:20241229T145500
+DTEND:20241229T155500
+DTSTAMP:20241229T145500Z
+UID:2024-12-29T14:55:00/Motherwell - Rangers
+DESCRIPTION:Motherwell - Rangers - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dundee United - Aberdeen - Scottish Premiership - viaplay
+DTSTART:20241229T171000
+DTEND:20241229T181000
+DTSTAMP:20241229T171000Z
+UID:2024-12-29T17:10:00/Dundee United - Aberdeen
+DESCRIPTION:Dundee United - Aberdeen - Scottish Premiership
 END:VEVENT
 END:VCALENDAR
