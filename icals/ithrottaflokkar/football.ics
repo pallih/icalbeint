@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY: Fiorentina - Udinese - Serie A - Ítalski boltinn - siminnsport
-DTSTART:20241223T172500
-DTEND:20241223T182500
-DTSTAMP:20241223T172500Z
-UID:2024-12-23T17:25:00/ Fiorentina - Udinese
-DESCRIPTION: Fiorentina - Udinese - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fiorentina - Udinese - Serie A - Ítalski boltinn - livey
-DTSTART:20241223T173000
-DTEND:20241223T183000
-DTSTAMP:20241223T173000Z
-UID:2024-12-23T17:30:00/Fiorentina - Udinese
-DESCRIPTION:Fiorentina - Udinese - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Melsungen - Hannover-Burgdorf - Bundesliga - viaplay
-DTSTART:20241223T175500
-DTEND:20241223T185500
-DTSTAMP:20241223T175500Z
-UID:2024-12-23T17:55:00/Melsungen - Hannover-Burgdorf
-DESCRIPTION:Melsungen - Hannover-Burgdorf - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inter Milan - Como - Serie A - Ítalski boltinn - livey
-DTSTART:20241223T194500
-DTEND:20241223T204500
-DTSTAMP:20241223T194500Z
-UID:2024-12-23T19:45:00/Inter Milan - Como
-DESCRIPTION:Inter Milan - Como - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crawley - Birmingham - League One - viaplay
-DTSTART:20241223T195500
-DTEND:20241223T205500
-DTSTAMP:20241223T195500Z
-UID:2024-12-23T19:55:00/Crawley - Birmingham
-DESCRIPTION:Crawley - Birmingham - League One
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Íslandsmeistarar: Breiðablik - Besta deild karla - Íslandsmeist
  arar - stod2sport
 DTSTART:20241225T200000
@@ -85,12 +45,12 @@ UID:2024-12-26T14:30:00/Nottingham Forest - Tottenham
 DESCRIPTION:Nottingham Forest - Tottenham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle  - Aston Villa - Enska úrvalsdeildin - siminnsport3
+SUMMARY:Southampton - West Ham - Enska úrvalsdeildin - siminnsport4
 DTSTART:20241226T145000
 DTEND:20241226T155000
 DTSTAMP:20241226T145000Z
-UID:2024-12-26T14:50:00/Newcastle  - Aston Villa
-DESCRIPTION:Newcastle  - Aston Villa - Enska úrvalsdeildin
+UID:2024-12-26T14:50:00/Southampton - West Ham
+DESCRIPTION:Southampton - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coventry - Plymouth - EFL Championship - stod2vodasport
@@ -109,14 +69,6 @@ UID:2024-12-26T14:50:00/Chelsea - Fulham
 DESCRIPTION:Chelsea - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - West Ham - Enska úrvalsdeildin - siminnsport4
-DTSTART:20241226T145000
-DTEND:20241226T155000
-DTSTAMP:20241226T145000Z
-UID:2024-12-26T14:50:00/Southampton - West Ham
-DESCRIPTION:Southampton - West Ham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bournemouth - Crystal Palace - Enska úrvalsdeildin - siminnsport5
 DTSTART:20241226T145000
 DTEND:20241226T155000
@@ -125,12 +77,12 @@ UID:2024-12-26T14:50:00/Bournemouth - Crystal Palace
 DESCRIPTION:Bournemouth - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coventry - Plymouth - Championship - viaplay
-DTSTART:20241226T145500
-DTEND:20241226T155500
-DTSTAMP:20241226T145500Z
-UID:2024-12-26T14:55:00/Coventry - Plymouth
-DESCRIPTION:Coventry - Plymouth - Championship
+SUMMARY:Newcastle  - Aston Villa - Enska úrvalsdeildin - siminnsport3
+DTSTART:20241226T145000
+DTEND:20241226T155000
+DTSTAMP:20241226T145000Z
+UID:2024-12-26T14:50:00/Newcastle  - Aston Villa
+DESCRIPTION:Newcastle  - Aston Villa - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlton - Cambridge - League One - viaplay
@@ -139,6 +91,14 @@ DTEND:20241226T155500
 DTSTAMP:20241226T145500Z
 UID:2024-12-26T14:55:00/Charlton - Cambridge
 DESCRIPTION:Charlton - Cambridge - League One
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coventry - Plymouth - Championship - viaplay
+DTSTART:20241226T145500
+DTEND:20241226T155500
+DTSTAMP:20241226T145500Z
+UID:2024-12-26T14:55:00/Coventry - Plymouth
+DESCRIPTION:Coventry - Plymouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Man. Utd. - Enska úrvalsdeildin - siminnsport
@@ -296,6 +256,14 @@ UID:2024-12-29T12:25:00/Sheffield United - West Brom
 DESCRIPTION:Sheffield United - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Napoli - Venezia - Serie A - Ítalski boltinn - livey
+DTSTART:20241229T140000
+DTEND:20241229T150000
+DTSTAMP:20241229T140000Z
+UID:2024-12-29T14:00:00/Napoli - Venezia
+DESCRIPTION:Napoli - Venezia - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leicester - Man. City - Enska úrvalsdeildin - siminnsport
 DTSTART:20241229T140000
 DTEND:20241229T150000
@@ -312,28 +280,20 @@ UID:2024-12-29T14:00:00/Leicester - Man. City
 DESCRIPTION:Leicester - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Napoli - Venezia - Serie A - Ítalski boltinn - livey
-DTSTART:20241229T140000
-DTEND:20241229T150000
-DTSTAMP:20241229T140000Z
-UID:2024-12-29T14:00:00/Napoli - Venezia
-DESCRIPTION:Napoli - Venezia - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tottenham Hotspur - Wolves - Enska úrvalsdeildin - siminnsport2
-DTSTART:20241229T145000
-DTEND:20241229T155000
-DTSTAMP:20241229T145000Z
-UID:2024-12-29T14:50:00/Tottenham Hotspur - Wolves
-DESCRIPTION:Tottenham Hotspur - Wolves - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Everton - Nottingham Forest - Enska úrvalsdeildin - siminnsport3
 DTSTART:20241229T145000
 DTEND:20241229T155000
 DTSTAMP:20241229T145000Z
 UID:2024-12-29T14:50:00/Everton - Nottingham Forest
 DESCRIPTION:Everton - Nottingham Forest - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Southampton - Enska úrvalsdeildin - siminnsport4
+DTSTART:20241229T145000
+DTEND:20241229T155000
+DTSTAMP:20241229T145000Z
+UID:2024-12-29T14:50:00/Crystal Palace - Southampton
+DESCRIPTION:Crystal Palace - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Bournemouth - Enska úrvalsdeildin - siminnsport5
@@ -344,12 +304,12 @@ UID:2024-12-29T14:50:00/Fulham - Bournemouth
 DESCRIPTION:Fulham - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Southampton - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Tottenham Hotspur - Wolves - Enska úrvalsdeildin - siminnsport2
 DTSTART:20241229T145000
 DTEND:20241229T155000
 DTSTAMP:20241229T145000Z
-UID:2024-12-29T14:50:00/Crystal Palace - Southampton
-DESCRIPTION:Crystal Palace - Southampton - Enska úrvalsdeildin
+UID:2024-12-29T14:50:00/Tottenham Hotspur - Wolves
+DESCRIPTION:Tottenham Hotspur - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stoke - Sunderland - Championship - viaplay
@@ -400,6 +360,14 @@ UID:2024-12-29T17:40:00/Derby - Leeds
 DESCRIPTION:Derby - Leeds - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: AC Milan - Roma - Serie A - Ítalski boltinn - siminnsport
+DTSTART:20241229T194000
+DTEND:20241229T204000
+DTSTAMP:20241229T194000Z
+UID:2024-12-29T19:40:00/ AC Milan - Roma
+DESCRIPTION: AC Milan - Roma - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AC Milan - Roma - Serie A - Ítalski boltinn - livey
 DTSTART:20241229T194500
 DTEND:20241229T204500
@@ -414,5 +382,53 @@ DTEND:20241229T205500
 DTSTAMP:20241229T195500Z
 UID:2024-12-29T19:55:00/Middlesbrough - Burnley
 DESCRIPTION:Middlesbrough - Burnley - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como - Lecce - Serie A - Ítalski boltinn - livey
+DTSTART:20241230T173000
+DTEND:20241230T183000
+DTSTAMP:20241230T173000Z
+UID:2024-12-30T17:30:00/Como - Lecce
+DESCRIPTION:Como - Lecce - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Brighton - Enska úrvalsdeildin - siminnsport3
+DTSTART:20241230T190500
+DTEND:20241230T200500
+DTSTAMP:20241230T190500Z
+UID:2024-12-30T19:05:00/Aston Villa - Brighton
+DESCRIPTION:Aston Villa - Brighton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ipswich - Chelsea - Enska úrvalsdeildin - siminnsport2
+DTSTART:20241230T190500
+DTEND:20241230T200500
+DTSTAMP:20241230T190500Z
+UID:2024-12-30T19:05:00/Ipswich - Chelsea
+DESCRIPTION:Ipswich - Chelsea - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Newcastle - Enska úrvalsdeildin - siminnsport
+DTSTART:20241230T193000
+DTEND:20241230T203000
+DTSTAMP:20241230T193000Z
+UID:2024-12-30T19:30:00/Man. Utd. - Newcastle
+DESCRIPTION:Man. Utd. - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bologna - Hellas Verona - Serie A - Ítalski boltinn - livey
+DTSTART:20241230T194500
+DTEND:20241230T204500
+DTSTAMP:20241230T194500Z
+UID:2024-12-30T19:45:00/Bologna - Hellas Verona
+DESCRIPTION:Bologna - Hellas Verona - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFC Wimbledon - Gillingham - League Two - viaplay
+DTSTART:20241230T195500
+DTEND:20241230T205500
+DTSTAMP:20241230T195500Z
+UID:2024-12-30T19:55:00/AFC Wimbledon - Gillingham
+DESCRIPTION:AFC Wimbledon - Gillingham - League Two
 END:VEVENT
 END:VCALENDAR
