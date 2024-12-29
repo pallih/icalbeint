@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Parma - Monza - Serie A - Ítalski boltinn - livey
-DTSTART:20241228T140000
-DTEND:20241228T150000
-DTSTAMP:20241228T140000Z
-UID:2024-12-28T14:00:00/Parma - Monza
-DESCRIPTION:Parma - Monza - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Empoli - Genoa - Serie A - Ítalski boltinn - livey
-DTSTART:20241228T140000
-DTEND:20241228T150000
-DTSTAMP:20241228T140000Z
-UID:2024-12-28T14:00:00/Empoli - Genoa
-DESCRIPTION:Empoli - Genoa - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cagliari - Inter Milan - Serie A - Ítalski boltinn - livey
-DTSTART:20241228T170000
-DTEND:20241228T180000
-DTSTAMP:20241228T170000Z
-UID:2024-12-28T17:00:00/Cagliari - Inter Milan
-DESCRIPTION:Cagliari - Inter Milan - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lazio - Atalanta - Serie A - Ítalski boltinn - livey
-DTSTART:20241228T194500
-DTEND:20241228T204500
-DTSTAMP:20241228T194500Z
-UID:2024-12-28T19:45:00/Lazio - Atalanta
-DESCRIPTION:Lazio - Atalanta - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Udinese - Torino - Serie A - Ítalski boltinn - livey
 DTSTART:20241229T113000
 DTEND:20241229T123000
@@ -58,6 +26,14 @@ UID:2024-12-29T14:00:00/Leicester - Man. City
 DESCRIPTION:Leicester - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leicester - Man. City - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20241229T140000
+DTEND:20241229T150000
+DTSTAMP:20241229T140000Z
+UID:2024-12-29T14:00:00/Leicester - Man. City
+DESCRIPTION:Leicester - Man. City - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Napoli - Venezia - Serie A - Ítalski boltinn - livey
 DTSTART:20241229T140000
 DTEND:20241229T150000
@@ -66,12 +42,20 @@ UID:2024-12-29T14:00:00/Napoli - Venezia
 DESCRIPTION:Napoli - Venezia - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leicester - Man. City - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20241229T140000
-DTEND:20241229T150000
-DTSTAMP:20241229T140000Z
-UID:2024-12-29T14:00:00/Leicester - Man. City
-DESCRIPTION:Leicester - Man. City - Enska úrvalsdeildin
+SUMMARY:Everton - Nottingham Forest - Enska úrvalsdeildin - siminnsport3
+DTSTART:20241229T145000
+DTEND:20241229T155000
+DTSTAMP:20241229T145000Z
+UID:2024-12-29T14:50:00/Everton - Nottingham Forest
+DESCRIPTION:Everton - Nottingham Forest - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham Hotspur - Wolves - Enska úrvalsdeildin - siminnsport2
+DTSTART:20241229T145000
+DTEND:20241229T155000
+DTSTAMP:20241229T145000Z
+UID:2024-12-29T14:50:00/Tottenham Hotspur - Wolves
+DESCRIPTION:Tottenham Hotspur - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Southampton - Enska úrvalsdeildin - siminnsport4
@@ -90,20 +74,12 @@ UID:2024-12-29T14:50:00/Fulham - Bournemouth
 DESCRIPTION:Fulham - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham Hotspur - Wolves - Enska úrvalsdeildin - siminnsport2
-DTSTART:20241229T145000
-DTEND:20241229T155000
-DTSTAMP:20241229T145000Z
-UID:2024-12-29T14:50:00/Tottenham Hotspur - Wolves
-DESCRIPTION:Tottenham Hotspur - Wolves - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - Nottingham Forest - Enska úrvalsdeildin - siminnsport3
-DTSTART:20241229T145000
-DTEND:20241229T155000
-DTSTAMP:20241229T145000Z
-UID:2024-12-29T14:50:00/Everton - Nottingham Forest
-DESCRIPTION:Everton - Nottingham Forest - Enska úrvalsdeildin
+SUMMARY:Motherwell - Rangers - Scottish Premiership - viaplay
+DTSTART:20241229T145500
+DTEND:20241229T155500
+DTSTAMP:20241229T145500Z
+UID:2024-12-29T14:55:00/Motherwell - Rangers
+DESCRIPTION:Motherwell - Rangers - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stoke - Sunderland - Championship - viaplay
@@ -112,14 +88,6 @@ DTEND:20241229T155500
 DTSTAMP:20241229T145500Z
 UID:2024-12-29T14:55:00/Stoke - Sunderland
 DESCRIPTION:Stoke - Sunderland - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Motherwell - Rangers - Scottish Premiership - viaplay
-DTSTART:20241229T145500
-DTEND:20241229T155500
-DTSTAMP:20241229T145500Z
-UID:2024-12-29T14:55:00/Motherwell - Rangers
-DESCRIPTION:Motherwell - Rangers - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Liverpool - Enska úrvalsdeildin - siminnsport
@@ -242,20 +210,20 @@ UID:2025-01-01T12:25:00/QPR - Watford
 DESCRIPTION:QPR - Watford - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Swindon - Colchester - League Two - viaplay
-DTSTART:20250101T145500
-DTEND:20250101T155500
-DTSTAMP:20250101T145500Z
-UID:2025-01-01T14:55:00/Swindon - Colchester
-DESCRIPTION:Swindon - Colchester - League Two
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sheffield Wednesday - Derby - Championship - viaplay
 DTSTART:20250101T145500
 DTEND:20250101T155500
 DTSTAMP:20250101T145500Z
 UID:2025-01-01T14:55:00/Sheffield Wednesday - Derby
 DESCRIPTION:Sheffield Wednesday - Derby - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swindon - Colchester - League Two - viaplay
+DTSTART:20250101T145500
+DTEND:20250101T155500
+DTSTAMP:20250101T145500Z
+UID:2025-01-01T14:55:00/Swindon - Colchester
+DESCRIPTION:Swindon - Colchester - League Two
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brentford - Arsenal - Enska úrvalsdeildin - siminnsport
@@ -296,5 +264,144 @@ DTEND:20250102T182500
 DTSTAMP:20250102T172500Z
 UID:2025-01-02T17:25:00/Dundee - Dundee United
 DESCRIPTION:Dundee - Dundee United - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supercoppa: Inter Milan - Atalanta - Serie A - Ítalski boltinn - 
+ livey
+DTSTART:20250102T190000
+DTEND:20250102T200000
+DTSTAMP:20250102T190000Z
+UID:2025-01-02T19:00:00/Supercoppa: Inter Milan - Atalanta
+DESCRIPTION:Supercoppa: Inter Milan - Atalanta - Serie A - Ítalski boltin
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supercoppa: Juventus - AC Milan - Serie A - Ítalski boltinn - liv
+ ey
+DTSTART:20250103T190000
+DTEND:20250103T200000
+DTSTAMP:20250103T190000Z
+UID:2025-01-03T19:00:00/Supercoppa: Juventus - AC Milan
+DESCRIPTION:Supercoppa: Juventus - AC Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valencia - Real Madrid - LaLiga - Spænski boltinn - livey
+DTSTART:20250103T200000
+DTEND:20250103T210000
+DTSTAMP:20250103T200000Z
+UID:2025-01-03T20:00:00/Valencia - Real Madrid
+DESCRIPTION:Valencia - Real Madrid - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nice - Rennes - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250103T200000
+DTEND:20250103T210000
+DTSTAMP:20250103T200000Z
+UID:2025-01-03T20:00:00/Nice - Rennes
+DESCRIPTION:Nice - Rennes - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Newcastle - Enska úrvalsdeildin - siminnsport
+DTSTART:20250104T120000
+DTEND:20250104T130000
+DTSTAMP:20250104T120000Z
+UID:2025-01-04T12:00:00/Tottenham - Newcastle
+DESCRIPTION:Tottenham - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blackburn - Burnley - Championship - viaplay
+DTSTART:20250104T122500
+DTEND:20250104T132500
+DTSTAMP:20250104T122500Z
+UID:2025-01-04T12:25:00/Blackburn - Burnley
+DESCRIPTION:Blackburn - Burnley - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. City - West Ham - Enska úrvalsdeildin - siminnsport
+DTSTART:20250104T143000
+DTEND:20250104T153000
+DTSTAMP:20250104T143000Z
+UID:2025-01-04T14:30:00/Man. City - West Ham
+DESCRIPTION:Man. City - West Ham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. City - West Ham - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20250104T143000
+DTEND:20250104T153000
+DTSTAMP:20250104T143000Z
+UID:2025-01-04T14:30:00/Man. City - West Ham
+DESCRIPTION:Man. City - West Ham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Everton - Enska úrvalsdeildin - siminnsport4
+DTSTART:20250104T145000
+DTEND:20250104T155000
+DTSTAMP:20250104T145000Z
+UID:2025-01-04T14:50:00/Bournemouth - Everton
+DESCRIPTION:Bournemouth - Everton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southampton - Brentford - Enska úrvalsdeildin - siminnsport5
+DTSTART:20250104T145000
+DTEND:20250104T155000
+DTSTAMP:20250104T145000Z
+UID:2025-01-04T14:50:00/Southampton - Brentford
+DESCRIPTION:Southampton - Brentford - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watford - Sheffield United - Championship - viaplay
+DTSTART:20250104T145000
+DTEND:20250104T155000
+DTSTAMP:20250104T145000Z
+UID:2025-01-04T14:50:00/Watford - Sheffield United
+DESCRIPTION:Watford - Sheffield United - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Leicester - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250104T145000
+DTEND:20250104T155000
+DTSTAMP:20250104T145000Z
+UID:2025-01-04T14:50:00/Aston Villa - Leicester
+DESCRIPTION:Aston Villa - Leicester - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Chelsea - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250104T145000
+DTEND:20250104T155000
+DTSTAMP:20250104T145000Z
+UID:2025-01-04T14:50:00/Crystal Palace - Chelsea
+DESCRIPTION:Crystal Palace - Chelsea - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St-Étienne - Reims - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250104T160000
+DTEND:20250104T170000
+DTSTAMP:20250104T160000Z
+UID:2025-01-04T16:00:00/St-Étienne - Reims
+DESCRIPTION:St-Étienne - Reims - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - Arsenal - Enska úrvalsdeildin - siminnsport
+DTSTART:20250104T170000
+DTEND:20250104T180000
+DTSTAMP:20250104T170000Z
+UID:2025-01-04T17:00:00/Brighton - Arsenal
+DESCRIPTION:Brighton - Arsenal - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille - Nantes - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250104T180000
+DTEND:20250104T190000
+DTSTAMP:20250104T180000Z
+UID:2025-01-04T18:00:00/Lille - Nantes
+DESCRIPTION:Lille - Nantes - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lyon - Montpellier - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250104T200000
+DTEND:20250104T210000
+DTSTAMP:20250104T200000Z
+UID:2025-01-04T20:00:00/Lyon - Montpellier
+DESCRIPTION:Lyon - Montpellier - Ligue 1 - Franski Boltinn
 END:VEVENT
 END:VCALENDAR
