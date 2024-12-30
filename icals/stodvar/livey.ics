@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Udinese - Torino - Serie A - Ítalski boltinn - livey
-DTSTART:20241229T113000
-DTEND:20241229T123000
-DTSTAMP:20241229T113000Z
-UID:2024-12-29T11:30:00/Udinese - Torino
-DESCRIPTION:Udinese - Torino - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Napoli - Venezia - Serie A - Ítalski boltinn - livey
-DTSTART:20241229T140000
-DTEND:20241229T150000
-DTSTAMP:20241229T140000Z
-UID:2024-12-29T14:00:00/Napoli - Venezia
-DESCRIPTION:Napoli - Venezia - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juventus - Fiorentina - Serie A - Ítalski boltinn - livey
-DTSTART:20241229T170000
-DTEND:20241229T180000
-DTSTAMP:20241229T170000Z
-UID:2024-12-29T17:00:00/Juventus - Fiorentina
-DESCRIPTION:Juventus - Fiorentina - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AC Milan - Roma - Serie A - Ítalski boltinn - livey
-DTSTART:20241229T194500
-DTEND:20241229T204500
-DTSTAMP:20241229T194500Z
-UID:2024-12-29T19:45:00/AC Milan - Roma
-DESCRIPTION:AC Milan - Roma - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Como - Lecce - Serie A - Ítalski boltinn - livey
 DTSTART:20241230T173000
 DTEND:20241230T183000
@@ -69,20 +37,20 @@ UID:2025-01-03T19:00:00/Supercoppa: Juventus - AC Milan
 DESCRIPTION:Supercoppa: Juventus - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valencia - Real Madrid - LaLiga - Spænski boltinn - livey
-DTSTART:20250103T200000
-DTEND:20250103T210000
-DTSTAMP:20250103T200000Z
-UID:2025-01-03T20:00:00/Valencia - Real Madrid
-DESCRIPTION:Valencia - Real Madrid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nice - Rennes - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250103T200000
 DTEND:20250103T210000
 DTSTAMP:20250103T200000Z
 UID:2025-01-03T20:00:00/Nice - Rennes
 DESCRIPTION:Nice - Rennes - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valencia - Real Madrid - LaLiga - Spænski boltinn - livey
+DTSTART:20250103T200000
+DTEND:20250103T210000
+DTSTAMP:20250103T200000Z
+UID:2025-01-03T20:00:00/Valencia - Real Madrid
+DESCRIPTION:Valencia - Real Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St-Étienne - Reims - Ligue 1 - Franski Boltinn - livey
@@ -107,5 +75,37 @@ DTEND:20250104T210000
 DTSTAMP:20250104T200000Z
 UID:2025-01-04T20:00:00/Lyon - Montpellier
 DESCRIPTION:Lyon - Montpellier - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250105T140000
+DTEND:20250105T150000
+DTSTAMP:20250105T140000Z
+UID:2025-01-05T14:00:00/RC Strasbourg - Auxerre
+DESCRIPTION:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angers - Brest - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250105T140000
+DTEND:20250105T150000
+DTSTAMP:20250105T140000Z
+UID:2025-01-05T14:00:00/Angers - Brest
+DESCRIPTION:Angers - Brest - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens - Toulouse - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250105T140000
+DTEND:20250105T150000
+DTSTAMP:20250105T140000Z
+UID:2025-01-05T14:00:00/Lens - Toulouse
+DESCRIPTION:Lens - Toulouse - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marseille - Le Havre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250105T194500
+DTEND:20250105T204500
+DTSTAMP:20250105T194500Z
+UID:2025-01-05T19:45:00/Marseille - Le Havre
+DESCRIPTION:Marseille - Le Havre - Ligue 1 - Franski Boltinn
 END:VEVENT
 END:VCALENDAR
