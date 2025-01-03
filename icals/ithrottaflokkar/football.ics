@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Rangers - Celtic - Scottish Premiership - viaplay
-DTSTART:20250102T145500
-DTEND:20250102T155500
-DTSTAMP:20250102T145500Z
-UID:2025-01-02T14:55:00/Rangers - Celtic
-DESCRIPTION:Rangers - Celtic - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dundee - Dundee United - Scottish Premiership - viaplay
-DTSTART:20250102T172500
-DTEND:20250102T182500
-DTSTAMP:20250102T172500Z
-UID:2025-01-02T17:25:00/Dundee - Dundee United
-DESCRIPTION:Dundee - Dundee United - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Supercoppa: Inter Milan - Atalanta - Serie A - Ítalski boltinn - 
- livey
-DTSTART:20250102T190000
-DTEND:20250102T200000
-DTSTAMP:20250102T190000Z
-UID:2025-01-02T19:00:00/Supercoppa: Inter Milan - Atalanta
-DESCRIPTION:Supercoppa: Inter Milan - Atalanta - Serie A - Ítalski boltin
- n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Supercoppa: Juventus - AC Milan - Serie A - Ítalski boltinn - liv
  ey
 DTSTART:20250103T190000
@@ -37,20 +11,20 @@ UID:2025-01-03T19:00:00/Supercoppa: Juventus - AC Milan
 DESCRIPTION:Supercoppa: Juventus - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valencia - Real Madrid - LaLiga - Spænski boltinn - livey
-DTSTART:20250103T200000
-DTEND:20250103T210000
-DTSTAMP:20250103T200000Z
-UID:2025-01-03T20:00:00/Valencia - Real Madrid
-DESCRIPTION:Valencia - Real Madrid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nice - Rennes - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250103T200000
 DTEND:20250103T210000
 DTSTAMP:20250103T200000Z
 UID:2025-01-03T20:00:00/Nice - Rennes
 DESCRIPTION:Nice - Rennes - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valencia - Real Madrid - LaLiga - Spænski boltinn - livey
+DTSTART:20250103T200000
+DTEND:20250103T210000
+DTSTAMP:20250103T200000Z
+UID:2025-01-03T20:00:00/Valencia - Real Madrid
+DESCRIPTION:Valencia - Real Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tottenham - Newcastle - Enska úrvalsdeildin - siminnsport
@@ -93,6 +67,14 @@ UID:2025-01-04T14:30:00/Man. City - West Ham
 DESCRIPTION:Man. City - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aston Villa - Leicester - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250104T145000
+DTEND:20250104T155000
+DTSTAMP:20250104T145000Z
+UID:2025-01-04T14:50:00/Aston Villa - Leicester
+DESCRIPTION:Aston Villa - Leicester - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crystal Palace - Chelsea - Enska úrvalsdeildin - siminnsport2
 DTSTART:20250104T145000
 DTEND:20250104T155000
@@ -101,20 +83,12 @@ UID:2025-01-04T14:50:00/Crystal Palace - Chelsea
 DESCRIPTION:Crystal Palace - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Watford - Sheffield United - Championship - viaplay
+SUMMARY:Southampton - Brentford - Enska úrvalsdeildin - siminnsport5
 DTSTART:20250104T145000
 DTEND:20250104T155000
 DTSTAMP:20250104T145000Z
-UID:2025-01-04T14:50:00/Watford - Sheffield United
-DESCRIPTION:Watford - Sheffield United - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aston Villa - Leicester - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250104T145000
-DTEND:20250104T155000
-DTSTAMP:20250104T145000Z
-UID:2025-01-04T14:50:00/Aston Villa - Leicester
-DESCRIPTION:Aston Villa - Leicester - Enska úrvalsdeildin
+UID:2025-01-04T14:50:00/Southampton - Brentford
+DESCRIPTION:Southampton - Brentford - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Everton - Enska úrvalsdeildin - siminnsport4
@@ -125,12 +99,12 @@ UID:2025-01-04T14:50:00/Bournemouth - Everton
 DESCRIPTION:Bournemouth - Everton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Brentford - Enska úrvalsdeildin - siminnsport5
-DTSTART:20250104T145000
-DTEND:20250104T155000
-DTSTAMP:20250104T145000Z
-UID:2025-01-04T14:50:00/Southampton - Brentford
-DESCRIPTION:Southampton - Brentford - Enska úrvalsdeildin
+SUMMARY:Watford - Sheffield United - Championship - viaplay
+DTSTART:20250104T145500
+DTEND:20250104T155500
+DTSTAMP:20250104T145500Z
+UID:2025-01-04T14:55:00/Watford - Sheffield United
+DESCRIPTION:Watford - Sheffield United - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Watford - Sheffield Utd. - EFL Championship - stod2vodasport
@@ -189,6 +163,14 @@ UID:2025-01-05T13:30:00/Fulham - Ipswich
 DESCRIPTION:Fulham - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250105T140000
+DTEND:20250105T150000
+DTSTAMP:20250105T140000Z
+UID:2025-01-05T14:00:00/RC Strasbourg - Auxerre
+DESCRIPTION:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Angers - Brest - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250105T140000
 DTEND:20250105T150000
@@ -205,14 +187,6 @@ UID:2025-01-05T14:00:00/Lens - Toulouse
 DESCRIPTION:Lens - Toulouse - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250105T140000
-DTEND:20250105T150000
-DTSTAMP:20250105T140000Z
-UID:2025-01-05T14:00:00/RC Strasbourg - Auxerre
-DESCRIPTION:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Motherwell - Aberdeen - Scottish Premiership - viaplay
 DTSTART:20250105T142500
 DTEND:20250105T152500
@@ -221,20 +195,20 @@ UID:2025-01-05T14:25:00/Motherwell - Aberdeen
 DESCRIPTION:Motherwell - Aberdeen - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunderland - Portsmouth - Championship - viaplay
-DTSTART:20250105T145000
-DTEND:20250105T155000
-DTSTAMP:20250105T145000Z
-UID:2025-01-05T14:50:00/Sunderland - Portsmouth
-DESCRIPTION:Sunderland - Portsmouth - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sunderland - Portsmouth - EFL Championship - stod2vodasport
 DTSTART:20250105T145500
 DTEND:20250105T155500
 DTSTAMP:20250105T145500Z
 UID:2025-01-05T14:55:00/Sunderland - Portsmouth
 DESCRIPTION:Sunderland - Portsmouth - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland - Portsmouth - Championship - viaplay
+DTSTART:20250105T145500
+DTEND:20250105T155500
+DTSTAMP:20250105T145500Z
+UID:2025-01-05T14:55:00/Sunderland - Portsmouth
+DESCRIPTION:Sunderland - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Man. Utd. - Enska úrvalsdeildin - siminnsport
@@ -251,14 +225,6 @@ DTEND:20250105T193000
 DTSTAMP:20250105T183000Z
 UID:2025-01-05T18:30:00/Völlurinn
 DESCRIPTION:Völlurinn - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roma - Lazio - Serie A - Ítalski boltinn - sjonvarpsimans
-DTSTART:20250105T194000
-DTEND:20250105T204000
-DTSTAMP:20250105T194000Z
-UID:2025-01-05T19:40:00/Roma - Lazio
-DESCRIPTION:Roma - Lazio - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marseille - Le Havre - Ligue 1 - Franski Boltinn - livey
@@ -293,6 +259,14 @@ UID:2025-01-06T19:55:00/QPR - Luton Town
 DESCRIPTION:QPR - Luton Town - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arsenal - Newcastle - Carabao Cup - stod2vodasport
+DTSTART:20250107T195000
+DTEND:20250107T205000
+DTSTAMP:20250107T195000Z
+UID:2025-01-07T19:50:00/Arsenal - Newcastle
+DESCRIPTION:Arsenal - Newcastle - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arsenal - Newcastle - Carabao Cup - viaplay
 DTSTART:20250107T195500
 DTEND:20250107T205500
@@ -301,11 +275,59 @@ UID:2025-01-07T19:55:00/Arsenal - Newcastle
 DESCRIPTION:Arsenal - Newcastle - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tottenham - Liverpool - Carabao Cup - stod2vodasport
+DTSTART:20250108T195000
+DTEND:20250108T205000
+DTSTAMP:20250108T195000Z
+UID:2025-01-08T19:50:00/Tottenham - Liverpool
+DESCRIPTION:Tottenham - Liverpool - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tottenham - Liverpool - Carabao Cup - viaplay
 DTSTART:20250108T195500
 DTEND:20250108T205500
 DTSTAMP:20250108T195500Z
 UID:2025-01-08T19:55:00/Tottenham - Liverpool
 DESCRIPTION:Tottenham - Liverpool - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Nassr - Al Okhdood - Saudi Pro League - viaplay
+DTSTART:20250109T165500
+DTEND:20250109T175500
+DTSTAMP:20250109T165500Z
+UID:2025-01-09T16:55:00/Al Nassr - Al Okhdood
+DESCRIPTION:Al Nassr - Al Okhdood - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Cardiff - FA Cup - viaplay
+DTSTART:20250109T185500
+DTEND:20250109T195500
+DTSTAMP:20250109T185500Z
+UID:2025-01-09T18:55:00/Sheffield United - Cardiff
+DESCRIPTION:Sheffield United - Cardiff - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Watford - FA Cup - viaplay
+DTSTART:20250109T194000
+DTEND:20250109T204000
+DTSTAMP:20250109T194000Z
+UID:2025-01-09T19:40:00/Fulham - Watford
+DESCRIPTION:Fulham - Watford - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Peterborough - FA Cup - viaplay
+DTSTART:20250109T194000
+DTEND:20250109T204000
+DTSTAMP:20250109T194000Z
+UID:2025-01-09T19:40:00/Everton - Peterborough
+DESCRIPTION:Everton - Peterborough - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dundee - Rangers - Scottish Premiership - viaplay
+DTSTART:20250109T195500
+DTEND:20250109T205500
+DTSTAMP:20250109T195500Z
+UID:2025-01-09T19:55:00/Dundee - Rangers
+DESCRIPTION:Dundee - Rangers - Scottish Premiership
 END:VEVENT
 END:VCALENDAR

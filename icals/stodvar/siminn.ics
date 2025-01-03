@@ -10,12 +10,12 @@ UID:2025-01-04T12:00:00/Tottenham - Newcastle
 DESCRIPTION:Tottenham - Newcastle - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEINT - Olís deild kvenna - sjonvarpsimans
+SUMMARY:Stjarnan - Haukar - Olís deild kvenna - sjonvarpsimans
 DTSTART:20250104T125000
 DTEND:20250104T135000
 DTSTAMP:20250104T125000Z
-UID:2025-01-04T12:50:00/BEINT
-DESCRIPTION:BEINT - Olís deild kvenna
+UID:2025-01-04T12:50:00/Stjarnan - Haukar
+DESCRIPTION:Stjarnan - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Haukar - Olís deild kvenna - hsi1
@@ -58,14 +58,6 @@ UID:2025-01-04T14:30:00/Man. City - West Ham
 DESCRIPTION:Man. City - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Chelsea - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250104T145000
-DTEND:20250104T155000
-DTSTAMP:20250104T145000Z
-UID:2025-01-04T14:50:00/Crystal Palace - Chelsea
-DESCRIPTION:Crystal Palace - Chelsea - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Leicester - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250104T145000
 DTEND:20250104T155000
@@ -74,12 +66,12 @@ UID:2025-01-04T14:50:00/Aston Villa - Leicester
 DESCRIPTION:Aston Villa - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Everton - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Crystal Palace - Chelsea - Enska úrvalsdeildin - siminnsport2
 DTSTART:20250104T145000
 DTEND:20250104T155000
 DTSTAMP:20250104T145000Z
-UID:2025-01-04T14:50:00/Bournemouth - Everton
-DESCRIPTION:Bournemouth - Everton - Enska úrvalsdeildin
+UID:2025-01-04T14:50:00/Crystal Palace - Chelsea
+DESCRIPTION:Crystal Palace - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southampton - Brentford - Enska úrvalsdeildin - siminnsport5
@@ -88,6 +80,14 @@ DTEND:20250104T155000
 DTSTAMP:20250104T145000Z
 UID:2025-01-04T14:50:00/Southampton - Brentford
 DESCRIPTION:Southampton - Brentford - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Everton - Enska úrvalsdeildin - siminnsport4
+DTSTART:20250104T145000
+DTEND:20250104T155000
+DTSTAMP:20250104T145000Z
+UID:2025-01-04T14:50:00/Bournemouth - Everton
+DESCRIPTION:Bournemouth - Everton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brighton - Arsenal - Enska úrvalsdeildin - siminnsport
@@ -130,20 +130,20 @@ UID:2025-01-05T18:30:00/Völlurinn
 DESCRIPTION:Völlurinn - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roma - Lazio - Serie A - Ítalski boltinn - sjonvarpsimans
-DTSTART:20250105T194000
-DTEND:20250105T204000
-DTSTAMP:20250105T194000Z
-UID:2025-01-05T19:40:00/Roma - Lazio
-DESCRIPTION:Roma - Lazio - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolves - Nottingham Forest - Enska úrvalsdeildin - siminnsport
 DTSTART:20250106T193000
 DTEND:20250106T203000
 DTSTAMP:20250106T193000Z
 UID:2025-01-06T19:30:00/Wolves - Nottingham Forest
 DESCRIPTION:Wolves - Nottingham Forest - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Fram - Olís deild kvenna - sjonvarpsimans
+DTSTART:20250108T192000
+DTEND:20250108T202000
+DTSTAMP:20250108T192000Z
+UID:2025-01-08T19:20:00/Valur - Fram
+DESCRIPTION:Valur - Fram - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grótta - Haukar - Olís deild kvenna - hsi1
@@ -154,19 +154,19 @@ UID:2025-01-08T19:30:00/Grótta - Haukar
 DESCRIPTION:Grótta - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afturelding - ÍR - Powerade bikar kvenna 2025 - hsi1
-DTSTART:20250108T193000
-DTEND:20250108T203000
-DTSTAMP:20250108T193000Z
-UID:2025-01-08T19:30:00/Afturelding - ÍR
-DESCRIPTION:Afturelding - ÍR - Powerade bikar kvenna 2025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - Fram - Olís deild kvenna - hsi1
 DTSTART:20250108T193000
 DTEND:20250108T203000
 DTSTAMP:20250108T193000Z
 UID:2025-01-08T19:30:00/Valur - Fram
 DESCRIPTION:Valur - Fram - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - ÍR - Powerade bikar kvenna 2025 - hsi1
+DTSTART:20250108T193000
+DTEND:20250108T203000
+DTSTAMP:20250108T193000Z
+UID:2025-01-08T19:30:00/Afturelding - ÍR
+DESCRIPTION:Afturelding - ÍR - Powerade bikar kvenna 2025
 END:VEVENT
 END:VCALENDAR

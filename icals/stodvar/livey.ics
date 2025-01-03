@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Supercoppa: Inter Milan - Atalanta - Serie A - Ítalski boltinn - 
- livey
-DTSTART:20250102T190000
-DTEND:20250102T200000
-DTSTAMP:20250102T190000Z
-UID:2025-01-02T19:00:00/Supercoppa: Inter Milan - Atalanta
-DESCRIPTION:Supercoppa: Inter Milan - Atalanta - Serie A - Ítalski boltin
- n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Supercoppa: Juventus - AC Milan - Serie A - Ítalski boltinn - liv
  ey
 DTSTART:20250103T190000
@@ -21,20 +11,20 @@ UID:2025-01-03T19:00:00/Supercoppa: Juventus - AC Milan
 DESCRIPTION:Supercoppa: Juventus - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valencia - Real Madrid - LaLiga - Spænski boltinn - livey
-DTSTART:20250103T200000
-DTEND:20250103T210000
-DTSTAMP:20250103T200000Z
-UID:2025-01-03T20:00:00/Valencia - Real Madrid
-DESCRIPTION:Valencia - Real Madrid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nice - Rennes - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250103T200000
 DTEND:20250103T210000
 DTSTAMP:20250103T200000Z
 UID:2025-01-03T20:00:00/Nice - Rennes
 DESCRIPTION:Nice - Rennes - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valencia - Real Madrid - LaLiga - Spænski boltinn - livey
+DTSTART:20250103T200000
+DTEND:20250103T210000
+DTSTAMP:20250103T200000Z
+UID:2025-01-03T20:00:00/Valencia - Real Madrid
+DESCRIPTION:Valencia - Real Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St-Étienne - Reims - Ligue 1 - Franski Boltinn - livey
@@ -61,6 +51,14 @@ UID:2025-01-04T20:00:00/Lyon - Montpellier
 DESCRIPTION:Lyon - Montpellier - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250105T140000
+DTEND:20250105T150000
+DTSTAMP:20250105T140000Z
+UID:2025-01-05T14:00:00/RC Strasbourg - Auxerre
+DESCRIPTION:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Angers - Brest - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250105T140000
 DTEND:20250105T150000
@@ -75,14 +73,6 @@ DTEND:20250105T150000
 DTSTAMP:20250105T140000Z
 UID:2025-01-05T14:00:00/Lens - Toulouse
 DESCRIPTION:Lens - Toulouse - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250105T140000
-DTEND:20250105T150000
-DTSTAMP:20250105T140000Z
-UID:2025-01-05T14:00:00/RC Strasbourg - Auxerre
-DESCRIPTION:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marseille - Le Havre - Ligue 1 - Franski Boltinn - livey
