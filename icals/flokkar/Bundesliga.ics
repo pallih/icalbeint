@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:DHfK Leipzig - Hannover-Burgdorf - Bundesliga - viaplay
-DTSTART:20241227T185500
-DTEND:20241227T195500
-DTSTAMP:20241227T185500Z
-UID:2024-12-27T18:55:00/DHfK Leipzig - Hannover-Burgdorf
-DESCRIPTION:DHfK Leipzig - Hannover-Burgdorf - Bundesliga
+SUMMARY:Dortmund - Leverkusen - Bundesliga - viaplay
+DTSTART:20250110T192000
+DTEND:20250110T202000
+DTSTAMP:20250110T192000Z
+UID:2025-01-10T19:20:00/Dortmund - Leverkusen
+DESCRIPTION:Dortmund - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Leverkusen (Tactical Feed) - Bundesliga - viaplay
+DTSTART:20250110T192500
+DTEND:20250110T202500
+DTSTAMP:20250110T192500Z
+UID:2025-01-10T19:25:00/Dortmund - Leverkusen (Tactical Feed)
+DESCRIPTION:Dortmund - Leverkusen (Tactical Feed) - Bundesliga
 END:VEVENT
 END:VCALENDAR
