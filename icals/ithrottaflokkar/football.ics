@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Arsenal - Newcastle - Carabao Cup - stod2vodasport
-DTSTART:20250107T195000
-DTEND:20250107T205000
-DTSTAMP:20250107T195000Z
-UID:2025-01-07T19:50:00/Arsenal - Newcastle
-DESCRIPTION:Arsenal - Newcastle - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - Newcastle - Carabao Cup - viaplay
-DTSTART:20250107T195500
-DTEND:20250107T205500
-DTSTAMP:20250107T195500Z
-UID:2025-01-07T19:55:00/Arsenal - Newcastle
-DESCRIPTION:Arsenal - Newcastle - Carabao Cup
+SUMMARY:Tottenham - Liverpool - Carabao Cup - viaplay
+DTSTART:20250108T195000
+DTEND:20250108T205000
+DTSTAMP:20250108T195000Z
+UID:2025-01-08T19:50:00/Tottenham - Liverpool
+DESCRIPTION:Tottenham - Liverpool - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tottenham - Liverpool - Carabao Cup - stod2vodasport
@@ -26,15 +18,7 @@ UID:2025-01-08T19:50:00/Tottenham - Liverpool
 DESCRIPTION:Tottenham - Liverpool - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Liverpool - Carabao Cup - viaplay
-DTSTART:20250108T195500
-DTEND:20250108T205500
-DTSTAMP:20250108T195500Z
-UID:2025-01-08T19:55:00/Tottenham - Liverpool
-DESCRIPTION:Tottenham - Liverpool - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Al Nassr - Al Okhdood - Saudi Pro League - viaplay
+SUMMARY:Al Nassr - Al Okhdood - Saudi Pro League - stod2vodasport
 DTSTART:20250109T165500
 DTEND:20250109T175500
 DTSTAMP:20250109T165500Z
@@ -42,7 +26,7 @@ UID:2025-01-09T16:55:00/Al Nassr - Al Okhdood
 DESCRIPTION:Al Nassr - Al Okhdood - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Al Nassr - Al Okhdood - Saudi Pro League - stod2vodasport
+SUMMARY:Al Nassr - Al Okhdood - Saudi Pro League - viaplay
 DTSTART:20250109T165500
 DTEND:20250109T175500
 DTSTAMP:20250109T165500Z
@@ -58,12 +42,12 @@ UID:2025-01-09T18:55:00/Sheffield United - Cardiff
 DESCRIPTION:Sheffield United - Cardiff - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Peterborough - FA Cup - viaplay
+SUMMARY:Fulham - Watford - FA Cup - viaplay
 DTSTART:20250109T194000
 DTEND:20250109T204000
 DTSTAMP:20250109T194000Z
-UID:2025-01-09T19:40:00/Everton - Peterborough
-DESCRIPTION:Everton - Peterborough - FA Cup
+UID:2025-01-09T19:40:00/Fulham - Watford
+DESCRIPTION:Fulham - Watford - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Peterborough Utd. - FA Cup - stod2vodasport
@@ -74,12 +58,12 @@ UID:2025-01-09T19:40:00/Everton - Peterborough Utd.
 DESCRIPTION:Everton - Peterborough Utd. - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Watford - FA Cup - viaplay
+SUMMARY:Everton - Peterborough - FA Cup - viaplay
 DTSTART:20250109T194000
 DTEND:20250109T204000
 DTSTAMP:20250109T194000Z
-UID:2025-01-09T19:40:00/Fulham - Watford
-DESCRIPTION:Fulham - Watford - FA Cup
+UID:2025-01-09T19:40:00/Everton - Peterborough
+DESCRIPTION:Everton - Peterborough - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dundee - Rangers - Scottish Premiership - viaplay
@@ -106,6 +90,14 @@ UID:2025-01-10T16:55:00/Al Ahli - Al Shabab
 DESCRIPTION:Al Ahli - Al Shabab - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nantes - Monaco - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250110T180000
+DTEND:20250110T190000
+DTSTAMP:20250110T180000Z
+UID:2025-01-10T18:00:00/Nantes - Monaco
+DESCRIPTION:Nantes - Monaco - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dortmund - Leverkusen - Bundesliga - viaplay
 DTSTART:20250110T192000
 DTEND:20250110T202000
@@ -128,6 +120,14 @@ DTEND:20250110T204000
 DTSTAMP:20250110T194000Z
 UID:2025-01-10T19:40:00/Wycombe - Portsmouth
 DESCRIPTION:Wycombe - Portsmouth - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lazio - Como - Serie A - Ítalski boltinn - livey
+DTSTART:20250110T194500
+DTEND:20250110T204500
+DTSTAMP:20250110T194500Z
+UID:2025-01-10T19:45:00/Lazio - Como
+DESCRIPTION:Lazio - Como - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aston Villa - West Ham - FA Cup - stod2vodasport
@@ -154,6 +154,22 @@ UID:2025-01-10T20:00:00/Rayo Vallecano - Celta Vigo
 DESCRIPTION:Rayo Vallecano - Celta Vigo - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Auxerre - Lille - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250110T200000
+DTEND:20250110T210000
+DTSTAMP:20250110T200000Z
+UID:2025-01-10T20:00:00/Auxerre - Lille
+DESCRIPTION:Auxerre - Lille - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlesbrough - Blackburn - FA Cup - viaplay
+DTSTART:20250111T115500
+DTEND:20250111T125500
+DTSTAMP:20250111T115500Z
+UID:2025-01-11T11:55:00/Middlesbrough - Blackburn
+DESCRIPTION:Middlesbrough - Blackburn - FA Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bristol City - Wolverhampton - FA Cup - viaplay
 DTSTART:20250111T115500
 DTEND:20250111T125500
@@ -168,14 +184,6 @@ DTEND:20250111T125500
 DTSTAMP:20250111T115500Z
 UID:2025-01-11T11:55:00/Birmingham - Lincoln City
 DESCRIPTION:Birmingham - Lincoln City - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Middlesbrough - Blackburn - FA Cup - viaplay
-DTSTART:20250111T115500
-DTEND:20250111T125500
-DTSTAMP:20250111T115500Z
-UID:2025-01-11T11:55:00/Middlesbrough - Blackburn
-DESCRIPTION:Middlesbrough - Blackburn - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Accrington Stanley - FA Cup - stod2vodasport
@@ -234,6 +242,22 @@ UID:2025-01-11T13:55:00/Leicester - QPR
 DESCRIPTION:Leicester - QPR - FA Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Udinese - Atalanta - Serie A - Ítalski boltinn - livey
+DTSTART:20250111T140000
+DTEND:20250111T150000
+DTSTAMP:20250111T140000Z
+UID:2025-01-11T14:00:00/Udinese - Atalanta
+DESCRIPTION:Udinese - Atalanta - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empoli - Lecce - Serie A - Ítalski boltinn - livey
+DTSTART:20250111T140000
+DTEND:20250111T150000
+DTSTAMP:20250111T140000Z
+UID:2025-01-11T14:00:00/Empoli - Lecce
+DESCRIPTION:Empoli - Lecce - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mainz - Bochum - Bundesliga - viaplay
 DTSTART:20250111T142000
 DTEND:20250111T152000
@@ -242,20 +266,20 @@ UID:2025-01-11T14:20:00/Mainz - Bochum
 DESCRIPTION:Mainz - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20250111T142000
-DTEND:20250111T152000
-DTSTAMP:20250111T142000Z
-UID:2025-01-11T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heidenheim - Union Berlin - Bundesliga - viaplay
 DTSTART:20250111T142000
 DTEND:20250111T152000
 DTSTAMP:20250111T142000Z
 UID:2025-01-11T14:20:00/Heidenheim - Union Berlin
 DESCRIPTION:Heidenheim - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250111T142000
+DTEND:20250111T152000
+DTSTAMP:20250111T142000Z
+UID:2025-01-11T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freiburg - Holstein Kiel - Bundesliga - viaplay
@@ -282,7 +306,23 @@ UID:2025-01-11T14:25:00/Hoffenheim - Wolfsburg
 DESCRIPTION:Hoffenheim - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Morecambe - FA Cup - viaplay
+SUMMARY:Bournemouth - West Brom - FA Cup - viaplay
+DTSTART:20250111T145500
+DTEND:20250111T155500
+DTSTAMP:20250111T145500Z
+UID:2025-01-11T14:55:00/Bournemouth - West Brom
+DESCRIPTION:Bournemouth - West Brom - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preston - Charlton - FA Cup - viaplay
+DTSTART:20250111T145500
+DTEND:20250111T155500
+DTSTAMP:20250111T145500Z
+UID:2025-01-11T14:55:00/Preston - Charlton
+DESCRIPTION:Preston - Charlton - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Morecambe - FA Cup - stod2vodasport
 DTSTART:20250111T145500
 DTEND:20250111T155500
 DTSTAMP:20250111T145500Z
@@ -296,30 +336,6 @@ DTEND:20250111T155500
 DTSTAMP:20250111T145500Z
 UID:2025-01-11T14:55:00/Exeter - Oxford
 DESCRIPTION:Exeter - Oxford - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preston - Charlton - FA Cup - viaplay
-DTSTART:20250111T145500
-DTEND:20250111T155500
-DTSTAMP:20250111T145500Z
-UID:2025-01-11T14:55:00/Preston - Charlton
-DESCRIPTION:Preston - Charlton - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bournemouth - West Brom - FA Cup - viaplay
-DTSTART:20250111T145500
-DTEND:20250111T155500
-DTSTAMP:20250111T145500Z
-UID:2025-01-11T14:55:00/Bournemouth - West Brom
-DESCRIPTION:Bournemouth - West Brom - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading - Burnley - FA Cup - viaplay
-DTSTART:20250111T145500
-DTEND:20250111T155500
-DTSTAMP:20250111T145500Z
-UID:2025-01-11T14:55:00/Reading - Burnley
-DESCRIPTION:Reading - Burnley - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Stoke - FA Cup - viaplay
@@ -354,12 +370,20 @@ UID:2025-01-11T14:55:00/Norwich - Brighton
 DESCRIPTION:Norwich - Brighton - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Morecambe - FA Cup - stod2vodasport
+SUMMARY:Chelsea - Morecambe - FA Cup - viaplay
 DTSTART:20250111T145500
 DTEND:20250111T155500
 DTSTAMP:20250111T145500Z
 UID:2025-01-11T14:55:00/Chelsea - Morecambe
 DESCRIPTION:Chelsea - Morecambe - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading - Burnley - FA Cup - viaplay
+DTSTART:20250111T145500
+DTEND:20250111T155500
+DTSTAMP:20250111T145500Z
+UID:2025-01-11T14:55:00/Reading - Burnley
+DESCRIPTION:Reading - Burnley - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valladolid - Real Betis - LaLiga - Spænski boltinn - livey
@@ -370,11 +394,27 @@ UID:2025-01-11T15:15:00/Valladolid - Real Betis
 DESCRIPTION:Valladolid - Real Betis - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brest - Lyon - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250111T160000
+DTEND:20250111T170000
+DTSTAMP:20250111T160000Z
+UID:2025-01-11T16:00:00/Brest - Lyon
+DESCRIPTION:Brest - Lyon - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Torino - Juventus - Serie A - Ítalski boltinn - sjonvarpsimans
 DTSTART:20250111T165500
 DTEND:20250111T175500
 DTSTAMP:20250111T165500Z
 UID:2025-01-11T16:55:00/Torino - Juventus
+DESCRIPTION:Torino - Juventus - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Torino - Juventus - Serie A - Ítalski boltinn - livey
+DTSTART:20250111T170000
+DTEND:20250111T180000
+DTSTAMP:20250111T170000Z
+UID:2025-01-11T17:00:00/Torino - Juventus
 DESCRIPTION:Torino - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
@@ -418,20 +458,20 @@ UID:2025-01-11T17:40:00/Leeds - Harrogate
 DESCRIPTION:Leeds - Harrogate - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mansfield - Wigan - FA Cup - viaplay
-DTSTART:20250111T175500
-DTEND:20250111T185500
-DTSTAMP:20250111T175500Z
-UID:2025-01-11T17:55:00/Mansfield - Wigan
-DESCRIPTION:Mansfield - Wigan - FA Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coventry - Sheffield Wednesday - FA Cup - viaplay
 DTSTART:20250111T175500
 DTEND:20250111T185500
 DTSTAMP:20250111T175500Z
 UID:2025-01-11T17:55:00/Coventry - Sheffield Wednesday
 DESCRIPTION:Coventry - Sheffield Wednesday - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mansfield - Wigan - FA Cup - viaplay
+DTSTART:20250111T175500
+DTEND:20250111T185500
+DTSTAMP:20250111T175500Z
+UID:2025-01-11T17:55:00/Mansfield - Wigan
+DESCRIPTION:Mansfield - Wigan - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leyton Orient - Derby - FA Cup - viaplay
@@ -442,12 +482,44 @@ UID:2025-01-11T17:55:00/Leyton Orient - Derby
 DESCRIPTION:Leyton Orient - Derby - FA Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Reims - Nice - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250111T180000
+DTEND:20250111T190000
+DTSTAMP:20250111T180000Z
+UID:2025-01-11T18:00:00/Reims - Nice
+DESCRIPTION:Reims - Nice - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AC Milan - Cagliari - Serie A - Ítalski boltinn - livey
+DTSTART:20250111T194500
+DTEND:20250111T204500
+DTSTAMP:20250111T194500Z
+UID:2025-01-11T19:45:00/AC Milan - Cagliari
+DESCRIPTION:AC Milan - Cagliari - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sevilla - Valencia - LaLiga - Spænski boltinn - livey
 DTSTART:20250111T200000
 DTEND:20250111T210000
 DTSTAMP:20250111T200000Z
 UID:2025-01-11T20:00:00/Sevilla - Valencia
 DESCRIPTION:Sevilla - Valencia - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rennes - Marseille - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250111T200000
+DTEND:20250111T210000
+DTSTAMP:20250111T200000Z
+UID:2025-01-11T20:00:00/Rennes - Marseille
+DESCRIPTION:Rennes - Marseille - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genoa - Parma - Serie A - Ítalski boltinn - livey
+DTSTART:20250112T113000
+DTEND:20250112T123000
+DTSTAMP:20250112T113000Z
+UID:2025-01-12T11:30:00/Genoa - Parma
+DESCRIPTION:Genoa - Parma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hull - Doncaster - FA Cup - viaplay
@@ -458,7 +530,7 @@ UID:2025-01-12T11:55:00/Hull - Doncaster
 DESCRIPTION:Hull - Doncaster - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tamworth - Tottenham - FA Cup - stod2vodasport
+SUMMARY:Tamworth - Tottenham - FA Cup - viaplay
 DTSTART:20250112T122500
 DTEND:20250112T132500
 DTSTAMP:20250112T122500Z
@@ -466,7 +538,7 @@ UID:2025-01-12T12:25:00/Tamworth - Tottenham
 DESCRIPTION:Tamworth - Tottenham - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tamworth - Tottenham - FA Cup - viaplay
+SUMMARY:Tamworth - Tottenham - FA Cup - stod2vodasport
 DTSTART:20250112T122500
 DTEND:20250112T132500
 DTSTAMP:20250112T122500Z
@@ -480,6 +552,22 @@ DTEND:20250112T140000
 DTSTAMP:20250112T130000Z
 UID:2025-01-12T13:00:00/Las Palmas - Getafe
 DESCRIPTION:Las Palmas - Getafe - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venezia - Inter Milan - Serie A - Ítalski boltinn - livey
+DTSTART:20250112T140000
+DTEND:20250112T150000
+DTSTAMP:20250112T140000Z
+UID:2025-01-12T14:00:00/Venezia - Inter Milan
+DESCRIPTION:Venezia - Inter Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Havre - Lens - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250112T140000
+DTEND:20250112T150000
+DTSTAMP:20250112T140000Z
+UID:2025-01-12T14:00:00/Le Havre - Lens
+DESCRIPTION:Le Havre - Lens - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Werder Bremen - Bundesliga - viaplay
@@ -546,6 +634,22 @@ UID:2025-01-12T15:15:00/Atletico Madrid - Osasuna
 DESCRIPTION:Atletico Madrid - Osasuna - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Toulouse - RC Strasbourg - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250112T161500
+DTEND:20250112T171500
+DTSTAMP:20250112T161500Z
+UID:2025-01-12T16:15:00/Toulouse - RC Strasbourg
+DESCRIPTION:Toulouse - RC Strasbourg - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montpellier - Angers - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250112T161500
+DTEND:20250112T171500
+DTSTAMP:20250112T161500Z
+UID:2025-01-12T16:15:00/Montpellier - Angers
+DESCRIPTION:Montpellier - Angers - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Augsburg - Stuttgart - Bundesliga - viaplay
 DTSTART:20250112T162000
 DTEND:20250112T172000
@@ -560,6 +664,30 @@ DTEND:20250112T172500
 DTSTAMP:20250112T162500Z
 UID:2025-01-12T16:25:00/Southampton - Swansea
 DESCRIPTION:Southampton - Swansea - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bologna - Roma - Serie A - Ítalski boltinn - livey
+DTSTART:20250112T170000
+DTEND:20250112T180000
+DTSTAMP:20250112T170000Z
+UID:2025-01-12T17:00:00/Bologna - Roma
+DESCRIPTION:Bologna - Roma - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - St-Étienne - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250112T194500
+DTEND:20250112T204500
+DTSTAMP:20250112T194500Z
+UID:2025-01-12T19:45:00/PSG - St-Étienne
+DESCRIPTION:PSG - St-Étienne - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli - Hellas Verona - Serie A - Ítalski boltinn - livey
+DTSTART:20250112T194500
+DTEND:20250112T204500
+DTSTAMP:20250112T194500Z
+UID:2025-01-12T19:45:00/Napoli - Hellas Verona
+DESCRIPTION:Napoli - Hellas Verona - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Millwall - Dag & Red - FA Cup - viaplay
@@ -578,11 +706,148 @@ UID:2025-01-13T19:25:00/Millwall - Dagenham
 DESCRIPTION:Millwall - Dagenham - FA Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: Monza - Fiorentina - Serie A - Ítalski boltinn - siminnsport
+DTSTART:20250113T194000
+DTEND:20250113T204000
+DTSTAMP:20250113T194000Z
+UID:2025-01-13T19:40:00/ Monza - Fiorentina
+DESCRIPTION: Monza - Fiorentina - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monza - Fiorentina - Serie A - Ítalski boltinn - livey
+DTSTART:20250113T194500
+DTEND:20250113T204500
+DTSTAMP:20250113T194500Z
+UID:2025-01-13T19:45:00/Monza - Fiorentina
+DESCRIPTION:Monza - Fiorentina - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Socieadad - Villarreal - LaLiga - Spænski boltinn - sjonvarp
+ simans
+DTSTART:20250113T195500
+DTEND:20250113T205500
+DTSTAMP:20250113T195500Z
+UID:2025-01-13T19:55:00/Real Socieadad - Villarreal
+DESCRIPTION:Real Socieadad - Villarreal - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Real Sociedad - Villareal - LaLiga - Spænski boltinn - livey
 DTSTART:20250113T200000
 DTEND:20250113T210000
 DTSTAMP:20250113T200000Z
 UID:2025-01-13T20:00:00/Real Sociedad - Villareal
 DESCRIPTION:Real Sociedad - Villareal - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kiel - Dortmund - Bundesliga - stod2vodasport
+DTSTART:20250114T172500
+DTEND:20250114T182500
+DTSTAMP:20250114T172500Z
+UID:2025-01-14T17:25:00/Kiel - Dortmund
+DESCRIPTION:Kiel - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Borussia Dortmund - Bundesliga - viaplay
+DTSTART:20250114T172500
+DTEND:20250114T182500
+DTSTAMP:20250114T172500Z
+UID:2025-01-14T17:25:00/Holstein Kiel - Borussia Dortmund
+DESCRIPTION:Holstein Kiel - Borussia Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como - AC Milan - Serie A - Ítalski boltinn - livey
+DTSTART:20250114T173000
+DTEND:20250114T183000
+DTSTAMP:20250114T173000Z
+UID:2025-01-14T17:30:00/Como - AC Milan
+DESCRIPTION:Como - AC Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford - Man. City - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Brentford - Man. City
+DESCRIPTION:Brentford - Man. City - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Mainz - Bundesliga - viaplay
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Leverkusen - Mainz
+DESCRIPTION:Leverkusen - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eintracht Frankfurt - Freiburg - Bundesliga - viaplay
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Eintracht Frankfurt - Freiburg
+DESCRIPTION:Eintracht Frankfurt - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Fulham - Enska úrvalsdeildin - siminnsport4
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/West Ham - Fulham
+DESCRIPTION:West Ham - Fulham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Bournemouth - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Chelsea - Bournemouth
+DESCRIPTION:Chelsea - Bournemouth - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Wolfsburg - Mönchengladbach
+DESCRIPTION:Wolfsburg - Mönchengladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Mainz 05 - Bundesliga - stod2vodasport
+DTSTART:20250114T192500
+DTEND:20250114T202500
+DTSTAMP:20250114T192500Z
+UID:2025-01-14T19:25:00/Leverkusen - Mainz 05
+DESCRIPTION:Leverkusen - Mainz 05 - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest - Liverpool - Enska úrvalsdeildin - siminnsport
+DTSTART:20250114T193000
+DTEND:20250114T203000
+DTSTAMP:20250114T193000Z
+UID:2025-01-14T19:30:00/Nottingham Forest - Liverpool
+DESCRIPTION:Nottingham Forest - Liverpool - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atalanta - Juventus - Serie A - Ítalski boltinn - livey
+DTSTART:20250114T194500
+DTEND:20250114T204500
+DTSTAMP:20250114T194500Z
+UID:2025-01-14T19:45:00/Atalanta - Juventus
+DESCRIPTION:Atalanta - Juventus - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dundee - Celtic - Scottish Premiership - viaplay
+DTSTART:20250114T195500
+DTEND:20250114T205500
+DTSTAMP:20250114T195500Z
+UID:2025-01-14T19:55:00/Dundee - Celtic
+DESCRIPTION:Dundee - Celtic - Scottish Premiership
 END:VEVENT
 END:VCALENDAR
