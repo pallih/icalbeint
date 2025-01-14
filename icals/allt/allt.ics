@@ -2,87 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - allt - ical
 BEGIN:VEVENT
-SUMMARY:Vegas - Minnesota - NHL - viaplay
-DTSTART:20250113T010500
-DTEND:20250113T020500
-DTSTAMP:20250113T010500Z
-UID:2025-01-13T01:05:00/Vegas - Minnesota
-DESCRIPTION:Vegas - Minnesota - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL On The Fly - NHL - viaplay
-DTSTART:20250113T123000
-DTEND:20250113T133000
-DTSTAMP:20250113T123000Z
-UID:2025-01-13T12:30:00/NHL On The Fly
-DESCRIPTION:NHL On The Fly - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Millwall - Dagenham - FA Cup - stod2vodasport
-DTSTART:20250113T192500
-DTEND:20250113T202500
-DTSTAMP:20250113T192500Z
-UID:2025-01-13T19:25:00/Millwall - Dagenham
-DESCRIPTION:Millwall - Dagenham - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Millwall - Dag & Red - FA Cup - viaplay
-DTSTART:20250113T192500
-DTEND:20250113T202500
-DTSTAMP:20250113T192500Z
-UID:2025-01-13T19:25:00/Millwall - Dag & Red
-DESCRIPTION:Millwall - Dag & Red - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Monza - Fiorentina - Serie A - Ítalski boltinn - siminnsport
-DTSTART:20250113T194000
-DTEND:20250113T204000
-DTSTAMP:20250113T194000Z
-UID:2025-01-13T19:40:00/ Monza - Fiorentina
-DESCRIPTION: Monza - Fiorentina - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monza - Fiorentina - Serie A - Ítalski boltinn - livey
-DTSTART:20250113T194500
-DTEND:20250113T204500
-DTSTAMP:20250113T194500Z
-UID:2025-01-13T19:45:00/Monza - Fiorentina
-DESCRIPTION:Monza - Fiorentina - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Socieadad - Villarreal - LaLiga - Spænski boltinn - sjonvarp
- simans
-DTSTART:20250113T195500
-DTEND:20250113T205500
-DTSTAMP:20250113T195500Z
-UID:2025-01-13T19:55:00/Real Socieadad - Villarreal
-DESCRIPTION:Real Socieadad - Villarreal - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Sociedad - Villareal - LaLiga - Spænski boltinn - livey
-DTSTART:20250113T200000
-DTEND:20250113T210000
-DTSTAMP:20250113T200000Z
-UID:2025-01-13T20:00:00/Real Sociedad - Villareal
-DESCRIPTION:Real Sociedad - Villareal - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lögmál leiksins - NBA - stod2sport2
-DTSTART:20250113T200000
-DTEND:20250113T210000
-DTSTAMP:20250113T200000Z
-UID:2025-01-13T20:00:00/Lögmál leiksins
-DESCRIPTION:Lögmál leiksins - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flyers - Panthers - NHL - stod2vodasport
-DTSTART:20250114T000500
-DTEND:20250114T010500
-DTSTAMP:20250114T000500Z
-UID:2025-01-14T00:05:00/Flyers - Panthers
-DESCRIPTION:Flyers - Panthers - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Philadelphia - Florida - NHL - viaplay
 DTSTART:20250114T000500
 DTEND:20250114T010500
@@ -97,14 +16,6 @@ DTEND:20250114T013500
 DTSTAMP:20250114T003500Z
 UID:2025-01-14T00:35:00/Chicago - Calgary
 DESCRIPTION:Chicago - Calgary - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rams - Vikings - NFL - stod2sport2
-DTSTART:20250114T012000
-DTEND:20250114T022000
-DTSTAMP:20250114T012000Z
-UID:2025-01-14T01:20:00/Rams - Vikings
-DESCRIPTION:Rams - Vikings - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton - Los Angeles - NHL - viaplay
@@ -131,12 +42,12 @@ UID:2025-01-14T17:00:00/Frakkland - Katar
 DESCRIPTION:Frakkland - Katar - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Borussia Dortmund - Bundesliga - viaplay
+SUMMARY:Holstein Kiel - Dortmund - Bundesliga - viaplay
 DTSTART:20250114T172000
 DTEND:20250114T182000
 DTSTAMP:20250114T172000Z
-UID:2025-01-14T17:20:00/Holstein Kiel - Borussia Dortmund
-DESCRIPTION:Holstein Kiel - Borussia Dortmund - Bundesliga
+UID:2025-01-14T17:20:00/Holstein Kiel - Dortmund
+DESCRIPTION:Holstein Kiel - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kiel - Dortmund - Bundesliga - stod2vodasport
@@ -163,6 +74,14 @@ UID:2025-01-14T19:05:00/Keflavík - Grindavík
 DESCRIPTION:Keflavík - Grindavík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hamar/Þór - Stjarnan - Bónus deild kvenna - stod2besta01
+DTSTART:20250114T191000
+DTEND:20250114T201000
+DTSTAMP:20250114T191000Z
+UID:2025-01-14T19:10:00/Hamar/Þór - Stjarnan
+DESCRIPTION:Hamar/Þór - Stjarnan - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Haukar - Valur - Bónus deild kvenna - stod2besta03
 DTSTART:20250114T191000
 DTEND:20250114T201000
@@ -179,54 +98,6 @@ UID:2025-01-14T19:10:00/Aþena - Njarðvík
 DESCRIPTION:Aþena - Njarðvík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamar/Þór - Stjarnan - Bónus deild kvenna - stod2besta01
-DTSTART:20250114T191000
-DTEND:20250114T201000
-DTSTAMP:20250114T191000Z
-UID:2025-01-14T19:10:00/Hamar/Þór - Stjarnan
-DESCRIPTION:Hamar/Þór - Stjarnan - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20250114T192000
-DTEND:20250114T202000
-DTSTAMP:20250114T192000Z
-UID:2025-01-14T19:20:00/Wolfsburg - Mönchengladbach
-DESCRIPTION:Wolfsburg - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eintracht Frankfurt - Freiburg - Bundesliga - viaplay
-DTSTART:20250114T192000
-DTEND:20250114T202000
-DTSTAMP:20250114T192000Z
-UID:2025-01-14T19:20:00/Eintracht Frankfurt - Freiburg
-DESCRIPTION:Eintracht Frankfurt - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leverkusen - Mainz - Bundesliga - viaplay
-DTSTART:20250114T192000
-DTEND:20250114T202000
-DTSTAMP:20250114T192000Z
-UID:2025-01-14T19:20:00/Leverkusen - Mainz
-DESCRIPTION:Leverkusen - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20250114T192000
-DTEND:20250114T202000
-DTSTAMP:20250114T192000Z
-UID:2025-01-14T19:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Ham - Fulham - Enska úrvalsdeildin - siminnsport4
-DTSTART:20250114T192000
-DTEND:20250114T202000
-DTSTAMP:20250114T192000Z
-UID:2025-01-14T19:20:00/West Ham - Fulham
-DESCRIPTION:West Ham - Fulham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brentford - Man. City - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250114T192000
 DTEND:20250114T202000
@@ -241,6 +112,46 @@ DTEND:20250114T202000
 DTSTAMP:20250114T192000Z
 UID:2025-01-14T19:20:00/Chelsea - Bournemouth
 DESCRIPTION:Chelsea - Bournemouth - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Freiburg - Bundesliga - viaplay
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Frankfurt - Freiburg
+DESCRIPTION:Frankfurt - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Wolfsburg - Mönchengladbach
+DESCRIPTION:Wolfsburg - Mönchengladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Mainz - Bundesliga - viaplay
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/Leverkusen - Mainz
+DESCRIPTION:Leverkusen - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Fulham - Enska úrvalsdeildin - siminnsport4
+DTSTART:20250114T192000
+DTEND:20250114T202000
+DTSTAMP:20250114T192000Z
+UID:2025-01-14T19:20:00/West Ham - Fulham
+DESCRIPTION:West Ham - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Mainz 05 - Bundesliga - stod2vodasport
@@ -267,12 +178,12 @@ UID:2025-01-14T19:30:00/Danmörk - Alsír
 DESCRIPTION:Danmörk - Alsír - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mansfield - Wigan - FA Cup - viaplay
+SUMMARY:Leyton Orient - Derby - FA Cup - viaplay
 DTSTART:20250114T194000
 DTEND:20250114T204000
 DTSTAMP:20250114T194000Z
-UID:2025-01-14T19:40:00/Mansfield - Wigan
-DESCRIPTION:Mansfield - Wigan - FA Cup
+UID:2025-01-14T19:40:00/Leyton Orient - Derby
+DESCRIPTION:Leyton Orient - Derby - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preston - Charlton - FA Cup - viaplay
@@ -283,12 +194,12 @@ UID:2025-01-14T19:40:00/Preston - Charlton
 DESCRIPTION:Preston - Charlton - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leyton Orient - Derby - FA Cup - viaplay
+SUMMARY:Mansfield - Wigan - FA Cup - viaplay
 DTSTART:20250114T194000
 DTEND:20250114T204000
 DTSTAMP:20250114T194000Z
-UID:2025-01-14T19:40:00/Leyton Orient - Derby
-DESCRIPTION:Leyton Orient - Derby - FA Cup
+UID:2025-01-14T19:40:00/Mansfield - Wigan
+DESCRIPTION:Mansfield - Wigan - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atalanta - Juventus - Serie A - Ítalski boltinn - livey
@@ -316,19 +227,19 @@ DESCRIPTION:Lokasóknin - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
-DTSTART:20250114T211500
-DTEND:20250114T221500
-DTSTAMP:20250114T211500Z
-UID:2025-01-14T21:15:00/Bónus deildin - Extra
+DTSTART:20250114T212000
+DTEND:20250114T222000
+DTSTAMP:20250114T212000Z
+UID:2025-01-14T21:20:00/Bónus deildin - Extra
 DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maple Leafs - Stars - NHL - stod2vodasport
+SUMMARY:Columbus - Philadelphia - NHL - viaplay
 DTSTART:20250115T000500
 DTEND:20250115T010500
 DTSTAMP:20250115T000500Z
-UID:2025-01-15T00:05:00/Maple Leafs - Stars
-DESCRIPTION:Maple Leafs - Stars - NHL
+UID:2025-01-15T00:05:00/Columbus - Philadelphia
+DESCRIPTION:Columbus - Philadelphia - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pittsburgh - Seattle - NHL - viaplay
@@ -355,12 +266,12 @@ UID:2025-01-15T00:05:00/Boston - Tampa Bay
 DESCRIPTION:Boston - Tampa Bay - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus - Philadelphia - NHL - viaplay
+SUMMARY:Maple Leafs - Stars - NHL - stod2vodasport
 DTSTART:20250115T000500
 DTEND:20250115T010500
 DTSTAMP:20250115T000500Z
-UID:2025-01-15T00:05:00/Columbus - Philadelphia
-DESCRIPTION:Columbus - Philadelphia - NHL
+UID:2025-01-15T00:05:00/Maple Leafs - Stars
+DESCRIPTION:Maple Leafs - Stars - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Washington - Anaheim - NHL - viaplay
@@ -395,12 +306,12 @@ UID:2025-01-15T00:35:00/New Jersey - Florida
 DESCRIPTION:New Jersey - Florida - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis - Calgary - NHL - viaplay
+SUMMARY:Winnipeg - Vancouver - NHL - viaplay
 DTSTART:20250115T010500
 DTEND:20250115T020500
 DTSTAMP:20250115T010500Z
-UID:2025-01-15T01:05:00/St. Louis - Calgary
-DESCRIPTION:St. Louis - Calgary - NHL
+UID:2025-01-15T01:05:00/Winnipeg - Vancouver
+DESCRIPTION:Winnipeg - Vancouver - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville - Vegas - NHL - viaplay
@@ -411,20 +322,12 @@ UID:2025-01-15T01:05:00/Nashville - Vegas
 DESCRIPTION:Nashville - Vegas - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winnipeg - Vancouver - NHL - viaplay
+SUMMARY:St. Louis - Calgary - NHL - viaplay
 DTSTART:20250115T010500
 DTEND:20250115T020500
 DTSTAMP:20250115T010500Z
-UID:2025-01-15T01:05:00/Winnipeg - Vancouver
-DESCRIPTION:Winnipeg - Vancouver - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colorado - NY Rangers - NHL - viaplay
-DTSTART:20250115T020500
-DTEND:20250115T030500
-DTSTAMP:20250115T020500Z
-UID:2025-01-15T02:05:00/Colorado - NY Rangers
-DESCRIPTION:Colorado - NY Rangers - NHL
+UID:2025-01-15T01:05:00/St. Louis - Calgary
+DESCRIPTION:St. Louis - Calgary - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Utah - Montreal - NHL - viaplay
@@ -433,6 +336,14 @@ DTEND:20250115T030500
 DTSTAMP:20250115T020500Z
 UID:2025-01-15T02:05:00/Utah - Montreal
 DESCRIPTION:Utah - Montreal - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado - NY Rangers - NHL - viaplay
+DTSTART:20250115T020500
+DTEND:20250115T030500
+DTSTAMP:20250115T020500Z
+UID:2025-01-15T02:05:00/Colorado - NY Rangers
+DESCRIPTION:Colorado - NY Rangers - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL On The Fly - NHL - viaplay
@@ -475,44 +386,12 @@ UID:2025-01-15T19:05:00/Tindastóll - Þór Ak.
 DESCRIPTION:Tindastóll - Þór Ak. - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Heidenheim - Bundesliga - viaplay
+SUMMARY:Stuttgart - Leipzig - Bundesliga - viaplay
 DTSTART:20250115T192000
 DTEND:20250115T202000
 DTSTAMP:20250115T192000Z
-UID:2025-01-15T19:20:00/Werder Bremen - Heidenheim
-DESCRIPTION:Werder Bremen - Heidenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Augsburg - Bundesliga - viaplay
-DTSTART:20250115T192000
-DTEND:20250115T202000
-DTSTAMP:20250115T192000Z
-UID:2025-01-15T19:20:00/Union Berlin - Augsburg
-DESCRIPTION:Union Berlin - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Newcastle - Wolves - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250115T192000
-DTEND:20250115T202000
-DTSTAMP:20250115T192000Z
-UID:2025-01-15T19:20:00/Newcastle - Wolves
-DESCRIPTION:Newcastle - Wolves - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - Aston Villa - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250115T192000
-DTEND:20250115T202000
-DTSTAMP:20250115T192000Z
-UID:2025-01-15T19:20:00/Everton - Aston Villa
-DESCRIPTION:Everton - Aston Villa - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leicester  - Crystal Palace - Enska úrvalsdeildin - siminnsport4
-DTSTART:20250115T192000
-DTEND:20250115T202000
-DTSTAMP:20250115T192000Z
-UID:2025-01-15T19:20:00/Leicester  - Crystal Palace
-DESCRIPTION:Leicester  - Crystal Palace - Enska úrvalsdeildin
+UID:2025-01-15T19:20:00/Stuttgart - Leipzig
+DESCRIPTION:Stuttgart - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Hoffenheim - Bundesliga - viaplay
@@ -523,12 +402,20 @@ UID:2025-01-15T19:20:00/Bayern München - Hoffenheim
 DESCRIPTION:Bayern München - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stuttgart - Leipzig - Bundesliga - viaplay
+SUMMARY:Union Berlin - Augsburg - Bundesliga - viaplay
 DTSTART:20250115T192000
 DTEND:20250115T202000
 DTSTAMP:20250115T192000Z
-UID:2025-01-15T19:20:00/Stuttgart - Leipzig
-DESCRIPTION:Stuttgart - Leipzig - Bundesliga
+UID:2025-01-15T19:20:00/Union Berlin - Augsburg
+DESCRIPTION:Union Berlin - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Heidenheim - Bundesliga - viaplay
+DTSTART:20250115T192000
+DTEND:20250115T202000
+DTSTAMP:20250115T192000Z
+UID:2025-01-15T19:20:00/Werder Bremen - Heidenheim
+DESCRIPTION:Werder Bremen - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Valur - Olís deild kvenna - sjonvarpsimans
@@ -547,6 +434,30 @@ UID:2025-01-15T19:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leicester  - Crystal Palace - Enska úrvalsdeildin - siminnsport4
+DTSTART:20250115T192000
+DTEND:20250115T202000
+DTSTAMP:20250115T192000Z
+UID:2025-01-15T19:20:00/Leicester  - Crystal Palace
+DESCRIPTION:Leicester  - Crystal Palace - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Aston Villa - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250115T192000
+DTEND:20250115T202000
+DTSTAMP:20250115T192000Z
+UID:2025-01-15T19:20:00/Everton - Aston Villa
+DESCRIPTION:Everton - Aston Villa - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Wolves - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250115T192000
+DTEND:20250115T202000
+DTSTAMP:20250115T192000Z
+UID:2025-01-15T19:20:00/Newcastle - Wolves
+DESCRIPTION:Newcastle - Wolves - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayern München - Hoffenheim - Bundesliga - stod2vodasport
 DTSTART:20250115T192500
 DTEND:20250115T202500
@@ -555,12 +466,12 @@ UID:2025-01-15T19:25:00/Bayern München - Hoffenheim
 DESCRIPTION:Bayern München - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Tottenham - Enska úrvalsdeildin - siminnsport
+SUMMARY:Króatía - Barein - HM karla í handbolta - ruv2
 DTSTART:20250115T193000
 DTEND:20250115T203000
 DTSTAMP:20250115T193000Z
-UID:2025-01-15T19:30:00/Arsenal - Tottenham
-DESCRIPTION:Arsenal - Tottenham - Enska úrvalsdeildin
+UID:2025-01-15T19:30:00/Króatía - Barein
+DESCRIPTION:Króatía - Barein - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Valur - Olís deild kvenna - hsi1
@@ -571,12 +482,12 @@ UID:2025-01-15T19:30:00/Haukar - Valur
 DESCRIPTION:Haukar - Valur - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Króatía - Barein - HM karla í handbolta - ruv2
+SUMMARY:Arsenal - Tottenham - Enska úrvalsdeildin - siminnsport
 DTSTART:20250115T193000
 DTEND:20250115T203000
 DTSTAMP:20250115T193000Z
-UID:2025-01-15T19:30:00/Króatía - Barein
-DESCRIPTION:Króatía - Barein - HM karla í handbolta
+UID:2025-01-15T19:30:00/Arsenal - Tottenham
+DESCRIPTION:Arsenal - Tottenham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Milan - Bologna - Serie A - Ítalski boltinn - livey
@@ -603,20 +514,20 @@ UID:2025-01-15T21:00:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buffalo - Carolina - NHL - viaplay
-DTSTART:20250115T230500
-DTEND:20250116T000500
-DTSTAMP:20250115T230500Z
-UID:2025-01-15T23:05:00/Buffalo - Carolina
-DESCRIPTION:Buffalo - Carolina - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sabres - Hurricanes - NHL - stod2vodasport
 DTSTART:20250115T230500
 DTEND:20250116T000500
 DTSTAMP:20250115T230500Z
 UID:2025-01-15T23:05:00/Sabres - Hurricanes
 DESCRIPTION:Sabres - Hurricanes - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo - Carolina - NHL - viaplay
+DTSTART:20250115T230500
+DTEND:20250116T000500
+DTSTAMP:20250115T230500Z
+UID:2025-01-15T23:05:00/Buffalo - Carolina
+DESCRIPTION:Buffalo - Carolina - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota - Edmonton - NHL - viaplay
@@ -659,14 +570,6 @@ UID:2025-01-16T16:55:00/Al Ittihad - Al Raed
 DESCRIPTION:Al Ittihad - Al Raed - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slóvenía - Kúba - HM karla í handbolta - ruv
-DTSTART:20250116T170000
-DTEND:20250116T180000
-DTSTAMP:20250116T170000Z
-UID:2025-01-16T17:00:00/Slóvenía - Kúba
-DESCRIPTION:Slóvenía - Kúba - HM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Al Lttihad - Al Raed - Saudi Pro League - stod2vodasport
 DTSTART:20250116T170000
 DTEND:20250116T180000
@@ -681,6 +584,14 @@ DTEND:20250116T180000
 DTSTAMP:20250116T170000Z
 UID:2025-01-16T17:00:00/Bahrain Darts Masters
 DESCRIPTION:Bahrain Darts Masters - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slóvenía - Kúba - HM karla í handbolta - ruv
+DTSTART:20250116T170000
+DTEND:20250116T180000
+DTSTAMP:20250116T170000Z
+UID:2025-01-16T17:00:00/Slóvenía - Kúba
+DESCRIPTION:Slóvenía - Kúba - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Stjarnan - Bónus deild karla - stod2sport5
@@ -739,20 +650,20 @@ UID:2025-01-16T19:20:00/Ipswich - Brighton
 DESCRIPTION:Ipswich - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ísland - Grænhöfðaeyjar - HM karla í handbolta - ruv
-DTSTART:20250116T193000
-DTEND:20250116T203000
-DTSTAMP:20250116T193000Z
-UID:2025-01-16T19:30:00/Ísland - Grænhöfðaeyjar
-DESCRIPTION:Ísland - Grænhöfðaeyjar - HM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. Utd. - Southampton - Enska úrvalsdeildin - siminnsport
 DTSTART:20250116T193000
 DTEND:20250116T203000
 DTSTAMP:20250116T193000Z
 UID:2025-01-16T19:30:00/Man. Utd. - Southampton
 DESCRIPTION:Man. Utd. - Southampton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísland - Grænhöfðaeyjar - HM karla í handbolta - ruv
+DTSTART:20250116T193000
+DTEND:20250116T203000
+DTSTAMP:20250116T193000Z
+UID:2025-01-16T19:30:00/Ísland - Grænhöfðaeyjar
+DESCRIPTION:Ísland - Grænhöfðaeyjar - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shrewsbury - Wrexham - League One - viaplay
@@ -787,12 +698,36 @@ UID:2025-01-16T21:10:00/Tilþrifin
 DESCRIPTION:Tilþrifin - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Maple Leafs - Devils - NHL - stod2vodasport
+DTSTART:20250117T000500
+DTEND:20250117T010500
+DTSTAMP:20250117T000500Z
+UID:2025-01-17T00:05:00/Maple Leafs - Devils
+DESCRIPTION:Maple Leafs - Devils - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Toronto - New Jersey - NHL - viaplay
 DTSTART:20250117T000500
 DTEND:20250117T010500
 DTSTAMP:20250117T000500Z
 UID:2025-01-17T00:05:00/Toronto - New Jersey
 DESCRIPTION:Toronto - New Jersey - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ottawa - Washington - NHL - viaplay
+DTSTART:20250117T000500
+DTEND:20250117T010500
+DTSTAMP:20250117T000500Z
+UID:2025-01-17T00:05:00/Ottawa - Washington
+DESCRIPTION:Ottawa - Washington - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay - Anaheim - NHL - viaplay
+DTSTART:20250117T000500
+DTEND:20250117T010500
+DTSTAMP:20250117T000500Z
+UID:2025-01-17T00:05:00/Tampa Bay - Anaheim
+DESCRIPTION:Tampa Bay - Anaheim - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Florida - Detroit - NHL - viaplay
@@ -811,44 +746,12 @@ UID:2025-01-17T00:05:00/Columbus - San Jose
 DESCRIPTION:Columbus - San Jose - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tampa Bay - Anaheim - NHL - viaplay
-DTSTART:20250117T000500
-DTEND:20250117T010500
-DTSTAMP:20250117T000500Z
-UID:2025-01-17T00:05:00/Tampa Bay - Anaheim
-DESCRIPTION:Tampa Bay - Anaheim - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ottawa - Washington - NHL - viaplay
-DTSTART:20250117T000500
-DTEND:20250117T010500
-DTSTAMP:20250117T000500Z
-UID:2025-01-17T00:05:00/Ottawa - Washington
-DESCRIPTION:Ottawa - Washington - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maple Leafs - Devils - NHL - stod2vodasport
-DTSTART:20250117T000500
-DTEND:20250117T010500
-DTSTAMP:20250117T000500Z
-UID:2025-01-17T00:05:00/Maple Leafs - Devils
-DESCRIPTION:Maple Leafs - Devils - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NY Islanders - Philadelphia - NHL - viaplay
 DTSTART:20250117T003500
 DTEND:20250117T013500
 DTSTAMP:20250117T003500Z
 UID:2025-01-17T00:35:00/NY Islanders - Philadelphia
 DESCRIPTION:NY Islanders - Philadelphia - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dallas - Montreal - NHL - viaplay
-DTSTART:20250117T010500
-DTEND:20250117T020500
-DTSTAMP:20250117T010500Z
-UID:2025-01-17T01:05:00/Dallas - Montreal
-DESCRIPTION:Dallas - Montreal - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville - Chicago - NHL - viaplay
@@ -859,20 +762,28 @@ UID:2025-01-17T01:05:00/Nashville - Chicago
 DESCRIPTION:Nashville - Chicago - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis - Calgary - NHL - viaplay
-DTSTART:20250117T010500
-DTEND:20250117T020500
-DTSTAMP:20250117T010500Z
-UID:2025-01-17T01:05:00/St. Louis - Calgary
-DESCRIPTION:St. Louis - Calgary - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winnipeg - Seattle - NHL - viaplay
 DTSTART:20250117T010500
 DTEND:20250117T020500
 DTSTAMP:20250117T010500Z
 UID:2025-01-17T01:05:00/Winnipeg - Seattle
 DESCRIPTION:Winnipeg - Seattle - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas - Montreal - NHL - viaplay
+DTSTART:20250117T010500
+DTEND:20250117T020500
+DTSTAMP:20250117T010500Z
+UID:2025-01-17T01:05:00/Dallas - Montreal
+DESCRIPTION:Dallas - Montreal - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis - Calgary - NHL - viaplay
+DTSTART:20250117T010500
+DTEND:20250117T020500
+DTSTAMP:20250117T010500Z
+UID:2025-01-17T01:05:00/St. Louis - Calgary
+DESCRIPTION:St. Louis - Calgary - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Utah  - NY Rangers - NHL - viaplay
@@ -907,7 +818,7 @@ UID:2025-01-17T16:00:00/Bahrain Darts Masters
 DESCRIPTION:Bahrain Darts Masters - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Al Taawoun - Al Nassr - Saudi Pro League - stod2vodasport
+SUMMARY:Al Taawoun - Al Nassr - Saudi Pro League - viaplay
 DTSTART:20250117T165500
 DTEND:20250117T175500
 DTSTAMP:20250117T165500Z
@@ -915,7 +826,7 @@ UID:2025-01-17T16:55:00/Al Taawoun - Al Nassr
 DESCRIPTION:Al Taawoun - Al Nassr - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Al Taawoun - Al Nassr - Saudi Pro League - viaplay
+SUMMARY:Al Taawoun - Al Nassr - Saudi Pro League - stod2vodasport
 DTSTART:20250117T165500
 DTEND:20250117T175500
 DTSTAMP:20250117T165500Z
@@ -931,20 +842,20 @@ UID:2025-01-17T17:00:00/Barein - Egyptaland
 DESCRIPTION:Barein - Egyptaland - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20250117T172500
-DTEND:20250117T182500
-DTSTAMP:20250117T172500Z
-UID:2025-01-17T17:25:00/Düsseldorf - Darmstadt
-DESCRIPTION:Düsseldorf - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jahn Regensburg - Hannover - 2. Bundesliga - viaplay
 DTSTART:20250117T172500
 DTEND:20250117T182500
 DTSTAMP:20250117T172500Z
 UID:2025-01-17T17:25:00/Jahn Regensburg - Hannover
 DESCRIPTION:Jahn Regensburg - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20250117T172500
+DTEND:20250117T182500
+DTSTAMP:20250117T172500Z
+UID:2025-01-17T17:25:00/Düsseldorf - Darmstadt
+DESCRIPTION:Düsseldorf - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Tindastóll - Bónus deild karla - stod2sport
@@ -963,20 +874,20 @@ UID:2025-01-17T19:20:00/Frankfurt - Dortmund
 DESCRIPTION:Frankfurt - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - ÍR - Olís deild kvenna - hsi1
-DTSTART:20250117T193000
-DTEND:20250117T203000
-DTSTAMP:20250117T193000Z
-UID:2025-01-17T19:30:00/Fram - ÍR
-DESCRIPTION:Fram - ÍR - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sviss - Þýskaland - HM karla í handbolta - ruv2
 DTSTART:20250117T193000
 DTEND:20250117T203000
 DTSTAMP:20250117T193000Z
 UID:2025-01-17T19:30:00/Sviss - Þýskaland
 DESCRIPTION:Sviss - Þýskaland - HM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - ÍR - Olís deild kvenna - hsi1
+DTSTART:20250117T193000
+DTEND:20250117T203000
+DTSTAMP:20250117T193000Z
+UID:2025-01-17T19:30:00/Fram - ÍR
+DESCRIPTION:Fram - ÍR - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burnley - Sunderland - Championship - viaplay
@@ -987,20 +898,20 @@ UID:2025-01-17T19:55:00/Burnley - Sunderland
 DESCRIPTION:Burnley - Sunderland - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Sunderland - EFL Championship - stod2vodasport
-DTSTART:20250117T195500
-DTEND:20250117T205500
-DTSTAMP:20250117T195500Z
-UID:2025-01-17T19:55:00/Burnley - Sunderland
-DESCRIPTION:Burnley - Sunderland - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ulster Rugby - Exeter Chiefs - Investec Champions Cup - viaplay
 DTSTART:20250117T195500
 DTEND:20250117T205500
 DTSTAMP:20250117T195500Z
 UID:2025-01-17T19:55:00/Ulster Rugby - Exeter Chiefs
 DESCRIPTION:Ulster Rugby - Exeter Chiefs - Investec Champions Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Sunderland - EFL Championship - stod2vodasport
+DTSTART:20250117T195500
+DTEND:20250117T205500
+DTSTAMP:20250117T195500Z
+UID:2025-01-17T19:55:00/Burnley - Sunderland
+DESCRIPTION:Burnley - Sunderland - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
@@ -1035,12 +946,12 @@ UID:2025-01-18T00:05:00/Hurricanes - Knights
 DESCRIPTION:Hurricanes - Knights - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preußen Münster - Greuther Fürth - 2. Bundesliga - viaplay
+SUMMARY:Braunschweig - Schalke - 2. Bundesliga - viaplay
 DTSTART:20250118T115500
 DTEND:20250118T125500
 DTSTAMP:20250118T115500Z
-UID:2025-01-18T11:55:00/Preußen Münster - Greuther Fürth
-DESCRIPTION:Preußen Münster - Greuther Fürth - 2. Bundesliga
+UID:2025-01-18T11:55:00/Braunschweig - Schalke
+DESCRIPTION:Braunschweig - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Ulm - 2. Bundesliga - viaplay
@@ -1051,12 +962,12 @@ UID:2025-01-18T11:55:00/Kaiserslautern - Ulm
 DESCRIPTION:Kaiserslautern - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschweig - Schalke - 2. Bundesliga - viaplay
+SUMMARY:Preußen Münster - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20250118T115500
 DTEND:20250118T125500
 DTSTAMP:20250118T115500Z
-UID:2025-01-18T11:55:00/Braunschweig - Schalke
-DESCRIPTION:Braunschweig - Schalke - 2. Bundesliga
+UID:2025-01-18T11:55:00/Preußen Münster - Greuther Fürth
+DESCRIPTION:Preußen Münster - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Bournemouth - Enska úrvalsdeildin - siminnsport
@@ -1092,6 +1003,22 @@ UID:2025-01-18T12:55:00/Vodacom Bulls - Stade Français Paris
 DESCRIPTION:Vodacom Bulls - Stade Français Paris - Investec Champions Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250118T142000
+DTEND:20250118T152000
+DTSTAMP:20250118T142000Z
+UID:2025-01-18T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Hoffenheim - Bundesliga - viaplay
+DTSTART:20250118T142000
+DTEND:20250118T152000
+DTSTAMP:20250118T142000Z
+UID:2025-01-18T14:20:00/Holstein Kiel - Hoffenheim
+DESCRIPTION:Holstein Kiel - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bochum - Leipzig - Bundesliga - viaplay
 DTSTART:20250118T142000
 DTEND:20250118T152000
@@ -1108,22 +1035,6 @@ UID:2025-01-18T14:20:00/Heidenheim - St. Pauli
 DESCRIPTION:Heidenheim - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stuttgart - Freiburg - Bundesliga - viaplay
-DTSTART:20250118T142000
-DTEND:20250118T152000
-DTSTAMP:20250118T142000Z
-UID:2025-01-18T14:20:00/Stuttgart - Freiburg
-DESCRIPTION:Stuttgart - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20250118T142000
-DTEND:20250118T152000
-DTSTAMP:20250118T142000Z
-UID:2025-01-18T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Wolfsburg - Bundesliga - viaplay
 DTSTART:20250118T142000
 DTEND:20250118T152000
@@ -1132,20 +1043,12 @@ UID:2025-01-18T14:20:00/Bayern München - Wolfsburg
 DESCRIPTION:Bayern München - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Hoffenheim - Bundesliga - viaplay
+SUMMARY:Stuttgart - Freiburg - Bundesliga - viaplay
 DTSTART:20250118T142000
 DTEND:20250118T152000
 DTSTAMP:20250118T142000Z
-UID:2025-01-18T14:20:00/Holstein Kiel - Hoffenheim
-DESCRIPTION:Holstein Kiel - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Wolfsburg - Bundesliga - stod2vodasport
-DTSTART:20250118T143000
-DTEND:20250118T153000
-DTSTAMP:20250118T143000Z
-UID:2025-01-18T14:30:00/Bayern München - Wolfsburg
-DESCRIPTION:Bayern München - Wolfsburg - Bundesliga
+UID:2025-01-18T14:20:00/Stuttgart - Freiburg
+DESCRIPTION:Stuttgart - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brentford - Liverpool - Enska úrvalsdeildin - siminnsport
@@ -1156,12 +1059,28 @@ UID:2025-01-18T14:30:00/Brentford - Liverpool
 DESCRIPTION:Brentford - Liverpool - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bayern München - Wolfsburg - Bundesliga - stod2vodasport
+DTSTART:20250118T143000
+DTEND:20250118T153000
+DTSTAMP:20250118T143000Z
+UID:2025-01-18T14:30:00/Bayern München - Wolfsburg
+DESCRIPTION:Bayern München - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brentford - Liverpool - Enska úrvalsdeildin - sjonvarpsimans
 DTSTART:20250118T143000
 DTEND:20250118T153000
 DTSTAMP:20250118T143000Z
 UID:2025-01-18T14:30:00/Brentford - Liverpool
 DESCRIPTION:Brentford - Liverpool - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leicester - Fulham - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250118T145000
+DTEND:20250118T155000
+DTSTAMP:20250118T145000Z
+UID:2025-01-18T14:50:00/Leicester - Fulham
+DESCRIPTION:Leicester - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Crystal Palace - Enska úrvalsdeildin - siminnsport2
@@ -1180,29 +1099,12 @@ UID:2025-01-18T14:50:00/Portsmouth - Middlesbrough
 DESCRIPTION:Portsmouth - Middlesbrough - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leicester - Fulham - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250118T145000
-DTEND:20250118T155000
-DTSTAMP:20250118T145000Z
-UID:2025-01-18T14:50:00/Leicester - Fulham
-DESCRIPTION:Leicester - Fulham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór Ak. - Haukar - Bikarkeppni kvenna í körfubolta - ruv2
 DTSTART:20250118T150000
 DTEND:20250118T160000
 DTSTAMP:20250118T150000Z
 UID:2025-01-18T15:00:00/Þór Ak. - Haukar
 DESCRIPTION:Þór Ak. - Haukar - Bikarkeppni kvenna í körfubolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Northampton Saints - Munster Rugby - Investec Champions Cup - viap
- lay
-DTSTART:20250118T151000
-DTEND:20250118T161000
-DTSTAMP:20250118T151000Z
-UID:2025-01-18T15:10:00/Northampton Saints - Munster Rugby
-DESCRIPTION:Northampton Saints - Munster Rugby - Investec Champions Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ASM Clermont Auvergne - Bristol Bears - Investec Champions Cup - v
@@ -1214,6 +1116,15 @@ UID:2025-01-18T15:10:00/ASM Clermont Auvergne - Bristol Bears
 DESCRIPTION:ASM Clermont Auvergne - Bristol Bears - Investec Champions Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Northampton Saints - Munster Rugby - Investec Champions Cup - viap
+ lay
+DTSTART:20250118T151000
+DTEND:20250118T161000
+DTSTAMP:20250118T151000Z
+UID:2025-01-18T15:10:00/Northampton Saints - Munster Rugby
+DESCRIPTION:Northampton Saints - Munster Rugby - Investec Champions Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NHL On The Fly - NHL - viaplay
 DTSTART:20250118T163000
 DTEND:20250118T173000
@@ -1222,20 +1133,20 @@ UID:2025-01-18T16:30:00/NHL On The Fly
 DESCRIPTION:NHL On The Fly - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frakkland - Austurríki - HM karla í handbolta - ruv
-DTSTART:20250118T170000
-DTEND:20250118T180000
-DTSTAMP:20250118T170000Z
-UID:2025-01-18T17:00:00/Frakkland - Austurríki
-DESCRIPTION:Frakkland - Austurríki - HM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grænhöfðaeyjar - Slóvenía - HM karla í handbolta - ruv2
 DTSTART:20250118T170000
 DTEND:20250118T180000
 DTSTAMP:20250118T170000Z
 UID:2025-01-18T17:00:00/Grænhöfðaeyjar - Slóvenía
 DESCRIPTION:Grænhöfðaeyjar - Slóvenía - HM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Austurríki - HM karla í handbolta - ruv
+DTSTART:20250118T170000
+DTEND:20250118T180000
+DTSTAMP:20250118T170000Z
+UID:2025-01-18T17:00:00/Frakkland - Austurríki
+DESCRIPTION:Frakkland - Austurríki - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Aston Villa - Enska úrvalsdeildin - siminnsport
@@ -1254,14 +1165,6 @@ UID:2025-01-18T17:20:00/Leverkusen - Mönchengladbach
 DESCRIPTION:Leverkusen - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - M´gladbach - Bundesliga - stod2vodasport
-DTSTART:20250118T172500
-DTEND:20250118T182500
-DTSTAMP:20250118T172500Z
-UID:2025-01-18T17:25:00/Leverkusen - M´gladbach
-DESCRIPTION:Leverkusen - M´gladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Benetton Rugby - Stade Rochelais - Investec Champions Cup - viapla
  y
 DTSTART:20250118T172500
@@ -1269,6 +1172,14 @@ DTEND:20250118T182500
 DTSTAMP:20250118T172500Z
 UID:2025-01-18T17:25:00/Benetton Rugby - Stade Rochelais
 DESCRIPTION:Benetton Rugby - Stade Rochelais - Investec Champions Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - M´gladbach - Bundesliga - stod2vodasport
+DTSTART:20250118T172500
+DTEND:20250118T182500
+DTSTAMP:20250118T172500Z
+UID:2025-01-18T17:25:00/Leverkusen - M´gladbach
+DESCRIPTION:Leverkusen - M´gladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leinster Rugby - Bath Rugby - Investec Champions Cup - viaplay
@@ -1295,14 +1206,6 @@ UID:2025-01-18T19:25:00/HSV - Köln
 DESCRIPTION:HSV - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ísland - Kúba - HM karla í handbolta - ruv
-DTSTART:20250118T193000
-DTEND:20250118T203000
-DTSTAMP:20250118T193000Z
-UID:2025-01-18T19:30:00/Ísland - Kúba
-DESCRIPTION:Ísland - Kúba - HM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hamburger - Köln - 2. Bundesliga - stod2vodasport
 DTSTART:20250118T193000
 DTEND:20250118T203000
@@ -1311,28 +1214,12 @@ UID:2025-01-18T19:30:00/Hamburger - Köln
 DESCRIPTION:Hamburger - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Harlequins - Glasgow Warriors - Investec Champions Cup - viaplay
-DTSTART:20250118T195500
-DTEND:20250118T205500
-DTSTAMP:20250118T195500Z
-UID:2025-01-18T19:55:00/Harlequins - Glasgow Warriors
-DESCRIPTION:Harlequins - Glasgow Warriors - Investec Champions Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Racing 92 - DHL Stormers - Investec Champions Cup - viaplay
-DTSTART:20250118T195500
-DTEND:20250118T205500
-DTSTAMP:20250118T195500Z
-UID:2025-01-18T19:55:00/Racing 92 - DHL Stormers
-DESCRIPTION:Racing 92 - DHL Stormers - Investec Champions Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spænski boltinn - LaLiga - Spænski boltinn - siminnsport
-DTSTART:20250118T195500
-DTEND:20250118T205500
-DTSTAMP:20250118T195500Z
-UID:2025-01-18T19:55:00/Spænski boltinn
-DESCRIPTION:Spænski boltinn - LaLiga - Spænski boltinn
+SUMMARY:Ísland - Kúba - HM karla í handbolta - ruv
+DTSTART:20250118T193000
+DTEND:20250118T203000
+DTSTAMP:20250118T193000Z
+UID:2025-01-18T19:30:00/Ísland - Kúba
+DESCRIPTION:Ísland - Kúba - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSG - Lyon - Première Ligue - viaplay
@@ -1343,6 +1230,30 @@ UID:2025-01-18T19:55:00/PSG - Lyon
 DESCRIPTION:PSG - Lyon - Première Ligue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spænski boltinn - LaLiga - Spænski boltinn - siminnsport
+DTSTART:20250118T195500
+DTEND:20250118T205500
+DTSTAMP:20250118T195500Z
+UID:2025-01-18T19:55:00/Spænski boltinn
+DESCRIPTION:Spænski boltinn - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing 92 - DHL Stormers - Investec Champions Cup - viaplay
+DTSTART:20250118T195500
+DTEND:20250118T205500
+DTSTAMP:20250118T195500Z
+UID:2025-01-18T19:55:00/Racing 92 - DHL Stormers
+DESCRIPTION:Racing 92 - DHL Stormers - Investec Champions Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harlequins - Glasgow Warriors - Investec Champions Cup - viaplay
+DTSTART:20250118T195500
+DTEND:20250118T205500
+DTSTAMP:20250118T195500Z
+UID:2025-01-18T19:55:00/Harlequins - Glasgow Warriors
+DESCRIPTION:Harlequins - Glasgow Warriors - Investec Champions Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ottawa - Boston - NHL - viaplay
 DTSTART:20250118T200500
 DTEND:20250118T210500
@@ -1351,20 +1262,68 @@ UID:2025-01-18T20:05:00/Ottawa - Boston
 DESCRIPTION:Ottawa - Boston - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NFL - NFL - stod2sport2
+SUMMARY:Pistons - Suns - NBA - stod2sport3
+DTSTART:20250118T210000
+DTEND:20250118T220000
+DTSTAMP:20250118T210000Z
+UID:2025-01-18T21:00:00/Pistons - Suns
+DESCRIPTION:Pistons - Suns - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado - Dallas - NHL - viaplay
+DTSTART:20250118T210500
+DTEND:20250118T220500
+DTSTAMP:20250118T210500Z
+UID:2025-01-18T21:05:00/Colorado - Dallas
+DESCRIPTION:Colorado - Dallas - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chiefs - Texans - NFL - stod2sport2
 DTSTART:20250118T213000
 DTEND:20250118T223000
 DTSTAMP:20250118T213000Z
-UID:2025-01-18T21:30:00/NFL
-DESCRIPTION:NFL - NFL
+UID:2025-01-18T21:30:00/Chiefs - Texans
+DESCRIPTION:Chiefs - Texans - NFL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pistons - Suns - NBA - stod2sport3
-DTSTART:20250118T220000
-DTEND:20250118T230000
-DTSTAMP:20250118T220000Z
-UID:2025-01-18T22:00:00/Pistons - Suns
-DESCRIPTION:Pistons - Suns - NBA
+SUMMARY:Florida - Anaheim - NHL - viaplay
+DTSTART:20250118T230500
+DTEND:20250119T000500
+DTSTAMP:20250118T230500Z
+UID:2025-01-18T23:05:00/Florida - Anaheim
+DESCRIPTION:Florida - Anaheim - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NY Rangers - Columbus - NHL - viaplay
+DTSTART:20250119T000500
+DTEND:20250119T010500
+DTSTAMP:20250119T000500Z
+UID:2025-01-19T00:05:00/NY Rangers - Columbus
+DESCRIPTION:NY Rangers - Columbus - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay - Detroit - NHL - viaplay
+DTSTART:20250119T000500
+DTEND:20250119T010500
+DTSTAMP:20250119T000500Z
+UID:2025-01-19T00:05:00/Tampa Bay - Detroit
+DESCRIPTION:Tampa Bay - Detroit - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montreal - Toronto - NHL - viaplay
+DTSTART:20250119T000500
+DTEND:20250119T010500
+DTSTAMP:20250119T000500Z
+UID:2025-01-19T00:05:00/Montreal - Toronto
+DESCRIPTION:Montreal - Toronto - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington - Pittsburgh - NHL - viaplay
+DTSTART:20250119T000500
+DTEND:20250119T010500
+DTSTAMP:20250119T000500Z
+UID:2025-01-19T00:05:00/Washington - Pittsburgh
+DESCRIPTION:Washington - Pittsburgh - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canadiens - Maple Leafs - NHL - stod2vodasport
@@ -1375,12 +1334,76 @@ UID:2025-01-19T00:05:00/Canadiens - Maple Leafs
 DESCRIPTION:Canadiens - Maple Leafs - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NFL - NFL - stod2sport2
+SUMMARY:Winnipeg - Calgary - NHL - viaplay
+DTSTART:20250119T000500
+DTEND:20250119T010500
+DTSTAMP:20250119T000500Z
+UID:2025-01-19T00:05:00/Winnipeg - Calgary
+DESCRIPTION:Winnipeg - Calgary - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NY Islanders - San Jose - NHL - viaplay
+DTSTART:20250119T003500
+DTEND:20250119T013500
+DTSTAMP:20250119T003500Z
+UID:2025-01-19T00:35:00/NY Islanders - San Jose
+DESCRIPTION:NY Islanders - San Jose - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville - Minnesota - NHL - viaplay
+DTSTART:20250119T010500
+DTEND:20250119T020500
+DTSTAMP:20250119T010500Z
+UID:2025-01-19T01:05:00/Nashville - Minnesota
+DESCRIPTION:Nashville - Minnesota - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago - Vegas - NHL - viaplay
+DTSTART:20250119T010500
+DTEND:20250119T020500
+DTSTAMP:20250119T010500Z
+UID:2025-01-19T01:05:00/Chicago - Vegas
+DESCRIPTION:Chicago - Vegas - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lions - Commanders - NFL - stod2sport2
 DTSTART:20250119T012000
 DTEND:20250119T022000
 DTSTAMP:20250119T012000Z
-UID:2025-01-19T01:20:00/NFL
-DESCRIPTION:NFL - NFL
+UID:2025-01-19T01:20:00/Lions - Commanders
+DESCRIPTION:Lions - Commanders - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah - St. Louis - NHL - viaplay
+DTSTART:20250119T020500
+DTEND:20250119T030500
+DTSTAMP:20250119T020500Z
+UID:2025-01-19T02:05:00/Utah - St. Louis
+DESCRIPTION:Utah - St. Louis - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Makhachev vs Tsarukyan II - UFC - viaplay
+DTSTART:20250119T030000
+DTEND:20250119T040000
+DTSTAMP:20250119T030000Z
+UID:2025-01-19T03:00:00/Makhachev vs Tsarukyan II
+DESCRIPTION:Makhachev vs Tsarukyan II - UFC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver - Edmonton - NHL - viaplay
+DTSTART:20250119T030500
+DTEND:20250119T040500
+DTSTAMP:20250119T030500Z
+UID:2025-01-19T03:05:00/Vancouver - Edmonton
+DESCRIPTION:Vancouver - Edmonton - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle - Los Angeles - NHL - viaplay
+DTSTART:20250119T030500
+DTEND:20250119T040500
+DTSTAMP:20250119T030500Z
+UID:2025-01-19T03:05:00/Seattle - Los Angeles
+DESCRIPTION:Seattle - Los Angeles - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leeds - Sheffield Wednesday - Championship - viaplay
@@ -1407,20 +1430,20 @@ UID:2025-01-19T12:25:00/Elversberg - Magdeburg
 DESCRIPTION:Elversberg - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20250119T122500
-DTEND:20250119T132500
-DTSTAMP:20250119T122500Z
-UID:2025-01-19T12:25:00/Nürnberg - Karlsruher
-DESCRIPTION:Nürnberg - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paderborn - Hertha Berlin - 2. Bundesliga - viaplay
 DTSTART:20250119T122500
 DTEND:20250119T132500
 DTSTAMP:20250119T122500Z
 UID:2025-01-19T12:25:00/Paderborn - Hertha Berlin
 DESCRIPTION:Paderborn - Hertha Berlin - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20250119T122500
+DTEND:20250119T132500
+DTSTAMP:20250119T122500Z
+UID:2025-01-19T12:25:00/Nürnberg - Karlsruher
+DESCRIPTION:Nürnberg - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Bordeaux-Bègles - Hollywoodbets Sharks - Investec Champions
@@ -1431,6 +1454,16 @@ DTSTAMP:20250119T125500Z
 UID:2025-01-19T12:55:00/Union Bordeaux-Bègles - Hollywoodbets Sharks
 DESCRIPTION:Union Bordeaux-Bègles - Hollywoodbets Sharks - Investec Champ
  ions Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portimão (Kappakstur 1 | Sport Division) - Porsche Sprint Challen
+ ge Southern Europe - viaplay
+DTSTART:20250119T131500
+DTEND:20250119T141500
+DTSTAMP:20250119T131500Z
+UID:2025-01-19T13:15:00/Portimão (Kappakstur 1 | Sport Division)
+DESCRIPTION:Portimão (Kappakstur 1 | Sport Division) - Porsche Sprint Cha
+ llenge Southern Europe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Grótta - Olís deild kvenna - hsi1
@@ -1464,6 +1497,16 @@ DTEND:20250119T145000
 DTSTAMP:20250119T135000Z
 UID:2025-01-19T13:50:00/Everton - Tottenham
 DESCRIPTION:Everton - Tottenham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portimão (Kappakstur 1 | Club Division) - Porsche Sprint Challeng
+ e Southern Europe - viaplay
+DTSTART:20250119T142000
+DTEND:20250119T152000
+DTSTAMP:20250119T142000Z
+UID:2025-01-19T14:20:00/Portimão (Kappakstur 1 | Club Division)
+DESCRIPTION:Portimão (Kappakstur 1 | Club Division) - Porsche Sprint Chal
+ lenge Southern Europe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Mainz - Bundesliga - viaplay
@@ -1515,6 +1558,16 @@ UID:2025-01-19T15:10:00/Saracens - Castres Olympique
 DESCRIPTION:Saracens - Castres Olympique - Investec Champions Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Portimão (Race 2 | Sport Division) - Porsche Sprint Challenge Sou
+ thern Europe - viaplay
+DTSTART:20250119T152500
+DTEND:20250119T162500
+DTSTAMP:20250119T152500Z
+UID:2025-01-19T15:25:00/Portimão (Race 2 | Sport Division)
+DESCRIPTION:Portimão (Race 2 | Sport Division) - Porsche Sprint Challenge
+  Southern Europe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ipswich - Man. City - Enska úrvalsdeildin - siminnsport
 DTSTART:20250119T160000
 DTEND:20250119T170000
@@ -1537,6 +1590,16 @@ DTEND:20250119T173000
 DTSTAMP:20250119T163000Z
 UID:2025-01-19T16:30:00/Werder Bremen - Augsburg
 DESCRIPTION:Werder Bremen - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portimão (Kappakstur 2 | Club Division) - Porsche Sprint Challeng
+ e Southern Europe - viaplay
+DTSTART:20250119T163000
+DTEND:20250119T173000
+DTSTAMP:20250119T163000Z
+UID:2025-01-19T16:30:00/Portimão (Kappakstur 2 | Club Division)
+DESCRIPTION:Portimão (Kappakstur 2 | Club Division) - Porsche Sprint Chal
+ lenge Southern Europe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Argentína - Barein - HM karla í handbolta - ruv
@@ -1579,20 +1642,20 @@ UID:2025-01-19T19:30:00/Egyptaland - Króatía
 DESCRIPTION:Egyptaland - Króatía - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NFL - NFL - stod2sport2
-DTSTART:20250119T200000
-DTEND:20250119T210000
-DTSTAMP:20250119T200000Z
-UID:2025-01-19T20:00:00/NFL
-DESCRIPTION:NFL - NFL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heat - Spurs - NBA - stod2sport3
 DTSTART:20250119T200000
 DTEND:20250119T210000
 DTSTAMP:20250119T200000Z
 UID:2025-01-19T20:00:00/Heat - Spurs
 DESCRIPTION:Heat - Spurs - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL - NFL - stod2sport2
+DTSTART:20250119T200000
+DTEND:20250119T210000
+DTSTAMP:20250119T200000Z
+UID:2025-01-19T20:00:00/NFL
+DESCRIPTION:NFL - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík - Grindavík - stod2sport
@@ -1603,11 +1666,171 @@ UID:2025-01-19T20:00:00/Grindavík
 DESCRIPTION:Grindavík - Grindavík
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL On The Fly - NHL - viaplay
+DTSTART:20250119T230000
+DTEND:20250120T000000
+DTSTAMP:20250119T230000Z
+UID:2025-01-19T23:00:00/NHL On The Fly
+DESCRIPTION:NHL On The Fly - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NFL - NFL - stod2sport2
 DTSTART:20250119T233000
 DTEND:20250120T003000
 DTSTAMP:20250119T233000Z
 UID:2025-01-19T23:30:00/NFL
 DESCRIPTION:NFL - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canadiens - Rangers - NHL - stod2vodasport
+DTSTART:20250120T000500
+DTEND:20250120T010500
+DTSTAMP:20250120T000500Z
+UID:2025-01-20T00:05:00/Canadiens - Rangers
+DESCRIPTION:Canadiens - Rangers - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montreal - NY Rangers - NHL - viaplay
+DTSTART:20250120T000500
+DTEND:20250120T010500
+DTSTAMP:20250120T000500Z
+UID:2025-01-20T00:05:00/Montreal - NY Rangers
+DESCRIPTION:Montreal - NY Rangers - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas - Detroit - NHL - viaplay
+DTSTART:20250120T010500
+DTEND:20250120T020500
+DTSTAMP:20250120T010500Z
+UID:2025-01-20T01:05:00/Dallas - Detroit
+DESCRIPTION:Dallas - Detroit - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Championship League Snooker Invitational - Snóker - viaplay
+DTSTART:20250120T110000
+DTEND:20250120T120000
+DTSTAMP:20250120T110000Z
+UID:2025-01-20T11:00:00/2025 Championship League Snooker Invitational
+DESCRIPTION:2025 Championship League Snooker Invitational - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Championship League Snooker Invitational - Snóker - viaplay
+DTSTART:20250120T163000
+DTEND:20250120T173000
+DTSTAMP:20250120T163000Z
+UID:2025-01-20T16:30:00/2025 Championship League Snooker Invitational
+DESCRIPTION:2025 Championship League Snooker Invitational - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Ettifaq - Al Ahli - Saudi Pro League - stod2vodasport
+DTSTART:20250120T165500
+DTEND:20250120T175500
+DTSTAMP:20250120T165500Z
+UID:2025-01-20T16:55:00/Al Ettifaq - Al Ahli
+DESCRIPTION:Al Ettifaq - Al Ahli - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Ettifaq - Al Ahli - Saudi Pro League - viaplay
+DTSTART:20250120T165500
+DTEND:20250120T175500
+DTSTAMP:20250120T165500Z
+UID:2025-01-20T16:55:00/Al Ettifaq - Al Ahli
+DESCRIPTION:Al Ettifaq - Al Ahli - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kúba - Grænhöfðaeyjar - HM karla í handbolta - ruv2
+DTSTART:20250120T170000
+DTEND:20250120T180000
+DTSTAMP:20250120T170000Z
+UID:2025-01-20T17:00:00/Kúba - Grænhöfðaeyjar
+DESCRIPTION:Kúba - Grænhöfðaeyjar - HM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svíþjóð - Spánn - HM karla í handbolta - ruv
+DTSTART:20250120T170000
+DTEND:20250120T180000
+DTSTAMP:20250120T170000Z
+UID:2025-01-20T17:00:00/Svíþjóð - Spánn
+DESCRIPTION:Svíþjóð - Spánn - HM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston - San Jose - NHL - viaplay
+DTSTART:20250120T180500
+DTEND:20250120T190500
+DTSTAMP:20250120T180500Z
+UID:2025-01-20T18:05:00/Boston - San Jose
+DESCRIPTION:Boston - San Jose - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NBA 360 - NBA - stod2sport3
+DTSTART:20250120T190000
+DTEND:20250120T200000
+DTSTAMP:20250120T190000Z
+UID:2025-01-20T19:00:00/NBA 360
+DESCRIPTION:NBA 360 - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slóvenía - Ísland - HM karla í handbolta - ruv
+DTSTART:20250120T193000
+DTEND:20250120T203000
+DTSTAMP:20250120T193000Z
+UID:2025-01-20T19:30:00/Slóvenía - Ísland
+DESCRIPTION:Slóvenía - Ísland - HM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Wolves - Enska úrvalsdeildin - siminnsport
+DTSTART:20250120T193000
+DTEND:20250120T203000
+DTSTAMP:20250120T193000Z
+UID:2025-01-20T19:30:00/Chelsea - Wolves
+DESCRIPTION:Chelsea - Wolves - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lögmál leiksins - NBA - stod2sport2
+DTSTART:20250120T200000
+DTEND:20250120T210000
+DTSTAMP:20250120T200000Z
+UID:2025-01-20T20:00:00/Lögmál leiksins
+DESCRIPTION:Lögmál leiksins - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado - Minnesota - NHL - viaplay
+DTSTART:20250120T200500
+DTEND:20250120T210500
+DTSTAMP:20250120T200500Z
+UID:2025-01-20T20:05:00/Colorado - Minnesota
+DESCRIPTION:Colorado - Minnesota - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avalanche - Wild - NHL - stod2vodasport
+DTSTART:20250120T200500
+DTEND:20250120T210500
+DTSTAMP:20250120T200500Z
+UID:2025-01-20T20:05:00/Avalanche - Wild
+DESCRIPTION:Avalanche - Wild - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle - Buffalo - NHL - viaplay
+DTSTART:20250120T210500
+DTEND:20250120T220500
+DTSTAMP:20250120T210500Z
+UID:2025-01-20T21:05:00/Seattle - Buffalo
+DESCRIPTION:Seattle - Buffalo - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vegas - St. Louis - NHL - viaplay
+DTSTART:20250120T230500
+DTEND:20250121T000500
+DTSTAMP:20250120T230500Z
+UID:2025-01-20T23:05:00/Vegas - St. Louis
+DESCRIPTION:Vegas - St. Louis - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knights - Blues - NHL - stod2vodasport
+DTSTART:20250120T230500
+DTEND:20250121T000500
+DTSTAMP:20250120T230500Z
+UID:2025-01-20T23:05:00/Knights - Blues
+DESCRIPTION:Knights - Blues - NHL
 END:VEVENT
 END:VCALENDAR
