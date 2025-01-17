@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Ipswich - Brighton - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250116T192000
-DTEND:20250116T202000
-DTSTAMP:20250116T192000Z
-UID:2025-01-16T19:20:00/Ipswich - Brighton
-DESCRIPTION:Ipswich - Brighton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. Utd. - Southampton - Enska úrvalsdeildin - siminnsport
-DTSTART:20250116T193000
-DTEND:20250116T203000
-DTSTAMP:20250116T193000Z
-UID:2025-01-16T19:30:00/Man. Utd. - Southampton
-DESCRIPTION:Man. Utd. - Southampton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - ÍR - Olís deild kvenna - hsi1
 DTSTART:20250117T193000
 DTEND:20250117T203000
@@ -50,20 +34,20 @@ UID:2025-01-18T14:30:00/Brentford - Liverpool
 DESCRIPTION:Brentford - Liverpool - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Ham - Crystal Palace - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250118T145000
-DTEND:20250118T155000
-DTSTAMP:20250118T145000Z
-UID:2025-01-18T14:50:00/West Ham - Crystal Palace
-DESCRIPTION:West Ham - Crystal Palace - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leicester - Fulham - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250118T145000
 DTEND:20250118T155000
 DTSTAMP:20250118T145000Z
 UID:2025-01-18T14:50:00/Leicester - Fulham
 DESCRIPTION:Leicester - Fulham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Crystal Palace - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250118T145000
+DTEND:20250118T155000
+DTSTAMP:20250118T145000Z
+UID:2025-01-18T14:50:00/West Ham - Crystal Palace
+DESCRIPTION:West Ham - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Aston Villa - Enska úrvalsdeildin - siminnsport
@@ -82,6 +66,14 @@ UID:2025-01-18T19:40:00/ Atalanta - Napoli
 DESCRIPTION: Atalanta - Napoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Man. Utd. - Brighton - Enska úrvalsdeildin - siminnsport
+DTSTART:20250119T133000
+DTEND:20250119T143000
+DTSTAMP:20250119T133000Z
+UID:2025-01-19T13:30:00/Man. Utd. - Brighton
+DESCRIPTION:Man. Utd. - Brighton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stjarnan - Grótta - Olís deild kvenna - hsi1
 DTSTART:20250119T133000
 DTEND:20250119T143000
@@ -90,12 +82,12 @@ UID:2025-01-19T13:30:00/Stjarnan - Grótta
 DESCRIPTION:Stjarnan - Grótta - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Brighton - Enska úrvalsdeildin - siminnsport
-DTSTART:20250119T133000
-DTEND:20250119T143000
-DTSTAMP:20250119T133000Z
-UID:2025-01-19T13:30:00/Man. Utd. - Brighton
-DESCRIPTION:Man. Utd. - Brighton - Enska úrvalsdeildin
+SUMMARY:Everton - Tottenham - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250119T135000
+DTEND:20250119T145000
+DTSTAMP:20250119T135000Z
+UID:2025-01-19T13:50:00/Everton - Tottenham
+DESCRIPTION:Everton - Tottenham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Southampton - Enska úrvalsdeildin - siminnspo
@@ -105,14 +97,6 @@ DTEND:20250119T145000
 DTSTAMP:20250119T135000Z
 UID:2025-01-19T13:50:00/Nottingham Forest - Southampton
 DESCRIPTION:Nottingham Forest - Southampton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - Tottenham - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250119T135000
-DTEND:20250119T145000
-DTSTAMP:20250119T135000Z
-UID:2025-01-19T13:50:00/Everton - Tottenham
-DESCRIPTION:Everton - Tottenham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Selfoss - ÍBV - Olís deild kvenna - hsi1
@@ -153,5 +137,13 @@ DTEND:20250122T203000
 DTSTAMP:20250122T193000Z
 UID:2025-01-22T19:30:00/Valur - Grótta
 DESCRIPTION:Valur - Grótta - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Haukar - Olís deild kvenna - hsi1
+DTSTART:20250123T193000
+DTEND:20250123T203000
+DTSTAMP:20250123T193000Z
+UID:2025-01-23T19:30:00/ÍR - Haukar
+DESCRIPTION:ÍR - Haukar - Olís deild kvenna
 END:VEVENT
 END:VCALENDAR

@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Meistaradeild Evrópu - ical
 BEGIN:VEVENT
-SUMMARY:Atalanta - Sturm Graz - Meistaradeild Evrópu - stod2sport3
-DTSTART:20250121T173500
-DTEND:20250121T183500
-DTSTAMP:20250121T173500Z
-UID:2025-01-21T17:35:00/Atalanta - Sturm Graz
-DESCRIPTION:Atalanta - Sturm Graz - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monaco - Aston Villa - Meistaradeild Evrópu - stod2vodasport
 DTSTART:20250121T173500
 DTEND:20250121T183500
 DTSTAMP:20250121T173500Z
 UID:2025-01-21T17:35:00/Monaco - Aston Villa
 DESCRIPTION:Monaco - Aston Villa - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atalanta - Sturm Graz - Meistaradeild Evrópu - stod2sport3
+DTSTART:20250121T173500
+DTEND:20250121T183500
+DTSTAMP:20250121T173500Z
+UID:2025-01-21T17:35:00/Atalanta - Sturm Graz
+DESCRIPTION:Atalanta - Sturm Graz - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - stod2sport2
@@ -91,6 +91,14 @@ UID:2025-01-22T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arsenal - Dinamo Zagreb - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20250122T195000
+DTEND:20250122T205000
+DTSTAMP:20250122T195000Z
+UID:2025-01-22T19:50:00/Arsenal - Dinamo Zagreb
+DESCRIPTION:Arsenal - Dinamo Zagreb - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sparta Prag - Inter - Meistaradeild Evrópu - stod2sport5
 DTSTART:20250122T195000
 DTEND:20250122T205000
@@ -113,14 +121,6 @@ DTEND:20250122T205000
 DTSTAMP:20250122T195000Z
 UID:2025-01-22T19:50:00/PSG - Manchester City
 DESCRIPTION:PSG - Manchester City - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - Dinamo Zagreb - Meistaradeild Evrópu - stod2vodasport
-DTSTART:20250122T195000
-DTEND:20250122T205000
-DTSTAMP:20250122T195000Z
-UID:2025-01-22T19:50:00/Arsenal - Dinamo Zagreb
-DESCRIPTION:Arsenal - Dinamo Zagreb - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
