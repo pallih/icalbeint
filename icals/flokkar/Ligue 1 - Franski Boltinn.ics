@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Ligue 1 - Franski Boltinn - ical
 BEGIN:VEVENT
-SUMMARY:Montpellier - Monaco - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250117T180000
-DTEND:20250117T190000
-DTSTAMP:20250117T180000Z
-UID:2025-01-17T18:00:00/Montpellier - Monaco
-DESCRIPTION:Montpellier - Monaco - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lille - Nice - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250117T200000
-DTEND:20250117T210000
-DTSTAMP:20250117T200000Z
-UID:2025-01-17T20:00:00/Lille - Nice
-DESCRIPTION:Lille - Nice - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lens - PSG - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250118T160000
 DTEND:20250118T170000
@@ -50,14 +34,6 @@ UID:2025-01-19T14:00:00/St-Étienne - Nantes
 DESCRIPTION:St-Étienne - Nantes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reims - Le Havre - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250119T161500
-DTEND:20250119T171500
-DTSTAMP:20250119T161500Z
-UID:2025-01-19T16:15:00/Reims - Le Havre
-DESCRIPTION:Reims - Le Havre - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Angers - Auxerre - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250119T161500
 DTEND:20250119T171500
@@ -66,11 +42,27 @@ UID:2025-01-19T16:15:00/Angers - Auxerre
 DESCRIPTION:Angers - Auxerre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Reims - Le Havre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250119T161500
+DTEND:20250119T171500
+DTSTAMP:20250119T161500Z
+UID:2025-01-19T16:15:00/Reims - Le Havre
+DESCRIPTION:Reims - Le Havre - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marseille - RC Strasbourg - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250119T194500
 DTEND:20250119T204500
 DTSTAMP:20250119T194500Z
 UID:2025-01-19T19:45:00/Marseille - RC Strasbourg
 DESCRIPTION:Marseille - RC Strasbourg - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre - St-Étienne - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250124T194500
+DTEND:20250124T204500
+DTSTAMP:20250124T194500Z
+UID:2025-01-24T19:45:00/Auxerre - St-Étienne
+DESCRIPTION:Auxerre - St-Étienne - Ligue 1 - Franski Boltinn
 END:VEVENT
 END:VCALENDAR
