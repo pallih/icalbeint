@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Como - Udinese - Serie A - Ítalski boltinn - livey
-DTSTART:20250120T194500
-DTEND:20250120T204500
-DTSTAMP:20250120T194500Z
-UID:2025-01-20T19:45:00/Como - Udinese
-DESCRIPTION:Como - Udinese - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Villareal - RCD Mallorca - LaLiga - Spænski boltinn - livey
-DTSTART:20250120T200000
-DTEND:20250120T210000
-DTSTAMP:20250120T200000Z
-UID:2025-01-20T20:00:00/Villareal - RCD Mallorca
-DESCRIPTION:Villareal - RCD Mallorca - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Auxerre - St-Étienne - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250124T194500
 DTEND:20250124T204500
@@ -74,20 +58,20 @@ UID:2025-01-25T18:00:00/RC Strasbourg - Lille
 DESCRIPTION:RC Strasbourg - Lille - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valladolid - Real Madrid - LaLiga - Spænski boltinn - livey
-DTSTART:20250125T200000
-DTEND:20250125T210000
-DTSTAMP:20250125T200000Z
-UID:2025-01-25T20:00:00/Valladolid - Real Madrid
-DESCRIPTION:Valladolid - Real Madrid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PSG - Reims - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250125T200000
 DTEND:20250125T210000
 DTSTAMP:20250125T200000Z
 UID:2025-01-25T20:00:00/PSG - Reims
 DESCRIPTION:PSG - Reims - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valladolid - Real Madrid - LaLiga - Spænski boltinn - livey
+DTSTART:20250125T200000
+DTEND:20250125T210000
+DTSTAMP:20250125T200000Z
+UID:2025-01-25T20:00:00/Valladolid - Real Madrid
+DESCRIPTION:Valladolid - Real Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rayo Vallecano - Girona - LaLiga - Spænski boltinn - livey
@@ -114,20 +98,20 @@ UID:2025-01-26T15:15:00/Real Sociedad - Getafe
 DESCRIPTION:Real Sociedad - Getafe - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lens - Angers - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250126T161500
-DTEND:20250126T171500
-DTSTAMP:20250126T161500Z
-UID:2025-01-26T16:15:00/Lens - Angers
-DESCRIPTION:Lens - Angers - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Toulouse - Montpellier - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250126T161500
 DTEND:20250126T171500
 DTSTAMP:20250126T161500Z
 UID:2025-01-26T16:15:00/Toulouse - Montpellier
 DESCRIPTION:Toulouse - Montpellier - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens - Angers - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250126T161500
+DTEND:20250126T171500
+DTSTAMP:20250126T161500Z
+UID:2025-01-26T16:15:00/Lens - Angers
+DESCRIPTION:Lens - Angers - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nantes - Lyon - Ligue 1 - Franski Boltinn - livey
@@ -162,5 +146,13 @@ DTEND:20250126T210000
 DTSTAMP:20250126T200000Z
 UID:2025-01-26T20:00:00/Barcelona - Valencia
 DESCRIPTION:Barcelona - Valencia - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deportivo Alaves - Celta Vigo - LaLiga - Spænski boltinn - livey
+DTSTART:20250127T200000
+DTEND:20250127T210000
+DTSTAMP:20250127T200000Z
+UID:2025-01-27T20:00:00/Deportivo Alaves - Celta Vigo
+DESCRIPTION:Deportivo Alaves - Celta Vigo - LaLiga - Spænski boltinn
 END:VEVENT
 END:VCALENDAR
