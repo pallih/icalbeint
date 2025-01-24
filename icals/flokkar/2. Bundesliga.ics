@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Braunschweig - 2. Bundesliga - viaplay
-DTSTART:20250124T172500
-DTEND:20250124T182500
-DTSTAMP:20250124T172500Z
-UID:2025-01-24T17:25:00/Magdeburg - Braunschweig
-DESCRIPTION:Magdeburg - Braunschweig - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20250124T172500
 DTEND:20250124T182500
 DTSTAMP:20250124T172500Z
 UID:2025-01-24T17:25:00/Greuther Fürth - Kaiserslautern
 DESCRIPTION:Greuther Fürth - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Braunschweig - 2. Bundesliga - viaplay
+DTSTART:20250124T172500
+DTEND:20250124T182500
+DTSTAMP:20250124T172500Z
+UID:2025-01-24T17:25:00/Magdeburg - Braunschweig
+DESCRIPTION:Magdeburg - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Kaiserslautern - 2. Bundesliga - stod2vodasport
@@ -26,7 +26,23 @@ UID:2025-01-24T17:25:00/Greuther Fürth - Kaiserslautern
 DESCRIPTION:Greuther Fürth - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Köln - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20250125T115500
+DTEND:20250125T125500
+DTSTAMP:20250125T115500Z
+UID:2025-01-25T11:55:00/Köln - Elversberg
+DESCRIPTION:Köln - Elversberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Karlsruher - Düsseldorf - 2. Bundesliga - stod2vodasport
+DTSTART:20250125T115500
+DTEND:20250125T125500
+DTSTAMP:20250125T115500Z
+UID:2025-01-25T11:55:00/Karlsruher - Düsseldorf
+DESCRIPTION:Karlsruher - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher - Düsseldorf - 2. Bundesliga - viaplay
 DTSTART:20250125T115500
 DTEND:20250125T125500
 DTSTAMP:20250125T115500Z
@@ -42,22 +58,6 @@ UID:2025-01-25T11:55:00/Schalke - Nürnberg
 DESCRIPTION:Schalke - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher SC - Fortuna Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20250125T115500
-DTEND:20250125T125500
-DTSTAMP:20250125T115500Z
-UID:2025-01-25T11:55:00/Karlsruher SC - Fortuna Düsseldorf
-DESCRIPTION:Karlsruher SC - Fortuna Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Köln - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20250125T115500
-DTEND:20250125T125500
-DTSTAMP:20250125T115500Z
-UID:2025-01-25T11:55:00/Köln - Elversberg
-DESCRIPTION:Köln - Elversberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hertha Berlin - HSV - 2. Bundesliga - viaplay
 DTSTART:20250125T192500
 DTEND:20250125T202500
@@ -66,20 +66,20 @@ UID:2025-01-25T19:25:00/Hertha Berlin - HSV
 DESCRIPTION:Hertha Berlin - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ulm - Jahn Regensburg - 2. Bundesliga - viaplay
-DTSTART:20250126T122500
-DTEND:20250126T132500
-DTSTAMP:20250126T122500Z
-UID:2025-01-26T12:25:00/Ulm - Jahn Regensburg
-DESCRIPTION:Ulm - Jahn Regensburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darmstadt - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20250126T122500
 DTEND:20250126T132500
 DTSTAMP:20250126T122500Z
 UID:2025-01-26T12:25:00/Darmstadt - Paderborn
 DESCRIPTION:Darmstadt - Paderborn - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ulm - Jahn Regensburg - 2. Bundesliga - viaplay
+DTSTART:20250126T122500
+DTEND:20250126T132500
+DTSTAMP:20250126T122500Z
+UID:2025-01-26T12:25:00/Ulm - Jahn Regensburg
+DESCRIPTION:Ulm - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover - Preußen Münster - 2. Bundesliga - viaplay
