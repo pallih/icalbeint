@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Spurs - Pacers - NBA - stod2sport2
-DTSTART:20250125T170000
-DTEND:20250125T180000
-DTSTAMP:20250125T170000Z
-UID:2025-01-25T17:00:00/Spurs - Pacers
-DESCRIPTION:Spurs - Pacers - NBA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grindavík - Grindavík - stod2sport
 DTSTART:20250126T200000
 DTEND:20250126T210000
@@ -98,20 +90,12 @@ UID:2025-01-30T18:55:00/GAZið: Upphitun
 DESCRIPTION:GAZið: Upphitun - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Njarðvík - Bónus deild karla - stod2besta02
+SUMMARY:ÍR - Álftanes - Bónus deild karla - stod2besta01
 DTSTART:20250130T191000
 DTEND:20250130T201000
 DTSTAMP:20250130T191000Z
-UID:2025-01-30T19:10:00/Valur - Njarðvík
-DESCRIPTION:Valur - Njarðvík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Höttur - Tindastóll - Bónus deild karla - stod2besta03
-DTSTART:20250130T191000
-DTEND:20250130T201000
-DTSTAMP:20250130T191000Z
-UID:2025-01-30T19:10:00/Höttur - Tindastóll
-DESCRIPTION:Höttur - Tindastóll - Bónus deild karla
+UID:2025-01-30T19:10:00/ÍR - Álftanes
+DESCRIPTION:ÍR - Álftanes - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
@@ -122,12 +106,20 @@ UID:2025-01-30T19:10:00/Skiptiborðið
 DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Álftanes - Bónus deild karla - stod2besta01
+SUMMARY:Höttur - Tindastóll - Bónus deild karla - stod2besta03
 DTSTART:20250130T191000
 DTEND:20250130T201000
 DTSTAMP:20250130T191000Z
-UID:2025-01-30T19:10:00/ÍR - Álftanes
-DESCRIPTION:ÍR - Álftanes - Bónus deild karla
+UID:2025-01-30T19:10:00/Höttur - Tindastóll
+DESCRIPTION:Höttur - Tindastóll - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Njarðvík - Bónus deild karla - stod2besta02
+DTSTART:20250130T191000
+DTEND:20250130T201000
+DTSTAMP:20250130T191000Z
+UID:2025-01-30T19:10:00/Valur - Njarðvík
+DESCRIPTION:Valur - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík - Stjarnan - Bónus deild karla - stod2sport5
@@ -168,5 +160,13 @@ DTEND:20250131T220500
 DTSTAMP:20250131T210500Z
 UID:2025-01-31T21:05:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz - Magic - NBA - stod2sport2
+DTSTART:20250201T220000
+DTEND:20250201T230000
+DTSTAMP:20250201T220000Z
+UID:2025-02-01T22:00:00/Jazz - Magic
+DESCRIPTION:Jazz - Magic - NBA
 END:VEVENT
 END:VCALENDAR
