@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Ísland - Argentína - HM karla í handbolta - ruv
-DTSTART:20250126T143000
-DTEND:20250126T153000
-DTSTAMP:20250126T143000Z
-UID:2025-01-26T14:30:00/Ísland - Argentína
-DESCRIPTION:Ísland - Argentína - HM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grænhöfðaeyjar - Egyptaland - HM karla í handbolta - ruv
-DTSTART:20250126T170000
-DTEND:20250126T180000
-DTSTAMP:20250126T170000Z
-UID:2025-01-26T17:00:00/Grænhöfðaeyjar - Egyptaland
-DESCRIPTION:Grænhöfðaeyjar - Egyptaland - HM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Króatía - Slóvenía - HM karla í handbolta - ruv2
-DTSTART:20250126T193000
-DTEND:20250126T203000
-DTSTAMP:20250126T193000Z
-UID:2025-01-26T19:30:00/Króatía - Slóvenía
-DESCRIPTION:Króatía - Slóvenía - HM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - Reykjavíkurleikar - ruv2
 DTSTART:20250127T193000
 DTEND:20250127T203000
@@ -34,36 +10,43 @@ UID:2025-01-27T19:30:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - Reykjavíkurleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM karla í handbolta - ruv
-DTSTART:20250128T163000
-DTEND:20250128T173000
-DTSTAMP:20250128T163000Z
-UID:2025-01-28T16:30:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM karla í handbolta
+SUMMARY:Króatía - Ungverjaland - 8-liða úrslit - HM karla í handbolta
+  - ruv
+DTSTART:20250128T170000
+DTEND:20250128T180000
+DTSTAMP:20250128T170000Z
+UID:2025-01-28T17:00:00/Króatía - Ungverjaland - 8-liða úrslit
+DESCRIPTION:Króatía - Ungverjaland - 8-liða úrslit - HM karla í handb
+ olta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM karla í handbolta - ruv2
-DTSTART:20250128T193000
-DTEND:20250128T203000
-DTSTAMP:20250128T193000Z
-UID:2025-01-28T19:30:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM karla í handbolta
+SUMMARY:Frakkland - Egyptaland - 8-liða úrslit - HM karla í handbolta -
+  ruv2
+DTSTART:20250128T200000
+DTEND:20250128T210000
+DTSTAMP:20250128T200000Z
+UID:2025-01-28T20:00:00/Frakkland - Egyptaland - 8-liða úrslit
+DESCRIPTION:Frakkland - Egyptaland - 8-liða úrslit - HM karla í handbol
+ ta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM karla í handbolta - ruv
+SUMMARY:Danmörk- Brasilía - 8-liða úrslit - HM karla í handbolta - ru
+ v
 DTSTART:20250129T163000
 DTEND:20250129T173000
 DTSTAMP:20250129T163000Z
-UID:2025-01-29T16:30:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM karla í handbolta
+UID:2025-01-29T16:30:00/Danmörk- Brasilía - 8-liða úrslit
+DESCRIPTION:Danmörk- Brasilía - 8-liða úrslit - HM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM karla í handbolta - ruv2
+SUMMARY:Portúgal - Þýskaland - 8-liða úrslit - HM karla í handbolta 
+ - ruv2
 DTSTART:20250129T193000
 DTEND:20250129T203000
 DTSTAMP:20250129T193000Z
-UID:2025-01-29T19:30:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM karla í handbolta
+UID:2025-01-29T19:30:00/Portúgal - Þýskaland - 8-liða úrslit
+DESCRIPTION:Portúgal - Þýskaland - 8-liða úrslit - HM karla í handbo
+ lta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Undanúrslit - HM karla í handbolta - ruv2
@@ -80,5 +63,21 @@ DTEND:20250131T203000
 DTSTAMP:20250131T193000Z
 UID:2025-01-31T19:30:00/Undanúrslit
 DESCRIPTION:Undanúrslit - HM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bronsleikur - HM karla í handbolta - ruv
+DTSTART:20250202T140000
+DTEND:20250202T150000
+DTSTAMP:20250202T140000Z
+UID:2025-02-02T14:00:00/Bronsleikur
+DESCRIPTION:Bronsleikur - HM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Úrslitaleikur - HM karla í handbolta - ruv2
+DTSTART:20250202T170000
+DTEND:20250202T180000
+DTSTAMP:20250202T170000Z
+UID:2025-02-02T17:00:00/Úrslitaleikur
+DESCRIPTION:Úrslitaleikur - HM karla í handbolta
 END:VEVENT
 END:VCALENDAR
