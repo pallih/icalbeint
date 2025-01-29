@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Valur - Bónus deild kvenna - stod2besta01
-DTSTART:20250128T181000
-DTEND:20250128T191000
-DTSTAMP:20250128T181000Z
-UID:2025-01-28T18:10:00/Stjarnan - Valur
-DESCRIPTION:Stjarnan - Valur - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aþena - Þór Ak. - Bónus deild kvenna - stod2sport
-DTSTART:20250128T190500
-DTEND:20250128T200500
-DTSTAMP:20250128T190500Z
-UID:2025-01-28T19:05:00/Aþena - Þór Ak.
-DESCRIPTION:Aþena - Þór Ak. - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tindastóll - Keflavík - Bónus deild kvenna - stod2besta02
-DTSTART:20250128T191000
-DTEND:20250128T201000
-DTSTAMP:20250128T191000Z
-UID:2025-01-28T19:10:00/Tindastóll - Keflavík
-DESCRIPTION:Tindastóll - Keflavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lokasóknin - NFL - stod2sport2
-DTSTART:20250128T200000
-DTEND:20250128T210000
-DTSTAMP:20250128T200000Z
-UID:2025-01-28T20:00:00/Lokasóknin
-DESCRIPTION:Lokasóknin - NFL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
-DTSTART:20250128T212000
-DTEND:20250128T222000
-DTSTAMP:20250128T212000Z
-UID:2025-01-28T21:20:00/Bónus deildin - Extra
-DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rangers - Hurricanes - NHL - stod2vodasport
-DTSTART:20250129T000500
-DTEND:20250129T010500
-DTSTAMP:20250129T000500Z
-UID:2025-01-29T00:05:00/Rangers - Hurricanes
-DESCRIPTION:Rangers - Hurricanes - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Haukar - Grindavík - Bónus deild kvenna - stod2sport
 DTSTART:20250129T190000
 DTEND:20250129T200000
@@ -74,13 +26,12 @@ UID:2025-01-29T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manchester City - Club Brugge - Meistaradeild Evrópu - stod2sport
- 3
+SUMMARY:Aston Villa - Celtic - Meistaradeild Evrópu - stod2sport6
 DTSTART:20250129T195000
 DTEND:20250129T205000
 DTSTAMP:20250129T195000Z
-UID:2025-01-29T19:50:00/Manchester City - Club Brugge
-DESCRIPTION:Manchester City - Club Brugge - Meistaradeild Evrópu
+UID:2025-01-29T19:50:00/Aston Villa - Celtic
+DESCRIPTION:Aston Villa - Celtic - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSV - Liverpool - PSV - Liverpool - stod2vodasport
@@ -91,20 +42,13 @@ UID:2025-01-29T19:50:00/PSV - Liverpool
 DESCRIPTION:PSV - Liverpool - PSV - Liverpool
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aston Villa - Celtic - Meistaradeild Evrópu - stod2sport6
+SUMMARY:Manchester City - Club Brugge - Meistaradeild Evrópu - stod2sport
+ 3
 DTSTART:20250129T195000
 DTEND:20250129T205000
 DTSTAMP:20250129T195000Z
-UID:2025-01-29T19:50:00/Aston Villa - Celtic
-DESCRIPTION:Aston Villa - Celtic - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stuttgart - PSG - Meistaradeild Evrópu - stod2sport5
-DTSTART:20250129T195000
-DTEND:20250129T205000
-DTSTAMP:20250129T195000Z
-UID:2025-01-29T19:50:00/Stuttgart - PSG
-DESCRIPTION:Stuttgart - PSG - Meistaradeild Evrópu
+UID:2025-01-29T19:50:00/Manchester City - Club Brugge
+DESCRIPTION:Manchester City - Club Brugge - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Girona - Arsenal - Meistaradeild Evrópu - stod2sport4
@@ -113,6 +57,14 @@ DTEND:20250129T205000
 DTSTAMP:20250129T195000Z
 UID:2025-01-29T19:50:00/Girona - Arsenal
 DESCRIPTION:Girona - Arsenal - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - PSG - Meistaradeild Evrópu - stod2sport5
+DTSTART:20250129T195000
+DTEND:20250129T205000
+DTSTAMP:20250129T195000Z
+UID:2025-01-29T19:50:00/Stuttgart - PSG
+DESCRIPTION:Stuttgart - PSG - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
@@ -139,6 +91,14 @@ UID:2025-01-30T00:05:00/Panthers - Kings
 DESCRIPTION:Panthers - Kings - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bapco Energies Bahrain Championship - DP World Tour - stod2sport4
+DTSTART:20250130T083000
+DTEND:20250130T093000
+DTSTAMP:20250130T083000Z
+UID:2025-01-30T08:30:00/Bapco Energies Bahrain Championship
+DESCRIPTION:Bapco Energies Bahrain Championship - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tournament of Champions - LPGA Tour - stod2sport4
 DTSTART:20250130T163000
 DTEND:20250130T173000
@@ -147,20 +107,20 @@ UID:2025-01-30T16:30:00/Tournament of Champions
 DESCRIPTION:Tournament of Champions - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Al Raed - Al Nassr - Saudi Pro League - stod2vodasport
+DTSTART:20250130T165500
+DTEND:20250130T175500
+DTSTAMP:20250130T165500Z
+UID:2025-01-30T16:55:00/Al Raed - Al Nassr
+DESCRIPTION:Al Raed - Al Nassr - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GAZið: Upphitun - Bónus deild karla - stod2sport
 DTSTART:20250130T185500
 DTEND:20250130T195500
 DTSTAMP:20250130T185500Z
 UID:2025-01-30T18:55:00/GAZið: Upphitun
 DESCRIPTION:GAZið: Upphitun - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
-DTSTART:20250130T191000
-DTEND:20250130T201000
-DTSTAMP:20250130T191000Z
-UID:2025-01-30T19:10:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Höttur - Tindastóll - Bónus deild karla - stod2besta03
@@ -179,20 +139,28 @@ UID:2025-01-30T19:10:00/ÍR - Álftanes
 DESCRIPTION:ÍR - Álftanes - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
+DTSTART:20250130T191000
+DTEND:20250130T201000
+DTSTAMP:20250130T191000Z
+UID:2025-01-30T19:10:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAZ: Valur - Njarðvík - Bónus deild karla - stod2besta01
+DTSTART:20250130T191000
+DTEND:20250130T201000
+DTSTAMP:20250130T191000Z
+UID:2025-01-30T19:10:00/GAZ: Valur - Njarðvík
+DESCRIPTION:GAZ: Valur - Njarðvík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grindavík - Stjarnan - Bónus deild karla - stod2sport5
 DTSTART:20250130T192000
 DTEND:20250130T202000
 DTSTAMP:20250130T192000Z
 UID:2025-01-30T19:20:00/Grindavík - Stjarnan
 DESCRIPTION:Grindavík - Stjarnan - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Sociedad - PAOK - Evrópudeildin - stod2sport3
-DTSTART:20250130T195000
-DTEND:20250130T205000
-DTSTAMP:20250130T195000Z
-UID:2025-01-30T19:50:00/Real Sociedad - PAOK
-DESCRIPTION:Real Sociedad - PAOK - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FCSB - Man. Utd. - Evrópudeildin - stod2vodasport
@@ -219,12 +187,36 @@ UID:2025-01-30T19:50:00/Tottenham - Elfsborg
 DESCRIPTION:Tottenham - Elfsborg - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Real Sociedad - PAOK - Evrópudeildin - stod2sport3
+DTSTART:20250130T195000
+DTEND:20250130T205000
+DTSTAMP:20250130T195000Z
+UID:2025-01-30T19:50:00/Real Sociedad - PAOK
+DESCRIPTION:Real Sociedad - PAOK - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
 DTSTART:20250130T211000
 DTEND:20250130T221000
 DTSTAMP:20250130T211000Z
 UID:2025-01-30T21:10:00/Tilþrifin
 DESCRIPTION:Tilþrifin - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bruins - Jets - NHL - stod2vodasport
+DTSTART:20250131T000500
+DTEND:20250131T010500
+DTSTAMP:20250131T000500Z
+UID:2025-01-31T00:05:00/Bruins - Jets
+DESCRIPTION:Bruins - Jets - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bapco Energies Bahrain Championship - DP World Tour - stod2sport4
+DTSTART:20250131T083000
+DTEND:20250131T093000
+DTSTAMP:20250131T083000Z
+UID:2025-01-31T08:30:00/Bapco Energies Bahrain Championship
+DESCRIPTION:Bapco Energies Bahrain Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dregið í Meistaradeild Evrópu - Meistaradeild Evrópu - stod2sp
@@ -260,12 +252,20 @@ UID:2025-01-31T17:25:00/Frankfurt - Leverkusen
 DESCRIPTION:Frankfurt - Leverkusen - Bundesliga kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Þór Þ. - Bónus deild karla - stod2sport5
+SUMMARY:Haukar - Þór Þ. - Bónus deild karla - stod2besta01
 DTSTART:20250131T185000
 DTEND:20250131T195000
 DTSTAMP:20250131T185000Z
 UID:2025-01-31T18:50:00/Haukar - Þór Þ.
 DESCRIPTION:Haukar - Þór Þ. - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Stjarnan - Þungavigtarbikarinn - stod2sport5
+DTSTART:20250131T185500
+DTEND:20250131T195500
+DTSTAMP:20250131T185500Z
+UID:2025-01-31T18:55:00/Breiðablik - Stjarnan
+DESCRIPTION:Breiðablik - Stjarnan - Þungavigtarbikarinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Keflavík - Bónus deild karla - stod2sport
@@ -292,6 +292,22 @@ UID:2025-01-31T21:05:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sabres - Predators - NHL - stod2vodasport
+DTSTART:20250201T000500
+DTEND:20250201T010500
+DTSTAMP:20250201T000500Z
+UID:2025-02-01T00:05:00/Sabres - Predators
+DESCRIPTION:Sabres - Predators - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bapco Energies Bahrain Championship - DP World Tour - stod2sport4
+DTSTART:20250201T090000
+DTEND:20250201T100000
+DTSTAMP:20250201T090000Z
+UID:2025-02-01T09:00:00/Bapco Energies Bahrain Championship
+DESCRIPTION:Bapco Energies Bahrain Championship - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tournament of Champions - LPGA Tour - stod2sport4
 DTSTART:20250201T190000
 DTEND:20250201T200000
@@ -306,6 +322,14 @@ DTEND:20250201T230000
 DTSTAMP:20250201T220000Z
 UID:2025-02-01T22:00:00/Jazz - Magic
 DESCRIPTION:Jazz - Magic - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bapco Energies Bahrain Championship - DP World Tour - stod2sport4
+DTSTART:20250202T083000
+DTEND:20250202T093000
+DTSTAMP:20250202T083000Z
+UID:2025-02-02T08:30:00/Bapco Energies Bahrain Championship
+DESCRIPTION:Bapco Energies Bahrain Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tournament of Champions - LPGA Tour - stod2sport4
@@ -354,5 +378,29 @@ DTEND:20250203T220000
 DTSTAMP:20250203T210000Z
 UID:2025-02-03T21:00:00/Road to the Super Bowl
 DESCRIPTION:Road to the Super Bowl - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Fram - Lengjubikar karla - stod2sport
+DTSTART:20250204T185000
+DTEND:20250204T195000
+DTSTAMP:20250204T185000Z
+UID:2025-02-04T18:50:00/Breiðablik - Fram
+DESCRIPTION:Breiðablik - Fram - Lengjubikar karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lokasóknin - NFL - stod2sport2
+DTSTART:20250204T200000
+DTEND:20250204T210000
+DTSTAMP:20250204T200000Z
+UID:2025-02-04T20:00:00/Lokasóknin
+DESCRIPTION:Lokasóknin - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
+DTSTART:20250204T210000
+DTEND:20250204T220000
+DTSTAMP:20250204T210000Z
+UID:2025-02-04T21:00:00/Bónus deildin - Extra
+DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
