@@ -131,14 +131,6 @@ UID:2025-02-02T13:00:00/Barcelona - Deportivo Alaves
 DESCRIPTION:Barcelona - Deportivo Alaves - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fiorentina - Genoa - Serie A - Ítalski boltinn - livey
-DTSTART:20250202T140000
-DTEND:20250202T150000
-DTSTAMP:20250202T140000Z
-UID:2025-02-02T14:00:00/Fiorentina - Genoa
-DESCRIPTION:Fiorentina - Genoa - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Toulouse - Nice - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250202T140000
 DTEND:20250202T150000
@@ -147,20 +139,20 @@ UID:2025-02-02T14:00:00/Toulouse - Nice
 DESCRIPTION:Toulouse - Nice - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fiorentina - Genoa - Serie A - Ítalski boltinn - livey
+DTSTART:20250202T140000
+DTEND:20250202T150000
+DTSTAMP:20250202T140000Z
+UID:2025-02-02T14:00:00/Fiorentina - Genoa
+DESCRIPTION:Fiorentina - Genoa - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valencia - Celta Vigo - LaLiga - Spænski boltinn - livey
 DTSTART:20250202T151500
 DTEND:20250202T161500
 DTSTAMP:20250202T151500Z
 UID:2025-02-02T15:15:00/Valencia - Celta Vigo
 DESCRIPTION:Valencia - Celta Vigo - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Angers - Le Havre - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250202T161500
-DTEND:20250202T171500
-DTSTAMP:20250202T161500Z
-UID:2025-02-02T16:15:00/Angers - Le Havre
-DESCRIPTION:Angers - Le Havre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rennes - RC Strasbourg - Ligue 1 - Franski Boltinn - livey
@@ -179,6 +171,14 @@ UID:2025-02-02T16:15:00/Reims - Nantes
 DESCRIPTION:Reims - Nantes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Angers - Le Havre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250202T161500
+DTEND:20250202T171500
+DTSTAMP:20250202T161500Z
+UID:2025-02-02T16:15:00/Angers - Le Havre
+DESCRIPTION:Angers - Le Havre - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AC Milan - Inter Milan - Serie A - Ítalski boltinn - livey
 DTSTART:20250202T170000
 DTEND:20250202T180000
@@ -195,20 +195,20 @@ UID:2025-02-02T17:30:00/Osasuna - Real Sociedad
 DESCRIPTION:Osasuna - Real Sociedad - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marseille - Lyon - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250202T194500
-DTEND:20250202T204500
-DTSTAMP:20250202T194500Z
-UID:2025-02-02T19:45:00/Marseille - Lyon
-DESCRIPTION:Marseille - Lyon - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Roma - Napoli - Serie A - Ítalski boltinn - livey
 DTSTART:20250202T194500
 DTEND:20250202T204500
 DTSTAMP:20250202T194500Z
 UID:2025-02-02T19:45:00/Roma - Napoli
 DESCRIPTION:Roma - Napoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marseille - Lyon - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250202T194500
+DTEND:20250202T204500
+DTSTAMP:20250202T194500Z
+UID:2025-02-02T19:45:00/Marseille - Lyon
+DESCRIPTION:Marseille - Lyon - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Betis - Athletic Bilbao - LaLiga - Spænski boltinn - livey
