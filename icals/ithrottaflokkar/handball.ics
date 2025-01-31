@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Fram - Selfoss - Olís deild kvenna - hsi1
-DTSTART:20250130T183000
-DTEND:20250130T193000
-DTSTAMP:20250130T183000Z
-UID:2025-01-30T18:30:00/Fram - Selfoss
-DESCRIPTION:Fram - Selfoss - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frakkland - Króatía - undanúrslit - HM karla í handbolta - ruv
- 2
-DTSTART:20250130T200000
-DTEND:20250130T210000
-DTSTAMP:20250130T200000Z
-UID:2025-01-30T20:00:00/Frakkland - Króatía - undanúrslit
-DESCRIPTION:Frakkland - Króatía - undanúrslit - HM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - Valur - Olís deild kvenna - sjonvarpsimans
 DTSTART:20250131T182000
 DTEND:20250131T192000
@@ -107,14 +90,6 @@ UID:2025-02-04T19:30:00/Afturelding - ÍR
 DESCRIPTION:Afturelding - ÍR - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Fram - Olís deild karla - hsi1
-DTSTART:20250204T193000
-DTEND:20250204T203000
-DTSTAMP:20250204T193000Z
-UID:2025-02-04T19:30:00/Haukar - Fram
-DESCRIPTION:Haukar - Fram - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grótta - HK - Olís deild karla - hsi1
 DTSTART:20250204T193000
 DTEND:20250204T203000
@@ -129,6 +104,14 @@ DTEND:20250204T203000
 DTSTAMP:20250204T193000Z
 UID:2025-02-04T19:30:00/FH - Stjarnan
 DESCRIPTION:FH - Stjarnan - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Fram - Olís deild karla - hsi1
+DTSTART:20250204T193000
+DTEND:20250204T203000
+DTSTAMP:20250204T193000Z
+UID:2025-02-04T19:30:00/Haukar - Fram
+DESCRIPTION:Haukar - Fram - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍBV - Valur - Powerade bikar kvenna 2025 - hsi1
@@ -147,6 +130,14 @@ UID:2025-02-05T19:30:00/Fram - Stjarnan
 DESCRIPTION:Fram - Stjarnan - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ÍR - Haukar - Powerade bikar kvenna 2025 - hsi1
+DTSTART:20250205T193000
+DTEND:20250205T203000
+DTSTAMP:20250205T193000Z
+UID:2025-02-05T19:30:00/ÍR - Haukar
+DESCRIPTION:ÍR - Haukar - Powerade bikar kvenna 2025
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fram - Stjarnan - 8-liða úrslit - Bikarkeppni kvenna í handbolt
  a - ruv2
 DTSTART:20250205T193000
@@ -155,14 +146,6 @@ DTSTAMP:20250205T193000Z
 UID:2025-02-05T19:30:00/Fram - Stjarnan - 8-liða úrslit
 DESCRIPTION:Fram - Stjarnan - 8-liða úrslit - Bikarkeppni kvenna í hand
  bolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Haukar - Powerade bikar kvenna 2025 - hsi1
-DTSTART:20250205T193000
-DTEND:20250205T203000
-DTSTAMP:20250205T193000Z
-UID:2025-02-05T19:30:00/ÍR - Haukar
-DESCRIPTION:ÍR - Haukar - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Víkingur - Grótta - Powerade bikar kvenna 2025 - hsi1

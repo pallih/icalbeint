@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Fram - Selfoss - Olís deild kvenna - hsi1
-DTSTART:20250130T183000
-DTEND:20250130T193000
-DTSTAMP:20250130T183000Z
-UID:2025-01-30T18:30:00/Fram - Selfoss
-DESCRIPTION:Fram - Selfoss - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - Valur - Olís deild kvenna - sjonvarpsimans
 DTSTART:20250131T182000
 DTEND:20250131T192000
@@ -50,7 +42,7 @@ UID:2025-02-01T14:00:00/Grótta - ÍR
 DESCRIPTION:Grótta - ÍR - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Liverpool - Enska úrvalsdeildin - sjonvarpsimans
+SUMMARY:Bournemouth - Liverpool - Enska úrvalsdeildin - siminnsport
 DTSTART:20250201T143000
 DTEND:20250201T153000
 DTSTAMP:20250201T143000Z
@@ -58,7 +50,7 @@ UID:2025-02-01T14:30:00/Bournemouth - Liverpool
 DESCRIPTION:Bournemouth - Liverpool - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Liverpool - Enska úrvalsdeildin - siminnsport
+SUMMARY:Bournemouth - Liverpool - Enska úrvalsdeildin - sjonvarpsimans
 DTSTART:20250201T143000
 DTEND:20250201T153000
 DTSTAMP:20250201T143000Z
@@ -74,20 +66,20 @@ UID:2025-02-01T14:50:00/Ipswich - Southampton
 DESCRIPTION:Ipswich - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Fulham - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250201T145000
-DTEND:20250201T155000
-DTSTAMP:20250201T145000Z
-UID:2025-02-01T14:50:00/Newcastle - Fulham
-DESCRIPTION:Newcastle - Fulham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Everton - Leicester - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250201T145000
 DTEND:20250201T155000
 DTSTAMP:20250201T145000Z
 UID:2025-02-01T14:50:00/Everton - Leicester
 DESCRIPTION:Everton - Leicester - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Fulham - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250201T145000
+DTEND:20250201T155000
+DTSTAMP:20250201T145000Z
+UID:2025-02-01T14:50:00/Newcastle - Fulham
+DESCRIPTION:Newcastle - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Aston Villa - Enska úrvalsdeildin - siminnsport
@@ -178,14 +170,6 @@ UID:2025-02-04T19:30:00/Afturelding - ÍR
 DESCRIPTION:Afturelding - ÍR - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Fram - Olís deild karla - hsi1
-DTSTART:20250204T193000
-DTEND:20250204T203000
-DTSTAMP:20250204T193000Z
-UID:2025-02-04T19:30:00/Haukar - Fram
-DESCRIPTION:Haukar - Fram - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grótta - HK - Olís deild karla - hsi1
 DTSTART:20250204T193000
 DTEND:20250204T203000
@@ -200,6 +184,14 @@ DTEND:20250204T203000
 DTSTAMP:20250204T193000Z
 UID:2025-02-04T19:30:00/FH - Stjarnan
 DESCRIPTION:FH - Stjarnan - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Fram - Olís deild karla - hsi1
+DTSTART:20250204T193000
+DTEND:20250204T203000
+DTSTAMP:20250204T193000Z
+UID:2025-02-04T19:30:00/Haukar - Fram
+DESCRIPTION:Haukar - Fram - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍBV - Valur - Powerade bikar kvenna 2025 - hsi1
