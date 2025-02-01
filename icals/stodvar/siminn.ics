@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Valur - Olís deild kvenna - sjonvarpsimans
-DTSTART:20250131T182000
-DTEND:20250131T192000
-DTSTAMP:20250131T182000Z
-UID:2025-01-31T18:20:00/Stjarnan - Valur
-DESCRIPTION:Stjarnan - Valur - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - Valur - Olís deild kvenna - hsi1
-DTSTART:20250131T183000
-DTEND:20250131T193000
-DTSTAMP:20250131T183000Z
-UID:2025-01-31T18:30:00/Stjarnan - Valur
-DESCRIPTION:Stjarnan - Valur - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Brighton - Enska úrvalsdeildin - siminnsport
 DTSTART:20250201T120000
 DTEND:20250201T130000
@@ -42,6 +26,14 @@ UID:2025-02-01T14:00:00/Grótta - ÍR
 DESCRIPTION:Grótta - ÍR - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bournemouth - Liverpool - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20250201T143000
+DTEND:20250201T153000
+DTSTAMP:20250201T143000Z
+UID:2025-02-01T14:30:00/Bournemouth - Liverpool
+DESCRIPTION:Bournemouth - Liverpool - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bournemouth - Liverpool - Enska úrvalsdeildin - siminnsport
 DTSTART:20250201T143000
 DTEND:20250201T153000
@@ -50,12 +42,12 @@ UID:2025-02-01T14:30:00/Bournemouth - Liverpool
 DESCRIPTION:Bournemouth - Liverpool - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Liverpool - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20250201T143000
-DTEND:20250201T153000
-DTSTAMP:20250201T143000Z
-UID:2025-02-01T14:30:00/Bournemouth - Liverpool
-DESCRIPTION:Bournemouth - Liverpool - Enska úrvalsdeildin
+SUMMARY:Newcastle - Fulham - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250201T145000
+DTEND:20250201T155000
+DTSTAMP:20250201T145000Z
+UID:2025-02-01T14:50:00/Newcastle - Fulham
+DESCRIPTION:Newcastle - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ipswich - Southampton - Enska úrvalsdeildin - siminnsport4
@@ -72,14 +64,6 @@ DTEND:20250201T155000
 DTSTAMP:20250201T145000Z
 UID:2025-02-01T14:50:00/Everton - Leicester
 DESCRIPTION:Everton - Leicester - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Newcastle - Fulham - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250201T145000
-DTEND:20250201T155000
-DTSTAMP:20250201T145000Z
-UID:2025-02-01T14:50:00/Newcastle - Fulham
-DESCRIPTION:Newcastle - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Aston Villa - Enska úrvalsdeildin - siminnsport
@@ -162,14 +146,6 @@ UID:2025-02-04T19:20:00/FH - Stjarnan
 DESCRIPTION:FH - Stjarnan - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afturelding - ÍR - Olís deild karla - hsi1
-DTSTART:20250204T193000
-DTEND:20250204T203000
-DTSTAMP:20250204T193000Z
-UID:2025-02-04T19:30:00/Afturelding - ÍR
-DESCRIPTION:Afturelding - ÍR - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grótta - HK - Olís deild karla - hsi1
 DTSTART:20250204T193000
 DTEND:20250204T203000
@@ -178,12 +154,12 @@ UID:2025-02-04T19:30:00/Grótta - HK
 DESCRIPTION:Grótta - HK - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Stjarnan - Olís deild karla - hsi1
+SUMMARY:Afturelding - ÍR - Olís deild karla - hsi1
 DTSTART:20250204T193000
 DTEND:20250204T203000
 DTSTAMP:20250204T193000Z
-UID:2025-02-04T19:30:00/FH - Stjarnan
-DESCRIPTION:FH - Stjarnan - Olís deild karla
+UID:2025-02-04T19:30:00/Afturelding - ÍR
+DESCRIPTION:Afturelding - ÍR - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Fram - Olís deild karla - hsi1
@@ -194,20 +170,20 @@ UID:2025-02-04T19:30:00/Haukar - Fram
 DESCRIPTION:Haukar - Fram - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FH - Stjarnan - Olís deild karla - hsi1
+DTSTART:20250204T193000
+DTEND:20250204T203000
+DTSTAMP:20250204T193000Z
+UID:2025-02-04T19:30:00/FH - Stjarnan
+DESCRIPTION:FH - Stjarnan - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍBV - Valur - Powerade bikar kvenna 2025 - hsi1
 DTSTART:20250205T180000
 DTEND:20250205T190000
 DTSTAMP:20250205T180000Z
 UID:2025-02-05T18:00:00/ÍBV - Valur
 DESCRIPTION:ÍBV - Valur - Powerade bikar kvenna 2025
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fram - Stjarnan - Powerade bikar kvenna 2025 - hsi1
-DTSTART:20250205T193000
-DTEND:20250205T203000
-DTSTAMP:20250205T193000Z
-UID:2025-02-05T19:30:00/Fram - Stjarnan
-DESCRIPTION:Fram - Stjarnan - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Haukar - Powerade bikar kvenna 2025 - hsi1
@@ -218,11 +194,27 @@ UID:2025-02-05T19:30:00/ÍR - Haukar
 DESCRIPTION:ÍR - Haukar - Powerade bikar kvenna 2025
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fram - Stjarnan - Powerade bikar kvenna 2025 - hsi1
+DTSTART:20250205T193000
+DTEND:20250205T203000
+DTSTAMP:20250205T193000Z
+UID:2025-02-05T19:30:00/Fram - Stjarnan
+DESCRIPTION:Fram - Stjarnan - Powerade bikar kvenna 2025
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Víkingur - Grótta - Powerade bikar kvenna 2025 - hsi1
 DTSTART:20250205T200000
 DTEND:20250205T210000
 DTSTAMP:20250205T200000Z
 UID:2025-02-05T20:00:00/Víkingur - Grótta
 DESCRIPTION:Víkingur - Grótta - Powerade bikar kvenna 2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HK - Haukar - Olís deild karla - hsi1
+DTSTART:20250207T193000
+DTEND:20250207T203000
+DTSTAMP:20250207T193000Z
+UID:2025-02-07T19:30:00/HK - Haukar
+DESCRIPTION:HK - Haukar - Olís deild karla
 END:VEVENT
 END:VCALENDAR

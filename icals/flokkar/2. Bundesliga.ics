@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20250131T172500
-DTEND:20250131T182500
-DTSTAMP:20250131T172500Z
-UID:2025-01-31T17:25:00/Nürnberg - Darmstadt
-DESCRIPTION:Nürnberg - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elversberg - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20250131T172500
-DTEND:20250131T182500
-DTSTAMP:20250131T172500Z
-UID:2025-01-31T17:25:00/Elversberg - Karlsruher
-DESCRIPTION:Elversberg - Karlsruher - 2. Bundesliga
+SUMMARY:Düsseldorf - Ulm - 2. Bundesliga - stod2vodasport
+DTSTART:20250201T115500
+DTEND:20250201T125500
+DTSTAMP:20250201T115500Z
+UID:2025-02-01T11:55:00/Düsseldorf - Ulm
+DESCRIPTION:Düsseldorf - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jahn Regensburg - Hertha Berlin - 2. Bundesliga - viaplay
@@ -26,12 +18,12 @@ UID:2025-02-01T11:55:00/Jahn Regensburg - Hertha Berlin
 DESCRIPTION:Jahn Regensburg - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Ulm - 2. Bundesliga - stod2vodasport
+SUMMARY:Braunschweig - Köln - 2. Bundesliga - viaplay
 DTSTART:20250201T115500
 DTEND:20250201T125500
 DTSTAMP:20250201T115500Z
-UID:2025-02-01T11:55:00/Düsseldorf - Ulm
-DESCRIPTION:Düsseldorf - Ulm - 2. Bundesliga
+UID:2025-02-01T11:55:00/Braunschweig - Köln
+DESCRIPTION:Braunschweig - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Düsseldorf - Ulm - 2. Bundesliga - viaplay
@@ -42,20 +34,28 @@ UID:2025-02-01T11:55:00/Düsseldorf - Ulm
 DESCRIPTION:Düsseldorf - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschweig - Köln - 2. Bundesliga - viaplay
-DTSTART:20250201T115500
-DTEND:20250201T125500
-DTSTAMP:20250201T115500Z
-UID:2025-02-01T11:55:00/Braunschweig - Köln
-DESCRIPTION:Braunschweig - Köln - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Schalke - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20250201T192500
 DTEND:20250201T202500
 DTSTAMP:20250201T192500Z
 UID:2025-02-01T19:25:00/Schalke - Magdeburg
 DESCRIPTION:Schalke - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV - Hannover - 2. Bundesliga - viaplay
+DTSTART:20250202T122500
+DTEND:20250202T132500
+DTSTAMP:20250202T122500Z
+UID:2025-02-02T12:25:00/HSV - Hannover
+DESCRIPTION:HSV - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Münster - 2. Bundesliga - stod2vodasport
+DTSTART:20250202T122500
+DTEND:20250202T132500
+DTSTAMP:20250202T122500Z
+UID:2025-02-02T12:25:00/Kaiserslautern - Münster
+DESCRIPTION:Kaiserslautern - Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Preußen Münster - 2. Bundesliga - viaplay
@@ -74,19 +74,19 @@ UID:2025-02-02T12:25:00/Paderborn - Greuther Fürth
 DESCRIPTION:Paderborn - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HSV - Hannover - 2. Bundesliga - viaplay
-DTSTART:20250202T122500
-DTEND:20250202T132500
-DTSTAMP:20250202T122500Z
-UID:2025-02-02T12:25:00/HSV - Hannover
-DESCRIPTION:HSV - Hannover - 2. Bundesliga
+SUMMARY:Preußen Münster - HSV - 2. Bundesliga - viaplay
+DTSTART:20250207T172500
+DTEND:20250207T182500
+DTSTAMP:20250207T172500Z
+UID:2025-02-07T17:25:00/Preußen Münster - HSV
+DESCRIPTION:Preußen Münster - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Münster - 2. Bundesliga - stod2vodasport
-DTSTART:20250202T122500
-DTEND:20250202T132500
-DTSTAMP:20250202T122500Z
-UID:2025-02-02T12:25:00/Kaiserslautern - Münster
-DESCRIPTION:Kaiserslautern - Münster - 2. Bundesliga
+SUMMARY:Greuther Fürth - Jahn Regensburg - 2. Bundesliga - viaplay
+DTSTART:20250207T172500
+DTEND:20250207T182500
+DTSTAMP:20250207T172500Z
+UID:2025-02-07T17:25:00/Greuther Fürth - Jahn Regensburg
+DESCRIPTION:Greuther Fürth - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
