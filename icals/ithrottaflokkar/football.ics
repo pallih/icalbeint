@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Newcastle - Arsenal - Carabao Cup - viaplay
-DTSTART:20250205T195500
-DTEND:20250205T205500
-DTSTAMP:20250205T195500Z
-UID:2025-02-05T19:55:00/Newcastle - Arsenal
-DESCRIPTION:Newcastle - Arsenal - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Newcastle - Arsenal - Carabao Cup - stod2vodasport
-DTSTART:20250205T195500
-DTEND:20250205T205500
-DTSTAMP:20250205T195500Z
-UID:2025-02-05T19:55:00/Newcastle - Arsenal
-DESCRIPTION:Newcastle - Arsenal - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AC Milan - Roma - Serie A - Ítalski boltinn - livey
-DTSTART:20250205T200000
-DTEND:20250205T210000
-DTSTAMP:20250205T200000Z
-UID:2025-02-05T20:00:00/AC Milan - Roma
-DESCRIPTION:AC Milan - Roma - Serie A - Ítalski boltinn
+SUMMARY:Al Taawoun - Al Ittihad - Saudi Pro League - viaplay
+DTSTART:20250206T165500
+DTEND:20250206T175500
+DTSTAMP:20250206T165500Z
+UID:2025-02-06T16:55:00/Al Taawoun - Al Ittihad
+DESCRIPTION:Al Taawoun - Al Ittihad - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Al Taawoun - Al Lttihad - Saudi Pro League - stod2vodasport
@@ -34,14 +18,6 @@ UID:2025-02-06T16:55:00/Al Taawoun - Al Lttihad
 DESCRIPTION:Al Taawoun - Al Lttihad - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Al Taawoun - Al Ittihad - Saudi Pro League - viaplay
-DTSTART:20250206T165500
-DTEND:20250206T175500
-DTSTAMP:20250206T165500Z
-UID:2025-02-06T16:55:00/Al Taawoun - Al Ittihad
-DESCRIPTION:Al Taawoun - Al Ittihad - Saudi Pro League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fiorentina - Inter Milan - Serie A - Ítalski boltinn - livey
 DTSTART:20250206T194500
 DTEND:20250206T204500
@@ -50,7 +26,7 @@ UID:2025-02-06T19:45:00/Fiorentina - Inter Milan
 DESCRIPTION:Fiorentina - Inter Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Tottenham - Carabao Cup - stod2vodasport
+SUMMARY:Liverpool - Tottenham - Carabao Cup - viaplay
 DTSTART:20250206T195500
 DTEND:20250206T205500
 DTSTAMP:20250206T195500Z
@@ -58,7 +34,7 @@ UID:2025-02-06T19:55:00/Liverpool - Tottenham
 DESCRIPTION:Liverpool - Tottenham - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Tottenham - Carabao Cup - viaplay
+SUMMARY:Liverpool - Tottenham - Carabao Cup - stod2vodasport
 DTSTART:20250206T195500
 DTEND:20250206T205500
 DTSTAMP:20250206T195500Z
@@ -146,20 +122,20 @@ UID:2025-02-07T19:45:00/Como - Juventus
 DESCRIPTION:Como - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man United - Leicester - FA Cup - viaplay
-DTSTART:20250207T195000
-DTEND:20250207T205000
-DTSTAMP:20250207T195000Z
-UID:2025-02-07T19:50:00/Man United - Leicester
-DESCRIPTION:Man United - Leicester - FA Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. Utd. - Leicester - FA Cup - stod2vodasport
 DTSTART:20250207T195000
 DTEND:20250207T205000
 DTSTAMP:20250207T195000Z
 UID:2025-02-07T19:50:00/Man. Utd. - Leicester
 DESCRIPTION:Man. Utd. - Leicester - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man United - Leicester - FA Cup - viaplay
+DTSTART:20250207T195000
+DTEND:20250207T205000
+DTSTAMP:20250207T195000Z
+UID:2025-02-07T19:50:00/Man United - Leicester
+DESCRIPTION:Man United - Leicester - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rayo Vallecano - Valladolid - LaLiga - Spænski boltinn - livey
@@ -218,7 +194,7 @@ UID:2025-02-08T12:05:00/Leyton Orient - Man City
 DESCRIPTION:Leyton Orient - Man City - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leeds - Millwall - FA Cup - viaplay
+SUMMARY:Leeds - Millwall - FA Cup - stod2vodasport
 DTSTART:20250208T121000
 DTEND:20250208T131000
 DTSTAMP:20250208T121000Z
@@ -226,7 +202,7 @@ UID:2025-02-08T12:10:00/Leeds - Millwall
 DESCRIPTION:Leeds - Millwall - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leeds - Millwall - FA Cup - stod2vodasport
+SUMMARY:Leeds - Millwall - FA Cup - viaplay
 DTSTART:20250208T121000
 DTEND:20250208T131000
 DTSTAMP:20250208T121000Z
@@ -274,28 +250,12 @@ UID:2025-02-08T14:20:00/Mainz - Augsburg
 DESCRIPTION:Mainz - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Wolfsburg - Leverkusen - Bundesliga - viaplay
 DTSTART:20250208T142000
 DTEND:20250208T152000
 DTSTAMP:20250208T142000Z
-UID:2025-02-08T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Stuttgart - Bundesliga - viaplay
-DTSTART:20250208T142000
-DTEND:20250208T152000
-DTSTAMP:20250208T142000Z
-UID:2025-02-08T14:20:00/Dortmund - Stuttgart
-DESCRIPTION:Dortmund - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Union Berlin - Bundesliga - viaplay
-DTSTART:20250208T142000
-DTEND:20250208T152000
-DTSTAMP:20250208T142000Z
-UID:2025-02-08T14:20:00/Hoffenheim - Union Berlin
-DESCRIPTION:Hoffenheim - Union Berlin - Bundesliga
+UID:2025-02-08T14:20:00/Wolfsburg - Leverkusen
+DESCRIPTION:Wolfsburg - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freiburg - Heidenheim - Bundesliga - viaplay
@@ -306,12 +266,28 @@ UID:2025-02-08T14:20:00/Freiburg - Heidenheim
 DESCRIPTION:Freiburg - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Leverkusen - Bundesliga - viaplay
+SUMMARY:Hoffenheim - Union Berlin - Bundesliga - viaplay
 DTSTART:20250208T142000
 DTEND:20250208T152000
 DTSTAMP:20250208T142000Z
-UID:2025-02-08T14:20:00/Wolfsburg - Leverkusen
-DESCRIPTION:Wolfsburg - Leverkusen - Bundesliga
+UID:2025-02-08T14:20:00/Hoffenheim - Union Berlin
+DESCRIPTION:Hoffenheim - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Stuttgart - Bundesliga - viaplay
+DTSTART:20250208T142000
+DTEND:20250208T152000
+DTSTAMP:20250208T142000Z
+UID:2025-02-08T14:20:00/Dortmund - Stuttgart
+DESCRIPTION:Dortmund - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250208T142000
+DTEND:20250208T152000
+DTSTAMP:20250208T142000Z
+UID:2025-02-08T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stoke - Cardiff - FA Cup - viaplay
@@ -322,12 +298,12 @@ UID:2025-02-08T14:50:00/Stoke - Cardiff
 DESCRIPTION:Stoke - Cardiff - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coventry - Ipswich - FA Cup - viaplay
+SUMMARY:Southampton - Burnley - FA Cup - viaplay
 DTSTART:20250208T145000
 DTEND:20250208T155000
 DTSTAMP:20250208T145000Z
-UID:2025-02-08T14:50:00/Coventry - Ipswich
-DESCRIPTION:Coventry - Ipswich - FA Cup
+UID:2025-02-08T14:50:00/Southampton - Burnley
+DESCRIPTION:Southampton - Burnley - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wigan - Fulham - FA Cup - viaplay
@@ -338,12 +314,20 @@ UID:2025-02-08T14:50:00/Wigan - Fulham
 DESCRIPTION:Wigan - Fulham - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Burnley - FA Cup - viaplay
+SUMMARY:Coventry - Ipswich - FA Cup - viaplay
 DTSTART:20250208T145000
 DTEND:20250208T155000
 DTSTAMP:20250208T145000Z
-UID:2025-02-08T14:50:00/Southampton - Burnley
-DESCRIPTION:Southampton - Burnley - FA Cup
+UID:2025-02-08T14:50:00/Coventry - Ipswich
+DESCRIPTION:Coventry - Ipswich - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Bournemouth - FA Cup - viaplay
+DTSTART:20250208T145500
+DTEND:20250208T155500
+DTSTAMP:20250208T145500Z
+UID:2025-02-08T14:55:00/Everton - Bournemouth
+DESCRIPTION:Everton - Bournemouth - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield United - Portsmouth - Championship - viaplay
@@ -354,14 +338,6 @@ UID:2025-02-08T14:55:00/Sheffield United - Portsmouth
 DESCRIPTION:Sheffield United - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Bournemouth - FA Cup - stod2vodasport
-DTSTART:20250208T145500
-DTEND:20250208T155500
-DTSTAMP:20250208T145500Z
-UID:2025-02-08T14:55:00/Everton - Bournemouth
-DESCRIPTION:Everton - Bournemouth - FA Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preston - Wycombe - FA Cup - viaplay
 DTSTART:20250208T145500
 DTEND:20250208T155500
@@ -370,7 +346,7 @@ UID:2025-02-08T14:55:00/Preston - Wycombe
 DESCRIPTION:Preston - Wycombe - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Bournemouth - FA Cup - viaplay
+SUMMARY:Everton - Bournemouth - FA Cup - stod2vodasport
 DTSTART:20250208T145500
 DTEND:20250208T155500
 DTSTAMP:20250208T145500Z
@@ -426,7 +402,7 @@ UID:2025-02-08T17:30:00/Las Palmas - Villareal
 DESCRIPTION:Las Palmas - Villareal - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Birmingham - Newcastle - FA Cup - viaplay
+SUMMARY:Birmingham - Newcastle - FA Cup - stod2vodasport
 DTSTART:20250208T174000
 DTEND:20250208T184000
 DTSTAMP:20250208T174000Z
@@ -434,7 +410,7 @@ UID:2025-02-08T17:40:00/Birmingham - Newcastle
 DESCRIPTION:Birmingham - Newcastle - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Birmingham - Newcastle - FA Cup - stod2vodasport
+SUMMARY:Birmingham - Newcastle - FA Cup - viaplay
 DTSTART:20250208T174000
 DTEND:20250208T184000
 DTSTAMP:20250208T174000Z
@@ -450,14 +426,6 @@ UID:2025-02-08T18:00:00/Lille - Le Havre
 DESCRIPTION:Lille - Le Havre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20250208T192500
-DTEND:20250208T202500
-DTSTAMP:20250208T192500Z
-UID:2025-02-08T19:25:00/Hertha Berlin - Kaiserslautern
-DESCRIPTION:Hertha Berlin - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kiel - Magdeburg - Bundesliga - viaplay
 DTSTART:20250208T192500
 DTEND:20250208T202500
@@ -466,20 +434,20 @@ UID:2025-02-08T19:25:00/Kiel - Magdeburg
 DESCRIPTION:Kiel - Magdeburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hertha Berlin - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20250208T192500
+DTEND:20250208T202500
+DTSTAMP:20250208T192500Z
+UID:2025-02-08T19:25:00/Hertha Berlin - Kaiserslautern
+DESCRIPTION:Hertha Berlin - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Torino - Genoa - Serie A - Ítalski boltinn - livey
 DTSTART:20250208T194500
 DTEND:20250208T204500
 DTSTAMP:20250208T194500Z
 UID:2025-02-08T19:45:00/Torino - Genoa
 DESCRIPTION:Torino - Genoa - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brighton - Chelsea - FA Cup - viaplay
-DTSTART:20250208T195500
-DTEND:20250208T205500
-DTSTAMP:20250208T195500Z
-UID:2025-02-08T19:55:00/Brighton - Chelsea
-DESCRIPTION:Brighton - Chelsea - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brighton - Chelsea - FA Cup - stod2vodasport
@@ -497,6 +465,14 @@ DTEND:20250208T205500
 DTSTAMP:20250208T195500Z
 UID:2025-02-08T19:55:00/ Real Madrid - Atlético Madrid
 DESCRIPTION: Real Madrid - Atlético Madrid - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - Chelsea - FA Cup - viaplay
+DTSTART:20250208T195500
+DTEND:20250208T205500
+DTSTAMP:20250208T195500Z
+UID:2025-02-08T19:55:00/Brighton - Chelsea
+DESCRIPTION:Brighton - Chelsea - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - Atletico Madrid - LaLiga - Spænski boltinn - livey
@@ -547,20 +523,20 @@ UID:2025-02-09T11:55:00/Bristol City - Swansea
 DESCRIPTION:Bristol City - Swansea - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hannover - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20250209T122500
+DTEND:20250209T132500
+DTSTAMP:20250209T122500Z
+UID:2025-02-09T12:25:00/Hannover - Düsseldorf
+DESCRIPTION:Hannover - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blackburn - Wolverhampton - FA Cup - viaplay
 DTSTART:20250209T122500
 DTEND:20250209T132500
 DTSTAMP:20250209T122500Z
 UID:2025-02-09T12:25:00/Blackburn - Wolverhampton
 DESCRIPTION:Blackburn - Wolverhampton - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackburn - Wolves - FA Cup - stod2vodasport
-DTSTART:20250209T122500
-DTEND:20250209T132500
-DTSTAMP:20250209T122500Z
-UID:2025-02-09T12:25:00/Blackburn - Wolves
-DESCRIPTION:Blackburn - Wolves - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Braunschweig - 2. Bundesliga - viaplay
@@ -579,12 +555,12 @@ UID:2025-02-09T12:25:00/Köln - Schalke
 DESCRIPTION:Köln - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Düsseldorf - 2. Bundesliga - viaplay
+SUMMARY:Blackburn - Wolves - FA Cup - stod2vodasport
 DTSTART:20250209T122500
 DTEND:20250209T132500
 DTSTAMP:20250209T122500Z
-UID:2025-02-09T12:25:00/Hannover - Düsseldorf
-DESCRIPTION:Hannover - Düsseldorf - 2. Bundesliga
+UID:2025-02-09T12:25:00/Blackburn - Wolves
+DESCRIPTION:Blackburn - Wolves - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Bayern München - Frauen-Bundesliga - viaplay
@@ -603,6 +579,14 @@ UID:2025-02-09T13:00:00/Deportivo Alaves - Getafe
 DESCRIPTION:Deportivo Alaves - Getafe - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lyon - Reims - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250209T140000
+DTEND:20250209T150000
+DTSTAMP:20250209T140000Z
+UID:2025-02-09T14:00:00/Lyon - Reims
+DESCRIPTION:Lyon - Reims - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lazio - Monza - Serie A - Ítalski boltinn - livey
 DTSTART:20250209T140000
 DTEND:20250209T150000
@@ -619,14 +603,6 @@ UID:2025-02-09T14:00:00/Cagliari - Parma
 DESCRIPTION:Cagliari - Parma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lyon - Reims - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250209T140000
-DTEND:20250209T150000
-DTSTAMP:20250209T140000Z
-UID:2025-02-09T14:00:00/Lyon - Reims
-DESCRIPTION:Lyon - Reims - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Bochum - Bundesliga - viaplay
 DTSTART:20250209T142000
 DTEND:20250209T152000
@@ -635,7 +611,7 @@ UID:2025-02-09T14:20:00/Holstein Kiel - Bochum
 DESCRIPTION:Holstein Kiel - Bochum - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plymouth - Liverpool - FA Cup - viaplay
+SUMMARY:Plymouth - Liverpool - FA Cup - stod2vodasport
 DTSTART:20250209T145500
 DTEND:20250209T155500
 DTSTAMP:20250209T145500Z
@@ -643,7 +619,7 @@ UID:2025-02-09T14:55:00/Plymouth - Liverpool
 DESCRIPTION:Plymouth - Liverpool - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plymouth - Liverpool - FA Cup - stod2vodasport
+SUMMARY:Plymouth - Liverpool - FA Cup - viaplay
 DTSTART:20250209T145500
 DTEND:20250209T155500
 DTSTAMP:20250209T145500Z
@@ -667,20 +643,20 @@ UID:2025-02-09T15:25:00/TSV Hannover-Burgdorf- DHfK Leipzig
 DESCRIPTION:TSV Hannover-Burgdorf- DHfK Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Auxerre - Toulouse - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250209T161500
-DTEND:20250209T171500
-DTSTAMP:20250209T161500Z
-UID:2025-02-09T16:15:00/Auxerre - Toulouse
-DESCRIPTION:Auxerre - Toulouse - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RC Strasbourg - Montpellier - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250209T161500
 DTEND:20250209T171500
 DTSTAMP:20250209T161500Z
 UID:2025-02-09T16:15:00/RC Strasbourg - Montpellier
 DESCRIPTION:RC Strasbourg - Montpellier - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre - Toulouse - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250209T161500
+DTEND:20250209T171500
+DTSTAMP:20250209T161500Z
+UID:2025-02-09T16:15:00/Auxerre - Toulouse
+DESCRIPTION:Auxerre - Toulouse - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - St. Pauli - Bundesliga - viaplay
@@ -715,14 +691,6 @@ UID:2025-02-09T17:30:00/Real Sociedad - Espanyol
 DESCRIPTION:Real Sociedad - Espanyol - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aston Villa - Tottenham - FA Cup - viaplay
-DTSTART:20250209T173000
-DTEND:20250209T183000
-DTSTAMP:20250209T173000Z
-UID:2025-02-09T17:30:00/Aston Villa - Tottenham
-DESCRIPTION:Aston Villa - Tottenham - FA Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Tottenham - FA Cup - stod2vodasport
 DTSTART:20250209T173000
 DTEND:20250209T183000
@@ -731,12 +699,12 @@ UID:2025-02-09T17:30:00/Aston Villa - Tottenham
 DESCRIPTION:Aston Villa - Tottenham - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Napoli - Udinese - Serie A - Ítalski boltinn - livey
-DTSTART:20250209T194500
-DTEND:20250209T204500
-DTSTAMP:20250209T194500Z
-UID:2025-02-09T19:45:00/Napoli - Udinese
-DESCRIPTION:Napoli - Udinese - Serie A - Ítalski boltinn
+SUMMARY:Aston Villa - Tottenham - FA Cup - viaplay
+DTSTART:20250209T173000
+DTEND:20250209T183000
+DTSTAMP:20250209T173000Z
+UID:2025-02-09T17:30:00/Aston Villa - Tottenham
+DESCRIPTION:Aston Villa - Tottenham - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angers - Marseille - Ligue 1 - Franski Boltinn - livey
@@ -745,6 +713,14 @@ DTEND:20250209T204500
 DTSTAMP:20250209T194500Z
 UID:2025-02-09T19:45:00/Angers - Marseille
 DESCRIPTION:Angers - Marseille - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli - Udinese - Serie A - Ítalski boltinn - livey
+DTSTART:20250209T194500
+DTEND:20250209T204500
+DTSTAMP:20250209T194500Z
+UID:2025-02-09T19:45:00/Napoli - Udinese
+DESCRIPTION:Napoli - Udinese - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sevilla - Barcelona - LaLiga - Spænski boltinn - livey
@@ -811,14 +787,6 @@ UID:2025-02-11T12:55:00/AZ Alkmaar - Benfica
 DESCRIPTION:AZ Alkmaar - Benfica - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stuttgart - Liverpool - UEFA Youth League - viaplay
-DTSTART:20250211T125500
-DTEND:20250211T135500
-DTSTAMP:20250211T125500Z
-UID:2025-02-11T12:55:00/Stuttgart - Liverpool
-DESCRIPTION:Stuttgart - Liverpool - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AZ Alkmaar - Benfica - UEFA Youth League - stod2sport3
 DTSTART:20250211T125500
 DTEND:20250211T135500
@@ -835,7 +803,15 @@ UID:2025-02-11T12:55:00/Stuttgart - Liverpool
 DESCRIPTION:Stuttgart - Liverpool - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter - Lille - UEFA Youth League - stod2sport2
+SUMMARY:Stuttgart - Liverpool - UEFA Youth League - viaplay
+DTSTART:20250211T125500
+DTEND:20250211T135500
+DTSTAMP:20250211T125500Z
+UID:2025-02-11T12:55:00/Stuttgart - Liverpool
+DESCRIPTION:Stuttgart - Liverpool - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter - Lille - UEFA Youth League - viaplay
 DTSTART:20250211T145500
 DTEND:20250211T155500
 DTSTAMP:20250211T145500Z
@@ -851,6 +827,14 @@ UID:2025-02-11T14:55:00/Real Betis - Bayern München
 DESCRIPTION:Real Betis - Bayern München - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inter - Lille - UEFA Youth League - stod2sport2
+DTSTART:20250211T145500
+DTEND:20250211T155500
+DTSTAMP:20250211T145500Z
+UID:2025-02-11T14:55:00/Inter - Lille
+DESCRIPTION:Inter - Lille - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Real Betis - Bayern München - UEFA Youth League - viaplay
 DTSTART:20250211T145500
 DTEND:20250211T155500
@@ -859,20 +843,12 @@ UID:2025-02-11T14:55:00/Real Betis - Bayern München
 DESCRIPTION:Real Betis - Bayern München - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter - Lille - UEFA Youth League - viaplay
-DTSTART:20250211T145500
-DTEND:20250211T155500
-DTSTAMP:20250211T145500Z
-UID:2025-02-11T14:55:00/Inter - Lille
-DESCRIPTION:Inter - Lille - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brest - PSG - Meistaradeild Evrópu - stod2vodasport
-DTSTART:20250211T173500
-DTEND:20250211T183500
-DTSTAMP:20250211T173500Z
-UID:2025-02-11T17:35:00/Brest - PSG
-DESCRIPTION:Brest - PSG - Meistaradeild Evrópu
+SUMMARY:Essen - Köln - Frauen-Bundesliga - viaplay
+DTSTART:20250211T172500
+DTEND:20250211T182500
+DTSTAMP:20250211T172500Z
+UID:2025-02-11T17:25:00/Essen - Köln
+DESCRIPTION:Essen - Köln - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brest - PSG - Champions League - viaplay
@@ -883,6 +859,14 @@ UID:2025-02-11T17:35:00/Brest - PSG
 DESCRIPTION:Brest - PSG - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brest - PSG - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20250211T173500
+DTEND:20250211T183500
+DTSTAMP:20250211T173500Z
+UID:2025-02-11T17:35:00/Brest - PSG
+DESCRIPTION:Brest - PSG - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - stod2sport2
 DTSTART:20250211T192500
 DTEND:20250211T202500
@@ -891,28 +875,11 @@ UID:2025-02-11T19:25:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manchester City - Real Madrid - Meistaradeild Evrópu - stod2vodas
- port
-DTSTART:20250211T195000
-DTEND:20250211T205000
-DTSTAMP:20250211T195000Z
-UID:2025-02-11T19:50:00/Manchester City - Real Madrid
-DESCRIPTION:Manchester City - Real Madrid - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meistaradeild Evrópu - Meistaradeild Evrópu - stod2sport2
-DTSTART:20250211T195000
-DTEND:20250211T205000
-DTSTAMP:20250211T195000Z
-UID:2025-02-11T19:50:00/Meistaradeild Evrópu
-DESCRIPTION:Meistaradeild Evrópu - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man City - Real Madrid - Champions League - viaplay
-DTSTART:20250211T195000
-DTEND:20250211T205000
-DTSTAMP:20250211T195000Z
-UID:2025-02-11T19:50:00/Man City - Real Madrid
+DTSTART:20250211T192500
+DTEND:20250211T202500
+DTSTAMP:20250211T192500Z
+UID:2025-02-11T19:25:00/Man City - Real Madrid
 DESCRIPTION:Man City - Real Madrid - Champions League
 END:VEVENT
 BEGIN:VEVENT
@@ -924,12 +891,29 @@ UID:2025-02-11T19:50:00/Exeter - Nottingham Forest
 DESCRIPTION:Exeter - Nottingham Forest - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Instant Highlights - Champions League - viaplay
+SUMMARY:Juventus - PSV - Meistaradeild Evrópu - stod2sport2
 DTSTART:20250211T195000
 DTEND:20250211T205000
 DTSTAMP:20250211T195000Z
-UID:2025-02-11T19:50:00/Instant Highlights
-DESCRIPTION:Instant Highlights - Champions League
+UID:2025-02-11T19:50:00/Juventus - PSV
+DESCRIPTION:Juventus - PSV - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - Dortmund - Meistaradeild Evrópu - stod2sport3
+DTSTART:20250211T195000
+DTEND:20250211T205000
+DTSTAMP:20250211T195000Z
+UID:2025-02-11T19:50:00/Sporting - Dortmund
+DESCRIPTION:Sporting - Dortmund - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City - Real Madrid - Meistaradeild Evrópu - stod2vodas
+ port
+DTSTART:20250211T195000
+DTEND:20250211T205000
+DTSTAMP:20250211T195000Z
+UID:2025-02-11T19:50:00/Manchester City - Real Madrid
+DESCRIPTION:Manchester City - Real Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norwich - Preston - Championship - viaplay
@@ -953,6 +937,174 @@ DTSTART:20250211T220000
 DTEND:20250211T230000
 DTSTAMP:20250211T220000Z
 UID:2025-02-11T22:00:00/Goalshow
+DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - AS Monaco - UEFA Youth League - viaplay
+DTSTART:20250212T125500
+DTEND:20250212T135500
+DTSTAMP:20250212T125500Z
+UID:2025-02-12T12:55:00/Sporting - AS Monaco
+DESCRIPTION:Sporting - AS Monaco - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midtjylland - Manchester City - UEFA Youth League - stod2sport2
+DTSTART:20250212T125500
+DTEND:20250212T135500
+DTSTAMP:20250212T125500Z
+UID:2025-02-12T12:55:00/Midtjylland - Manchester City
+DESCRIPTION:Midtjylland - Manchester City - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - Monaco - UEFA Youth League - stod2sport3
+DTSTART:20250212T125500
+DTEND:20250212T135500
+DTSTAMP:20250212T125500Z
+UID:2025-02-12T12:55:00/Sporting - Monaco
+DESCRIPTION:Sporting - Monaco - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midtjylland - Man City - UEFA Youth League - viaplay
+DTSTART:20250212T125500
+DTEND:20250212T135500
+DTSTAMP:20250212T125500Z
+UID:2025-02-12T12:55:00/Midtjylland - Man City
+DESCRIPTION:Midtjylland - Man City - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trabzonspor - Juventus - UEFA Youth League - viaplay
+DTSTART:20250212T145500
+DTEND:20250212T155500
+DTSTAMP:20250212T145500Z
+UID:2025-02-12T14:55:00/Trabzonspor - Juventus
+DESCRIPTION:Trabzonspor - Juventus - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trabzonspor - Juventus - UEFA Youth League - stod2sport3
+DTSTART:20250212T145500
+DTEND:20250212T155500
+DTSTAMP:20250212T145500Z
+UID:2025-02-12T14:55:00/Trabzonspor - Juventus
+DESCRIPTION:Trabzonspor - Juventus - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid - Dortmund - UEFA Youth League - stod2sport2
+DTSTART:20250212T145500
+DTEND:20250212T155500
+DTSTAMP:20250212T145500Z
+UID:2025-02-12T14:55:00/Real Madrid - Dortmund
+DESCRIPTION:Real Madrid - Dortmund - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV - Mönchengladbach - DFB-Pokal Frauen - viaplay
+DTSTART:20250212T172500
+DTEND:20250212T182500
+DTSTAMP:20250212T172500Z
+UID:2025-02-12T17:25:00/HSV - Mönchengladbach
+DESCRIPTION:HSV - Mönchengladbach - DFB-Pokal Frauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Frankfurt - DFB-Pokal Frauen - viaplay
+DTSTART:20250212T172500
+DTEND:20250212T182500
+DTSTAMP:20250212T172500Z
+UID:2025-02-12T17:25:00/Bayern München - Frankfurt
+DESCRIPTION:Bayern München - Frankfurt - DFB-Pokal Frauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Werder Bremen - DFB-Pokal Frauen - viaplay
+DTSTART:20250212T172500
+DTEND:20250212T182500
+DTSTAMP:20250212T172500Z
+UID:2025-02-12T17:25:00/Leverkusen - Werder Bremen
+DESCRIPTION:Leverkusen - Werder Bremen - DFB-Pokal Frauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Wolfsburg - DFB-Pokal Frauen - viaplay
+DTSTART:20250212T172500
+DTEND:20250212T182500
+DTSTAMP:20250212T172500Z
+UID:2025-02-12T17:25:00/Hoffenheim - Wolfsburg
+DESCRIPTION:Hoffenheim - Wolfsburg - DFB-Pokal Frauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Brugge - Atalanta - Meistaradeild Evrópu - stod2sport3
+DTSTART:20250212T173500
+DTEND:20250212T183500
+DTSTAMP:20250212T173500Z
+UID:2025-02-12T17:35:00/Club Brugge - Atalanta
+DESCRIPTION:Club Brugge - Atalanta - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Liverpool - Enska úrvalsdeildin - siminnsport
+DTSTART:20250212T190000
+DTEND:20250212T200000
+DTSTAMP:20250212T190000Z
+UID:2025-02-12T19:00:00/Everton - Liverpool
+DESCRIPTION:Everton - Liverpool - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feyenoord - Milan - Champions League - viaplay
+DTSTART:20250212T192500
+DTEND:20250212T202500
+DTSTAMP:20250212T192500Z
+UID:2025-02-12T19:25:00/Feyenoord - Milan
+DESCRIPTION:Feyenoord - Milan - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - stod2sport2
+DTSTART:20250212T192500
+DTEND:20250212T202500
+DTSTAMP:20250212T192500Z
+UID:2025-02-12T19:25:00/Meistaradeildin - upphitun
+DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feyenoord - AC Milan - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20250212T195000
+DTEND:20250212T205000
+DTSTAMP:20250212T195000Z
+UID:2025-02-12T19:50:00/Feyenoord - AC Milan
+DESCRIPTION:Feyenoord - AC Milan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celtic - Bayern München - Meistaradeild Evrópu - stod2sport2
+DTSTART:20250212T195000
+DTEND:20250212T205000
+DTSTAMP:20250212T195000Z
+UID:2025-02-12T19:50:00/Celtic - Bayern München
+DESCRIPTION:Celtic - Bayern München - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco - Benfica - Champions League - viaplay
+DTSTART:20250212T195000
+DTEND:20250212T205000
+DTSTAMP:20250212T195000Z
+UID:2025-02-12T19:50:00/Monaco - Benfica
+DESCRIPTION:Monaco - Benfica - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Middlesbrough - Championship - viaplay
+DTSTART:20250212T195500
+DTEND:20250212T205500
+DTSTAMP:20250212T195500Z
+UID:2025-02-12T19:55:00/Sheffield United - Middlesbrough
+DESCRIPTION:Sheffield United - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
+DTSTART:20250212T220000
+DTEND:20250212T230000
+DTSTAMP:20250212T220000Z
+UID:2025-02-12T22:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goalshow - Champions League - viaplay
+DTSTART:20250212T220000
+DTEND:20250212T230000
+DTSTAMP:20250212T220000Z
+UID:2025-02-12T22:00:00/Goalshow
 DESCRIPTION:Goalshow - Champions League
 END:VEVENT
 END:VCALENDAR

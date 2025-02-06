@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Fram - Stjarnan - 8-liða úrslit - Bikarkeppni kvenna í handbolt
- a - ruv2
-DTSTART:20250205T193000
-DTEND:20250205T203000
-DTSTAMP:20250205T193000Z
-UID:2025-02-05T19:30:00/Fram - Stjarnan - 8-liða úrslit
-DESCRIPTION:Fram - Stjarnan - 8-liða úrslit - Bikarkeppni kvenna í hand
- bolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Risasvig kvenna - HM í alpagreinum - ruv
 DTSTART:20250206T102000
 DTEND:20250206T112000
@@ -26,6 +16,16 @@ DTEND:20250206T170000
 DTSTAMP:20250206T160000Z
 UID:2025-02-06T16:00:00/Tyrkland - Ísland
 DESCRIPTION:Tyrkland - Ísland - Undankeppni EM kvenna í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Stjarnan - 8-liða úrslit - Bikarkeppni kvenna í handbolt
+ a - ruv2
+DTSTART:20250206T193000
+DTEND:20250206T203000
+DTSTAMP:20250206T193000Z
+UID:2025-02-06T19:30:00/Fram - Stjarnan - 8-liða úrslit
+DESCRIPTION:Fram - Stjarnan - 8-liða úrslit - Bikarkeppni kvenna í hand
+ bolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Risasvig karla - HM í alpagreinum - ruv
@@ -82,5 +82,29 @@ DTEND:20250211T130500
 DTSTAMP:20250211T120500Z
 UID:2025-02-11T12:05:00/Alpatvíkeppni liða kvenna - svig
 DESCRIPTION:Alpatvíkeppni liða kvenna - svig - HM í alpagreinum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpatvíkeppni liða karla - brun - HM í alpagreinum - ruv
+DTSTART:20250212T085000
+DTEND:20250212T095000
+DTSTAMP:20250212T085000Z
+UID:2025-02-12T08:50:00/Alpatvíkeppni liða karla - brun
+DESCRIPTION:Alpatvíkeppni liða karla - brun - HM í alpagreinum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpatvíkeppni liða karla - svig - HM í alpagreinum - ruv
+DTSTART:20250212T120500
+DTEND:20250212T130500
+DTSTAMP:20250212T120500Z
+UID:2025-02-12T12:05:00/Alpatvíkeppni liða karla - svig
+DESCRIPTION:Alpatvíkeppni liða karla - svig - HM í alpagreinum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blönduð boðganga - HM í skíðaskotfimi - ruv2
+DTSTART:20250212T133500
+DTEND:20250212T143500
+DTSTAMP:20250212T133500Z
+UID:2025-02-12T13:35:00/Blönduð boðganga
+DESCRIPTION:Blönduð boðganga - HM í skíðaskotfimi
 END:VEVENT
 END:VCALENDAR
