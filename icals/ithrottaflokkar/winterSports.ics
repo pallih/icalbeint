@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - winterSports - ical
 BEGIN:VEVENT
-SUMMARY:Risasvig kvenna - HM í alpagreinum - ruv
-DTSTART:20250206T102000
-DTEND:20250206T112000
-DTSTAMP:20250206T102000Z
-UID:2025-02-06T10:20:00/Risasvig kvenna
-DESCRIPTION:Risasvig kvenna - HM í alpagreinum
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Risasvig karla - HM í alpagreinum - ruv
 DTSTART:20250207T102000
 DTEND:20250207T112000
@@ -72,5 +64,21 @@ DTEND:20250212T143500
 DTSTAMP:20250212T133500Z
 UID:2025-02-12T13:35:00/Blönduð boðganga
 DESCRIPTION:Blönduð boðganga - HM í skíðaskotfimi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stórsvig kvenna - fyrri ferð - HM í alpagreinum - ruv
+DTSTART:20250213T083500
+DTEND:20250213T093500
+DTSTAMP:20250213T083500Z
+UID:2025-02-13T08:35:00/Stórsvig kvenna - fyrri ferð
+DESCRIPTION:Stórsvig kvenna - fyrri ferð - HM í alpagreinum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stórsvig kvenna - seinni ferð - HM í alpagreinum - ruv
+DTSTART:20250213T120500
+DTEND:20250213T130500
+DTSTAMP:20250213T120500Z
+UID:2025-02-13T12:05:00/Stórsvig kvenna - seinni ferð
+DESCRIPTION:Stórsvig kvenna - seinni ferð - HM í alpagreinum
 END:VEVENT
 END:VCALENDAR

@@ -18,20 +18,12 @@ UID:2025-02-08T14:20:00/Mainz - Augsburg
 DESCRIPTION:Mainz - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Leverkusen - Bundesliga - viaplay
+SUMMARY:Dortmund - Stuttgart - Bundesliga - viaplay
 DTSTART:20250208T142000
 DTEND:20250208T152000
 DTSTAMP:20250208T142000Z
-UID:2025-02-08T14:20:00/Wolfsburg - Leverkusen
-DESCRIPTION:Wolfsburg - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Heidenheim - Bundesliga - viaplay
-DTSTART:20250208T142000
-DTEND:20250208T152000
-DTSTAMP:20250208T142000Z
-UID:2025-02-08T14:20:00/Freiburg - Heidenheim
-DESCRIPTION:Freiburg - Heidenheim - Bundesliga
+UID:2025-02-08T14:20:00/Dortmund - Stuttgart
+DESCRIPTION:Dortmund - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Union Berlin - Bundesliga - viaplay
@@ -42,12 +34,20 @@ UID:2025-02-08T14:20:00/Hoffenheim - Union Berlin
 DESCRIPTION:Hoffenheim - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Stuttgart - Bundesliga - viaplay
+SUMMARY:Freiburg - Heidenheim - Bundesliga - viaplay
 DTSTART:20250208T142000
 DTEND:20250208T152000
 DTSTAMP:20250208T142000Z
-UID:2025-02-08T14:20:00/Dortmund - Stuttgart
-DESCRIPTION:Dortmund - Stuttgart - Bundesliga
+UID:2025-02-08T14:20:00/Freiburg - Heidenheim
+DESCRIPTION:Freiburg - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Leverkusen - Bundesliga - viaplay
+DTSTART:20250208T142000
+DTEND:20250208T152000
+DTSTAMP:20250208T142000Z
+UID:2025-02-08T14:20:00/Wolfsburg - Leverkusen
+DESCRIPTION:Wolfsburg - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -96,5 +96,13 @@ DTEND:20250209T172000
 DTSTAMP:20250209T162000Z
 UID:2025-02-09T16:20:00/Leipzig - St. Pauli
 DESCRIPTION:Leipzig - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhein-Neckar Löwen - BBM Bietigheim - Bundesliga - viaplay
+DTSTART:20250213T175500
+DTEND:20250213T185500
+DTSTAMP:20250213T175500Z
+UID:2025-02-13T17:55:00/Rhein-Neckar Löwen - BBM Bietigheim
+DESCRIPTION:Rhein-Neckar Löwen - BBM Bietigheim - Bundesliga
 END:VEVENT
 END:VCALENDAR
