@@ -2,78 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Commercial Bank Qatar Masters - DP World Tour - stod2sport4
-DTSTART:20250209T083000
-DTEND:20250209T093000
-DTSTAMP:20250209T083000Z
-UID:2025-02-09T08:30:00/Commercial Bank Qatar Masters
-DESCRIPTION:Commercial Bank Qatar Masters - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackburn - Wolves - FA Cup - stod2vodasport
-DTSTART:20250209T122500
-DTEND:20250209T132500
-DTSTAMP:20250209T122500Z
-UID:2025-02-09T12:25:00/Blackburn - Wolves
-DESCRIPTION:Blackburn - Wolves - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plymouth - Liverpool - FA Cup - stod2vodasport
-DTSTART:20250209T145500
-DTEND:20250209T155500
-DTSTAMP:20250209T145500Z
-UID:2025-02-09T14:55:00/Plymouth - Liverpool
-DESCRIPTION:Plymouth - Liverpool - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór/KA - Tindastóll - Lengjubikar kvenna - stod2sport
-DTSTART:20250209T165000
-DTEND:20250209T175000
-DTSTAMP:20250209T165000Z
-UID:2025-02-09T16:50:00/Þór/KA - Tindastóll
-DESCRIPTION:Þór/KA - Tindastóll - Lengjubikar kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aston Villa - Tottenham - FA Cup - stod2vodasport
-DTSTART:20250209T173000
-DTEND:20250209T183000
-DTSTAMP:20250209T173000Z
-UID:2025-02-09T17:30:00/Aston Villa - Tottenham
-DESCRIPTION:Aston Villa - Tottenham - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Founders Cup - LPGA Tour - stod2sport4
-DTSTART:20250209T190000
-DTEND:20250209T200000
-DTSTAMP:20250209T190000Z
-UID:2025-02-09T19:00:00/Founders Cup
-DESCRIPTION:Founders Cup - LPGA Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bucks - 76ers - NBA - stod2sport3
-DTSTART:20250209T190000
-DTEND:20250209T200000
-DTSTAMP:20250209T190000Z
-UID:2025-02-09T19:00:00/Bucks - 76ers
-DESCRIPTION:Bucks - 76ers - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NFL Upphitun - NFL Upphitun - stod2sport2
-DTSTART:20250209T220000
-DTEND:20250209T230000
-DTSTAMP:20250209T220000Z
-UID:2025-02-09T22:00:00/NFL Upphitun
-DESCRIPTION:NFL Upphitun - NFL Upphitun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Bowl 59: Chiefs - Eagles - NFL - stod2sport2
-DTSTART:20250209T233000
-DTEND:20250210T003000
-DTSTAMP:20250209T233000Z
-UID:2025-02-09T23:30:00/Super Bowl 59: Chiefs - Eagles
-DESCRIPTION:Super Bowl 59: Chiefs - Eagles - NFL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zeiss Jena - Freiburg - Bundesliga kvenna - stod2vodasport
 DTSTART:20250210T165500
 DTEND:20250210T175500
@@ -98,14 +26,6 @@ UID:2025-02-10T20:00:00/Lögmál leiksins
 DESCRIPTION:Lögmál leiksins - NBA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stuttgart - Liverpool - UEFA Youth League - stod2sport2
-DTSTART:20250211T125500
-DTEND:20250211T135500
-DTSTAMP:20250211T125500Z
-UID:2025-02-11T12:55:00/Stuttgart - Liverpool
-DESCRIPTION:Stuttgart - Liverpool - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AZ Alkmaar - Benfica - UEFA Youth League - stod2sport3
 DTSTART:20250211T125500
 DTEND:20250211T135500
@@ -114,12 +34,12 @@ UID:2025-02-11T12:55:00/AZ Alkmaar - Benfica
 DESCRIPTION:AZ Alkmaar - Benfica - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Betis - Bayern München - UEFA Youth League - stod2sport3
-DTSTART:20250211T145500
-DTEND:20250211T155500
-DTSTAMP:20250211T145500Z
-UID:2025-02-11T14:55:00/Real Betis - Bayern München
-DESCRIPTION:Real Betis - Bayern München - UEFA Youth League
+SUMMARY:Stuttgart - Liverpool - UEFA Youth League - stod2sport2
+DTSTART:20250211T125500
+DTEND:20250211T135500
+DTSTAMP:20250211T125500Z
+UID:2025-02-11T12:55:00/Stuttgart - Liverpool
+DESCRIPTION:Stuttgart - Liverpool - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter - Lille - UEFA Youth League - stod2sport2
@@ -128,6 +48,14 @@ DTEND:20250211T155500
 DTSTAMP:20250211T145500Z
 UID:2025-02-11T14:55:00/Inter - Lille
 DESCRIPTION:Inter - Lille - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis - Bayern München - UEFA Youth League - stod2sport3
+DTSTART:20250211T145500
+DTEND:20250211T155500
+DTSTAMP:20250211T145500Z
+UID:2025-02-11T14:55:00/Real Betis - Bayern München
+DESCRIPTION:Real Betis - Bayern München - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brest - PSG - Meistaradeild Evrópu - stod2vodasport
@@ -146,12 +74,13 @@ UID:2025-02-11T19:25:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting - Dortmund - Meistaradeild Evrópu - stod2sport3
+SUMMARY:Manchester City - Real Madrid - Meistaradeild Evrópu - stod2vodas
+ port
 DTSTART:20250211T195000
 DTEND:20250211T205000
 DTSTAMP:20250211T195000Z
-UID:2025-02-11T19:50:00/Sporting - Dortmund
-DESCRIPTION:Sporting - Dortmund - Meistaradeild Evrópu
+UID:2025-02-11T19:50:00/Manchester City - Real Madrid
+DESCRIPTION:Manchester City - Real Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juventus - PSV - Meistaradeild Evrópu - stod2sport2
@@ -162,13 +91,12 @@ UID:2025-02-11T19:50:00/Juventus - PSV
 DESCRIPTION:Juventus - PSV - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manchester City - Real Madrid - Meistaradeild Evrópu - stod2vodas
- port
+SUMMARY:Sporting - Dortmund - Meistaradeild Evrópu - stod2sport3
 DTSTART:20250211T195000
 DTEND:20250211T205000
 DTSTAMP:20250211T195000Z
-UID:2025-02-11T19:50:00/Manchester City - Real Madrid
-DESCRIPTION:Manchester City - Real Madrid - Meistaradeild Evrópu
+UID:2025-02-11T19:50:00/Sporting - Dortmund
+DESCRIPTION:Sporting - Dortmund - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
@@ -211,20 +139,20 @@ UID:2025-02-12T12:55:00/Midtjylland - Manchester City
 DESCRIPTION:Midtjylland - Manchester City - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trabzonspor - Juventus - UEFA Youth League - stod2sport3
-DTSTART:20250212T145500
-DTEND:20250212T155500
-DTSTAMP:20250212T145500Z
-UID:2025-02-12T14:55:00/Trabzonspor - Juventus
-DESCRIPTION:Trabzonspor - Juventus - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Real Madrid - Dortmund - UEFA Youth League - stod2sport2
 DTSTART:20250212T145500
 DTEND:20250212T155500
 DTSTAMP:20250212T145500Z
 UID:2025-02-12T14:55:00/Real Madrid - Dortmund
 DESCRIPTION:Real Madrid - Dortmund - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trabzonspor - Juventus - UEFA Youth League - stod2sport3
+DTSTART:20250212T145500
+DTEND:20250212T155500
+DTSTAMP:20250212T145500Z
+UID:2025-02-12T14:55:00/Trabzonspor - Juventus
+DESCRIPTION:Trabzonspor - Juventus - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club Brugge - Atalanta - Meistaradeild Evrópu - stod2sport3
@@ -251,20 +179,20 @@ UID:2025-02-12T19:25:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celtic - Bayern München - Meistaradeild Evrópu - stod2sport2
-DTSTART:20250212T195000
-DTEND:20250212T205000
-DTSTAMP:20250212T195000Z
-UID:2025-02-12T19:50:00/Celtic - Bayern München
-DESCRIPTION:Celtic - Bayern München - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feyenoord - AC Milan - Meistaradeild Evrópu - stod2vodasport
 DTSTART:20250212T195000
 DTEND:20250212T205000
 DTSTAMP:20250212T195000Z
 UID:2025-02-12T19:50:00/Feyenoord - AC Milan
 DESCRIPTION:Feyenoord - AC Milan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celtic - Bayern München - Meistaradeild Evrópu - stod2sport2
+DTSTART:20250212T195000
+DTEND:20250212T205000
+DTSTAMP:20250212T195000Z
+UID:2025-02-12T19:50:00/Celtic - Bayern München
+DESCRIPTION:Celtic - Bayern München - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
@@ -275,12 +203,12 @@ UID:2025-02-12T22:00:00/Meistaradeildarmörkin
 DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Midtjylland - Real Sociedad - Evrópudeildin - stod2sport3
+SUMMARY:Union SG - Ajax - Evrópudeildin - stod2vodasport
 DTSTART:20250213T173500
 DTEND:20250213T183500
 DTSTAMP:20250213T173500Z
-UID:2025-02-13T17:35:00/Midtjylland - Real Sociedad
-DESCRIPTION:Midtjylland - Real Sociedad - Evrópudeildin
+UID:2025-02-13T17:35:00/Union SG - Ajax
+DESCRIPTION:Union SG - Ajax - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Víkingur R. - Panathinaikos - Sambandsdeildin - stod2sport2
@@ -291,12 +219,12 @@ UID:2025-02-13T17:35:00/Víkingur R. - Panathinaikos
 DESCRIPTION:Víkingur R. - Panathinaikos - Sambandsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union SG - Ajax - Evrópudeildin - stod2vodasport
+SUMMARY:Midtjylland - Real Sociedad - Evrópudeildin - stod2sport3
 DTSTART:20250213T173500
 DTEND:20250213T183500
 DTSTAMP:20250213T173500Z
-UID:2025-02-13T17:35:00/Union SG - Ajax
-DESCRIPTION:Union SG - Ajax - Evrópudeildin
+UID:2025-02-13T17:35:00/Midtjylland - Real Sociedad
+DESCRIPTION:Midtjylland - Real Sociedad - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GAZið: Upphitun - Bónus deild karla - stod2sport
@@ -305,6 +233,14 @@ DTEND:20250213T195500
 DTSTAMP:20250213T185500Z
 UID:2025-02-13T18:55:00/GAZið: Upphitun
 DESCRIPTION:GAZið: Upphitun - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Höttur - Stjarnan - Bónus deild karla - stod2besta02
+DTSTART:20250213T191000
+DTEND:20250213T201000
+DTSTAMP:20250213T191000Z
+UID:2025-02-13T19:10:00/Höttur - Stjarnan
+DESCRIPTION:Höttur - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - Þór Þ. - Bónus deild karla - stod2sport5
@@ -323,14 +259,6 @@ UID:2025-02-13T19:10:00/Skiptiborðið
 DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Höttur - Stjarnan - Bónus deild karla - stod2besta02
-DTSTART:20250213T191000
-DTEND:20250213T201000
-DTSTAMP:20250213T191000Z
-UID:2025-02-13T19:10:00/Höttur - Stjarnan
-DESCRIPTION:Höttur - Stjarnan - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GAZ: Haukar - Keflavík - Bónus deild karla - stod2besta01
 DTSTART:20250213T191000
 DTEND:20250213T201000
@@ -347,6 +275,14 @@ UID:2025-02-13T19:40:00/Twente - Bodö/Glimt
 DESCRIPTION:Twente - Bodö/Glimt - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Porto - Roma - Evrópudeildin - stod2vodasport
+DTSTART:20250213T195000
+DTEND:20250213T205000
+DTSTAMP:20250213T195000Z
+UID:2025-02-13T19:50:00/Porto - Roma
+DESCRIPTION:Porto - Roma - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FCK - Heidenheim - Sambandsdeildin - stod2sport4
 DTSTART:20250213T195000
 DTEND:20250213T205000
@@ -361,14 +297,6 @@ DTEND:20250213T205000
 DTSTAMP:20250213T195000Z
 UID:2025-02-13T19:50:00/AZ Alkmaar - Benfica
 DESCRIPTION:AZ Alkmaar - Benfica - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Porto - Roma - Evrópudeildin - stod2vodasport
-DTSTART:20250213T195000
-DTEND:20250213T205000
-DTSTAMP:20250213T195000Z
-UID:2025-02-13T19:50:00/Porto - Roma
-DESCRIPTION:Porto - Roma - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
@@ -492,10 +420,10 @@ DESCRIPTION:Leverkusen - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Ak. - Stjarnan - Bónus deild kvenna - stod2sport
-DTSTART:20250215T190500
-DTEND:20250215T200500
-DTSTAMP:20250215T190500Z
-UID:2025-02-15T19:05:00/Þór Ak. - Stjarnan
+DTSTART:20250215T180500
+DTEND:20250215T190500
+DTSTAMP:20250215T180500Z
+UID:2025-02-15T18:05:00/Þór Ak. - Stjarnan
 DESCRIPTION:Þór Ak. - Stjarnan - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
@@ -513,5 +441,70 @@ DTEND:20250215T202500
 DTSTAMP:20250215T192500Z
 UID:2025-02-15T19:25:00/Düsseldorf - Hertha BSC
 DESCRIPTION:Düsseldorf - Hertha BSC - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All-Star Saturday Night - NBA - stod2sport2
+DTSTART:20250216T010000
+DTEND:20250216T020000
+DTSTAMP:20250216T010000Z
+UID:2025-02-16T01:00:00/All-Star Saturday Night
+DESCRIPTION:All-Star Saturday Night - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Werder Bremen - Bundesliga kvenna - stod2vodaspo
+ rt
+DTSTART:20250216T141000
+DTEND:20250216T151000
+DTSTAMP:20250216T141000Z
+UID:2025-02-16T14:10:00/Bayern München - Werder Bremen
+DESCRIPTION:Bayern München - Werder Bremen - Bundesliga kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Kiel - Bundesliga - stod2vodasport
+DTSTART:20250216T162000
+DTEND:20250216T172000
+DTSTAMP:20250216T162000Z
+UID:2025-02-16T16:20:00/Frankfurt - Kiel
+DESCRIPTION:Frankfurt - Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Mainz 05 - Bundesliga - stod2vodasport
+DTSTART:20250216T183000
+DTEND:20250216T193000
+DTSTAMP:20250216T183000Z
+UID:2025-02-16T18:30:00/Heidenheim - Mainz 05
+DESCRIPTION:Heidenheim - Mainz 05 - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keflavík - Haukar - Bónus deild kvenna - stod2sport
+DTSTART:20250216T190500
+DTEND:20250216T200500
+DTSTAMP:20250216T190500Z
+UID:2025-02-16T19:05:00/Keflavík - Haukar
+DESCRIPTION:Keflavík - Haukar - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Njarðvík - Bónus deild kvenna - stod2besta01
+DTSTART:20250216T191000
+DTEND:20250216T201000
+DTSTAMP:20250216T191000Z
+UID:2025-02-16T19:10:00/Valur - Njarðvík
+DESCRIPTION:Valur - Njarðvík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Úrvalsdeildin í keilu - Úrvalsdeildin í keilu - stod2sport5
+DTSTART:20250216T193000
+DTEND:20250216T203000
+DTSTAMP:20250216T193000Z
+UID:2025-02-16T19:30:00/Úrvalsdeildin í keilu
+DESCRIPTION:Úrvalsdeildin í keilu - Úrvalsdeildin í keilu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
+DTSTART:20250216T210500
+DTEND:20250216T220500
+DTSTAMP:20250216T210500Z
+UID:2025-02-16T21:05:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
 END:VEVENT
 END:VCALENDAR

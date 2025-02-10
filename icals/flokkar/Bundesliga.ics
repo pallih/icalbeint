@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Bochum - Bundesliga - viaplay
-DTSTART:20250209T142000
-DTEND:20250209T152000
-DTSTAMP:20250209T142000Z
-UID:2025-02-09T14:20:00/Holstein Kiel - Bochum
-DESCRIPTION:Holstein Kiel - Bochum - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TSV Hannover-Burgdorf- DHfK Leipzig - Bundesliga - viaplay
-DTSTART:20250209T152500
-DTEND:20250209T162500
-DTSTAMP:20250209T152500Z
-UID:2025-02-09T15:25:00/TSV Hannover-Burgdorf- DHfK Leipzig
-DESCRIPTION:TSV Hannover-Burgdorf- DHfK Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - St. Pauli - Bundesliga - viaplay
-DTSTART:20250209T162000
-DTEND:20250209T172000
-DTSTAMP:20250209T162000Z
-UID:2025-02-09T16:20:00/Leipzig - St. Pauli
-DESCRIPTION:Leipzig - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rhein-Neckar Löwen - BBM Bietigheim - Bundesliga - viaplay
 DTSTART:20250213T175500
 DTEND:20250213T185500
@@ -42,36 +18,12 @@ UID:2025-02-14T19:20:00/Augsburg - RB Leipzig
 DESCRIPTION:Augsburg - RB Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Dortmund - Bundesliga - viaplay
-DTSTART:20250215T142000
-DTEND:20250215T152000
-DTSTAMP:20250215T142000Z
-UID:2025-02-15T14:20:00/Bochum - Dortmund
-DESCRIPTION:Bochum - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20250215T142000
 DTEND:20250215T152000
 DTSTAMP:20250215T142000Z
 UID:2025-02-15T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St. Pauli - Freiburg - Bundesliga - viaplay
-DTSTART:20250215T142000
-DTEND:20250215T152000
-DTSTAMP:20250215T142000Z
-UID:2025-02-15T14:20:00/St. Pauli - Freiburg
-DESCRIPTION:St. Pauli - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20250215T142000
-DTEND:20250215T152000
-DTSTAMP:20250215T142000Z
-UID:2025-02-15T14:20:00/Union Berlin - Mönchengladbach
-DESCRIPTION:Union Berlin - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stuttgart - Wolfsburg - Bundesliga - viaplay
@@ -82,6 +34,30 @@ UID:2025-02-15T14:20:00/Stuttgart - Wolfsburg
 DESCRIPTION:Stuttgart - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Union Berlin - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20250215T142000
+DTEND:20250215T152000
+DTSTAMP:20250215T142000Z
+UID:2025-02-15T14:20:00/Union Berlin - Mönchengladbach
+DESCRIPTION:Union Berlin - Mönchengladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum - Dortmund - Bundesliga - viaplay
+DTSTART:20250215T142000
+DTEND:20250215T152000
+DTSTAMP:20250215T142000Z
+UID:2025-02-15T14:20:00/Bochum - Dortmund
+DESCRIPTION:Bochum - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - Freiburg - Bundesliga - viaplay
+DTSTART:20250215T142000
+DTEND:20250215T152000
+DTSTAMP:20250215T142000Z
+UID:2025-02-15T14:20:00/St. Pauli - Freiburg
+DESCRIPTION:St. Pauli - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bochum - Dortmund - Bundesliga - stod2vodasport
 DTSTART:20250215T142500
 DTEND:20250215T152500
@@ -90,7 +66,7 @@ UID:2025-02-15T14:25:00/Bochum - Dortmund
 DESCRIPTION:Bochum - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Bayern München - Bundesliga - stod2vodasport
+SUMMARY:Leverkusen - Bayern München - Bundesliga - viaplay
 DTSTART:20250215T172000
 DTEND:20250215T182000
 DTSTAMP:20250215T172000Z
@@ -98,7 +74,7 @@ UID:2025-02-15T17:20:00/Leverkusen - Bayern München
 DESCRIPTION:Leverkusen - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Bayern München - Bundesliga - viaplay
+SUMMARY:Leverkusen - Bayern München - Bundesliga - stod2vodasport
 DTSTART:20250215T172000
 DTEND:20250215T182000
 DTSTAMP:20250215T172000Z
@@ -112,5 +88,53 @@ DTEND:20250215T185500
 DTSTAMP:20250215T175500Z
 UID:2025-02-15T17:55:00/Flensburg-Handewitt - Gummersbach
 DESCRIPTION:Flensburg-Handewitt - Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Melsungen - Bundesliga - viaplay
+DTSTART:20250216T135500
+DTEND:20250216T145500
+DTSTAMP:20250216T135500Z
+UID:2025-02-16T13:55:00/Magdeburg - Melsungen
+DESCRIPTION:Magdeburg - Melsungen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Hoffenheim - Bundesliga - viaplay
+DTSTART:20250216T142000
+DTEND:20250216T152000
+DTSTAMP:20250216T142000Z
+UID:2025-02-16T14:20:00/Werder Bremen - Hoffenheim
+DESCRIPTION:Werder Bremen - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Holstein Kiel - Bundesliga - viaplay
+DTSTART:20250216T162000
+DTEND:20250216T172000
+DTSTAMP:20250216T162000Z
+UID:2025-02-16T16:20:00/Frankfurt - Holstein Kiel
+DESCRIPTION:Frankfurt - Holstein Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Kiel - Bundesliga - stod2vodasport
+DTSTART:20250216T162000
+DTEND:20250216T172000
+DTSTAMP:20250216T162000Z
+UID:2025-02-16T16:20:00/Frankfurt - Kiel
+DESCRIPTION:Frankfurt - Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Mainz - Bundesliga - viaplay
+DTSTART:20250216T182000
+DTEND:20250216T192000
+DTSTAMP:20250216T182000Z
+UID:2025-02-16T18:20:00/Heidenheim - Mainz
+DESCRIPTION:Heidenheim - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Mainz 05 - Bundesliga - stod2vodasport
+DTSTART:20250216T183000
+DTEND:20250216T193000
+DTSTAMP:20250216T183000Z
+UID:2025-02-16T18:30:00/Heidenheim - Mainz 05
+DESCRIPTION:Heidenheim - Mainz 05 - Bundesliga
 END:VEVENT
 END:VCALENDAR

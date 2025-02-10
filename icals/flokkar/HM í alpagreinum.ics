@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - HM í alpagreinum - ical
 BEGIN:VEVENT
-SUMMARY:Brun karla - HM í alpagreinum - ruv
-DTSTART:20250209T102000
-DTEND:20250209T112000
-DTSTAMP:20250209T102000Z
-UID:2025-02-09T10:20:00/Brun karla
-DESCRIPTION:Brun karla - HM í alpagreinum
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alpatvíkeppni liða kvenna - brun - HM í alpagreinum - ruv
 DTSTART:20250211T085000
 DTEND:20250211T095000
@@ -88,5 +80,21 @@ DTEND:20250215T130500
 DTSTAMP:20250215T120500Z
 UID:2025-02-15T12:05:00/Svig kvenna - seinni ferð
 DESCRIPTION:Svig kvenna - seinni ferð - HM í alpagreinum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svig karla - fyrri ferð - HM í alpagreinum - ruv2
+DTSTART:20250216T083500
+DTEND:20250216T093500
+DTSTAMP:20250216T083500Z
+UID:2025-02-16T08:35:00/Svig karla - fyrri ferð
+DESCRIPTION:Svig karla - fyrri ferð - HM í alpagreinum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svig karla - seinni ferð - HM í alpagreinum - ruv
+DTSTART:20250216T120500
+DTEND:20250216T130500
+DTSTAMP:20250216T120500Z
+UID:2025-02-16T12:05:00/Svig karla - seinni ferð
+DESCRIPTION:Svig karla - seinni ferð - HM í alpagreinum
 END:VEVENT
 END:VCALENDAR
