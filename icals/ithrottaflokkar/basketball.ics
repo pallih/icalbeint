@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Lögmál leiksins - NBA - stod2sport2
-DTSTART:20250210T200000
-DTEND:20250210T210000
-DTSTAMP:20250210T200000Z
-UID:2025-02-10T20:00:00/Lögmál leiksins
-DESCRIPTION:Lögmál leiksins - NBA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
 DTSTART:20250211T200000
 DTEND:20250211T210000
@@ -42,7 +34,15 @@ UID:2025-02-13T19:10:00/Höttur - Stjarnan
 DESCRIPTION:Höttur - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Þór Þ. - Bónus deild karla - stod2sport5
+SUMMARY:GAZ: Haukar - Keflavík - Bónus deild karla - stod2besta01
+DTSTART:20250213T191000
+DTEND:20250213T201000
+DTSTAMP:20250213T191000Z
+UID:2025-02-13T19:10:00/GAZ: Haukar - Keflavík
+DESCRIPTION:GAZ: Haukar - Keflavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Þór Þ. - Bónus deild karla - stod2sport
 DTSTART:20250213T191000
 DTEND:20250213T201000
 DTSTAMP:20250213T191000Z
@@ -50,20 +50,12 @@ UID:2025-02-13T19:10:00/Tindastóll - Þór Þ.
 DESCRIPTION:Tindastóll - Þór Þ. - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
+SUMMARY:Tindastóll - Þór Þ. - Bónus deild karla - stod2sport5
 DTSTART:20250213T191000
 DTEND:20250213T201000
 DTSTAMP:20250213T191000Z
-UID:2025-02-13T19:10:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GAZ: Haukar - Keflavík - Bónus deild karla - stod2besta01
-DTSTART:20250213T191000
-DTEND:20250213T201000
-DTSTAMP:20250213T191000Z
-UID:2025-02-13T19:10:00/GAZ: Haukar - Keflavík
-DESCRIPTION:GAZ: Haukar - Keflavík - Bónus deild karla
+UID:2025-02-13T19:10:00/Tindastóll - Þór Þ.
+DESCRIPTION:Tindastóll - Þór Þ. - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
@@ -152,5 +144,13 @@ DTEND:20250216T220500
 DTSTAMP:20250216T210500Z
 UID:2025-02-16T21:05:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lögmál leiksins - NBA - stod2sport2
+DTSTART:20250217T200000
+DTEND:20250217T210000
+DTSTAMP:20250217T200000Z
+UID:2025-02-17T20:00:00/Lögmál leiksins
+DESCRIPTION:Lögmál leiksins - NBA
 END:VEVENT
 END:VCALENDAR
