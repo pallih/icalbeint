@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
-DTSTART:20250211T200000
-DTEND:20250211T210000
-DTSTAMP:20250211T200000Z
-UID:2025-02-11T20:00:00/Bónus deildin - Extra
-DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grindavík - Álftanes - Bónus deild karla - stod2sport
 DTSTART:20250212T191500
 DTEND:20250212T201500
@@ -24,14 +16,6 @@ DTEND:20250213T195500
 DTSTAMP:20250213T185500Z
 UID:2025-02-13T18:55:00/GAZið: Upphitun
 DESCRIPTION:GAZið: Upphitun - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Höttur - Stjarnan - Bónus deild karla - stod2besta02
-DTSTART:20250213T191000
-DTEND:20250213T201000
-DTSTAMP:20250213T191000Z
-UID:2025-02-13T19:10:00/Höttur - Stjarnan
-DESCRIPTION:Höttur - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GAZ: Haukar - Keflavík - Bónus deild karla - stod2besta01
@@ -50,12 +34,12 @@ UID:2025-02-13T19:10:00/Tindastóll - Þór Þ.
 DESCRIPTION:Tindastóll - Þór Þ. - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Þór Þ. - Bónus deild karla - stod2sport5
+SUMMARY:Höttur - Stjarnan - Bónus deild karla - stod2besta02
 DTSTART:20250213T191000
 DTEND:20250213T201000
 DTSTAMP:20250213T191000Z
-UID:2025-02-13T19:10:00/Tindastóll - Þór Þ.
-DESCRIPTION:Tindastóll - Þór Þ. - Bónus deild karla
+UID:2025-02-13T19:10:00/Höttur - Stjarnan
+DESCRIPTION:Höttur - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
@@ -152,5 +136,29 @@ DTEND:20250217T210000
 DTSTAMP:20250217T200000Z
 UID:2025-02-17T20:00:00/Lögmál leiksins
 DESCRIPTION:Lögmál leiksins - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undanúrslit kvenna - Bikarkeppni kvenna í körfubolta - ruv2
+DTSTART:20250218T171500
+DTEND:20250218T181500
+DTSTAMP:20250218T171500Z
+UID:2025-02-18T17:15:00/Undanúrslit kvenna
+DESCRIPTION:Undanúrslit kvenna - Bikarkeppni kvenna í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Grindavík - Bónus deild kvenna - stod2sport
+DTSTART:20250218T180500
+DTEND:20250218T190500
+DTSTAMP:20250218T180500Z
+UID:2025-02-18T18:05:00/Stjarnan - Grindavík
+DESCRIPTION:Stjarnan - Grindavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undanúrslit kvenna - Bikarkeppni kvenna í körfubolta - ruv2
+DTSTART:20250218T200000
+DTEND:20250218T210000
+DTSTAMP:20250218T200000Z
+UID:2025-02-18T20:00:00/Undanúrslit kvenna
+DESCRIPTION:Undanúrslit kvenna - Bikarkeppni kvenna í körfubolta
 END:VEVENT
 END:VCALENDAR
