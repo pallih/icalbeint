@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Brest - Auxerre - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250214T194500
-DTEND:20250214T204500
-DTSTAMP:20250214T194500Z
-UID:2025-02-14T19:45:00/Brest - Auxerre
-DESCRIPTION:Brest - Auxerre - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bologna - Torino - Serie A - Ítalski boltinn - livey
-DTSTART:20250214T194500
-DTEND:20250214T204500
-DTSTAMP:20250214T194500Z
-UID:2025-02-14T19:45:00/Bologna - Torino
-DESCRIPTION:Bologna - Torino - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Girona - Getafe - LaLiga - Spænski boltinn - livey
-DTSTART:20250214T200000
-DTEND:20250214T210000
-DTSTAMP:20250214T200000Z
-UID:2025-02-14T20:00:00/Girona - Getafe
-DESCRIPTION:Girona - Getafe - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leganes - Deportivo Alaves - LaLiga - Spænski boltinn - livey
 DTSTART:20250215T130000
 DTEND:20250215T140000
@@ -130,12 +106,12 @@ UID:2025-02-16T13:00:00/Espanyol - Athletic Bilbao
 DESCRIPTION:Espanyol - Athletic Bilbao - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Montpellier - Lyon - Ligue 1 - Franski Boltinn - livey
+SUMMARY:Udinese - Empoli - Serie A - Ítalski boltinn - livey
 DTSTART:20250216T140000
 DTEND:20250216T150000
 DTSTAMP:20250216T140000Z
-UID:2025-02-16T14:00:00/Montpellier - Lyon
-DESCRIPTION:Montpellier - Lyon - Ligue 1 - Franski Boltinn
+UID:2025-02-16T14:00:00/Udinese - Empoli
+DESCRIPTION:Udinese - Empoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monza - Lecce - Serie A - Ítalski boltinn - livey
@@ -146,12 +122,12 @@ UID:2025-02-16T14:00:00/Monza - Lecce
 DESCRIPTION:Monza - Lecce - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Udinese - Empoli - Serie A - Ítalski boltinn - livey
+SUMMARY:Montpellier - Lyon - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250216T140000
 DTEND:20250216T150000
 DTSTAMP:20250216T140000Z
-UID:2025-02-16T14:00:00/Udinese - Empoli
-DESCRIPTION:Udinese - Empoli - Serie A - Ítalski boltinn
+UID:2025-02-16T14:00:00/Montpellier - Lyon
+DESCRIPTION:Montpellier - Lyon - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Odense Handbold - Team Esbjerg - EHF - livey
@@ -178,20 +154,20 @@ UID:2025-02-16T16:15:00/Le Havre - Nice
 DESCRIPTION:Le Havre - Nice - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lens - RC Strasbourg - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250216T161500
-DTEND:20250216T171500
-DTSTAMP:20250216T161500Z
-UID:2025-02-16T16:15:00/Lens - RC Strasbourg
-DESCRIPTION:Lens - RC Strasbourg - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reims - Angers - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250216T161500
 DTEND:20250216T171500
 DTSTAMP:20250216T161500Z
 UID:2025-02-16T16:15:00/Reims - Angers
 DESCRIPTION:Reims - Angers - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens - RC Strasbourg - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250216T161500
+DTEND:20250216T171500
+DTSTAMP:20250216T161500Z
+UID:2025-02-16T16:15:00/Lens - RC Strasbourg
+DESCRIPTION:Lens - RC Strasbourg - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parma - Roma - Serie A - Ítalski boltinn - livey
@@ -218,20 +194,20 @@ UID:2025-02-16T18:45:00/Manchester City - Liverpool
 DESCRIPTION:Manchester City - Liverpool - WSL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rennes - Lille - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250216T194500
-DTEND:20250216T204500
-DTSTAMP:20250216T194500Z
-UID:2025-02-16T19:45:00/Rennes - Lille
-DESCRIPTION:Rennes - Lille - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juventus - Inter Milan - Serie A - Ítalski boltinn - livey
 DTSTART:20250216T194500
 DTEND:20250216T204500
 DTSTAMP:20250216T194500Z
 UID:2025-02-16T19:45:00/Juventus - Inter Milan
 DESCRIPTION:Juventus - Inter Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rennes - Lille - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250216T194500
+DTEND:20250216T204500
+DTSTAMP:20250216T194500Z
+UID:2025-02-16T19:45:00/Rennes - Lille
+DESCRIPTION:Rennes - Lille - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Betis - Real Sociedad - LaLiga - Spænski boltinn - livey
@@ -290,14 +266,6 @@ UID:2025-02-19T19:45:00/SC Magdeburg - Aalborg Handbold
 DESCRIPTION:SC Magdeburg - Aalborg Handbold - EHF
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlen Wisla Plock - Füchse Berlin - EHF - livey
-DTSTART:20250220T174500
-DTEND:20250220T184500
-DTSTAMP:20250220T174500Z
-UID:2025-02-20T17:45:00/Orlen Wisla Plock - Füchse Berlin
-DESCRIPTION:Orlen Wisla Plock - Füchse Berlin - EHF
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Veszprém HC - Sporting CP - EHF - livey
 DTSTART:20250220T174500
 DTEND:20250220T184500
@@ -306,12 +274,12 @@ UID:2025-02-20T17:45:00/Veszprém HC - Sporting CP
 DESCRIPTION:Veszprém HC - Sporting CP - EHF
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Eurofarm Pelister - Dinamo Bucuresti - EHF - livey
-DTSTART:20250220T194500
-DTEND:20250220T204500
-DTSTAMP:20250220T194500Z
-UID:2025-02-20T19:45:00/HC Eurofarm Pelister - Dinamo Bucuresti
-DESCRIPTION:HC Eurofarm Pelister - Dinamo Bucuresti - EHF
+SUMMARY:Orlen Wisla Plock - Füchse Berlin - EHF - livey
+DTSTART:20250220T174500
+DTEND:20250220T184500
+DTSTAMP:20250220T174500Z
+UID:2025-02-20T17:45:00/Orlen Wisla Plock - Füchse Berlin
+DESCRIPTION:Orlen Wisla Plock - Füchse Berlin - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barça - Industria Kielce - EHF - livey
@@ -320,5 +288,13 @@ DTEND:20250220T204500
 DTSTAMP:20250220T194500Z
 UID:2025-02-20T19:45:00/Barça - Industria Kielce
 DESCRIPTION:Barça - Industria Kielce - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Eurofarm Pelister - Dinamo Bucuresti - EHF - livey
+DTSTART:20250220T194500
+DTEND:20250220T204500
+DTSTAMP:20250220T194500Z
+UID:2025-02-20T19:45:00/HC Eurofarm Pelister - Dinamo Bucuresti
+DESCRIPTION:HC Eurofarm Pelister - Dinamo Bucuresti - EHF
 END:VEVENT
 END:VCALENDAR
