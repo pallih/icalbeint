@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Liverpool - Wolves - Enska úrvalsdeildin - siminnsport
-DTSTART:20250216T133000
-DTEND:20250216T143000
-DTSTAMP:20250216T133000Z
-UID:2025-02-16T13:30:00/Liverpool - Wolves
-DESCRIPTION:Liverpool - Wolves - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍBV - Grótta - Olís deild karla - hsi1
-DTSTART:20250216T134500
-DTEND:20250216T144500
-DTSTAMP:20250216T134500Z
-UID:2025-02-16T13:45:00/ÍBV - Grótta
-DESCRIPTION:ÍBV - Grótta - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tottenham Hotspur - Man. Utd. - Enska úrvalsdeildin - siminnsport
-DTSTART:20250216T160000
-DTEND:20250216T170000
-DTSTAMP:20250216T160000Z
-UID:2025-02-16T16:00:00/Tottenham Hotspur - Man. Utd.
-DESCRIPTION:Tottenham Hotspur - Man. Utd. - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20250216T183000
-DTEND:20250216T193000
-DTSTAMP:20250216T183000Z
-UID:2025-02-16T18:30:00/Völlurinn
-DESCRIPTION:Völlurinn - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: Barcelona - Rayo Vallecano - LaLiga - Spænski boltinn - siminnsp
  ort
 DTSTART:20250217T195500
@@ -83,14 +51,6 @@ UID:2025-02-20T19:00:00/ÍBV - Afturelding
 DESCRIPTION:ÍBV - Afturelding - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Fjölnir - Olís deild karla - hsi1
-DTSTART:20250220T193000
-DTEND:20250220T203000
-DTSTAMP:20250220T193000Z
-UID:2025-02-20T19:30:00/Valur - Fjölnir
-DESCRIPTION:Valur - Fjölnir - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Grótta - Olís deild karla - hsi1
 DTSTART:20250220T193000
 DTEND:20250220T203000
@@ -105,6 +65,14 @@ DTEND:20250220T203000
 DTSTAMP:20250220T193000Z
 UID:2025-02-20T19:30:00/Fram - ÍR
 DESCRIPTION:Fram - ÍR - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Fjölnir - Olís deild karla - hsi1
+DTSTART:20250220T193000
+DTEND:20250220T203000
+DTSTAMP:20250220T193000Z
+UID:2025-02-20T19:30:00/Valur - Fjölnir
+DESCRIPTION:Valur - Fjölnir - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - KA - Olís deild karla - sjonvarpsimans
@@ -139,6 +107,14 @@ UID:2025-02-22T12:00:00/Everton - Man. Utd.
 DESCRIPTION:Everton - Man. Utd. - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ÍR - ÍBV - Olís deild kvenna - sjonvarpsimans
+DTSTART:20250222T125000
+DTEND:20250222T135000
+DTSTAMP:20250222T125000Z
+UID:2025-02-22T12:50:00/ÍR - ÍBV
+DESCRIPTION:ÍR - ÍBV - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍR - ÍBV - Olís deild kvenna - hsi1
 DTSTART:20250222T130000
 DTEND:20250222T140000
@@ -155,6 +131,14 @@ UID:2025-02-22T14:00:00/Grótta - Fram
 DESCRIPTION:Grótta - Fram - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arsenal - West Ham - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20250222T143000
+DTEND:20250222T153000
+DTSTAMP:20250222T143000Z
+UID:2025-02-22T14:30:00/Arsenal - West Ham
+DESCRIPTION:Arsenal - West Ham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arsenal - West Ham - Enska úrvalsdeildin - siminnsport
 DTSTART:20250222T143000
 DTEND:20250222T153000
@@ -163,12 +147,12 @@ UID:2025-02-22T14:30:00/Arsenal - West Ham
 DESCRIPTION:Arsenal - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - West Ham - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20250222T143000
-DTEND:20250222T153000
-DTSTAMP:20250222T143000Z
-UID:2025-02-22T14:30:00/Arsenal - West Ham
-DESCRIPTION:Arsenal - West Ham - Enska úrvalsdeildin
+SUMMARY:Southampton - Brighton - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250222T145000
+DTEND:20250222T155000
+DTSTAMP:20250222T145000Z
+UID:2025-02-22T14:50:00/Southampton - Brighton
+DESCRIPTION:Southampton - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ipswich - Tottenham Hotspur - Enska úrvalsdeildin - siminnsport2
@@ -187,19 +171,35 @@ UID:2025-02-22T14:50:00/Fulham - Crystal Palace
 DESCRIPTION:Fulham - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Brighton - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250222T145000
-DTEND:20250222T155000
-DTSTAMP:20250222T145000Z
-UID:2025-02-22T14:50:00/Southampton - Brighton
-DESCRIPTION:Southampton - Brighton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Chelsea - Enska úrvalsdeildin - siminnsport
 DTSTART:20250222T170000
 DTEND:20250222T180000
 DTSTAMP:20250222T170000Z
 UID:2025-02-22T17:00:00/Aston Villa - Chelsea
 DESCRIPTION:Aston Villa - Chelsea - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Inter - Genoa - Serie A - Ítalski boltinn - siminnsport
+DTSTART:20250222T195500
+DTEND:20250222T205500
+DTSTAMP:20250222T195500Z
+UID:2025-02-22T19:55:00/ Inter - Genoa
+DESCRIPTION: Inter - Genoa - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Nottingham Forest - Enska úrvalsdeildin - siminnsport
+DTSTART:20250223T133000
+DTEND:20250223T143000
+DTSTAMP:20250223T133000Z
+UID:2025-02-23T13:30:00/Newcastle - Nottingham Forest
+DESCRIPTION:Newcastle - Nottingham Forest - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. City - Liverpool - Enska úrvalsdeildin - siminnsport
+DTSTART:20250223T160000
+DTEND:20250223T170000
+DTSTAMP:20250223T160000Z
+UID:2025-02-23T16:00:00/Man. City - Liverpool
+DESCRIPTION:Man. City - Liverpool - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR
