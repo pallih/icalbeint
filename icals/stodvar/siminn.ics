@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY: Barcelona - Rayo Vallecano - LaLiga - Spænski boltinn - siminnsp
- ort
-DTSTART:20250217T195500
-DTEND:20250217T205500
-DTSTAMP:20250217T195500Z
-UID:2025-02-17T19:55:00/ Barcelona - Rayo Vallecano
-DESCRIPTION: Barcelona - Rayo Vallecano - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - Selfoss - Olís deild kvenna - hsi1
 DTSTART:20250218T193000
 DTEND:20250218T203000
@@ -147,20 +138,20 @@ UID:2025-02-22T14:30:00/Arsenal - West Ham
 DESCRIPTION:Arsenal - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Brighton - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250222T145000
-DTEND:20250222T155000
-DTSTAMP:20250222T145000Z
-UID:2025-02-22T14:50:00/Southampton - Brighton
-DESCRIPTION:Southampton - Brighton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ipswich - Tottenham Hotspur - Enska úrvalsdeildin - siminnsport2
 DTSTART:20250222T145000
 DTEND:20250222T155000
 DTSTAMP:20250222T145000Z
 UID:2025-02-22T14:50:00/Ipswich - Tottenham Hotspur
 DESCRIPTION:Ipswich - Tottenham Hotspur - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southampton - Brighton - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250222T145000
+DTEND:20250222T155000
+DTSTAMP:20250222T145000Z
+UID:2025-02-22T14:50:00/Southampton - Brighton
+DESCRIPTION:Southampton - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Crystal Palace - Enska úrvalsdeildin - siminnsport4
@@ -201,5 +192,21 @@ DTEND:20250223T170000
 DTSTAMP:20250223T160000Z
 UID:2025-02-23T16:00:00/Man. City - Liverpool
 DESCRIPTION:Man. City - Liverpool - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20250223T183000
+DTEND:20250223T193000
+DTSTAMP:20250223T183000Z
+UID:2025-02-23T18:30:00/Völlurinn
+DESCRIPTION:Völlurinn - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Real Sociedad - Leganes - LaLiga - Spænski boltinn - siminnsport
+DTSTART:20250223T195500
+DTEND:20250223T205500
+DTSTAMP:20250223T195500Z
+UID:2025-02-23T19:55:00/ Real Sociedad - Leganes
+DESCRIPTION: Real Sociedad - Leganes - LaLiga - Spænski boltinn
 END:VEVENT
 END:VCALENDAR

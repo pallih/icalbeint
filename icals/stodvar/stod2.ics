@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Leeds - Sunderland - EFL Championship - stod2vodasport
-DTSTART:20250217T195500
-DTEND:20250217T205500
-DTSTAMP:20250217T195500Z
-UID:2025-02-17T19:55:00/Leeds - Sunderland
-DESCRIPTION:Leeds - Sunderland - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lögmál leiksins - NBA - stod2sport2
-DTSTART:20250217T200000
-DTEND:20250217T210000
-DTSTAMP:20250217T200000Z
-UID:2025-02-17T20:00:00/Lögmál leiksins
-DESCRIPTION:Lögmál leiksins - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Svíþjóð - Bandaríkin - NHL - stod2vodasport
-DTSTART:20250218T010500
-DTEND:20250218T020500
-DTSTAMP:20250218T010500Z
-UID:2025-02-18T01:05:00/Svíþjóð - Bandaríkin
-DESCRIPTION:Svíþjóð - Bandaríkin - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AC Milan - Feyenoord - Meistaradeild Evrópu - stod2vodasport
 DTSTART:20250218T173500
 DTEND:20250218T183500
@@ -50,14 +26,6 @@ UID:2025-02-18T19:25:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Celtic - Meistaradeild Evrópu - stod2vodasport
-DTSTART:20250218T195000
-DTEND:20250218T205000
-DTSTAMP:20250218T195000Z
-UID:2025-02-18T19:50:00/Bayern München - Celtic
-DESCRIPTION:Bayern München - Celtic - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atalanta - Club Brugge - Meistaradeild Evrópu - stod2sport3
 DTSTART:20250218T195000
 DTEND:20250218T205000
@@ -72,6 +40,22 @@ DTEND:20250218T205000
 DTSTAMP:20250218T195000Z
 UID:2025-02-18T19:50:00/Benfica - Monaco
 DESCRIPTION:Benfica - Monaco - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Celtic - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20250218T195000
+DTEND:20250218T205000
+DTSTAMP:20250218T195000Z
+UID:2025-02-18T19:50:00/Bayern München - Celtic
+DESCRIPTION:Bayern München - Celtic - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
+DTSTART:20250218T200500
+DTEND:20250218T210500
+DTSTAMP:20250218T200500Z
+UID:2025-02-18T20:05:00/Bónus deildin - Extra
+DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
@@ -90,14 +74,6 @@ UID:2025-02-19T17:35:00/Dortmund - Sporting Lissabon
 DESCRIPTION:Dortmund - Sporting Lissabon - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Tindastóll - Bónus deild kvenna - stod2sport
-DTSTART:20250219T190000
-DTEND:20250219T200000
-DTSTAMP:20250219T190000Z
-UID:2025-02-19T19:00:00/Haukar - Tindastóll
-DESCRIPTION:Haukar - Tindastóll - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aþena - Keflavík - Bónus deild kvenna - stod2besta03
 DTSTART:20250219T191000
 DTEND:20250219T201000
@@ -114,12 +90,20 @@ UID:2025-02-19T19:10:00/Njarðvík - Þór Ak.
 DESCRIPTION:Njarðvík - Þór Ak. - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamar/Þór - Valur - Bónus deild kvenna - stod2besta01
-DTSTART:20250219T191000
-DTEND:20250219T201000
-DTSTAMP:20250219T191000Z
-UID:2025-02-19T19:10:00/Hamar/Þór - Valur
+SUMMARY:Hamar/Þór - Valur - Bónus deild kvenna - stod2sport
+DTSTART:20250219T191500
+DTEND:20250219T201500
+DTSTAMP:20250219T191500Z
+UID:2025-02-19T19:15:00/Hamar/Þór - Valur
 DESCRIPTION:Hamar/Þór - Valur - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Tindastóll - Bónus deild kvenna - stod2besta01
+DTSTART:20250219T191500
+DTEND:20250219T201500
+DTSTAMP:20250219T191500Z
+UID:2025-02-19T19:15:00/Haukar - Tindastóll
+DESCRIPTION:Haukar - Tindastóll - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - stod2sport2
@@ -130,15 +114,6 @@ UID:2025-02-19T19:25:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Madrid - Manchester City - Meistaradeild Evrópu - stod2sport
- 2
-DTSTART:20250219T195000
-DTEND:20250219T205000
-DTSTAMP:20250219T195000Z
-UID:2025-02-19T19:50:00/Real Madrid - Manchester City
-DESCRIPTION:Real Madrid - Manchester City - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PSV - Juventus - Meistaradeild Evrópu - stod2vodasport
 DTSTART:20250219T195000
 DTEND:20250219T205000
@@ -147,12 +122,13 @@ UID:2025-02-19T19:50:00/PSV - Juventus
 DESCRIPTION:PSV - Juventus - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
-DTSTART:20250219T210500
-DTEND:20250219T220500
-DTSTAMP:20250219T210500Z
-UID:2025-02-19T21:05:00/Bónus Körfuboltakvöld
-DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
+SUMMARY:Real Madrid - Manchester City - Meistaradeild Evrópu - stod2sport
+ 2
+DTSTART:20250219T195000
+DTEND:20250219T205000
+DTSTAMP:20250219T195000Z
+UID:2025-02-19T19:50:00/Real Madrid - Manchester City
+DESCRIPTION:Real Madrid - Manchester City - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
@@ -179,14 +155,6 @@ UID:2025-02-20T10:00:00/Magical Kenya Open
 DESCRIPTION:Magical Kenya Open - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roma - Porto - Evrópudeildin - stod2sport2
-DTSTART:20250220T173500
-DTEND:20250220T183500
-DTSTAMP:20250220T173500Z
-UID:2025-02-20T17:35:00/Roma - Porto
-DESCRIPTION:Roma - Porto - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Real Betis - Gent - Sambandsdeildin - stod2sport3
 DTSTART:20250220T173500
 DTEND:20250220T183500
@@ -195,20 +163,20 @@ UID:2025-02-20T17:35:00/Real Betis - Gent
 DESCRIPTION:Real Betis - Gent - Sambandsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Roma - Porto - Evrópudeildin - stod2sport2
+DTSTART:20250220T173500
+DTEND:20250220T183500
+DTSTAMP:20250220T173500Z
+UID:2025-02-20T17:35:00/Roma - Porto
+DESCRIPTION:Roma - Porto - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Galatasaray - AZ Alkmaar - Evrópudeildin - stod2vodasport
 DTSTART:20250220T173500
 DTEND:20250220T183500
 DTSTAMP:20250220T173500Z
 UID:2025-02-20T17:35:00/Galatasaray - AZ Alkmaar
 DESCRIPTION:Galatasaray - AZ Alkmaar - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ajax - Union SG - Evrópudeildin - stod2sport2
-DTSTART:20250220T195000
-DTEND:20250220T205000
-DTSTAMP:20250220T195000Z
-UID:2025-02-20T19:50:00/Ajax - Union SG
-DESCRIPTION:Ajax - Union SG - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Panathinaikos - Víkingur R. - Sambandsdeildin - stod2vodasport
@@ -233,6 +201,30 @@ DTEND:20250220T205000
 DTSTAMP:20250220T195000Z
 UID:2025-02-20T19:50:00/Anderlecht - Fenerbahce
 DESCRIPTION:Anderlecht - Fenerbahce - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ajax - Union SG - Evrópudeildin - stod2sport2
+DTSTART:20250220T195000
+DTEND:20250220T205000
+DTSTAMP:20250220T195000Z
+UID:2025-02-20T19:50:00/Ajax - Union SG
+DESCRIPTION:Ajax - Union SG - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
+DTSTART:20250220T200000
+DTEND:20250220T210000
+DTSTAMP:20250220T200000Z
+UID:2025-02-20T20:00:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sambandsdeildin: Uppgjör - Sambandsdeildin - stod2vodasport
+DTSTART:20250220T220000
+DTEND:20250220T230000
+DTSTAMP:20250220T220000Z
+UID:2025-02-20T22:00:00/Sambandsdeildin: Uppgjör
+DESCRIPTION:Sambandsdeildin: Uppgjör - Sambandsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Honda LPGA Thailand - LPGA Tour - stod2sport4
@@ -329,5 +321,13 @@ DTEND:20250223T213000
 DTSTAMP:20250223T203000Z
 UID:2025-02-23T20:30:00/Warriors - Mavericks
 DESCRIPTION:Warriors - Mavericks - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lögmál leiksins - NBA - stod2sport2
+DTSTART:20250224T200000
+DTEND:20250224T210000
+DTSTAMP:20250224T200000Z
+UID:2025-02-24T20:00:00/Lögmál leiksins
+DESCRIPTION:Lögmál leiksins - NBA
 END:VEVENT
 END:VCALENDAR
