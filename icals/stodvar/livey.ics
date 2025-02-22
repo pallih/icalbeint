@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Rennes - Reims - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250221T194500
-DTEND:20250221T204500
-DTSTAMP:20250221T194500Z
-UID:2025-02-21T19:45:00/Rennes - Reims
-DESCRIPTION:Rennes - Reims - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lecce - Udinese - Serie A - Ítalski boltinn - livey
-DTSTART:20250221T194500
-DTEND:20250221T204500
-DTSTAMP:20250221T194500Z
-UID:2025-02-21T19:45:00/Lecce - Udinese
-DESCRIPTION:Lecce - Udinese - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Celta Vigo - Osasuna - LaLiga - Spænski boltinn - livey
-DTSTART:20250221T200000
-DTEND:20250221T210000
-DTSTAMP:20250221T200000Z
-UID:2025-02-21T20:00:00/Celta Vigo - Osasuna
-DESCRIPTION:Celta Vigo - Osasuna - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Deportivo Alaves - Espanyol - LaLiga - Spænski boltinn - livey
 DTSTART:20250222T130000
 DTEND:20250222T140000
@@ -58,20 +34,20 @@ UID:2025-02-22T15:15:00/Rayo Vallecano - Villareal
 DESCRIPTION:Rayo Vallecano - Villareal - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - DHC Slavia Praha - EHF - livey
+DTSTART:20250222T160000
+DTEND:20250222T170000
+DTSTAMP:20250222T160000Z
+UID:2025-02-22T16:00:00/Valur - DHC Slavia Praha
+DESCRIPTION:Valur - DHC Slavia Praha - EHF
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lille - Monaco - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250222T160000
 DTEND:20250222T170000
 DTSTAMP:20250222T160000Z
 UID:2025-02-22T16:00:00/Lille - Monaco
 DESCRIPTION:Lille - Monaco - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - DHC Slavia Praha - EHF - livey
-DTSTART:20250222T170000
-DTEND:20250222T180000
-DTSTAMP:20250222T170000Z
-UID:2025-02-22T17:00:00/Valur - DHC Slavia Praha
-DESCRIPTION:Valur - DHC Slavia Praha - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Torino - AC Milan - Serie A - Ítalski boltinn - livey
@@ -178,12 +154,12 @@ UID:2025-02-23T15:15:00/Real Madrid - Girona
 DESCRIPTION:Real Madrid - Girona - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Havre - Toulouse - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250223T161500
-DTEND:20250223T171500
-DTSTAMP:20250223T161500Z
-UID:2025-02-23T16:15:00/Le Havre - Toulouse
-DESCRIPTION:Le Havre - Toulouse - Ligue 1 - Franski Boltinn
+SUMMARY:Valur - DHC Slavia Praha - Seinni leikur - EHF - livey
+DTSTART:20250223T160000
+DTEND:20250223T170000
+DTSTAMP:20250223T160000Z
+UID:2025-02-23T16:00:00/Valur - DHC Slavia Praha - Seinni leikur
+DESCRIPTION:Valur - DHC Slavia Praha - Seinni leikur - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RC Strasbourg - Brest - Ligue 1 - Franski Boltinn - livey
@@ -202,28 +178,20 @@ UID:2025-02-23T16:15:00/Nice - Montpellier
 DESCRIPTION:Nice - Montpellier - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Le Havre - Toulouse - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250223T161500
+DTEND:20250223T171500
+DTSTAMP:20250223T161500Z
+UID:2025-02-23T16:15:00/Le Havre - Toulouse
+DESCRIPTION:Le Havre - Toulouse - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Empoli - Atalanta - Serie A - Ítalski boltinn - livey
 DTSTART:20250223T170000
 DTEND:20250223T180000
 DTSTAMP:20250223T170000Z
 UID:2025-02-23T17:00:00/Empoli - Atalanta
 DESCRIPTION:Empoli - Atalanta - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - DHC Slavia Praha - Seinni leikur - EHF - livey
-DTSTART:20250223T170000
-DTEND:20250223T180000
-DTSTAMP:20250223T170000Z
-UID:2025-02-23T17:00:00/Valur - DHC Slavia Praha - Seinni leikur
-DESCRIPTION:Valur - DHC Slavia Praha - Seinni leikur - EHF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Getafe - Real Betis - LaLiga - Spænski boltinn - livey
-DTSTART:20250223T173000
-DTEND:20250223T183000
-DTSTAMP:20250223T173000Z
-UID:2025-02-23T17:30:00/Getafe - Real Betis
-DESCRIPTION:Getafe - Real Betis - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anderlecht - Union Saint-Gilloise - Pro League - Belgíski boltinn
@@ -236,12 +204,12 @@ DESCRIPTION:Anderlecht - Union Saint-Gilloise - Pro League - Belgíski bol
  tinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cagliari - Juventus - Serie A - Ítalski boltinn - livey
-DTSTART:20250223T194500
-DTEND:20250223T204500
-DTSTAMP:20250223T194500Z
-UID:2025-02-23T19:45:00/Cagliari - Juventus
-DESCRIPTION:Cagliari - Juventus - Serie A - Ítalski boltinn
+SUMMARY:Getafe - Real Betis - LaLiga - Spænski boltinn - livey
+DTSTART:20250223T173000
+DTEND:20250223T183000
+DTSTAMP:20250223T173000Z
+UID:2025-02-23T17:30:00/Getafe - Real Betis
+DESCRIPTION:Getafe - Real Betis - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lyon - PSG - Ligue 1 - Franski Boltinn - livey
@@ -250,6 +218,14 @@ DTEND:20250223T204500
 DTSTAMP:20250223T194500Z
 UID:2025-02-23T19:45:00/Lyon - PSG
 DESCRIPTION:Lyon - PSG - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cagliari - Juventus - Serie A - Ítalski boltinn - livey
+DTSTART:20250223T194500
+DTEND:20250223T204500
+DTSTAMP:20250223T194500Z
+UID:2025-02-23T19:45:00/Cagliari - Juventus
+DESCRIPTION:Cagliari - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Sociedad - Leganes - LaLiga - Spænski boltinn - livey

@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
-SUMMARY:Burnley - Sheffield Wednesday - Championship - viaplay
-DTSTART:20250221T195500
-DTEND:20250221T205500
-DTSTAMP:20250221T195500Z
-UID:2025-02-21T19:55:00/Burnley - Sheffield Wednesday
-DESCRIPTION:Burnley - Sheffield Wednesday - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sunderland - Hull - Championship - viaplay
 DTSTART:20250222T122500
 DTEND:20250222T132500
@@ -32,5 +24,13 @@ DTEND:20250224T205500
 DTSTAMP:20250224T195500Z
 UID:2025-02-24T19:55:00/Sheffield United - Leeds
 DESCRIPTION:Sheffield United - Leeds - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield Wednesday - Sunderland - Championship - viaplay
+DTSTART:20250228T195500
+DTEND:20250228T205500
+DTSTAMP:20250228T195500Z
+UID:2025-02-28T19:55:00/Sheffield Wednesday - Sunderland
+DESCRIPTION:Sheffield Wednesday - Sunderland - Championship
 END:VEVENT
 END:VCALENDAR
