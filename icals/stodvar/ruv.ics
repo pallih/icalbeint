@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Boðganga kvenna - HM í skíðaskotfimi - ruv
-DTSTART:20250222T105500
-DTEND:20250222T115500
-DTSTAMP:20250222T105500Z
-UID:2025-02-22T10:55:00/Boðganga kvenna
-DESCRIPTION:Boðganga kvenna - HM í skíðaskotfimi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boðganga karla - HM í skíðaskotfimi - ruv
-DTSTART:20250222T135500
-DTEND:20250222T145500
-DTSTAMP:20250222T135500Z
-UID:2025-02-22T13:55:00/Boðganga karla
-DESCRIPTION:Boðganga karla - HM í skíðaskotfimi
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hópstart kvenna - HM í skíðaskotfimi - ruv
 DTSTART:20250223T123500
 DTEND:20250223T133500
@@ -103,5 +87,29 @@ DTSTAMP:20250227T201500Z
 UID:2025-02-27T20:15:00/Grótta - Haukar - undanúrslit 
 DESCRIPTION:Grótta - Haukar - undanúrslit  - Bikarkeppni kvenna í handb
  olta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skiptiganga karla - HM í skíðagöngu - ruv2
+DTSTART:20250301T125000
+DTEND:20250301T135000
+DTSTAMP:20250301T125000Z
+UID:2025-03-01T12:50:00/Skiptiganga karla
+DESCRIPTION:Skiptiganga karla - HM í skíðagöngu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bikarúrslit kvenna - Bikarkeppni kvenna í handbolta - ruv
+DTSTART:20250301T133000
+DTEND:20250301T143000
+DTSTAMP:20250301T133000Z
+UID:2025-03-01T13:30:00/Bikarúrslit kvenna
+DESCRIPTION:Bikarúrslit kvenna - Bikarkeppni kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bikarúrslit karla - Bikarkeppni karla í handbolta - ruv
+DTSTART:20250301T160000
+DTEND:20250301T170000
+DTSTAMP:20250301T160000Z
+UID:2025-03-01T16:00:00/Bikarúrslit karla
+DESCRIPTION:Bikarúrslit karla - Bikarkeppni karla í handbolta
 END:VEVENT
 END:VCALENDAR

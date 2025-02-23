@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Scottish Premiership - ical
 BEGIN:VEVENT
-SUMMARY:Hibernian - Celtic - Scottish Premiership - viaplay
-DTSTART:20250222T122500
-DTEND:20250222T132500
-DTSTAMP:20250222T122500Z
-UID:2025-02-22T12:25:00/Hibernian - Celtic
-DESCRIPTION:Hibernian - Celtic - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:St. Johnstone - Hearts - Scottish Premiership - viaplay
 DTSTART:20250223T115500
 DTEND:20250223T125500
@@ -32,5 +24,13 @@ DTEND:20250226T205500
 DTSTAMP:20250226T195500Z
 UID:2025-02-26T19:55:00/Kilmarnock - Rangers
 DESCRIPTION:Kilmarnock - Rangers - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Mirren - Celtic - Scottish Premiership - viaplay
+DTSTART:20250301T172500
+DTEND:20250301T182500
+DTSTAMP:20250301T172500Z
+UID:2025-03-01T17:25:00/St. Mirren - Celtic
+DESCRIPTION:St. Mirren - Celtic - Scottish Premiership
 END:VEVENT
 END:VCALENDAR
