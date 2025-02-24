@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Newcastle - Nottingham Forest - Enska úrvalsdeildin - siminnsport
-DTSTART:20250223T133000
-DTEND:20250223T143000
-DTSTAMP:20250223T133000Z
-UID:2025-02-23T13:30:00/Newcastle - Nottingham Forest
-DESCRIPTION:Newcastle - Nottingham Forest - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. City - Liverpool - Enska úrvalsdeildin - siminnsport
-DTSTART:20250223T160000
-DTEND:20250223T170000
-DTSTAMP:20250223T160000Z
-UID:2025-02-23T16:00:00/Man. City - Liverpool
-DESCRIPTION:Man. City - Liverpool - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20250223T183000
-DTEND:20250223T193000
-DTSTAMP:20250223T183000Z
-UID:2025-02-23T18:30:00/Völlurinn
-DESCRIPTION:Völlurinn - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Real Sociedad - Leganes - LaLiga - Spænski boltinn - siminnsport
-DTSTART:20250223T195500
-DTEND:20250223T205500
-DTSTAMP:20250223T195500Z
-UID:2025-02-23T19:55:00/ Real Sociedad - Leganes
-DESCRIPTION: Real Sociedad - Leganes - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crystal Palace - Aston Villa - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250225T192000
-DTEND:20250225T202000
-DTSTAMP:20250225T192000Z
-UID:2025-02-25T19:20:00/Crystal Palace - Aston Villa
-DESCRIPTION:Crystal Palace - Aston Villa - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brighton - Bournemouth - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250225T192000
 DTEND:20250225T202000
@@ -56,6 +16,14 @@ DTEND:20250225T202000
 DTSTAMP:20250225T192000Z
 UID:2025-02-25T19:20:00/Wolves - Fulham
 DESCRIPTION:Wolves - Fulham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Aston Villa - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250225T192000
+DTEND:20250225T202000
+DTSTAMP:20250225T192000Z
+UID:2025-02-25T19:20:00/Crystal Palace - Aston Villa
+DESCRIPTION:Crystal Palace - Aston Villa - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Southampton - Enska úrvalsdeildin - siminnsport
@@ -74,12 +42,12 @@ UID:2025-02-26T18:00:00/Stjarnan - ÍBV
 DESCRIPTION:Stjarnan - ÍBV - Powerade bikar karla  2025
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Ipswich - Enska úrvalsdeildin - siminnsport2
+SUMMARY:Tottenham - Man. City - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250226T192000
 DTEND:20250226T202000
 DTSTAMP:20250226T192000Z
-UID:2025-02-26T19:20:00/Man. Utd. - Ipswich
-DESCRIPTION:Man. Utd. - Ipswich - Enska úrvalsdeildin
+UID:2025-02-26T19:20:00/Tottenham - Man. City
+DESCRIPTION:Tottenham - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Arsenal - Enska úrvalsdeildin - siminnsport4
@@ -90,12 +58,12 @@ UID:2025-02-26T19:20:00/Nottingham Forest - Arsenal
 DESCRIPTION:Nottingham Forest - Arsenal - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Man. City - Enska úrvalsdeildin - siminnsport3
+SUMMARY:Man. Utd. - Ipswich - Enska úrvalsdeildin - siminnsport2
 DTSTART:20250226T192000
 DTEND:20250226T202000
 DTSTAMP:20250226T192000Z
-UID:2025-02-26T19:20:00/Tottenham - Man. City
-DESCRIPTION:Tottenham - Man. City - Enska úrvalsdeildin
+UID:2025-02-26T19:20:00/Man. Utd. - Ipswich
+DESCRIPTION:Man. Utd. - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Newcastle - Enska úrvalsdeildin - siminnsport
@@ -136,5 +104,14 @@ DTEND:20250227T211500
 DTSTAMP:20250227T201500Z
 UID:2025-02-27T20:15:00/Grótta - Haukar
 DESCRIPTION:Grótta - Haukar - Powerade bikar kvenna 2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Barcelona - Real Sociedad - LaLiga - Spænski boltinn - siminnspo
+ rt
+DTSTART:20250301T172500
+DTEND:20250301T182500
+DTSTAMP:20250301T172500Z
+UID:2025-03-01T17:25:00/ Barcelona - Real Sociedad
+DESCRIPTION: Barcelona - Real Sociedad - LaLiga - Spænski boltinn
 END:VEVENT
 END:VCALENDAR
