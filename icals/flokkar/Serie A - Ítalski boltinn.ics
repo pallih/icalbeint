@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Serie A - Ítalski boltinn - ical
 BEGIN:VEVENT
-SUMMARY:Roma - Monza - Serie A - Ítalski boltinn - livey
-DTSTART:20250224T194500
-DTEND:20250224T204500
-DTSTAMP:20250224T194500Z
-UID:2025-02-24T19:45:00/Roma - Monza
-DESCRIPTION:Roma - Monza - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inter Milan - Lazio - Serie A - Ítalski boltinn - livey
 DTSTART:20250225T200000
 DTEND:20250225T210000
@@ -32,5 +24,13 @@ DTEND:20250226T210000
 DTSTAMP:20250226T200000Z
 UID:2025-02-26T20:00:00/Juventus - Empoli
 DESCRIPTION:Juventus - Empoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: AC Milan - Lazio - Serie A - Ítalski boltinn - siminnsport
+DTSTART:20250302T194000
+DTEND:20250302T204000
+DTSTAMP:20250302T194000Z
+UID:2025-03-02T19:40:00/ AC Milan - Lazio
+DESCRIPTION: AC Milan - Lazio - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR

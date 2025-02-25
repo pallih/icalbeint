@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Roma - Monza - Serie A - Ítalski boltinn - livey
-DTSTART:20250224T194500
-DTEND:20250224T204500
-DTSTAMP:20250224T194500Z
-UID:2025-02-24T19:45:00/Roma - Monza
-DESCRIPTION:Roma - Monza - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield Utd. - Leeds - EFL Championship - stod2vodasport
-DTSTART:20250224T195500
-DTEND:20250224T205500
-DTSTAMP:20250224T195500Z
-UID:2025-02-24T19:55:00/Sheffield Utd. - Leeds
-DESCRIPTION:Sheffield Utd. - Leeds - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield United - Leeds - Championship - viaplay
-DTSTART:20250224T195500
-DTEND:20250224T205500
-DTSTAMP:20250224T195500Z
-UID:2025-02-24T19:55:00/Sheffield United - Leeds
-DESCRIPTION:Sheffield United - Leeds - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sevilla - RCD Mallorca - LaLiga - Spænski boltinn - livey
-DTSTART:20250224T200000
-DTEND:20250224T210000
-DTSTAMP:20250224T200000Z
-UID:2025-02-24T20:00:00/Sevilla - RCD Mallorca
-DESCRIPTION:Sevilla - RCD Mallorca - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Al Wehda - Al Nassr - Saudi Pro League - stod2vodasport
 DTSTART:20250225T151000
 DTEND:20250225T161000
@@ -50,14 +18,6 @@ UID:2025-02-25T15:55:00/Al Wehda - Al Nassr
 DESCRIPTION:Al Wehda - Al Nassr - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Al Ahli - Al Qadsiah - Saudi Pro League - viaplay
-DTSTART:20250225T172500
-DTEND:20250225T182500
-DTSTAMP:20250225T172500Z
-UID:2025-02-25T17:25:00/Al Ahli - Al Qadsiah
-DESCRIPTION:Al Ahli - Al Qadsiah - Saudi Pro League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Al Ahli - Al Qadisah - Saudi Pro League - stod2vodasport
 DTSTART:20250225T172500
 DTEND:20250225T182500
@@ -66,12 +26,12 @@ UID:2025-02-25T17:25:00/Al Ahli - Al Qadisah
 DESCRIPTION:Al Ahli - Al Qadisah - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brighton - Bournemouth - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250225T192000
-DTEND:20250225T202000
-DTSTAMP:20250225T192000Z
-UID:2025-02-25T19:20:00/Brighton - Bournemouth
-DESCRIPTION:Brighton - Bournemouth - Enska úrvalsdeildin
+SUMMARY:Al Ahli - Al Qadsiah - Saudi Pro League - viaplay
+DTSTART:20250225T172500
+DTEND:20250225T182500
+DTSTAMP:20250225T172500Z
+UID:2025-02-25T17:25:00/Al Ahli - Al Qadsiah
+DESCRIPTION:Al Ahli - Al Qadsiah - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Fulham - Enska úrvalsdeildin - siminnsport4
@@ -80,6 +40,14 @@ DTEND:20250225T202000
 DTSTAMP:20250225T192000Z
 UID:2025-02-25T19:20:00/Wolves - Fulham
 DESCRIPTION:Wolves - Fulham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - Bournemouth - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250225T192000
+DTEND:20250225T202000
+DTSTAMP:20250225T192000Z
+UID:2025-02-25T19:20:00/Brighton - Bournemouth
+DESCRIPTION:Brighton - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Aston Villa - Enska úrvalsdeildin - siminnsport2
@@ -98,20 +66,20 @@ UID:2025-02-25T19:45:00/Chelsea - Southampton
 DESCRIPTION:Chelsea - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celtic - Aberdeen - Skoska úrvalsdeildin - stod2vodasport
-DTSTART:20250225T195500
-DTEND:20250225T205500
-DTSTAMP:20250225T195500Z
-UID:2025-02-25T19:55:00/Celtic - Aberdeen
-DESCRIPTION:Celtic - Aberdeen - Skoska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Celtic - Aberdeen - Scottish Premiership - viaplay
 DTSTART:20250225T195500
 DTEND:20250225T205500
 DTSTAMP:20250225T195500Z
 UID:2025-02-25T19:55:00/Celtic - Aberdeen
 DESCRIPTION:Celtic - Aberdeen - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celtic - Aberdeen - Skoska úrvalsdeildin - stod2vodasport
+DTSTART:20250225T195500
+DTEND:20250225T205500
+DTSTAMP:20250225T195500Z
+UID:2025-02-25T19:55:00/Celtic - Aberdeen
+DESCRIPTION:Celtic - Aberdeen - Skoska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Milan - Lazio - Serie A - Ítalski boltinn - livey
@@ -154,14 +122,6 @@ UID:2025-02-26T17:30:00/Bologna - AC Milan
 DESCRIPTION:Bologna - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Man. City - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250226T192000
-DTEND:20250226T202000
-DTSTAMP:20250226T192000Z
-UID:2025-02-26T19:20:00/Tottenham - Man. City
-DESCRIPTION:Tottenham - Man. City - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Arsenal - Enska úrvalsdeildin - siminnsport4
 DTSTART:20250226T192000
 DTEND:20250226T202000
@@ -176,6 +136,14 @@ DTEND:20250226T202000
 DTSTAMP:20250226T192000Z
 UID:2025-02-26T19:20:00/Man. Utd. - Ipswich
 DESCRIPTION:Man. Utd. - Ipswich - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Man. City - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250226T192000
+DTEND:20250226T202000
+DTSTAMP:20250226T192000Z
+UID:2025-02-26T19:20:00/Tottenham - Man. City
+DESCRIPTION:Tottenham - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wrexham - Peterborough - EFL Trophy - viaplay
@@ -242,12 +210,12 @@ UID:2025-02-27T19:55:00/Barrow - Carlisle
 DESCRIPTION:Barrow - Carlisle - League Two
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Greuther Fürth - 2. Bundesliga - viaplay
+SUMMARY:Düsseldorf - Fürth - 2. Bundesliga - stod2vodasport
 DTSTART:20250228T172500
 DTEND:20250228T182500
 DTSTAMP:20250228T172500Z
-UID:2025-02-28T17:25:00/Düsseldorf - Greuther Fürth
-DESCRIPTION:Düsseldorf - Greuther Fürth - 2. Bundesliga
+UID:2025-02-28T17:25:00/Düsseldorf - Fürth
+DESCRIPTION:Düsseldorf - Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schalke - Preußen Münster - 2. Bundesliga - viaplay
@@ -256,6 +224,14 @@ DTEND:20250228T182500
 DTSTAMP:20250228T172500Z
 UID:2025-02-28T17:25:00/Schalke - Preußen Münster
 DESCRIPTION:Schalke - Preußen Münster - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20250228T172500
+DTEND:20250228T182500
+DTSTAMP:20250228T172500Z
+UID:2025-02-28T17:25:00/Düsseldorf - Greuther Fürth
+DESCRIPTION:Düsseldorf - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Al Orobah - Al Nassr - Saudi Pro League - viaplay
@@ -288,6 +264,14 @@ DTEND:20250228T204000
 DTSTAMP:20250228T194000Z
 UID:2025-02-28T19:40:00/Partick Thistle - Livingston
 DESCRIPTION:Partick Thistle - Livingston - Scottish Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Cardiff City - FA Cup - stod2vodasport
+DTSTART:20250228T195500
+DTEND:20250228T205500
+DTSTAMP:20250228T195500Z
+UID:2025-02-28T19:55:00/Aston Villa - Cardiff City
+DESCRIPTION:Aston Villa - Cardiff City - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aston Villa - Cardiff City - FA Cup - viaplay
@@ -346,12 +330,36 @@ UID:2025-03-01T12:05:00/Preston - Burnley
 DESCRIPTION:Preston - Burnley - FA Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crystal Palace - Millwall - FA Cup - stod2vodasport
+DTSTART:20250301T121000
+DTEND:20250301T131000
+DTSTAMP:20250301T121000Z
+UID:2025-03-01T12:10:00/Crystal Palace - Millwall
+DESCRIPTION:Crystal Palace - Millwall - FA Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leeds - West Brom - Championship - viaplay
 DTSTART:20250301T122500
 DTEND:20250301T132500
 DTSTAMP:20250301T122500Z
 UID:2025-03-01T12:25:00/Leeds - West Brom
 DESCRIPTION:Leeds - West Brom - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Wolfsburg - Bundesliga - viaplay
+DTSTART:20250301T142000
+DTEND:20250301T152000
+DTSTAMP:20250301T142000Z
+UID:2025-03-01T14:20:00/Werder Bremen - Wolfsburg
+DESCRIPTION:Werder Bremen - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Mainz - Bundesliga - viaplay
+DTSTART:20250301T142000
+DTEND:20250301T152000
+DTSTAMP:20250301T142000Z
+UID:2025-03-01T14:20:00/Leipzig - Mainz
+DESCRIPTION:Leipzig - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heidenheim - Mönchengladbach - Bundesliga - viaplay
@@ -370,14 +378,6 @@ UID:2025-03-01T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Mainz - Bundesliga - viaplay
-DTSTART:20250301T142000
-DTEND:20250301T152000
-DTSTAMP:20250301T142000Z
-UID:2025-03-01T14:20:00/Leipzig - Mainz
-DESCRIPTION:Leipzig - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:St. Pauli - Dortmund - Bundesliga - viaplay
 DTSTART:20250301T142000
 DTEND:20250301T152000
@@ -394,20 +394,20 @@ UID:2025-03-01T14:20:00/Bochum - Hoffenheim
 DESCRIPTION:Bochum - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Wolfsburg - Bundesliga - viaplay
-DTSTART:20250301T142000
-DTEND:20250301T152000
-DTSTAMP:20250301T142000Z
-UID:2025-03-01T14:20:00/Werder Bremen - Wolfsburg
-DESCRIPTION:Werder Bremen - Wolfsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bournemouth - Wolverhampton - FA Cup - viaplay
 DTSTART:20250301T145000
 DTEND:20250301T155000
 DTSTAMP:20250301T145000Z
 UID:2025-03-01T14:50:00/Bournemouth - Wolverhampton
 DESCRIPTION:Bournemouth - Wolverhampton - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Wolves - FA Cup - stod2vodasport
+DTSTART:20250301T145500
+DTEND:20250301T155500
+DTSTAMP:20250301T145500Z
+UID:2025-03-01T14:55:00/Bournemouth - Wolves
+DESCRIPTION:Bournemouth - Wolves - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Middlesbrough - Derby - Championship - viaplay
@@ -451,6 +451,14 @@ UID:2025-03-01T17:35:00/Man City - Plymouth
 DESCRIPTION:Man City - Plymouth - FA Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Man. City - Plymouth - FA Cup - stod2vodasport
+DTSTART:20250301T174000
+DTEND:20250301T184000
+DTSTAMP:20250301T174000Z
+UID:2025-03-01T17:40:00/Man. City - Plymouth
+DESCRIPTION:Man. City - Plymouth - FA Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Melsungen - Bundesliga - viaplay
 DTSTART:20250301T175500
 DTEND:20250301T185500
@@ -467,12 +475,12 @@ UID:2025-03-01T19:25:00/Karlsruher - Köln
 DESCRIPTION:Karlsruher - Köln - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Darmstadt - 2. Bundesliga - viaplay
+SUMMARY:Elversberg - Hertha Berlin - 2. Bundesliga - viaplay
 DTSTART:20250302T122500
 DTEND:20250302T132500
 DTSTAMP:20250302T122500Z
-UID:2025-03-02T12:25:00/Magdeburg - Darmstadt
-DESCRIPTION:Magdeburg - Darmstadt - 2. Bundesliga
+UID:2025-03-02T12:25:00/Elversberg - Hertha Berlin
+DESCRIPTION:Elversberg - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - HSV - 2. Bundesliga - viaplay
@@ -483,20 +491,20 @@ UID:2025-03-02T12:25:00/Paderborn - HSV
 DESCRIPTION:Paderborn - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Hertha Berlin - 2. Bundesliga - viaplay
-DTSTART:20250302T122500
-DTEND:20250302T132500
-DTSTAMP:20250302T122500Z
-UID:2025-03-02T12:25:00/Elversberg - Hertha Berlin
-DESCRIPTION:Elversberg - Hertha Berlin - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hibernian - Hearts - Scottish Premiership - viaplay
 DTSTART:20250302T122500
 DTEND:20250302T132500
 DTSTAMP:20250302T122500Z
 UID:2025-03-02T12:25:00/Hibernian - Hearts
 DESCRIPTION:Hibernian - Hearts - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20250302T122500
+DTEND:20250302T132500
+DTSTAMP:20250302T122500Z
+UID:2025-03-02T12:25:00/Magdeburg - Darmstadt
+DESCRIPTION:Magdeburg - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Brighton - FA Cup - viaplay
@@ -539,14 +547,6 @@ UID:2025-03-02T15:25:00/Leipzig - Füchse Berlin
 DESCRIPTION:Leipzig - Füchse Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Freiburg - Bundesliga - viaplay
-DTSTART:20250302T162000
-DTEND:20250302T172000
-DTSTAMP:20250302T162000Z
-UID:2025-03-02T16:20:00/Augsburg - Freiburg
-DESCRIPTION:Augsburg - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man United - Fulham - FA Cup - viaplay
 DTSTART:20250302T162000
 DTEND:20250302T172000
@@ -555,11 +555,35 @@ UID:2025-03-02T16:20:00/Man United - Fulham
 DESCRIPTION:Man United - Fulham - FA Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Augsburg - Freiburg - Bundesliga - viaplay
+DTSTART:20250302T162000
+DTEND:20250302T172000
+DTSTAMP:20250302T162000Z
+UID:2025-03-02T16:20:00/Augsburg - Freiburg
+DESCRIPTION:Augsburg - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Al Ittihad - Al Okhdood - Saudi Pro League - viaplay
 DTSTART:20250302T185500
 DTEND:20250302T195500
 DTSTAMP:20250302T185500Z
 UID:2025-03-02T18:55:00/Al Ittihad - Al Okhdood
 DESCRIPTION:Al Ittihad - Al Okhdood - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: AC Milan - Lazio - Serie A - Ítalski boltinn - siminnsport
+DTSTART:20250302T194000
+DTEND:20250302T204000
+DTSTAMP:20250302T194000Z
+UID:2025-03-02T19:40:00/ AC Milan - Lazio
+DESCRIPTION: AC Milan - Lazio - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest - Ipswich - FA Cup - viaplay
+DTSTART:20250303T192500
+DTEND:20250303T202500
+DTSTAMP:20250303T192500Z
+UID:2025-03-03T19:25:00/Nottingham Forest - Ipswich
+DESCRIPTION:Nottingham Forest - Ipswich - FA Cup
 END:VEVENT
 END:VCALENDAR
