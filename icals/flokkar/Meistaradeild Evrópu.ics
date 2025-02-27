@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Meistaradeild Evrópu - ical
 BEGIN:VEVENT
+SUMMARY:Dortmund - Lille - Meistaradeild Evrópu - stod2sport3
+DTSTART:20250304T173500
+DTEND:20250304T183500
+DTSTAMP:20250304T173500Z
+UID:2025-03-04T17:35:00/Dortmund - Lille
+DESCRIPTION:Dortmund - Lille - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club Brugge - Aston Villa - Meistaradeild Evrópu - stod2vodasport
 DTSTART:20250304T173500
 DTEND:20250304T183500
@@ -11,11 +19,19 @@ DESCRIPTION:Club Brugge - Aston Villa - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - stod2sport2
-DTSTART:20250304T193000
-DTEND:20250304T203000
-DTSTAMP:20250304T193000Z
-UID:2025-03-04T19:30:00/Meistaradeildin - upphitun
+DTSTART:20250304T192500
+DTEND:20250304T202500
+DTSTAMP:20250304T192500Z
+UID:2025-03-04T19:25:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV - Arsenal - Meistaradeild Evrópu - stod2sport2
+DTSTART:20250304T195000
+DTEND:20250304T205000
+DTSTAMP:20250304T195000Z
+UID:2025-03-04T19:50:00/PSV - Arsenal
+DESCRIPTION:PSV - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - Atletico Madrid - Meistaradeild Evrópu - stod2vodas
@@ -27,19 +43,52 @@ UID:2025-03-04T19:50:00/Real Madrid - Atletico Madrid
 DESCRIPTION:Real Madrid - Atletico Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meistaradeild Evrópu - Meistaradeild Evrópu - stod2sport2
-DTSTART:20250304T195000
-DTEND:20250304T205000
-DTSTAMP:20250304T195000Z
-UID:2025-03-04T19:50:00/Meistaradeild Evrópu
-DESCRIPTION:Meistaradeild Evrópu - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
 DTSTART:20250304T220000
 DTEND:20250304T230000
 DTSTAMP:20250304T220000Z
 UID:2025-03-04T22:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feyenoord - Inter - Meistaradeild Evrópu - stod2sport3
+DTSTART:20250305T173500
+DTEND:20250305T183500
+DTSTAMP:20250305T173500Z
+UID:2025-03-05T17:35:00/Feyenoord - Inter
+DESCRIPTION:Feyenoord - Inter - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - stod2sport2
+DTSTART:20250305T192500
+DTEND:20250305T202500
+DTSTAMP:20250305T192500Z
+UID:2025-03-05T19:25:00/Meistaradeildin - upphitun
+DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Lerverkusen - Meistaradeild Evrópu - stod2vodas
+ port
+DTSTART:20250305T195000
+DTEND:20250305T205000
+DTSTAMP:20250305T195000Z
+UID:2025-03-05T19:50:00/Bayern München - Lerverkusen
+DESCRIPTION:Bayern München - Lerverkusen - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Liverpool - Meistaradeild Evrópu - stod2sport2
+DTSTART:20250305T195000
+DTEND:20250305T205000
+DTSTAMP:20250305T195000Z
+UID:2025-03-05T19:50:00/PSG - Liverpool
+DESCRIPTION:PSG - Liverpool - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
+DTSTART:20250305T220000
+DTEND:20250305T230000
+DTSTAMP:20250305T220000Z
+UID:2025-03-05T22:00:00/Meistaradeildarmörkin
 DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
 END:VEVENT
 END:VCALENDAR
