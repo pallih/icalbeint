@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:ÍA - Hamar - 1. deild karla í körfubolta - stod2sport
-DTSTART:20250227T190500
-DTEND:20250227T200500
-DTSTAMP:20250227T190500Z
-UID:2025-02-27T19:05:00/ÍA - Hamar
-DESCRIPTION:ÍA - Hamar - 1. deild karla í körfubolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GAZið: Upphitun - Bónus deild karla - stod2besta01
 DTSTART:20250228T185500
 DTEND:20250228T195500
@@ -26,20 +18,20 @@ UID:2025-02-28T19:00:00/Grindavík - Keflavík
 DESCRIPTION:Grindavík - Keflavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Haukar - Bónus deild karla - stod2besta02
-DTSTART:20250228T191000
-DTEND:20250228T201000
-DTSTAMP:20250228T191000Z
-UID:2025-02-28T19:10:00/Njarðvík - Haukar
-DESCRIPTION:Njarðvík - Haukar - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GAZ: Álftanes - Tindastóll - Bónus deild karla - stod2besta01
 DTSTART:20250228T191000
 DTEND:20250228T201000
 DTSTAMP:20250228T191000Z
 UID:2025-02-28T19:10:00/GAZ: Álftanes - Tindastóll
 DESCRIPTION:GAZ: Álftanes - Tindastóll - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
+DTSTART:20250228T191000
+DTEND:20250228T201000
+DTSTAMP:20250228T191000Z
+UID:2025-02-28T19:10:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Þ. - Stjarnan - Bónus deild karla - stod2besta03
@@ -50,12 +42,12 @@ UID:2025-02-28T19:10:00/Þór Þ. - Stjarnan
 DESCRIPTION:Þór Þ. - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
+SUMMARY:Njarðvík - Haukar - Bónus deild karla - stod2besta02
 DTSTART:20250228T191000
 DTEND:20250228T201000
 DTSTAMP:20250228T191000Z
-UID:2025-02-28T19:10:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild karla
+UID:2025-02-28T19:10:00/Njarðvík - Haukar
+DESCRIPTION:Njarðvík - Haukar - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
@@ -122,20 +114,20 @@ UID:2025-03-02T18:00:00/Celtics - Nuggets
 DESCRIPTION:Celtics - Nuggets - NBA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Ak. - Valur - Bónus deild kvenna - stod2besta01
-DTSTART:20250302T190500
-DTEND:20250302T200500
-DTSTAMP:20250302T190500Z
-UID:2025-03-02T19:05:00/Þór Ak. - Valur
-DESCRIPTION:Þór Ak. - Valur - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keflavík - Haukar - Bónus deild kvenna - stod2sport
 DTSTART:20250302T190500
 DTEND:20250302T200500
 DTSTAMP:20250302T190500Z
 UID:2025-03-02T19:05:00/Keflavík - Haukar
 DESCRIPTION:Keflavík - Haukar - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Ak. - Valur - Bónus deild kvenna - stod2besta01
+DTSTART:20250302T190500
+DTEND:20250302T200500
+DTSTAMP:20250302T190500Z
+UID:2025-03-02T19:05:00/Þór Ak. - Valur
+DESCRIPTION:Þór Ak. - Valur - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
@@ -200,5 +192,69 @@ DTEND:20250305T220500
 DTSTAMP:20250305T210500Z
 UID:2025-03-05T21:05:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAZið: Upphitun - Bónus deild karla - stod2besta01
+DTSTART:20250306T190000
+DTEND:20250306T200000
+DTSTAMP:20250306T190000Z
+UID:2025-03-06T19:00:00/GAZið: Upphitun
+DESCRIPTION:GAZið: Upphitun - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAZið: Upphitun - Bónus deild karla - stod2sport
+DTSTART:20250306T190000
+DTEND:20250306T200000
+DTSTAMP:20250306T190000Z
+UID:2025-03-06T19:00:00/GAZið: Upphitun
+DESCRIPTION:GAZið: Upphitun - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Álftanes - Bónus deild karla - stod2sport5
+DTSTART:20250306T190500
+DTEND:20250306T200500
+DTSTAMP:20250306T190500Z
+UID:2025-03-06T19:05:00/Stjarnan - Álftanes
+DESCRIPTION:Stjarnan - Álftanes - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - KR - Bónus deild karla - stod2besta01
+DTSTART:20250306T191000
+DTEND:20250306T201000
+DTSTAMP:20250306T191000Z
+UID:2025-03-06T19:10:00/ÍR - KR
+DESCRIPTION:ÍR - KR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Keflavík - Bónus deild karla - stod2besta02
+DTSTART:20250306T191000
+DTEND:20250306T201000
+DTSTAMP:20250306T191000Z
+UID:2025-03-06T19:10:00/Tindastóll - Keflavík
+DESCRIPTION:Tindastóll - Keflavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Höttur - Þór Þ. - Bónus deild karla - stod2besta03
+DTSTART:20250306T191000
+DTEND:20250306T201000
+DTSTAMP:20250306T191000Z
+UID:2025-03-06T19:10:00/Höttur - Þór Þ.
+DESCRIPTION:Höttur - Þór Þ. - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skiptiborðið - Bónus deild karla - stod2sport
+DTSTART:20250306T191000
+DTEND:20250306T201000
+DTSTAMP:20250306T191000Z
+UID:2025-03-06T19:10:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
+DTSTART:20250306T211000
+DTEND:20250306T221000
+DTSTAMP:20250306T211000Z
+UID:2025-03-06T21:10:00/Tilþrifin
+DESCRIPTION:Tilþrifin - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
