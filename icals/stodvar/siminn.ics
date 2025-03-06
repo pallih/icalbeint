@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Afturelding - Stjarnan - Olís deild karla - hsi1
-DTSTART:20250305T193000
-DTEND:20250305T203000
-DTSTAMP:20250305T193000Z
-UID:2025-03-05T19:30:00/Afturelding - Stjarnan
-DESCRIPTION:Afturelding - Stjarnan - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Fram - Olís deild karla - sjonvarpsimans
-DTSTART:20250305T200000
-DTEND:20250305T210000
-DTSTAMP:20250305T200000Z
-UID:2025-03-05T20:00:00/Valur - Fram
-DESCRIPTION:Valur - Fram - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Fram - Olís deild karla - hsi1
-DTSTART:20250305T201500
-DTEND:20250305T211500
-DTSTAMP:20250305T201500Z
-UID:2025-03-05T20:15:00/Valur - Fram
-DESCRIPTION:Valur - Fram - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Man. City - Enska úrvalsdeildin - siminnsport
 DTSTART:20250308T120000
 DTEND:20250308T130000
@@ -34,20 +10,20 @@ UID:2025-03-08T12:00:00/Nottingham Forest - Man. City
 DESCRIPTION:Nottingham Forest - Man. City - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fjölnir - Haukar - Olís deild karla - hsi1
-DTSTART:20250308T140000
-DTEND:20250308T150000
-DTSTAMP:20250308T140000Z
-UID:2025-03-08T14:00:00/Fjölnir - Haukar
-DESCRIPTION:Fjölnir - Haukar - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - ÍR - Olís deild karla - hsi1
 DTSTART:20250308T140000
 DTEND:20250308T150000
 DTSTAMP:20250308T140000Z
 UID:2025-03-08T14:00:00/ÍBV - ÍR
 DESCRIPTION:ÍBV - ÍR - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - Haukar - Olís deild karla - hsi1
+DTSTART:20250308T140000
+DTEND:20250308T150000
+DTSTAMP:20250308T140000Z
+UID:2025-03-08T14:00:00/Fjölnir - Haukar
+DESCRIPTION:Fjölnir - Haukar - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Southampton - Enska úrvalsdeildin - siminnsport
@@ -66,20 +42,20 @@ UID:2025-03-08T14:30:00/Liverpool - Southampton
 DESCRIPTION:Liverpool - Southampton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Ipswich - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250308T145000
-DTEND:20250308T155000
-DTSTAMP:20250308T145000Z
-UID:2025-03-08T14:50:00/Crystal Palace - Ipswich
-DESCRIPTION:Crystal Palace - Ipswich - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brighton - Fulham - Enska úrvalsdeildin - siminnsport2
 DTSTART:20250308T145000
 DTEND:20250308T155000
 DTSTAMP:20250308T145000Z
 UID:2025-03-08T14:50:00/Brighton - Fulham
 DESCRIPTION:Brighton - Fulham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Ipswich - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250308T145000
+DTEND:20250308T155000
+DTSTAMP:20250308T145000Z
+UID:2025-03-08T14:50:00/Crystal Palace - Ipswich
+DESCRIPTION:Crystal Palace - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Grótta - Olís deild karla - hsi1
@@ -130,14 +106,6 @@ UID:2025-03-09T13:50:00/Tottenham - Bournemouth
 DESCRIPTION:Tottenham - Bournemouth - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Napoli - Fiorentina - Serie A - Ítalski boltinn - sjonvarpsimans
-DTSTART:20250309T135500
-DTEND:20250309T145500
-DTSTAMP:20250309T135500Z
-UID:2025-03-09T13:55:00/Napoli - Fiorentina
-DESCRIPTION:Napoli - Fiorentina - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - KA - Olís deild karla - hsi1
 DTSTART:20250309T160000
 DTEND:20250309T170000
@@ -168,5 +136,21 @@ DTEND:20250310T203000
 DTSTAMP:20250310T193000Z
 UID:2025-03-10T19:30:00/West Ham - Newcastle
 DESCRIPTION:West Ham - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Haukar - Olís deild kvenna - hsi1
+DTSTART:20250312T193000
+DTEND:20250312T203000
+DTSTAMP:20250312T193000Z
+UID:2025-03-12T19:30:00/Fram - Haukar
+DESCRIPTION:Fram - Haukar - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - Grótta - Olís deild kvenna - hsi1
+DTSTART:20250312T193000
+DTEND:20250312T203000
+DTSTAMP:20250312T193000Z
+UID:2025-03-12T19:30:00/Selfoss - Grótta
+DESCRIPTION:Selfoss - Grótta - Olís deild kvenna
 END:VEVENT
 END:VCALENDAR
