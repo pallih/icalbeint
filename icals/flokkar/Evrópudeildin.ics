@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Evrópudeildin - ical
 BEGIN:VEVENT
-SUMMARY:Olympiacos - Bodö/Glimt - Evrópudeildin - stod2sport2
-DTSTART:20250313T173500
-DTEND:20250313T183500
-DTSTAMP:20250313T173500Z
-UID:2025-03-13T17:35:00/Olympiacos - Bodö/Glimt
-DESCRIPTION:Olympiacos - Bodö/Glimt - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frankfurt - Ajax - Evrópudeildin - stod2vodasport
 DTSTART:20250313T173500
 DTEND:20250313T183500
@@ -18,12 +10,12 @@ UID:2025-03-13T17:35:00/Frankfurt - Ajax
 DESCRIPTION:Frankfurt - Ajax - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Real Sociedad - Evrópudeildin - stod2sport2
-DTSTART:20250313T195000
-DTEND:20250313T205000
-DTSTAMP:20250313T195000Z
-UID:2025-03-13T19:50:00/Man. Utd. - Real Sociedad
-DESCRIPTION:Man. Utd. - Real Sociedad - Evrópudeildin
+SUMMARY:Olympiacos - Bodö/Glimt - Evrópudeildin - stod2sport2
+DTSTART:20250313T173500
+DTEND:20250313T183500
+DTSTAMP:20250313T173500Z
+UID:2025-03-13T17:35:00/Olympiacos - Bodö/Glimt
+DESCRIPTION:Olympiacos - Bodö/Glimt - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tottenham - AZ Alkmaar - Evrópudeildin - stod2vodasport
@@ -40,5 +32,13 @@ DTEND:20250313T205000
 DTSTAMP:20250313T195000Z
 UID:2025-03-13T19:50:00/Evrópudeildin
 DESCRIPTION:Evrópudeildin - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Real Sociedad - Evrópudeildin - stod2sport2
+DTSTART:20250313T195000
+DTEND:20250313T205000
+DTSTAMP:20250313T195000Z
+UID:2025-03-13T19:50:00/Man. Utd. - Real Sociedad
+DESCRIPTION:Man. Utd. - Real Sociedad - Evrópudeildin
 END:VEVENT
 END:VCALENDAR
