@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:GOVX 200 (Xfinity Series) - Nascar - viaplay
-DTSTART:20250308T213000
-DTEND:20250308T223000
-DTSTAMP:20250308T213000Z
-UID:2025-03-08T21:30:00/GOVX 200 (Xfinity Series)
-DESCRIPTION:GOVX 200 (Xfinity Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Shriners Children's 500 (Cup Series) - Nascar - viaplay
 DTSTART:20250309T183000
 DTEND:20250309T193000
@@ -18,12 +10,12 @@ UID:2025-03-09T18:30:00/Shriners Children's 500 (Cup Series)
 DESCRIPTION:Shriners Children's 500 (Cup Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Australian Grand Prix - Æfing 1 - Formúla 1 - stod2vodasport
-DTSTART:20250314T012500
-DTEND:20250314T022500
-DTSTAMP:20250314T012500Z
-UID:2025-03-14T01:25:00/Australian Grand Prix - Æfing 1
-DESCRIPTION:Australian Grand Prix - Æfing 1 - Formúla 1
+SUMMARY:Shriners Children´s 500 - Nascar Cup Series - stod2vodasport
+DTSTART:20250309T190000
+DTEND:20250309T200000
+DTSTAMP:20250309T190000Z
+UID:2025-03-09T19:00:00/Shriners Children´s 500
+DESCRIPTION:Shriners Children´s 500 - Nascar Cup Series
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Æfing 1) - Formula 1 - viaplay
@@ -34,13 +26,12 @@ UID:2025-03-14T01:25:00/Ástralíu Kappaksturinn (Æfing 1)
 DESCRIPTION:Ástralíu Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20250314T013000
-DTEND:20250314T023000
-DTSTAMP:20250314T013000Z
-UID:2025-03-14T01:30:00/Onboard (Æfing 1 | Ástralíu Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1
+SUMMARY:Australian Grand Prix - Æfing 1 - Formúla 1 - stod2vodasport
+DTSTART:20250314T012500
+DTEND:20250314T022500
+DTSTAMP:20250314T012500Z
+UID:2025-03-14T01:25:00/Australian Grand Prix - Æfing 1
+DESCRIPTION:Australian Grand Prix - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1 - viapla
@@ -52,14 +43,6 @@ UID:2025-03-14T01:30:00/Pitlane (Æfing 1 | Ástralíu Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250314T013000
-DTEND:20250314T023000
-DTSTAMP:20250314T013000Z
-UID:2025-03-14T01:30:00/Timing (Æfing 1 | Ástralíu Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Ástralíu Kappaksturinn) - Formula 
  1 - viaplay
 DTSTART:20250314T013000
@@ -69,6 +52,23 @@ UID:2025-03-14T01:30:00/Track Positioning (Æfing 1 | Ástralíu Kappakstu
  rinn)
 DESCRIPTION:Track Positioning (Æfing 1 | Ástralíu Kappaksturinn) - Form
  ula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250314T013000
+DTEND:20250314T023000
+DTSTAMP:20250314T013000Z
+UID:2025-03-14T01:30:00/Timing (Æfing 1 | Ástralíu Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250314T013000
+DTEND:20250314T023000
+DTSTAMP:20250314T013000Z
+UID:2025-03-14T01:30:00/Onboard (Æfing 1 | Ástralíu Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Tímatökur) - Formula 3 - viaplay
@@ -165,5 +165,133 @@ DTEND:20250314T220000
 DTSTAMP:20250314T210000Z
 UID:2025-03-14T21:00:00/Mobil1 12 Hours of Sebring
 DESCRIPTION:Mobil1 12 Hours of Sebring - IMSA Sportscar Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ástralíu Kappaksturinn (Sprettkeppni) - Formula 3 - viaplay
+DTSTART:20250315T001000
+DTEND:20250315T011000
+DTSTAMP:20250315T001000Z
+UID:2025-03-15T00:10:00/Ástralíu Kappaksturinn (Sprettkeppni)
+DESCRIPTION:Ástralíu Kappaksturinn (Sprettkeppni) - Formula 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victoria's Voice Foundation 200 (Truck Series) - Nascar - viaplay
+DTSTART:20250315T010000
+DTEND:20250315T020000
+DTSTAMP:20250315T010000Z
+UID:2025-03-15T01:00:00/Victoria's Voice Foundation 200 (Truck Series)
+DESCRIPTION:Victoria's Voice Foundation 200 (Truck Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Ástralía - Æfing 3 - Formúla 1 - stod2vodasport
+DTSTART:20250315T012500
+DTEND:20250315T022500
+DTSTAMP:20250315T012500Z
+UID:2025-03-15T01:25:00/F1: Ástralía - Æfing 3
+DESCRIPTION:F1: Ástralía - Æfing 3 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ástralíu Kappaksturinn (Æfing 3) - Formula 1 - viaplay
+DTSTART:20250315T012500
+DTEND:20250315T022500
+DTSTAMP:20250315T012500Z
+UID:2025-03-15T01:25:00/Ástralíu Kappaksturinn (Æfing 3)
+DESCRIPTION:Ástralíu Kappaksturinn (Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ástralíu Kappaksturinn (Sprettkeppni) - Formula 2 - viaplay
+DTSTART:20250315T031000
+DTEND:20250315T041000
+DTSTAMP:20250315T031000Z
+UID:2025-03-15T03:10:00/Ástralíu Kappaksturinn (Sprettkeppni)
+DESCRIPTION:Ástralíu Kappaksturinn (Sprettkeppni) - Formula 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Ástralía - Tímataka - Formúla 1 - stod2vodasport
+DTSTART:20250315T045500
+DTEND:20250315T055500
+DTSTAMP:20250315T045500Z
+UID:2025-03-15T04:55:00/F1: Ástralía - Tímataka
+DESCRIPTION:F1: Ástralía - Tímataka - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ástralíu Kappaksturinn (Tímatökur) - Formula 1 - viaplay
+DTSTART:20250315T045500
+DTEND:20250315T055500
+DTSTAMP:20250315T045500Z
+UID:2025-03-15T04:55:00/Ástralíu Kappaksturinn (Tímatökur)
+DESCRIPTION:Ástralíu Kappaksturinn (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GP Argentínu (Frjáls æfing 2) - Moto3 - viaplay
+DTSTART:20250315T113500
+DTEND:20250315T123500
+DTSTAMP:20250315T113500Z
+UID:2025-03-15T11:35:00/GP Argentínu (Frjáls æfing 2)
+DESCRIPTION:GP Argentínu (Frjáls æfing 2) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GP Argentínu (Frjáls æfing 2) - Moto2 - viaplay
+DTSTART:20250315T122000
+DTEND:20250315T132000
+DTSTAMP:20250315T122000Z
+UID:2025-03-15T12:20:00/GP Argentínu (Frjáls æfing 2)
+DESCRIPTION:GP Argentínu (Frjáls æfing 2) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GP Argentínu (Frjáls æfing 2) - MotoGP - viaplay
+DTSTART:20250315T130000
+DTEND:20250315T140000
+DTSTAMP:20250315T130000Z
+UID:2025-03-15T13:00:00/GP Argentínu (Frjáls æfing 2)
+DESCRIPTION:GP Argentínu (Frjáls æfing 2) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GP Argentínu (Tímatökur) - MotoGP - viaplay
+DTSTART:20250315T134500
+DTEND:20250315T144500
+DTSTAMP:20250315T134500Z
+UID:2025-03-15T13:45:00/GP Argentínu (Tímatökur)
+DESCRIPTION:GP Argentínu (Tímatökur) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GP Argentínu (Tímatökur) - Moto3 - viaplay
+DTSTART:20250315T154500
+DTEND:20250315T164500
+DTSTAMP:20250315T154500Z
+UID:2025-03-15T15:45:00/GP Argentínu (Tímatökur)
+DESCRIPTION:GP Argentínu (Tímatökur) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GP Argentínu (Tímatökur) - Moto2 - viaplay
+DTSTART:20250315T164000
+DTEND:20250315T174000
+DTSTAMP:20250315T164000Z
+UID:2025-03-15T16:40:00/GP Argentínu (Tímatökur)
+DESCRIPTION:GP Argentínu (Tímatökur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GP Argentínu (Sprettkeppni) - MotoGP - viaplay
+DTSTART:20250315T174000
+DTEND:20250315T184000
+DTSTAMP:20250315T174000Z
+UID:2025-03-15T17:40:00/GP Argentínu (Sprettkeppni)
+DESCRIPTION:GP Argentínu (Sprettkeppni) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The LiUNA! - Nascar Xfinity - stod2vodasport
+DTSTART:20250315T193000
+DTEND:20250315T203000
+DTSTAMP:20250315T193000Z
+UID:2025-03-15T19:30:00/The LiUNA!
+DESCRIPTION:The LiUNA! - Nascar Xfinity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The LiUNA! (Xfinity Series) - Nascar - viaplay
+DTSTART:20250315T200000
+DTEND:20250315T210000
+DTSTAMP:20250315T200000Z
+UID:2025-03-15T20:00:00/The LiUNA! (Xfinity Series)
+DESCRIPTION:The LiUNA! (Xfinity Series) - Nascar
 END:VEVENT
 END:VCALENDAR
