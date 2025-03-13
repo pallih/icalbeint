@@ -26,6 +26,15 @@ UID:2025-03-14T01:30:00/Timing (Æfing 1 | Ástralíu Kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250314T013000
+DTEND:20250314T023000
+DTSTAMP:20250314T013000Z
+UID:2025-03-14T01:30:00/Onboard (Æfing 1 | Ástralíu Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1 - viapla
  y
 DTSTART:20250314T013000
@@ -46,29 +55,12 @@ DESCRIPTION:Track Positioning (Æfing 1 | Ástralíu Kappaksturinn) - Form
  ula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20250314T013000
-DTEND:20250314T023000
-DTSTAMP:20250314T013000Z
-UID:2025-03-14T01:30:00/Onboard (Æfing 1 | Ástralíu Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Ástralíu Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Tímatökur) - Formula 3 - viaplay
+SUMMARY:Melbourne (Tímatökur) - Formula 3 - viaplay
 DTSTART:20250314T025500
 DTEND:20250314T035500
 DTSTAMP:20250314T025500Z
-UID:2025-03-14T02:55:00/Ástralíu Kappaksturinn (Tímatökur)
-DESCRIPTION:Ástralíu Kappaksturinn (Tímatökur) - Formula 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Æfing 2) - Formula 1 - viaplay
-DTSTART:20250314T045500
-DTEND:20250314T055500
-DTSTAMP:20250314T045500Z
-UID:2025-03-14T04:55:00/Ástralíu Kappaksturinn (Æfing 2)
-DESCRIPTION:Ástralíu Kappaksturinn (Æfing 2) - Formula 1
+UID:2025-03-14T02:55:00/Melbourne (Tímatökur)
+DESCRIPTION:Melbourne (Tímatökur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Ástralía - Æfing 2 - Formúla 1 - stod2vodasport
@@ -79,13 +71,12 @@ UID:2025-03-14T04:55:00/F1: Ástralía - Æfing 2
 DESCRIPTION:F1: Ástralía - Æfing 2 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20250314T050000
-DTEND:20250314T060000
-DTSTAMP:20250314T050000Z
-UID:2025-03-14T05:00:00/Pitlane (Æfing 2 | Ástralíu Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1
+SUMMARY:Ástralíu Kappaksturinn (Æfing 2) - Formula 1 - viaplay
+DTSTART:20250314T045500
+DTEND:20250314T055500
+DTSTAMP:20250314T045500Z
+UID:2025-03-14T04:55:00/Ástralíu Kappaksturinn (Æfing 2)
+DESCRIPTION:Ástralíu Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1 - viaplay
@@ -96,13 +87,13 @@ UID:2025-03-14T05:00:00/Timing (Æfing 2 | Ástralíu Kappaksturinn)
 DESCRIPTION:Timing (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1 - viapla
+SUMMARY:Pitlane (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1 - viapla
  y
 DTSTART:20250314T050000
 DTEND:20250314T060000
 DTSTAMP:20250314T050000Z
-UID:2025-03-14T05:00:00/Onboard (Æfing 2 | Ástralíu Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1
+UID:2025-03-14T05:00:00/Pitlane (Æfing 2 | Ástralíu Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Ástralíu Kappaksturinn) - Formula 
@@ -116,12 +107,21 @@ DESCRIPTION:Track Positioning (Æfing 2 | Ástralíu Kappaksturinn) - Form
  ula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Tímatökur) - Formula 2 - viaplay
+SUMMARY:Onboard (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250314T050000
+DTEND:20250314T060000
+DTSTAMP:20250314T050000Z
+UID:2025-03-14T05:00:00/Onboard (Æfing 2 | Ástralíu Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Ástralíu Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne (Tímatökur) - Formula 2 - viaplay
 DTSTART:20250314T062500
 DTEND:20250314T072500
 DTSTAMP:20250314T062500Z
-UID:2025-03-14T06:25:00/Ástralíu Kappaksturinn (Tímatökur)
-DESCRIPTION:Ástralíu Kappaksturinn (Tímatökur) - Formula 2
+UID:2025-03-14T06:25:00/Melbourne (Tímatökur)
+DESCRIPTION:Melbourne (Tímatökur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GP Argentínu (Frjáls æfing 1) - Moto3 - viaplay
@@ -149,19 +149,19 @@ DESCRIPTION:GP Argentínu (Frjáls æfing 1) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GP Argentínu (Æfing) - Moto3 - viaplay
-DTSTART:20250314T151000
-DTEND:20250314T161000
-DTSTAMP:20250314T151000Z
-UID:2025-03-14T15:10:00/GP Argentínu (Æfing)
+DTSTART:20250314T161000
+DTEND:20250314T171000
+DTSTAMP:20250314T161000Z
+UID:2025-03-14T16:10:00/GP Argentínu (Æfing)
 DESCRIPTION:GP Argentínu (Æfing) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GP Argentínu (Träning) - Moto2 - viaplay
-DTSTART:20250314T160000
-DTEND:20250314T170000
-DTSTAMP:20250314T160000Z
-UID:2025-03-14T16:00:00/GP Argentínu (Träning)
-DESCRIPTION:GP Argentínu (Träning) - Moto2
+SUMMARY:GP Argentínu (Æfing) - Moto2 - viaplay
+DTSTART:20250314T170000
+DTEND:20250314T180000
+DTSTAMP:20250314T170000Z
+UID:2025-03-14T17:00:00/GP Argentínu (Æfing)
+DESCRIPTION:GP Argentínu (Æfing) - Moto2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GP Argentínu (Æfing) - MotoGP - viaplay
@@ -172,12 +172,12 @@ UID:2025-03-14T17:50:00/GP Argentínu (Æfing)
 DESCRIPTION:GP Argentínu (Æfing) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Sprettkeppni) - Formula 3 - viaplay
+SUMMARY:Melbourne (Sprettkeppni) - Formula 3 - viaplay
 DTSTART:20250315T001000
 DTEND:20250315T011000
 DTSTAMP:20250315T001000Z
-UID:2025-03-15T00:10:00/Ástralíu Kappaksturinn (Sprettkeppni)
-DESCRIPTION:Ástralíu Kappaksturinn (Sprettkeppni) - Formula 3
+UID:2025-03-15T00:10:00/Melbourne (Sprettkeppni)
+DESCRIPTION:Melbourne (Sprettkeppni) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Victoria's Voice Foundation 200 (Truck Series) - Nascar - viaplay
@@ -188,14 +188,6 @@ UID:2025-03-15T01:00:00/Victoria's Voice Foundation 200 (Truck Series)
 DESCRIPTION:Victoria's Voice Foundation 200 (Truck Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Æfing 3) - Formula 1 - viaplay
-DTSTART:20250315T012500
-DTEND:20250315T022500
-DTSTAMP:20250315T012500Z
-UID:2025-03-15T01:25:00/Ástralíu Kappaksturinn (Æfing 3)
-DESCRIPTION:Ástralíu Kappaksturinn (Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Ástralía - Æfing 3 - Formúla 1 - stod2vodasport
 DTSTART:20250315T012500
 DTEND:20250315T022500
@@ -204,21 +196,12 @@ UID:2025-03-15T01:25:00/F1: Ástralía - Æfing 3
 DESCRIPTION:F1: Ástralía - Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Ástralíu Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20250315T013000
-DTEND:20250315T023000
-DTSTAMP:20250315T013000Z
-UID:2025-03-15T01:30:00/Onboard (Æfing 3 | Ástralíu Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Ástralíu Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Ástralíu Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250315T013000
-DTEND:20250315T023000
-DTSTAMP:20250315T013000Z
-UID:2025-03-15T01:30:00/Timing (Æfing 3 | Ástralíu Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Ástralíu Kappaksturinn) - Formula 1
+SUMMARY:Ástralíu Kappaksturinn (Æfing 3) - Formula 1 - viaplay
+DTSTART:20250315T012500
+DTEND:20250315T022500
+DTSTAMP:20250315T012500Z
+UID:2025-03-15T01:25:00/Ástralíu Kappaksturinn (Æfing 3)
+DESCRIPTION:Ástralíu Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Ástralíu Kappaksturinn) - Formula 
@@ -241,12 +224,37 @@ UID:2025-03-15T01:30:00/Pitlane (Æfing 3 | Ástralíu Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 3 | Ástralíu Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Sprettkeppni) - Formula 2 - viaplay
+SUMMARY:Timing (Æfing 3 | Ástralíu Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250315T013000
+DTEND:20250315T023000
+DTSTAMP:20250315T013000Z
+UID:2025-03-15T01:30:00/Timing (Æfing 3 | Ástralíu Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Ástralíu Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Ástralíu Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250315T013000
+DTEND:20250315T023000
+DTSTAMP:20250315T013000Z
+UID:2025-03-15T01:30:00/Onboard (Æfing 3 | Ástralíu Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Ástralíu Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne (Sprettkeppni) - Formula 2 - viaplay
 DTSTART:20250315T031000
 DTEND:20250315T041000
 DTSTAMP:20250315T031000Z
-UID:2025-03-15T03:10:00/Ástralíu Kappaksturinn (Sprettkeppni)
-DESCRIPTION:Ástralíu Kappaksturinn (Sprettkeppni) - Formula 2
+UID:2025-03-15T03:10:00/Melbourne (Sprettkeppni)
+DESCRIPTION:Melbourne (Sprettkeppni) - Formula 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Ástralía - Tímataka - Formúla 1 - stod2vodasport
+DTSTART:20250315T045500
+DTEND:20250315T055500
+DTSTAMP:20250315T045500Z
+UID:2025-03-15T04:55:00/F1: Ástralía - Tímataka
+DESCRIPTION:F1: Ástralía - Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Tímatökur) - Formula 1 - viaplay
@@ -257,12 +265,13 @@ UID:2025-03-15T04:55:00/Ástralíu Kappaksturinn (Tímatökur)
 DESCRIPTION:Ástralíu Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Ástralía - Tímataka - Formúla 1 - stod2vodasport
-DTSTART:20250315T045500
-DTEND:20250315T055500
-DTSTAMP:20250315T045500Z
-UID:2025-03-15T04:55:00/F1: Ástralía - Tímataka
-DESCRIPTION:F1: Ástralía - Tímataka - Formúla 1
+SUMMARY:Pitlane (Tímatökur | Ástralíu Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20250315T050000
+DTEND:20250315T060000
+DTSTAMP:20250315T050000Z
+UID:2025-03-15T05:00:00/Pitlane (Tímatökur | Ástralíu Kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Ástralíu Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Ástralíu Kappaksturinn) - Formu
@@ -292,15 +301,6 @@ DTEND:20250315T060000
 DTSTAMP:20250315T050000Z
 UID:2025-03-15T05:00:00/Timing (Tímatökur | Ástralíu Kappaksturinn)
 DESCRIPTION:Timing (Tímatökur | Ástralíu Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Ástralíu Kappaksturinn) - Formula 1 - via
- play
-DTSTART:20250315T050000
-DTEND:20250315T060000
-DTSTAMP:20250315T050000Z
-UID:2025-03-15T05:00:00/Pitlane (Tímatökur | Ástralíu Kappaksturinn)
-DESCRIPTION:Pitlane (Tímatökur | Ástralíu Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GP Argentínu (Frjáls æfing 2) - Moto3 - viaplay
@@ -391,28 +391,20 @@ UID:2025-03-15T21:00:00/Mobil1 12 Hours of Sebring
 DESCRIPTION:Mobil1 12 Hours of Sebring - IMSA Sportscar Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Formula 3 - viaplay
+SUMMARY:Melbourne (Kappakstur) - Formula 3 - viaplay
 DTSTART:20250315T215500
 DTEND:20250315T225500
 DTSTAMP:20250315T215500Z
-UID:2025-03-15T21:55:00/Ástralíu Kappaksturinn (Kappakstur)
-DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Formula 3
+UID:2025-03-15T21:55:00/Melbourne (Kappakstur)
+DESCRIPTION:Melbourne (Kappakstur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Formula 2 - viaplay
+SUMMARY:Melbourne (Kappakstur) - Formula 2 - viaplay
 DTSTART:20250316T002000
 DTEND:20250316T012000
 DTSTAMP:20250316T002000Z
-UID:2025-03-16T00:20:00/Ástralíu Kappaksturinn (Kappakstur)
-DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Formula 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Formula 1 - viaplay
-DTSTART:20250316T033000
-DTEND:20250316T043000
-DTSTAMP:20250316T033000Z
-UID:2025-03-16T03:30:00/Ástralíu Kappaksturinn (Kappakstur)
-DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Formula 1
+UID:2025-03-16T00:20:00/Melbourne (Kappakstur)
+DESCRIPTION:Melbourne (Kappakstur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Ástralía - Keppni - Formúla 1 - stod2vodasport
@@ -423,24 +415,12 @@ UID:2025-03-16T03:30:00/F1: Ástralía - Keppni
 DESCRIPTION:F1: Ástralía - Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Ástralíu Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20250316T040000
-DTEND:20250316T050000
-DTSTAMP:20250316T040000Z
-UID:2025-03-16T04:00:00/Pitlane (Kappakstur | Ástralíu Kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Ástralíu Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Ástralíu Kappaksturinn) - Formul
- a 1 - viaplay
-DTSTART:20250316T040000
-DTEND:20250316T050000
-DTSTAMP:20250316T040000Z
-UID:2025-03-16T04:00:00/Track Positioning (Kappakstur | Ástralíu Kappaks
- turinn)
-DESCRIPTION:Track Positioning (Kappakstur | Ástralíu Kappaksturinn) - Fo
- rmula 1
+SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Formula 1 - viaplay
+DTSTART:20250316T033000
+DTEND:20250316T043000
+DTSTAMP:20250316T033000Z
+UID:2025-03-16T03:30:00/Ástralíu Kappaksturinn (Kappakstur)
+DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Ástralíu Kappaksturinn) - Formula 1 - viap
@@ -459,6 +439,26 @@ DTEND:20250316T050000
 DTSTAMP:20250316T040000Z
 UID:2025-03-16T04:00:00/Timing (Kappakstur | Ástralíu Kappaksturinn)
 DESCRIPTION:Timing (Kappakstur | Ástralíu Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Ástralíu Kappaksturinn) - Formul
+ a 1 - viaplay
+DTSTART:20250316T040000
+DTEND:20250316T050000
+DTSTAMP:20250316T040000Z
+UID:2025-03-16T04:00:00/Track Positioning (Kappakstur | Ástralíu Kappaks
+ turinn)
+DESCRIPTION:Track Positioning (Kappakstur | Ástralíu Kappaksturinn) - Fo
+ rmula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kappakstur | Ástralíu Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250316T040000
+DTEND:20250316T050000
+DTSTAMP:20250316T040000Z
+UID:2025-03-16T04:00:00/Pitlane (Kappakstur | Ástralíu Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Ástralíu Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GP Argentínu (Warm Up) - MotoGP - viaplay
