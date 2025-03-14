@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
+SUMMARY:Man. City - Brighton - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20250315T143000
+DTEND:20250315T153000
+DTSTAMP:20250315T143000Z
+UID:2025-03-15T14:30:00/Man. City - Brighton
+DESCRIPTION:Man. City - Brighton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Man. City - Brighton - Enska úrvalsdeildin - siminnsport
 DTSTART:20250315T143000
 DTEND:20250315T153000
@@ -10,12 +18,12 @@ UID:2025-03-15T14:30:00/Man. City - Brighton
 DESCRIPTION:Man. City - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. City - Brighton - Enska úrvalsdeildin - sjonvarpsimans
-DTSTART:20250315T143000
-DTEND:20250315T153000
-DTSTAMP:20250315T143000Z
-UID:2025-03-15T14:30:00/Man. City - Brighton
-DESCRIPTION:Man. City - Brighton - Enska úrvalsdeildin
+SUMMARY:Southampton - Wolves - Enska úrvalsdeildin - siminnsport4
+DTSTART:20250315T145000
+DTEND:20250315T155000
+DTSTAMP:20250315T145000Z
+UID:2025-03-15T14:50:00/Southampton - Wolves
+DESCRIPTION:Southampton - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - West Ham - Enska úrvalsdeildin - siminnsport3
@@ -32,14 +40,6 @@ DTEND:20250315T155000
 DTSTAMP:20250315T145000Z
 UID:2025-03-15T14:50:00/Ipswich - Nottingham Forest
 DESCRIPTION:Ipswich - Nottingham Forest - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Wolves - Enska úrvalsdeildin - siminnsport4
-DTSTART:20250315T145000
-DTEND:20250315T155000
-DTSTAMP:20250315T145000Z
-UID:2025-03-15T14:50:00/Southampton - Wolves
-DESCRIPTION:Southampton - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Brentford - Enska úrvalsdeildin - siminnsport
@@ -67,10 +67,10 @@ DESCRIPTION:Haukar - Grótta - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fram - Valur - Olís deild kvenna - hsi1
-DTSTART:20250315T180000
-DTEND:20250315T190000
-DTSTAMP:20250315T180000Z
-UID:2025-03-15T18:00:00/Fram - Valur
+DTSTART:20250315T183000
+DTEND:20250315T193000
+DTSTAMP:20250315T183000Z
+UID:2025-03-15T18:30:00/Fram - Valur
 DESCRIPTION:Fram - Valur - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
@@ -114,6 +114,14 @@ UID:2025-03-16T18:30:00/Leicester - Man. Utd.
 DESCRIPTION:Leicester - Man. Utd. - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Haukar - Olís deild kvenna - sjonvarpsimans
+DTSTART:20250319T175000
+DTEND:20250319T185000
+DTSTAMP:20250319T175000Z
+UID:2025-03-19T17:50:00/Valur - Haukar
+DESCRIPTION:Valur - Haukar - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valur - Haukar - Olís deild kvenna - hsi1
 DTSTART:20250319T180000
 DTEND:20250319T190000
@@ -122,12 +130,12 @@ UID:2025-03-19T18:00:00/Valur - Haukar
 DESCRIPTION:Valur - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afturelding - Fjölnir - Olís deild karla - hsi1
+SUMMARY:Haukar - Grótta - Olís deild karla - hsi1
 DTSTART:20250319T193000
 DTEND:20250319T203000
 DTSTAMP:20250319T193000Z
-UID:2025-03-19T19:30:00/Afturelding - Fjölnir
-DESCRIPTION:Afturelding - Fjölnir - Olís deild karla
+UID:2025-03-19T19:30:00/Haukar - Grótta
+DESCRIPTION:Haukar - Grótta - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - Valur - Olís deild karla - hsi1
@@ -154,19 +162,27 @@ UID:2025-03-19T19:30:00/Fram - ÍBV
 DESCRIPTION:Fram - ÍBV - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Grótta - Olís deild karla - hsi1
-DTSTART:20250319T193000
-DTEND:20250319T203000
-DTSTAMP:20250319T193000Z
-UID:2025-03-19T19:30:00/Haukar - Grótta
-DESCRIPTION:Haukar - Grótta - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - Stjarnan - Olís deild karla - hsi1
 DTSTART:20250319T193000
 DTEND:20250319T203000
 DTSTAMP:20250319T193000Z
 UID:2025-03-19T19:30:00/ÍR - Stjarnan
 DESCRIPTION:ÍR - Stjarnan - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - Fjölnir - Olís deild karla - hsi1
+DTSTART:20250319T193000
+DTEND:20250319T203000
+DTSTAMP:20250319T193000Z
+UID:2025-03-19T19:30:00/Afturelding - Fjölnir
+DESCRIPTION:Afturelding - Fjölnir - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Fram - Olís deild kvenna - hsi1
+DTSTART:20250320T193000
+DTEND:20250320T203000
+DTSTAMP:20250320T193000Z
+UID:2025-03-20T19:30:00/ÍR - Fram
+DESCRIPTION:ÍR - Fram - Olís deild kvenna
 END:VEVENT
 END:VCALENDAR
