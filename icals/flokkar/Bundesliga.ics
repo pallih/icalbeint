@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Hoffenheim - Bundesliga - viaplay
-DTSTART:20250314T192000
-DTEND:20250314T202000
-DTSTAMP:20250314T192000Z
-UID:2025-03-14T19:20:00/St. Pauli - Hoffenheim
-DESCRIPTION:St. Pauli - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - Wolfsburg - Bundesliga - viaplay
+SUMMARY:Werder Bremen - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20250315T142000
 DTEND:20250315T152000
 DTSTAMP:20250315T142000Z
-UID:2025-03-15T14:20:00/Augsburg - Wolfsburg
-DESCRIPTION:Augsburg - Wolfsburg - Bundesliga
+UID:2025-03-15T14:20:00/Werder Bremen - Mönchengladbach
+DESCRIPTION:Werder Bremen - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Bayern München - Bundesliga - viaplay
@@ -42,12 +34,12 @@ UID:2025-03-15T14:20:00/Mainz - Freiburg
 DESCRIPTION:Mainz - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Mönchengladbach - Bundesliga - viaplay
+SUMMARY:Augsburg - Wolfsburg - Bundesliga - viaplay
 DTSTART:20250315T142000
 DTEND:20250315T152000
 DTSTAMP:20250315T142000Z
-UID:2025-03-15T14:20:00/Werder Bremen - Mönchengladbach
-DESCRIPTION:Werder Bremen - Mönchengladbach - Bundesliga
+UID:2025-03-15T14:20:00/Augsburg - Wolfsburg
+DESCRIPTION:Augsburg - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Berlin - Bayern München - Bundesliga - stod2vodasport
@@ -58,20 +50,20 @@ UID:2025-03-15T14:25:00/Berlin - Bayern München
 DESCRIPTION:Berlin - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB Leipzig - Dortmund - Bundesliga - stod2vodasport
-DTSTART:20250315T172000
-DTEND:20250315T182000
-DTSTAMP:20250315T172000Z
-UID:2025-03-15T17:20:00/RB Leipzig - Dortmund
-DESCRIPTION:RB Leipzig - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leipzig - Dortmund - Bundesliga - viaplay
 DTSTART:20250315T172000
 DTEND:20250315T182000
 DTSTAMP:20250315T172000Z
 UID:2025-03-15T17:20:00/Leipzig - Dortmund
 DESCRIPTION:Leipzig - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB Leipzig - Dortmund - Bundesliga - stod2vodasport
+DTSTART:20250315T172000
+DTEND:20250315T182000
+DTSTAMP:20250315T172000Z
+UID:2025-03-15T17:20:00/RB Leipzig - Dortmund
+DESCRIPTION:RB Leipzig - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bochum - Frankfurt - Bundesliga - viaplay
@@ -104,5 +96,13 @@ DTEND:20250320T185500
 DTSTAMP:20250320T175500Z
 UID:2025-03-20T17:55:00/Rhein-Neckar Löwen - Hannover-Burgdorf
 DESCRIPTION:Rhein-Neckar Löwen - Hannover-Burgdorf - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Füchse Berlin - Bundesliga - viaplay
+DTSTART:20250321T175500
+DTEND:20250321T185500
+DTSTAMP:20250321T175500Z
+UID:2025-03-21T17:55:00/Magdeburg - Füchse Berlin
+DESCRIPTION:Magdeburg - Füchse Berlin - Bundesliga
 END:VEVENT
 END:VCALENDAR
