@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Porsche Singapore Classic - DP World Tour - stod2sport4
-DTSTART:20250320T050000
-DTEND:20250320T060000
-DTSTAMP:20250320T050000Z
-UID:2025-03-20T05:00:00/Porsche Singapore Classic
-DESCRIPTION:Porsche Singapore Classic - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tyrkland - Ungverjaland - Þjóðadeild UEFA - stod2vodasport
 DTSTART:20250320T165000
 DTEND:20250320T175000
 DTSTAMP:20250320T165000Z
 UID:2025-03-20T16:50:00/Tyrkland - Ungverjaland
 DESCRIPTION:Tyrkland - Ungverjaland - Þjóðadeild UEFA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Haukar (10. fl. kvk) - VÍS bikar yngri flokka - stod2besta01
+DTSTART:20250320T172500
+DTEND:20250320T182500
+DTSTAMP:20250320T172500Z
+UID:2025-03-20T17:25:00/KR - Haukar (10. fl. kvk)
+DESCRIPTION:KR - Haukar (10. fl. kvk) - VÍS bikar yngri flokka
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kósóvó - Ísland: Upphitun - Þjóðadeild UEFA - stod2sport
@@ -26,6 +26,14 @@ UID:2025-03-20T19:15:00/Kósóvó - Ísland: Upphitun
 DESCRIPTION:Kósóvó - Ísland: Upphitun - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ítalía - Þýskaland - Þjóðadeild UEFA - stod2vodasport
+DTSTART:20250320T193500
+DTEND:20250320T203500
+DTSTAMP:20250320T193500Z
+UID:2025-03-20T19:35:00/Ítalía - Þýskaland
+DESCRIPTION:Ítalía - Þýskaland - Þjóðadeild UEFA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kósóvó - Ísland - Þjóðadeild UEFA - stod2sport
 DTSTART:20250320T193500
 DTEND:20250320T203500
@@ -34,12 +42,14 @@ UID:2025-03-20T19:35:00/Kósóvó - Ísland
 DESCRIPTION:Kósóvó - Ísland - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ítalía - Þýskaland - Þjóðadeild UEFA - stod2vodasport
-DTSTART:20250320T193500
-DTEND:20250320T203500
-DTSTAMP:20250320T193500Z
-UID:2025-03-20T19:35:00/Ítalía - Þýskaland
-DESCRIPTION:Ítalía - Þýskaland - Þjóðadeild UEFA
+SUMMARY:Stjarnan/KFG - Breiðablik/Grindavík (12. fl. kk) - VÍS bikar yn
+ gri flokka - stod2besta01
+DTSTART:20250320T195500
+DTEND:20250320T205500
+DTSTAMP:20250320T195500Z
+UID:2025-03-20T19:55:00/Stjarnan/KFG - Breiðablik/Grindavík (12. fl. kk)
+DESCRIPTION:Stjarnan/KFG - Breiðablik/Grindavík (12. fl. kk) - VÍS bika
+ r yngri flokka
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kósóvó - Ísland: Uppgjör - Þjóðadeild UEFA - stod2sport
@@ -90,6 +100,15 @@ UID:2025-03-21T11:55:00/German Darts Open
 DESCRIPTION:German Darts Open - PDC European Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stjarnan - Keflavík (9. fl. kvk) - VÍS bikar yngri flokka - stod
+ 2besta01
+DTSTART:20250321T172500
+DTEND:20250321T182500
+DTSTAMP:20250321T172500Z
+UID:2025-03-21T17:25:00/Stjarnan - Keflavík (9. fl. kvk)
+DESCRIPTION:Stjarnan - Keflavík (9. fl. kvk) - VÍS bikar yngri flokka
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Breiðablik - Valur - Lengjubikar kvenna - stod2sport
 DTSTART:20250321T175000
 DTEND:20250321T185000
@@ -104,6 +123,15 @@ DTEND:20250321T203500
 DTSTAMP:20250321T193500Z
 UID:2025-03-21T19:35:00/England - Albanía
 DESCRIPTION:England - Albanía - Þjóðadeild UEFA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Stjarnan (10. fl. kk) - VÍS bikar yngri flokka - stod2besta0
+ 1
+DTSTART:20250321T195500
+DTEND:20250321T205500
+DTSTAMP:20250321T195500Z
+UID:2025-03-21T19:55:00/KR - Stjarnan (10. fl. kk)
+DESCRIPTION:KR - Stjarnan (10. fl. kk) - VÍS bikar yngri flokka
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penguins - Blue Jackets - NHL - stod2vodasport
@@ -147,12 +175,12 @@ UID:2025-03-22T13:50:00/Liechtenstein - Norður Makedónía
 DESCRIPTION:Liechtenstein - Norður Makedónía - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lengjubikar karla - Lengjubikar karla - stod2sport
+SUMMARY:Fylkir - Valur - Lengjubikar karla - stod2sport
 DTSTART:20250322T155000
 DTEND:20250322T165000
 DTSTAMP:20250322T155000Z
-UID:2025-03-22T15:50:00/Lengjubikar karla
-DESCRIPTION:Lengjubikar karla - Lengjubikar karla
+UID:2025-03-22T15:50:00/Fylkir - Valur
+DESCRIPTION:Fylkir - Valur - Lengjubikar karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moldóva - Noregur - Þjóðadeild UEFA - stod2vodasport
@@ -164,10 +192,10 @@ DESCRIPTION:Moldóva - Noregur - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UFC - UFC - stod2vodasport
-DTSTART:20250322T190000
-DTEND:20250322T200000
-DTSTAMP:20250322T190000Z
-UID:2025-03-22T19:00:00/UFC
+DTSTART:20250322T200000
+DTEND:20250322T210000
+DTSTAMP:20250322T200000Z
+UID:2025-03-22T20:00:00/UFC
 DESCRIPTION:UFC - UFC
 END:VEVENT
 BEGIN:VEVENT
@@ -203,6 +231,15 @@ UID:2025-03-23T06:30:00/F1: Kína - Keppni
 DESCRIPTION:F1: Kína - Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stjarnan - Keflavík (9. fl. kk) - VÍS bikar yngri flokka - stod2
+ besta01
+DTSTART:20250323T115500
+DTEND:20250323T125500
+DTSTAMP:20250323T115500Z
+UID:2025-03-23T11:55:00/Stjarnan - Keflavík (9. fl. kk)
+DESCRIPTION:Stjarnan - Keflavík (9. fl. kk) - VÍS bikar yngri flokka
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Georgía - Armenía - Þjóðadeild UEFA - stod2vodasport
 DTSTART:20250323T135000
 DTEND:20250323T145000
@@ -211,12 +248,31 @@ UID:2025-03-23T13:50:00/Georgía - Armenía
 DESCRIPTION:Georgía - Armenía - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KR - Njarðvík (12. fl. kvk) - VÍS bikar yngri flokka - stod2bes
+ ta01
+DTSTART:20250323T141000
+DTEND:20250323T151000
+DTSTAMP:20250323T141000Z
+UID:2025-03-23T14:10:00/KR - Njarðvík (12. fl. kvk)
+DESCRIPTION:KR - Njarðvík (12. fl. kvk) - VÍS bikar yngri flokka
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ísland - Kósóvó: Upphitun - Þjóðadeild UEFA - stod2sport
 DTSTART:20250323T163000
 DTEND:20250323T173000
 DTSTAMP:20250323T163000Z
 UID:2025-03-23T16:30:00/Ísland - Kósóvó: Upphitun
 DESCRIPTION:Ísland - Kósóvó: Upphitun - Þjóðadeild UEFA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan/KFG - Breiðablik (11. fl. kk) - VÍS bikar yngri flokka 
+ - stod2besta01
+DTSTART:20250323T164000
+DTEND:20250323T174000
+DTSTAMP:20250323T164000Z
+UID:2025-03-23T16:40:00/Stjarnan/KFG - Breiðablik (11. fl. kk)
+DESCRIPTION:Stjarnan/KFG - Breiðablik (11. fl. kk) - VÍS bikar yngri flo
+ kka
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ísland - Kósóvó - Þjóðadeild UEFA - stod2sport
@@ -267,6 +323,14 @@ UID:2025-03-23T23:05:00/Panthers - Penguins
 DESCRIPTION:Panthers - Penguins - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Þór/KA - Stjarnan - Lengjubikar kvenna - stod2sport
+DTSTART:20250324T175000
+DTEND:20250324T185000
+DTSTAMP:20250324T175000Z
+UID:2025-03-24T17:50:00/Þór/KA - Stjarnan
+DESCRIPTION:Þór/KA - Stjarnan - Lengjubikar kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:England - Lettland - Þjóðadeild UEFA - stod2vodasport
 DTSTART:20250324T193500
 DTEND:20250324T203500
@@ -275,20 +339,20 @@ UID:2025-03-24T19:35:00/England - Lettland
 DESCRIPTION:England - Lettland - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH 2025 - Lengsta undirbúningstímabil í heimi - stod2sport
-DTSTART:20250324T200000
-DTEND:20250324T210000
-DTSTAMP:20250324T200000Z
-UID:2025-03-24T20:00:00/FH 2025
-DESCRIPTION:FH 2025 - Lengsta undirbúningstímabil í heimi
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lögmál leiksins - NBA - stod2sport2
 DTSTART:20250324T200000
 DTEND:20250324T210000
 DTSTAMP:20250324T200000Z
 UID:2025-03-24T20:00:00/Lögmál leiksins
 DESCRIPTION:Lögmál leiksins - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH 2025 - Lengsta undirbúningstímabil í heimi - stod2sport
+DTSTART:20250324T200000
+DTEND:20250324T210000
+DTSTAMP:20250324T200000Z
+UID:2025-03-24T20:00:00/FH 2025
+DESCRIPTION:FH 2025 - Lengsta undirbúningstímabil í heimi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Devils - Canucks - NHL - stod2vodasport
@@ -322,5 +386,53 @@ DTEND:20250326T000500
 DTSTAMP:20250325T230500Z
 UID:2025-03-25T23:05:00/Maple Leafs - Flyers
 DESCRIPTION:Maple Leafs - Flyers - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Hamar/Þór - Bónus deild kvenna - stod2sport5
+DTSTART:20250326T190500
+DTEND:20250326T200500
+DTSTAMP:20250326T190500Z
+UID:2025-03-26T19:05:00/Grindavík - Hamar/Þór
+DESCRIPTION:Grindavík - Hamar/Þór - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skiptiborðið - Bónus deild kvenna - stod2sport
+DTSTART:20250326T190500
+DTEND:20250326T200500
+DTSTAMP:20250326T190500Z
+UID:2025-03-26T19:05:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Stjarnan - Bónus deild kvenna - stod2besta03
+DTSTART:20250326T190500
+DTEND:20250326T200500
+DTSTAMP:20250326T190500Z
+UID:2025-03-26T19:05:00/Tindastóll - Stjarnan
+DESCRIPTION:Tindastóll - Stjarnan - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Ak. - Keflavík - Bónus deild kvenna - stod2besta02
+DTSTART:20250326T190500
+DTEND:20250326T200500
+DTSTAMP:20250326T190500Z
+UID:2025-03-26T19:05:00/Þór Ak. - Keflavík
+DESCRIPTION:Þór Ak. - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Njarðvík - Bónus deild kvenna - stod2besta01
+DTSTART:20250326T190500
+DTEND:20250326T200500
+DTSTAMP:20250326T190500Z
+UID:2025-03-26T19:05:00/Haukar - Njarðvík
+DESCRIPTION:Haukar - Njarðvík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
+DTSTART:20250326T211000
+DTEND:20250326T221000
+DTSTAMP:20250326T211000Z
+UID:2025-03-26T21:10:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild kvenna
 END:VEVENT
 END:VCALENDAR
