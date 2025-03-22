@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Keflavík (9. fl. kvk) - VÍS bikar yngri flokka - stod
- 2besta01
-DTSTART:20250321T172500
-DTEND:20250321T182500
-DTSTAMP:20250321T172500Z
-UID:2025-03-21T17:25:00/Stjarnan - Keflavík (9. fl. kvk)
-DESCRIPTION:Stjarnan - Keflavík (9. fl. kvk) - VÍS bikar yngri flokka
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - Stjarnan (10. fl. kk) - VÍS bikar yngri flokka - stod2besta0
- 1
-DTSTART:20250321T195500
-DTEND:20250321T205500
-DTSTAMP:20250321T195500Z
-UID:2025-03-21T19:55:00/KR - Stjarnan (10. fl. kk)
-DESCRIPTION:KR - Stjarnan (10. fl. kk) - VÍS bikar yngri flokka
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Njarðvík - Grindavík - bikarúrslit - Bikarkeppni kvenna í kö
  rfubolta - ruv
 DTSTART:20250322T133000
@@ -98,20 +80,12 @@ UID:2025-03-25T20:00:00/Bónus deildin - Extra
 DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Ak. - Keflavík - Bónus deild kvenna - stod2besta02
+SUMMARY:Haukar - Njarðvík - Bónus deild kvenna - stod2besta01
 DTSTART:20250326T190500
 DTEND:20250326T200500
 DTSTAMP:20250326T190500Z
-UID:2025-03-26T19:05:00/Þór Ak. - Keflavík
-DESCRIPTION:Þór Ak. - Keflavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild kvenna - stod2sport
-DTSTART:20250326T190500
-DTEND:20250326T200500
-DTSTAMP:20250326T190500Z
-UID:2025-03-26T19:05:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild kvenna
+UID:2025-03-26T19:05:00/Haukar - Njarðvík
+DESCRIPTION:Haukar - Njarðvík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík - Hamar/Þór - Bónus deild kvenna - stod2sport5
@@ -122,12 +96,12 @@ UID:2025-03-26T19:05:00/Grindavík - Hamar/Þór
 DESCRIPTION:Grindavík - Hamar/Þór - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Njarðvík - Bónus deild kvenna - stod2besta01
+SUMMARY:Skiptiborðið - Bónus deild kvenna - stod2sport
 DTSTART:20250326T190500
 DTEND:20250326T200500
 DTSTAMP:20250326T190500Z
-UID:2025-03-26T19:05:00/Haukar - Njarðvík
-DESCRIPTION:Haukar - Njarðvík - Bónus deild kvenna
+UID:2025-03-26T19:05:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - Stjarnan - Bónus deild kvenna - stod2besta03
@@ -136,6 +110,14 @@ DTEND:20250326T200500
 DTSTAMP:20250326T190500Z
 UID:2025-03-26T19:05:00/Tindastóll - Stjarnan
 DESCRIPTION:Tindastóll - Stjarnan - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Ak. - Keflavík - Bónus deild kvenna - stod2besta02
+DTSTART:20250326T190500
+DTEND:20250326T200500
+DTSTAMP:20250326T190500Z
+UID:2025-03-26T19:05:00/Þór Ak. - Keflavík
+DESCRIPTION:Þór Ak. - Keflavík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
@@ -162,6 +144,14 @@ UID:2025-03-27T19:00:00/Skiptiborðið
 DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Þór Þ. - Keflavík - Bónus deild karla - stod2sport5
+DTSTART:20250327T190500
+DTEND:20250327T200500
+DTSTAMP:20250327T190500Z
+UID:2025-03-27T19:05:00/Þór Þ. - Keflavík
+DESCRIPTION:Þór Þ. - Keflavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stjarnan - Njarðvík - Bónus deild karla - stod2sport6
 DTSTART:20250327T190500
 DTEND:20250327T200500
@@ -170,12 +160,12 @@ UID:2025-03-27T19:05:00/Stjarnan - Njarðvík
 DESCRIPTION:Stjarnan - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Þ. - Keflavík - Bónus deild karla - stod2sport5
-DTSTART:20250327T190500
-DTEND:20250327T200500
-DTSTAMP:20250327T190500Z
-UID:2025-03-27T19:05:00/Þór Þ. - Keflavík
-DESCRIPTION:Þór Þ. - Keflavík - Bónus deild karla
+SUMMARY:Grindavík - KR - Bónus deild karla - stod2besta02
+DTSTART:20250327T191000
+DTEND:20250327T201000
+DTSTAMP:20250327T191000Z
+UID:2025-03-27T19:10:00/Grindavík - KR
+DESCRIPTION:Grindavík - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GAZ: Tindastóll - Valur - Bónus deild karla - stod2besta01
@@ -194,19 +184,28 @@ UID:2025-03-27T19:10:00/Haukar - ÍR
 DESCRIPTION:Haukar - ÍR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grindavík - KR - Bónus deild karla - stod2besta02
-DTSTART:20250327T191000
-DTEND:20250327T201000
-DTSTAMP:20250327T191000Z
-UID:2025-03-27T19:10:00/Grindavík - KR
-DESCRIPTION:Grindavík - KR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tilþrifin - Bónus deild karla - stod2sport
 DTSTART:20250327T211500
 DTEND:20250327T221500
 DTSTAMP:20250327T211500Z
 UID:2025-03-27T21:15:00/Tilþrifin
 DESCRIPTION:Tilþrifin - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
+DTSTART:20250328T200000
+DTEND:20250328T210000
+DTSTAMP:20250328T200000Z
+UID:2025-03-28T20:00:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upphitunarþáttur fyrir úrslitakeppni - Bónus deild karla - sto
+ d2sport
+DTSTART:20250328T213000
+DTEND:20250328T223000
+DTSTAMP:20250328T213000Z
+UID:2025-03-28T21:30:00/Upphitunarþáttur fyrir úrslitakeppni
+DESCRIPTION:Upphitunarþáttur fyrir úrslitakeppni - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
