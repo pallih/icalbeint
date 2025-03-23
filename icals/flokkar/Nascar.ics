@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Nascar - ical
 BEGIN:VEVENT
-SUMMARY:Baptist Health 200 (Truck Series) - Nascar - viaplay
-DTSTART:20250322T000000
-DTEND:20250322T010000
-DTSTAMP:20250322T000000Z
-UID:2025-03-22T00:00:00/Baptist Health 200 (Truck Series)
-DESCRIPTION:Baptist Health 200 (Truck Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NXS Race at Homestead-Miami (Xfinity Series) - Nascar - viaplay
-DTSTART:20250322T193000
-DTEND:20250322T203000
-DTSTAMP:20250322T193000Z
-UID:2025-03-22T19:30:00/NXS Race at Homestead-Miami (Xfinity Series)
-DESCRIPTION:NXS Race at Homestead-Miami (Xfinity Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Straight Talk Wireless 400 (Cup Series) - Nascar - viaplay
 DTSTART:20250323T180000
 DTEND:20250323T190000
@@ -32,5 +16,13 @@ DTEND:20250329T003000
 DTSTAMP:20250328T233000Z
 UID:2025-03-28T23:30:00/NCTS Race at Martinsville (Truck Series)
 DESCRIPTION:NCTS Race at Martinsville (Truck Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NXS Race at Martinsville (Xfinity Series) - Nascar - viaplay
+DTSTART:20250329T203000
+DTEND:20250329T213000
+DTSTAMP:20250329T203000Z
+UID:2025-03-29T20:30:00/NXS Race at Martinsville (Xfinity Series)
+DESCRIPTION:NXS Race at Martinsville (Xfinity Series) - Nascar
 END:VEVENT
 END:VCALENDAR
