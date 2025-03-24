@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Nascar - ical
 BEGIN:VEVENT
-SUMMARY:Straight Talk Wireless 400 (Cup Series) - Nascar - viaplay
-DTSTART:20250323T180000
-DTEND:20250323T190000
-DTSTAMP:20250323T180000Z
-UID:2025-03-23T18:00:00/Straight Talk Wireless 400 (Cup Series)
-DESCRIPTION:Straight Talk Wireless 400 (Cup Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NCTS Race at Martinsville (Truck Series) - Nascar - viaplay
 DTSTART:20250328T233000
 DTEND:20250329T003000
@@ -24,5 +16,13 @@ DTEND:20250329T213000
 DTSTAMP:20250329T203000Z
 UID:2025-03-29T20:30:00/NXS Race at Martinsville (Xfinity Series)
 DESCRIPTION:NXS Race at Martinsville (Xfinity Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NCS Race at Martinsville (Cup Series) - Nascar - viaplay
+DTSTART:20250330T180000
+DTEND:20250330T190000
+DTSTAMP:20250330T180000Z
+UID:2025-03-30T18:00:00/NCS Race at Martinsville (Cup Series)
+DESCRIPTION:NCS Race at Martinsville (Cup Series) - Nascar
 END:VEVENT
 END:VCALENDAR
