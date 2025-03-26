@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Bónus deild kvenna - stod2sport
+SUMMARY:Grindavík - Hamar/Þór - Bónus deild kvenna - stod2sport5
 DTSTART:20250326T190500
 DTEND:20250326T200500
 DTSTAMP:20250326T190500Z
-UID:2025-03-26T19:05:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tindastóll - Stjarnan - Bónus deild kvenna - stod2besta03
-DTSTART:20250326T190500
-DTEND:20250326T200500
-DTSTAMP:20250326T190500Z
-UID:2025-03-26T19:05:00/Tindastóll - Stjarnan
-DESCRIPTION:Tindastóll - Stjarnan - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór Ak. - Keflavík - Bónus deild kvenna - stod2besta02
-DTSTART:20250326T190500
-DTEND:20250326T200500
-DTSTAMP:20250326T190500Z
-UID:2025-03-26T19:05:00/Þór Ak. - Keflavík
-DESCRIPTION:Þór Ak. - Keflavík - Bónus deild kvenna
+UID:2025-03-26T19:05:00/Grindavík - Hamar/Þór
+DESCRIPTION:Grindavík - Hamar/Þór - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Njarðvík - Bónus deild kvenna - stod2besta01
@@ -34,12 +18,28 @@ UID:2025-03-26T19:05:00/Haukar - Njarðvík
 DESCRIPTION:Haukar - Njarðvík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grindavík - Hamar/Þór - Bónus deild kvenna - stod2sport5
+SUMMARY:Þór Ak. - Keflavík - Bónus deild kvenna - stod2besta02
 DTSTART:20250326T190500
 DTEND:20250326T200500
 DTSTAMP:20250326T190500Z
-UID:2025-03-26T19:05:00/Grindavík - Hamar/Þór
-DESCRIPTION:Grindavík - Hamar/Þór - Bónus deild kvenna
+UID:2025-03-26T19:05:00/Þór Ak. - Keflavík
+DESCRIPTION:Þór Ak. - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Stjarnan - Bónus deild kvenna - stod2besta03
+DTSTART:20250326T190500
+DTEND:20250326T200500
+DTSTAMP:20250326T190500Z
+UID:2025-03-26T19:05:00/Tindastóll - Stjarnan
+DESCRIPTION:Tindastóll - Stjarnan - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skiptiborðið - Bónus deild kvenna - stod2sport
+DTSTART:20250326T190500
+DTEND:20250326T200500
+DTSTAMP:20250326T190500Z
+UID:2025-03-26T19:05:00/Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild kvenna - stod2sport
@@ -66,20 +66,20 @@ UID:2025-03-27T19:00:00/Skiptiborðið
 DESCRIPTION:Skiptiborðið - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Njarðvík - Bónus deild karla - stod2sport6
-DTSTART:20250327T190500
-DTEND:20250327T200500
-DTSTAMP:20250327T190500Z
-UID:2025-03-27T19:05:00/Stjarnan - Njarðvík
-DESCRIPTION:Stjarnan - Njarðvík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór Þ. - Keflavík - Bónus deild karla - stod2sport5
 DTSTART:20250327T190500
 DTEND:20250327T200500
 DTSTAMP:20250327T190500Z
 UID:2025-03-27T19:05:00/Þór Þ. - Keflavík
 DESCRIPTION:Þór Þ. - Keflavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Njarðvík - Bónus deild karla - stod2sport6
+DTSTART:20250327T190500
+DTEND:20250327T200500
+DTSTAMP:20250327T190500Z
+UID:2025-03-27T19:05:00/Stjarnan - Njarðvík
+DESCRIPTION:Stjarnan - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - ÍR - Bónus deild karla - stod2besta03
@@ -164,11 +164,43 @@ UID:2025-03-31T18:50:00/Bónus deild kvenna
 DESCRIPTION:Bónus deild kvenna - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bónus deild kvenna - Bónus deild kvenna - stod2sport5
+DTSTART:20250331T192000
+DTEND:20250331T202000
+DTSTAMP:20250331T192000Z
+UID:2025-03-31T19:20:00/Bónus deild kvenna
+DESCRIPTION:Bónus deild kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lögmál leiksins - NBA - stod2sport2
 DTSTART:20250331T200000
 DTEND:20250331T210000
 DTSTAMP:20250331T200000Z
 UID:2025-03-31T20:00:00/Lögmál leiksins
 DESCRIPTION:Lögmál leiksins - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deild kvenna - Bónus deild kvenna - stod2sport
+DTSTART:20250401T185000
+DTEND:20250401T195000
+DTSTAMP:20250401T185000Z
+UID:2025-04-01T18:50:00/Bónus deild kvenna
+DESCRIPTION:Bónus deild kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna - stod2sport
+DTSTART:20250401T210000
+DTEND:20250401T220000
+DTSTAMP:20250401T210000Z
+UID:2025-04-01T21:00:00/Bónus Körfuboltakvöld kvenna
+DESCRIPTION:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deildin - Extra - Bónus deild karla - stod2sport
+DTSTART:20250401T214500
+DTEND:20250401T224500
+DTSTAMP:20250401T214500Z
+UID:2025-04-01T21:45:00/Bónus deildin - Extra
+DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
