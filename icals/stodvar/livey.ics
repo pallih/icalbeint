@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:RC Strasbourg - Lyon - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250328T194500
-DTEND:20250328T204500
-DTSTAMP:20250328T194500Z
-UID:2025-03-28T19:45:00/RC Strasbourg - Lyon
-DESCRIPTION:RC Strasbourg - Lyon - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Real Sociedad - Valladolid - LaLiga - Spænski boltinn - livey
 DTSTART:20250329T130000
 DTEND:20250329T140000
@@ -18,20 +10,20 @@ UID:2025-03-29T13:00:00/Real Sociedad - Valladolid
 DESCRIPTION:Real Sociedad - Valladolid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Como - Empoli - Serie A - Ítalski boltinn - livey
-DTSTART:20250329T140000
-DTEND:20250329T150000
-DTSTAMP:20250329T140000Z
-UID:2025-03-29T14:00:00/Como - Empoli
-DESCRIPTION:Como - Empoli - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Venezia - Bologna - Serie A - Ítalski boltinn - livey
 DTSTART:20250329T140000
 DTEND:20250329T150000
 DTSTAMP:20250329T140000Z
 UID:2025-03-29T14:00:00/Venezia - Bologna
 DESCRIPTION:Venezia - Bologna - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como - Empoli - Serie A - Ítalski boltinn - livey
+DTSTART:20250329T140000
+DTEND:20250329T150000
+DTSTAMP:20250329T140000Z
+UID:2025-03-29T14:00:00/Como - Empoli
+DESCRIPTION:Como - Empoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Espanyol - Atletico Madrid - LaLiga - Spænski boltinn - livey
@@ -83,6 +75,14 @@ UID:2025-03-29T19:45:00/Lecce - Roma
 DESCRIPTION:Lecce - Roma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hexagone MMA 25 - Hexagone MMA - livey
+DTSTART:20250329T194500
+DTEND:20250329T204500
+DTSTAMP:20250329T194500Z
+UID:2025-03-29T19:45:00/Hexagone MMA 25
+DESCRIPTION:Hexagone MMA 25 - Hexagone MMA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Union Saint-Gilloise - Antwerp - Pro League - Belgíski boltinn - 
  livey
 DTSTART:20250329T194500
@@ -91,14 +91,6 @@ DTSTAMP:20250329T194500Z
 UID:2025-03-29T19:45:00/Union Saint-Gilloise - Antwerp
 DESCRIPTION:Union Saint-Gilloise - Antwerp - Pro League - Belgíski boltin
  n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexagone MMA 25 - Hexagone MMA - livey
-DTSTART:20250329T194500
-DTEND:20250329T204500
-DTSTAMP:20250329T194500Z
-UID:2025-03-29T19:45:00/Hexagone MMA 25
-DESCRIPTION:Hexagone MMA 25 - Hexagone MMA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - Leganes - LaLiga - Spænski boltinn - livey
@@ -165,20 +157,20 @@ UID:2025-03-30T13:00:00/Toulouse - Brest
 DESCRIPTION:Toulouse - Brest - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leicester City - Tottenham - WSL - livey
-DTSTART:20250330T130000
-DTEND:20250330T140000
-DTSTAMP:20250330T130000Z
-UID:2025-03-30T13:00:00/Leicester City - Tottenham
-DESCRIPTION:Leicester City - Tottenham - WSL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fiorentina - Atalanta - Serie A - Ítalski boltinn - livey
 DTSTART:20250330T130000
 DTEND:20250330T140000
 DTSTAMP:20250330T130000Z
 UID:2025-03-30T13:00:00/Fiorentina - Atalanta
 DESCRIPTION:Fiorentina - Atalanta - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leicester City - Tottenham - WSL - livey
+DTSTART:20250330T130000
+DTEND:20250330T140000
+DTSTAMP:20250330T130000Z
+UID:2025-03-30T13:00:00/Leicester City - Tottenham
+DESCRIPTION:Leicester City - Tottenham - WSL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barcelona - Girona - LaLiga - Spænski boltinn - livey
@@ -189,12 +181,12 @@ UID:2025-03-30T14:15:00/Barcelona - Girona
 DESCRIPTION:Barcelona - Girona - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Havre - Nantes - Ligue 1 - Franski Boltinn - livey
+SUMMARY:Auxerre - Montpellier - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250330T151500
 DTEND:20250330T161500
 DTSTAMP:20250330T151500Z
-UID:2025-03-30T15:15:00/Le Havre - Nantes
-DESCRIPTION:Le Havre - Nantes - Ligue 1 - Franski Boltinn
+UID:2025-03-30T15:15:00/Auxerre - Montpellier
+DESCRIPTION:Auxerre - Montpellier - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angers - Rennes - Ligue 1 - Franski Boltinn - livey
@@ -205,12 +197,12 @@ UID:2025-03-30T15:15:00/Angers - Rennes
 DESCRIPTION:Angers - Rennes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Auxerre - Montpellier - Ligue 1 - Franski Boltinn - livey
+SUMMARY:Le Havre - Nantes - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250330T151500
 DTEND:20250330T161500
 DTSTAMP:20250330T151500Z
-UID:2025-03-30T15:15:00/Auxerre - Montpellier
-DESCRIPTION:Auxerre - Montpellier - Ligue 1 - Franski Boltinn
+UID:2025-03-30T15:15:00/Le Havre - Nantes
+DESCRIPTION:Le Havre - Nantes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - West Ham - WSL - livey
@@ -229,14 +221,6 @@ UID:2025-03-30T16:00:00/Inter Milan - Udinese
 DESCRIPTION:Inter Milan - Udinese - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genk - Gent - Pro League - Belgíski boltinn - livey
-DTSTART:20250330T163000
-DTEND:20250330T173000
-DTSTAMP:20250330T163000Z
-UID:2025-03-30T16:30:00/Genk - Gent
-DESCRIPTION:Genk - Gent - Pro League - Belgíski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Athletic Bilbao - Osasuna - LaLiga - Spænski boltinn - livey
 DTSTART:20250330T163000
 DTEND:20250330T173000
@@ -251,6 +235,14 @@ DTEND:20250330T173000
 DTSTAMP:20250330T163000Z
 UID:2025-03-30T16:30:00/Valencia - RCD Mallorca
 DESCRIPTION:Valencia - RCD Mallorca - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genk - Gent - Pro League - Belgíski boltinn - livey
+DTSTART:20250330T163000
+DTEND:20250330T173000
+DTSTAMP:20250330T163000Z
+UID:2025-03-30T16:30:00/Genk - Gent
+DESCRIPTION:Genk - Gent - Pro League - Belgíski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lille - Lens - Ligue 1 - Franski Boltinn - livey
