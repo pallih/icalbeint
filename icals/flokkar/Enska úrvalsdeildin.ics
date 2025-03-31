@@ -10,20 +10,20 @@ UID:2025-04-01T18:30:00/Nottingham Forest - Man. Utd.
 DESCRIPTION:Nottingham Forest - Man. Utd. - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Fulham - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250401T183500
-DTEND:20250401T193500
-DTSTAMP:20250401T183500Z
-UID:2025-04-01T18:35:00/Arsenal - Fulham
-DESCRIPTION:Arsenal - Fulham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolves - West Ham - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250401T183500
 DTEND:20250401T193500
 DTSTAMP:20250401T183500Z
 UID:2025-04-01T18:35:00/Wolves - West Ham
 DESCRIPTION:Wolves - West Ham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Fulham - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250401T183500
+DTEND:20250401T193500
+DTSTAMP:20250401T183500Z
+UID:2025-04-01T18:35:00/Arsenal - Fulham
+DESCRIPTION:Arsenal - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Everton - Enska úrvalsdeildin - siminnsport
@@ -34,14 +34,6 @@ UID:2025-04-02T18:30:00/Liverpool - Everton
 DESCRIPTION:Liverpool - Everton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Ipswich - Enska úrvalsdeildin - siminnsport5
-DTSTART:20250402T183500
-DTEND:20250402T193500
-DTSTAMP:20250402T183500Z
-UID:2025-04-02T18:35:00/Bournemouth - Ipswich
-DESCRIPTION:Bournemouth - Ipswich - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. City - Leicester - Enska úrvalsdeildin - siminnsport2
 DTSTART:20250402T183500
 DTEND:20250402T193500
@@ -50,12 +42,12 @@ UID:2025-04-02T18:35:00/Man. City - Leicester
 DESCRIPTION:Man. City - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brighton - Aston Villa - Enska úrvalsdeildin - siminnsport4
+SUMMARY:Southampton - Crystal Palace - Enska úrvalsdeildin - siminnsport5
 DTSTART:20250402T183500
 DTEND:20250402T193500
 DTSTAMP:20250402T183500Z
-UID:2025-04-02T18:35:00/Brighton - Aston Villa
-DESCRIPTION:Brighton - Aston Villa - Enska úrvalsdeildin
+UID:2025-04-02T18:35:00/Southampton - Crystal Palace
+DESCRIPTION:Southampton - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Brentford - Enska úrvalsdeildin - siminnsport3
@@ -66,12 +58,20 @@ UID:2025-04-02T18:35:00/Newcastle - Brentford
 DESCRIPTION:Newcastle - Brentford - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Crystal Palace - Enska úrvalsdeildin - siminnsport5
+SUMMARY:Brighton - Aston Villa - Enska úrvalsdeildin - siminnsport4
 DTSTART:20250402T183500
 DTEND:20250402T193500
 DTSTAMP:20250402T183500Z
-UID:2025-04-02T18:35:00/Southampton - Crystal Palace
-DESCRIPTION:Southampton - Crystal Palace - Enska úrvalsdeildin
+UID:2025-04-02T18:35:00/Brighton - Aston Villa
+DESCRIPTION:Brighton - Aston Villa - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Ipswich - Enska úrvalsdeildin - siminnsport5
+DTSTART:20250402T183500
+DTEND:20250402T193500
+DTSTAMP:20250402T183500Z
+UID:2025-04-02T18:35:00/Bournemouth - Ipswich
+DESCRIPTION:Bournemouth - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Tottenham - Enska úrvalsdeildin - siminnsport
@@ -129,5 +129,37 @@ DTEND:20250405T170000
 DTSTAMP:20250405T160000Z
 UID:2025-04-05T16:00:00/Aston Villa - Nottingham Forest
 DESCRIPTION:Aston Villa - Nottingham Forest - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Liverpool - Enska úrvalsdeildin - siminnsport
+DTSTART:20250406T123000
+DTEND:20250406T133000
+DTSTAMP:20250406T123000Z
+UID:2025-04-06T12:30:00/Fulham - Liverpool
+DESCRIPTION:Fulham - Liverpool - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Southampton - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250406T125000
+DTEND:20250406T135000
+DTSTAMP:20250406T125000Z
+UID:2025-04-06T12:50:00/Tottenham - Southampton
+DESCRIPTION:Tottenham - Southampton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford - Chelsea - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250406T125000
+DTEND:20250406T135000
+DTSTAMP:20250406T125000Z
+UID:2025-04-06T12:50:00/Brentford - Chelsea
+DESCRIPTION:Brentford - Chelsea - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Man. City - Enska úrvalsdeildin - siminnsport
+DTSTART:20250406T150000
+DTEND:20250406T160000
+DTSTAMP:20250406T150000Z
+UID:2025-04-06T15:00:00/Man. Utd. - Man. City
+DESCRIPTION:Man. Utd. - Man. City - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR
