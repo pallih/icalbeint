@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:Japanski Kappaksturinn (Æfing 1) - Formula 1 - viaplay
-DTSTART:20250404T022500
-DTEND:20250404T032500
-DTSTAMP:20250404T022500Z
-UID:2025-04-04T02:25:00/Japanski Kappaksturinn (Æfing 1)
-DESCRIPTION:Japanski Kappaksturinn (Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Japan - Æfing 1 - Formúla 1 - stod2vodasport
 DTSTART:20250404T022500
 DTEND:20250404T032500
@@ -18,12 +10,12 @@ UID:2025-04-04T02:25:00/F1: Japan - Æfing 1
 DESCRIPTION:F1: Japan - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250404T023000
-DTEND:20250404T033000
-DTSTAMP:20250404T023000Z
-UID:2025-04-04T02:30:00/Timing (Æfing 1 | Japanski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Japanski Kappaksturinn) - Formula 1
+SUMMARY:Japanski Kappaksturinn (Æfing 1) - Formula 1 - viaplay
+DTSTART:20250404T022500
+DTEND:20250404T032500
+DTSTAMP:20250404T022500Z
+UID:2025-04-04T02:25:00/Japanski Kappaksturinn (Æfing 1)
+DESCRIPTION:Japanski Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
@@ -32,6 +24,22 @@ DTEND:20250404T033000
 DTSTAMP:20250404T023000Z
 UID:2025-04-04T02:30:00/Pitlane (Æfing 1 | Japanski Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250404T023000
+DTEND:20250404T033000
+DTSTAMP:20250404T023000Z
+UID:2025-04-04T02:30:00/Onboard (Æfing 1 | Japanski Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250404T023000
+DTEND:20250404T033000
+DTSTAMP:20250404T023000Z
+UID:2025-04-04T02:30:00/Timing (Æfing 1 | Japanski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Japanski Kappaksturinn) - Formula 1 
@@ -43,14 +51,6 @@ UID:2025-04-04T02:30:00/Track Positioning (Æfing 1 | Japanski Kappaksturi
  nn)
 DESCRIPTION:Track Positioning (Æfing 1 | Japanski Kappaksturinn) - Formul
  a 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250404T023000
-DTEND:20250404T033000
-DTSTAMP:20250404T023000Z
-UID:2025-04-04T02:30:00/Onboard (Æfing 1 | Japanski Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Japan - Æfing 2 - Formúla 1 - stod2vodasport
@@ -69,28 +69,12 @@ UID:2025-04-04T05:55:00/Japanski Kappaksturinn (Æfing 2)
 DESCRIPTION:Japanski Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250404T060000
-DTEND:20250404T070000
-DTSTAMP:20250404T060000Z
-UID:2025-04-04T06:00:00/Pitlane (Æfing 2 | Japanski Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Japanski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250404T060000
 DTEND:20250404T070000
 DTSTAMP:20250404T060000Z
 UID:2025-04-04T06:00:00/Onboard (Æfing 2 | Japanski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Japanski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250404T060000
-DTEND:20250404T070000
-DTSTAMP:20250404T060000Z
-UID:2025-04-04T06:00:00/Timing (Æfing 2 | Japanski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 2 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Japanski Kappaksturinn) - Formula 1 
@@ -104,12 +88,20 @@ DESCRIPTION:Track Positioning (Æfing 2 | Japanski Kappaksturinn) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Japan - Æfing 3 - Formúla 1 - stod2vodasport
-DTSTART:20250405T022500
-DTEND:20250405T032500
-DTSTAMP:20250405T022500Z
-UID:2025-04-05T02:25:00/F1: Japan - Æfing 3
-DESCRIPTION:F1: Japan - Æfing 3 - Formúla 1
+SUMMARY:Pitlane (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250404T060000
+DTEND:20250404T070000
+DTSTAMP:20250404T060000Z
+UID:2025-04-04T06:00:00/Pitlane (Æfing 2 | Japanski Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250404T060000
+DTEND:20250404T070000
+DTSTAMP:20250404T060000Z
+UID:2025-04-04T06:00:00/Timing (Æfing 2 | Japanski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 2 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japanski Kappaksturinn (Æfing 3) - Formula 1 - viaplay
@@ -120,23 +112,12 @@ UID:2025-04-05T02:25:00/Japanski Kappaksturinn (Æfing 3)
 DESCRIPTION:Japanski Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250405T023000
-DTEND:20250405T033000
-DTSTAMP:20250405T023000Z
-UID:2025-04-05T02:30:00/Timing (Æfing 3 | Japanski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Japanski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 3 | Japanski Kappaksturinn) - Formula 1 
- - viaplay
-DTSTART:20250405T023000
-DTEND:20250405T033000
-DTSTAMP:20250405T023000Z
-UID:2025-04-05T02:30:00/Track Positioning (Æfing 3 | Japanski Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Æfing 3 | Japanski Kappaksturinn) - Formul
- a 1
+SUMMARY:F1: Japan - Æfing 3 - Formúla 1 - stod2vodasport
+DTSTART:20250405T022500
+DTEND:20250405T032500
+DTSTAMP:20250405T022500Z
+UID:2025-04-05T02:25:00/F1: Japan - Æfing 3
+DESCRIPTION:F1: Japan - Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 3 | Japanski Kappaksturinn) - Formula 1 - viaplay
@@ -155,6 +136,25 @@ UID:2025-04-05T02:30:00/Onboard (Æfing 3 | Japanski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 3 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 3 | Japanski Kappaksturinn) - Formula 1 
+ - viaplay
+DTSTART:20250405T023000
+DTEND:20250405T033000
+DTSTAMP:20250405T023000Z
+UID:2025-04-05T02:30:00/Track Positioning (Æfing 3 | Japanski Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Æfing 3 | Japanski Kappaksturinn) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 3 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250405T023000
+DTEND:20250405T033000
+DTSTAMP:20250405T023000Z
+UID:2025-04-05T02:30:00/Timing (Æfing 3 | Japanski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:F1: Japan - Tímataka - Formúla 1 - stod2vodasport
 DTSTART:20250405T054500
 DTEND:20250405T064500
@@ -171,13 +171,13 @@ UID:2025-04-05T05:45:00/Japanski Kappaksturinn (Tímatökur)
 DESCRIPTION:Japanski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Japanski Kappaksturinn) - Formula 1 - viap
- lay
+SUMMARY:Onboard (Tímatökur | Japanski Kappaksturinn) - Formula 1 - via
+ play
 DTSTART:20250405T060000
 DTEND:20250405T070000
 DTSTAMP:20250405T060000Z
-UID:2025-04-05T06:00:00/Timing (Tímatökur | Japanski Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Japanski Kappaksturinn) - Formula 1
+UID:2025-04-05T06:00:00/Onboard (Tímatökur | Japanski Kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Japanski Kappaksturinn) - Formula 1 - via
@@ -189,6 +189,15 @@ UID:2025-04-05T06:00:00/Pitlane (Tímatökur | Japanski Kappaksturinn)
 DESCRIPTION:Pitlane (Tímatökur | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Tímatökur | Japanski Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250405T060000
+DTEND:20250405T070000
+DTSTAMP:20250405T060000Z
+UID:2025-04-05T06:00:00/Timing (Tímatökur | Japanski Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Japanski Kappaksturinn) - Formu
  la 1 - viaplay
 DTSTART:20250405T060000
@@ -198,15 +207,6 @@ UID:2025-04-05T06:00:00/Track Positioning (Tímatökur | Japanski Kappak
  sturinn)
 DESCRIPTION:Track Positioning (Tímatökur | Japanski Kappaksturinn) - F
  ormula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Japanski Kappaksturinn) - Formula 1 - via
- play
-DTSTART:20250405T060000
-DTEND:20250405T070000
-DTSTAMP:20250405T060000Z
-UID:2025-04-05T06:00:00/Onboard (Tímatökur | Japanski Kappaksturinn)
-DESCRIPTION:Onboard (Tímatökur | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NXS Race at Darlington (Xfinity Series) - Nascar - viaplay
@@ -233,17 +233,6 @@ UID:2025-04-06T04:30:00/Japanski Kappaksturinn (Kappakstur)
 DESCRIPTION:Japanski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Japanski Kappaksturinn) - Formula 
- 1 - viaplay
-DTSTART:20250406T050000
-DTEND:20250406T060000
-DTSTAMP:20250406T050000Z
-UID:2025-04-06T05:00:00/Track Positioning (Kappakstur | Japanski Kappakstu
- rinn)
-DESCRIPTION:Track Positioning (Kappakstur | Japanski Kappaksturinn) - Form
- ula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Japanski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250406T050000
 DTEND:20250406T060000
@@ -259,6 +248,17 @@ DTEND:20250406T060000
 DTSTAMP:20250406T050000Z
 UID:2025-04-06T05:00:00/Pitlane (Kappakstur | Japanski Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Japanski Kappaksturinn) - Formula 
+ 1 - viaplay
+DTSTART:20250406T050000
+DTEND:20250406T060000
+DTSTAMP:20250406T050000Z
+UID:2025-04-06T05:00:00/Track Positioning (Kappakstur | Japanski Kappakstu
+ rinn)
+DESCRIPTION:Track Positioning (Kappakstur | Japanski Kappaksturinn) - Form
+ ula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Japanski Kappaksturinn) - Formula 1 - viapla

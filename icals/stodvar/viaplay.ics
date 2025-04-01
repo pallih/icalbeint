@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Anaheim - Toronto - NHL - viaplay
-DTSTART:20250331T000500
-DTEND:20250331T010500
-DTSTAMP:20250331T000500Z
-UID:2025-03-31T00:05:00/Anaheim - Toronto
-DESCRIPTION:Anaheim - Toronto - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Angeles - San Jose - NHL - viaplay
-DTSTART:20250331T020500
-DTEND:20250331T030500
-DTSTAMP:20250331T020500Z
-UID:2025-03-31T02:05:00/Los Angeles - San Jose
-DESCRIPTION:Los Angeles - San Jose - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL On The Fly - NHL - viaplay
-DTSTART:20250331T110000
-DTEND:20250331T120000
-DTSTAMP:20250331T110000Z
-UID:2025-03-31T11:00:00/NHL On The Fly
-DESCRIPTION:NHL On The Fly - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Santiago P1 - Premier Padel - viaplay
-DTSTART:20250331T213000
-DTEND:20250331T223000
-DTSTAMP:20250331T213000Z
-UID:2025-03-31T21:30:00/Santiago P1
-DESCRIPTION:Santiago P1 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philadelphia - Nashville - NHL - viaplay
-DTSTART:20250331T230500
-DTEND:20250401T000500
-DTSTAMP:20250331T230500Z
-UID:2025-03-31T23:05:00/Philadelphia - Nashville
-DESCRIPTION:Philadelphia - Nashville - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Jersey - Minnesota - NHL - viaplay
-DTSTART:20250331T230500
-DTEND:20250401T000500
-DTSTAMP:20250331T230500Z
-UID:2025-03-31T23:05:00/New Jersey - Minnesota
-DESCRIPTION:New Jersey - Minnesota - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colorado - Calgary - NHL - viaplay
 DTSTART:20250401T003500
 DTEND:20250401T013500
@@ -98,14 +50,6 @@ UID:2025-04-01T18:55:00/Bristol Rovers - Birmingham
 DESCRIPTION:Bristol Rovers - Birmingham - League One
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus - Nashville - NHL - viaplay
-DTSTART:20250401T230500
-DTEND:20250402T000500
-DTSTAMP:20250401T230500Z
-UID:2025-04-01T23:05:00/Columbus - Nashville
-DESCRIPTION:Columbus - Nashville - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Montreal - Florida - NHL - viaplay
 DTSTART:20250401T230500
 DTEND:20250402T000500
@@ -114,20 +58,28 @@ UID:2025-04-01T23:05:00/Montreal - Florida
 DESCRIPTION:Montreal - Florida - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boston - Washington - NHL - viaplay
-DTSTART:20250401T230500
-DTEND:20250402T000500
-DTSTAMP:20250401T230500Z
-UID:2025-04-01T23:05:00/Boston - Washington
-DESCRIPTION:Boston - Washington - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ottawa - Buffalo - NHL - viaplay
 DTSTART:20250401T230500
 DTEND:20250402T000500
 DTSTAMP:20250401T230500Z
 UID:2025-04-01T23:05:00/Ottawa - Buffalo
 DESCRIPTION:Ottawa - Buffalo - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus - Nashville - NHL - viaplay
+DTSTART:20250401T230500
+DTEND:20250402T000500
+DTSTAMP:20250401T230500Z
+UID:2025-04-01T23:05:00/Columbus - Nashville
+DESCRIPTION:Columbus - Nashville - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston - Washington - NHL - viaplay
+DTSTART:20250401T230500
+DTEND:20250402T000500
+DTSTAMP:20250401T230500Z
+UID:2025-04-01T23:05:00/Boston - Washington
+DESCRIPTION:Boston - Washington - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NY Islanders - Tampa Bay - NHL - viaplay
@@ -251,19 +203,11 @@ DESCRIPTION:NHL On The Fly - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Berlín - PDC Darts - viaplay
-DTSTART:20250403T180000
-DTEND:20250403T190000
-DTSTAMP:20250403T180000Z
-UID:2025-04-03T18:00:00/Berlín
+DTSTART:20250403T170000
+DTEND:20250403T180000
+DTSTAMP:20250403T170000Z
+UID:2025-04-03T17:00:00/Berlín
 DESCRIPTION:Berlín - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Montreal - Boston - NHL - viaplay
-DTSTART:20250403T230500
-DTEND:20250404T000500
-DTSTAMP:20250403T230500Z
-UID:2025-04-03T23:05:00/Montreal - Boston
-DESCRIPTION:Montreal - Boston - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ottawa - Tampa Bay - NHL - viaplay
@@ -272,6 +216,14 @@ DTEND:20250404T000500
 DTSTAMP:20250403T230500Z
 UID:2025-04-03T23:05:00/Ottawa - Tampa Bay
 DESCRIPTION:Ottawa - Tampa Bay - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montreal - Boston - NHL - viaplay
+DTSTART:20250403T230500
+DTEND:20250404T000500
+DTSTAMP:20250403T230500Z
+UID:2025-04-03T23:05:00/Montreal - Boston
+DESCRIPTION:Montreal - Boston - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus - Colorado - NHL - viaplay
@@ -330,20 +282,28 @@ UID:2025-04-04T02:25:00/Japanski Kappaksturinn (Æfing 1)
 DESCRIPTION:Japanski Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250404T023000
-DTEND:20250404T033000
-DTSTAMP:20250404T023000Z
-UID:2025-04-04T02:30:00/Timing (Æfing 1 | Japanski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Japanski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250404T023000
 DTEND:20250404T033000
 DTSTAMP:20250404T023000Z
 UID:2025-04-04T02:30:00/Pitlane (Æfing 1 | Japanski Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250404T023000
+DTEND:20250404T033000
+DTSTAMP:20250404T023000Z
+UID:2025-04-04T02:30:00/Onboard (Æfing 1 | Japanski Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250404T023000
+DTEND:20250404T033000
+DTSTAMP:20250404T023000Z
+UID:2025-04-04T02:30:00/Timing (Æfing 1 | Japanski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Japanski Kappaksturinn) - Formula 1 
@@ -355,14 +315,6 @@ UID:2025-04-04T02:30:00/Track Positioning (Æfing 1 | Japanski Kappaksturi
  nn)
 DESCRIPTION:Track Positioning (Æfing 1 | Japanski Kappaksturinn) - Formul
  a 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250404T023000
-DTEND:20250404T033000
-DTSTAMP:20250404T023000Z
-UID:2025-04-04T02:30:00/Onboard (Æfing 1 | Japanski Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose - Edmonton - NHL - viaplay
@@ -381,28 +333,12 @@ UID:2025-04-04T05:55:00/Japanski Kappaksturinn (Æfing 2)
 DESCRIPTION:Japanski Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250404T060000
-DTEND:20250404T070000
-DTSTAMP:20250404T060000Z
-UID:2025-04-04T06:00:00/Pitlane (Æfing 2 | Japanski Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Japanski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250404T060000
 DTEND:20250404T070000
 DTSTAMP:20250404T060000Z
 UID:2025-04-04T06:00:00/Onboard (Æfing 2 | Japanski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Japanski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250404T060000
-DTEND:20250404T070000
-DTSTAMP:20250404T060000Z
-UID:2025-04-04T06:00:00/Timing (Æfing 2 | Japanski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 2 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Japanski Kappaksturinn) - Formula 1 
@@ -416,12 +352,20 @@ DESCRIPTION:Track Positioning (Æfing 2 | Japanski Kappaksturinn) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:International Darts Open - PDC Darts - viaplay
-DTSTART:20250404T110000
-DTEND:20250404T120000
-DTSTAMP:20250404T110000Z
-UID:2025-04-04T11:00:00/International Darts Open
-DESCRIPTION:International Darts Open - PDC Darts
+SUMMARY:Pitlane (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250404T060000
+DTEND:20250404T070000
+DTSTAMP:20250404T060000Z
+UID:2025-04-04T06:00:00/Pitlane (Æfing 2 | Japanski Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 2 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250404T060000
+DTEND:20250404T070000
+DTSTAMP:20250404T060000Z
+UID:2025-04-04T06:00:00/Timing (Æfing 2 | Japanski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 2 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL On The Fly - NHL - viaplay
@@ -430,6 +374,14 @@ DTEND:20250404T120000
 DTSTAMP:20250404T110000Z
 UID:2025-04-04T11:00:00/NHL On The Fly
 DESCRIPTION:NHL On The Fly - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Darts Open - PDC Darts - viaplay
+DTSTART:20250404T110000
+DTEND:20250404T120000
+DTSTAMP:20250404T110000Z
+UID:2025-04-04T11:00:00/International Darts Open
+DESCRIPTION:International Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Hannover - 2. Bundesliga - viaplay
@@ -488,20 +440,20 @@ UID:2025-04-04T18:55:00/Blackburn - Middlesbrough
 DESCRIPTION:Blackburn - Middlesbrough - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Detroit - Carolina - NHL - viaplay
-DTSTART:20250404T230500
-DTEND:20250405T000500
-DTSTAMP:20250404T230500Z
-UID:2025-04-04T23:05:00/Detroit - Carolina
-DESCRIPTION:Detroit - Carolina - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Washington - Chicago - NHL - viaplay
 DTSTART:20250404T230500
 DTEND:20250405T000500
 DTSTAMP:20250404T230500Z
 UID:2025-04-04T23:05:00/Washington - Chicago
 DESCRIPTION:Washington - Chicago - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit - Carolina - NHL - viaplay
+DTSTART:20250404T230500
+DTEND:20250405T000500
+DTSTAMP:20250404T230500Z
+UID:2025-04-04T23:05:00/Detroit - Carolina
+DESCRIPTION:Detroit - Carolina - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NY Islanders - Minnesota - NHL - viaplay
@@ -520,25 +472,6 @@ UID:2025-04-05T02:25:00/Japanski Kappaksturinn (Æfing 3)
 DESCRIPTION:Japanski Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Japanski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250405T023000
-DTEND:20250405T033000
-DTSTAMP:20250405T023000Z
-UID:2025-04-05T02:30:00/Timing (Æfing 3 | Japanski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Japanski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 3 | Japanski Kappaksturinn) - Formula 1 
- - viaplay
-DTSTART:20250405T023000
-DTEND:20250405T033000
-DTSTAMP:20250405T023000Z
-UID:2025-04-05T02:30:00/Track Positioning (Æfing 3 | Japanski Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Æfing 3 | Japanski Kappaksturinn) - Formul
- a 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 3 | Japanski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250405T023000
 DTEND:20250405T033000
@@ -555,6 +488,25 @@ UID:2025-04-05T02:30:00/Onboard (Æfing 3 | Japanski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 3 | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 3 | Japanski Kappaksturinn) - Formula 1 
+ - viaplay
+DTSTART:20250405T023000
+DTEND:20250405T033000
+DTSTAMP:20250405T023000Z
+UID:2025-04-05T02:30:00/Track Positioning (Æfing 3 | Japanski Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Æfing 3 | Japanski Kappaksturinn) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 3 | Japanski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250405T023000
+DTEND:20250405T033000
+DTSTAMP:20250405T023000Z
+UID:2025-04-05T02:30:00/Timing (Æfing 3 | Japanski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanski Kappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20250405T054500
 DTEND:20250405T064500
@@ -563,13 +515,13 @@ UID:2025-04-05T05:45:00/Japanski Kappaksturinn (Tímatökur)
 DESCRIPTION:Japanski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Japanski Kappaksturinn) - Formula 1 - viap
- lay
+SUMMARY:Onboard (Tímatökur | Japanski Kappaksturinn) - Formula 1 - via
+ play
 DTSTART:20250405T060000
 DTEND:20250405T070000
 DTSTAMP:20250405T060000Z
-UID:2025-04-05T06:00:00/Timing (Tímatökur | Japanski Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Japanski Kappaksturinn) - Formula 1
+UID:2025-04-05T06:00:00/Onboard (Tímatökur | Japanski Kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Japanski Kappaksturinn) - Formula 1 - via
@@ -581,6 +533,15 @@ UID:2025-04-05T06:00:00/Pitlane (Tímatökur | Japanski Kappaksturinn)
 DESCRIPTION:Pitlane (Tímatökur | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Tímatökur | Japanski Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250405T060000
+DTEND:20250405T070000
+DTSTAMP:20250405T060000Z
+UID:2025-04-05T06:00:00/Timing (Tímatökur | Japanski Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Japanski Kappaksturinn) - Formu
  la 1 - viaplay
 DTSTART:20250405T060000
@@ -590,15 +551,6 @@ UID:2025-04-05T06:00:00/Track Positioning (Tímatökur | Japanski Kappak
  sturinn)
 DESCRIPTION:Track Positioning (Tímatökur | Japanski Kappaksturinn) - F
  ormula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Japanski Kappaksturinn) - Formula 1 - via
- play
-DTSTART:20250405T060000
-DTEND:20250405T070000
-DTSTAMP:20250405T060000Z
-UID:2025-04-05T06:00:00/Onboard (Tímatökur | Japanski Kappaksturinn)
-DESCRIPTION:Onboard (Tímatökur | Japanski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL On The Fly - NHL - viaplay
@@ -673,6 +625,14 @@ UID:2025-04-05T11:45:00/Grand National
 DESCRIPTION:Grand National - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250405T132000
+DTEND:20250405T142000
+DTSTAMP:20250405T132000Z
+UID:2025-04-05T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Heidenheim - Bayer Leverkusen - Bundesliga - viaplay
 DTSTART:20250405T132000
 DTEND:20250405T142000
@@ -689,14 +649,6 @@ UID:2025-04-05T13:20:00/Mainz - Holstein Kiel
 DESCRIPTION:Mainz - Holstein Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Stuttgart - Bundesliga - viaplay
-DTSTART:20250405T132000
-DTEND:20250405T142000
-DTSTAMP:20250405T132000Z
-UID:2025-04-05T13:20:00/Bochum - Stuttgart
-DESCRIPTION:Bochum - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freiburg - Borussia Dortmund - Bundesliga - viaplay
 DTSTART:20250405T132000
 DTEND:20250405T142000
@@ -705,12 +657,12 @@ UID:2025-04-05T13:20:00/Freiburg - Borussia Dortmund
 DESCRIPTION:Freiburg - Borussia Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Bochum - Stuttgart - Bundesliga - viaplay
 DTSTART:20250405T132000
 DTEND:20250405T142000
 DTSTAMP:20250405T132000Z
-UID:2025-04-05T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2025-04-05T13:20:00/Bochum - Stuttgart
+DESCRIPTION:Bochum - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Hoffenheim - Bundesliga - viaplay
@@ -769,6 +721,14 @@ UID:2025-04-05T16:35:00/New Jersey - NY Rangers
 DESCRIPTION:New Jersey - NY Rangers - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:International Darts Open - PDC Darts - viaplay
+DTSTART:20250405T170000
+DTEND:20250405T180000
+DTSTAMP:20250405T170000Z
+UID:2025-04-05T17:00:00/International Darts Open
+DESCRIPTION:International Darts Open - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Champions League weekly - Champions League - viaplay
 DTSTART:20250405T170000
 DTEND:20250405T180000
@@ -791,14 +751,6 @@ DTEND:20250405T185500
 DTSTAMP:20250405T175500Z
 UID:2025-04-05T17:55:00/Al Ahli - Al Ittihad
 DESCRIPTION:Al Ahli - Al Ittihad - Saudi Pro League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Darts Open - PDC Darts - viaplay
-DTSTART:20250405T180000
-DTEND:20250405T190000
-DTSTAMP:20250405T180000Z
-UID:2025-04-05T18:00:00/International Darts Open
-DESCRIPTION:International Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ottawa - Florida - NHL - viaplay
@@ -833,14 +785,6 @@ UID:2025-04-05T19:05:00/Dallas - Pittsburgh
 DESCRIPTION:Dallas - Pittsburgh - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver - Anaheim - NHL - viaplay
-DTSTART:20250405T200500
-DTEND:20250405T210500
-DTSTAMP:20250405T200500Z
-UID:2025-04-05T20:05:00/Vancouver - Anaheim
-DESCRIPTION:Vancouver - Anaheim - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los Angeles - Edmonton - NHL - viaplay
 DTSTART:20250405T200500
 DTEND:20250405T210500
@@ -849,12 +793,12 @@ UID:2025-04-05T20:05:00/Los Angeles - Edmonton
 DESCRIPTION:Los Angeles - Edmonton - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Utah - Winnipeg - NHL - viaplay
-DTSTART:20250405T230500
-DTEND:20250406T000500
-DTSTAMP:20250405T230500Z
-UID:2025-04-05T23:05:00/Utah - Winnipeg
-DESCRIPTION:Utah - Winnipeg - NHL
+SUMMARY:Vancouver - Anaheim - NHL - viaplay
+DTSTART:20250405T200500
+DTEND:20250405T210500
+DTSTAMP:20250405T200500Z
+UID:2025-04-05T20:05:00/Vancouver - Anaheim
+DESCRIPTION:Vancouver - Anaheim - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis - Colorado - NHL - viaplay
@@ -863,6 +807,14 @@ DTEND:20250406T000500
 DTSTAMP:20250405T230500Z
 UID:2025-04-05T23:05:00/St. Louis - Colorado
 DESCRIPTION:St. Louis - Colorado - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah - Winnipeg - NHL - viaplay
+DTSTART:20250405T230500
+DTEND:20250406T000500
+DTSTAMP:20250405T230500Z
+UID:2025-04-05T23:05:00/Utah - Winnipeg
+DESCRIPTION:Utah - Winnipeg - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Montreal - Philadelphia - NHL - viaplay
@@ -898,10 +850,10 @@ DESCRIPTION:Boston - Carolina - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Emmett vs Murphy - UFC - viaplay
-DTSTART:20250406T020000
-DTEND:20250406T030000
-DTSTAMP:20250406T020000Z
-UID:2025-04-06T02:00:00/Emmett vs Murphy
+DTSTART:20250406T010000
+DTEND:20250406T020000
+DTSTAMP:20250406T010000Z
+UID:2025-04-06T01:00:00/Emmett vs Murphy
 DESCRIPTION:Emmett vs Murphy - UFC
 END:VEVENT
 BEGIN:VEVENT
@@ -929,17 +881,6 @@ UID:2025-04-06T04:30:00/Japanski Kappaksturinn (Kappakstur)
 DESCRIPTION:Japanski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Japanski Kappaksturinn) - Formula 
- 1 - viaplay
-DTSTART:20250406T050000
-DTEND:20250406T060000
-DTSTAMP:20250406T050000Z
-UID:2025-04-06T05:00:00/Track Positioning (Kappakstur | Japanski Kappakstu
- rinn)
-DESCRIPTION:Track Positioning (Kappakstur | Japanski Kappaksturinn) - Form
- ula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Japanski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250406T050000
 DTEND:20250406T060000
@@ -955,6 +896,17 @@ DTEND:20250406T060000
 DTSTAMP:20250406T050000Z
 UID:2025-04-06T05:00:00/Pitlane (Kappakstur | Japanski Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Japanski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Japanski Kappaksturinn) - Formula 
+ 1 - viaplay
+DTSTART:20250406T050000
+DTEND:20250406T060000
+DTSTAMP:20250406T050000Z
+UID:2025-04-06T05:00:00/Track Positioning (Kappakstur | Japanski Kappakstu
+ rinn)
+DESCRIPTION:Track Positioning (Kappakstur | Japanski Kappaksturinn) - Form
+ ula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Japanski Kappaksturinn) - Formula 1 - viapla
@@ -974,14 +926,6 @@ UID:2025-04-06T10:55:00/St. Johnstone - Celtic
 DESCRIPTION:St. Johnstone - Celtic - Scottish Premiership
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NHL On The Fly - NHL - viaplay
-DTSTART:20250406T110000
-DTEND:20250406T120000
-DTSTAMP:20250406T110000Z
-UID:2025-04-06T11:00:00/NHL On The Fly
-DESCRIPTION:NHL On The Fly - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Joburg Ladies Open - Ladies European Tour - viaplay
 DTSTART:20250406T110000
 DTEND:20250406T120000
@@ -998,12 +942,20 @@ UID:2025-04-06T11:00:00/International Darts Open
 DESCRIPTION:International Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Kaiserslautern - 2. Bundesliga - viaplay
+SUMMARY:NHL On The Fly - NHL - viaplay
+DTSTART:20250406T110000
+DTEND:20250406T120000
+DTSTAMP:20250406T110000Z
+UID:2025-04-06T11:00:00/NHL On The Fly
+DESCRIPTION:NHL On The Fly - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schalke - Ulm - 2. Bundesliga - viaplay
 DTSTART:20250406T112500
 DTEND:20250406T122500
 DTSTAMP:20250406T112500Z
-UID:2025-04-06T11:25:00/Magdeburg - Kaiserslautern
-DESCRIPTION:Magdeburg - Kaiserslautern - 2. Bundesliga
+UID:2025-04-06T11:25:00/Schalke - Ulm
+DESCRIPTION:Schalke - Ulm - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Jahn Regensburg - 2. Bundesliga - viaplay
@@ -1014,12 +966,12 @@ UID:2025-04-06T11:25:00/Elversberg - Jahn Regensburg
 DESCRIPTION:Elversberg - Jahn Regensburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schalke - Ulm - 2. Bundesliga - viaplay
+SUMMARY:Magdeburg - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20250406T112500
 DTEND:20250406T122500
 DTSTAMP:20250406T112500Z
-UID:2025-04-06T11:25:00/Schalke - Ulm
-DESCRIPTION:Schalke - Ulm - 2. Bundesliga
+UID:2025-04-06T11:25:00/Magdeburg - Kaiserslautern
+DESCRIPTION:Magdeburg - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Mönchengladbach - Bundesliga - viaplay
@@ -1063,10 +1015,10 @@ DESCRIPTION:NY Islanders - Washington - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Darts Open - PDC Darts - viaplay
-DTSTART:20250406T180000
-DTEND:20250406T190000
-DTSTAMP:20250406T180000Z
-UID:2025-04-06T18:00:00/International Darts Open
+DTSTART:20250406T170000
+DTEND:20250406T180000
+DTSTAMP:20250406T170000Z
+UID:2025-04-06T17:00:00/International Darts Open
 DESCRIPTION:International Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
@@ -1102,14 +1054,6 @@ UID:2025-04-06T21:35:00/Detroit - Florida
 DESCRIPTION:Detroit - Florida - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago - Pittsburgh - NHL - viaplay
-DTSTART:20250406T220500
-DTEND:20250406T230500
-DTSTAMP:20250406T220500Z
-UID:2025-04-06T22:05:00/Chicago - Pittsburgh
-DESCRIPTION:Chicago - Pittsburgh - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buffalo - Boston - NHL - viaplay
 DTSTART:20250406T220500
 DTEND:20250406T230500
@@ -1118,11 +1062,51 @@ UID:2025-04-06T22:05:00/Buffalo - Boston
 DESCRIPTION:Buffalo - Boston - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago - Pittsburgh - NHL - viaplay
+DTSTART:20250406T220500
+DTEND:20250406T230500
+DTSTAMP:20250406T220500Z
+UID:2025-04-06T22:05:00/Chicago - Pittsburgh
+DESCRIPTION:Chicago - Pittsburgh - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nashville - Montreal - NHL - viaplay
 DTSTART:20250406T230500
 DTEND:20250407T000500
 DTSTAMP:20250406T230500Z
 UID:2025-04-06T23:05:00/Nashville - Montreal
 DESCRIPTION:Nashville - Montreal - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver - Vegas - NHL - viaplay
+DTSTART:20250407T020500
+DTEND:20250407T030500
+DTSTAMP:20250407T020500Z
+UID:2025-04-07T02:05:00/Vancouver - Vegas
+DESCRIPTION:Vancouver - Vegas - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL On The Fly - NHL - viaplay
+DTSTART:20250407T110000
+DTEND:20250407T120000
+DTSTAMP:20250407T110000Z
+UID:2025-04-07T11:00:00/NHL On The Fly
+DESCRIPTION:NHL On The Fly - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NY Rangers - Tampa Bay - NHL - viaplay
+DTSTART:20250407T230500
+DTEND:20250408T000500
+DTSTAMP:20250407T230500Z
+UID:2025-04-07T23:05:00/NY Rangers - Tampa Bay
+DESCRIPTION:NY Rangers - Tampa Bay - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winnipeg - St. Louis - NHL - viaplay
+DTSTART:20250407T233500
+DTEND:20250408T003500
+DTSTAMP:20250407T233500Z
+UID:2025-04-07T23:35:00/Winnipeg - St. Louis
+DESCRIPTION:Winnipeg - St. Louis - NHL
 END:VEVENT
 END:VCALENDAR

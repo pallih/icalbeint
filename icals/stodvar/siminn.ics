@@ -42,12 +42,12 @@ UID:2025-04-02T18:35:00/Man. City - Leicester
 DESCRIPTION:Man. City - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Crystal Palace - Enska úrvalsdeildin - siminnsport5
+SUMMARY:Brighton - Aston Villa - Enska úrvalsdeildin - siminnsport4
 DTSTART:20250402T183500
 DTEND:20250402T193500
 DTSTAMP:20250402T183500Z
-UID:2025-04-02T18:35:00/Southampton - Crystal Palace
-DESCRIPTION:Southampton - Crystal Palace - Enska úrvalsdeildin
+UID:2025-04-02T18:35:00/Brighton - Aston Villa
+DESCRIPTION:Brighton - Aston Villa - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Brentford - Enska úrvalsdeildin - siminnsport3
@@ -56,14 +56,6 @@ DTEND:20250402T193500
 DTSTAMP:20250402T183500Z
 UID:2025-04-02T18:35:00/Newcastle - Brentford
 DESCRIPTION:Newcastle - Brentford - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brighton - Aston Villa - Enska úrvalsdeildin - siminnsport4
-DTSTART:20250402T183500
-DTEND:20250402T193500
-DTSTAMP:20250402T183500Z
-UID:2025-04-02T18:35:00/Brighton - Aston Villa
-DESCRIPTION:Brighton - Aston Villa - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Ipswich - Enska úrvalsdeildin - siminnsport5
@@ -98,14 +90,6 @@ UID:2025-04-03T19:30:00/Valur - Stjarnan
 DESCRIPTION:Valur - Stjarnan - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Selfoss - Fram - Olís deild kvenna - hsi1
-DTSTART:20250403T193000
-DTEND:20250403T203000
-DTSTAMP:20250403T193000Z
-UID:2025-04-03T19:30:00/Selfoss - Fram
-DESCRIPTION:Selfoss - Fram - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - Haukar - Olís deild kvenna - hsi1
 DTSTART:20250403T193000
 DTEND:20250403T203000
@@ -120,6 +104,46 @@ DTEND:20250403T203000
 DTSTAMP:20250403T193000Z
 UID:2025-04-03T19:30:00/ÍR - Grótta
 DESCRIPTION:ÍR - Grótta - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - Fram - Olís deild kvenna - hsi1
+DTSTART:20250403T193000
+DTEND:20250403T203000
+DTSTAMP:20250403T193000Z
+UID:2025-04-03T19:30:00/Selfoss - Fram
+DESCRIPTION:Selfoss - Fram - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Haukar - Úrslit | Olís karla - hsi1
+DTSTART:20250404T193000
+DTEND:20250404T203000
+DTSTAMP:20250404T193000Z
+UID:2025-04-04T19:30:00/Fram - Haukar
+DESCRIPTION:Fram - Haukar - Úrslit | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grótta - Hörður - Umspil | Olís karla - hsi1
+DTSTART:20250404T193000
+DTEND:20250404T203000
+DTSTAMP:20250404T193000Z
+UID:2025-04-04T19:30:00/Grótta - Hörður
+DESCRIPTION:Grótta - Hörður - Umspil | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - Víkingur - Umspil | Olís karla - hsi1
+DTSTART:20250404T193000
+DTEND:20250404T203000
+DTSTAMP:20250404T193000Z
+UID:2025-04-04T19:30:00/Selfoss - Víkingur
+DESCRIPTION:Selfoss - Víkingur - Umspil | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - HK - Úrslit | Olís karla - hsi1
+DTSTART:20250404T193000
+DTEND:20250404T203000
+DTSTAMP:20250404T193000Z
+UID:2025-04-04T19:30:00/FH - HK
+DESCRIPTION:FH - HK - Úrslit | Olís karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Arsenal - Enska úrvalsdeildin - siminnsport
@@ -171,12 +195,28 @@ UID:2025-04-05T16:00:00/Aston Villa - Nottingham Forest
 DESCRIPTION:Aston Villa - Nottingham Forest - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Stjarnan - Úrslit | Olís karla - hsi1
+DTSTART:20250405T160000
+DTEND:20250405T170000
+DTSTAMP:20250405T160000Z
+UID:2025-04-05T16:00:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Úrslit | Olís karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Afturelding - ÍBV - Olís deild karla - sjonvarpsimans
 DTSTART:20250405T161500
 DTEND:20250405T171500
 DTSTAMP:20250405T161500Z
 UID:2025-04-05T16:15:00/Afturelding - ÍBV
 DESCRIPTION:Afturelding - ÍBV - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - ÍBV - Úrslit | Olís karla - hsi1
+DTSTART:20250405T163000
+DTEND:20250405T173000
+DTSTAMP:20250405T163000Z
+UID:2025-04-05T16:30:00/Afturelding - ÍBV
+DESCRIPTION:Afturelding - ÍBV - Úrslit | Olís karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Liverpool - Enska úrvalsdeildin - siminnsport
@@ -209,5 +249,37 @@ DTEND:20250406T160000
 DTSTAMP:20250406T150000Z
 UID:2025-04-06T15:00:00/Man. Utd. - Man. City
 DESCRIPTION:Man. Utd. - Man. City - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20250406T173000
+DTEND:20250406T183000
+DTSTAMP:20250406T173000Z
+UID:2025-04-06T17:30:00/Völlurinn
+DESCRIPTION:Völlurinn - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leicester - Newcastle - Enska úrvalsdeildin - siminnsport
+DTSTART:20250407T183000
+DTEND:20250407T193000
+DTSTAMP:20250407T183000Z
+UID:2025-04-07T18:30:00/Leicester - Newcastle
+DESCRIPTION:Leicester - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HK - FH - Úrslit | Olís karla - hsi1
+DTSTART:20250407T183000
+DTEND:20250407T193000
+DTSTAMP:20250407T183000Z
+UID:2025-04-07T18:30:00/HK - FH
+DESCRIPTION:HK - FH - Úrslit | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Fram - Úrslit | Olís karla - hsi1
+DTSTART:20250407T193000
+DTEND:20250407T203000
+DTSTAMP:20250407T193000Z
+UID:2025-04-07T19:30:00/Haukar - Fram
+DESCRIPTION:Haukar - Fram - Úrslit | Olís karla
 END:VEVENT
 END:VCALENDAR
