@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Ísland - Noregur - Þjóðadeild kvenna í fótbolta - ruv
-DTSTART:20250404T164500
-DTEND:20250404T174500
-DTSTAMP:20250404T164500Z
-UID:2025-04-04T16:45:00/Ísland - Noregur
-DESCRIPTION:Ísland - Noregur - Þjóðadeild kvenna í fótbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ísland - Sviss - Þjóðadeild kvenna í fótbolta - ruv
 DTSTART:20250408T164500
 DTEND:20250408T174500
@@ -32,5 +24,21 @@ DTEND:20250410T203000
 DTSTAMP:20250410T193000Z
 UID:2025-04-10T19:30:00/Ísland - Ísrael
 DESCRIPTION:Ísland - Ísrael - Umspil HM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Íslandsmót í hópfimleikum - Fimleikar - ruv
+DTSTART:20250411T170000
+DTEND:20250411T180000
+DTSTAMP:20250411T170000Z
+UID:2025-04-11T17:00:00/Íslandsmót í hópfimleikum
+DESCRIPTION:Íslandsmót í hópfimleikum - Fimleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Valur - Meistarakeppni kvenna í fótbolta - ruv2
+DTSTART:20250411T191500
+DTEND:20250411T201500
+DTSTAMP:20250411T191500Z
+UID:2025-04-11T19:15:00/Breiðablik - Valur
+DESCRIPTION:Breiðablik - Valur - Meistarakeppni kvenna í fótbolta
 END:VEVENT
 END:VCALENDAR
