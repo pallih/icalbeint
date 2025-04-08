@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Leicester - Newcastle - Enska úrvalsdeildin - siminnsport
-DTSTART:20250407T183000
-DTEND:20250407T193000
-DTSTAMP:20250407T183000Z
-UID:2025-04-07T18:30:00/Leicester - Newcastle
-DESCRIPTION:Leicester - Newcastle - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HK - FH - Úrslit | Olís karla - hsi1
-DTSTART:20250407T183000
-DTEND:20250407T193000
-DTSTAMP:20250407T183000Z
-UID:2025-04-07T18:30:00/HK - FH
-DESCRIPTION:HK - FH - Úrslit | Olís karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - Fram - Olís deild karla - sjonvarpsimans
-DTSTART:20250407T191500
-DTEND:20250407T201500
-DTSTAMP:20250407T191500Z
-UID:2025-04-07T19:15:00/Haukar - Fram
-DESCRIPTION:Haukar - Fram - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - Fram - Úrslit | Olís karla - hsi1
-DTSTART:20250407T193000
-DTEND:20250407T203000
-DTSTAMP:20250407T193000Z
-UID:2025-04-07T19:30:00/Haukar - Fram
-DESCRIPTION:Haukar - Fram - Úrslit | Olís karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Víkingur - Selfoss - Umspil | Olís karla - hsi1
 DTSTART:20250408T193000
 DTEND:20250408T203000
@@ -72,22 +40,6 @@ DTEND:20250411T201500
 DTSTAMP:20250411T191500Z
 UID:2025-04-11T19:15:00/Leikur í Olís deildinni
 DESCRIPTION:Leikur í Olís deildinni - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fram - Haukar - Úrslit | Olís karla - hsi1
-DTSTART:20250411T193000
-DTEND:20250411T203000
-DTSTAMP:20250411T193000Z
-UID:2025-04-11T19:30:00/Fram - Haukar
-DESCRIPTION:Fram - Haukar - Úrslit | Olís karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FH - HK - Úrslit | Olís karla - hsi1
-DTSTART:20250411T193000
-DTEND:20250411T203000
-DTSTAMP:20250411T193000Z
-UID:2025-04-11T19:30:00/FH - HK
-DESCRIPTION:FH - HK - Úrslit | Olís karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Crystal Palace - Enska úrvalsdeildin - siminnsport
@@ -155,12 +107,12 @@ UID:2025-04-12T16:00:00/Arsenal - Brentford
 DESCRIPTION:Arsenal - Brentford - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afturelding - ÍBV - Úrslit | Olís karla - hsi1
-DTSTART:20250412T193000
-DTEND:20250412T203000
-DTSTAMP:20250412T193000Z
-UID:2025-04-12T19:30:00/Afturelding - ÍBV
-DESCRIPTION:Afturelding - ÍBV - Úrslit | Olís karla
+SUMMARY: Leganes - Barcelona - LaLiga - Spænski boltinn - siminnsport
+DTSTART:20250412T185500
+DTEND:20250412T195500
+DTSTAMP:20250412T185500Z
+UID:2025-04-12T18:55:00/ Leganes - Barcelona
+DESCRIPTION: Leganes - Barcelona - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Stjarnan - Úrslit | Olís karla - hsi1
@@ -171,6 +123,14 @@ UID:2025-04-12T19:30:00/Valur - Stjarnan
 DESCRIPTION:Valur - Stjarnan - Úrslit | Olís karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Afturelding - ÍBV - Úrslit | Olís karla - hsi1
+DTSTART:20250412T193000
+DTEND:20250412T203000
+DTSTAMP:20250412T193000Z
+UID:2025-04-12T19:30:00/Afturelding - ÍBV
+DESCRIPTION:Afturelding - ÍBV - Úrslit | Olís karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Liverpool - West Ham - Enska úrvalsdeildin - siminnsport
 DTSTART:20250413T123000
 DTEND:20250413T133000
@@ -179,20 +139,20 @@ UID:2025-04-13T12:30:00/Liverpool - West Ham
 DESCRIPTION:Liverpool - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Ipswich - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250413T125000
-DTEND:20250413T135000
-DTSTAMP:20250413T125000Z
-UID:2025-04-13T12:50:00/Chelsea - Ipswich
-DESCRIPTION:Chelsea - Ipswich - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolves - Tottenham - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250413T125000
 DTEND:20250413T135000
 DTSTAMP:20250413T125000Z
 UID:2025-04-13T12:50:00/Wolves - Tottenham
 DESCRIPTION:Wolves - Tottenham - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Ipswich - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250413T125000
+DTEND:20250413T135000
+DTSTAMP:20250413T125000Z
+UID:2025-04-13T12:50:00/Chelsea - Ipswich
+DESCRIPTION:Chelsea - Ipswich - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Man. Utd. - Enska úrvalsdeildin - siminnsport
@@ -217,5 +177,29 @@ DTEND:20250413T180000
 DTSTAMP:20250413T170000Z
 UID:2025-04-13T17:00:00/HK - Afturelding
 DESCRIPTION:HK - Afturelding - Umspil | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20250413T173000
+DTEND:20250413T183000
+DTSTAMP:20250413T173000Z
+UID:2025-04-13T17:30:00/Völlurinn
+DESCRIPTION:Völlurinn - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Lazio - Roma - Serie A - Ítalski boltinn - siminnsport
+DTSTART:20250413T184000
+DTEND:20250413T194000
+DTSTAMP:20250413T184000Z
+UID:2025-04-13T18:40:00/ Lazio - Roma
+DESCRIPTION: Lazio - Roma - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Fulham - Enska úrvalsdeildin - siminnsport
+DTSTART:20250414T183000
+DTEND:20250414T193000
+DTSTAMP:20250414T183000Z
+UID:2025-04-14T18:30:00/Bournemouth - Fulham
+DESCRIPTION:Bournemouth - Fulham - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR
