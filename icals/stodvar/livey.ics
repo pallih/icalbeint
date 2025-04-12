@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Lens - Reims - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250411T184500
-DTEND:20250411T194500
-DTSTAMP:20250411T184500Z
-UID:2025-04-11T18:45:00/Lens - Reims
-DESCRIPTION:Lens - Reims - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Udinese - AC Milan - Serie A - Ítalski boltinn - livey
-DTSTART:20250411T184500
-DTEND:20250411T194500
-DTSTAMP:20250411T184500Z
-UID:2025-04-11T18:45:00/Udinese - AC Milan
-DESCRIPTION:Udinese - AC Milan - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valencia - Sevilla - LaLiga - Spænski boltinn - livey
-DTSTART:20250411T190000
-DTEND:20250411T200000
-DTSTAMP:20250411T190000Z
-UID:2025-04-11T19:00:00/Valencia - Sevilla
-DESCRIPTION:Valencia - Sevilla - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Real Sociedad - RCD Mallorca - LaLiga - Spænski boltinn - livey
 DTSTART:20250412T120000
 DTEND:20250412T130000
@@ -90,6 +66,14 @@ UID:2025-04-12T18:30:00/Hexagone MMA 26
 DESCRIPTION:Hexagone MMA 26 - Hexagone MMA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Juventus - Lecce - Serie A - Ítalski boltinn - livey
+DTSTART:20250412T184500
+DTEND:20250412T194500
+DTSTAMP:20250412T184500Z
+UID:2025-04-12T18:45:00/Juventus - Lecce
+DESCRIPTION:Juventus - Lecce - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Union Saint-Gilloise - Anderlecht - Pro League - Belgíski boltinn
   - livey
 DTSTART:20250412T184500
@@ -98,14 +82,6 @@ DTSTAMP:20250412T184500Z
 UID:2025-04-12T18:45:00/Union Saint-Gilloise - Anderlecht
 DESCRIPTION:Union Saint-Gilloise - Anderlecht - Pro League - Belgíski bol
  tinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juventus - Lecce - Serie A - Ítalski boltinn - livey
-DTSTART:20250412T184500
-DTEND:20250412T194500
-DTSTAMP:20250412T184500Z
-UID:2025-04-12T18:45:00/Juventus - Lecce
-DESCRIPTION:Juventus - Lecce - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leganes - Barcelona - LaLiga - Spænski boltinn - livey
@@ -122,14 +98,6 @@ DTEND:20250412T200500
 DTSTAMP:20250412T190500Z
 UID:2025-04-12T19:05:00/RC Strasbourg - Nice
 DESCRIPTION:RC Strasbourg - Nice - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atletico Madrid - Valladolid - LaLiga - Spænski boltinn - livey
-DTSTART:20250413T000000
-DTEND:20250413T010000
-DTSTAMP:20250413T000000Z
-UID:2025-04-13T00:00:00/Atletico Madrid - Valladolid
-DESCRIPTION:Atletico Madrid - Valladolid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atalanta - Bologna - Serie A - Ítalski boltinn - livey
@@ -156,12 +124,12 @@ UID:2025-04-13T12:00:00/Osasuna - Girona
 DESCRIPTION:Osasuna - Girona - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hellas Verona - Genoa - Serie A - Ítalski boltinn - livey
+SUMMARY:Fiorentina - Parma - Serie A - Ítalski boltinn - livey
 DTSTART:20250413T130000
 DTEND:20250413T140000
 DTSTAMP:20250413T130000Z
-UID:2025-04-13T13:00:00/Hellas Verona - Genoa
-DESCRIPTION:Hellas Verona - Genoa - Serie A - Ítalski boltinn
+UID:2025-04-13T13:00:00/Fiorentina - Parma
+DESCRIPTION:Fiorentina - Parma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St-Étienne - Brest - Ligue 1 - Franski Boltinn - livey
@@ -172,12 +140,12 @@ UID:2025-04-13T13:00:00/St-Étienne - Brest
 DESCRIPTION:St-Étienne - Brest - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fiorentina - Parma - Serie A - Ítalski boltinn - livey
+SUMMARY:Hellas Verona - Genoa - Serie A - Ítalski boltinn - livey
 DTSTART:20250413T130000
 DTEND:20250413T140000
 DTSTAMP:20250413T130000Z
-UID:2025-04-13T13:00:00/Fiorentina - Parma
-DESCRIPTION:Fiorentina - Parma - Serie A - Ítalski boltinn
+UID:2025-04-13T13:00:00/Hellas Verona - Genoa
+DESCRIPTION:Hellas Verona - Genoa - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deportivo Alaves - Real Madrid - LaLiga - Spænski boltinn - livey
@@ -188,20 +156,20 @@ UID:2025-04-13T14:15:00/Deportivo Alaves - Real Madrid
 DESCRIPTION:Deportivo Alaves - Real Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Angers - Montpellier - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250413T151500
-DTEND:20250413T161500
-DTSTAMP:20250413T151500Z
-UID:2025-04-13T15:15:00/Angers - Montpellier
-DESCRIPTION:Angers - Montpellier - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le Havre - Rennes - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250413T151500
 DTEND:20250413T161500
 DTSTAMP:20250413T151500Z
 UID:2025-04-13T15:15:00/Le Havre - Rennes
 DESCRIPTION:Le Havre - Rennes - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angers - Montpellier - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250413T151500
+DTEND:20250413T161500
+DTSTAMP:20250413T151500Z
+UID:2025-04-13T15:15:00/Angers - Montpellier
+DESCRIPTION:Angers - Montpellier - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Como - Torino - Serie A - Ítalski boltinn - livey
@@ -228,20 +196,20 @@ UID:2025-04-13T16:30:00/Real Betis - Villareal
 DESCRIPTION:Real Betis - Villareal - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Auxerre - Lyon - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250413T184500
-DTEND:20250413T194500
-DTSTAMP:20250413T184500Z
-UID:2025-04-13T18:45:00/Auxerre - Lyon
-DESCRIPTION:Auxerre - Lyon - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lazio - Roma - Serie A - Ítalski boltinn - livey
 DTSTART:20250413T184500
 DTEND:20250413T194500
 DTSTAMP:20250413T184500Z
 UID:2025-04-13T18:45:00/Lazio - Roma
 DESCRIPTION:Lazio - Roma - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auxerre - Lyon - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250413T184500
+DTEND:20250413T194500
+DTSTAMP:20250413T184500Z
+UID:2025-04-13T18:45:00/Auxerre - Lyon
+DESCRIPTION:Auxerre - Lyon - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Athletic Bilbao - Rayo Vallecano - LaLiga - Spænski boltinn - liv
@@ -259,5 +227,13 @@ DTEND:20250414T194500
 DTSTAMP:20250414T184500Z
 UID:2025-04-14T18:45:00/Napoli - Empoli
 DESCRIPTION:Napoli - Empoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atletico Madrid - Valladolid - LaLiga - Spænski boltinn - livey
+DTSTART:20250414T190000
+DTEND:20250414T200000
+DTSTAMP:20250414T190000Z
+UID:2025-04-14T19:00:00/Atletico Madrid - Valladolid
+DESCRIPTION:Atletico Madrid - Valladolid - LaLiga - Spænski boltinn
 END:VEVENT
 END:VCALENDAR
