@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Kiel - Rhein-Neckar Löwen - DHB Pokal - viaplay
-DTSTART:20250412T140500
-DTEND:20250412T150500
-DTSTAMP:20250412T140500Z
-UID:2025-04-12T14:05:00/Kiel - Rhein-Neckar Löwen
-DESCRIPTION:Kiel - Rhein-Neckar Löwen - DHB Pokal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Melsungen - Balingen-Weilstetten - DHB Pokal - viaplay
-DTSTART:20250412T165500
-DTEND:20250412T175500
-DTSTAMP:20250412T165500Z
-UID:2025-04-12T16:55:00/Melsungen - Balingen-Weilstetten
-DESCRIPTION:Melsungen - Balingen-Weilstetten - DHB Pokal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bronsviðureign - DHB Pokal - viaplay
+SUMMARY:Rhein-Neckar Löwen - Balingen-Weilstetten - DHB Pokal - viaplay
 DTSTART:20250413T104000
 DTEND:20250413T114000
 DTSTAMP:20250413T104000Z
-UID:2025-04-13T10:40:00/Bronsviðureign
-DESCRIPTION:Bronsviðureign - DHB Pokal
+UID:2025-04-13T10:40:00/Rhein-Neckar Löwen - Balingen-Weilstetten
+DESCRIPTION:Rhein-Neckar Löwen - Balingen-Weilstetten - DHB Pokal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Úrslit - DHB Pokal - viaplay
+SUMMARY:Kiel - Melsungen - DHB Pokal - viaplay
 DTSTART:20250413T133000
 DTEND:20250413T143000
 DTSTAMP:20250413T133000Z
-UID:2025-04-13T13:30:00/Úrslit
-DESCRIPTION:Úrslit - DHB Pokal
+UID:2025-04-13T13:30:00/Kiel - Melsungen
+DESCRIPTION:Kiel - Melsungen - DHB Pokal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Víkingur - Umspil | Olís kvenna - hsi1
@@ -82,12 +66,12 @@ UID:2025-04-16T19:15:00/FH - Fram
 DESCRIPTION:FH - Fram - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víkingur - Stjarnan - Umspil | Olís kvenna - hsi1
+SUMMARY:FH - Fram - Úrslit | Olís karla - hsi1
 DTSTART:20250416T193000
 DTEND:20250416T203000
 DTSTAMP:20250416T193000Z
-UID:2025-04-16T19:30:00/Víkingur - Stjarnan
-DESCRIPTION:Víkingur - Stjarnan - Umspil | Olís kvenna
+UID:2025-04-16T19:30:00/FH - Fram
+DESCRIPTION:FH - Fram - Úrslit | Olís karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afturelding - HK - Umspil | Olís kvenna - hsi1
@@ -98,12 +82,12 @@ UID:2025-04-16T19:30:00/Afturelding - HK
 DESCRIPTION:Afturelding - HK - Umspil | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Fram - Úrslit | Olís karla - hsi1
+SUMMARY:Víkingur - Stjarnan - Umspil | Olís kvenna - hsi1
 DTSTART:20250416T193000
 DTEND:20250416T203000
 DTSTAMP:20250416T193000Z
-UID:2025-04-16T19:30:00/FH - Fram
-DESCRIPTION:FH - Fram - Úrslit | Olís karla
+UID:2025-04-16T19:30:00/Víkingur - Stjarnan
+DESCRIPTION:Víkingur - Stjarnan - Umspil | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Afturelding - Olís deild karla - sjonvarpsimans
@@ -128,5 +112,37 @@ DTEND:20250417T203000
 DTSTAMP:20250417T193000Z
 UID:2025-04-17T19:30:00/Valur - Afturelding
 DESCRIPTION:Valur - Afturelding - Úrslit | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Víkingur - Umspil | Olís kvenna - hsi1
+DTSTART:20250419T160000
+DTEND:20250419T170000
+DTSTAMP:20250419T160000Z
+UID:2025-04-19T16:00:00/Stjarnan - Víkingur
+DESCRIPTION:Stjarnan - Víkingur - Umspil | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HK - Afturelding - Umspil | Olís kvenna - hsi1
+DTSTART:20250419T160000
+DTEND:20250419T170000
+DTSTAMP:20250419T160000Z
+UID:2025-04-19T16:00:00/HK - Afturelding
+DESCRIPTION:HK - Afturelding - Umspil | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍBV - Haukar - Úrslit | Olís kvenna - hsi1
+DTSTART:20250419T160000
+DTEND:20250419T170000
+DTSTAMP:20250419T160000Z
+UID:2025-04-19T16:00:00/ÍBV - Haukar
+DESCRIPTION:ÍBV - Haukar - Úrslit | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Selfoss - Úrslit | Olís kvenna - hsi1
+DTSTART:20250419T161500
+DTEND:20250419T171500
+DTSTAMP:20250419T161500Z
+UID:2025-04-19T16:15:00/ÍR - Selfoss
+DESCRIPTION:ÍR - Selfoss - Úrslit | Olís kvenna
 END:VEVENT
 END:VCALENDAR
