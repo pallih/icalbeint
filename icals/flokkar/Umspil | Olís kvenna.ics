@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Umspil | Olís kvenna - ical
 BEGIN:VEVENT
-SUMMARY:Víkingur - Stjarnan - Umspil | Olís kvenna - hsi1
-DTSTART:20250416T193000
-DTEND:20250416T203000
-DTSTAMP:20250416T193000Z
-UID:2025-04-16T19:30:00/Víkingur - Stjarnan
-DESCRIPTION:Víkingur - Stjarnan - Umspil | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Afturelding - HK - Umspil | Olís kvenna - hsi1
 DTSTART:20250416T193000
 DTEND:20250416T203000
@@ -18,12 +10,12 @@ UID:2025-04-16T19:30:00/Afturelding - HK
 DESCRIPTION:Afturelding - HK - Umspil | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HK - Afturelding - Umspil | Olís kvenna - hsi1
-DTSTART:20250419T160000
-DTEND:20250419T170000
-DTSTAMP:20250419T160000Z
-UID:2025-04-19T16:00:00/HK - Afturelding
-DESCRIPTION:HK - Afturelding - Umspil | Olís kvenna
+SUMMARY:Víkingur - Stjarnan - Umspil | Olís kvenna - hsi1
+DTSTART:20250416T193000
+DTEND:20250416T203000
+DTSTAMP:20250416T193000Z
+UID:2025-04-16T19:30:00/Víkingur - Stjarnan
+DESCRIPTION:Víkingur - Stjarnan - Umspil | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Víkingur - Umspil | Olís kvenna - hsi1
@@ -32,5 +24,13 @@ DTEND:20250419T170000
 DTSTAMP:20250419T160000Z
 UID:2025-04-19T16:00:00/Stjarnan - Víkingur
 DESCRIPTION:Stjarnan - Víkingur - Umspil | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HK - Afturelding - Umspil | Olís kvenna - hsi1
+DTSTART:20250419T160000
+DTEND:20250419T170000
+DTSTAMP:20250419T160000Z
+UID:2025-04-19T16:00:00/HK - Afturelding
+DESCRIPTION:HK - Afturelding - Umspil | Olís kvenna
 END:VEVENT
 END:VCALENDAR
