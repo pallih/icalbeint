@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:KR - Hamar/Þór - 1. deild kvenna í körfubolta - stod2sport
-DTSTART:20250418T165000
-DTEND:20250418T175000
-DTSTAMP:20250418T165000Z
-UID:2025-04-18T16:50:00/KR - Hamar/Þór
-DESCRIPTION:KR - Hamar/Þór - 1. deild kvenna í körfubolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hawks - Heat - NBA Play-In Tournament - stod2sport2
-DTSTART:20250418T230000
-DTEND:20250419T000000
-DTSTAMP:20250418T230000Z
-UID:2025-04-18T23:00:00/Hawks - Heat
-DESCRIPTION:Hawks - Heat - NBA Play-In Tournament
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grizzlies - Mavericks - NBA Play-In Tournament - stod2sport2
-DTSTART:20250419T013000
-DTEND:20250419T023000
-DTSTAMP:20250419T013000Z
-UID:2025-04-19T01:30:00/Grizzlies - Mavericks
-DESCRIPTION:Grizzlies - Mavericks - NBA Play-In Tournament
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Njarðvík - Keflavík - Bónus deild kvenna - stod2sport5
 DTSTART:20250419T165000
 DTEND:20250419T175000
@@ -42,12 +18,12 @@ UID:2025-04-19T18:45:00/Haukar - Valur
 DESCRIPTION:Haukar - Valur - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nuggets - L.A. Clippers - NBA - stod2sport2
+SUMMARY:Nuggets - Clippers - NBA - stod2sport2
 DTSTART:20250419T193000
 DTEND:20250419T203000
 DTSTAMP:20250419T193000Z
-UID:2025-04-19T19:30:00/Nuggets - L.A. Clippers
-DESCRIPTION:Nuggets - L.A. Clippers - NBA
+UID:2025-04-19T19:30:00/Nuggets - Clippers
+DESCRIPTION:Nuggets - Clippers - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna - stod2sport
@@ -128,6 +104,22 @@ DTSTART:20250424T210000
 DTEND:20250424T220000
 DTSTAMP:20250424T210000Z
 UID:2025-04-24T21:00:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Álftanes - Tindastóll - Bónus deild karla - stod2sport
+DTSTART:20250425T184500
+DTEND:20250425T194500
+DTSTAMP:20250425T184500Z
+UID:2025-04-25T18:45:00/Álftanes - Tindastóll
+DESCRIPTION:Álftanes - Tindastóll - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
+DTSTART:20250425T210000
+DTEND:20250425T220000
+DTSTAMP:20250425T210000Z
+UID:2025-04-25T21:00:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
