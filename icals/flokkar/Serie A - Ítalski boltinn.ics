@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Serie A - Ítalski boltinn - ical
 BEGIN:VEVENT
-SUMMARY: Cagliari - Fiorentina - Serie A - Ítalski boltinn - siminnsport
-DTSTART:20250421T125500
-DTEND:20250421T135500
-DTSTAMP:20250421T125500Z
-UID:2025-04-21T12:55:00/ Cagliari - Fiorentina
-DESCRIPTION: Cagliari - Fiorentina - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atalanta - Lecce - Serie A - Ítalski boltinn - livey
 DTSTART:20250425T184500
 DTEND:20250425T194500
@@ -42,6 +34,14 @@ UID:2025-04-26T18:45:00/Lazio - Parma
 DESCRIPTION:Lazio - Parma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: Cagliari - Fiorentina - Serie A - Ítalski boltinn - siminnsport
+DTSTART:20250427T101500
+DTEND:20250427T111500
+DTSTAMP:20250427T101500Z
+UID:2025-04-27T10:15:00/ Cagliari - Fiorentina
+DESCRIPTION: Cagliari - Fiorentina - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Venezia - AC Milan - Serie A - Ítalski boltinn - livey
 DTSTART:20250427T103000
 DTEND:20250427T113000
@@ -72,5 +72,21 @@ DTEND:20250427T194500
 DTSTAMP:20250427T184500Z
 UID:2025-04-27T18:45:00/Napoli - Torino
 DESCRIPTION:Napoli - Torino - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Udinese - Bologna - Serie A - Ítalski boltinn - livey
+DTSTART:20250428T163000
+DTEND:20250428T173000
+DTSTAMP:20250428T163000Z
+UID:2025-04-28T16:30:00/Udinese - Bologna
+DESCRIPTION:Udinese - Bologna - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hellas Verona - Cagliari - Serie A - Ítalski boltinn - livey
+DTSTART:20250428T184500
+DTEND:20250428T194500
+DTSTAMP:20250428T184500Z
+UID:2025-04-28T18:45:00/Hellas Verona - Cagliari
+DESCRIPTION:Hellas Verona - Cagliari - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR
