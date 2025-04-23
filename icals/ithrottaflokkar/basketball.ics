@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Lögmál leiksins - NBA - stod2sport2
-DTSTART:20250422T200000
-DTEND:20250422T210000
-DTSTAMP:20250422T200000Z
-UID:2025-04-22T20:00:00/Lögmál leiksins
-DESCRIPTION:Lögmál leiksins - NBA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keflavík - Njarðvík - Bónus deild kvenna - stod2sport5
 DTSTART:20250423T173000
 DTEND:20250423T183000
@@ -59,11 +51,20 @@ UID:2025-04-25T21:00:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breiðablik - Ármann - 1. deild karla í körfubolta - stod2sport
+ 5
+DTSTART:20250426T165500
+DTEND:20250426T175500
+DTSTAMP:20250426T165500Z
+UID:2025-04-26T16:55:00/Breiðablik - Ármann
+DESCRIPTION:Breiðablik - Ármann - 1. deild karla í körfubolta
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Haukar - Valur - Bónus deild kvenna - stod2sport
-DTSTART:20250426T185000
-DTEND:20250426T195000
-DTSTAMP:20250426T185000Z
-UID:2025-04-26T18:50:00/Haukar - Valur
+DTSTART:20250426T175000
+DTEND:20250426T185000
+DTSTAMP:20250426T175000Z
+UID:2025-04-26T17:50:00/Haukar - Valur
 DESCRIPTION:Haukar - Valur - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
@@ -83,12 +84,12 @@ UID:2025-04-27T18:45:00/Njarðvík - Keflavík
 DESCRIPTION:Njarðvík - Keflavík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NBA - Playoff Games - NBA - stod2sport2
+SUMMARY:Timberwolves - Lakers - NBA - stod2sport2
 DTSTART:20250427T193000
 DTEND:20250427T203000
 DTSTAMP:20250427T193000Z
-UID:2025-04-27T19:30:00/NBA - Playoff Games
-DESCRIPTION:NBA - Playoff Games - NBA
+UID:2025-04-27T19:30:00/Timberwolves - Lakers
+DESCRIPTION:Timberwolves - Lakers - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna - stod2sport
@@ -98,6 +99,14 @@ DTEND:20250427T220000
 DTSTAMP:20250427T210000Z
 UID:2025-04-27T21:00:00/Bónus Körfuboltakvöld kvenna
 DESCRIPTION:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lögmál leiksins - NBA - stod2sport2
+DTSTART:20250428T072500
+DTEND:20250428T082500
+DTSTAMP:20250428T072500Z
+UID:2025-04-28T07:25:00/Lögmál leiksins
+DESCRIPTION:Lögmál leiksins - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Grindavík - Bónus deild karla - stod2sport
@@ -113,6 +122,22 @@ DTSTART:20250428T215000
 DTEND:20250428T225000
 DTSTAMP:20250428T215000Z
 UID:2025-04-28T21:50:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Álftanes - Bónus deild karla - stod2sport
+DTSTART:20250429T184500
+DTEND:20250429T194500
+DTSTAMP:20250429T184500Z
+UID:2025-04-29T18:45:00/Tindastóll - Álftanes
+DESCRIPTION:Tindastóll - Álftanes - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
+DTSTART:20250429T210000
+DTEND:20250429T220000
+DTSTAMP:20250429T210000Z
+UID:2025-04-29T21:00:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
