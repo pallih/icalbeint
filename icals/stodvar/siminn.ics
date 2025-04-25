@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Grótta - Selfoss - Umspil | Olís karla - hsi1
-DTSTART:20250424T193000
-DTEND:20250424T203000
-DTSTAMP:20250424T193000Z
-UID:2025-04-24T19:30:00/Grótta - Selfoss
-DESCRIPTION:Grótta - Selfoss - Umspil | Olís karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FH - Fram - Úrslit | Olís karla - hsi1
-DTSTART:20250424T193000
-DTEND:20250424T203000
-DTSTAMP:20250424T193000Z
-UID:2025-04-24T19:30:00/FH - Fram
-DESCRIPTION:FH - Fram - Úrslit | Olís karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - Afturelding - Úrslit | Olís karla - hsi1
 DTSTART:20250425T193000
 DTEND:20250425T203000
@@ -58,20 +42,20 @@ UID:2025-04-26T13:50:00/Southampton - Fulham
 DESCRIPTION:Southampton - Fulham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brighton - West Ham - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250426T135000
-DTEND:20250426T145000
-DTSTAMP:20250426T135000Z
-UID:2025-04-26T13:50:00/Brighton - West Ham
-DESCRIPTION:Brighton - West Ham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolves - Leicester - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250426T135000
 DTEND:20250426T145000
 DTSTAMP:20250426T135000Z
 UID:2025-04-26T13:50:00/Wolves - Leicester
 DESCRIPTION:Wolves - Leicester - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - West Ham - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250426T135000
+DTEND:20250426T145000
+DTSTAMP:20250426T135000Z
+UID:2025-04-26T13:50:00/Brighton - West Ham
+DESCRIPTION:Brighton - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - ÍR - Úrslit | Olís kvenna - hsi1
@@ -82,20 +66,20 @@ UID:2025-04-26T14:00:00/Valur - ÍR
 DESCRIPTION:Valur - ÍR - Úrslit | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afturelding - Stjarnan - Umspil | Olís kvenna - hsi1
-DTSTART:20250426T160000
-DTEND:20250426T170000
-DTSTAMP:20250426T160000Z
-UID:2025-04-26T16:00:00/Afturelding - Stjarnan
-DESCRIPTION:Afturelding - Stjarnan - Umspil | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - Haukar - Olís deild kvenna - sjonvarpsimans
 DTSTART:20250426T160000
 DTEND:20250426T170000
 DTSTAMP:20250426T160000Z
 UID:2025-04-26T16:00:00/Fram - Haukar
 DESCRIPTION:Fram - Haukar - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - Stjarnan - Umspil | Olís kvenna - hsi1
+DTSTART:20250426T160000
+DTEND:20250426T170000
+DTSTAMP:20250426T160000Z
+UID:2025-04-26T16:00:00/Afturelding - Stjarnan
+DESCRIPTION:Afturelding - Stjarnan - Umspil | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fram - Haukar - Úrslit | Olís kvenna - hsi1
@@ -192,5 +176,29 @@ DTEND:20250429T203000
 DTSTAMP:20250429T193000Z
 UID:2025-04-29T19:30:00/Stjarnan - Afturelding
 DESCRIPTION:Stjarnan - Afturelding - Umspil | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grótta - Selfoss - Umspil | Olís karla - hsi1
+DTSTART:20250501T180000
+DTEND:20250501T190000
+DTSTAMP:20250501T180000Z
+UID:2025-05-01T18:00:00/Grótta - Selfoss
+DESCRIPTION:Grótta - Selfoss - Umspil | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest - Brentford - Enska úrvalsdeildin - siminnsport
+DTSTART:20250501T180000
+DTEND:20250501T190000
+DTSTAMP:20250501T180000Z
+UID:2025-05-01T18:00:00/Nottingham Forest - Brentford
+DESCRIPTION:Nottingham Forest - Brentford - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Fram - Úrslit | Olís karla - hsi1
+DTSTART:20250501T193000
+DTEND:20250501T203000
+DTSTAMP:20250501T193000Z
+UID:2025-05-01T19:30:00/FH - Fram
+DESCRIPTION:FH - Fram - Úrslit | Olís karla
 END:VEVENT
 END:VCALENDAR

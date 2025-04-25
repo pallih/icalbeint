@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Rhein-Neckar Löwen - DHfK Leipzig - Bundesliga - viaplay
-DTSTART:20250424T165500
-DTEND:20250424T175500
-DTSTAMP:20250424T165500Z
-UID:2025-04-24T16:55:00/Rhein-Neckar Löwen - DHfK Leipzig
-DESCRIPTION:Rhein-Neckar Löwen - DHfK Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stuttgart - Heidenheim - Bundesliga - viaplay
 DTSTART:20250425T182000
 DTEND:20250425T192000
@@ -18,12 +10,12 @@ UID:2025-04-25T18:20:00/Stuttgart - Heidenheim
 DESCRIPTION:Stuttgart - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Freiburg - Bundesliga - viaplay
+SUMMARY:Leverkusen - Augsburg - Bundesliga - viaplay
 DTSTART:20250426T132000
 DTEND:20250426T142000
 DTSTAMP:20250426T132000Z
-UID:2025-04-26T13:20:00/Wolfsburg - Freiburg
-DESCRIPTION:Wolfsburg - Freiburg - Bundesliga
+UID:2025-04-26T13:20:00/Leverkusen - Augsburg
+DESCRIPTION:Leverkusen - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -42,20 +34,12 @@ UID:2025-04-26T13:20:00/Holstein Kiel - Borussia M'gladbach
 DESCRIPTION:Holstein Kiel - Borussia M'gladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Augsburg - Bundesliga - viaplay
+SUMMARY:Wolfsburg - Freiburg - Bundesliga - viaplay
 DTSTART:20250426T132000
 DTEND:20250426T142000
 DTSTAMP:20250426T132000Z
-UID:2025-04-26T13:20:00/Leverkusen - Augsburg
-DESCRIPTION:Leverkusen - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Mainz - Bundesliga - viaplay
-DTSTART:20250426T132000
-DTEND:20250426T142000
-DTSTAMP:20250426T132000Z
-UID:2025-04-26T13:20:00/Bayern München - Mainz
-DESCRIPTION:Bayern München - Mainz - Bundesliga
+UID:2025-04-26T13:20:00/Wolfsburg - Freiburg
+DESCRIPTION:Wolfsburg - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Dortmund - Bundesliga - viaplay
@@ -64,6 +48,14 @@ DTEND:20250426T142000
 DTSTAMP:20250426T132000Z
 UID:2025-04-26T13:20:00/Hoffenheim - Dortmund
 DESCRIPTION:Hoffenheim - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Mainz - Bundesliga - viaplay
+DTSTART:20250426T132000
+DTEND:20250426T142000
+DTSTAMP:20250426T132000Z
+UID:2025-04-26T13:20:00/Bayern München - Mainz
+DESCRIPTION:Bayern München - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Mainz 05 - Bundesliga - stod2vodasport
@@ -112,5 +104,13 @@ DTEND:20250427T162000
 DTSTAMP:20250427T152000Z
 UID:2025-04-27T15:20:00/Werder Bremen - St. Pauli
 DESCRIPTION:Werder Bremen - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DHfK Leipzig - Wetzlar - Bundesliga - viaplay
+DTSTART:20250501T165500
+DTEND:20250501T175500
+DTSTAMP:20250501T165500Z
+UID:2025-05-01T16:55:00/DHfK Leipzig - Wetzlar
+DESCRIPTION:DHfK Leipzig - Wetzlar - Bundesliga
 END:VEVENT
 END:VCALENDAR
