@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Turbine Potsdam - Leverkusen - Frauen-Bundesliga - viaplay
-DTSTART:20250425T162500
-DTEND:20250425T172500
-DTSTAMP:20250425T162500Z
-UID:2025-04-25T16:25:00/Turbine Potsdam - Leverkusen
-DESCRIPTION:Turbine Potsdam - Leverkusen - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leipzig - Essen - Frauen-Bundesliga - viaplay
 DTSTART:20250426T095500
 DTEND:20250426T105500
@@ -32,5 +24,13 @@ DTEND:20250428T165500
 DTSTAMP:20250428T155500Z
 UID:2025-04-28T15:55:00/Wolfsburg - Hoffenheim
 DESCRIPTION:Wolfsburg - Hoffenheim - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essen - Freiburg - Frauen-Bundesliga - viaplay
+DTSTART:20250502T162500
+DTEND:20250502T172500
+DTSTAMP:20250502T162500Z
+UID:2025-05-02T16:25:00/Essen - Freiburg
+DESCRIPTION:Essen - Freiburg - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR
