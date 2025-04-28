@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Bayern München - Freiburg - Frauen-Bundesliga - viaplay
-DTSTART:20250427T115500
-DTEND:20250427T125500
-DTSTAMP:20250427T115500Z
-UID:2025-04-27T11:55:00/Bayern München - Freiburg
-DESCRIPTION:Bayern München - Freiburg - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolfsburg - Hoffenheim - Frauen-Bundesliga - viaplay
 DTSTART:20250428T155500
 DTEND:20250428T165500
@@ -32,5 +24,13 @@ DTEND:20250503T125500
 DTSTAMP:20250503T115500Z
 UID:2025-05-03T11:55:00/Turbine Potsdam - Wolfsburg
 DESCRIPTION:Turbine Potsdam - Wolfsburg - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Hoffenheim - Frauen-Bundesliga - viaplay
+DTSTART:20250504T125500
+DTEND:20250504T135500
+DTSTAMP:20250504T125500Z
+UID:2025-05-04T12:55:00/Frankfurt - Hoffenheim
+DESCRIPTION:Frankfurt - Hoffenheim - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR
