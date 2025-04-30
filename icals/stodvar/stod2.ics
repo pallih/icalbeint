@@ -2,79 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Víkingur R. - Þróttur R. - Besta deild kvenna - stod2sport5
-DTSTART:20250429T175000
-DTEND:20250429T185000
-DTSTAMP:20250429T175000Z
-UID:2025-04-29T17:50:00/Víkingur R. - Þróttur R.
-DESCRIPTION:Víkingur R. - Þróttur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - Fram - Besta deild kvenna - stod2besta01
-DTSTART:20250429T175000
-DTEND:20250429T185000
-DTSTAMP:20250429T175000Z
-UID:2025-04-29T17:50:00/Breiðablik - Fram
-DESCRIPTION:Breiðablik - Fram - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - stod2vodaspor
- t
-DTSTART:20250429T183000
-DTEND:20250429T193000
-DTSTAMP:20250429T183000Z
-UID:2025-04-29T18:30:00/Meistaradeildin - upphitun
-DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tindastóll - Álftanes - Bónus deild karla - stod2sport
-DTSTART:20250429T184500
-DTEND:20250429T194500
-DTSTAMP:20250429T184500Z
-UID:2025-04-29T18:45:00/Tindastóll - Álftanes
-DESCRIPTION:Tindastóll - Álftanes - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - PSG - Meistaradeild Evrópu - stod2vodasport
-DTSTART:20250429T185000
-DTEND:20250429T195000
-DTSTAMP:20250429T185000Z
-UID:2025-04-29T18:50:00/Arsenal - PSG
-DESCRIPTION:Arsenal - PSG - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
-DTSTART:20250429T210000
-DTEND:20250429T220000
-DTSTAMP:20250429T210000Z
-UID:2025-04-29T21:00:00/Bónus Körfuboltakvöld
-DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
-DTSTART:20250429T210000
-DTEND:20250429T220000
-DTSTAMP:20250429T210000Z
-UID:2025-04-29T21:00:00/Meistaradeildarmörkin
-DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport5
-DTSTART:20250429T213000
-DTEND:20250429T223000
-DTSTAMP:20250429T213000Z
-UID:2025-04-29T21:30:00/Bestu mörkin
-DESCRIPTION:Bestu mörkin - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orioles - Yankees - MLB - stod2vodasport
-DTSTART:20250429T223000
-DTEND:20250429T233000
-DTSTAMP:20250429T223000Z
-UID:2025-04-29T22:30:00/Orioles - Yankees
-DESCRIPTION:Orioles - Yankees - MLB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - stod2sport2
 DTSTART:20250430T183000
 DTEND:20250430T193000
@@ -115,6 +42,15 @@ UID:2025-04-30T23:00:00/Mets - Diamondbacks
 DESCRIPTION:Mets - Diamondbacks - MLB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bayern München - Werder Bremen - Þýska bikarkeppni kvenna - sto
+ d2vodasport
+DTSTART:20250501T135500
+DTEND:20250501T145500
+DTSTAMP:20250501T135500Z
+UID:2025-05-01T13:55:00/Bayern München - Werder Bremen
+DESCRIPTION:Bayern München - Werder Bremen - Þýska bikarkeppni kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Haukar - Njarðvík - Bónus deild kvenna - stod2sport
 DTSTART:20250501T183000
 DTEND:20250501T193000
@@ -123,12 +59,12 @@ UID:2025-05-01T18:30:00/Haukar - Njarðvík
 DESCRIPTION:Haukar - Njarðvík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Athletic Club - Man. Utd. - Evrópudeildin - stod2sport2
+SUMMARY:Tottenham - Bödo Glimt - Evrópudeildin - stod2vodasport
 DTSTART:20250501T185000
 DTEND:20250501T195000
 DTSTAMP:20250501T185000Z
-UID:2025-05-01T18:50:00/Athletic Club - Man. Utd.
-DESCRIPTION:Athletic Club - Man. Utd. - Evrópudeildin
+UID:2025-05-01T18:50:00/Tottenham - Bödo Glimt
+DESCRIPTION:Tottenham - Bödo Glimt - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Djurgården - Chelsea - Sambandsdeildin - stod2sport3
@@ -137,6 +73,14 @@ DTEND:20250501T195000
 DTSTAMP:20250501T185000Z
 UID:2025-05-01T18:50:00/Djurgården - Chelsea
 DESCRIPTION:Djurgården - Chelsea - Sambandsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Club - Man. Utd. - Evrópudeildin - stod2sport2
+DTSTART:20250501T185000
+DTEND:20250501T195000
+DTSTAMP:20250501T185000Z
+UID:2025-05-01T18:50:00/Athletic Club - Man. Utd.
+DESCRIPTION:Athletic Club - Man. Utd. - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna - stod2sport
@@ -155,12 +99,52 @@ UID:2025-05-01T22:00:00/Black Desert Championship
 DESCRIPTION:Black Desert Championship - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Devils - Hurricanes - NHL - stod2vodasport
+DTSTART:20250501T220500
+DTEND:20250501T230500
+DTSTAMP:20250501T220500Z
+UID:2025-05-01T22:05:00/Devils - Hurricanes
+DESCRIPTION:Devils - Hurricanes - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pistons - Knicks - NBA - stod2sport2
+DTSTART:20250501T233000
+DTEND:20250502T003000
+DTSTAMP:20250501T233000Z
+UID:2025-05-01T23:30:00/Pistons - Knicks
+DESCRIPTION:Pistons - Knicks - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Miami - Æfing 1 - Formúla 1 - stod2vodasport
+DTSTART:20250502T162500
+DTEND:20250502T172500
+DTSTAMP:20250502T162500Z
+UID:2025-05-02T16:25:00/F1: Miami - Æfing 1
+DESCRIPTION:F1: Miami - Æfing 1 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Qadsiah - Al Kholood - Saudi Pro League - stod2vodasport
+DTSTART:20250502T175500
+DTEND:20250502T185500
+DTSTAMP:20250502T175500Z
+UID:2025-05-02T17:55:00/Al Qadsiah - Al Kholood
+DESCRIPTION:Al Qadsiah - Al Kholood - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grindavík - Stjarnan - Bónus deild karla - stod2sport
 DTSTART:20250502T184500
 DTEND:20250502T194500
 DTSTAMP:20250502T184500Z
 UID:2025-05-02T18:45:00/Grindavík - Stjarnan
 DESCRIPTION:Grindavík - Stjarnan - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Miami - Sprint tímataka - Formúla 1 - stod2vodasport
+DTSTART:20250502T202500
+DTEND:20250502T212500
+DTSTAMP:20250502T202500Z
+UID:2025-05-02T20:25:00/F1: Miami - Sprint tímataka
+DESCRIPTION:F1: Miami - Sprint tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
@@ -179,12 +163,28 @@ UID:2025-05-02T22:00:00/Black Desert Championship
 DESCRIPTION:Black Desert Championship - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport
-DTSTART:20250503T135000
-DTEND:20250503T145000
-DTSTAMP:20250503T135000Z
-UID:2025-05-03T13:50:00/Breiðablik - Víkingur R.
-DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
+SUMMARY:SpeedyCash.com 250 - Keppni - Nascar Truck Series - stod2vodasport
+DTSTART:20250502T235500
+DTEND:20250503T005500
+DTSTAMP:20250502T235500Z
+UID:2025-05-02T23:55:00/SpeedyCash.com 250 - Keppni
+DESCRIPTION:SpeedyCash.com 250 - Keppni - Nascar Truck Series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braunschweig - Düsserldorf - 2. Bundesliga - stod2vodasport
+DTSTART:20250503T105500
+DTEND:20250503T115500
+DTSTAMP:20250503T105500Z
+UID:2025-05-03T10:55:00/Braunschweig - Düsserldorf
+DESCRIPTION:Braunschweig - Düsserldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB Leipzig - Bayern München - Bundesliga - stod2vodasport
+DTSTART:20250503T132000
+DTEND:20250503T142000
+DTSTAMP:20250503T132000Z
+UID:2025-05-03T13:20:00/RB Leipzig - Bayern München
+DESCRIPTION:RB Leipzig - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fram - FHL - Besta deild kvenna - stod2besta01
@@ -195,12 +195,28 @@ UID:2025-05-03T13:50:00/Fram - FHL
 DESCRIPTION:Fram - FHL - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - stod2sport
+DTSTART:20250503T135000
+DTEND:20250503T145000
+DTSTAMP:20250503T135000Z
+UID:2025-05-03T13:50:00/Breiðablik - Víkingur R.
+DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Þór/KA - FH - Besta deild kvenna - stod2besta02
 DTSTART:20250503T142000
 DTEND:20250503T152000
 DTSTAMP:20250503T142000Z
 UID:2025-05-03T14:20:00/Þór/KA - FH
 DESCRIPTION:Þór/KA - FH - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Miami - Sprint keppni - Formúla 1 - stod2vodasport
+DTSTART:20250503T155500
+DTEND:20250503T165500
+DTSTAMP:20250503T155500Z
+UID:2025-05-03T15:55:00/F1: Miami - Sprint keppni
+DESCRIPTION:F1: Miami - Sprint keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Valur - Besta deild kvenna - stod2sport5
@@ -235,6 +251,14 @@ UID:2025-05-03T19:30:00/NBA - Playoff Games
 DESCRIPTION:NBA - Playoff Games - NBA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:F1: Miami - tímataka - Formúla 1 - stod2vodasport
+DTSTART:20250503T194500
+DTEND:20250503T204500
+DTSTAMP:20250503T194500Z
+UID:2025-05-03T19:45:00/F1: Miami - tímataka
+DESCRIPTION:F1: Miami - tímataka - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - stod2sport5
 DTSTART:20250503T200000
 DTEND:20250503T210000
@@ -259,12 +283,44 @@ UID:2025-05-03T22:00:00/Black Desert Championship
 DESCRIPTION:Black Desert Championship - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Capitals - Canadiens - NHL - stod2vodasport
+DTSTART:20250503T220500
+DTEND:20250503T230500
+DTSTAMP:20250503T220500Z
+UID:2025-05-03T22:05:00/Capitals - Canadiens
+DESCRIPTION:Capitals - Canadiens - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hertha BSC - Greuther Fürth - 2. Bundesliga - stod2vodasport
+DTSTART:20250504T112500
+DTEND:20250504T122500
+DTSTAMP:20250504T112500Z
+UID:2025-05-04T11:25:00/Hertha BSC - Greuther Fürth
+DESCRIPTION:Hertha BSC - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Holstein Kiel - Bundesliga - stod2vodasport
+DTSTART:20250504T132500
+DTEND:20250504T142500
+DTSTAMP:20250504T132500Z
+UID:2025-05-04T13:25:00/Augsburg - Holstein Kiel
+DESCRIPTION:Augsburg - Holstein Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍBV - Vestri - Besta deild karla - stod2besta01
 DTSTART:20250504T135000
 DTEND:20250504T145000
 DTSTAMP:20250504T135000Z
 UID:2025-05-04T13:50:00/ÍBV - Vestri
 DESCRIPTION:ÍBV - Vestri - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Bayer Leverkusen - Bundesliga - stod2vodasport
+DTSTART:20250504T152500
+DTEND:20250504T162500
+DTSTAMP:20250504T152500Z
+UID:2025-05-04T15:25:00/Freiburg - Bayer Leverkusen
+DESCRIPTION:Freiburg - Bayer Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍA - KA - Besta deild karla - stod2sport5
@@ -289,6 +345,14 @@ DTEND:20250504T200000
 DTSTAMP:20250504T190000Z
 UID:2025-05-04T19:00:00/FH - Valur
 DESCRIPTION:FH - Valur - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Miami - Keppni - Formúla 1 - stod2vodasport
+DTSTART:20250504T193000
+DTEND:20250504T203000
+DTSTAMP:20250504T193000Z
+UID:2025-05-04T19:30:00/F1: Miami - Keppni
+DESCRIPTION:F1: Miami - Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NBA - Playoff Games - NBA - stod2sport2
@@ -321,6 +385,22 @@ DTEND:20250504T230000
 DTSTAMP:20250504T220000Z
 UID:2025-05-04T22:00:00/Black Desert Championship
 DESCRIPTION:Black Desert Championship - LPGA Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braves - Dodgers - MLB - stod2vodasport
+DTSTART:20250504T230000
+DTEND:20250505T000000
+DTSTAMP:20250504T230000Z
+UID:2025-05-04T23:00:00/Braves - Dodgers
+DESCRIPTION:Braves - Dodgers - MLB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Djurgarden - Norrköping - Sænska úrvalsdeildin - stod2vodasport
+DTSTART:20250505T165000
+DTEND:20250505T175000
+DTSTAMP:20250505T165000Z
+UID:2025-05-05T16:50:00/Djurgarden - Norrköping
+DESCRIPTION:Djurgarden - Norrköping - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breiðablik - KR - Besta deild karla - stod2sport5
@@ -377,5 +457,46 @@ DTEND:20250505T222500
 DTSTAMP:20250505T212500Z
 UID:2025-05-05T21:25:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nationals - Guardians - MLB - stod2vodasport
+DTSTART:20250505T223000
+DTEND:20250505T233000
+DTSTAMP:20250505T223000Z
+UID:2025-05-05T22:30:00/Nationals - Guardians
+DESCRIPTION:Nationals - Guardians - MLB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - stod2vodaspor
+ t
+DTSTART:20250506T183000
+DTEND:20250506T193000
+DTSTAMP:20250506T183000Z
+UID:2025-05-06T18:30:00/Meistaradeildin - upphitun
+DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter - Barcelona - Meistaradeild Evrópu - stod2vodasport
+DTSTART:20250506T185000
+DTEND:20250506T195000
+DTSTAMP:20250506T185000Z
+UID:2025-05-06T18:50:00/Inter - Barcelona
+DESCRIPTION:Inter - Barcelona - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - stod2sport2
+DTSTART:20250506T210000
+DTEND:20250506T220000
+DTSTAMP:20250506T210000Z
+UID:2025-05-06T21:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Sox - Rangers - MLB - stod2vodasport
+DTSTART:20250506T223000
+DTEND:20250506T233000
+DTSTAMP:20250506T223000Z
+UID:2025-05-06T22:30:00/Red Sox - Rangers
+DESCRIPTION:Red Sox - Rangers - MLB
 END:VEVENT
 END:VCALENDAR

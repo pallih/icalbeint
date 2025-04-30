@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Haukar - Fram - Úrslit | Olís kvenna - hsi1
-DTSTART:20250429T180000
-DTEND:20250429T190000
-DTSTAMP:20250429T180000Z
-UID:2025-04-29T18:00:00/Haukar - Fram
-DESCRIPTION:Haukar - Fram - Úrslit | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - Afturelding - Umspil | Olís kvenna - hsi1
-DTSTART:20250429T193000
-DTEND:20250429T203000
-DTSTAMP:20250429T193000Z
-UID:2025-04-29T19:30:00/Stjarnan - Afturelding
-DESCRIPTION:Stjarnan - Afturelding - Umspil | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Valur - Úrslit | Olís kvenna - hsi1
-DTSTART:20250429T193000
-DTEND:20250429T203000
-DTSTAMP:20250429T193000Z
-UID:2025-04-29T19:30:00/ÍR - Valur
-DESCRIPTION:ÍR - Valur - Úrslit | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Brentford - Enska úrvalsdeildin - siminnsport
 DTSTART:20250501T180000
 DTEND:20250501T190000
 DTSTAMP:20250501T180000Z
 UID:2025-05-01T18:00:00/Nottingham Forest - Brentford
 DESCRIPTION:Nottingham Forest - Brentford - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - Stjarnan - Umspil | Olís kvenna - hsi1
+DTSTART:20250502T174500
+DTEND:20250502T184500
+DTSTAMP:20250502T174500Z
+UID:2025-05-02T17:45:00/Afturelding - Stjarnan
+DESCRIPTION:Afturelding - Stjarnan - Umspil | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - ÍR - Úrslit | Olís kvenna - hsi1
@@ -50,14 +34,6 @@ UID:2025-05-02T18:30:00/Man. City - Wolves
 DESCRIPTION:Man. City - Wolves - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leikur í Olís deildinni - Olís deild karla - sjonvarpsimans
-DTSTART:20250502T191500
-DTEND:20250502T201500
-DTSTAMP:20250502T191500Z
-UID:2025-05-02T19:15:00/Leikur í Olís deildinni
-DESCRIPTION:Leikur í Olís deildinni - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - Haukar - Úrslit | Olís kvenna - hsi1
 DTSTART:20250502T193000
 DTEND:20250502T203000
@@ -66,12 +42,12 @@ UID:2025-05-02T19:30:00/Fram - Haukar
 DESCRIPTION:Fram - Haukar - Úrslit | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afturelding - Stjarnan - Umspil | Olís kvenna - hsi1
-DTSTART:20250502T193000
-DTEND:20250502T203000
-DTSTAMP:20250502T193000Z
-UID:2025-05-02T19:30:00/Afturelding - Stjarnan
-DESCRIPTION:Afturelding - Stjarnan - Umspil | Olís kvenna
+SUMMARY:Valur - Afturelding - Olís deild karla - sjonvarpsimans
+DTSTART:20250502T200000
+DTEND:20250502T210000
+DTSTAMP:20250502T200000Z
+UID:2025-05-02T20:00:00/Valur - Afturelding
+DESCRIPTION:Valur - Afturelding - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Afturelding - Úrslit | Olís karla - hsi1
@@ -195,12 +171,12 @@ UID:2025-05-05T18:30:00/Crystal Palace - Nottingham Forest
 DESCRIPTION:Crystal Palace - Nottingham Forest - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Afturelding - Umspil | Olís kvenna - hsi1
-DTSTART:20250505T193000
-DTEND:20250505T203000
-DTSTAMP:20250505T193000Z
-UID:2025-05-05T19:30:00/Stjarnan - Afturelding
-DESCRIPTION:Stjarnan - Afturelding - Umspil | Olís kvenna
+SUMMARY:BEINT - Olís deild kvenna - sjonvarpsimans
+DTSTART:20250505T191500
+DTEND:20250505T201500
+DTSTAMP:20250505T191500Z
+UID:2025-05-05T19:15:00/BEINT
+DESCRIPTION:BEINT - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Valur - Úrslit | Olís kvenna - hsi1
@@ -209,5 +185,13 @@ DTEND:20250505T203000
 DTSTAMP:20250505T193000Z
 UID:2025-05-05T19:30:00/ÍR - Valur
 DESCRIPTION:ÍR - Valur - Úrslit | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Afturelding - Umspil | Olís kvenna - hsi1
+DTSTART:20250505T193000
+DTEND:20250505T203000
+DTSTAMP:20250505T193000Z
+UID:2025-05-05T19:30:00/Stjarnan - Afturelding
+DESCRIPTION:Stjarnan - Afturelding - Umspil | Olís kvenna
 END:VEVENT
 END:VCALENDAR
