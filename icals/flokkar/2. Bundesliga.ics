@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Schalke - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20250502T162500
-DTEND:20250502T172500
-DTSTAMP:20250502T162500Z
-UID:2025-05-02T16:25:00/Schalke - Paderborn
-DESCRIPTION:Schalke - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20250502T162500
 DTEND:20250502T172500
@@ -18,12 +10,12 @@ UID:2025-05-02T16:25:00/Magdeburg - Preußen Münster
 DESCRIPTION:Magdeburg - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - HSV - 2. Bundesliga - viaplay
-DTSTART:20250503T105500
-DTEND:20250503T115500
-DTSTAMP:20250503T105500Z
-UID:2025-05-03T10:55:00/Darmstadt - HSV
-DESCRIPTION:Darmstadt - HSV - 2. Bundesliga
+SUMMARY:Schalke - Paderborn - 2. Bundesliga - viaplay
+DTSTART:20250502T162500
+DTEND:20250502T172500
+DTSTAMP:20250502T162500Z
+UID:2025-05-02T16:25:00/Schalke - Paderborn
+DESCRIPTION:Schalke - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braunschweig - Düsserldorf - 2. Bundesliga - stod2vodasport
@@ -40,6 +32,14 @@ DTEND:20250503T115500
 DTSTAMP:20250503T105500Z
 UID:2025-05-03T10:55:00/Braunschweig - Düsseldorf
 DESCRIPTION:Braunschweig - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - HSV - 2. Bundesliga - viaplay
+DTSTART:20250503T105500
+DTEND:20250503T115500
+DTSTAMP:20250503T105500Z
+UID:2025-05-03T10:55:00/Darmstadt - HSV
+DESCRIPTION:Darmstadt - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulm - Hannover - 2. Bundesliga - viaplay
@@ -74,19 +74,19 @@ UID:2025-05-04T11:25:00/Hertha Berlin - Greuther Fürth
 DESCRIPTION:Hertha Berlin - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20250504T112500
-DTEND:20250504T122500
-DTSTAMP:20250504T112500Z
-UID:2025-05-04T11:25:00/Karlsruher - Kaiserslautern
-DESCRIPTION:Karlsruher - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürnberg - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20250504T112500
 DTEND:20250504T122500
 DTSTAMP:20250504T112500Z
 UID:2025-05-04T11:25:00/Nürnberg - Elversberg
 DESCRIPTION:Nürnberg - Elversberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20250504T112500
+DTEND:20250504T122500
+DTSTAMP:20250504T112500Z
+UID:2025-05-04T11:25:00/Karlsruher - Kaiserslautern
+DESCRIPTION:Karlsruher - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
