@@ -2,78 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Winnipeg - St. Louis - NHL - viaplay
-DTSTART:20250501T013500
-DTEND:20250501T023500
-DTSTAMP:20250501T013500Z
-UID:2025-05-01T01:35:00/Winnipeg - St. Louis
-DESCRIPTION:Winnipeg - St. Louis - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250501T110000
-DTEND:20250501T120000
-DTSTAMP:20250501T110000Z
-UID:2025-05-01T11:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Werder Bremen - DFB-Pokal Frauen - viaplay
-DTSTART:20250501T135500
-DTEND:20250501T145500
-DTSTAMP:20250501T135500Z
-UID:2025-05-01T13:55:00/Bayern München - Werder Bremen
-DESCRIPTION:Bayern München - Werder Bremen - DFB-Pokal Frauen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DHfK Leipzig - Wetzlar - Bundesliga - viaplay
-DTSTART:20250501T165500
-DTEND:20250501T175500
-DTSTAMP:20250501T165500Z
-UID:2025-05-01T16:55:00/DHfK Leipzig - Wetzlar
-DESCRIPTION:DHfK Leipzig - Wetzlar - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Birmingham - PDC Darts - viaplay
-DTSTART:20250501T180000
-DTEND:20250501T190000
-DTSTAMP:20250501T180000Z
-UID:2025-05-01T18:00:00/Birmingham
-DESCRIPTION:Birmingham - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Betis - Fiorentina - UEFA Europa Conference League - viaplay
-DTSTART:20250501T185000
-DTEND:20250501T195000
-DTSTAMP:20250501T185000Z
-UID:2025-05-01T18:50:00/Real Betis - Fiorentina
-DESCRIPTION:Real Betis - Fiorentina - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tottenham - Bodø/Glimt - UEFA Europa League - viaplay
-DTSTART:20250501T185000
-DTEND:20250501T195000
-DTSTAMP:20250501T185000Z
-UID:2025-05-01T18:50:00/Tottenham - Bodø/Glimt
-DESCRIPTION:Tottenham - Bodø/Glimt - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ottawa - Toronto - NHL - viaplay
-DTSTART:20250501T230500
-DTEND:20250502T000500
-DTSTAMP:20250501T230500Z
-UID:2025-05-01T23:05:00/Ottawa - Toronto
-DESCRIPTION:Ottawa - Toronto - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minnesota - Vegas - NHL - viaplay
-DTSTART:20250501T233500
-DTEND:20250502T003500
-DTSTAMP:20250501T233500Z
-UID:2025-05-01T23:35:00/Minnesota - Vegas
-DESCRIPTION:Minnesota - Vegas - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colorado - Dallas - NHL - viaplay
 DTSTART:20250502T013500
 DTEND:20250502T023500
@@ -90,20 +18,20 @@ UID:2025-05-02T02:05:00/Edmonton - Los Angeles
 DESCRIPTION:Edmonton - Los Angeles - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250502T110000
-DTEND:20250502T120000
-DTSTAMP:20250502T110000Z
-UID:2025-05-02T11:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:European Darts Grand Prix - PDC Darts - viaplay
 DTSTART:20250502T110000
 DTEND:20250502T120000
 DTSTAMP:20250502T110000Z
 UID:2025-05-02T11:00:00/European Darts Grand Prix
 DESCRIPTION:European Darts Grand Prix - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20250502T110000
+DTEND:20250502T120000
+DTSTAMP:20250502T110000Z
+UID:2025-05-02T11:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miami (Æfing 1) - F1 Academy - viaplay
@@ -130,14 +58,6 @@ UID:2025-05-02T16:25:00/Magdeburg - Preußen Münster
 DESCRIPTION:Magdeburg - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schalke - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20250502T162500
-DTEND:20250502T172500
-DTSTAMP:20250502T162500Z
-UID:2025-05-02T16:25:00/Schalke - Paderborn
-DESCRIPTION:Schalke - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Miami Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20250502T162500
 DTEND:20250502T172500
@@ -154,12 +74,20 @@ UID:2025-05-02T16:25:00/Essen - Freiburg
 DESCRIPTION:Essen - Freiburg - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Miami Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Schalke - Paderborn - 2. Bundesliga - viaplay
+DTSTART:20250502T162500
+DTEND:20250502T172500
+DTSTAMP:20250502T162500Z
+UID:2025-05-02T16:25:00/Schalke - Paderborn
+DESCRIPTION:Schalke - Paderborn - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 1 | Miami Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250502T163000
 DTEND:20250502T173000
 DTSTAMP:20250502T163000Z
-UID:2025-05-02T16:30:00/Onboard (Æfing 1 | Miami Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Miami Kappaksturinn) - Formula 1
+UID:2025-05-02T16:30:00/Pitlane (Æfing 1 | Miami Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Miami Kappaksturinn) - Formula 1 - v
@@ -171,20 +99,20 @@ UID:2025-05-02T16:30:00/Track Positioning (Æfing 1 | Miami Kappaksturinn)
 DESCRIPTION:Track Positioning (Æfing 1 | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Miami Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250502T163000
+DTEND:20250502T173000
+DTSTAMP:20250502T163000Z
+UID:2025-05-02T16:30:00/Onboard (Æfing 1 | Miami Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Miami Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Miami Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250502T163000
 DTEND:20250502T173000
 DTSTAMP:20250502T163000Z
 UID:2025-05-02T16:30:00/Timing (Æfing 1 | Miami Kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Miami Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Miami Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250502T163000
-DTEND:20250502T173000
-DTSTAMP:20250502T163000Z
-UID:2025-05-02T16:30:00/Pitlane (Æfing 1 | Miami Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Darts Grand Prix - PDC Darts - viaplay
@@ -225,6 +153,14 @@ DTEND:20250502T193000
 DTSTAMP:20250502T183000Z
 UID:2025-05-02T18:30:00/Grand Prix of Alabama (Æfing)
 DESCRIPTION:Grand Prix of Alabama (Æfing) - Indy NXT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falkirk - Hamilton - Scottish Championship - viaplay
+DTSTART:20250502T184000
+DTEND:20250502T194000
+DTSTAMP:20250502T184000Z
+UID:2025-05-02T18:40:00/Falkirk - Hamilton
+DESCRIPTION:Falkirk - Hamilton - Scottish Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miami (Æfing 2) - F1 Academy - viaplay
@@ -322,6 +258,14 @@ UID:2025-05-03T10:45:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ulm - Hannover - 2. Bundesliga - viaplay
+DTSTART:20250503T105500
+DTEND:20250503T115500
+DTSTAMP:20250503T105500Z
+UID:2025-05-03T10:55:00/Ulm - Hannover
+DESCRIPTION:Ulm - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Braunschweig - Düsseldorf - 2. Bundesliga - viaplay
 DTSTART:20250503T105500
 DTEND:20250503T115500
@@ -338,14 +282,6 @@ UID:2025-05-03T10:55:00/Darmstadt - HSV
 DESCRIPTION:Darmstadt - HSV - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ulm - Hannover - 2. Bundesliga - viaplay
-DTSTART:20250503T105500
-DTEND:20250503T115500
-DTSTAMP:20250503T105500Z
-UID:2025-05-03T10:55:00/Ulm - Hannover
-DESCRIPTION:Ulm - Hannover - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:European Darts Grand Prix - PDC Darts - viaplay
 DTSTART:20250503T110000
 DTEND:20250503T120000
@@ -354,20 +290,20 @@ UID:2025-05-03T11:00:00/European Darts Grand Prix
 DESCRIPTION:European Darts Grand Prix - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Brom - Luton - Championship - viaplay
-DTSTART:20250503T112500
-DTEND:20250503T122500
-DTSTAMP:20250503T112500Z
-UID:2025-05-03T11:25:00/West Brom - Luton
-DESCRIPTION:West Brom - Luton - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coventry - Middlesbrough - Championship - viaplay
 DTSTART:20250503T112500
 DTEND:20250503T122500
 DTSTAMP:20250503T112500Z
 UID:2025-05-03T11:25:00/Coventry - Middlesbrough
 DESCRIPTION:Coventry - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Brom - Luton - Championship - viaplay
+DTSTART:20250503T112500
+DTEND:20250503T122500
+DTSTAMP:20250503T112500Z
+UID:2025-05-03T11:25:00/West Brom - Luton
+DESCRIPTION:West Brom - Luton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linköping - Malmö FF - OBOS Damallsvenskan - viaplay
@@ -402,20 +338,12 @@ UID:2025-05-03T12:50:00/Vittsjö - AIK
 DESCRIPTION:Vittsjö - AIK - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Bayern München (Tactical Feed) - Bundesliga - viaplay
+SUMMARY:Mönchengladbach - Hoffenheim - Bundesliga - viaplay
 DTSTART:20250503T132000
 DTEND:20250503T142000
 DTSTAMP:20250503T132000Z
-UID:2025-05-03T13:20:00/Leipzig - Bayern München (Tactical Feed)
-DESCRIPTION:Leipzig - Bayern München (Tactical Feed) - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20250503T132000
-DTEND:20250503T142000
-DTSTAMP:20250503T132000Z
-UID:2025-05-03T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2025-05-03T13:20:00/Mönchengladbach - Hoffenheim
+DESCRIPTION:Mönchengladbach - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Stuttgart - Bundesliga - viaplay
@@ -426,22 +354,6 @@ UID:2025-05-03T13:20:00/St. Pauli - Stuttgart
 DESCRIPTION:St. Pauli - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Werder Bremen - Bundesliga - viaplay
-DTSTART:20250503T132000
-DTEND:20250503T142000
-DTSTAMP:20250503T132000Z
-UID:2025-05-03T13:20:00/Union Berlin - Werder Bremen
-DESCRIPTION:Union Berlin - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Hoffenheim - Bundesliga - viaplay
-DTSTART:20250503T132000
-DTEND:20250503T142000
-DTSTAMP:20250503T132000Z
-UID:2025-05-03T13:20:00/Mönchengladbach - Hoffenheim
-DESCRIPTION:Mönchengladbach - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leipzig - Bayern München - Bundesliga - viaplay
 DTSTART:20250503T132000
 DTEND:20250503T142000
@@ -450,12 +362,28 @@ UID:2025-05-03T13:20:00/Leipzig - Bayern München
 DESCRIPTION:Leipzig - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edinburgh Rugby - Bath Rugby - EPCR Challenge Cup - viaplay
-DTSTART:20250503T135500
-DTEND:20250503T145500
-DTSTAMP:20250503T135500Z
-UID:2025-05-03T13:55:00/Edinburgh Rugby - Bath Rugby
-DESCRIPTION:Edinburgh Rugby - Bath Rugby - EPCR Challenge Cup
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250503T132000
+DTEND:20250503T142000
+DTSTAMP:20250503T132000Z
+UID:2025-05-03T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Bayern München (Tactical Feed) - Bundesliga - viaplay
+DTSTART:20250503T132000
+DTEND:20250503T142000
+DTSTAMP:20250503T132000Z
+UID:2025-05-03T13:20:00/Leipzig - Bayern München (Tactical Feed)
+DESCRIPTION:Leipzig - Bayern München (Tactical Feed) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Werder Bremen - Bundesliga - viaplay
+DTSTART:20250503T132000
+DTEND:20250503T142000
+DTSTAMP:20250503T132000Z
+UID:2025-05-03T13:20:00/Union Berlin - Werder Bremen
+DESCRIPTION:Union Berlin - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Huddersfield - Leyton Orient - League One - viaplay
@@ -464,6 +392,14 @@ DTEND:20250503T145500
 DTSTAMP:20250503T135500Z
 UID:2025-05-03T13:55:00/Huddersfield - Leyton Orient
 DESCRIPTION:Huddersfield - Leyton Orient - League One
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edinburgh Rugby - Bath Rugby - EPCR Challenge Cup - viaplay
+DTSTART:20250503T135500
+DTEND:20250503T145500
+DTSTAMP:20250503T135500Z
+UID:2025-05-03T13:55:00/Edinburgh Rugby - Bath Rugby
+DESCRIPTION:Edinburgh Rugby - Bath Rugby - EPCR Challenge Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand Prix of Alabama (Æfing) - Indy NXT - viaplay
@@ -516,20 +452,15 @@ UID:2025-05-03T15:55:00/Miami Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Miami Kappaksturinn (Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Sprettkeppni | Miami Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Sprettkeppni | Miami Kappaksturinn) - Formula 1
+  - viaplay
 DTSTART:20250503T160000
 DTEND:20250503T170000
 DTSTAMP:20250503T160000Z
-UID:2025-05-03T16:00:00/Pitlane (Sprettkeppni | Miami Kappaksturinn)
-DESCRIPTION:Pitlane (Sprettkeppni | Miami Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Sprettkeppni | Miami Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250503T160000
-DTEND:20250503T170000
-DTSTAMP:20250503T160000Z
-UID:2025-05-03T16:00:00/Onboard (Sprettkeppni | Miami Kappaksturinn)
-DESCRIPTION:Onboard (Sprettkeppni | Miami Kappaksturinn) - Formula 1
+UID:2025-05-03T16:00:00/Track Positioning (Sprettkeppni | Miami Kappakstur
+ inn)
+DESCRIPTION:Track Positioning (Sprettkeppni | Miami Kappaksturinn) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Sprettkeppni | Miami Kappaksturinn) - Formula 1 - viaplay
@@ -540,15 +471,20 @@ UID:2025-05-03T16:00:00/Timing (Sprettkeppni | Miami Kappaksturinn)
 DESCRIPTION:Timing (Sprettkeppni | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Sprettkeppni | Miami Kappaksturinn) - Formula 1
-  - viaplay
+SUMMARY:Onboard (Sprettkeppni | Miami Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250503T160000
 DTEND:20250503T170000
 DTSTAMP:20250503T160000Z
-UID:2025-05-03T16:00:00/Track Positioning (Sprettkeppni | Miami Kappakstur
- inn)
-DESCRIPTION:Track Positioning (Sprettkeppni | Miami Kappaksturinn) - Formu
- la 1
+UID:2025-05-03T16:00:00/Onboard (Sprettkeppni | Miami Kappaksturinn)
+DESCRIPTION:Onboard (Sprettkeppni | Miami Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Sprettkeppni | Miami Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250503T160000
+DTEND:20250503T170000
+DTSTAMP:20250503T160000Z
+UID:2025-05-03T16:00:00/Pitlane (Sprettkeppni | Miami Kappaksturinn)
+DESCRIPTION:Pitlane (Sprettkeppni | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Wolfsburg - Bundesliga - viaplay
@@ -576,20 +512,20 @@ UID:2025-05-03T17:00:00/European Darts Grand Prix
 DESCRIPTION:European Darts Grand Prix - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Prix of Alabama (Tímatökur) - Indy NXT - viaplay
-DTSTART:20250503T173000
-DTEND:20250503T183000
-DTSTAMP:20250503T173000Z
-UID:2025-05-03T17:30:00/Grand Prix of Alabama (Tímatökur)
-DESCRIPTION:Grand Prix of Alabama (Tímatökur) - Indy NXT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Andy's Frozen Custard 300 (Xfinity Series) - Nascar - viaplay
 DTSTART:20250503T173000
 DTEND:20250503T183000
 DTSTAMP:20250503T173000Z
 UID:2025-05-03T17:30:00/Andy's Frozen Custard 300 (Xfinity Series)
 DESCRIPTION:Andy's Frozen Custard 300 (Xfinity Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Alabama (Tímatökur) - Indy NXT - viaplay
+DTSTART:20250503T173000
+DTEND:20250503T183000
+DTSTAMP:20250503T173000Z
+UID:2025-05-03T17:30:00/Grand Prix of Alabama (Tímatökur)
+DESCRIPTION:Grand Prix of Alabama (Tímatökur) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Jahn Regensburg - 2. Bundesliga - viaplay
@@ -626,12 +562,12 @@ UID:2025-05-03T19:45:00/Miami Kappaksturinn (Tímatökur)
 DESCRIPTION:Miami Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Miami Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing (Tímatökur | Miami Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250503T200000
 DTEND:20250503T210000
 DTSTAMP:20250503T200000Z
-UID:2025-05-03T20:00:00/Pitlane (Tímatökur | Miami Kappaksturinn)
-DESCRIPTION:Pitlane (Tímatökur | Miami Kappaksturinn) - Formula 1
+UID:2025-05-03T20:00:00/Timing (Tímatökur | Miami Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Miami Kappaksturinn) - Formula 1 - viaplay
@@ -642,12 +578,12 @@ UID:2025-05-03T20:00:00/Onboard (Tímatökur | Miami Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Miami Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Tímatökur | Miami Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250503T200000
 DTEND:20250503T210000
 DTSTAMP:20250503T200000Z
-UID:2025-05-03T20:00:00/Timing (Tímatökur | Miami Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Miami Kappaksturinn) - Formula 1
+UID:2025-05-03T20:00:00/Pitlane (Tímatökur | Miami Kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Miami Kappaksturinn) - Formula 1 
@@ -659,6 +595,14 @@ UID:2025-05-03T20:00:00/Track Positioning (Tímatökur | Miami Kappaksturi
  nn)
 DESCRIPTION:Track Positioning (Tímatökur | Miami Kappaksturinn) - Formul
  a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas - Colorado - NHL - viaplay
+DTSTART:20250504T000500
+DTEND:20250504T010500
+DTSTAMP:20250504T000500Z
+UID:2025-05-04T00:05:00/Dallas - Colorado
+DESCRIPTION:Dallas - Colorado - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sandhagen vs Figueiredo - UFC - viaplay
@@ -701,12 +645,12 @@ UID:2025-05-04T11:00:00/European Darts Grand Prix
 DESCRIPTION:European Darts Grand Prix - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Greuther Fürth - 2. Bundesliga - viaplay
+SUMMARY:Lyon Olympique - Racing 92 - EPCR Challenge Cup - viaplay
 DTSTART:20250504T112500
 DTEND:20250504T122500
 DTSTAMP:20250504T112500Z
-UID:2025-05-04T11:25:00/Hertha Berlin - Greuther Fürth
-DESCRIPTION:Hertha Berlin - Greuther Fürth - 2. Bundesliga
+UID:2025-05-04T11:25:00/Lyon Olympique - Racing 92
+DESCRIPTION:Lyon Olympique - Racing 92 - EPCR Challenge Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürnberg - Elversberg - 2. Bundesliga - viaplay
@@ -717,14 +661,6 @@ UID:2025-05-04T11:25:00/Nürnberg - Elversberg
 DESCRIPTION:Nürnberg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lyon Olympique - Racing 92 - EPCR Challenge Cup - viaplay
-DTSTART:20250504T112500
-DTEND:20250504T122500
-DTSTAMP:20250504T112500Z
-UID:2025-05-04T11:25:00/Lyon Olympique - Racing 92
-DESCRIPTION:Lyon Olympique - Racing 92 - EPCR Challenge Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Karlsruher - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20250504T112500
 DTEND:20250504T122500
@@ -733,12 +669,12 @@ UID:2025-05-04T11:25:00/Karlsruher - Kaiserslautern
 DESCRIPTION:Karlsruher - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alingsås - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20250504T125000
-DTEND:20250504T135000
-DTSTAMP:20250504T125000Z
-UID:2025-05-04T12:50:00/Alingsås - Rosengård
-DESCRIPTION:Alingsås - Rosengård - OBOS Damallsvenskan
+SUMMARY:Hertha Berlin - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20250504T112500
+DTEND:20250504T122500
+DTSTAMP:20250504T112500Z
+UID:2025-05-04T11:25:00/Hertha Berlin - Greuther Fürth
+DESCRIPTION:Hertha Berlin - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brommapojkarna - Piteå - OBOS Damallsvenskan - viaplay
@@ -747,6 +683,14 @@ DTEND:20250504T135000
 DTSTAMP:20250504T125000Z
 UID:2025-05-04T12:50:00/Brommapojkarna - Piteå
 DESCRIPTION:Brommapojkarna - Piteå - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alingsås - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20250504T125000
+DTEND:20250504T135000
+DTSTAMP:20250504T125000Z
+UID:2025-05-04T12:50:00/Alingsås - Rosengård
+DESCRIPTION:Alingsås - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Melsungen - Rhein-Neckar Löwen - Bundesliga - viaplay
@@ -849,14 +793,6 @@ UID:2025-05-04T17:25:00/Misano (Kappakstur 4)
 DESCRIPTION:Misano (Kappakstur 4) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UEL/UECL Magazine - UEFA Europa League - viaplay
-DTSTART:20250504T173000
-DTEND:20250504T183000
-DTSTAMP:20250504T173000Z
-UID:2025-05-04T17:30:00/UEL/UECL Magazine
-DESCRIPTION:UEL/UECL Magazine - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Children's of Alabama Indy Grand Prix (Kappakstur) - IndyCar - via
  play
 DTSTART:20250504T173000
@@ -864,6 +800,14 @@ DTEND:20250504T183000
 DTSTAMP:20250504T173000Z
 UID:2025-05-04T17:30:00/Children's of Alabama Indy Grand Prix (Kappakstur)
 DESCRIPTION:Children's of Alabama Indy Grand Prix (Kappakstur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEL/UECL Magazine - UEFA Europa League - viaplay
+DTSTART:20250504T173000
+DTEND:20250504T183000
+DTSTAMP:20250504T173000Z
+UID:2025-05-04T17:30:00/UEL/UECL Magazine
+DESCRIPTION:UEL/UECL Magazine - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Champions League weekly - Champions League - viaplay
@@ -888,6 +832,14 @@ DTEND:20250504T203000
 DTSTAMP:20250504T193000Z
 UID:2025-05-04T19:30:00/Miami Kappaksturinn (Kappakstur)
 DESCRIPTION:Miami Kappaksturinn (Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kappakstur | Miami Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250504T200000
+DTEND:20250504T210000
+DTSTAMP:20250504T200000Z
+UID:2025-05-04T20:00:00/Pitlane (Kappakstur | Miami Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Miami Kappaksturinn) - Formula 1 -
@@ -915,14 +867,6 @@ DTEND:20250504T210000
 DTSTAMP:20250504T200000Z
 UID:2025-05-04T20:00:00/Onboard (Kappakstur | Miami Kappaksturinn)
 DESCRIPTION:Onboard (Kappakstur | Miami Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Miami Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250504T200000
-DTEND:20250504T210000
-DTSTAMP:20250504T200000Z
-UID:2025-05-04T20:00:00/Pitlane (Kappakstur | Miami Kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Miami Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
@@ -1003,5 +947,37 @@ DTEND:20250507T185500
 DTSTAMP:20250507T175500Z
 UID:2025-05-07T17:55:00/Al Nassr - Al Ittihad
 DESCRIPTION:Al Nassr - Al Ittihad - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20250508T110000
+DTEND:20250508T120000
+DTSTAMP:20250508T110000Z
+UID:2025-05-08T11:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds - PDC Darts - viaplay
+DTSTART:20250508T180000
+DTEND:20250508T190000
+DTSTAMP:20250508T180000Z
+UID:2025-05-08T18:00:00/Leeds
+DESCRIPTION:Leeds - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man United - Athletic Club - UEFA Europa League - viaplay
+DTSTART:20250508T185000
+DTEND:20250508T195000
+DTSTAMP:20250508T185000Z
+UID:2025-05-08T18:50:00/Man United - Athletic Club
+DESCRIPTION:Man United - Athletic Club - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Djurgården - UEFA Europa Conference League - viaplay
+DTSTART:20250508T185500
+DTEND:20250508T195500
+DTSTAMP:20250508T185500Z
+UID:2025-05-08T18:55:00/Chelsea - Djurgården
+DESCRIPTION:Chelsea - Djurgården - UEFA Europa Conference League
 END:VEVENT
 END:VCALENDAR
