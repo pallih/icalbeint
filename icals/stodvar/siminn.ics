@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Afturelding - Stjarnan - Umspil | Olís kvenna - hsi1
-DTSTART:20250502T174500
-DTEND:20250502T184500
-DTSTAMP:20250502T174500Z
-UID:2025-05-02T17:45:00/Afturelding - Stjarnan
-DESCRIPTION:Afturelding - Stjarnan - Umspil | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - ÍR - Úrslit | Olís kvenna - hsi1
-DTSTART:20250502T180000
-DTEND:20250502T190000
-DTSTAMP:20250502T180000Z
-UID:2025-05-02T18:00:00/Valur - ÍR
-DESCRIPTION:Valur - ÍR - Úrslit | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. City - Wolves - Enska úrvalsdeildin - siminnsport
-DTSTART:20250502T183000
-DTEND:20250502T193000
-DTSTAMP:20250502T183000Z
-UID:2025-05-02T18:30:00/Man. City - Wolves
-DESCRIPTION:Man. City - Wolves - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fram - Haukar - Úrslit | Olís kvenna - hsi1
-DTSTART:20250502T193000
-DTEND:20250502T203000
-DTSTAMP:20250502T193000Z
-UID:2025-05-02T19:30:00/Fram - Haukar
-DESCRIPTION:Fram - Haukar - Úrslit | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Afturelding - Olís deild karla - sjonvarpsimans
-DTSTART:20250502T200000
-DTEND:20250502T210000
-DTSTAMP:20250502T200000Z
-UID:2025-05-02T20:00:00/Valur - Afturelding
-DESCRIPTION:Valur - Afturelding - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Afturelding - Úrslit | Olís karla - hsi1
-DTSTART:20250502T201500
-DTEND:20250502T211500
-DTSTAMP:20250502T201500Z
-UID:2025-05-02T20:15:00/Valur - Afturelding
-DESCRIPTION:Valur - Afturelding - Úrslit | Olís karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Fulham - Enska úrvalsdeildin - siminnsport
 DTSTART:20250503T110000
 DTEND:20250503T120000
@@ -106,20 +58,20 @@ UID:2025-05-04T12:30:00/Brentford - Man. Utd.
 DESCRIPTION:Brentford - Man. Utd. - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Ham - Tottenham - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250504T125000
-DTEND:20250504T135000
-DTSTAMP:20250504T125000Z
-UID:2025-05-04T12:50:00/West Ham - Tottenham
-DESCRIPTION:West Ham - Tottenham - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brighton - Newcastle - Enska úrvalsdeildin - siminnsport2
 DTSTART:20250504T125000
 DTEND:20250504T135000
 DTSTAMP:20250504T125000Z
 UID:2025-05-04T12:50:00/Brighton - Newcastle
 DESCRIPTION:Brighton - Newcastle - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Tottenham - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250504T125000
+DTEND:20250504T135000
+DTSTAMP:20250504T125000Z
+UID:2025-05-04T12:50:00/West Ham - Tottenham
+DESCRIPTION:West Ham - Tottenham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Liverpool - Enska úrvalsdeildin - siminnsport
@@ -146,14 +98,6 @@ UID:2025-05-04T18:40:00/ Bologna - Juventus
 DESCRIPTION: Bologna - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Fram - Úrslit | Olís kvenna - hsi1
-DTSTART:20250505T180000
-DTEND:20250505T190000
-DTSTAMP:20250505T180000Z
-UID:2025-05-05T18:00:00/Haukar - Fram
-DESCRIPTION:Haukar - Fram - Úrslit | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crystal Palace - Nottingham Forest - Enska úrvalsdeildin - siminn
  sport
 DTSTART:20250505T183000
@@ -171,14 +115,6 @@ UID:2025-05-05T19:15:00/Haukar - Fram
 DESCRIPTION:Haukar - Fram - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Valur - Úrslit | Olís kvenna - hsi1
-DTSTART:20250505T193000
-DTEND:20250505T203000
-DTSTAMP:20250505T193000Z
-UID:2025-05-05T19:30:00/ÍR - Valur
-DESCRIPTION:ÍR - Valur - Úrslit | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - Afturelding - Umspil | Olís kvenna - hsi1
 DTSTART:20250505T193000
 DTEND:20250505T203000
@@ -187,12 +123,20 @@ UID:2025-05-05T19:30:00/Stjarnan - Afturelding
 DESCRIPTION:Stjarnan - Afturelding - Umspil | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - ÍR - Úrslit | Olís kvenna - hsi1
-DTSTART:20250508T180000
-DTEND:20250508T190000
-DTSTAMP:20250508T180000Z
-UID:2025-05-08T18:00:00/Valur - ÍR
-DESCRIPTION:Valur - ÍR - Úrslit | Olís kvenna
+SUMMARY:Haukar - Fram - Úrslit | Olís kvenna - hsi1
+DTSTART:20250505T193000
+DTEND:20250505T203000
+DTSTAMP:20250505T193000Z
+UID:2025-05-05T19:30:00/Haukar - Fram
+DESCRIPTION:Haukar - Fram - Úrslit | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEINT - Olís deild kvenna - sjonvarpsimans
+DTSTART:20250508T191500
+DTEND:20250508T201500
+DTSTAMP:20250508T191500Z
+UID:2025-05-08T19:15:00/BEINT
+DESCRIPTION:BEINT - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fram - Haukar - Úrslit | Olís kvenna - hsi1

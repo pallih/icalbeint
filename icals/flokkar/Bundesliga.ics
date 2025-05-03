@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:ThSV Eisenach - Hannover-Burgdorf - Bundesliga - viaplay
-DTSTART:20250502T175500
-DTEND:20250502T185500
-DTSTAMP:20250502T175500Z
-UID:2025-05-02T17:55:00/ThSV Eisenach - Hannover-Burgdorf
-DESCRIPTION:ThSV Eisenach - Hannover-Burgdorf - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Bochum - Bundesliga - viaplay
-DTSTART:20250502T182000
-DTEND:20250502T192000
-DTSTAMP:20250502T182000Z
-UID:2025-05-02T18:20:00/Heidenheim - Bochum
-DESCRIPTION:Heidenheim - Bochum - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Hoffenheim - Bundesliga - viaplay
 DTSTART:20250503T132000
 DTEND:20250503T142000
 DTSTAMP:20250503T132000Z
 UID:2025-05-03T13:20:00/Mönchengladbach - Hoffenheim
 DESCRIPTION:Mönchengladbach - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB Leipzig - Bayern München - Bundesliga - stod2vodasport
-DTSTART:20250503T132000
-DTEND:20250503T142000
-DTSTAMP:20250503T132000Z
-UID:2025-05-03T13:20:00/RB Leipzig - Bayern München
-DESCRIPTION:RB Leipzig - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St. Pauli - Stuttgart - Bundesliga - viaplay
-DTSTART:20250503T132000
-DTEND:20250503T142000
-DTSTAMP:20250503T132000Z
-UID:2025-05-03T13:20:00/St. Pauli - Stuttgart
-DESCRIPTION:St. Pauli - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Bayern München - Bundesliga - viaplay
@@ -66,12 +34,28 @@ UID:2025-05-03T13:20:00/Leipzig - Bayern München (Tactical Feed)
 DESCRIPTION:Leipzig - Bayern München (Tactical Feed) - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:St. Pauli - Stuttgart - Bundesliga - viaplay
+DTSTART:20250503T132000
+DTEND:20250503T142000
+DTSTAMP:20250503T132000Z
+UID:2025-05-03T13:20:00/St. Pauli - Stuttgart
+DESCRIPTION:St. Pauli - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Union Berlin - Werder Bremen - Bundesliga - viaplay
 DTSTART:20250503T132000
 DTEND:20250503T142000
 DTSTAMP:20250503T132000Z
 UID:2025-05-03T13:20:00/Union Berlin - Werder Bremen
 DESCRIPTION:Union Berlin - Werder Bremen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB Leipzig - Bayern München - Bundesliga - stod2vodasport
+DTSTART:20250503T132000
+DTEND:20250503T142000
+DTSTAMP:20250503T132000Z
+UID:2025-05-03T13:20:00/RB Leipzig - Bayern München
+DESCRIPTION:RB Leipzig - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Wolfsburg - Bundesliga - viaplay
@@ -128,5 +112,13 @@ DTEND:20250504T182000
 DTSTAMP:20250504T172000Z
 UID:2025-05-04T17:20:00/Mainz - Frankfurt
 DESCRIPTION:Mainz - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Hoffenheim - Bundesliga - viaplay
+DTSTART:20250509T182000
+DTEND:20250509T192000
+DTSTAMP:20250509T182000Z
+UID:2025-05-09T18:20:00/Wolfsburg - Hoffenheim
+DESCRIPTION:Wolfsburg - Hoffenheim - Bundesliga
 END:VEVENT
 END:VCALENDAR
