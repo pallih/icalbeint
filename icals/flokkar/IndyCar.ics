@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Children's of Alabama Indy Grand Prix (Æfing 2) - IndyCar - viapl
- ay
-DTSTART:20250503T153000
-DTEND:20250503T163000
-DTSTAMP:20250503T153000Z
-UID:2025-05-03T15:30:00/Children's of Alabama Indy Grand Prix (Æfing 2)
-DESCRIPTION:Children's of Alabama Indy Grand Prix (Æfing 2) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Children's of Alabama Indy Grand Prix (Tímatökur) - IndyCar - vi
- aplay
-DTSTART:20250503T183000
-DTEND:20250503T193000
-DTSTAMP:20250503T183000Z
-UID:2025-05-03T18:30:00/Children's of Alabama Indy Grand Prix (Tímatökur
- )
-DESCRIPTION:Children's of Alabama Indy Grand Prix (Tímatökur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Children's of Alabama Indy Grand Prix (Warm Up) - IndyCar - viapla
  y
 DTSTART:20250504T140000
@@ -61,5 +42,21 @@ DTEND:20250509T210000
 DTSTAMP:20250509T200000Z
 UID:2025-05-09T20:00:00/Sonsio Grand Prix (Tímatökur)
 DESCRIPTION:Sonsio Grand Prix (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonsio Grand Prix (Warm-up) - IndyCar - viaplay
+DTSTART:20250510T153000
+DTEND:20250510T163000
+DTSTAMP:20250510T153000Z
+UID:2025-05-10T15:30:00/Sonsio Grand Prix (Warm-up)
+DESCRIPTION:Sonsio Grand Prix (Warm-up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonsio Grand Prix (Kappakstur) - IndyCar - viaplay
+DTSTART:20250510T203000
+DTEND:20250510T213000
+DTSTAMP:20250510T203000Z
+UID:2025-05-10T20:30:00/Sonsio Grand Prix (Kappakstur)
+DESCRIPTION:Sonsio Grand Prix (Kappakstur) - IndyCar
 END:VEVENT
 END:VCALENDAR
