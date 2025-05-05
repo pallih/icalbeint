@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Melsungen - Rhein-Neckar Löwen - Bundesliga - viaplay
-DTSTART:20250504T125500
-DTEND:20250504T135500
-DTSTAMP:20250504T125500Z
-UID:2025-05-04T12:55:00/Melsungen - Rhein-Neckar Löwen
-DESCRIPTION:Melsungen - Rhein-Neckar Löwen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - Holstein Kiel - Bundesliga - viaplay
-DTSTART:20250504T132000
-DTEND:20250504T142000
-DTSTAMP:20250504T132000Z
-UID:2025-05-04T13:20:00/Augsburg - Holstein Kiel
-DESCRIPTION:Augsburg - Holstein Kiel - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - Holstein Kiel - Bundesliga - stod2vodasport
-DTSTART:20250504T132500
-DTEND:20250504T142500
-DTSTAMP:20250504T132500Z
-UID:2025-05-04T13:25:00/Augsburg - Holstein Kiel
-DESCRIPTION:Augsburg - Holstein Kiel - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Bayer Leverkusen - Bundesliga - viaplay
-DTSTART:20250504T152000
-DTEND:20250504T162000
-DTSTAMP:20250504T152000Z
-UID:2025-05-04T15:20:00/Freiburg - Bayer Leverkusen
-DESCRIPTION:Freiburg - Bayer Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Bayer Leverkusen - Bundesliga - stod2vodasport
-DTSTART:20250504T152500
-DTEND:20250504T162500
-DTSTAMP:20250504T152500Z
-UID:2025-05-04T15:25:00/Freiburg - Bayer Leverkusen
-DESCRIPTION:Freiburg - Bayer Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mainz - Frankfurt - Bundesliga - viaplay
-DTSTART:20250504T172000
-DTEND:20250504T182000
-DTSTAMP:20250504T172000Z
-UID:2025-05-04T17:20:00/Mainz - Frankfurt
-DESCRIPTION:Mainz - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolfsburg - Hoffenheim - Bundesliga - viaplay
 DTSTART:20250509T182000
 DTEND:20250509T192000
@@ -58,28 +10,12 @@ UID:2025-05-09T18:20:00/Wolfsburg - Hoffenheim
 DESCRIPTION:Wolfsburg - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20250510T132000
-DTEND:20250510T142000
-DTSTAMP:20250510T132000Z
-UID:2025-05-10T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Werder Bremen - Leipzig - Bundesliga - viaplay
 DTSTART:20250510T132000
 DTEND:20250510T142000
 DTSTAMP:20250510T132000Z
 UID:2025-05-10T13:20:00/Werder Bremen - Leipzig
 DESCRIPTION:Werder Bremen - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Heidenheim - Bundesliga - viaplay
-DTSTART:20250510T132000
-DTEND:20250510T142000
-DTSTAMP:20250510T132000Z
-UID:2025-05-10T13:20:00/Union Berlin - Heidenheim
-DESCRIPTION:Union Berlin - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bochum - Mainz - Bundesliga - viaplay
@@ -98,6 +34,22 @@ UID:2025-05-10T13:20:00/Holstein Kiel - Freiburg
 DESCRIPTION:Holstein Kiel - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Union Berlin - Heidenheim - Bundesliga - viaplay
+DTSTART:20250510T132000
+DTEND:20250510T142000
+DTSTAMP:20250510T132000Z
+UID:2025-05-10T13:20:00/Union Berlin - Heidenheim
+DESCRIPTION:Union Berlin - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250510T132000
+DTEND:20250510T142000
+DTSTAMP:20250510T132000Z
+UID:2025-05-10T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayern München - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20250510T162000
 DTEND:20250510T172000
@@ -112,5 +64,29 @@ DTEND:20250510T172500
 DTSTAMP:20250510T162500Z
 UID:2025-05-10T16:25:00/Bayern München - M´gladbach
 DESCRIPTION:Bayern München - M´gladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Dortmund - Bundesliga - viaplay
+DTSTART:20250511T132000
+DTEND:20250511T142000
+DTSTAMP:20250511T132000Z
+UID:2025-05-11T13:20:00/Leverkusen - Dortmund
+DESCRIPTION:Leverkusen - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - St. Pauli - Bundesliga - viaplay
+DTSTART:20250511T152000
+DTEND:20250511T162000
+DTSTAMP:20250511T152000Z
+UID:2025-05-11T15:20:00/Frankfurt - St. Pauli
+DESCRIPTION:Frankfurt - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Augsburg - Bundesliga - viaplay
+DTSTART:20250511T172000
+DTEND:20250511T182000
+DTSTAMP:20250511T172000Z
+UID:2025-05-11T17:20:00/Stuttgart - Augsburg
+DESCRIPTION:Stuttgart - Augsburg - Bundesliga
 END:VEVENT
 END:VCALENDAR
