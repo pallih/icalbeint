@@ -2,45 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - siminn - ical
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Nottingham Forest - Enska úrvalsdeildin - siminn
- sport
-DTSTART:20250505T183000
-DTEND:20250505T193000
-DTSTAMP:20250505T183000Z
-UID:2025-05-05T18:30:00/Crystal Palace - Nottingham Forest
-DESCRIPTION:Crystal Palace - Nottingham Forest - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - Fram - Olís deild kvenna - sjonvarpsimans
-DTSTART:20250505T191500
-DTEND:20250505T201500
-DTSTAMP:20250505T191500Z
-UID:2025-05-05T19:15:00/Haukar - Fram
-DESCRIPTION:Haukar - Fram - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - Fram - Úrslit | Olís kvenna - hsi1
-DTSTART:20250505T193000
-DTEND:20250505T203000
-DTSTAMP:20250505T193000Z
-UID:2025-05-05T19:30:00/Haukar - Fram
-DESCRIPTION:Haukar - Fram - Úrslit | Olís kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BEINT - Olís deild kvenna - sjonvarpsimans
 DTSTART:20250508T191500
 DTEND:20250508T201500
 DTSTAMP:20250508T191500Z
 UID:2025-05-08T19:15:00/BEINT
 DESCRIPTION:BEINT - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fram - Haukar - Úrslit | Olís kvenna - hsi1
-DTSTART:20250508T193000
-DTEND:20250508T203000
-DTSTAMP:20250508T193000Z
-UID:2025-05-08T19:30:00/Fram - Haukar
-DESCRIPTION:Fram - Haukar - Úrslit | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southampton - Man. City - Enska úrvalsdeildin - siminnsport
@@ -67,14 +34,6 @@ UID:2025-05-10T13:50:00/Ipswich - Brentford
 DESCRIPTION:Ipswich - Brentford - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Everton - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250510T135000
-DTEND:20250510T145000
-DTSTAMP:20250510T135000Z
-UID:2025-05-10T13:50:00/Fulham - Everton
-DESCRIPTION:Fulham - Everton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolves - Brighton - Enska úrvalsdeildin - siminnsport3
 DTSTART:20250510T135000
 DTEND:20250510T145000
@@ -83,12 +42,29 @@ UID:2025-05-10T13:50:00/Wolves - Brighton
 DESCRIPTION:Wolves - Brighton - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fulham - Everton - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250510T135000
+DTEND:20250510T145000
+DTSTAMP:20250510T135000Z
+UID:2025-05-10T13:50:00/Fulham - Everton
+DESCRIPTION:Fulham - Everton - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bournemouth - Aston Villa - Enska úrvalsdeildin - siminnsport
 DTSTART:20250510T160000
 DTEND:20250510T170000
 DTSTAMP:20250510T160000Z
 UID:2025-05-10T16:00:00/Bournemouth - Aston Villa
 DESCRIPTION:Bournemouth - Aston Villa - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Atletico Madrid - Real Sociedad - LaLiga - Spænski boltinn - sim
+ innsport
+DTSTART:20250510T185500
+DTEND:20250510T195500
+DTSTAMP:20250510T185500Z
+UID:2025-05-10T18:55:00/ Atletico Madrid - Real Sociedad
+DESCRIPTION: Atletico Madrid - Real Sociedad - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Chelsea - Enska úrvalsdeildin - siminnsport
@@ -107,14 +83,6 @@ UID:2025-05-11T13:00:00/Man. Utd. - West Ham
 DESCRIPTION:Man. Utd. - West Ham - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Crystal Palace - Enska úrvalsdeildin - siminnsport3
-DTSTART:20250511T130500
-DTEND:20250511T140500
-DTSTAMP:20250511T130500Z
-UID:2025-05-11T13:05:00/Tottenham - Crystal Palace
-DESCRIPTION:Tottenham - Crystal Palace - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nottingham Forest - Leicester - Enska úrvalsdeildin - siminnsport
  2
 DTSTART:20250511T130500
@@ -124,11 +92,27 @@ UID:2025-05-11T13:05:00/Nottingham Forest - Leicester
 DESCRIPTION:Nottingham Forest - Leicester - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tottenham - Crystal Palace - Enska úrvalsdeildin - siminnsport3
+DTSTART:20250511T130500
+DTEND:20250511T140500
+DTSTAMP:20250511T130500Z
+UID:2025-05-11T13:05:00/Tottenham - Crystal Palace
+DESCRIPTION:Tottenham - Crystal Palace - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Liverpool - Arsenal - Enska úrvalsdeildin - siminnsport
 DTSTART:20250511T151500
 DTEND:20250511T161500
 DTSTAMP:20250511T151500Z
 UID:2025-05-11T15:15:00/Liverpool - Arsenal
 DESCRIPTION:Liverpool - Arsenal - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20250511T173000
+DTEND:20250511T183000
+DTSTAMP:20250511T173000Z
+UID:2025-05-11T17:30:00/Völlurinn
+DESCRIPTION:Völlurinn - Enska úrvalsdeildin
 END:VEVENT
 END:VCALENDAR
