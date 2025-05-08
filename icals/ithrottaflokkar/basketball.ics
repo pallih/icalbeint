@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Haukar - Njarðvík - Bónus deild kvenna - stod2sport
-DTSTART:20250507T183000
-DTEND:20250507T193000
-DTSTAMP:20250507T183000Z
-UID:2025-05-07T18:30:00/Haukar - Njarðvík
-DESCRIPTION:Haukar - Njarðvík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna - stod2sport
-DTSTART:20250507T210000
-DTEND:20250507T220000
-DTSTAMP:20250507T210000Z
-UID:2025-05-07T21:00:00/Bónus Körfuboltakvöld kvenna
-DESCRIPTION:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - stod2sport
 DTSTART:20250508T193000
 DTEND:20250508T203000
@@ -42,12 +26,28 @@ UID:2025-05-09T19:05:00/Hamar - Ármann
 DESCRIPTION:Hamar - Ármann - 1. deild karla í körfubolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Njarðvík - Haukar - Bónus deild kvenna - stod2sport
+DTSTART:20250510T183000
+DTEND:20250510T193000
+DTSTAMP:20250510T183000Z
+UID:2025-05-10T18:30:00/Njarðvík - Haukar
+DESCRIPTION:Njarðvík - Haukar - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Knicks - Celtics - NBA - stod2sport2
 DTSTART:20250510T193000
 DTEND:20250510T203000
 DTSTAMP:20250510T193000Z
 UID:2025-05-10T19:30:00/Knicks - Celtics
 DESCRIPTION:Knicks - Celtics - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna - stod2sport
+DTSTART:20250510T210000
+DTEND:20250510T220000
+DTSTAMP:20250510T210000Z
+UID:2025-05-10T21:00:00/Bónus Körfuboltakvöld kvenna
+DESCRIPTION:Bónus Körfuboltakvöld kvenna - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nuggets - Thunder - NBA - stod2sport2
@@ -80,5 +80,21 @@ DTEND:20250512T210000
 DTSTAMP:20250512T200000Z
 UID:2025-05-12T20:00:00/Lögmál leiksins
 DESCRIPTION:Lögmál leiksins - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - stod2sport
+DTSTART:20250514T183000
+DTEND:20250514T193000
+DTSTAMP:20250514T183000Z
+UID:2025-05-14T18:30:00/Tindastóll - Stjarnan
+DESCRIPTION:Tindastóll - Stjarnan - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
+DTSTART:20250514T210000
+DTEND:20250514T220000
+DTSTAMP:20250514T210000Z
+UID:2025-05-14T21:00:00/Bónus Körfuboltakvöld
+DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
