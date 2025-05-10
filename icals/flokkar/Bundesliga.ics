@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Hoffenheim - Bundesliga - viaplay
-DTSTART:20250509T182000
-DTEND:20250509T192000
-DTSTAMP:20250509T182000Z
-UID:2025-05-09T18:20:00/Wolfsburg - Hoffenheim
-DESCRIPTION:Wolfsburg - Hoffenheim - Bundesliga
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250510T132000
+DTEND:20250510T142000
+DTSTAMP:20250510T132000Z
+UID:2025-05-10T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Heidenheim - Bundesliga - viaplay
+DTSTART:20250510T132000
+DTEND:20250510T142000
+DTSTAMP:20250510T132000Z
+UID:2025-05-10T13:20:00/Union Berlin - Heidenheim
+DESCRIPTION:Union Berlin - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bochum - Mainz - Bundesliga - viaplay
@@ -26,28 +34,12 @@ UID:2025-05-10T13:20:00/Holstein Kiel - Freiburg
 DESCRIPTION:Holstein Kiel - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20250510T132000
-DTEND:20250510T142000
-DTSTAMP:20250510T132000Z
-UID:2025-05-10T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Werder Bremen - Leipzig - Bundesliga - viaplay
 DTSTART:20250510T132000
 DTEND:20250510T142000
 DTSTAMP:20250510T132000Z
 UID:2025-05-10T13:20:00/Werder Bremen - Leipzig
 DESCRIPTION:Werder Bremen - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Heidenheim - Bundesliga - viaplay
-DTSTART:20250510T132000
-DTEND:20250510T142000
-DTSTAMP:20250510T132000Z
-UID:2025-05-10T13:20:00/Union Berlin - Heidenheim
-DESCRIPTION:Union Berlin - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Mönchengladbach - Bundesliga - viaplay
@@ -66,20 +58,20 @@ UID:2025-05-10T16:25:00/Bayern München - M´gladbach
 DESCRIPTION:Bayern München - M´gladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Dortmund - Bundesliga - viaplay
-DTSTART:20250511T132000
-DTEND:20250511T142000
-DTSTAMP:20250511T132000Z
-UID:2025-05-11T13:20:00/Leverkusen - Dortmund
-DESCRIPTION:Leverkusen - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leverkusen - Dortmund (Tactical Feed) - Bundesliga - viaplay
 DTSTART:20250511T132000
 DTEND:20250511T142000
 DTSTAMP:20250511T132000Z
 UID:2025-05-11T13:20:00/Leverkusen - Dortmund (Tactical Feed)
 DESCRIPTION:Leverkusen - Dortmund (Tactical Feed) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Dortmund - Bundesliga - viaplay
+DTSTART:20250511T132000
+DTEND:20250511T142000
+DTSTAMP:20250511T132000Z
+UID:2025-05-11T13:20:00/Leverkusen - Dortmund
+DESCRIPTION:Leverkusen - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - St. Pauli - Bundesliga - viaplay
@@ -104,5 +96,13 @@ DTEND:20250515T175500
 DTSTAMP:20250515T165500Z
 UID:2025-05-15T16:55:00/Gummersbach - Magdeburg
 DESCRIPTION:Gummersbach - Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover-Burgdorf - Melsungen - Bundesliga - viaplay
+DTSTART:20250516T175500
+DTEND:20250516T185500
+DTSTAMP:20250516T175500Z
+UID:2025-05-16T17:55:00/Hannover-Burgdorf - Melsungen
+DESCRIPTION:Hannover-Burgdorf - Melsungen - Bundesliga
 END:VEVENT
 END:VCALENDAR
