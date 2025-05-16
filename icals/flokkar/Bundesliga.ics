@@ -2,20 +2,52 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Gummersbach - Magdeburg - Bundesliga - viaplay
-DTSTART:20250515T165500
-DTEND:20250515T175500
-DTSTAMP:20250515T165500Z
-UID:2025-05-15T16:55:00/Gummersbach - Magdeburg
-DESCRIPTION:Gummersbach - Magdeburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hannover-Burgdorf - Melsungen - Bundesliga - viaplay
 DTSTART:20250516T175500
 DTEND:20250516T185500
 DTSTAMP:20250516T175500Z
 UID:2025-05-16T17:55:00/Hannover-Burgdorf - Melsungen
 DESCRIPTION:Hannover-Burgdorf - Melsungen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Union Berlin - Bundesliga - viaplay
+DTSTART:20250517T132000
+DTEND:20250517T142000
+DTSTAMP:20250517T132000Z
+UID:2025-05-17T13:20:00/Augsburg - Union Berlin
+DESCRIPTION:Augsburg - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Stuttgart - Bundesliga - viaplay
+DTSTART:20250517T132000
+DTEND:20250517T142000
+DTSTAMP:20250517T132000Z
+UID:2025-05-17T13:20:00/Leipzig - Stuttgart
+DESCRIPTION:Leipzig - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Holstein Kiel - Bundesliga - viaplay
+DTSTART:20250517T132000
+DTEND:20250517T142000
+DTSTAMP:20250517T132000Z
+UID:2025-05-17T13:20:00/Dortmund - Holstein Kiel
+DESCRIPTION:Dortmund - Holstein Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Bayern München - Bundesliga - viaplay
+DTSTART:20250517T132000
+DTEND:20250517T142000
+DTSTAMP:20250517T132000Z
+UID:2025-05-17T13:20:00/Hoffenheim - Bayern München
+DESCRIPTION:Hoffenheim - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Werder Bremen - Bundesliga - viaplay
+DTSTART:20250517T132000
+DTEND:20250517T142000
+DTSTAMP:20250517T132000Z
+UID:2025-05-17T13:20:00/Heidenheim - Werder Bremen
+DESCRIPTION:Heidenheim - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -50,52 +82,12 @@ UID:2025-05-17T13:20:00/Mainz - Leverkusen
 DESCRIPTION:Mainz - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Union Berlin - Bundesliga - viaplay
-DTSTART:20250517T132000
-DTEND:20250517T142000
-DTSTAMP:20250517T132000Z
-UID:2025-05-17T13:20:00/Augsburg - Union Berlin
-DESCRIPTION:Augsburg - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freiburg - Frankfurt - Bundesliga - viaplay
 DTSTART:20250517T132000
 DTEND:20250517T142000
 DTSTAMP:20250517T132000Z
 UID:2025-05-17T13:20:00/Freiburg - Frankfurt
 DESCRIPTION:Freiburg - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Werder Bremen - Bundesliga - viaplay
-DTSTART:20250517T132000
-DTEND:20250517T142000
-DTSTAMP:20250517T132000Z
-UID:2025-05-17T13:20:00/Heidenheim - Werder Bremen
-DESCRIPTION:Heidenheim - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Bayern München - Bundesliga - viaplay
-DTSTART:20250517T132000
-DTEND:20250517T142000
-DTSTAMP:20250517T132000Z
-UID:2025-05-17T13:20:00/Hoffenheim - Bayern München
-DESCRIPTION:Hoffenheim - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Holstein Kiel - Bundesliga - viaplay
-DTSTART:20250517T132000
-DTEND:20250517T142000
-DTSTAMP:20250517T132000Z
-UID:2025-05-17T13:20:00/Dortmund - Holstein Kiel
-DESCRIPTION:Dortmund - Holstein Kiel - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Stuttgart - Bundesliga - viaplay
-DTSTART:20250517T132000
-DTEND:20250517T142000
-DTSTAMP:20250517T132000Z
-UID:2025-05-17T13:20:00/Leipzig - Stuttgart
-DESCRIPTION:Leipzig - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Rhein-Neckar Löwen - Bundesliga - viaplay
@@ -120,5 +112,13 @@ DTEND:20250521T175500
 DTSTAMP:20250521T165500Z
 UID:2025-05-21T16:55:00/Rhein-Neckar Löwen - Gummersbach
 DESCRIPTION:Rhein-Neckar Löwen - Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - ThSV Eisenach - Bundesliga - viaplay
+DTSTART:20250522T165500
+DTEND:20250522T175500
+DTSTAMP:20250522T165500Z
+UID:2025-05-22T16:55:00/Magdeburg - ThSV Eisenach
+DESCRIPTION:Magdeburg - ThSV Eisenach - Bundesliga
 END:VEVENT
 END:VCALENDAR
