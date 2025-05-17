@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Hannover-Burgdorf - Melsungen - Bundesliga - viaplay
-DTSTART:20250516T175500
-DTEND:20250516T185500
-DTSTAMP:20250516T175500Z
-UID:2025-05-16T17:55:00/Hannover-Burgdorf - Melsungen
-DESCRIPTION:Hannover-Burgdorf - Melsungen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - Porrino - síðari úrslitaleikur - Evrópubikar kvenna í
   handbolta - ruv
 DTSTART:20250517T150000
@@ -28,6 +20,14 @@ UID:2025-05-18T14:25:00/Flensburg-Handewitt - Rhein-Neckar Löwen
 DESCRIPTION:Flensburg-Handewitt - Rhein-Neckar Löwen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Magdeburg - Hannover-Burgdorf - Bundesliga - viaplay
+DTSTART:20250519T175500
+DTEND:20250519T185500
+DTSTAMP:20250519T175500Z
+UID:2025-05-19T17:55:00/Magdeburg - Hannover-Burgdorf
+DESCRIPTION:Magdeburg - Hannover-Burgdorf - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magdeburg - Hannover Burgdorf - Bundesliga handbolti - stod2vodasp
  ort
 DTSTART:20250519T175500
@@ -35,14 +35,6 @@ DTEND:20250519T185500
 DTSTAMP:20250519T175500Z
 UID:2025-05-19T17:55:00/Magdeburg - Hannover Burgdorf
 DESCRIPTION:Magdeburg - Hannover Burgdorf - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Hannover-Burgdorf - Bundesliga - viaplay
-DTSTART:20250519T175500
-DTEND:20250519T185500
-DTSTAMP:20250519T175500Z
-UID:2025-05-19T17:55:00/Magdeburg - Hannover-Burgdorf
-DESCRIPTION:Magdeburg - Hannover-Burgdorf - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fram - Valur - Úrslit | Olís karla - hsi1
@@ -85,11 +77,27 @@ UID:2025-05-22T16:55:00/Magdeburg - ThSV Eisenach
 DESCRIPTION:Magdeburg - ThSV Eisenach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Fram - Olís deild karla - sjonvarpsimans
+DTSTART:20250522T191500
+DTEND:20250522T201500
+DTSTAMP:20250522T191500Z
+UID:2025-05-22T19:15:00/Valur - Fram
+DESCRIPTION:Valur - Fram - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valur - Fram - Úrslit | Olís karla - hsi1
 DTSTART:20250522T193000
 DTEND:20250522T203000
 DTSTAMP:20250522T193000Z
 UID:2025-05-22T19:30:00/Valur - Fram
 DESCRIPTION:Valur - Fram - Úrslit | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Valur - Úrslit | Olís kvenna - hsi1
+DTSTART:20250523T193000
+DTEND:20250523T203000
+DTSTAMP:20250523T193000Z
+UID:2025-05-23T19:30:00/Haukar - Valur
+DESCRIPTION:Haukar - Valur - Úrslit | Olís kvenna
 END:VEVENT
 END:VCALENDAR
