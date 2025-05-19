@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Flensburg-Handewitt - Rhein-Neckar Löwen - Bundesliga - viaplay
-DTSTART:20250518T142500
-DTEND:20250518T152500
-DTSTAMP:20250518T142500Z
-UID:2025-05-18T14:25:00/Flensburg-Handewitt - Rhein-Neckar Löwen
-DESCRIPTION:Flensburg-Handewitt - Rhein-Neckar Löwen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Hannover-Burgdorf - Bundesliga - viaplay
 DTSTART:20250519T175500
 DTEND:20250519T185500
@@ -32,5 +24,13 @@ DTEND:20250522T175500
 DTSTAMP:20250522T165500Z
 UID:2025-05-22T16:55:00/Magdeburg - ThSV Eisenach
 DESCRIPTION:Magdeburg - ThSV Eisenach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Elversberg - Bundesliga - viaplay
+DTSTART:20250522T182000
+DTEND:20250522T192000
+DTSTAMP:20250522T182000Z
+UID:2025-05-22T18:20:00/Heidenheim - Elversberg
+DESCRIPTION:Heidenheim - Elversberg - Bundesliga
 END:VEVENT
 END:VCALENDAR
