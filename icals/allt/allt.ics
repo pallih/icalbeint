@@ -3,100 +3,19 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - allt - ical
 BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250519T110000
-DTEND:20250519T120000
-DTSTAMP:20250519T110000Z
-UID:2025-05-19T11:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indianapolis 500 (Æfing 7) - IndyCar - viaplay
-DTSTART:20250519T170000
-DTEND:20250519T180000
-DTSTAMP:20250519T170000Z
-UID:2025-05-19T17:00:00/Indianapolis 500 (Æfing 7)
-DESCRIPTION:Indianapolis 500 (Æfing 7) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍA - FH - Besta deild karla - stod2besta01
-DTSTART:20250519T175000
-DTEND:20250519T185000
-DTSTAMP:20250519T175000Z
-UID:2025-05-19T17:50:00/ÍA - FH
-DESCRIPTION:ÍA - FH - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Hannover Burgdorf - Bundesliga handbolti - stod2vodasp
- ort
-DTSTART:20250519T175500
-DTEND:20250519T185500
-DTSTAMP:20250519T175500Z
-UID:2025-05-19T17:55:00/Magdeburg - Hannover Burgdorf
-DESCRIPTION:Magdeburg - Hannover Burgdorf - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Hannover-Burgdorf - Bundesliga - viaplay
-DTSTART:20250519T175500
-DTEND:20250519T185500
-DTSTAMP:20250519T175500Z
-UID:2025-05-19T17:55:00/Magdeburg - Hannover-Burgdorf
-DESCRIPTION:Magdeburg - Hannover-Burgdorf - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brighton - Liverpool - Enska úrvalsdeildin - siminnsport
-DTSTART:20250519T183000
-DTEND:20250519T193000
-DTSTAMP:20250519T183000Z
-UID:2025-05-19T18:30:00/Brighton - Liverpool
-DESCRIPTION:Brighton - Liverpool - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - Víkingur R. - Besta deild karla - stod2sport5
-DTSTART:20250519T190000
-DTEND:20250519T200000
-DTSTAMP:20250519T190000Z
-UID:2025-05-19T19:00:00/Stjarnan - Víkingur R.
-DESCRIPTION:Stjarnan - Víkingur R. - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - Valur - Besta deild karla - stod2sport
-DTSTART:20250519T190000
-DTEND:20250519T200000
-DTSTAMP:20250519T190000Z
-UID:2025-05-19T19:00:00/Breiðablik - Valur
-DESCRIPTION:Breiðablik - Valur - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fram - Valur - Úrslit | Olís karla - hsi1
-DTSTART:20250519T193000
-DTEND:20250519T203000
-DTSTAMP:20250519T193000Z
-UID:2025-05-19T19:30:00/Fram - Valur
-DESCRIPTION:Fram - Valur - Úrslit | Olís karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lögmál leiksins - NBA - stod2sport2
-DTSTART:20250519T200000
-DTEND:20250519T210000
-DTSTAMP:20250519T200000Z
-UID:2025-05-19T20:00:00/Lögmál leiksins
-DESCRIPTION:Lögmál leiksins - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - stod2sport
-DTSTART:20250519T212500
-DTEND:20250519T222500
-DTSTAMP:20250519T212500Z
-UID:2025-05-19T21:25:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
 DTSTART:20250520T110000
 DTEND:20250520T120000
 DTSTAMP:20250520T110000Z
 UID:2025-05-20T11:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Djurgarden - AIK - Sænska úrvalsdeildin - stod2vodasport
+DTSTART:20250520T165000
+DTEND:20250520T175000
+DTSTAMP:20250520T165000Z
+UID:2025-05-20T16:50:00/Djurgarden - AIK
+DESCRIPTION:Djurgarden - AIK - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Djurgården - AIK - OBOS Damallsvenskan - viaplay
@@ -155,14 +74,6 @@ UID:2025-05-20T19:30:00/Valur - Haukar
 DESCRIPTION:Valur - Haukar - Úrslit | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Djurgarden - AIK - Sænska úrvalsdeildin - stod2vodasport
-DTSTART:20250520T200000
-DTEND:20250520T210000
-DTSTAMP:20250520T200000Z
-UID:2025-05-20T20:00:00/Djurgarden - AIK
-DESCRIPTION:Djurgarden - AIK - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carolina - Florida - NHL - viaplay
 DTSTART:20250521T000500
 DTEND:20250521T010500
@@ -171,12 +82,12 @@ UID:2025-05-21T00:05:00/Carolina - Florida
 DESCRIPTION:Carolina - Florida - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NBA - Playoff Games - NBA - stod2sport2
+SUMMARY:Thunder - Timberwolves - NBA - stod2sport2
 DTSTART:20250521T003000
 DTEND:20250521T013000
 DTSTAMP:20250521T003000Z
-UID:2025-05-21T00:30:00/NBA - Playoff Games
-DESCRIPTION:NBA - Playoff Games - NBA
+UID:2025-05-21T00:30:00/Thunder - Timberwolves
+DESCRIPTION:Thunder - Timberwolves - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
@@ -219,12 +130,13 @@ UID:2025-05-21T17:55:00/Al Wehda - Al Hilal
 DESCRIPTION:Al Wehda - Al Hilal - Saudi Pro League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - stod2sport
-DTSTART:20250521T180000
-DTEND:20250521T190000
-DTSTAMP:20250521T180000Z
-UID:2025-05-21T18:00:00/Tindastóll - Stjarnan
-DESCRIPTION:Tindastóll - Stjarnan - Bónus deild karla
+SUMMARY:Evrópudeildin - Upphitun - Evrópudeildin - Upphitun/Uppgjör - s
+ tod2vodasport
+DTSTART:20250521T183000
+DTEND:20250521T193000
+DTSTAMP:20250521T183000Z
+UID:2025-05-21T18:30:00/Evrópudeildin - Upphitun
+DESCRIPTION:Evrópudeildin - Upphitun - Evrópudeildin - Upphitun/Uppgjör
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tottenham - Man United - UEFA Europa League - viaplay
@@ -235,21 +147,20 @@ UID:2025-05-21T18:30:00/Tottenham - Man United
 DESCRIPTION:Tottenham - Man United - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Evrópudeildin - Upphitun - Evrópudeildin - Upphitun/Uppgjör - s
- tod2vodasport
-DTSTART:20250521T183000
-DTEND:20250521T193000
-DTSTAMP:20250521T183000Z
-UID:2025-05-21T18:30:00/Evrópudeildin - Upphitun
-DESCRIPTION:Evrópudeildin - Upphitun - Evrópudeildin - Upphitun/Uppgjör
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tottenham - Manchester United - Evrópudeildin - stod2vodasport
 DTSTART:20250521T185000
 DTEND:20250521T195000
 DTSTAMP:20250521T185000Z
 UID:2025-05-21T18:50:00/Tottenham - Manchester United
 DESCRIPTION:Tottenham - Manchester United - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - stod2sport
+DTSTART:20250521T190000
+DTEND:20250521T200000
+DTSTAMP:20250521T190000Z
+UID:2025-05-21T19:00:00/Tindastóll - Stjarnan
+DESCRIPTION:Tindastóll - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asunción P2 - Premier Padel - viaplay
@@ -270,19 +181,19 @@ DESCRIPTION:Evrópudeildin - Uppgjör - Evrópudeildin - Upphitun/Uppgjör
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Bónus deild karla - stod2sport
-DTSTART:20250521T210000
-DTEND:20250521T220000
-DTSTAMP:20250521T210000Z
-UID:2025-05-21T21:00:00/Bónus Körfuboltakvöld
+DTSTART:20250521T215000
+DTEND:20250521T225000
+DTSTAMP:20250521T215000Z
+UID:2025-05-21T21:50:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NBA - Playoff Games - NBA - stod2sport2
+SUMMARY:Knicks - Pacers - NBA - stod2sport2
 DTSTART:20250522T000000
 DTEND:20250522T010000
 DTSTAMP:20250522T000000Z
-UID:2025-05-22T00:00:00/NBA - Playoff Games
-DESCRIPTION:NBA - Playoff Games - NBA
+UID:2025-05-22T00:00:00/Knicks - Pacers
+DESCRIPTION:Knicks - Pacers - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dallas - Edmonton - NHL - viaplay
@@ -397,12 +308,20 @@ UID:2025-05-22T20:00:00/Asunción P2
 DESCRIPTION:Asunción P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NBA - Playoff Games - NBA - stod2sport2
+SUMMARY:Carolina - Florida - NHL - viaplay
+DTSTART:20250523T000500
+DTEND:20250523T010500
+DTSTAMP:20250523T000500Z
+UID:2025-05-23T00:05:00/Carolina - Florida
+DESCRIPTION:Carolina - Florida - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thunder - Timberwolves - NBA - stod2sport2
 DTSTART:20250523T003000
 DTEND:20250523T013000
 DTSTAMP:20250523T003000Z
-UID:2025-05-23T00:30:00/NBA - Playoff Games
-DESCRIPTION:NBA - Playoff Games - NBA
+UID:2025-05-23T00:30:00/Thunder - Timberwolves
+DESCRIPTION:Thunder - Timberwolves - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
@@ -414,10 +333,10 @@ DESCRIPTION:Silverstone Kappaksturinn (Frjáls æfing 1) - Moto3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monte Carlo (Tímatökur) - Formula 3 - viaplay
-DTSTART:20250523T090500
-DTEND:20250523T100500
-DTSTAMP:20250523T090500Z
-UID:2025-05-23T09:05:00/Monte Carlo (Tímatökur)
+DTSTART:20250523T090000
+DTEND:20250523T100000
+DTSTAMP:20250523T090000Z
+UID:2025-05-23T09:00:00/Monte Carlo (Tímatökur)
 DESCRIPTION:Monte Carlo (Tímatökur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
@@ -437,6 +356,14 @@ UID:2025-05-23T10:35:00/Silverstone Kappaksturinn (Frjáls æfing 1)
 DESCRIPTION:Silverstone Kappaksturinn (Frjáls æfing 1) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20250523T110000
+DTEND:20250523T120000
+DTSTAMP:20250523T110000Z
+UID:2025-05-23T11:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dutch Darts Championship - PDC Darts - viaplay
 DTSTART:20250523T110000
 DTEND:20250523T120000
@@ -451,14 +378,6 @@ DTEND:20250523T120000
 DTSTAMP:20250523T110000Z
 UID:2025-05-23T11:00:00/Soudal Open
 DESCRIPTION:Soudal Open - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250523T110000
-DTEND:20250523T120000
-DTSTAMP:20250523T110000Z
-UID:2025-05-23T11:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mónakó Kappaksturinn (Æfing 1) - Formula 1 - viaplay
@@ -477,15 +396,12 @@ UID:2025-05-23T11:25:00/F1: Mónakó - Æfing 1
 DESCRIPTION:F1: Mónakó - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Onboard (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250523T113000
 DTEND:20250523T123000
 DTSTAMP:20250523T113000Z
-UID:2025-05-23T11:30:00/Track Positioning (Æfing 1 | Mónakó Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Æfing 1 | Mónakó Kappaksturinn) - Formul
- a 1
+UID:2025-05-23T11:30:00/Onboard (Æfing 1 | Mónakó Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 - viaplay
@@ -496,20 +412,23 @@ UID:2025-05-23T11:30:00/Pitlane (Æfing 1 | Mónakó Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250523T113000
-DTEND:20250523T123000
-DTSTAMP:20250523T113000Z
-UID:2025-05-23T11:30:00/Onboard (Æfing 1 | Mónakó Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Mónakó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250523T113000
 DTEND:20250523T123000
 DTSTAMP:20250523T113000Z
 UID:2025-05-23T11:30:00/Timing (Æfing 1 | Mónakó Kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 
+ - viaplay
+DTSTART:20250523T113000
+DTEND:20250523T123000
+DTSTAMP:20250523T113000Z
+UID:2025-05-23T11:30:00/Track Positioning (Æfing 1 | Mónakó Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Æfing 1 | Mónakó Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asunción P2 - Premier Padel - viaplay
@@ -568,12 +487,12 @@ UID:2025-05-23T14:55:00/F1: Mónakó - Æfing 2
 DESCRIPTION:F1: Mónakó - Æfing 2 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indianapolis 500 (Æfing 9) - IndyCar - viaplay
+SUMMARY:UEL/UECL Highlights - UEFA Europa League - viaplay
 DTSTART:20250523T150000
 DTEND:20250523T160000
 DTSTAMP:20250523T150000Z
-UID:2025-05-23T15:00:00/Indianapolis 500 (Æfing 9)
-DESCRIPTION:Indianapolis 500 (Æfing 9) - IndyCar
+UID:2025-05-23T15:00:00/UEL/UECL Highlights
+DESCRIPTION:UEL/UECL Highlights - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MEXICO Riviera Maya Open - LGPA Tour - stod2sport4
@@ -584,28 +503,20 @@ UID:2025-05-23T15:00:00/MEXICO Riviera Maya Open
 DESCRIPTION:MEXICO Riviera Maya Open - LGPA Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UEL/UECL Highlights - UEFA Europa League - viaplay
+SUMMARY:Indianapolis 500 (Æfing 9) - IndyCar - viaplay
 DTSTART:20250523T150000
 DTEND:20250523T160000
 DTSTAMP:20250523T150000Z
-UID:2025-05-23T15:00:00/UEL/UECL Highlights
-DESCRIPTION:UEL/UECL Highlights - UEFA Europa League
+UID:2025-05-23T15:00:00/Indianapolis 500 (Æfing 9)
+DESCRIPTION:Indianapolis 500 (Æfing 9) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 2 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 2 | Mónakó Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250523T150000
 DTEND:20250523T160000
 DTSTAMP:20250523T150000Z
-UID:2025-05-23T15:00:00/Timing (Æfing 2 | Mónakó Kappaksturinn)
-DESCRIPTION:Timing (Æfing 2 | Mónakó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Mónakó Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250523T150000
-DTEND:20250523T160000
-DTSTAMP:20250523T150000Z
-UID:2025-05-23T15:00:00/Onboard (Æfing 2 | Mónakó Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Mónakó Kappaksturinn) - Formula 1
+UID:2025-05-23T15:00:00/Pitlane (Æfing 2 | Mónakó Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Mónakó Kappaksturinn) - Formula 1 
@@ -619,12 +530,20 @@ DESCRIPTION:Track Positioning (Æfing 2 | Mónakó Kappaksturinn) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Onboard (Æfing 2 | Mónakó Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250523T150000
 DTEND:20250523T160000
 DTSTAMP:20250523T150000Z
-UID:2025-05-23T15:00:00/Pitlane (Æfing 2 | Mónakó Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Mónakó Kappaksturinn) - Formula 1
+UID:2025-05-23T15:00:00/Onboard (Æfing 2 | Mónakó Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 2 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250523T150000
+DTEND:20250523T160000
+DTSTAMP:20250523T150000Z
+UID:2025-05-23T15:00:00/Timing (Æfing 2 | Mónakó Kappaksturinn)
+DESCRIPTION:Timing (Æfing 2 | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monte Carlo (Tímatökur) - Porsche Supercup - viaplay
@@ -635,20 +554,20 @@ UID:2025-05-23T16:40:00/Monte Carlo (Tímatökur)
 DESCRIPTION:Monte Carlo (Tímatökur) - Porsche Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Senior PGA Championship - Senior Majors - viaplay
-DTSTART:20250523T170000
-DTEND:20250523T180000
-DTSTAMP:20250523T170000Z
-UID:2025-05-23T17:00:00/Senior PGA Championship
-DESCRIPTION:Senior PGA Championship - Senior Majors
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dutch Darts Championship - PDC Darts - viaplay
 DTSTART:20250523T170000
 DTEND:20250523T180000
 DTSTAMP:20250523T170000Z
 UID:2025-05-23T17:00:00/Dutch Darts Championship
 DESCRIPTION:Dutch Darts Championship - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senior PGA Championship - Senior Majors - viaplay
+DTSTART:20250523T170000
+DTEND:20250523T180000
+DTSTAMP:20250523T170000Z
+UID:2025-05-23T17:00:00/Senior PGA Championship
+DESCRIPTION:Senior PGA Championship - Senior Majors
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - Fram - Besta deild kvenna - stod2besta01
@@ -659,20 +578,20 @@ UID:2025-05-23T17:20:00/Tindastóll - Fram
 DESCRIPTION:Tindastóll - Fram - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Víkingur R. - Besta deild kvenna - stod2besta02
-DTSTART:20250523T175000
-DTEND:20250523T185000
-DTSTAMP:20250523T175000Z
-UID:2025-05-23T17:50:00/Valur - Víkingur R.
-DESCRIPTION:Valur - Víkingur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Breiðablik - Besta deild karla - stod2sport5
 DTSTART:20250523T175000
 DTEND:20250523T185000
 DTSTAMP:20250523T175000Z
 UID:2025-05-23T17:50:00/FH - Breiðablik
 DESCRIPTION:FH - Breiðablik - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Víkingur R. - Besta deild kvenna - stod2besta02
+DTSTART:20250523T175000
+DTEND:20250523T185000
+DTSTAMP:20250523T175000Z
+UID:2025-05-23T17:50:00/Valur - Víkingur R.
+DESCRIPTION:Valur - Víkingur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saarbrücken - Braunschweig - 2. Bundesliga - viaplay
@@ -723,6 +642,22 @@ UID:2025-05-23T20:00:00/Asunción P2
 DESCRIPTION:Asunción P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Knicks - Pacers - NBA - stod2sport2
+DTSTART:20250524T000000
+DTEND:20250524T010000
+DTSTAMP:20250524T000000Z
+UID:2025-05-24T00:00:00/Knicks - Pacers
+DESCRIPTION:Knicks - Pacers - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas - Edmonton - NHL - viaplay
+DTSTART:20250524T000500
+DTEND:20250524T010500
+DTSTAMP:20250524T000500Z
+UID:2025-05-24T00:05:00/Dallas - Edmonton
+DESCRIPTION:Dallas - Edmonton - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:North Carolina Education Lottery 200 (Truck Series) - Nascar - via
  play
 DTSTART:20250524T003000
@@ -739,6 +674,16 @@ DTEND:20250524T080000
 DTSTAMP:20250524T070000Z
 UID:2025-05-24T07:00:00/Lausitzring (Tímatökur 1)
 DESCRIPTION:Lausitzring (Tímatökur 1) - DTM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lausitzring (Kappakstur 1) - FIA European Truck Racing Championshi
+ p - viaplay
+DTSTART:20250524T081500
+DTEND:20250524T091500
+DTSTAMP:20250524T081500Z
+UID:2025-05-24T08:15:00/Lausitzring (Kappakstur 1)
+DESCRIPTION:Lausitzring (Kappakstur 1) - FIA European Truck Racing Champio
+ nship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
@@ -803,6 +748,41 @@ DTEND:20250524T112500
 DTSTAMP:20250524T102500Z
 UID:2025-05-24T10:25:00/Mónakó Kappaksturinn (Æfing 3)
 DESCRIPTION:Mónakó Kappaksturinn (Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250524T103000
+DTEND:20250524T113000
+DTSTAMP:20250524T103000Z
+UID:2025-05-24T10:30:00/Onboard (Æfing 3 | Mónakó Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 3 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250524T103000
+DTEND:20250524T113000
+DTSTAMP:20250524T103000Z
+UID:2025-05-24T10:30:00/Timing (Æfing 3 | Mónakó Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 3 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250524T103000
+DTEND:20250524T113000
+DTSTAMP:20250524T103000Z
+UID:2025-05-24T10:30:00/Pitlane (Æfing 3 | Mónakó Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 3 | Mónakó Kappaksturinn) - Formula 1 
+ - viaplay
+DTSTART:20250524T103000
+DTEND:20250524T113000
+DTSTAMP:20250524T103000Z
+UID:2025-05-24T10:30:00/Track Positioning (Æfing 3 | Mónakó Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Æfing 3 | Mónakó Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
@@ -871,20 +851,12 @@ UID:2025-05-24T12:45:00/Silverstone Kappaksturinn (Tímatökur)
 DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vittsjö - Malmö FF - OBOS Damallsvenskan - viaplay
+SUMMARY:Alingsås - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20250524T125000
 DTEND:20250524T135000
 DTSTAMP:20250524T125000Z
-UID:2025-05-24T12:50:00/Vittsjö - Malmö FF
-DESCRIPTION:Vittsjö - Malmö FF - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Växjö - AIK - OBOS Damallsvenskan - viaplay
-DTSTART:20250524T125000
-DTEND:20250524T135000
-DTSTAMP:20250524T125000Z
-UID:2025-05-24T12:50:00/Växjö - AIK
-DESCRIPTION:Växjö - AIK - OBOS Damallsvenskan
+UID:2025-05-24T12:50:00/Alingsås - Norrköping
+DESCRIPTION:Alingsås - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór/KA - Stjarnan - Besta deild kvenna - stod2sport
@@ -893,14 +865,6 @@ DTEND:20250524T135000
 DTSTAMP:20250524T125000Z
 UID:2025-05-24T12:50:00/Þór/KA - Stjarnan
 DESCRIPTION:Þór/KA - Stjarnan - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alingsås - Norrköping - OBOS Damallsvenskan - viaplay
-DTSTART:20250524T125000
-DTEND:20250524T135000
-DTSTAMP:20250524T125000Z
-UID:2025-05-24T12:50:00/Alingsås - Norrköping
-DESCRIPTION:Alingsås - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rosengård - Häcken - OBOS Damallsvenskan - viaplay
@@ -917,6 +881,22 @@ DTEND:20250524T135000
 DTSTAMP:20250524T125000Z
 UID:2025-05-24T12:50:00/Kristianstad - Hammarby
 DESCRIPTION:Kristianstad - Hammarby - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vittsjö - Malmö FF - OBOS Damallsvenskan - viaplay
+DTSTART:20250524T125000
+DTEND:20250524T135000
+DTSTAMP:20250524T125000Z
+UID:2025-05-24T12:50:00/Vittsjö - Malmö FF
+DESCRIPTION:Vittsjö - Malmö FF - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Växjö - AIK - OBOS Damallsvenskan - viaplay
+DTSTART:20250524T125000
+DTEND:20250524T135000
+DTSTAMP:20250524T125000Z
+UID:2025-05-24T12:50:00/Växjö - AIK
+DESCRIPTION:Växjö - AIK - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Trofeo Pirelli | Kappakstur 1) - Ferrari Challenge
@@ -953,6 +933,14 @@ UID:2025-05-24T13:55:00/Sheffield United - Sunderland
 DESCRIPTION:Sheffield United - Sunderland - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mónakó Kappaksturinn (Tímatökur) - Formula 1 - viaplay
+DTSTART:20250524T135500
+DTEND:20250524T145500
+DTSTAMP:20250524T135500Z
+UID:2025-05-24T13:55:00/Mónakó Kappaksturinn (Tímatökur)
+DESCRIPTION:Mónakó Kappaksturinn (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:F1: Mónakó - Tímataka - Formúla 1 - stod2vodasport
 DTSTART:20250524T135500
 DTEND:20250524T145500
@@ -961,12 +949,52 @@ UID:2025-05-24T13:55:00/F1: Mónakó - Tímataka
 DESCRIPTION:F1: Mónakó - Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mónakó Kappaksturinn (Tímatökur) - Formula 1 - viaplay
-DTSTART:20250524T135500
-DTEND:20250524T145500
-DTSTAMP:20250524T135500Z
-UID:2025-05-24T13:55:00/Mónakó Kappaksturinn (Tímatökur)
-DESCRIPTION:Mónakó Kappaksturinn (Tímatökur) - Formula 1
+SUMMARY:Lausitzring (Kappakstur 2) - FIA European Truck Racing Championshi
+ p - viaplay
+DTSTART:20250524T140000
+DTEND:20250524T150000
+DTSTAMP:20250524T140000Z
+UID:2025-05-24T14:00:00/Lausitzring (Kappakstur 2)
+DESCRIPTION:Lausitzring (Kappakstur 2) - FIA European Truck Racing Champio
+ nship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Tímatökur | Mónakó Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20250524T140000
+DTEND:20250524T150000
+DTSTAMP:20250524T140000Z
+UID:2025-05-24T14:00:00/Pitlane (Tímatökur | Mónakó Kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Tímatökur | Mónakó Kappaksturinn) - Formu
+ la 1 - viaplay
+DTSTART:20250524T140000
+DTEND:20250524T150000
+DTSTAMP:20250524T140000Z
+UID:2025-05-24T14:00:00/Track Positioning (Tímatökur | Mónakó Kappak
+ sturinn)
+DESCRIPTION:Track Positioning (Tímatökur | Mónakó Kappaksturinn) - F
+ ormula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Tímatökur | Mónakó Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20250524T140000
+DTEND:20250524T150000
+DTSTAMP:20250524T140000Z
+UID:2025-05-24T14:00:00/Onboard (Tímatökur | Mónakó Kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Tímatökur | Mónakó Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250524T140000
+DTEND:20250524T150000
+DTSTAMP:20250524T140000Z
+UID:2025-05-24T14:00:00/Timing (Tímatökur | Mónakó Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Coppa Shell | Kappakstur 1) - Ferrari Challenge Eu
@@ -996,14 +1024,6 @@ UID:2025-05-24T15:55:00/Vallelunga (Kappakstur 2)
 DESCRIPTION:Vallelunga (Kappakstur 2) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - ÍBV - Besta deild karla - stod2sport
-DTSTART:20250524T165000
-DTEND:20250524T175000
-DTSTAMP:20250524T165000Z
-UID:2025-05-24T16:50:00/Valur - ÍBV
-DESCRIPTION:Valur - ÍBV - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KA - Afturelding - Besta deild karla - stod2sport5
 DTSTART:20250524T165000
 DTEND:20250524T175000
@@ -1012,12 +1032,12 @@ UID:2025-05-24T16:50:00/KA - Afturelding
 DESCRIPTION:KA - Afturelding - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asunción P2 - Premier Padel - viaplay
-DTSTART:20250524T170000
-DTEND:20250524T180000
-DTSTAMP:20250524T170000Z
-UID:2025-05-24T17:00:00/Asunción P2
-DESCRIPTION:Asunción P2 - Premier Padel
+SUMMARY:Valur - ÍBV - Besta deild karla - stod2sport
+DTSTART:20250524T165000
+DTEND:20250524T175000
+DTSTAMP:20250524T165000Z
+UID:2025-05-24T16:50:00/Valur - ÍBV
+DESCRIPTION:Valur - ÍBV - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dutch Darts Championship - PDC Darts - viaplay
@@ -1026,6 +1046,14 @@ DTEND:20250524T180000
 DTSTAMP:20250524T170000Z
 UID:2025-05-24T17:00:00/Dutch Darts Championship
 DESCRIPTION:Dutch Darts Championship - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asunción P2 - Premier Padel - viaplay
+DTSTART:20250524T170000
+DTEND:20250524T180000
+DTSTAMP:20250524T170000Z
+UID:2025-05-24T17:00:00/Asunción P2
+DESCRIPTION:Asunción P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arminia Bielefeld - Stuttgart - DFB-Pokal - livey
@@ -1052,14 +1080,6 @@ UID:2025-05-24T18:30:00/Champions League weekly
 DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vestri - Stjarnan - Besta deild karla - stod2sport
-DTSTART:20250524T190000
-DTEND:20250524T200000
-DTSTAMP:20250524T190000Z
-UID:2025-05-24T19:00:00/Vestri - Stjarnan
-DESCRIPTION:Vestri - Stjarnan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Senior PGA Championship - Senior Majors - viaplay
 DTSTART:20250524T190000
 DTEND:20250524T200000
@@ -1074,6 +1094,14 @@ DTEND:20250524T200000
 DTSTAMP:20250524T190000Z
 UID:2025-05-24T19:00:00/MEXICO Riviera Maya Open
 DESCRIPTION:MEXICO Riviera Maya Open - LGPA Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vestri - Stjarnan - Besta deild karla - stod2sport
+DTSTART:20250524T190000
+DTEND:20250524T200000
+DTSTAMP:20250524T190000Z
+UID:2025-05-24T19:00:00/Vestri - Stjarnan
+DESCRIPTION:Vestri - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Víkingur R. - ÍA - Besta deild karla - stod2sport5
@@ -1100,6 +1128,14 @@ UID:2025-05-24T21:20:00/Subway Tilþrifin
 DESCRIPTION:Subway Tilþrifin - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Florida - Carolina - NHL - viaplay
+DTSTART:20250525T000500
+DTEND:20250525T010500
+DTSTAMP:20250525T000500Z
+UID:2025-05-25T00:05:00/Florida - Carolina
+DESCRIPTION:Florida - Carolina - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NBA - Playoff Games - NBA - stod2sport2
 DTSTART:20250525T003000
 DTEND:20250525T013000
@@ -1116,6 +1152,14 @@ UID:2025-05-25T05:55:00/Monte Carlo (Kappakstur)
 DESCRIPTION:Monte Carlo (Kappakstur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lausitzring (Tímatökur 2) - DTM - viaplay
+DTSTART:20250525T065500
+DTEND:20250525T075500
+DTSTAMP:20250525T065500Z
+UID:2025-05-25T06:55:00/Lausitzring (Tímatökur 2)
+DESCRIPTION:Lausitzring (Tímatökur 2) - DTM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vallelunga (Kappakstur 3) - Formula 4 Italian Championship - viapl
  ay
 DTSTART:20250525T065500
@@ -1123,14 +1167,6 @@ DTEND:20250525T075500
 DTSTAMP:20250525T065500Z
 UID:2025-05-25T06:55:00/Vallelunga (Kappakstur 3)
 DESCRIPTION:Vallelunga (Kappakstur 3) - Formula 4 Italian Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lausitzring (Tímatökur 2) - DTM - viaplay
-DTSTART:20250525T065500
-DTEND:20250525T075500
-DTSTAMP:20250525T065500Z
-UID:2025-05-25T06:55:00/Lausitzring (Tímatökur 2)
-DESCRIPTION:Lausitzring (Tímatökur 2) - DTM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monte Carlo (Kappakstur) - Formula 2 - viaplay
@@ -1147,6 +1183,16 @@ DTEND:20250525T093500
 DTSTAMP:20250525T083500Z
 UID:2025-05-25T08:35:00/Silverstone Kappaksturinn (Warm Up)
 DESCRIPTION:Silverstone Kappaksturinn (Warm Up) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lausitzring (Kappakstur 3) - FIA European Truck Racing Championshi
+ p - viaplay
+DTSTART:20250525T095000
+DTEND:20250525T105000
+DTSTAMP:20250525T095000Z
+UID:2025-05-25T09:50:00/Lausitzring (Kappakstur 3)
+DESCRIPTION:Lausitzring (Kappakstur 3) - FIA European Truck Racing Champio
+ nship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monte Carlo (Kappakstur) - Porsche Supercup - viaplay
@@ -1181,6 +1227,14 @@ UID:2025-05-25T11:00:00/Dutch Darts Championship
 DESCRIPTION:Dutch Darts Championship - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lausitzring - DTM - viaplay
+DTSTART:20250525T111500
+DTEND:20250525T121500
+DTSTAMP:20250525T111500Z
+UID:2025-05-25T11:15:00/Lausitzring
+DESCRIPTION:Lausitzring - DTM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Kappakstur) - MotoGP - viaplay
 DTSTART:20250525T111500
 DTEND:20250525T121500
@@ -1189,12 +1243,12 @@ UID:2025-05-25T11:15:00/Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausitzring - DTM - viaplay
-DTSTART:20250525T111500
-DTEND:20250525T121500
-DTSTAMP:20250525T111500Z
-UID:2025-05-25T11:15:00/Lausitzring
-DESCRIPTION:Lausitzring - DTM
+SUMMARY:Piteå - Linköping - OBOS Damallsvenskan - viaplay
+DTSTART:20250525T115000
+DTEND:20250525T125000
+DTSTAMP:20250525T115000Z
+UID:2025-05-25T11:50:00/Piteå - Linköping
+DESCRIPTION:Piteå - Linköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Coppa Shell AM | Kappakstur 2) - Ferrari Challeng
@@ -1213,14 +1267,6 @@ DTEND:20250525T125000
 DTSTAMP:20250525T115000Z
 UID:2025-05-25T11:50:00/Djurgården - Brommapojkarna
 DESCRIPTION:Djurgården - Brommapojkarna - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piteå - Linköping - OBOS Damallsvenskan - viaplay
-DTSTART:20250525T115000
-DTEND:20250525T125000
-DTSTAMP:20250525T115000Z
-UID:2025-05-25T11:50:00/Piteå - Linköping
-DESCRIPTION:Piteå - Linköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlton - Leyton Orient - League One - viaplay
@@ -1253,6 +1299,43 @@ DTEND:20250525T135500
 DTSTAMP:20250525T125500Z
 UID:2025-05-25T12:55:00/F1 Kids: Mónakó Kappaksturinn
 DESCRIPTION:F1 Kids: Mónakó Kappaksturinn - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Mónakó Kappaksturinn) - Formula 
+ 1 - viaplay
+DTSTART:20250525T130000
+DTEND:20250525T140000
+DTSTAMP:20250525T130000Z
+UID:2025-05-25T13:00:00/Track Positioning (Kappakstur | Mónakó Kappakstu
+ rinn)
+DESCRIPTION:Track Positioning (Kappakstur | Mónakó Kappaksturinn) - Form
+ ula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Mónakó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250525T130000
+DTEND:20250525T140000
+DTSTAMP:20250525T130000Z
+UID:2025-05-25T13:00:00/Timing (Kappakstur | Mónakó Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kappakstur | Mónakó Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250525T130000
+DTEND:20250525T140000
+DTSTAMP:20250525T130000Z
+UID:2025-05-25T13:00:00/Pitlane (Kappakstur | Mónakó Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Mónakó Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250525T130000
+DTEND:20250525T140000
+DTSTAMP:20250525T130000Z
+UID:2025-05-25T13:00:00/Onboard (Kappakstur | Mónakó Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Trofeo Pirelli | Kappakstur 2) - Ferrari Challeng
@@ -1324,12 +1407,12 @@ UID:2025-05-25T14:30:00/Liverpool - Crystal Palace
 DESCRIPTION:Liverpool - Crystal Palace - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Aston Villa - Enska úrvalsdeildin - siminnsport
-DTSTART:20250525T143000
-DTEND:20250525T153000
-DTSTAMP:20250525T143000Z
-UID:2025-05-25T14:30:00/Man. Utd. - Aston Villa
-DESCRIPTION:Man. Utd. - Aston Villa - Enska úrvalsdeildin
+SUMMARY:Nottingham Forest - Chelsea - Enska úrvalsdeildin - siminnsport
+DTSTART:20250525T145000
+DTEND:20250525T155000
+DTSTAMP:20250525T145000Z
+UID:2025-05-25T14:50:00/Nottingham Forest - Chelsea
+DESCRIPTION:Nottingham Forest - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Everton - Enska úrvalsdeildin - siminnsport5
@@ -1338,14 +1421,6 @@ DTEND:20250525T155000
 DTSTAMP:20250525T145000Z
 UID:2025-05-25T14:50:00/Newcastle - Everton
 DESCRIPTION:Newcastle - Everton - Enska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nottingham Forest - Chelsea - Enska úrvalsdeildin - siminnsport2
-DTSTART:20250525T145000
-DTEND:20250525T155000
-DTSTAMP:20250525T145000Z
-UID:2025-05-25T14:50:00/Nottingham Forest - Chelsea
-DESCRIPTION:Nottingham Forest - Chelsea - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Man. City - Enska úrvalsdeildin - siminnsport4
@@ -1364,6 +1439,14 @@ UID:2025-05-25T14:50:00/Southampton - Arsenal
 DESCRIPTION:Southampton - Arsenal - Enska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Man. Utd. - Aston Villa - Enska úrvalsdeildin - siminnsport2
+DTSTART:20250525T145000
+DTEND:20250525T155000
+DTSTAMP:20250525T145000Z
+UID:2025-05-25T14:50:00/Man. Utd. - Aston Villa
+DESCRIPTION:Man. Utd. - Aston Villa - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MEXICO Riviera Maya Open - LGPA Tour - stod2sport4
 DTSTART:20250525T160000
 DTEND:20250525T170000
@@ -1380,6 +1463,24 @@ UID:2025-05-25T16:00:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lausitzring (Kappakstur 4) - FIA European Truck Racing Championshi
+ p - viaplay
+DTSTART:20250525T160500
+DTEND:20250525T170500
+DTSTAMP:20250525T160500Z
+UID:2025-05-25T16:05:00/Lausitzring (Kappakstur 4)
+DESCRIPTION:Lausitzring (Kappakstur 4) - FIA European Truck Racing Champio
+ nship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Völlurinn - Enska úrvalsdeildin - sjonvarpsimans
+DTSTART:20250525T170000
+DTEND:20250525T180000
+DTSTAMP:20250525T170000Z
+UID:2025-05-25T17:00:00/Völlurinn
+DESCRIPTION:Völlurinn - Enska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dutch Darts Championship - PDC Darts - viaplay
 DTSTART:20250525T170000
 DTEND:20250525T180000
@@ -1388,12 +1489,28 @@ UID:2025-05-25T17:00:00/Dutch Darts Championship
 DESCRIPTION:Dutch Darts Championship - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fram - Valur - Olís deild karla - sjonvarpsimans
+DTSTART:20250525T180000
+DTEND:20250525T190000
+DTSTAMP:20250525T180000Z
+UID:2025-05-25T18:00:00/Fram - Valur
+DESCRIPTION:Fram - Valur - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fram - Valur - Úrslit | Olís karla - hsi1
 DTSTART:20250525T181500
 DTEND:20250525T191500
 DTSTAMP:20250525T181500Z
 UID:2025-05-25T18:15:00/Fram - Valur
 DESCRIPTION:Fram - Valur - Úrslit | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senior PGA Championship - Senior Majors - viaplay
+DTSTART:20250525T190000
+DTEND:20250525T200000
+DTSTAMP:20250525T190000Z
+UID:2025-05-25T19:00:00/Senior PGA Championship
+DESCRIPTION:Senior PGA Championship - Senior Majors
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FH - Breiðablik - Besta deild karla - stod2sport
@@ -1412,12 +1529,12 @@ UID:2025-05-25T19:00:00/Asunción P2
 DESCRIPTION:Asunción P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Senior PGA Championship - Senior Majors - viaplay
-DTSTART:20250525T190000
-DTEND:20250525T200000
-DTSTAMP:20250525T190000Z
-UID:2025-05-25T19:00:00/Senior PGA Championship
-DESCRIPTION:Senior PGA Championship - Senior Majors
+SUMMARY:Edmonton - Dallas - NHL - viaplay
+DTSTART:20250525T190500
+DTEND:20250525T200500
+DTSTAMP:20250525T190500Z
+UID:2025-05-25T19:05:00/Edmonton - Dallas
+DESCRIPTION:Edmonton - Dallas - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coca-Cola 600 (Cup Series) - Nascar - viaplay
@@ -1434,5 +1551,93 @@ DTEND:20250525T222500
 DTSTAMP:20250525T212500Z
 UID:2025-05-25T21:25:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NBA - Playoff Games - NBA - stod2sport2
+DTSTART:20250526T000000
+DTEND:20250526T010000
+DTSTAMP:20250526T000000Z
+UID:2025-05-26T00:00:00/NBA - Playoff Games
+DESCRIPTION:NBA - Playoff Games - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20250526T110000
+DTEND:20250526T120000
+DTSTAMP:20250526T110000Z
+UID:2025-05-26T11:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFC Wimbledon - Walsall - League Two - viaplay
+DTSTART:20250526T135500
+DTEND:20250526T145500
+DTSTAMP:20250526T135500Z
+UID:2025-05-26T13:55:00/AFC Wimbledon - Walsall
+DESCRIPTION:AFC Wimbledon - Walsall - League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Hilal - Al Qadsiah - Saudi Pro League - viaplay
+DTSTART:20250526T175500
+DTEND:20250526T185500
+DTSTAMP:20250526T175500Z
+UID:2025-05-26T17:55:00/Al Hilal - Al Qadsiah
+DESCRIPTION:Al Hilal - Al Qadsiah - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Fateh - Al Nassr - Saudi Pro League - viaplay
+DTSTART:20250526T175500
+DTEND:20250526T185500
+DTSTAMP:20250526T175500Z
+UID:2025-05-26T17:55:00/Al Fateh - Al Nassr
+DESCRIPTION:Al Fateh - Al Nassr - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Ittihad - Damac - Saudi Pro League - viaplay
+DTSTART:20250526T175500
+DTEND:20250526T185500
+DTSTAMP:20250526T175500Z
+UID:2025-05-26T17:55:00/Al Ittihad - Damac
+DESCRIPTION:Al Ittihad - Damac - Saudi Pro League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEL/UECL Magazine - UEFA Europa League - viaplay
+DTSTART:20250526T180000
+DTEND:20250526T190000
+DTSTAMP:20250526T180000Z
+UID:2025-05-26T18:00:00/UEL/UECL Magazine
+DESCRIPTION:UEL/UECL Magazine - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elversberg - Heidenheim - Bundesliga - viaplay
+DTSTART:20250526T182000
+DTEND:20250526T192000
+DTSTAMP:20250526T182000Z
+UID:2025-05-26T18:20:00/Elversberg - Heidenheim
+DESCRIPTION:Elversberg - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ross County - Livingston - Scottish Premiership - viaplay
+DTSTART:20250526T185500
+DTEND:20250526T195500
+DTSTAMP:20250526T185500Z
+UID:2025-05-26T18:55:00/Ross County - Livingston
+DESCRIPTION:Ross County - Livingston - Scottish Premiership
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Haukar - Úrslit | Olís kvenna - hsi1
+DTSTART:20250526T193000
+DTEND:20250526T203000
+DTSTAMP:20250526T193000Z
+UID:2025-05-26T19:30:00/Valur - Haukar
+DESCRIPTION:Valur - Haukar - Úrslit | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lögmál leiksins - NBA - stod2sport2
+DTSTART:20250526T200000
+DTEND:20250526T210000
+DTSTAMP:20250526T200000Z
+UID:2025-05-26T20:00:00/Lögmál leiksins
+DESCRIPTION:Lögmál leiksins - NBA
 END:VEVENT
 END:VCALENDAR
