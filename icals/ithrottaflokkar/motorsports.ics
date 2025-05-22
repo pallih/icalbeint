@@ -50,20 +50,15 @@ UID:2025-05-23T11:25:00/Mónakó Kappaksturinn (Æfing 1)
 DESCRIPTION:Mónakó Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 
+ - viaplay
 DTSTART:20250523T113000
 DTEND:20250523T123000
 DTSTAMP:20250523T113000Z
-UID:2025-05-23T11:30:00/Pitlane (Æfing 1 | Mónakó Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Mónakó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250523T113000
-DTEND:20250523T123000
-DTSTAMP:20250523T113000Z
-UID:2025-05-23T11:30:00/Onboard (Æfing 1 | Mónakó Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Mónakó Kappaksturinn) - Formula 1
+UID:2025-05-23T11:30:00/Track Positioning (Æfing 1 | Mónakó Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Æfing 1 | Mónakó Kappaksturinn) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 - viaplay
@@ -74,15 +69,20 @@ UID:2025-05-23T11:30:00/Timing (Æfing 1 | Mónakó Kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 
- - viaplay
+SUMMARY:Onboard (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250523T113000
 DTEND:20250523T123000
 DTSTAMP:20250523T113000Z
-UID:2025-05-23T11:30:00/Track Positioning (Æfing 1 | Mónakó Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Æfing 1 | Mónakó Kappaksturinn) - Formul
- a 1
+UID:2025-05-23T11:30:00/Onboard (Æfing 1 | Mónakó Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 1 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250523T113000
+DTEND:20250523T123000
+DTSTAMP:20250523T113000Z
+UID:2025-05-23T11:30:00/Pitlane (Æfing 1 | Mónakó Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monte Carlo (Tímatökur) - Formula 2 - viaplay
@@ -109,20 +109,20 @@ UID:2025-05-23T14:00:00/Silverstone Kappaksturinn (Æfing)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mónakó Kappaksturinn (Æfing 2) - Formula 1 - viaplay
-DTSTART:20250523T145500
-DTEND:20250523T155500
-DTSTAMP:20250523T145500Z
-UID:2025-05-23T14:55:00/Mónakó Kappaksturinn (Æfing 2)
-DESCRIPTION:Mónakó Kappaksturinn (Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Æfing) - MotoGP - viaplay
 DTSTART:20250523T145500
 DTEND:20250523T155500
 DTSTAMP:20250523T145500Z
 UID:2025-05-23T14:55:00/Silverstone Kappaksturinn (Æfing)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mónakó Kappaksturinn (Æfing 2) - Formula 1 - viaplay
+DTSTART:20250523T145500
+DTEND:20250523T155500
+DTSTAMP:20250523T145500Z
+UID:2025-05-23T14:55:00/Mónakó Kappaksturinn (Æfing 2)
+DESCRIPTION:Mónakó Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Mónakó - Æfing 2 - Formúla 1 - stod2vodasport
@@ -142,6 +142,14 @@ UID:2025-05-23T15:00:00/Track Positioning (Æfing 2 | Mónakó Kappaksturi
  nn)
 DESCRIPTION:Track Positioning (Æfing 2 | Mónakó Kappaksturinn) - Formul
  a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis 500 (Æfing 9) - IndyCar - viaplay
+DTSTART:20250523T150000
+DTEND:20250523T160000
+DTSTAMP:20250523T150000Z
+UID:2025-05-23T15:00:00/Indianapolis 500 (Æfing 9)
+DESCRIPTION:Indianapolis 500 (Æfing 9) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Mónakó Kappaksturinn) - Formula 1 - viaplay
@@ -166,14 +174,6 @@ DTEND:20250523T160000
 DTSTAMP:20250523T150000Z
 UID:2025-05-23T15:00:00/Pitlane (Æfing 2 | Mónakó Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 2 | Mónakó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indianapolis 500 (Æfing 9) - IndyCar - viaplay
-DTSTART:20250523T150000
-DTEND:20250523T160000
-DTSTAMP:20250523T150000Z
-UID:2025-05-23T15:00:00/Indianapolis 500 (Æfing 9)
-DESCRIPTION:Indianapolis 500 (Æfing 9) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monte Carlo (Tímatökur) - Porsche Supercup - viaplay
@@ -295,12 +295,12 @@ DESCRIPTION:Track Positioning (Æfing 3 | Mónakó Kappaksturinn) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 3 | Mónakó Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250524T103000
 DTEND:20250524T113000
 DTSTAMP:20250524T103000Z
-UID:2025-05-24T10:30:00/Timing (Æfing 3 | Mónakó Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Mónakó Kappaksturinn) - Formula 1
+UID:2025-05-24T10:30:00/Pitlane (Æfing 3 | Mónakó Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 3 | Mónakó Kappaksturinn) - Formula 1 - viaplay
@@ -311,12 +311,12 @@ UID:2025-05-24T10:30:00/Onboard (Æfing 3 | Mónakó Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 3 | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Mónakó Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing (Æfing 3 | Mónakó Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250524T103000
 DTEND:20250524T113000
 DTSTAMP:20250524T103000Z
-UID:2025-05-24T10:30:00/Pitlane (Æfing 3 | Mónakó Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Mónakó Kappaksturinn) - Formula 1
+UID:2025-05-24T10:30:00/Timing (Æfing 3 | Mónakó Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Tímatökur) - MotoGP - viaplay
@@ -395,25 +395,6 @@ UID:2025-05-24T13:55:00/Mónakó Kappaksturinn (Tímatökur)
 DESCRIPTION:Mónakó Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Mónakó Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20250524T140000
-DTEND:20250524T150000
-DTSTAMP:20250524T140000Z
-UID:2025-05-24T14:00:00/Timing (Tímatökur | Mónakó Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Mónakó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lausitzring (Kappakstur 2) - FIA European Truck Racing Championshi
- p - viaplay
-DTSTART:20250524T140000
-DTEND:20250524T150000
-DTSTAMP:20250524T140000Z
-UID:2025-05-24T14:00:00/Lausitzring (Kappakstur 2)
-DESCRIPTION:Lausitzring (Kappakstur 2) - FIA European Truck Racing Champio
- nship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Mónakó Kappaksturinn) - Formu
  la 1 - viaplay
 DTSTART:20250524T140000
@@ -423,6 +404,15 @@ UID:2025-05-24T14:00:00/Track Positioning (Tímatökur | Mónakó Kappak
  sturinn)
 DESCRIPTION:Track Positioning (Tímatökur | Mónakó Kappaksturinn) - F
  ormula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Tímatökur | Mónakó Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250524T140000
+DTEND:20250524T150000
+DTSTAMP:20250524T140000Z
+UID:2025-05-24T14:00:00/Timing (Tímatökur | Mónakó Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Mónakó Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Mónakó Kappaksturinn) - Formula 1 - via
@@ -441,6 +431,16 @@ DTEND:20250524T150000
 DTSTAMP:20250524T140000Z
 UID:2025-05-24T14:00:00/Pitlane (Tímatökur | Mónakó Kappaksturinn)
 DESCRIPTION:Pitlane (Tímatökur | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lausitzring (Kappakstur 2) - FIA European Truck Racing Championshi
+ p - viaplay
+DTSTART:20250524T140500
+DTEND:20250524T150500
+DTSTAMP:20250524T140500Z
+UID:2025-05-24T14:05:00/Lausitzring (Kappakstur 2)
+DESCRIPTION:Lausitzring (Kappakstur 2) - FIA European Truck Racing Champio
+ nship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Coppa Shell | Kappakstur 1) - Ferrari Challenge Eu
@@ -494,6 +494,14 @@ UID:2025-05-25T05:55:00/Monte Carlo (Kappakstur)
 DESCRIPTION:Monte Carlo (Kappakstur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lausitzring (Tímatökur 2) - DTM - viaplay
+DTSTART:20250525T065500
+DTEND:20250525T075500
+DTSTAMP:20250525T065500Z
+UID:2025-05-25T06:55:00/Lausitzring (Tímatökur 2)
+DESCRIPTION:Lausitzring (Tímatökur 2) - DTM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vallelunga (Kappakstur 3) - Formula 4 Italian Championship - viapl
  ay
 DTSTART:20250525T065500
@@ -501,14 +509,6 @@ DTEND:20250525T075500
 DTSTAMP:20250525T065500Z
 UID:2025-05-25T06:55:00/Vallelunga (Kappakstur 3)
 DESCRIPTION:Vallelunga (Kappakstur 3) - Formula 4 Italian Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lausitzring (Tímatökur 2) - DTM - viaplay
-DTSTART:20250525T065500
-DTEND:20250525T075500
-DTSTAMP:20250525T065500Z
-UID:2025-05-25T06:55:00/Lausitzring (Tímatökur 2)
-DESCRIPTION:Lausitzring (Tímatökur 2) - DTM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monte Carlo (Kappakstur) - Formula 2 - viaplay
@@ -537,28 +537,20 @@ DESCRIPTION:Lausitzring (Kappakstur 3) - FIA European Truck Racing Champio
  nship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Monte Carlo (Kappakstur) - Porsche Supercup - viaplay
+DTSTART:20250525T095500
+DTEND:20250525T105500
+DTSTAMP:20250525T095500Z
+UID:2025-05-25T09:55:00/Monte Carlo (Kappakstur)
+DESCRIPTION:Monte Carlo (Kappakstur) - Porsche Supercup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Kappakstur) - Moto2 - viaplay
 DTSTART:20250525T100000
 DTEND:20250525T110000
 DTSTAMP:20250525T100000Z
 UID:2025-05-25T10:00:00/Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monte Carlo (Kappakstur) - Porsche Supercup - viaplay
-DTSTART:20250525T100000
-DTEND:20250525T110000
-DTSTAMP:20250525T100000Z
-UID:2025-05-25T10:00:00/Monte Carlo (Kappakstur)
-DESCRIPTION:Monte Carlo (Kappakstur) - Porsche Supercup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silverstone Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20250525T111500
-DTEND:20250525T121500
-DTSTAMP:20250525T111500Z
-UID:2025-05-25T11:15:00/Silverstone Kappaksturinn (Kappakstur)
-DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lausitzring - DTM - viaplay
@@ -577,6 +569,14 @@ DTSTAMP:20250525T115000Z
 UID:2025-05-25T11:50:00/Hockenheimring (Coppa Shell AM | Kappakstur 2)
 DESCRIPTION:Hockenheimring (Coppa Shell AM | Kappakstur 2) - Ferrari Chal
  lenge Europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20250525T115000
+DTEND:20250525T125000
+DTSTAMP:20250525T115000Z
+UID:2025-05-25T11:50:00/Silverstone Kappaksturinn (Kappakstur)
+DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Mónakó - Keppni - Formúla 1 - stod2vodasport
@@ -603,25 +603,6 @@ UID:2025-05-25T12:55:00/F1 Kids: Mónakó Kappaksturinn
 DESCRIPTION:F1 Kids: Mónakó Kappaksturinn - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Mónakó Kappaksturinn) - Formula 
- 1 - viaplay
-DTSTART:20250525T130000
-DTEND:20250525T140000
-DTSTAMP:20250525T130000Z
-UID:2025-05-25T13:00:00/Track Positioning (Kappakstur | Mónakó Kappakstu
- rinn)
-DESCRIPTION:Track Positioning (Kappakstur | Mónakó Kappaksturinn) - Form
- ula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Mónakó Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250525T130000
-DTEND:20250525T140000
-DTSTAMP:20250525T130000Z
-UID:2025-05-25T13:00:00/Timing (Kappakstur | Mónakó Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Mónakó Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Mónakó Kappaksturinn) - Formula 1 - viapla
  y
 DTSTART:20250525T130000
@@ -638,6 +619,25 @@ DTEND:20250525T140000
 DTSTAMP:20250525T130000Z
 UID:2025-05-25T13:00:00/Pitlane (Kappakstur | Mónakó Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Mónakó Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250525T130000
+DTEND:20250525T140000
+DTSTAMP:20250525T130000Z
+UID:2025-05-25T13:00:00/Timing (Kappakstur | Mónakó Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Mónakó Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Mónakó Kappaksturinn) - Formula 
+ 1 - viaplay
+DTSTART:20250525T130000
+DTEND:20250525T140000
+DTSTAMP:20250525T130000Z
+UID:2025-05-25T13:00:00/Track Positioning (Kappakstur | Mónakó Kappakstu
+ rinn)
+DESCRIPTION:Track Positioning (Kappakstur | Mónakó Kappaksturinn) - Form
+ ula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Trofeo Pirelli | Kappakstur 2) - Ferrari Challeng
