@@ -10,20 +10,20 @@ UID:2025-05-23T18:40:00/ Cagliari - Napoli
 DESCRIPTION: Cagliari - Napoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Napoli - Cagliari - Serie A - Ítalski boltinn - livey
-DTSTART:20250523T184500
-DTEND:20250523T194500
-DTSTAMP:20250523T184500Z
-UID:2025-05-23T18:45:00/Napoli - Cagliari
-DESCRIPTION:Napoli - Cagliari - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Como - Inter Milan - Serie A - Ítalski boltinn - livey
 DTSTART:20250523T184500
 DTEND:20250523T194500
 DTSTAMP:20250523T184500Z
 UID:2025-05-23T18:45:00/Como - Inter Milan
 DESCRIPTION:Como - Inter Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli - Cagliari - Serie A - Ítalski boltinn - livey
+DTSTART:20250523T184500
+DTEND:20250523T194500
+DTSTAMP:20250523T184500Z
+UID:2025-05-23T18:45:00/Napoli - Cagliari
+DESCRIPTION:Napoli - Cagliari - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bologna - Genoa - Serie A - Ítalski boltinn - livey
@@ -42,20 +42,12 @@ UID:2025-05-24T18:45:00/AC Milan - Monza
 DESCRIPTION:AC Milan - Monza - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Venezia - Juventus - Serie A - Ítalski boltinn - livey
+SUMMARY:Empoli - Hellas Verona - Serie A - Ítalski boltinn - livey
 DTSTART:20250525T184500
 DTEND:20250525T194500
 DTSTAMP:20250525T184500Z
-UID:2025-05-25T18:45:00/Venezia - Juventus
-DESCRIPTION:Venezia - Juventus - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torino - Roma - Serie A - Ítalski boltinn - livey
-DTSTART:20250525T184500
-DTEND:20250525T194500
-DTSTAMP:20250525T184500Z
-UID:2025-05-25T18:45:00/Torino - Roma
-DESCRIPTION:Torino - Roma - Serie A - Ítalski boltinn
+UID:2025-05-25T18:45:00/Empoli - Hellas Verona
+DESCRIPTION:Empoli - Hellas Verona - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Udinese - Fiorentina - Serie A - Ítalski boltinn - livey
@@ -66,20 +58,20 @@ UID:2025-05-25T18:45:00/Udinese - Fiorentina
 DESCRIPTION:Udinese - Fiorentina - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Empoli - Hellas Verona - Serie A - Ítalski boltinn - livey
+SUMMARY:Torino - Roma - Serie A - Ítalski boltinn - livey
 DTSTART:20250525T184500
 DTEND:20250525T194500
 DTSTAMP:20250525T184500Z
-UID:2025-05-25T18:45:00/Empoli - Hellas Verona
-DESCRIPTION:Empoli - Hellas Verona - Serie A - Ítalski boltinn
+UID:2025-05-25T18:45:00/Torino - Roma
+DESCRIPTION:Torino - Roma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lazio - Lecce - Serie A - Ítalski boltinn - livey
+SUMMARY:Venezia - Juventus - Serie A - Ítalski boltinn - livey
 DTSTART:20250525T184500
 DTEND:20250525T194500
 DTSTAMP:20250525T184500Z
-UID:2025-05-25T18:45:00/Lazio - Lecce
-DESCRIPTION:Lazio - Lecce - Serie A - Ítalski boltinn
+UID:2025-05-25T18:45:00/Venezia - Juventus
+DESCRIPTION:Venezia - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atalanta - Parma - Serie A - Ítalski boltinn - livey
@@ -88,5 +80,13 @@ DTEND:20250525T194500
 DTSTAMP:20250525T184500Z
 UID:2025-05-25T18:45:00/Atalanta - Parma
 DESCRIPTION:Atalanta - Parma - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lazio - Lecce - Serie A - Ítalski boltinn - livey
+DTSTART:20250525T184500
+DTEND:20250525T194500
+DTSTAMP:20250525T184500Z
+UID:2025-05-25T18:45:00/Lazio - Lecce
+DESCRIPTION:Lazio - Lecce - Serie A - Ítalski boltinn
 END:VEVENT
 END:VCALENDAR
