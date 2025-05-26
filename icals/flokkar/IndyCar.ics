@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Indianapolis 500 (Kappakstur) - IndyCar - viaplay
-DTSTART:20250525T140000
-DTEND:20250525T150000
-DTSTAMP:20250525T140000Z
-UID:2025-05-25T14:00:00/Indianapolis 500 (Kappakstur)
-DESCRIPTION:Indianapolis 500 (Kappakstur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chevrolet Detroit Grand Prix (Träning 1) - IndyCar - viaplay
 DTSTART:20250530T190000
 DTEND:20250530T200000
@@ -32,5 +24,21 @@ DTEND:20250531T170000
 DTSTAMP:20250531T160000Z
 UID:2025-05-31T16:00:00/Chevrolet Detroit Grand Prix (Tímatökur)
 DESCRIPTION:Chevrolet Detroit Grand Prix (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chevrolet Detroit Grand Prix (Warm Up) - IndyCar - viaplay
+DTSTART:20250601T133000
+DTEND:20250601T143000
+DTSTAMP:20250601T133000Z
+UID:2025-06-01T13:30:00/Chevrolet Detroit Grand Prix (Warm Up)
+DESCRIPTION:Chevrolet Detroit Grand Prix (Warm Up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chevrolet Detroit Grand Prix (Kappakstur) - IndyCar - viaplay
+DTSTART:20250601T163000
+DTEND:20250601T173000
+DTSTAMP:20250601T163000Z
+UID:2025-06-01T16:30:00/Chevrolet Detroit Grand Prix (Kappakstur)
+DESCRIPTION:Chevrolet Detroit Grand Prix (Kappakstur) - IndyCar
 END:VEVENT
 END:VCALENDAR
