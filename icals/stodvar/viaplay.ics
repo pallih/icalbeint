@@ -2,70 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250526T110000
-DTEND:20250526T120000
-DTSTAMP:20250526T110000Z
-UID:2025-05-26T11:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFC Wimbledon - Walsall - League Two - viaplay
-DTSTART:20250526T135500
-DTEND:20250526T145500
-DTSTAMP:20250526T135500Z
-UID:2025-05-26T13:55:00/AFC Wimbledon - Walsall
-DESCRIPTION:AFC Wimbledon - Walsall - League Two
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Al Fateh - Al Nassr - Saudi Pro League - viaplay
-DTSTART:20250526T175500
-DTEND:20250526T185500
-DTSTAMP:20250526T175500Z
-UID:2025-05-26T17:55:00/Al Fateh - Al Nassr
-DESCRIPTION:Al Fateh - Al Nassr - Saudi Pro League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Al Hilal - Al Qadsiah - Saudi Pro League - viaplay
-DTSTART:20250526T175500
-DTEND:20250526T185500
-DTSTAMP:20250526T175500Z
-UID:2025-05-26T17:55:00/Al Hilal - Al Qadsiah
-DESCRIPTION:Al Hilal - Al Qadsiah - Saudi Pro League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Al Ittihad - Damac - Saudi Pro League - viaplay
-DTSTART:20250526T175500
-DTEND:20250526T185500
-DTSTAMP:20250526T175500Z
-UID:2025-05-26T17:55:00/Al Ittihad - Damac
-DESCRIPTION:Al Ittihad - Damac - Saudi Pro League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEL/UECL Magazine - UEFA Europa League - viaplay
-DTSTART:20250526T180000
-DTEND:20250526T190000
-DTSTAMP:20250526T180000Z
-UID:2025-05-26T18:00:00/UEL/UECL Magazine
-DESCRIPTION:UEL/UECL Magazine - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elversberg - Heidenheim - Bundesliga - viaplay
-DTSTART:20250526T182000
-DTEND:20250526T192000
-DTSTAMP:20250526T182000Z
-UID:2025-05-26T18:20:00/Elversberg - Heidenheim
-DESCRIPTION:Elversberg - Heidenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ross County - Livingston - Scottish Premiership - viaplay
-DTSTART:20250526T185500
-DTEND:20250526T195500
-DTSTAMP:20250526T185500Z
-UID:2025-05-26T18:55:00/Ross County - Livingston
-DESCRIPTION:Ross County - Livingston - Scottish Premiership
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Florida - Carolina - NHL - viaplay
 DTSTART:20250527T000500
 DTEND:20250527T010500
@@ -88,6 +24,14 @@ DTEND:20250527T130000
 DTSTAMP:20250527T120000Z
 UID:2025-05-27T12:00:00/Buenos Aires P1
 DESCRIPTION:Buenos Aires P1 - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEL/UECL Magazine - UEFA Europa League - viaplay
+DTSTART:20250527T180000
+DTEND:20250527T190000
+DTSTAMP:20250527T180000Z
+UID:2025-05-27T18:00:00/UEL/UECL Magazine
+DESCRIPTION:UEL/UECL Magazine - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braunschweig - Saarbrücken - 2. Bundesliga - viaplay
@@ -139,10 +83,10 @@ DESCRIPTION:Kiel - DHfK Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Betis - Chelsea - UEFA Europa Conference League - viaplay
-DTSTART:20250528T185000
-DTEND:20250528T195000
-DTSTAMP:20250528T185000Z
-UID:2025-05-28T18:50:00/Real Betis - Chelsea
+DTSTART:20250528T184500
+DTEND:20250528T194500
+DTSTAMP:20250528T184500Z
+UID:2025-05-28T18:45:00/Real Betis - Chelsea
 DESCRIPTION:Real Betis - Chelsea - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
@@ -152,6 +96,14 @@ DTEND:20250528T210000
 DTSTAMP:20250528T200000Z
 UID:2025-05-28T20:00:00/Buenos Aires P1
 DESCRIPTION:Buenos Aires P1 - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina - Florida - NHL - viaplay
+DTSTART:20250529T000500
+DTEND:20250529T010500
+DTSTAMP:20250529T000500Z
+UID:2025-05-29T00:05:00/Carolina - Florida
+DESCRIPTION:Carolina - Florida - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
@@ -210,12 +162,12 @@ UID:2025-05-29T19:00:00/Buenos Aires P1
 DESCRIPTION:Buenos Aires P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:European Darts Open - PDC Darts - viaplay
-DTSTART:20250530T110000
-DTEND:20250530T120000
-DTSTAMP:20250530T110000Z
-UID:2025-05-30T11:00:00/European Darts Open
-DESCRIPTION:European Darts Open - PDC Darts
+SUMMARY:Dallas - Edmonton - NHL - viaplay
+DTSTART:20250530T000500
+DTEND:20250530T010500
+DTSTAMP:20250530T000500Z
+UID:2025-05-30T00:05:00/Dallas - Edmonton
+DESCRIPTION:Dallas - Edmonton - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
@@ -226,23 +178,20 @@ UID:2025-05-30T11:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:European Darts Open - PDC Darts - viaplay
+DTSTART:20250530T110000
+DTEND:20250530T120000
+DTSTAMP:20250530T110000Z
+UID:2025-05-30T11:00:00/European Darts Open
+DESCRIPTION:European Darts Open - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spænski Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20250530T112500
 DTEND:20250530T122500
 DTSTAMP:20250530T112500Z
 UID:2025-05-30T11:25:00/Spænski Kappaksturinn (Æfing 1)
 DESCRIPTION:Spænski Kappaksturinn (Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 1 | Spænski Kappaksturinn) - Formula 1 
- - viaplay
-DTSTART:20250530T113000
-DTEND:20250530T123000
-DTSTAMP:20250530T113000Z
-UID:2025-05-30T11:30:00/Track Positioning (Æfing 1 | Spænski Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Æfing 1 | Spænski Kappaksturinn) - Formul
- a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 1 | Spænski Kappaksturinn) - Formula 1 - viaplay
@@ -269,6 +218,17 @@ UID:2025-05-30T11:30:00/Timing (Æfing 1 | Spænski Kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 1 | Spænski Kappaksturinn) - Formula 1 
+ - viaplay
+DTSTART:20250530T113000
+DTEND:20250530T123000
+DTSTAMP:20250530T113000Z
+UID:2025-05-30T11:30:00/Track Positioning (Æfing 1 | Spænski Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Æfing 1 | Spænski Kappaksturinn) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Buenos Aires P1 - Premier Padel - viaplay
 DTSTART:20250530T120000
 DTEND:20250530T130000
@@ -277,19 +237,27 @@ UID:2025-05-30T12:00:00/Buenos Aires P1
 DESCRIPTION:Buenos Aires P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FIFA World Cup 2026 Qualifiers: Preview - Undankeppni HM - viaplay
+DTSTART:20250530T123000
+DTEND:20250530T133000
+DTSTAMP:20250530T123000Z
+UID:2025-05-30T12:30:00/FIFA World Cup 2026 Qualifiers: Preview
+DESCRIPTION:FIFA World Cup 2026 Qualifiers: Preview - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barcelona (Tímatökur) - Formula 3 - viaplay
-DTSTART:20250530T125500
-DTEND:20250530T135500
-DTSTAMP:20250530T125500Z
-UID:2025-05-30T12:55:00/Barcelona (Tímatökur)
+DTSTART:20250530T130000
+DTEND:20250530T140000
+DTSTAMP:20250530T130000Z
+UID:2025-05-30T13:00:00/Barcelona (Tímatökur)
 DESCRIPTION:Barcelona (Tímatökur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barcelona (Tímatökur) - Formula 2 - viaplay
-DTSTART:20250530T135000
-DTEND:20250530T145000
-DTSTAMP:20250530T135000Z
-UID:2025-05-30T13:50:00/Barcelona (Tímatökur)
+DTSTART:20250530T135500
+DTEND:20250530T145500
+DTSTAMP:20250530T135500Z
+UID:2025-05-30T13:55:00/Barcelona (Tímatökur)
 DESCRIPTION:Barcelona (Tímatökur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
@@ -299,22 +267,6 @@ DTEND:20250530T155500
 DTSTAMP:20250530T145500Z
 UID:2025-05-30T14:55:00/Spænski Kappaksturinn (Æfing 2)
 DESCRIPTION:Spænski Kappaksturinn (Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Spænski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250530T150000
-DTEND:20250530T160000
-DTSTAMP:20250530T150000Z
-UID:2025-05-30T15:00:00/Onboard (Æfing 2 | Spænski Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Spænski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Spænski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250530T150000
-DTEND:20250530T160000
-DTSTAMP:20250530T150000Z
-UID:2025-05-30T15:00:00/Pitlane (Æfing 2 | Spænski Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Spænski Kappaksturinn) - Formula 1 
@@ -334,6 +286,22 @@ DTEND:20250530T160000
 DTSTAMP:20250530T150000Z
 UID:2025-05-30T15:00:00/Timing (Æfing 2 | Spænski Kappaksturinn)
 DESCRIPTION:Timing (Æfing 2 | Spænski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 2 | Spænski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250530T150000
+DTEND:20250530T160000
+DTSTAMP:20250530T150000Z
+UID:2025-05-30T15:00:00/Onboard (Æfing 2 | Spænski Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Spænski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 2 | Spænski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250530T150000
+DTEND:20250530T160000
+DTSTAMP:20250530T150000Z
+UID:2025-05-30T15:00:00/Pitlane (Æfing 2 | Spænski Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Women's Open - Golf Major (Konur) - viaplay
@@ -358,6 +326,14 @@ DTEND:20250530T190000
 DTSTAMP:20250530T180000Z
 UID:2025-05-30T18:00:00/Detroit Grand Prix (Æfing 1)
 DESCRIPTION:Detroit Grand Prix (Æfing 1) - Indy NXT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þýskaland - Holland - UEFA Women's Nations League - viaplay
+DTSTART:20250530T182500
+DTEND:20250530T192500
+DTSTAMP:20250530T182500Z
+UID:2025-05-30T18:25:00/Þýskaland - Holland
+DESCRIPTION:Þýskaland - Holland - UEFA Women's Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:England - Portúgal - UEFA Women's Nations League - viaplay
@@ -416,25 +392,6 @@ UID:2025-05-31T10:25:00/Spænski Kappaksturinn (Æfing 3)
 DESCRIPTION:Spænski Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Spænski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250531T103000
-DTEND:20250531T113000
-DTSTAMP:20250531T103000Z
-UID:2025-05-31T10:30:00/Pitlane (Æfing 3 | Spænski Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Spænski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 3 | Spænski Kappaksturinn) - Formula 1 
- - viaplay
-DTSTART:20250531T103000
-DTEND:20250531T113000
-DTSTAMP:20250531T103000Z
-UID:2025-05-31T10:30:00/Track Positioning (Æfing 3 | Spænski Kappaksturi
- nn)
-DESCRIPTION:Track Positioning (Æfing 3 | Spænski Kappaksturinn) - Formul
- a 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 3 | Spænski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250531T103000
 DTEND:20250531T113000
@@ -449,6 +406,25 @@ DTEND:20250531T113000
 DTSTAMP:20250531T103000Z
 UID:2025-05-31T10:30:00/Timing (Æfing 3 | Spænski Kappaksturinn)
 DESCRIPTION:Timing (Æfing 3 | Spænski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 3 | Spænski Kappaksturinn) - Formula 1 
+ - viaplay
+DTSTART:20250531T103000
+DTEND:20250531T113000
+DTSTAMP:20250531T103000Z
+UID:2025-05-31T10:30:00/Track Positioning (Æfing 3 | Spænski Kappaksturi
+ nn)
+DESCRIPTION:Track Positioning (Æfing 3 | Spænski Kappaksturinn) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 3 | Spænski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250531T103000
+DTEND:20250531T113000
+DTSTAMP:20250531T103000Z
+UID:2025-05-31T10:30:00/Pitlane (Æfing 3 | Spænski Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Darts Open - PDC Darts - viaplay
@@ -499,6 +475,23 @@ UID:2025-05-31T13:55:00/Spænski Kappaksturinn (Tímatökur)
 DESCRIPTION:Spænski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Tímatökur | Spain Grand Prix) - Formula 1 - viaplay
+DTSTART:20250531T140000
+DTEND:20250531T150000
+DTSTAMP:20250531T140000Z
+UID:2025-05-31T14:00:00/Pitlane (Tímatökur | Spain Grand Prix)
+DESCRIPTION:Pitlane (Tímatökur | Spain Grand Prix) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Tímatökur | Spænski Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250531T140000
+DTEND:20250531T150000
+DTSTAMP:20250531T140000Z
+UID:2025-05-31T14:00:00/Onboard (Tímatökur | Spænski Kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Spænski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Spænski Kappaksturinn) - Formul
  a 1 - viaplay
 DTSTART:20250531T140000
@@ -510,14 +503,6 @@ DESCRIPTION:Track Positioning (Tímatökur | Spænski Kappaksturinn) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Spain Grand Prix) - Formula 1 - viaplay
-DTSTART:20250531T140000
-DTEND:20250531T150000
-DTSTAMP:20250531T140000Z
-UID:2025-05-31T14:00:00/Pitlane (Tímatökur | Spain Grand Prix)
-DESCRIPTION:Pitlane (Tímatökur | Spain Grand Prix) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Tímatökur | Spænski Kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20250531T140000
@@ -525,15 +510,6 @@ DTEND:20250531T150000
 DTSTAMP:20250531T140000Z
 UID:2025-05-31T14:00:00/Timing (Tímatökur | Spænski Kappaksturinn)
 DESCRIPTION:Timing (Tímatökur | Spænski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Spænski Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20250531T140000
-DTEND:20250531T150000
-DTSTAMP:20250531T140000Z
-UID:2025-05-31T14:00:00/Onboard (Tímatökur | Spænski Kappaksturinn)
-DESCRIPTION:Onboard (Tímatökur | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detroit Grand Prix (Tímatökur) - Indy NXT - viaplay
@@ -568,20 +544,20 @@ UID:2025-05-31T16:55:00/Kiel - Hamburg
 DESCRIPTION:Kiel - Hamburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:European Darts Open - PDC Darts - viaplay
-DTSTART:20250531T170000
-DTEND:20250531T180000
-DTSTAMP:20250531T170000Z
-UID:2025-05-31T17:00:00/European Darts Open
-DESCRIPTION:European Darts Open - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:US Women´s Open - Golf Major (Konur) - viaplay
 DTSTART:20250531T170000
 DTEND:20250531T180000
 DTSTAMP:20250531T170000Z
 UID:2025-05-31T17:00:00/US Women´s Open
 DESCRIPTION:US Women´s Open - Golf Major (Konur)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Darts Open - PDC Darts - viaplay
+DTSTART:20250531T170000
+DTEND:20250531T180000
+DTSTAMP:20250531T170000Z
+UID:2025-05-31T17:00:00/European Darts Open
+DESCRIPTION:European Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detroit Grand Prix - IMSA Sportscar Championship - viaplay
@@ -656,6 +632,15 @@ UID:2025-06-01T12:30:00/Spænski Kappaksturinn (Kappakstur)
 DESCRIPTION:Spænski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Spænski Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250601T130000
+DTEND:20250601T140000
+DTSTAMP:20250601T130000Z
+UID:2025-06-01T13:00:00/Onboard (Kappakstur | Spænski Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Spænski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Spænski Kappaksturinn) - Formula 
  1 - viaplay
 DTSTART:20250601T130000
@@ -682,15 +667,6 @@ DTEND:20250601T140000
 DTSTAMP:20250601T130000Z
 UID:2025-06-01T13:00:00/Timing (Kappakstur | Spænski Kappaksturinn)
 DESCRIPTION:Timing (Kappakstur | Spænski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Spænski Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20250601T130000
-DTEND:20250601T140000
-DTSTAMP:20250601T130000Z
-UID:2025-06-01T13:00:00/Onboard (Kappakstur | Spænski Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chevrolet Detroit Grand Prix (Warm Up) - IndyCar - viaplay
@@ -725,20 +701,20 @@ UID:2025-06-01T16:30:00/Chevrolet Detroit Grand Prix (Kappakstur)
 DESCRIPTION:Chevrolet Detroit Grand Prix (Kappakstur) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:European Darts Open - PDC Darts - viaplay
-DTSTART:20250601T170000
-DTEND:20250601T180000
-DTSTAMP:20250601T170000Z
-UID:2025-06-01T17:00:00/European Darts Open
-DESCRIPTION:European Darts Open - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:US Women´s Open - Golf Major (Konur) - viaplay
 DTSTART:20250601T170000
 DTEND:20250601T180000
 DTSTAMP:20250601T170000Z
 UID:2025-06-01T17:00:00/US Women´s Open
 DESCRIPTION:US Women´s Open - Golf Major (Konur)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Darts Open - PDC Darts - viaplay
+DTSTART:20250601T170000
+DTEND:20250601T180000
+DTSTAMP:20250601T170000Z
+UID:2025-06-01T17:00:00/European Darts Open
+DESCRIPTION:European Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buenos Aires P1 - Premier Padel - viaplay
@@ -755,5 +731,13 @@ DTEND:20250601T233000
 DTSTAMP:20250601T223000Z
 UID:2025-06-01T22:30:00/NCS Race at Nashville (Cup Series)
 DESCRIPTION:NCS Race at Nashville (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20250602T110000
+DTEND:20250602T120000
+DTSTAMP:20250602T110000Z
+UID:2025-06-02T11:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 END:VCALENDAR
