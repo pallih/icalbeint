@@ -2,84 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Carolina - Florida - NHL - viaplay
-DTSTART:20250529T000500
-DTEND:20250529T010500
-DTSTAMP:20250529T000500Z
-UID:2025-05-29T00:05:00/Carolina - Florida
-DESCRIPTION:Carolina - Florida - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250529T104500
-DTEND:20250529T114500
-DTSTAMP:20250529T104500Z
-UID:2025-05-29T10:45:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buenos Aires P1 - Premier Padel - viaplay
-DTSTART:20250529T130000
-DTEND:20250529T140000
-DTSTAMP:20250529T130000Z
-UID:2025-05-29T13:00:00/Buenos Aires P1
-DESCRIPTION:Buenos Aires P1 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:US Women´s Open - Golf Major (Konur) - viaplay
-DTSTART:20250529T160000
-DTEND:20250529T170000
-DTSTAMP:20250529T160000Z
-UID:2025-05-29T16:00:00/US Women´s Open
-DESCRIPTION:US Women´s Open - Golf Major (Konur)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEL/UECL Highlights - UEFA Europa League - viaplay
-DTSTART:20250529T170000
-DTEND:20250529T180000
-DTSTAMP:20250529T170000Z
-UID:2025-05-29T17:00:00/UEL/UECL Highlights
-DESCRIPTION:UEL/UECL Highlights - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Füchse Berlin - Melsungen - Bundesliga - viaplay
-DTSTART:20250529T175500
-DTEND:20250529T185500
-DTSTAMP:20250529T175500Z
-UID:2025-05-29T17:55:00/Füchse Berlin - Melsungen
-DESCRIPTION:Füchse Berlin - Melsungen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:London - PDC Darts - viaplay
-DTSTART:20250529T180000
-DTEND:20250529T190000
-DTSTAMP:20250529T180000Z
-UID:2025-05-29T18:00:00/London
-DESCRIPTION:London - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buenos Aires P1 - Premier Padel - viaplay
-DTSTART:20250529T190000
-DTEND:20250529T200000
-DTSTAMP:20250529T190000Z
-UID:2025-05-29T19:00:00/Buenos Aires P1
-DESCRIPTION:Buenos Aires P1 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dallas - Edmonton - NHL - viaplay
 DTSTART:20250530T000500
 DTEND:20250530T010500
 DTSTAMP:20250530T000500Z
 UID:2025-05-30T00:05:00/Dallas - Edmonton
 DESCRIPTION:Dallas - Edmonton - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:European Darts Open - PDC Darts - viaplay
-DTSTART:20250530T110000
-DTEND:20250530T120000
-DTSTAMP:20250530T110000Z
-UID:2025-05-30T11:00:00/European Darts Open
-DESCRIPTION:European Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
@@ -90,12 +18,28 @@ UID:2025-05-30T11:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:European Darts Open - PDC Darts - viaplay
+DTSTART:20250530T110000
+DTEND:20250530T120000
+DTSTAMP:20250530T110000Z
+UID:2025-05-30T11:00:00/European Darts Open
+DESCRIPTION:European Darts Open - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spænski Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20250530T112500
 DTEND:20250530T122500
 DTSTAMP:20250530T112500Z
 UID:2025-05-30T11:25:00/Spænski Kappaksturinn (Æfing 1)
 DESCRIPTION:Spænski Kappaksturinn (Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 1 | Spænski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250530T113000
+DTEND:20250530T123000
+DTSTAMP:20250530T113000Z
+UID:2025-05-30T11:30:00/Pitlane (Æfing 1 | Spænski Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Spænski Kappaksturinn) - Formula 1 
@@ -109,12 +53,12 @@ DESCRIPTION:Track Positioning (Æfing 1 | Spænski Kappaksturinn) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Spænski Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing (Æfing 1 | Spænski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250530T113000
 DTEND:20250530T123000
 DTSTAMP:20250530T113000Z
-UID:2025-05-30T11:30:00/Pitlane (Æfing 1 | Spænski Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Spænski Kappaksturinn) - Formula 1
+UID:2025-05-30T11:30:00/Timing (Æfing 1 | Spænski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 1 | Spænski Kappaksturinn) - Formula 1 - viaplay
@@ -123,14 +67,6 @@ DTEND:20250530T123000
 DTSTAMP:20250530T113000Z
 UID:2025-05-30T11:30:00/Onboard (Æfing 1 | Spænski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Spænski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Spænski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250530T113000
-DTEND:20250530T123000
-DTSTAMP:20250530T113000Z
-UID:2025-05-30T11:30:00/Timing (Æfing 1 | Spænski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buenos Aires P1 - Premier Padel - viaplay
@@ -173,20 +109,20 @@ UID:2025-05-30T14:55:00/Spænski Kappaksturinn (Æfing 2)
 DESCRIPTION:Spænski Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Spænski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250530T150000
-DTEND:20250530T160000
-DTSTAMP:20250530T150000Z
-UID:2025-05-30T15:00:00/Onboard (Æfing 2 | Spænski Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Spænski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 2 | Spænski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250530T150000
 DTEND:20250530T160000
 DTSTAMP:20250530T150000Z
 UID:2025-05-30T15:00:00/Pitlane (Æfing 2 | Spænski Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 2 | Spænski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 2 | Spænski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250530T150000
+DTEND:20250530T160000
+DTSTAMP:20250530T150000Z
+UID:2025-05-30T15:00:00/Onboard (Æfing 2 | Spænski Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Spænski Kappaksturinn) - Formula 1 - viaplay
@@ -296,20 +232,20 @@ UID:2025-05-31T10:25:00/Spænski Kappaksturinn (Æfing 3)
 DESCRIPTION:Spænski Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Æfing 3 | Spænski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250531T103000
+DTEND:20250531T113000
+DTSTAMP:20250531T103000Z
+UID:2025-05-31T10:30:00/Timing (Æfing 3 | Spænski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Spænski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 3 | Spænski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250531T103000
 DTEND:20250531T113000
 DTSTAMP:20250531T103000Z
 UID:2025-05-31T10:30:00/Onboard (Æfing 3 | Spænski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 3 | Spænski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Spænski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250531T103000
-DTEND:20250531T113000
-DTSTAMP:20250531T103000Z
-UID:2025-05-31T10:30:00/Pitlane (Æfing 3 | Spænski Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Spænski Kappaksturinn) - Formula 1 
@@ -323,12 +259,12 @@ DESCRIPTION:Track Positioning (Æfing 3 | Spænski Kappaksturinn) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Spænski Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 3 | Spænski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250531T103000
 DTEND:20250531T113000
 DTSTAMP:20250531T103000Z
-UID:2025-05-31T10:30:00/Timing (Æfing 3 | Spænski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Spænski Kappaksturinn) - Formula 1
+UID:2025-05-31T10:30:00/Pitlane (Æfing 3 | Spænski Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Darts Open - PDC Darts - viaplay
@@ -389,6 +325,15 @@ UID:2025-05-31T13:45:00/Spænski Kappaksturinn (Tímatökur)
 DESCRIPTION:Spænski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Tímatökur | Spænski Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20250531T140000
+DTEND:20250531T150000
+DTSTAMP:20250531T140000Z
+UID:2025-05-31T14:00:00/Timing (Tímatökur | Spænski Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Spænski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Spænski Kappaksturinn) - Formul
  a 1 - viaplay
 DTSTART:20250531T140000
@@ -427,15 +372,6 @@ UID:2025-05-31T14:00:00/Onboard (Tímatökur | Spænski Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Spænski Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20250531T140000
-DTEND:20250531T150000
-DTSTAMP:20250531T140000Z
-UID:2025-05-31T14:00:00/Timing (Tímatökur | Spænski Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Spænski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Detroit Grand Prix (Tímatökur) - Indy NXT - viaplay
 DTSTART:20250531T153000
 DTEND:20250531T163000
@@ -468,20 +404,20 @@ UID:2025-05-31T16:55:00/Kiel - Hamburg
 DESCRIPTION:Kiel - Hamburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:US Women´s Open - Golf Major (Konur) - viaplay
-DTSTART:20250531T170000
-DTEND:20250531T180000
-DTSTAMP:20250531T170000Z
-UID:2025-05-31T17:00:00/US Women´s Open
-DESCRIPTION:US Women´s Open - Golf Major (Konur)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:European Darts Open - PDC Darts - viaplay
 DTSTART:20250531T170000
 DTEND:20250531T180000
 DTSTAMP:20250531T170000Z
 UID:2025-05-31T17:00:00/European Darts Open
 DESCRIPTION:European Darts Open - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Women´s Open - Golf Major (Konur) - viaplay
+DTSTART:20250531T170000
+DTEND:20250531T180000
+DTSTAMP:20250531T170000Z
+UID:2025-05-31T17:00:00/US Women´s Open
+DESCRIPTION:US Women´s Open - Golf Major (Konur)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detroit Grand Prix - IMSA Sportscar Championship - viaplay
@@ -542,20 +478,20 @@ UID:2025-06-01T09:45:00/Barcelona (Kappakstur)
 DESCRIPTION:Barcelona (Kappakstur) - Porsche Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250601T110000
-DTEND:20250601T120000
-DTSTAMP:20250601T110000Z
-UID:2025-06-01T11:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:European Darts Open - PDC Darts - viaplay
 DTSTART:20250601T110000
 DTEND:20250601T120000
 DTSTAMP:20250601T110000Z
 UID:2025-06-01T11:00:00/European Darts Open
 DESCRIPTION:European Darts Open - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20250601T110000
+DTEND:20250601T120000
+DTSTAMP:20250601T110000Z
+UID:2025-06-01T11:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World RX of Portugal (Tímatökur 4) - World Rallycross Championsh
@@ -576,6 +512,17 @@ UID:2025-06-01T12:30:00/Spænski Kappaksturinn (Kappakstur)
 DESCRIPTION:Spænski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Spænski Kappaksturinn) - Formula 
+ 1 - viaplay
+DTSTART:20250601T130000
+DTEND:20250601T140000
+DTSTAMP:20250601T130000Z
+UID:2025-06-01T13:00:00/Track Positioning (Kappakstur | Spænski Kappakstu
+ rinn)
+DESCRIPTION:Track Positioning (Kappakstur | Spænski Kappaksturinn) - Form
+ ula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Spænski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250601T130000
 DTEND:20250601T140000
@@ -593,26 +540,6 @@ UID:2025-06-01T13:00:00/World RX of Portugal (Úrslit)
 DESCRIPTION:World RX of Portugal (Úrslit) - World Rallycross Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Spænski Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20250601T130000
-DTEND:20250601T140000
-DTSTAMP:20250601T130000Z
-UID:2025-06-01T13:00:00/Onboard (Kappakstur | Spænski Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Spænski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Spænski Kappaksturinn) - Formula 
- 1 - viaplay
-DTSTART:20250601T130000
-DTEND:20250601T140000
-DTSTAMP:20250601T130000Z
-UID:2025-06-01T13:00:00/Track Positioning (Kappakstur | Spænski Kappakstu
- rinn)
-DESCRIPTION:Track Positioning (Kappakstur | Spænski Kappaksturinn) - Form
- ula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Spænski Kappaksturinn) - Formula 1 - viapla
  y
 DTSTART:20250601T130000
@@ -620,6 +547,15 @@ DTEND:20250601T140000
 DTSTAMP:20250601T130000Z
 UID:2025-06-01T13:00:00/Pitlane (Kappakstur | Spænski Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Spænski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Spænski Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250601T130000
+DTEND:20250601T140000
+DTSTAMP:20250601T130000Z
+UID:2025-06-01T13:00:00/Onboard (Kappakstur | Spænski Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Spænski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chevrolet Detroit Grand Prix (Warm Up) - IndyCar - viaplay
@@ -654,6 +590,14 @@ UID:2025-06-01T16:30:00/Chevrolet Detroit Grand Prix (Kappakstur)
 DESCRIPTION:Chevrolet Detroit Grand Prix (Kappakstur) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Buenos Aires P1 - Premier Padel - viaplay
+DTSTART:20250601T170000
+DTEND:20250601T180000
+DTSTAMP:20250601T170000Z
+UID:2025-06-01T17:00:00/Buenos Aires P1
+DESCRIPTION:Buenos Aires P1 - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:European Darts Open - PDC Darts - viaplay
 DTSTART:20250601T170000
 DTEND:20250601T180000
@@ -663,19 +607,11 @@ DESCRIPTION:European Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:US Women´s Open - Golf Major (Konur) - viaplay
-DTSTART:20250601T170000
-DTEND:20250601T180000
-DTSTAMP:20250601T170000Z
-UID:2025-06-01T17:00:00/US Women´s Open
+DTSTART:20250601T180000
+DTEND:20250601T190000
+DTSTAMP:20250601T180000Z
+UID:2025-06-01T18:00:00/US Women´s Open
 DESCRIPTION:US Women´s Open - Golf Major (Konur)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buenos Aires P1 - Premier Padel - viaplay
-DTSTART:20250601T170000
-DTEND:20250601T180000
-DTSTAMP:20250601T170000Z
-UID:2025-06-01T17:00:00/Buenos Aires P1
-DESCRIPTION:Buenos Aires P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NCS Race at Nashville (Cup Series) - Nascar - viaplay
@@ -764,5 +700,53 @@ DTEND:20250604T195000
 DTSTAMP:20250604T185000Z
 UID:2025-06-04T18:50:00/Þýskaland - Portúgal
 DESCRIPTION:Þýskaland - Portúgal - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edmonton - Florida - NHL - viaplay
+DTSTART:20250605T000500
+DTEND:20250605T010500
+DTSTAMP:20250605T000500Z
+UID:2025-06-05T00:05:00/Edmonton - Florida
+DESCRIPTION:Edmonton - Florida - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20250605T110000
+DTEND:20250605T120000
+DTSTAMP:20250605T110000Z
+UID:2025-06-05T11:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tenerife Women’s Open - Ladies European Tour - viaplay
+DTSTART:20250605T113000
+DTEND:20250605T123000
+DTSTAMP:20250605T113000Z
+UID:2025-06-05T11:30:00/Tenerife Women’s Open
+DESCRIPTION:Tenerife Women’s Open - Ladies European Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgía - Færeyjar - Landsleikur - viaplay
+DTSTART:20250605T155000
+DTEND:20250605T165000
+DTSTAMP:20250605T155000Z
+UID:2025-06-05T15:50:00/Georgía - Færeyjar
+DESCRIPTION:Georgía - Færeyjar - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - VfL Gummersbach - Bundesliga - viaplay
+DTSTART:20250605T165500
+DTEND:20250605T175500
+DTSTAMP:20250605T165500Z
+UID:2025-06-05T16:55:00/Füchse Berlin - VfL Gummersbach
+DESCRIPTION:Füchse Berlin - VfL Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spánn - Frakkland - UEFA Nations League - viaplay
+DTSTART:20250605T183500
+DTEND:20250605T193500
+DTSTAMP:20250605T183500Z
+UID:2025-06-05T18:35:00/Spánn - Frakkland
+DESCRIPTION:Spánn - Frakkland - UEFA Nations League
 END:VEVENT
 END:VCALENDAR

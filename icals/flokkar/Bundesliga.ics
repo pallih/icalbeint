@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Füchse Berlin - Melsungen - Bundesliga - viaplay
-DTSTART:20250529T175500
-DTEND:20250529T185500
-DTSTAMP:20250529T175500Z
-UID:2025-05-29T17:55:00/Füchse Berlin - Melsungen
-DESCRIPTION:Füchse Berlin - Melsungen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kiel - Hamburg - Bundesliga - viaplay
 DTSTART:20250531T165500
 DTEND:20250531T175500
@@ -32,5 +24,13 @@ DTEND:20250604T185500
 DTSTAMP:20250604T175500Z
 UID:2025-06-04T17:55:00/Magdeburg - Flensburg-Handewitt
 DESCRIPTION:Magdeburg - Flensburg-Handewitt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - VfL Gummersbach - Bundesliga - viaplay
+DTSTART:20250605T165500
+DTEND:20250605T175500
+DTSTAMP:20250605T165500Z
+UID:2025-06-05T16:55:00/Füchse Berlin - VfL Gummersbach
+DESCRIPTION:Füchse Berlin - VfL Gummersbach - Bundesliga
 END:VEVENT
 END:VCALENDAR

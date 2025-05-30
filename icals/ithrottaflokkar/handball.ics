@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Füchse Berlin - Melsungen - Bundesliga - viaplay
-DTSTART:20250529T175500
-DTEND:20250529T185500
-DTSTAMP:20250529T175500Z
-UID:2025-05-29T17:55:00/Füchse Berlin - Melsungen
-DESCRIPTION:Füchse Berlin - Melsungen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Györi Audi ETO KC - Team Esbjerg - EHF - livey
 DTSTART:20250531T130000
 DTEND:20250531T140000
 DTSTAMP:20250531T130000Z
 UID:2025-05-31T13:00:00/Györi Audi ETO KC - Team Esbjerg
 DESCRIPTION:Györi Audi ETO KC - Team Esbjerg - EHF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Metz Handball - Odense Handbold - EHF - livey
-DTSTART:20250531T160000
-DTEND:20250531T170000
-DTSTAMP:20250531T160000Z
-UID:2025-05-31T16:00:00/Metz Handball - Odense Handbold
-DESCRIPTION:Metz Handball - Odense Handbold - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ísland - Færeyjar - U-15 kv | Vináttulandsleikir við Færeyjar
@@ -34,6 +18,14 @@ DTSTAMP:20250531T160000Z
 UID:2025-05-31T16:00:00/Ísland - Færeyjar
 DESCRIPTION:Ísland - Færeyjar - U-15 kv | Vináttulandsleikir við Fære
  yjar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metz Handball - Odense Handbold - EHF - livey
+DTSTART:20250531T160000
+DTEND:20250531T170000
+DTSTAMP:20250531T160000Z
+UID:2025-05-31T16:00:00/Metz Handball - Odense Handbold
+DESCRIPTION:Metz Handball - Odense Handbold - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THW Kiel - Hamburg - Bundesliga handbolti - stod2vodasport
@@ -84,5 +76,13 @@ DTEND:20250604T185500
 DTSTAMP:20250604T175500Z
 UID:2025-06-04T17:55:00/Magdeburg - Flensburg-Handewitt
 DESCRIPTION:Magdeburg - Flensburg-Handewitt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - VfL Gummersbach - Bundesliga - viaplay
+DTSTART:20250605T165500
+DTEND:20250605T175500
+DTSTAMP:20250605T165500Z
+UID:2025-06-05T16:55:00/Füchse Berlin - VfL Gummersbach
+DESCRIPTION:Füchse Berlin - VfL Gummersbach - Bundesliga
 END:VEVENT
 END:VCALENDAR
