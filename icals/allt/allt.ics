@@ -3,70 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - allt - ical
 BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250603T110000
-DTEND:20250603T120000
-DTSTAMP:20250603T110000Z
-UID:2025-06-03T11:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA Nations League: Preview - UEFA Nations League - viaplay
-DTSTART:20250603T162000
-DTEND:20250603T172000
-DTSTAMP:20250603T162000Z
-UID:2025-06-03T16:20:00/UEFA Nations League: Preview
-DESCRIPTION:UEFA Nations League: Preview - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spánn - England - Þjóðadeild kvenna - stod2vodasport
-DTSTART:20250603T165000
-DTEND:20250603T175000
-DTSTAMP:20250603T165000Z
-UID:2025-06-03T16:50:00/Spánn - England
-DESCRIPTION:Spánn - England - Þjóðadeild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spánn - England - UEFA Women's Nations League - viaplay
-DTSTART:20250603T165000
-DTEND:20250603T175000
-DTSTAMP:20250603T165000Z
-UID:2025-06-03T16:50:00/Spánn - England
-DESCRIPTION:Spánn - England - UEFA Women's Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEL/UECL Magazine - UEFA Europa League - viaplay
-DTSTART:20250603T173000
-DTEND:20250603T183000
-DTSTAMP:20250603T173000Z
-UID:2025-06-03T17:30:00/UEL/UECL Magazine
-DESCRIPTION:UEL/UECL Magazine - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ísland - Frakkland - Þjóðadeild kvenna í fótbolta - ruv
-DTSTART:20250603T180000
-DTEND:20250603T190000
-DTSTAMP:20250603T180000Z
-UID:2025-06-03T18:00:00/Ísland - Frakkland
-DESCRIPTION:Ísland - Frakkland - Þjóðadeild kvenna í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20250603T183000
-DTEND:20250603T193000
-DTSTAMP:20250603T183000Z
-UID:2025-06-03T18:30:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nationals - Cubs - MLB - stod2vodasport
-DTSTART:20250603T223000
-DTEND:20250603T233000
-DTSTAMP:20250603T223000Z
-UID:2025-06-03T22:30:00/Nationals - Cubs
-DESCRIPTION:Nationals - Cubs - MLB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
 DTSTART:20250604T110000
 DTEND:20250604T120000
 DTSTAMP:20250604T110000Z
@@ -114,28 +50,12 @@ UID:2025-06-04T18:50:00/Þýskaland - Portúgal
 DESCRIPTION:Þýskaland - Portúgal - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Fjölnir - Lengjudeildin - livey
-DTSTART:20250604T191500
-DTEND:20250604T201500
-DTSTAMP:20250604T191500Z
-UID:2025-06-04T19:15:00/Njarðvík - Fjölnir
-DESCRIPTION:Njarðvík - Fjölnir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fylkir - Leiknir - Lengjudeildin - livey
 DTSTART:20250604T191500
 DTEND:20250604T201500
 DTSTAMP:20250604T191500Z
 UID:2025-06-04T19:15:00/Fylkir - Leiknir
 DESCRIPTION:Fylkir - Leiknir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Þróttur - Lengjudeildin - livey
-DTSTART:20250604T191500
-DTEND:20250604T201500
-DTSTAMP:20250604T191500Z
-UID:2025-06-04T19:15:00/ÍR - Þróttur
-DESCRIPTION:ÍR - Þróttur - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Völsungur - Þór - Lengjudeildin - livey
@@ -146,12 +66,20 @@ UID:2025-06-04T19:15:00/Völsungur - Þór
 DESCRIPTION:Völsungur - Þór - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grindavík - Keflavík - Lengjudeildin - livey
+SUMMARY:Njarðvík - Fjölnir - Lengjudeildin - livey
 DTSTART:20250604T191500
 DTEND:20250604T201500
 DTSTAMP:20250604T191500Z
-UID:2025-06-04T19:15:00/Grindavík - Keflavík
-DESCRIPTION:Grindavík - Keflavík - Lengjudeildin
+UID:2025-06-04T19:15:00/Njarðvík - Fjölnir
+DESCRIPTION:Njarðvík - Fjölnir - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Þróttur - Lengjudeildin - livey
+DTSTART:20250604T191500
+DTEND:20250604T201500
+DTSTAMP:20250604T191500Z
+UID:2025-06-04T19:15:00/ÍR - Þróttur
+DESCRIPTION:ÍR - Þróttur - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - Selfoss - Lengjudeildin - livey
@@ -160,6 +88,14 @@ DTEND:20250604T201500
 DTSTAMP:20250604T191500Z
 UID:2025-06-04T19:15:00/HK - Selfoss
 DESCRIPTION:HK - Selfoss - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oilers - Panthers - NHL - stod2vodasport
+DTSTART:20250605T000000
+DTEND:20250605T010000
+DTSTAMP:20250605T000000Z
+UID:2025-06-05T00:00:00/Oilers - Panthers
+DESCRIPTION:Oilers - Panthers - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton - Florida - NHL - viaplay
@@ -186,20 +122,20 @@ UID:2025-06-05T11:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tenerife Women’s Open - Ladies European Tour - viaplay
-DTSTART:20250605T113000
-DTEND:20250605T123000
-DTSTAMP:20250605T113000Z
-UID:2025-06-05T11:30:00/Tenerife Women’s Open
-DESCRIPTION:Tenerife Women’s Open - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tenerife Women's Open - Ladies European Tour - stod2vodasport
 DTSTART:20250605T113000
 DTEND:20250605T123000
 DTSTAMP:20250605T113000Z
 UID:2025-06-05T11:30:00/Tenerife Women's Open
 DESCRIPTION:Tenerife Women's Open - Ladies European Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tenerife Women’s Open - Ladies European Tour - viaplay
+DTSTART:20250605T113000
+DTEND:20250605T123000
+DTSTAMP:20250605T113000Z
+UID:2025-06-05T11:30:00/Tenerife Women’s Open
+DESCRIPTION:Tenerife Women’s Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Georgía - Færeyjar - Landsleikur - viaplay
@@ -226,6 +162,14 @@ UID:2025-06-05T16:55:00/Füchse Berlin - VfL Gummersbach
 DESCRIPTION:Füchse Berlin - VfL Gummersbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spánn - Frakkland - UEFA Nations League - viaplay
+DTSTART:20250605T185000
+DTEND:20250605T195000
+DTSTAMP:20250605T185000Z
+UID:2025-06-05T18:50:00/Spánn - Frakkland
+DESCRIPTION:Spánn - Frakkland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spánn - Frakkland - Þjóðadeild UEFA - stod2vodasport
 DTSTART:20250605T185000
 DTEND:20250605T195000
@@ -234,12 +178,36 @@ UID:2025-06-05T18:50:00/Spánn - Frakkland
 DESCRIPTION:Spánn - Frakkland - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spánn - Frakkland - UEFA Nations League - viaplay
-DTSTART:20250605T185000
-DTEND:20250605T195000
-DTSTAMP:20250605T185000Z
-UID:2025-06-05T18:50:00/Spánn - Frakkland
-DESCRIPTION:Spánn - Frakkland - UEFA Nations League
+SUMMARY:Grindavík / Njarðvík - KR - Lengjudeildin - livey
+DTSTART:20250605T191500
+DTEND:20250605T201500
+DTSTAMP:20250605T191500Z
+UID:2025-06-05T19:15:00/Grindavík / Njarðvík - KR
+DESCRIPTION:Grindavík / Njarðvík - KR - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fylkir - Afturelding - Lengjudeildin - livey
+DTSTART:20250605T191500
+DTEND:20250605T201500
+DTSTAMP:20250605T191500Z
+UID:2025-06-05T19:15:00/Fylkir - Afturelding
+DESCRIPTION:Fylkir - Afturelding - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grótta - Haukar - Lengjudeildin - livey
+DTSTART:20250605T191500
+DTEND:20250605T201500
+DTSTAMP:20250605T191500Z
+UID:2025-06-05T19:15:00/Grótta - Haukar
+DESCRIPTION:Grótta - Haukar - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍA - HK - Lengjudeildin - livey
+DTSTART:20250605T191500
+DTEND:20250605T201500
+DTSTAMP:20250605T191500Z
+UID:2025-06-05T19:15:00/ÍA - HK
+DESCRIPTION:ÍA - HK - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NBA Finals - Upphitun - NBA - stod2sport2
@@ -362,20 +330,20 @@ UID:2025-06-06T16:00:00/ShopRite LPGA Classic
 DESCRIPTION:ShopRite LPGA Classic - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lúxemborg - Slóvenía - Landsleikur - viaplay
-DTSTART:20250606T165000
-DTEND:20250606T175000
-DTSTAMP:20250606T165000Z
-UID:2025-06-06T16:50:00/Lúxemborg - Slóvenía
-DESCRIPTION:Lúxemborg - Slóvenía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kósovó - Armenía - Landsleikur - viaplay
 DTSTART:20250606T165000
 DTEND:20250606T175000
 DTSTAMP:20250606T165000Z
 UID:2025-06-06T16:50:00/Kósovó - Armenía
 DESCRIPTION:Kósovó - Armenía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lúxemborg - Slóvenía - Landsleikur - viaplay
+DTSTART:20250606T165000
+DTEND:20250606T175000
+DTSTAMP:20250606T165000Z
+UID:2025-06-06T16:50:00/Lúxemborg - Slóvenía
+DESCRIPTION:Lúxemborg - Slóvenía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nordic Darts Masters - PDC Darts - viaplay
@@ -402,14 +370,6 @@ UID:2025-06-06T17:50:00/Tindastóll - Valur
 DESCRIPTION:Tindastóll - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skotland - Ísland - Landsleikur - viaplay
-DTSTART:20250606T182000
-DTEND:20250606T192000
-DTSTAMP:20250606T182000Z
-UID:2025-06-06T18:20:00/Skotland - Ísland
-DESCRIPTION:Skotland - Ísland - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skotland - Ísland: Upphitun - Landsleikir - Upphitun - stod2sport
 DTSTART:20250606T182000
 DTEND:20250606T192000
@@ -418,12 +378,12 @@ UID:2025-06-06T18:20:00/Skotland - Ísland: Upphitun
 DESCRIPTION:Skotland - Ísland: Upphitun - Landsleikir - Upphitun
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tékkland - Svartfjallaland - Undankeppni HM - viaplay
-DTSTART:20250606T183500
-DTEND:20250606T193500
-DTSTAMP:20250606T183500Z
-UID:2025-06-06T18:35:00/Tékkland - Svartfjallaland
-DESCRIPTION:Tékkland - Svartfjallaland - Undankeppni HM
+SUMMARY:Skotland - Ísland - Landsleikur - viaplay
+DTSTART:20250606T182000
+DTEND:20250606T192000
+DTSTAMP:20250606T182000Z
+UID:2025-06-06T18:20:00/Skotland - Ísland
+DESCRIPTION:Skotland - Ísland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skotland - Ísland - Vináttulandsleikur - stod2sport
@@ -442,44 +402,12 @@ UID:2025-06-06T18:35:00/Noregur - Ítalía
 DESCRIPTION:Noregur - Ítalía - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Írland - Senegal - Landsleikur - viaplay
+SUMMARY:Pólland - Moldóva - Landsleikur - viaplay
 DTSTART:20250606T183500
 DTEND:20250606T193500
 DTSTAMP:20250606T183500Z
-UID:2025-06-06T18:35:00/Írland - Senegal
-DESCRIPTION:Írland - Senegal - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eistland - Ísrael - Undankeppni HM - viaplay
-DTSTART:20250606T183500
-DTEND:20250606T193500
-DTSTAMP:20250606T183500Z
-UID:2025-06-06T18:35:00/Eistland - Ísrael
-DESCRIPTION:Eistland - Ísrael - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gíbraltar - Króatía - Undankeppni HM - viaplay
-DTSTART:20250606T183500
-DTEND:20250606T193500
-DTSTAMP:20250606T183500Z
-UID:2025-06-06T18:35:00/Gíbraltar - Króatía
-DESCRIPTION:Gíbraltar - Króatía - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norður-Makedónía - Belgía - Undankeppni HM - viaplay
-DTSTART:20250606T183500
-DTEND:20250606T193500
-DTSTAMP:20250606T183500Z
-UID:2025-06-06T18:35:00/Norður-Makedónía - Belgía
-DESCRIPTION:Norður-Makedónía - Belgía - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noregur - Ítalía - Undankeppni HM - viaplay
-DTSTART:20250606T183500
-DTEND:20250606T193500
-DTSTAMP:20250606T183500Z
-UID:2025-06-06T18:35:00/Noregur - Ítalía
-DESCRIPTION:Noregur - Ítalía - Undankeppni HM
+UID:2025-06-06T18:35:00/Pólland - Moldóva
+DESCRIPTION:Pólland - Moldóva - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wales - Liechtenstein - Undankeppni HM - viaplay
@@ -490,12 +418,52 @@ UID:2025-06-06T18:35:00/Wales - Liechtenstein
 DESCRIPTION:Wales - Liechtenstein - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pólland - Moldóva - Landsleikur - viaplay
+SUMMARY:Noregur - Ítalía - Undankeppni HM - viaplay
 DTSTART:20250606T183500
 DTEND:20250606T193500
 DTSTAMP:20250606T183500Z
-UID:2025-06-06T18:35:00/Pólland - Moldóva
-DESCRIPTION:Pólland - Moldóva - Landsleikur
+UID:2025-06-06T18:35:00/Noregur - Ítalía
+DESCRIPTION:Noregur - Ítalía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norður-Makedónía - Belgía - Undankeppni HM - viaplay
+DTSTART:20250606T183500
+DTEND:20250606T193500
+DTSTAMP:20250606T183500Z
+UID:2025-06-06T18:35:00/Norður-Makedónía - Belgía
+DESCRIPTION:Norður-Makedónía - Belgía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gíbraltar - Króatía - Undankeppni HM - viaplay
+DTSTART:20250606T183500
+DTEND:20250606T193500
+DTSTAMP:20250606T183500Z
+UID:2025-06-06T18:35:00/Gíbraltar - Króatía
+DESCRIPTION:Gíbraltar - Króatía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eistland - Ísrael - Undankeppni HM - viaplay
+DTSTART:20250606T183500
+DTEND:20250606T193500
+DTSTAMP:20250606T183500Z
+UID:2025-06-06T18:35:00/Eistland - Ísrael
+DESCRIPTION:Eistland - Ísrael - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tékkland - Svartfjallaland - Undankeppni HM - viaplay
+DTSTART:20250606T183500
+DTEND:20250606T193500
+DTSTAMP:20250606T183500Z
+UID:2025-06-06T18:35:00/Tékkland - Svartfjallaland
+DESCRIPTION:Tékkland - Svartfjallaland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Írland - Senegal - Landsleikur - viaplay
+DTSTART:20250606T183500
+DTEND:20250606T193500
+DTSTAMP:20250606T183500Z
+UID:2025-06-06T18:35:00/Írland - Senegal
+DESCRIPTION:Írland - Senegal - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
@@ -512,6 +480,14 @@ DTEND:20250606T214500
 DTSTAMP:20250606T204500Z
 UID:2025-06-06T20:45:00/Skotland - Ísland: Uppgjör
 DESCRIPTION:Skotland - Ísland: Uppgjör - Landsleikir: Uppgjör
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oilers - Panthers - NHL - stod2vodasport
+DTSTART:20250607T000000
+DTEND:20250607T010000
+DTSTAMP:20250607T000000Z
+UID:2025-06-07T00:00:00/Oilers - Panthers
+DESCRIPTION:Oilers - Panthers - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton - Florida - NHL - viaplay
@@ -629,6 +605,14 @@ UID:2025-06-07T11:40:00/Aragon Kappaksturinn (Tímatökur)
 DESCRIPTION:Aragon Kappaksturinn (Tímatökur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brommapojkarna - Växjö - OBOS Damallsvenskan - viaplay
+DTSTART:20250607T115000
+DTEND:20250607T125000
+DTSTAMP:20250607T115000Z
+UID:2025-06-07T11:50:00/Brommapojkarna - Växjö
+DESCRIPTION:Brommapojkarna - Växjö - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brno (Coppa Shell | Kappakstur 1) - Ferrari Challenge Europe - vi
  aplay
 DTSTART:20250607T115000
@@ -638,12 +622,12 @@ UID:2025-06-07T11:50:00/Brno (Coppa Shell | Kappakstur 1)
 DESCRIPTION:Brno (Coppa Shell | Kappakstur 1) - Ferrari Challenge Europe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brommapojkarna - Växjö - OBOS Damallsvenskan - viaplay
-DTSTART:20250607T115000
-DTEND:20250607T125000
-DTSTAMP:20250607T115000Z
-UID:2025-06-07T11:50:00/Brommapojkarna - Växjö
-DESCRIPTION:Brommapojkarna - Växjö - OBOS Damallsvenskan
+SUMMARY:Tenerife Women’s Open - Ladies European Tour - viaplay
+DTSTART:20250607T120000
+DTEND:20250607T130000
+DTSTAMP:20250607T120000Z
+UID:2025-06-07T12:00:00/Tenerife Women’s Open
+DESCRIPTION:Tenerife Women’s Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tenerife Women's Open - Ladies European Tour - stod2vodasport
@@ -652,14 +636,6 @@ DTEND:20250607T130000
 DTSTAMP:20250607T120000Z
 UID:2025-06-07T12:00:00/Tenerife Women's Open
 DESCRIPTION:Tenerife Women's Open - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tenerife Women’s Open - Ladies European Tour - viaplay
-DTSTART:20250607T120000
-DTEND:20250607T130000
-DTSTAMP:20250607T120000Z
-UID:2025-06-07T12:00:00/Tenerife Women’s Open
-DESCRIPTION:Tenerife Women’s Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Kappaksturinn (Sprettkeppni) - MotoGP - viaplay
@@ -730,6 +706,22 @@ UID:2025-06-07T13:30:00/Epsom Derby
 DESCRIPTION:Epsom Derby - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leinster - Glasgow - United Rugby Championship - viaplay
+DTSTART:20250607T134000
+DTEND:20250607T144000
+DTSTAMP:20250607T134000Z
+UID:2025-06-07T13:40:00/Leinster - Glasgow
+DESCRIPTION:Leinster - Glasgow - United Rugby Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - FHL - Besta deild kvenna - stod2sport5
+DTSTART:20250607T135000
+DTEND:20250607T145000
+DTSTAMP:20250607T135000Z
+UID:2025-06-07T13:50:00/Breiðablik - FHL
+DESCRIPTION:Breiðablik - FHL - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alingsås - Kristianstad - OBOS Damallsvenskan - viaplay
 DTSTART:20250607T135000
 DTEND:20250607T145000
@@ -754,14 +746,6 @@ UID:2025-06-07T13:50:00/Víkingur R. - FH
 DESCRIPTION:Víkingur R. - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - FHL - Besta deild kvenna - stod2sport5
-DTSTART:20250607T135000
-DTEND:20250607T145000
-DTSTAMP:20250607T135000Z
-UID:2025-06-07T13:50:00/Breiðablik - FHL
-DESCRIPTION:Breiðablik - FHL - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brno (Coppa Shell AM | Kappakstur 1) - Ferrari Challenge Europe -
   viaplay
 DTSTART:20250607T142000
@@ -772,6 +756,14 @@ DESCRIPTION:Brno (Coppa Shell AM | Kappakstur 1) - Ferrari Challenge Euro
  pe
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:London - Gran Turismo World Series - viaplay
+DTSTART:20250607T150000
+DTEND:20250607T160000
+DTSTAMP:20250607T150000Z
+UID:2025-06-07T15:00:00/London
+DESCRIPTION:London - Gran Turismo World Series
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
  lay
 DTSTART:20250607T150000
@@ -779,14 +771,6 @@ DTEND:20250607T160000
 DTSTAMP:20250607T150000Z
 UID:2025-06-07T15:00:00/FIFA World Cup 2026 Qualifiers: Highlights
 DESCRIPTION:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:London - Gran Turismo World Series - viaplay
-DTSTART:20250607T150000
-DTEND:20250607T160000
-DTSTAMP:20250607T150000Z
-UID:2025-06-07T15:00:00/London
-DESCRIPTION:London - Gran Turismo World Series
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danmörk - Lýðstjórnarlýðveldið Kongó - Maurice Revello Tou
@@ -817,14 +801,6 @@ UID:2025-06-07T15:50:00/Andorra - England
 DESCRIPTION:Andorra - England - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andorra - England - Undankeppni HM - viaplay
-DTSTART:20250607T155000
-DTEND:20250607T165000
-DTSTAMP:20250607T155000Z
-UID:2025-06-07T15:50:00/Andorra - England
-DESCRIPTION:Andorra - England - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Malta - Litháen - Undankeppni HM - viaplay
 DTSTART:20250607T155000
 DTEND:20250607T165000
@@ -833,12 +809,30 @@ UID:2025-06-07T15:50:00/Malta - Litháen
 DESCRIPTION:Malta - Litháen - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Andorra - England - Undankeppni HM - viaplay
+DTSTART:20250607T155000
+DTEND:20250607T165000
+DTSTAMP:20250607T155000Z
+UID:2025-06-07T15:50:00/Andorra - England
+DESCRIPTION:Andorra - England - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NCTS Race at Michigan (Truck Series) - Nascar - viaplay
 DTSTART:20250607T160000
 DTEND:20250607T170000
 DTSTAMP:20250607T160000Z
 UID:2025-06-07T16:00:00/NCTS Race at Michigan (Truck Series)
 DESCRIPTION:NCTS Race at Michigan (Truck Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vodacom Bulls - Hollywoodbets Sharks - United Rugby Championship -
+  viaplay
+DTSTART:20250607T161000
+DTEND:20250607T171000
+DTSTAMP:20250607T161000Z
+UID:2025-06-07T16:10:00/Vodacom Bulls - Hollywoodbets Sharks
+DESCRIPTION:Vodacom Bulls - Hollywoodbets Sharks - United Rugby Championsh
+ ip
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þróttur R. - Þór/KA - Besta deild kvenna - stod2sport
@@ -881,20 +875,20 @@ UID:2025-06-07T18:00:00/London
 DESCRIPTION:London - Gran Turismo World Series
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Instant Highlights - Undankeppni HM - viaplay
-DTSTART:20250607T183000
-DTEND:20250607T193000
-DTSTAMP:20250607T183000Z
-UID:2025-06-07T18:30:00/Instant Highlights
-DESCRIPTION:Instant Highlights - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Austurríki - Rúmenía - Undankeppni HM - viaplay
+SUMMARY:Finnland - Holland - Undankeppni HM - viaplay
 DTSTART:20250607T183500
 DTEND:20250607T193500
 DTSTAMP:20250607T183500Z
-UID:2025-06-07T18:35:00/Austurríki - Rúmenía
-DESCRIPTION:Austurríki - Rúmenía - Undankeppni HM
+UID:2025-06-07T18:35:00/Finnland - Holland
+DESCRIPTION:Finnland - Holland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albanía - Serbía - Undankeppni HM - viaplay
+DTSTART:20250607T183500
+DTEND:20250607T193500
+DTSTAMP:20250607T183500Z
+UID:2025-06-07T18:35:00/Albanía - Serbía
+DESCRIPTION:Albanía - Serbía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Finnland - Holland - Undankeppni HM 2026 - stod2vodasport
@@ -905,14 +899,6 @@ UID:2025-06-07T18:35:00/Finnland - Holland
 DESCRIPTION:Finnland - Holland - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Finnland - Holland - Undankeppni HM - viaplay
-DTSTART:20250607T183500
-DTEND:20250607T193500
-DTSTAMP:20250607T183500Z
-UID:2025-06-07T18:35:00/Finnland - Holland
-DESCRIPTION:Finnland - Holland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grikkland - Slóvakía - Landsleikur - viaplay
 DTSTART:20250607T183500
 DTEND:20250607T193500
@@ -921,12 +907,20 @@ UID:2025-06-07T18:35:00/Grikkland - Slóvakía
 DESCRIPTION:Grikkland - Slóvakía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Albanía - Serbía - Undankeppni HM - viaplay
+SUMMARY:Austurríki - Rúmenía - Undankeppni HM - viaplay
 DTSTART:20250607T183500
 DTEND:20250607T193500
 DTSTAMP:20250607T183500Z
-UID:2025-06-07T18:35:00/Albanía - Serbía
-DESCRIPTION:Albanía - Serbía - Undankeppni HM
+UID:2025-06-07T18:35:00/Austurríki - Rúmenía
+DESCRIPTION:Austurríki - Rúmenía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - Undankeppni HM - viaplay
+DTSTART:20250607T184500
+DTEND:20250607T194500
+DTSTAMP:20250607T184500Z
+UID:2025-06-07T18:45:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ShopRite LPGA Classic - LPGA Tour - stod2sport4
@@ -1002,14 +996,6 @@ UID:2025-06-08T11:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aragon Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20250608T111500
-DTEND:20250608T121500
-DTSTAMP:20250608T111500Z
-UID:2025-06-08T11:15:00/Aragon Kappaksturinn (Kappakstur)
-DESCRIPTION:Aragon Kappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Slovakiaring (Kappakstur 3) - FIA European Truck Racing Championsh
  ip - viaplay
 DTSTART:20250608T111500
@@ -1037,6 +1023,14 @@ DTEND:20250608T125000
 DTSTAMP:20250608T115000Z
 UID:2025-06-08T11:50:00/Brno (Coppa Shell | Kappakstur 2)
 DESCRIPTION:Brno (Coppa Shell | Kappakstur 2) - Ferrari Challenge Europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aragon Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20250608T115500
+DTEND:20250608T125500
+DTSTAMP:20250608T115500Z
+UID:2025-06-08T11:55:00/Aragon Kappaksturinn (Kappakstur)
+DESCRIPTION:Aragon Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tenerife Women’s Open - Ladies European Tour - viaplay
@@ -1079,12 +1073,12 @@ UID:2025-06-08T12:50:00/Hammarby - Vittsjö
 DESCRIPTION:Hammarby - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rhein-Neckar Löwen - Füchse Berlin - Bundesliga - viaplay
-DTSTART:20250608T125500
-DTEND:20250608T135500
-DTSTAMP:20250608T125500Z
-UID:2025-06-08T12:55:00/Rhein-Neckar Löwen - Füchse Berlin
-DESCRIPTION:Rhein-Neckar Löwen - Füchse Berlin - Bundesliga
+SUMMARY:Bronsviðureign - UEFA Nations League - viaplay
+DTSTART:20250608T125000
+DTEND:20250608T135000
+DTSTAMP:20250608T125000Z
+UID:2025-06-08T12:50:00/Bronsviðureign
+DESCRIPTION:Bronsviðureign - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bietigheim - Magdeburg - Bundesliga - viaplay
@@ -1093,6 +1087,14 @@ DTEND:20250608T135500
 DTSTAMP:20250608T125500Z
 UID:2025-06-08T12:55:00/Bietigheim - Magdeburg
 DESCRIPTION:Bietigheim - Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhein-Neckar Löwen - Füchse Berlin - Bundesliga - viaplay
+DTSTART:20250608T125500
+DTEND:20250608T135500
+DTSTAMP:20250608T125500Z
+UID:2025-06-08T12:55:00/Rhein-Neckar Löwen - Füchse Berlin
+DESCRIPTION:Rhein-Neckar Löwen - Füchse Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brno (Trofeo Pirelli | Kappakstur 2) - Ferrari Challenge Europe -
@@ -1166,6 +1168,14 @@ UID:2025-06-08T18:00:00/ShopRite LPGA Classic
 DESCRIPTION:ShopRite LPGA Classic - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Úrslit - UEFA Nations League - viaplay
+DTSTART:20250608T185000
+DTEND:20250608T195000
+DTSTAMP:20250608T185000Z
+UID:2025-06-08T18:50:00/Úrslit
+DESCRIPTION:Úrslit - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Þjóðadeild UEFA - Þjóðadeild UEFA - stod2vodasport
 DTSTART:20250608T185000
 DTEND:20250608T195000
@@ -1208,6 +1218,14 @@ DESCRIPTION:Tindastóll - ÍBV - 8-liða úrslit - Bikarkeppni kvenna í f
  ótbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kasakstan - Norður-Makedónía - Undankeppni HM - viaplay
+DTSTART:20250609T135000
+DTEND:20250609T145000
+DTSTAMP:20250609T135000Z
+UID:2025-06-09T13:50:00/Kasakstan - Norður-Makedónía
+DESCRIPTION:Kasakstan - Norður-Makedónía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kazakhstan - Norður Makedónía - Undankeppni HM 2026 - stod2voda
  sport
 DTSTART:20250609T135000
@@ -1215,14 +1233,6 @@ DTEND:20250609T145000
 DTSTAMP:20250609T135000Z
 UID:2025-06-09T13:50:00/Kazakhstan - Norður Makedónía
 DESCRIPTION:Kazakhstan - Norður Makedónía - Undankeppni HM 2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kasakstan - Norður-Makedónía - Undankeppni HM - viaplay
-DTSTART:20250609T135000
-DTEND:20250609T145000
-DTSTAMP:20250609T135000Z
-UID:2025-06-09T13:50:00/Kasakstan - Norður-Makedónía
-DESCRIPTION:Kasakstan - Norður-Makedónía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liechtenstein - Skotland - Landsleikur - viaplay
@@ -1233,20 +1243,12 @@ UID:2025-06-09T15:50:00/Liechtenstein - Skotland
 DESCRIPTION:Liechtenstein - Skotland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liechtenstein - Skotland - Æfingaleikir - stod2vodasport
+SUMMARY:Liechtenstein - Skotland - Vináttulandsleikir - stod2vodasport
 DTSTART:20250609T155500
 DTEND:20250609T165500
 DTSTAMP:20250609T155500Z
 UID:2025-06-09T15:55:00/Liechtenstein - Skotland
-DESCRIPTION:Liechtenstein - Skotland - Æfingaleikir
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kósovó - Kómoreyjar - Landsleikur - viaplay
-DTSTART:20250609T165000
-DTEND:20250609T175000
-DTSTAMP:20250609T165000Z
-UID:2025-06-09T16:50:00/Kósovó - Kómoreyjar
-DESCRIPTION:Kósovó - Kómoreyjar - Landsleikur
+DESCRIPTION:Liechtenstein - Skotland - Vináttulandsleikir
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linköping - Häcken - OBOS Damallsvenskan - viaplay
@@ -1257,6 +1259,14 @@ UID:2025-06-09T16:50:00/Linköping - Häcken
 DESCRIPTION:Linköping - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kósovó - Kómoreyjar - Landsleikur - viaplay
+DTSTART:20250609T165000
+DTEND:20250609T175000
+DTSTAMP:20250609T165000Z
+UID:2025-06-09T16:50:00/Kósovó - Kómoreyjar
+DESCRIPTION:Kósovó - Kómoreyjar - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Svartfjallaland - Armenía - Landsleikur - viaplay
 DTSTART:20250609T175000
 DTEND:20250609T185000
@@ -1265,12 +1275,12 @@ UID:2025-06-09T17:50:00/Svartfjallaland - Armenía
 DESCRIPTION:Svartfjallaland - Armenía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ítalía - Moldóva - Undankeppni HM - viaplay
-DTSTART:20250609T183500
-DTEND:20250609T193500
-DTSTAMP:20250609T183500Z
-UID:2025-06-09T18:35:00/Ítalía - Moldóva
-DESCRIPTION:Ítalía - Moldóva - Undankeppni HM
+SUMMARY:Instant Highlights - Undankeppni HM - viaplay
+DTSTART:20250609T183000
+DTEND:20250609T193000
+DTSTAMP:20250609T183000Z
+UID:2025-06-09T18:30:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Færeyjar - Gíbraltar - Undankeppni HM - viaplay
@@ -1281,12 +1291,12 @@ UID:2025-06-09T18:35:00/Færeyjar - Gíbraltar
 DESCRIPTION:Færeyjar - Gíbraltar - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belgía - Wales - Undankeppni HM 2026 - stod2vodasport
+SUMMARY:Belgía - Wales - Undankeppni HM - viaplay
 DTSTART:20250609T183500
 DTEND:20250609T193500
 DTSTAMP:20250609T183500Z
 UID:2025-06-09T18:35:00/Belgía - Wales
-DESCRIPTION:Belgía - Wales - Undankeppni HM 2026
+DESCRIPTION:Belgía - Wales - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Króatía - Tékkland - Undankeppni HM - viaplay
@@ -1297,12 +1307,20 @@ UID:2025-06-09T18:35:00/Króatía - Tékkland
 DESCRIPTION:Króatía - Tékkland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belgía - Wales - Undankeppni HM - viaplay
+SUMMARY:Ítalía - Moldóva - Undankeppni HM - viaplay
+DTSTART:20250609T183500
+DTEND:20250609T193500
+DTSTAMP:20250609T183500Z
+UID:2025-06-09T18:35:00/Ítalía - Moldóva
+DESCRIPTION:Ítalía - Moldóva - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belgía - Wales - Undankeppni HM 2026 - stod2vodasport
 DTSTART:20250609T183500
 DTEND:20250609T193500
 DTSTAMP:20250609T183500Z
 UID:2025-06-09T18:35:00/Belgía - Wales
-DESCRIPTION:Belgía - Wales - Undankeppni HM
+DESCRIPTION:Belgía - Wales - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eistland - Noregur - Undankeppni HM - viaplay
@@ -1311,5 +1329,224 @@ DTEND:20250609T193500
 DTSTAMP:20250609T183500Z
 UID:2025-06-09T18:35:00/Eistland - Noregur
 DESCRIPTION:Eistland - Noregur - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panthers - Oilers - NHL - stod2vodasport
+DTSTART:20250610T000000
+DTEND:20250610T010000
+DTSTAMP:20250610T000000Z
+UID:2025-06-10T00:00:00/Panthers - Oilers
+DESCRIPTION:Panthers - Oilers - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida - Edmonton - NHL - viaplay
+DTSTART:20250610T000500
+DTEND:20250610T010500
+DTSTAMP:20250610T000500Z
+UID:2025-06-10T00:05:00/Florida - Edmonton
+DESCRIPTION:Florida - Edmonton - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Italy Major - Premier Padel - viaplay
+DTSTART:20250610T080000
+DTEND:20250610T090000
+DTSTAMP:20250610T080000Z
+UID:2025-06-10T08:00:00/Italy Major
+DESCRIPTION:Italy Major - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20250610T110000
+DTEND:20250610T120000
+DTSTAMP:20250610T110000Z
+UID:2025-06-10T11:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Japan - Maurice Revello Tournament - viaplay
+DTSTART:20250610T115500
+DTEND:20250610T125500
+DTSTAMP:20250610T115500Z
+UID:2025-06-10T11:55:00/Danmörk - Japan
+DESCRIPTION:Danmörk - Japan - Maurice Revello Tournament
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Italy Major - Premier Padel - viaplay
+DTSTART:20250610T150000
+DTEND:20250610T160000
+DTSTAMP:20250610T150000Z
+UID:2025-06-10T15:00:00/Italy Major
+DESCRIPTION:Italy Major - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aserbaísjan - Ungverjaland - Landsleikur - viaplay
+DTSTART:20250610T155000
+DTEND:20250610T165000
+DTSTAMP:20250610T155000Z
+UID:2025-06-10T15:50:00/Aserbaísjan - Ungverjaland
+DESCRIPTION:Aserbaísjan - Ungverjaland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slóvenía - Bosnía og Hersegóvína - Landsleikur - viaplay
+DTSTART:20250610T155000
+DTEND:20250610T165000
+DTSTAMP:20250610T155000Z
+UID:2025-06-10T15:50:00/Slóvenía - Bosnía og Hersegóvína
+DESCRIPTION:Slóvenía - Bosnía og Hersegóvína - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Lithuania - Landsleikur - viaplay
+DTSTART:20250610T165000
+DTEND:20250610T175000
+DTSTAMP:20250610T165000Z
+UID:2025-06-10T16:50:00/Danmörk - Lithuania
+DESCRIPTION:Danmörk - Lithuania - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svíþjóð - Alsír - Landsleikur - viaplay
+DTSTART:20250610T165000
+DTEND:20250610T175000
+DTSTAMP:20250610T165000Z
+UID:2025-06-10T16:50:00/Svíþjóð - Alsír
+DESCRIPTION:Svíþjóð - Alsír - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
+ lay
+DTSTART:20250610T170000
+DTEND:20250610T180000
+DTSTAMP:20250610T170000Z
+UID:2025-06-10T17:00:00/FIFA World Cup 2026 Qualifiers: Highlights
+DESCRIPTION:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norður-Írland - Ísland - Landsleikur - viaplay
+DTSTART:20250610T182000
+DTEND:20250610T192000
+DTSTAMP:20250610T182000Z
+UID:2025-06-10T18:20:00/Norður-Írland - Ísland
+DESCRIPTION:Norður-Írland - Ísland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norður-Írland - Ísland: Upphitun - Landsleikir - Upphitun - sto
+ d2sport
+DTSTART:20250610T182000
+DTEND:20250610T192000
+DTSTAMP:20250610T182000Z
+UID:2025-06-10T18:20:00/Norður-Írland - Ísland: Upphitun
+DESCRIPTION:Norður-Írland - Ísland: Upphitun - Landsleikir - Upphitun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísrael - Slóvakía - Landsleikur - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Ísrael - Slóvakía
+DESCRIPTION:Ísrael - Slóvakía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marínó - Austurríki - Undankeppni HM - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/San Marínó - Austurríki
+DESCRIPTION:San Marínó - Austurríki - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Malta - Undankeppni HM 2026 - stod2vodasport
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Holland - Malta
+DESCRIPTION:Holland - Malta - Undankeppni HM 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norður-Írland - Ísland - Vináttulandsleikur - stod2sport
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Norður-Írland - Ísland
+DESCRIPTION:Norður-Írland - Ísland - Vináttulandsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grikkland - Búlgaría - Landsleikur - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Grikkland - Búlgaría
+DESCRIPTION:Grikkland - Búlgaría - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serbía - Andorra - Undankeppni HM - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Serbía - Andorra
+DESCRIPTION:Serbía - Andorra - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lúxemborg - Írland - Landsleikur - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Lúxemborg - Írland
+DESCRIPTION:Lúxemborg - Írland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:England - Senegal - Landsleikur - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/England - Senegal
+DESCRIPTION:England - Senegal - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rúmenía - Kýpur - Undankeppni HM - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Rúmenía - Kýpur
+DESCRIPTION:Rúmenía - Kýpur - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Malta - Undankeppni HM - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Holland - Malta
+DESCRIPTION:Holland - Malta - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lettland - Albanía - Undankeppni HM - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Lettland - Albanía
+DESCRIPTION:Lettland - Albanía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finnland - Pólland - Undankeppni HM - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Finnland - Pólland
+DESCRIPTION:Finnland - Pólland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - Undankeppni HM - viaplay
+DTSTART:20250610T184500
+DTEND:20250610T194500
+DTSTAMP:20250610T184500Z
+UID:2025-06-10T18:45:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norður-Írland - Ísland: Uppgjör - Landsleikir: Uppgjör - stod
+ 2sport
+DTSTART:20250610T204500
+DTEND:20250610T214500
+DTSTAMP:20250610T204500Z
+UID:2025-06-10T20:45:00/Norður-Írland - Ísland: Uppgjör
+DESCRIPTION:Norður-Írland - Ísland: Uppgjör - Landsleikir: Uppgjör
 END:VEVENT
 END:VCALENDAR
