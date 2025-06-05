@@ -2,70 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Mexíkó - Danmörk - Maurice Revello Tournament - viaplay
-DTSTART:20250604T152500
-DTEND:20250604T162500
-DTSTAMP:20250604T152500Z
-UID:2025-06-04T15:25:00/Mexíkó - Danmörk
-DESCRIPTION:Mexíkó - Danmörk - Maurice Revello Tournament
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þýskaland - Portúgal - UEFA Nations League - viaplay
-DTSTART:20250604T185000
-DTEND:20250604T195000
-DTSTAMP:20250604T185000Z
-UID:2025-06-04T18:50:00/Þýskaland - Portúgal
-DESCRIPTION:Þýskaland - Portúgal - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þýskaland - Portúgal - Þjóðadeild UEFA - stod2vodasport
-DTSTART:20250604T185000
-DTEND:20250604T195000
-DTSTAMP:20250604T185000Z
-UID:2025-06-04T18:50:00/Þýskaland - Portúgal
-DESCRIPTION:Þýskaland - Portúgal - Þjóðadeild UEFA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fylkir - Leiknir - Lengjudeildin - livey
-DTSTART:20250604T191500
-DTEND:20250604T201500
-DTSTAMP:20250604T191500Z
-UID:2025-06-04T19:15:00/Fylkir - Leiknir
-DESCRIPTION:Fylkir - Leiknir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Völsungur - Þór - Lengjudeildin - livey
-DTSTART:20250604T191500
-DTEND:20250604T201500
-DTSTAMP:20250604T191500Z
-UID:2025-06-04T19:15:00/Völsungur - Þór
-DESCRIPTION:Völsungur - Þór - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Njarðvík - Fjölnir - Lengjudeildin - livey
-DTSTART:20250604T191500
-DTEND:20250604T201500
-DTSTAMP:20250604T191500Z
-UID:2025-06-04T19:15:00/Njarðvík - Fjölnir
-DESCRIPTION:Njarðvík - Fjölnir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Þróttur - Lengjudeildin - livey
-DTSTART:20250604T191500
-DTEND:20250604T201500
-DTSTAMP:20250604T191500Z
-UID:2025-06-04T19:15:00/ÍR - Þróttur
-DESCRIPTION:ÍR - Þróttur - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HK - Selfoss - Lengjudeildin - livey
-DTSTART:20250604T191500
-DTEND:20250604T201500
-DTSTAMP:20250604T191500Z
-UID:2025-06-04T19:15:00/HK - Selfoss
-DESCRIPTION:HK - Selfoss - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Georgía - Færeyjar - Landsleikur - viaplay
 DTSTART:20250605T155000
 DTEND:20250605T165000
@@ -80,6 +16,14 @@ DTEND:20250605T175000
 DTSTAMP:20250605T165000Z
 UID:2025-06-05T16:50:00/Hvíta-Rússland - Kasakstan
 DESCRIPTION:Hvíta-Rússland - Kasakstan - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brasilía U21 - Ísland U21 - Vináttulandsleikur - stod2sport
+DTSTART:20250605T175500
+DTEND:20250605T185500
+DTSTAMP:20250605T175500Z
+UID:2025-06-05T17:55:00/Brasilía U21 - Ísland U21
+DESCRIPTION:Brasilía U21 - Ísland U21 - Vináttulandsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spánn - Frakkland - UEFA Nations League - viaplay
@@ -106,12 +50,12 @@ UID:2025-06-05T19:15:00/Grindavík / Njarðvík - KR
 DESCRIPTION:Grindavík / Njarðvík - KR - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fylkir - Afturelding - Lengjudeildin - livey
+SUMMARY:ÍA - HK - Lengjudeildin - livey
 DTSTART:20250605T191500
 DTEND:20250605T201500
 DTSTAMP:20250605T191500Z
-UID:2025-06-05T19:15:00/Fylkir - Afturelding
-DESCRIPTION:Fylkir - Afturelding - Lengjudeildin
+UID:2025-06-05T19:15:00/ÍA - HK
+DESCRIPTION:ÍA - HK - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grótta - Haukar - Lengjudeildin - livey
@@ -122,12 +66,12 @@ UID:2025-06-05T19:15:00/Grótta - Haukar
 DESCRIPTION:Grótta - Haukar - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍA - HK - Lengjudeildin - livey
+SUMMARY:Fylkir - Afturelding - Lengjudeildin - livey
 DTSTART:20250605T191500
 DTEND:20250605T201500
 DTSTAMP:20250605T191500Z
-UID:2025-06-05T19:15:00/ÍA - HK
-DESCRIPTION:ÍA - HK - Lengjudeildin
+UID:2025-06-05T19:15:00/Fylkir - Afturelding
+DESCRIPTION:Fylkir - Afturelding - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Búlgaría - Kýpur - Landsleikur - viaplay
@@ -138,20 +82,20 @@ UID:2025-06-06T15:50:00/Búlgaría - Kýpur
 DESCRIPTION:Búlgaría - Kýpur - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kósovó - Armenía - Landsleikur - viaplay
-DTSTART:20250606T165000
-DTEND:20250606T175000
-DTSTAMP:20250606T165000Z
-UID:2025-06-06T16:50:00/Kósovó - Armenía
-DESCRIPTION:Kósovó - Armenía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lúxemborg - Slóvenía - Landsleikur - viaplay
 DTSTART:20250606T165000
 DTEND:20250606T175000
 DTSTAMP:20250606T165000Z
 UID:2025-06-06T16:50:00/Lúxemborg - Slóvenía
 DESCRIPTION:Lúxemborg - Slóvenía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kósovó - Armenía - Landsleikur - viaplay
+DTSTART:20250606T165000
+DTEND:20250606T175000
+DTSTAMP:20250606T165000Z
+UID:2025-06-06T16:50:00/Kósovó - Armenía
+DESCRIPTION:Kósovó - Armenía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ungverjaland - Svíþjóð - Landsleikur - viaplay
@@ -192,14 +136,6 @@ DTEND:20250606T193500
 DTSTAMP:20250606T183500Z
 UID:2025-06-06T18:35:00/Skotland - Ísland
 DESCRIPTION:Skotland - Ísland - Vináttulandsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pólland - Moldóva - Landsleikur - viaplay
-DTSTART:20250606T183500
-DTEND:20250606T193500
-DTSTAMP:20250606T183500Z
-UID:2025-06-06T18:35:00/Pólland - Moldóva
-DESCRIPTION:Pólland - Moldóva - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wales - Liechtenstein - Undankeppni HM - viaplay
@@ -258,6 +194,14 @@ UID:2025-06-06T18:35:00/Írland - Senegal
 DESCRIPTION:Írland - Senegal - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pólland - Moldóva - Landsleikur - viaplay
+DTSTART:20250606T183500
+DTEND:20250606T193500
+DTSTAMP:20250606T183500Z
+UID:2025-06-06T18:35:00/Pólland - Moldóva
+DESCRIPTION:Pólland - Moldóva - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
 DTSTART:20250606T184500
 DTEND:20250606T194500
@@ -266,12 +210,12 @@ UID:2025-06-06T18:45:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skotland - Ísland: Uppgjör - Landsleikir: Uppgjör - stod2sport
+SUMMARY:Skotland - Ísland: Uppgjör - Landsleikir - Uppgjör - stod2sport
 DTSTART:20250606T204500
 DTEND:20250606T214500
 DTSTAMP:20250606T204500Z
 UID:2025-06-06T20:45:00/Skotland - Ísland: Uppgjör
-DESCRIPTION:Skotland - Ísland: Uppgjör - Landsleikir: Uppgjör
+DESCRIPTION:Skotland - Ísland: Uppgjör - Landsleikir - Uppgjör
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AIK - Rosengård - OBOS Damallsvenskan - viaplay
@@ -314,14 +258,6 @@ UID:2025-06-07T12:55:00/Malmö FF - Djurgården
 DESCRIPTION:Malmö FF - Djurgården - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - FHL - Besta deild kvenna - stod2sport5
-DTSTART:20250607T135000
-DTEND:20250607T145000
-DTSTAMP:20250607T135000Z
-UID:2025-06-07T13:50:00/Breiðablik - FHL
-DESCRIPTION:Breiðablik - FHL - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alingsås - Kristianstad - OBOS Damallsvenskan - viaplay
 DTSTART:20250607T135000
 DTEND:20250607T145000
@@ -336,6 +272,14 @@ DTEND:20250607T145000
 DTSTAMP:20250607T135000Z
 UID:2025-06-07T13:50:00/Fram - Stjarnan
 DESCRIPTION:Fram - Stjarnan - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - FHL - Besta deild kvenna - stod2sport5
+DTSTART:20250607T135000
+DTEND:20250607T145000
+DTSTAMP:20250607T135000Z
+UID:2025-06-07T13:50:00/Breiðablik - FHL
+DESCRIPTION:Breiðablik - FHL - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Víkingur R. - FH - Besta deild kvenna - stod2sport
@@ -357,20 +301,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danmörk - Lýðstjórnarlýðveldið Kongó - Maurice Revello Tou
  rnament - viaplay
-DTSTART:20250607T152500
-DTEND:20250607T162500
-DTSTAMP:20250607T152500Z
-UID:2025-06-07T15:25:00/Danmörk - Lýðstjórnarlýðveldið Kongó
+DTSTART:20250607T152000
+DTEND:20250607T162000
+DTSTAMP:20250607T152000Z
+UID:2025-06-07T15:20:00/Danmörk - Lýðstjórnarlýðveldið Kongó
 DESCRIPTION:Danmörk - Lýðstjórnarlýðveldið Kongó - Maurice Revello
   Tournament
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Malta - Litháen - Undankeppni HM - viaplay
-DTSTART:20250607T155000
-DTEND:20250607T165000
-DTSTAMP:20250607T155000Z
-UID:2025-06-07T15:50:00/Malta - Litháen
-DESCRIPTION:Malta - Litháen - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andorra - England - Undankeppni HM - viaplay
@@ -379,6 +315,14 @@ DTEND:20250607T165000
 DTSTAMP:20250607T155000Z
 UID:2025-06-07T15:50:00/Andorra - England
 DESCRIPTION:Andorra - England - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malta - Litháen - Undankeppni HM - viaplay
+DTSTART:20250607T155000
+DTEND:20250607T165000
+DTSTAMP:20250607T155000Z
+UID:2025-06-07T15:50:00/Malta - Litháen
+DESCRIPTION:Malta - Litháen - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þróttur R. - Þór/KA - Besta deild kvenna - stod2sport
@@ -405,12 +349,12 @@ UID:2025-06-07T18:00:00/Champions League weekly
 DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Finnland - Holland - Undankeppni HM - viaplay
+SUMMARY:Austurríki - Rúmenía - Undankeppni HM - viaplay
 DTSTART:20250607T183500
 DTEND:20250607T193500
 DTSTAMP:20250607T183500Z
-UID:2025-06-07T18:35:00/Finnland - Holland
-DESCRIPTION:Finnland - Holland - Undankeppni HM
+UID:2025-06-07T18:35:00/Austurríki - Rúmenía
+DESCRIPTION:Austurríki - Rúmenía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Albanía - Serbía - Undankeppni HM - viaplay
@@ -421,20 +365,20 @@ UID:2025-06-07T18:35:00/Albanía - Serbía
 DESCRIPTION:Albanía - Serbía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Finnland - Holland - Undankeppni HM - viaplay
+DTSTART:20250607T183500
+DTEND:20250607T193500
+DTSTAMP:20250607T183500Z
+UID:2025-06-07T18:35:00/Finnland - Holland
+DESCRIPTION:Finnland - Holland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grikkland - Slóvakía - Landsleikur - viaplay
 DTSTART:20250607T183500
 DTEND:20250607T193500
 DTSTAMP:20250607T183500Z
 UID:2025-06-07T18:35:00/Grikkland - Slóvakía
 DESCRIPTION:Grikkland - Slóvakía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Austurríki - Rúmenía - Undankeppni HM - viaplay
-DTSTART:20250607T183500
-DTEND:20250607T193500
-DTSTAMP:20250607T183500Z
-UID:2025-06-07T18:35:00/Austurríki - Rúmenía
-DESCRIPTION:Austurríki - Rúmenía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
@@ -453,12 +397,12 @@ UID:2025-06-07T19:15:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þjóðadeild UEFA - Þjóðadeild UEFA - stod2vodasport
+SUMMARY:Hammarby - Vittsjö - OBOS Damallsvenskan - viaplay
 DTSTART:20250608T125000
 DTEND:20250608T135000
 DTSTAMP:20250608T125000Z
-UID:2025-06-08T12:50:00/Þjóðadeild UEFA
-DESCRIPTION:Þjóðadeild UEFA - Þjóðadeild UEFA
+UID:2025-06-08T12:50:00/Hammarby - Vittsjö
+DESCRIPTION:Hammarby - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norrköping - Piteå - OBOS Damallsvenskan - viaplay
@@ -469,12 +413,12 @@ UID:2025-06-08T12:50:00/Norrköping - Piteå
 DESCRIPTION:Norrköping - Piteå - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hammarby - Vittsjö - OBOS Damallsvenskan - viaplay
+SUMMARY:Þjóðadeild UEFA - Þjóðadeild UEFA - stod2vodasport
 DTSTART:20250608T125000
 DTEND:20250608T135000
 DTSTAMP:20250608T125000Z
-UID:2025-06-08T12:50:00/Hammarby - Vittsjö
-DESCRIPTION:Hammarby - Vittsjö - OBOS Damallsvenskan
+UID:2025-06-08T12:50:00/Þjóðadeild UEFA
+DESCRIPTION:Þjóðadeild UEFA - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bronsviðureign - UEFA Nations League - viaplay
@@ -544,20 +488,20 @@ UID:2025-06-09T15:50:00/Liechtenstein - Skotland
 DESCRIPTION:Liechtenstein - Skotland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linköping - Häcken - OBOS Damallsvenskan - viaplay
-DTSTART:20250609T165000
-DTEND:20250609T175000
-DTSTAMP:20250609T165000Z
-UID:2025-06-09T16:50:00/Linköping - Häcken
-DESCRIPTION:Linköping - Häcken - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kósovó - Kómoreyjar - Landsleikur - viaplay
 DTSTART:20250609T165000
 DTEND:20250609T175000
 DTSTAMP:20250609T165000Z
 UID:2025-06-09T16:50:00/Kósovó - Kómoreyjar
 DESCRIPTION:Kósovó - Kómoreyjar - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linköping - Häcken - OBOS Damallsvenskan - viaplay
+DTSTART:20250609T165000
+DTEND:20250609T175000
+DTSTAMP:20250609T165000Z
+UID:2025-06-09T16:50:00/Linköping - Häcken
+DESCRIPTION:Linköping - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Svartfjallaland - Armenía - Landsleikur - viaplay
@@ -576,12 +520,12 @@ UID:2025-06-09T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Færeyjar - Gíbraltar - Undankeppni HM - viaplay
+SUMMARY:Ítalía - Moldóva - Undankeppni HM - viaplay
 DTSTART:20250609T183500
 DTEND:20250609T193500
 DTSTAMP:20250609T183500Z
-UID:2025-06-09T18:35:00/Færeyjar - Gíbraltar
-DESCRIPTION:Færeyjar - Gíbraltar - Undankeppni HM
+UID:2025-06-09T18:35:00/Ítalía - Moldóva
+DESCRIPTION:Ítalía - Moldóva - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belgía - Wales - Undankeppni HM - viaplay
@@ -592,22 +536,6 @@ UID:2025-06-09T18:35:00/Belgía - Wales
 DESCRIPTION:Belgía - Wales - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Króatía - Tékkland - Undankeppni HM - viaplay
-DTSTART:20250609T183500
-DTEND:20250609T193500
-DTSTAMP:20250609T183500Z
-UID:2025-06-09T18:35:00/Króatía - Tékkland
-DESCRIPTION:Króatía - Tékkland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ítalía - Moldóva - Undankeppni HM - viaplay
-DTSTART:20250609T183500
-DTEND:20250609T193500
-DTSTAMP:20250609T183500Z
-UID:2025-06-09T18:35:00/Ítalía - Moldóva
-DESCRIPTION:Ítalía - Moldóva - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eistland - Noregur - Undankeppni HM - viaplay
 DTSTART:20250609T183500
 DTEND:20250609T193500
@@ -616,11 +544,27 @@ UID:2025-06-09T18:35:00/Eistland - Noregur
 DESCRIPTION:Eistland - Noregur - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Færeyjar - Gíbraltar - Undankeppni HM - viaplay
+DTSTART:20250609T183500
+DTEND:20250609T193500
+DTSTAMP:20250609T183500Z
+UID:2025-06-09T18:35:00/Færeyjar - Gíbraltar
+DESCRIPTION:Færeyjar - Gíbraltar - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Króatía - Tékkland - Undankeppni HM - viaplay
+DTSTART:20250609T183500
+DTEND:20250609T193500
+DTSTAMP:20250609T183500Z
+UID:2025-06-09T18:35:00/Króatía - Tékkland
+DESCRIPTION:Króatía - Tékkland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Danmörk - Japan - Maurice Revello Tournament - viaplay
-DTSTART:20250610T115500
-DTEND:20250610T125500
-DTSTAMP:20250610T115500Z
-UID:2025-06-10T11:55:00/Danmörk - Japan
+DTSTART:20250610T115000
+DTEND:20250610T125000
+DTSTAMP:20250610T115000Z
+UID:2025-06-10T11:50:00/Danmörk - Japan
 DESCRIPTION:Danmörk - Japan - Maurice Revello Tournament
 END:VEVENT
 BEGIN:VEVENT
@@ -640,20 +584,20 @@ UID:2025-06-10T15:50:00/Slóvenía - Bosnía og Hersegóvína
 DESCRIPTION:Slóvenía - Bosnía og Hersegóvína - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Danmörk - Lithuania - Landsleikur - viaplay
-DTSTART:20250610T165000
-DTEND:20250610T175000
-DTSTAMP:20250610T165000Z
-UID:2025-06-10T16:50:00/Danmörk - Lithuania
-DESCRIPTION:Danmörk - Lithuania - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Svíþjóð - Alsír - Landsleikur - viaplay
 DTSTART:20250610T165000
 DTEND:20250610T175000
 DTSTAMP:20250610T165000Z
 UID:2025-06-10T16:50:00/Svíþjóð - Alsír
 DESCRIPTION:Svíþjóð - Alsír - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Lithuania - Landsleikur - viaplay
+DTSTART:20250610T165000
+DTEND:20250610T175000
+DTSTAMP:20250610T165000Z
+UID:2025-06-10T16:50:00/Danmörk - Lithuania
+DESCRIPTION:Danmörk - Lithuania - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
@@ -682,20 +626,12 @@ UID:2025-06-10T18:20:00/Norður-Írland - Ísland: Upphitun
 DESCRIPTION:Norður-Írland - Ísland: Upphitun - Landsleikir - Upphitun
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ísrael - Slóvakía - Landsleikur - viaplay
+SUMMARY:Finnland - Pólland - Undankeppni HM - viaplay
 DTSTART:20250610T183500
 DTEND:20250610T193500
 DTSTAMP:20250610T183500Z
-UID:2025-06-10T18:35:00/Ísrael - Slóvakía
-DESCRIPTION:Ísrael - Slóvakía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Marínó - Austurríki - Undankeppni HM - viaplay
-DTSTART:20250610T183500
-DTEND:20250610T193500
-DTSTAMP:20250610T183500Z
-UID:2025-06-10T18:35:00/San Marínó - Austurríki
-DESCRIPTION:San Marínó - Austurríki - Undankeppni HM
+UID:2025-06-10T18:35:00/Finnland - Pólland
+DESCRIPTION:Finnland - Pólland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norður-Írland - Ísland - Vináttulandsleikur - stod2sport
@@ -706,52 +642,12 @@ UID:2025-06-10T18:35:00/Norður-Írland - Ísland
 DESCRIPTION:Norður-Írland - Ísland - Vináttulandsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grikkland - Búlgaría - Landsleikur - viaplay
-DTSTART:20250610T183500
-DTEND:20250610T193500
-DTSTAMP:20250610T183500Z
-UID:2025-06-10T18:35:00/Grikkland - Búlgaría
-DESCRIPTION:Grikkland - Búlgaría - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serbía - Andorra - Undankeppni HM - viaplay
-DTSTART:20250610T183500
-DTEND:20250610T193500
-DTSTAMP:20250610T183500Z
-UID:2025-06-10T18:35:00/Serbía - Andorra
-DESCRIPTION:Serbía - Andorra - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lúxemborg - Írland - Landsleikur - viaplay
 DTSTART:20250610T183500
 DTEND:20250610T193500
 DTSTAMP:20250610T183500Z
 UID:2025-06-10T18:35:00/Lúxemborg - Írland
 DESCRIPTION:Lúxemborg - Írland - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:England - Senegal - Landsleikur - viaplay
-DTSTART:20250610T183500
-DTEND:20250610T193500
-DTSTAMP:20250610T183500Z
-UID:2025-06-10T18:35:00/England - Senegal
-DESCRIPTION:England - Senegal - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rúmenía - Kýpur - Undankeppni HM - viaplay
-DTSTART:20250610T183500
-DTEND:20250610T193500
-DTSTAMP:20250610T183500Z
-UID:2025-06-10T18:35:00/Rúmenía - Kýpur
-DESCRIPTION:Rúmenía - Kýpur - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holland - Malta - Undankeppni HM - viaplay
-DTSTART:20250610T183500
-DTEND:20250610T193500
-DTSTAMP:20250610T183500Z
-UID:2025-06-10T18:35:00/Holland - Malta
-DESCRIPTION:Holland - Malta - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lettland - Albanía - Undankeppni HM - viaplay
@@ -762,12 +658,60 @@ UID:2025-06-10T18:35:00/Lettland - Albanía
 DESCRIPTION:Lettland - Albanía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Finnland - Pólland - Undankeppni HM - viaplay
+SUMMARY:Holland - Malta - Undankeppni HM - viaplay
 DTSTART:20250610T183500
 DTEND:20250610T193500
 DTSTAMP:20250610T183500Z
-UID:2025-06-10T18:35:00/Finnland - Pólland
-DESCRIPTION:Finnland - Pólland - Undankeppni HM
+UID:2025-06-10T18:35:00/Holland - Malta
+DESCRIPTION:Holland - Malta - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rúmenía - Kýpur - Undankeppni HM - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Rúmenía - Kýpur
+DESCRIPTION:Rúmenía - Kýpur - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marínó - Austurríki - Undankeppni HM - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/San Marínó - Austurríki
+DESCRIPTION:San Marínó - Austurríki - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serbía - Andorra - Undankeppni HM - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Serbía - Andorra
+DESCRIPTION:Serbía - Andorra - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísrael - Slóvakía - Landsleikur - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Ísrael - Slóvakía
+DESCRIPTION:Ísrael - Slóvakía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grikkland - Búlgaría - Landsleikur - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Grikkland - Búlgaría
+DESCRIPTION:Grikkland - Búlgaría - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:England - Senegal - Landsleikur - viaplay
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/England - Senegal
+DESCRIPTION:England - Senegal - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
@@ -785,5 +729,24 @@ DTEND:20250610T214500
 DTSTAMP:20250610T204500Z
 UID:2025-06-10T20:45:00/Norður-Írland - Ísland: Uppgjör
 DESCRIPTION:Norður-Írland - Ísland: Uppgjör - Landsleikir: Uppgjör
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Þróttur - 8-liða úrslit - Bikarkeppni kvenna í fótbo
+ lta - ruv2
+DTSTART:20250611T193000
+DTEND:20250611T203000
+DTSTAMP:20250611T193000Z
+UID:2025-06-11T19:30:00/Valur - Þróttur - 8-liða úrslit
+DESCRIPTION:Valur - Þróttur - 8-liða úrslit - Bikarkeppni kvenna í f
+ ótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
+ lay
+DTSTART:20250611T210000
+DTEND:20250611T220000
+DTSTAMP:20250611T210000Z
+UID:2025-06-11T21:00:00/FIFA World Cup 2026 Qualifiers: Highlights
+DESCRIPTION:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM
 END:VEVENT
 END:VCALENDAR

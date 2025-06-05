@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - stod2 - ical
 BEGIN:VEVENT
-SUMMARY:Hannover - THW Kiel - Bundesliga handbolti - stod2vodasport
-DTSTART:20250604T165500
-DTEND:20250604T175500
-DTSTAMP:20250604T165500Z
-UID:2025-06-04T16:55:00/Hannover - THW Kiel
-DESCRIPTION:Hannover - THW Kiel - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þýskaland - Portúgal - Þjóðadeild UEFA - stod2vodasport
-DTSTART:20250604T185000
-DTEND:20250604T195000
-DTSTAMP:20250604T185000Z
-UID:2025-06-04T18:50:00/Þýskaland - Portúgal
-DESCRIPTION:Þýskaland - Portúgal - Þjóðadeild UEFA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oilers - Panthers - NHL - stod2vodasport
-DTSTART:20250605T000000
-DTEND:20250605T010000
-DTSTAMP:20250605T000000Z
-UID:2025-06-05T00:00:00/Oilers - Panthers
-DESCRIPTION:Oilers - Panthers - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KLM Open - DP World Tour - stod2sport4
 DTSTART:20250605T110000
 DTEND:20250605T120000
@@ -42,6 +18,14 @@ UID:2025-06-05T11:30:00/Tenerife Women's Open
 DESCRIPTION:Tenerife Women's Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brasilía U21 - Ísland U21 - Vináttulandsleikur - stod2sport
+DTSTART:20250605T175500
+DTEND:20250605T185500
+DTSTAMP:20250605T175500Z
+UID:2025-06-05T17:55:00/Brasilía U21 - Ísland U21
+DESCRIPTION:Brasilía U21 - Ísland U21 - Vináttulandsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spánn - Frakkland - Þjóðadeild UEFA - stod2vodasport
 DTSTART:20250605T185000
 DTEND:20250605T195000
@@ -51,10 +35,10 @@ DESCRIPTION:Spánn - Frakkland - Þjóðadeild UEFA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NBA Finals - Upphitun - NBA - stod2sport2
-DTSTART:20250605T235500
-DTEND:20250606T005500
-DTSTAMP:20250605T235500Z
-UID:2025-06-05T23:55:00/NBA Finals - Upphitun
+DTSTART:20250606T000000
+DTEND:20250606T010000
+DTSTAMP:20250606T000000Z
+UID:2025-06-06T00:00:00/NBA Finals - Upphitun
 DESCRIPTION:NBA Finals - Upphitun - NBA
 END:VEVENT
 BEGIN:VEVENT
@@ -122,12 +106,12 @@ UID:2025-06-06T18:35:00/Noregur - Ítalía
 DESCRIPTION:Noregur - Ítalía - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skotland - Ísland: Uppgjör - Landsleikir: Uppgjör - stod2sport
+SUMMARY:Skotland - Ísland: Uppgjör - Landsleikir - Uppgjör - stod2sport
 DTSTART:20250606T204500
 DTEND:20250606T214500
 DTSTAMP:20250606T204500Z
 UID:2025-06-06T20:45:00/Skotland - Ísland: Uppgjör
-DESCRIPTION:Skotland - Ísland: Uppgjör - Landsleikir: Uppgjör
+DESCRIPTION:Skotland - Ísland: Uppgjör - Landsleikir - Uppgjör
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oilers - Panthers - NHL - stod2vodasport
@@ -154,20 +138,20 @@ UID:2025-06-07T12:00:00/Tenerife Women's Open
 DESCRIPTION:Tenerife Women's Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - FHL - Besta deild kvenna - stod2sport5
-DTSTART:20250607T135000
-DTEND:20250607T145000
-DTSTAMP:20250607T135000Z
-UID:2025-06-07T13:50:00/Breiðablik - FHL
-DESCRIPTION:Breiðablik - FHL - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - Stjarnan - Besta deild kvenna - stod2besta01
 DTSTART:20250607T135000
 DTEND:20250607T145000
 DTSTAMP:20250607T135000Z
 UID:2025-06-07T13:50:00/Fram - Stjarnan
 DESCRIPTION:Fram - Stjarnan - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - FHL - Besta deild kvenna - stod2sport5
+DTSTART:20250607T135000
+DTEND:20250607T145000
+DTSTAMP:20250607T135000Z
+UID:2025-06-07T13:50:00/Breiðablik - FHL
+DESCRIPTION:Breiðablik - FHL - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Víkingur R. - FH - Besta deild kvenna - stod2sport
@@ -308,20 +292,20 @@ UID:2025-06-10T18:20:00/Norður-Írland - Ísland: Upphitun
 DESCRIPTION:Norður-Írland - Ísland: Upphitun - Landsleikir - Upphitun
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holland - Malta - Undankeppni HM 2026 - stod2vodasport
-DTSTART:20250610T183500
-DTEND:20250610T193500
-DTSTAMP:20250610T183500Z
-UID:2025-06-10T18:35:00/Holland - Malta
-DESCRIPTION:Holland - Malta - Undankeppni HM 2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Norður-Írland - Ísland - Vináttulandsleikur - stod2sport
 DTSTART:20250610T183500
 DTEND:20250610T193500
 DTSTAMP:20250610T183500Z
 UID:2025-06-10T18:35:00/Norður-Írland - Ísland
 DESCRIPTION:Norður-Írland - Ísland - Vináttulandsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Malta - Undankeppni HM 2026 - stod2vodasport
+DTSTART:20250610T183500
+DTEND:20250610T193500
+DTSTAMP:20250610T183500Z
+UID:2025-06-10T18:35:00/Holland - Malta
+DESCRIPTION:Holland - Malta - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norður-Írland - Ísland: Uppgjör - Landsleikir: Uppgjör - stod
