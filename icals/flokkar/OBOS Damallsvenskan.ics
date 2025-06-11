@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - OBOS Damallsvenskan - ical
 BEGIN:VEVENT
-SUMMARY:Vittsjö - Alingsås - OBOS Damallsvenskan - viaplay
-DTSTART:20250614T125000
-DTEND:20250614T135000
-DTSTAMP:20250614T125000Z
-UID:2025-06-14T12:50:00/Vittsjö - Alingsås
-DESCRIPTION:Vittsjö - Alingsås - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Växjö - Norrköping - OBOS Damallsvenskan - viaplay
-DTSTART:20250614T125000
-DTEND:20250614T135000
-DTSTAMP:20250614T125000Z
-UID:2025-06-14T12:50:00/Växjö - Norrköping
-DESCRIPTION:Växjö - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Häcken - AIK - OBOS Damallsvenskan - viaplay
 DTSTART:20250614T125000
 DTEND:20250614T135000
 DTSTAMP:20250614T125000Z
 UID:2025-06-14T12:50:00/Häcken - AIK
 DESCRIPTION:Häcken - AIK - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linköping - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20250614T125000
+DTEND:20250614T135000
+DTSTAMP:20250614T125000Z
+UID:2025-06-14T12:50:00/Linköping - Rosengård
+DESCRIPTION:Linköping - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kristianstad - Brommapojkarna - OBOS Damallsvenskan - viaplay
@@ -34,12 +26,20 @@ UID:2025-06-14T12:50:00/Kristianstad - Brommapojkarna
 DESCRIPTION:Kristianstad - Brommapojkarna - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linköping - Rosengård - OBOS Damallsvenskan - viaplay
+SUMMARY:Växjö - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20250614T125000
 DTEND:20250614T135000
 DTSTAMP:20250614T125000Z
-UID:2025-06-14T12:50:00/Linköping - Rosengård
-DESCRIPTION:Linköping - Rosengård - OBOS Damallsvenskan
+UID:2025-06-14T12:50:00/Växjö - Norrköping
+DESCRIPTION:Växjö - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vittsjö - Alingsås - OBOS Damallsvenskan - viaplay
+DTSTART:20250614T125000
+DTEND:20250614T135000
+DTSTAMP:20250614T125000Z
+UID:2025-06-14T12:50:00/Vittsjö - Alingsås
+DESCRIPTION:Vittsjö - Alingsås - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piteå - Malmö FF - OBOS Damallsvenskan - viaplay
@@ -51,10 +51,10 @@ DESCRIPTION:Piteå - Malmö FF - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hammarby - Djurgården - OBOS Damallsvenskan - viaplay
-DTSTART:20250616T165000
-DTEND:20250616T175000
-DTSTAMP:20250616T165000Z
-UID:2025-06-16T16:50:00/Hammarby - Djurgården
+DTSTART:20250616T165500
+DTEND:20250616T175500
+DTSTAMP:20250616T165500Z
+UID:2025-06-16T16:55:00/Hammarby - Djurgården
 DESCRIPTION:Hammarby - Djurgården - OBOS Damallsvenskan
 END:VEVENT
 END:VCALENDAR
