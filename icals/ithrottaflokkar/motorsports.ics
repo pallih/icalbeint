@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:E1 Dubrovnik GP - Qualifying Time Trials - E1 Series - livey
-DTSTART:20250613T110000
-DTEND:20250613T120000
-DTSTAMP:20250613T110000Z
-UID:2025-06-13T11:00:00/E1 Dubrovnik GP - Qualifying Time Trials
-DESCRIPTION:E1 Dubrovnik GP - Qualifying Time Trials - E1 Series
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E1 Dubrovnik GP - Qualifying Races - E1 Series - livey
 DTSTART:20250613T141500
 DTEND:20250613T151500
@@ -34,6 +26,30 @@ UID:2025-06-13T17:25:00/Kanada Kappaksturinn (Æfing 1)
 DESCRIPTION:Kanada Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Kanada Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250613T173000
+DTEND:20250613T183000
+DTSTAMP:20250613T173000Z
+UID:2025-06-13T17:30:00/Timing (Æfing 1 | Kanada Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Kanada Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 1 | Kanada Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250613T173000
+DTEND:20250613T183000
+DTSTAMP:20250613T173000Z
+UID:2025-06-13T17:30:00/Pitlane (Æfing 1 | Kanada Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Kanada Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Kanada Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250613T173000
+DTEND:20250613T183000
+DTSTAMP:20250613T173000Z
+UID:2025-06-13T17:30:00/Onboard (Æfing 1 | Kanada Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Kanada Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Kanada Kappaksturinn) - Formula 1 - 
  viaplay
 DTSTART:20250613T173000
@@ -45,44 +61,12 @@ DESCRIPTION:Track Positioning (Æfing 1 | Kanada Kappaksturinn) - Formula
  1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Kanada Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250613T173000
-DTEND:20250613T183000
-DTSTAMP:20250613T173000Z
-UID:2025-06-13T17:30:00/Timing (Æfing 1 | Kanada Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Kanada Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Kanada Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250613T173000
-DTEND:20250613T183000
-DTSTAMP:20250613T173000Z
-UID:2025-06-13T17:30:00/Onboard (Æfing 1 | Kanada Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Kanada Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Kanada Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250613T173000
-DTEND:20250613T183000
-DTSTAMP:20250613T173000Z
-UID:2025-06-13T17:30:00/Pitlane (Æfing 1 | Kanada Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Kanada Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kanada Kappaksturinn (Æfing 2) - Formula 1 - viaplay
 DTSTART:20250613T205500
 DTEND:20250613T215500
 DTSTAMP:20250613T205500Z
 UID:2025-06-13T20:55:00/Kanada Kappaksturinn (Æfing 2)
 DESCRIPTION:Kanada Kappaksturinn (Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Kanada Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250613T210000
-DTEND:20250613T220000
-DTSTAMP:20250613T210000Z
-UID:2025-06-13T21:00:00/Onboard (Æfing 2 | Kanada Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Kanada Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Kanada Kappaksturinn) - Formula 1 - 
@@ -110,6 +94,14 @@ DTEND:20250613T220000
 DTSTAMP:20250613T210000Z
 UID:2025-06-13T21:00:00/Pitlane (Æfing 2 | Kanada Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 2 | Kanada Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 2 | Kanada Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250613T210000
+DTEND:20250613T220000
+DTSTAMP:20250613T210000Z
+UID:2025-06-13T21:00:00/Onboard (Æfing 2 | Kanada Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Kanada Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Montreal (Tímatökur) - F1 Academy - viaplay
@@ -168,6 +160,22 @@ UID:2025-06-14T16:25:00/Kanada Kappaksturinn (Æfing 3)
 DESCRIPTION:Kanada Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Kanada Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250614T163000
+DTEND:20250614T173000
+DTSTAMP:20250614T163000Z
+UID:2025-06-14T16:30:00/Onboard (Æfing 3 | Kanada Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Kanada Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 3 | Kanada Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250614T163000
+DTEND:20250614T173000
+DTSTAMP:20250614T163000Z
+UID:2025-06-14T16:30:00/Timing (Æfing 3 | Kanada Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Kanada Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Kanada Kappaksturinn) - Formula 1 - 
  viaplay
 DTSTART:20250614T163000
@@ -185,22 +193,6 @@ DTEND:20250614T173000
 DTSTAMP:20250614T163000Z
 UID:2025-06-14T16:30:00/Pitlane (Æfing 3 | Kanada Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 3 | Kanada Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Kanada Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250614T163000
-DTEND:20250614T173000
-DTSTAMP:20250614T163000Z
-UID:2025-06-14T16:30:00/Onboard (Æfing 3 | Kanada Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Kanada Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Kanada Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250614T163000
-DTEND:20250614T173000
-DTSTAMP:20250614T163000Z
-UID:2025-06-14T16:30:00/Timing (Æfing 3 | Kanada Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Kanada Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indy NXT Firestone at World Wide Technology Raceway (Æfing) - Ind
@@ -238,12 +230,20 @@ UID:2025-06-14T19:45:00/Kanada Kappaksturinn (Tímatökur)
 DESCRIPTION:Kanada Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Chilango 150 (Xfinity Series) - Nascar - viaplay
+SUMMARY:Timing (Tímatökur | Kanada Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250614T200000
 DTEND:20250614T210000
 DTSTAMP:20250614T200000Z
-UID:2025-06-14T20:00:00/The Chilango 150 (Xfinity Series)
-DESCRIPTION:The Chilango 150 (Xfinity Series) - Nascar
+UID:2025-06-14T20:00:00/Timing (Tímatökur | Kanada Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Kanada Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Tímatökur | Kanada Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250614T200000
+DTEND:20250614T210000
+DTSTAMP:20250614T200000Z
+UID:2025-06-14T20:00:00/Onboard (Tímatökur | Kanada Kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Kanada Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Kanada Kappaksturinn) - Formula 1 - viaplay
@@ -265,20 +265,12 @@ DESCRIPTION:Track Positioning (Tímatökur | Kanada Kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Kanada Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:The Chilango 150 (Xfinity Series) - Nascar - viaplay
 DTSTART:20250614T200000
 DTEND:20250614T210000
 DTSTAMP:20250614T200000Z
-UID:2025-06-14T20:00:00/Timing (Tímatökur | Kanada Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Kanada Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Kanada Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250614T200000
-DTEND:20250614T210000
-DTSTAMP:20250614T200000Z
-UID:2025-06-14T20:00:00/Onboard (Tímatökur | Kanada Kappaksturinn)
-DESCRIPTION:Onboard (Tímatökur | Kanada Kappaksturinn) - Formula 1
+UID:2025-06-14T20:00:00/The Chilango 150 (Xfinity Series)
+DESCRIPTION:The Chilango 150 (Xfinity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indy NXT Firestone at World Wide Technology Raceway (Tímatökur) 
@@ -324,22 +316,6 @@ UID:2025-06-15T17:30:00/Kanada Kappaksturinn (Kappakstur)
 DESCRIPTION:Kanada Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Kanada Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250615T180000
-DTEND:20250615T190000
-DTSTAMP:20250615T180000Z
-UID:2025-06-15T18:00:00/Pitlane (Kappakstur | Kanada Kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Kanada Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 Viva México 250 (Cup Series) - Nascar - viaplay
-DTSTART:20250615T180000
-DTEND:20250615T190000
-DTSTAMP:20250615T180000Z
-UID:2025-06-15T18:00:00/2025 Viva México 250 (Cup Series)
-DESCRIPTION:2025 Viva México 250 (Cup Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Kanada Kappaksturinn) - Formula 1 
  - viaplay
 DTSTART:20250615T180000
@@ -351,12 +327,12 @@ DESCRIPTION:Track Positioning (Kappakstur | Kanada Kappaksturinn) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Kanada Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Kappakstur | Kanada Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250615T180000
 DTEND:20250615T190000
 DTSTAMP:20250615T180000Z
-UID:2025-06-15T18:00:00/Timing (Kappakstur | Kanada Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Kanada Kappaksturinn) - Formula 1
+UID:2025-06-15T18:00:00/Pitlane (Kappakstur | Kanada Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Kanada Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Kanada Kappaksturinn) - Formula 1 - viaplay
@@ -365,6 +341,22 @@ DTEND:20250615T190000
 DTSTAMP:20250615T180000Z
 UID:2025-06-15T18:00:00/Onboard (Kappakstur | Kanada Kappaksturinn)
 DESCRIPTION:Onboard (Kappakstur | Kanada Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Kanada Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250615T180000
+DTEND:20250615T190000
+DTSTAMP:20250615T180000Z
+UID:2025-06-15T18:00:00/Timing (Kappakstur | Kanada Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Kanada Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Viva México 250 (Cup Series) - Nascar - viaplay
+DTSTART:20250615T180000
+DTEND:20250615T190000
+DTSTAMP:20250615T180000Z
+UID:2025-06-15T18:00:00/2025 Viva México 250 (Cup Series)
+DESCRIPTION:2025 Viva México 250 (Cup Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indy NXT Firestone at World Wide Technology Raceway (Kappakstur) -
