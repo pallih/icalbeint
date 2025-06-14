@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - OBOS Damallsvenskan - ical
 BEGIN:VEVENT
-SUMMARY:Kristianstad - Brommapojkarna - OBOS Damallsvenskan - viaplay
-DTSTART:20250614T125000
-DTEND:20250614T135000
-DTSTAMP:20250614T125000Z
-UID:2025-06-14T12:50:00/Kristianstad - Brommapojkarna
-DESCRIPTION:Kristianstad - Brommapojkarna - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Växjö - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20250614T125000
 DTEND:20250614T135000
@@ -18,12 +10,20 @@ UID:2025-06-14T12:50:00/Växjö - Norrköping
 DESCRIPTION:Växjö - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vittsjö - Alingsås - OBOS Damallsvenskan - viaplay
+SUMMARY:Häcken - AIK - OBOS Damallsvenskan - viaplay
 DTSTART:20250614T125000
 DTEND:20250614T135000
 DTSTAMP:20250614T125000Z
-UID:2025-06-14T12:50:00/Vittsjö - Alingsås
-DESCRIPTION:Vittsjö - Alingsås - OBOS Damallsvenskan
+UID:2025-06-14T12:50:00/Häcken - AIK
+DESCRIPTION:Häcken - AIK - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kristianstad - Brommapojkarna - OBOS Damallsvenskan - viaplay
+DTSTART:20250614T125000
+DTEND:20250614T135000
+DTSTAMP:20250614T125000Z
+UID:2025-06-14T12:50:00/Kristianstad - Brommapojkarna
+DESCRIPTION:Kristianstad - Brommapojkarna - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linköping - Rosengård - OBOS Damallsvenskan - viaplay
@@ -34,12 +34,12 @@ UID:2025-06-14T12:50:00/Linköping - Rosengård
 DESCRIPTION:Linköping - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Häcken - AIK - OBOS Damallsvenskan - viaplay
+SUMMARY:Vittsjö - Alingsås - OBOS Damallsvenskan - viaplay
 DTSTART:20250614T125000
 DTEND:20250614T135000
 DTSTAMP:20250614T125000Z
-UID:2025-06-14T12:50:00/Häcken - AIK
-DESCRIPTION:Häcken - AIK - OBOS Damallsvenskan
+UID:2025-06-14T12:50:00/Vittsjö - Alingsås
+DESCRIPTION:Vittsjö - Alingsås - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piteå - Malmö FF - OBOS Damallsvenskan - viaplay
