@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Bommarito Automotive Group 500 (Æfing 2) - IndyCar - viaplay
-DTSTART:20250615T000000
-DTEND:20250615T010000
-DTSTAMP:20250615T000000Z
-UID:2025-06-15T00:00:00/Bommarito Automotive Group 500 (Æfing 2)
-DESCRIPTION:Bommarito Automotive Group 500 (Æfing 2) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bommarito Automotive Group 500 (Kappakstur) - IndyCar - viaplay
 DTSTART:20250616T000000
 DTEND:20250616T010000
@@ -27,10 +19,26 @@ DESCRIPTION:XPEL Grand Prix at Road America (Æfing) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XPEL Grand Prix at Road America (Tímatökur) - IndyCar - viaplay
-DTSTART:20250621T190000
-DTEND:20250621T200000
-DTSTAMP:20250621T190000Z
-UID:2025-06-21T19:00:00/XPEL Grand Prix at Road America (Tímatökur)
+DTSTART:20250621T183000
+DTEND:20250621T193000
+DTSTAMP:20250621T183000Z
+UID:2025-06-21T18:30:00/XPEL Grand Prix at Road America (Tímatökur)
 DESCRIPTION:XPEL Grand Prix at Road America (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XPEL Grand Prix at Road America (Warm Up) - IndyCar - viaplay
+DTSTART:20250622T160000
+DTEND:20250622T170000
+DTSTAMP:20250622T160000Z
+UID:2025-06-22T16:00:00/XPEL Grand Prix at Road America (Warm Up)
+DESCRIPTION:XPEL Grand Prix at Road America (Warm Up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XPEL Grand Prix at Road America (Kappakstur) - IndyCar - viaplay
+DTSTART:20250622T173000
+DTEND:20250622T183000
+DTSTAMP:20250622T173000Z
+UID:2025-06-22T17:30:00/XPEL Grand Prix at Road America (Kappakstur)
+DESCRIPTION:XPEL Grand Prix at Road America (Kappakstur) - IndyCar
 END:VEVENT
 END:VCALENDAR
