@@ -34,20 +34,20 @@ UID:2025-06-27T11:10:00/Hollenski kappaksturinn (Æfing)
 DESCRIPTION:Hollenski kappaksturinn (Æfing) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Austurríki - Æfing 1 - Formúla 1 - synsportviaplay
-DTSTART:20250627T112500
-DTEND:20250627T122500
-DTSTAMP:20250627T112500Z
-UID:2025-06-27T11:25:00/F1: Austurríki - Æfing 1
-DESCRIPTION:F1: Austurríki - Æfing 1 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Austurríski Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20250627T112500
 DTEND:20250627T122500
 DTSTAMP:20250627T112500Z
 UID:2025-06-27T11:25:00/Austurríski Kappaksturinn (Æfing 1)
 DESCRIPTION:Austurríski Kappaksturinn (Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Austurríki - Æfing 1 - Formúla 1 - synsportviaplay
+DTSTART:20250627T112500
+DTEND:20250627T122500
+DTSTAMP:20250627T112500Z
+UID:2025-06-27T11:25:00/F1: Austurríki - Æfing 1
+DESCRIPTION:F1: Austurríki - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Austurríski Kappaksturinn) - Formula 1 - viap
@@ -59,15 +59,6 @@ UID:2025-06-27T11:30:00/Pitlane (Æfing 1 | Austurríski Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Austurríski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Austurríski Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20250627T113000
-DTEND:20250627T123000
-DTSTAMP:20250627T113000Z
-UID:2025-06-27T11:30:00/Timing (Æfing 1 | Austurríski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Austurríski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 1 | Austurríski Kappaksturinn) - Formula 1 - viap
  lay
 DTSTART:20250627T113000
@@ -75,6 +66,15 @@ DTEND:20250627T123000
 DTSTAMP:20250627T113000Z
 UID:2025-06-27T11:30:00/Onboard (Æfing 1 | Austurríski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Austurríski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Austurríski Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20250627T113000
+DTEND:20250627T123000
+DTSTAMP:20250627T113000Z
+UID:2025-06-27T11:30:00/Timing (Æfing 1 | Austurríski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Austurríski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Austurríski Kappaksturinn) - Formul
@@ -120,14 +120,6 @@ UID:2025-06-27T13:50:00/Spielberg (Tímatökur)
 DESCRIPTION:Spielberg (Tímatökur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Austurríki - Æfing 2 - Formúla 1 - synsportviaplay
-DTSTART:20250627T145500
-DTEND:20250627T155500
-DTSTAMP:20250627T145500Z
-UID:2025-06-27T14:55:00/F1: Austurríki - Æfing 2
-DESCRIPTION:F1: Austurríki - Æfing 2 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Austurríski Kappaksturinn (Æfing 2) - Formula 1 - viaplay
 DTSTART:20250627T145500
 DTEND:20250627T155500
@@ -136,13 +128,23 @@ UID:2025-06-27T14:55:00/Austurríski Kappaksturinn (Æfing 2)
 DESCRIPTION:Austurríski Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Austurríski Kappaksturinn) - Formula 1 - viap
- lay
+SUMMARY:F1: Austurríki - Æfing 2 - Formúla 1 - synsportviaplay
+DTSTART:20250627T145500
+DTEND:20250627T155500
+DTSTAMP:20250627T145500Z
+UID:2025-06-27T14:55:00/F1: Austurríki - Æfing 2
+DESCRIPTION:F1: Austurríki - Æfing 2 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 2 | Austurríski Kappaksturinn) - Formul
+ a 1 - viaplay
 DTSTART:20250627T150000
 DTEND:20250627T160000
 DTSTAMP:20250627T150000Z
-UID:2025-06-27T15:00:00/Pitlane (Æfing 1 | Austurríski Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Austurríski Kappaksturinn) - Formula 1
+UID:2025-06-27T15:00:00/Track Positioning (Æfing 2 | Austurríski Kappaks
+ turinn)
+DESCRIPTION:Track Positioning (Æfing 2 | Austurríski Kappaksturinn) - Fo
+ rmula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Austurríski Kappaksturinn) - Formula 1 - viapl
@@ -163,15 +165,13 @@ UID:2025-06-27T15:00:00/Onboard (Æfing 2 | Austurríski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Austurríski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 2 | Austurríski Kappaksturinn) - Formul
- a 1 - viaplay
+SUMMARY:Pitlane (Æfing 1 | Austurríski Kappaksturinn) - Formula 1 - viap
+ lay
 DTSTART:20250627T150000
 DTEND:20250627T160000
 DTSTAMP:20250627T150000Z
-UID:2025-06-27T15:00:00/Track Positioning (Æfing 2 | Austurríski Kappaks
- turinn)
-DESCRIPTION:Track Positioning (Æfing 2 | Austurríski Kappaksturinn) - Fo
- rmula 1
+UID:2025-06-27T15:00:00/Pitlane (Æfing 1 | Austurríski Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Austurríski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Focused Health 250 (Xfinity Series) - Nascar - viaplay
@@ -198,20 +198,20 @@ UID:2025-06-28T07:20:00/Hollenski kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Hollenski kappaksturinn (Frjáls æfing 2) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spielberg (Sprettkeppni) - Formula 3 - viaplay
-DTSTART:20250628T080000
-DTEND:20250628T090000
-DTSTAMP:20250628T080000Z
-UID:2025-06-28T08:00:00/Spielberg (Sprettkeppni)
-DESCRIPTION:Spielberg (Sprettkeppni) - Formula 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Frjáls æfing 2) - MotoGP - viaplay
 DTSTART:20250628T080000
 DTEND:20250628T090000
 DTSTAMP:20250628T080000Z
 UID:2025-06-28T08:00:00/Hollenski kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Hollenski kappaksturinn (Frjáls æfing 2) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spielberg (Sprettkeppni) - Formula 3 - viaplay
+DTSTART:20250628T080000
+DTEND:20250628T090000
+DTSTAMP:20250628T080000Z
+UID:2025-06-28T08:00:00/Spielberg (Sprettkeppni)
+DESCRIPTION:Spielberg (Sprettkeppni) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Tímatökur) - MotoGP - viaplay
@@ -230,14 +230,6 @@ UID:2025-06-28T09:15:00/Spielberg (Tímatökur)
 DESCRIPTION:Spielberg (Tímatökur) - Porsche Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austurríski Kappaksturinn (Æfing 3) - Formula 1 - viaplay
-DTSTART:20250628T102500
-DTEND:20250628T112500
-DTSTAMP:20250628T102500Z
-UID:2025-06-28T10:25:00/Austurríski Kappaksturinn (Æfing 3)
-DESCRIPTION:Austurríski Kappaksturinn (Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Austurríki - Æfing 3 - Formúla 1 - synsportviaplay
 DTSTART:20250628T102500
 DTEND:20250628T112500
@@ -246,13 +238,12 @@ UID:2025-06-28T10:25:00/F1: Austurríki - Æfing 3
 DESCRIPTION:F1: Austurríki - Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Austurríski Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20250628T103000
-DTEND:20250628T113000
-DTSTAMP:20250628T103000Z
-UID:2025-06-28T10:30:00/Onboard (Æfing 3 | Austurríski Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Austurríski Kappaksturinn) - Formula 1
+SUMMARY:Austurríski Kappaksturinn (Æfing 3) - Formula 1 - viaplay
+DTSTART:20250628T102500
+DTEND:20250628T112500
+DTSTAMP:20250628T102500Z
+UID:2025-06-28T10:25:00/Austurríski Kappaksturinn (Æfing 3)
+DESCRIPTION:Austurríski Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Austurríski Kappaksturinn) - Formul
@@ -273,6 +264,15 @@ DTEND:20250628T113000
 DTSTAMP:20250628T103000Z
 UID:2025-06-28T10:30:00/Timing (Æfing 3 | Austurríski Kappaksturinn)
 DESCRIPTION:Timing (Æfing 3 | Austurríski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Austurríski Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250628T103000
+DTEND:20250628T113000
+DTSTAMP:20250628T103000Z
+UID:2025-06-28T10:30:00/Onboard (Æfing 3 | Austurríski Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Austurríski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 3 | Austurríski Kappaksturinn) - Formula 1 - viap
@@ -352,17 +352,6 @@ UID:2025-06-28T13:55:00/F1: Austurríki - Tímataka
 DESCRIPTION:F1: Austurríki - Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Austurríski Kappaksturinn) - Formula 1 - 
- viaplay
-DTSTART:20250628T140000
-DTEND:20250628T150000
-DTSTAMP:20250628T140000Z
-UID:2025-06-28T14:00:00/Onboard (Tímatökur | Austurríski Kappaksturinn
- )
-DESCRIPTION:Onboard (Tímatökur | Austurríski Kappaksturinn) - Formula 
- 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Tímatökur | Austurríski Kappaksturinn) - Formula 1 - v
  iaplay
 DTSTART:20250628T140000
@@ -391,6 +380,17 @@ DTSTAMP:20250628T140000Z
 UID:2025-06-28T14:00:00/Pitlane (Tímatökur | Austurríski Kappaksturinn
  )
 DESCRIPTION:Pitlane (Tímatökur | Austurríski Kappaksturinn) - Formula 
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Tímatökur | Austurríski Kappaksturinn) - Formula 1 - 
+ viaplay
+DTSTART:20250628T140000
+DTEND:20250628T150000
+DTSTAMP:20250628T140000Z
+UID:2025-06-28T14:00:00/Onboard (Tímatökur | Austurríski Kappaksturinn
+ )
+DESCRIPTION:Onboard (Tímatökur | Austurríski Kappaksturinn) - Formula 
  1
 END:VEVENT
 BEGIN:VEVENT
@@ -509,17 +509,6 @@ UID:2025-06-29T12:55:00/F1 Kids (Austurríski Kappaksturinn)
 DESCRIPTION:F1 Kids (Austurríski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Austurríski Kappaksturinn) - For
- mula 1 - viaplay
-DTSTART:20250629T130000
-DTEND:20250629T140000
-DTSTAMP:20250629T130000Z
-UID:2025-06-29T13:00:00/Track Positioning (Kappakstur | Austurríski Kapp
- aksturinn)
-DESCRIPTION:Track Positioning (Kappakstur | Austurríski Kappaksturinn) -
-  Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Austurríski Kappaksturinn) - Formula 1 - v
  iaplay
 DTSTART:20250629T130000
@@ -545,6 +534,17 @@ DTEND:20250629T140000
 DTSTAMP:20250629T130000Z
 UID:2025-06-29T13:00:00/Pitlane (Kappakstur | Austurríski Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Austurríski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kappakstur | Austurríski Kappaksturinn) - For
+ mula 1 - viaplay
+DTSTART:20250629T130000
+DTEND:20250629T140000
+DTSTAMP:20250629T130000Z
+UID:2025-06-29T13:00:00/Track Positioning (Kappakstur | Austurríski Kapp
+ aksturinn)
+DESCRIPTION:Track Positioning (Kappakstur | Austurríski Kappaksturinn) -
+  Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valencia (Trofeo Pirelli | Kappakstur 2) - Ferrari Challenge Europ
