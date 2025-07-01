@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250630T100000
-DTEND:20250630T110000
-DTSTAMP:20250630T100000Z
-UID:2025-06-30T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Championship League Snooker - Snóker - viaplay
-DTSTART:20250630T110000
-DTEND:20250630T120000
-DTSTAMP:20250630T110000Z
-UID:2025-06-30T11:00:00/Championship League Snooker
-DESCRIPTION:Championship League Snooker - Snóker
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bordeaux P2 - Premier Padel - viaplay
-DTSTART:20250630T120000
-DTEND:20250630T130000
-DTSTAMP:20250630T120000Z
-UID:2025-06-30T12:00:00/Bordeaux P2
-DESCRIPTION:Bordeaux P2 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Championship League Snooker - Snóker - viaplay
-DTSTART:20250630T160000
-DTEND:20250630T170000
-DTSTAMP:20250630T160000Z
-UID:2025-06-30T16:00:00/Championship League Snooker
-DESCRIPTION:Championship League Snooker - Snóker
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bordeaux P2 - Premier Padel - viaplay
 DTSTART:20250701T080000
 DTEND:20250701T090000
@@ -139,20 +107,20 @@ UID:2025-07-03T11:00:00/Championship League Snooker
 DESCRIPTION:Championship League Snooker - Snóker
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KPMG Women’s Irish Open - Ladies European Tour - viaplay
-DTSTART:20250703T150000
-DTEND:20250703T160000
-DTSTAMP:20250703T150000Z
-UID:2025-07-03T15:00:00/KPMG Women’s Irish Open
-DESCRIPTION:KPMG Women’s Irish Open - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bordeaux P2 - Premier Padel - viaplay
 DTSTART:20250703T150000
 DTEND:20250703T160000
 DTSTAMP:20250703T150000Z
 UID:2025-07-03T15:00:00/Bordeaux P2
 DESCRIPTION:Bordeaux P2 - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KPMG Women’s Irish Open - Ladies European Tour - viaplay
+DTSTART:20250703T150000
+DTEND:20250703T160000
+DTSTAMP:20250703T150000Z
+UID:2025-07-03T15:00:00/KPMG Women’s Irish Open
+DESCRIPTION:KPMG Women’s Irish Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Championship League Snooker - Snóker - viaplay
@@ -195,24 +163,6 @@ UID:2025-07-04T11:25:00/Silverstone Kappaksturinn (Æfing 1)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Silverstone Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20250704T113000
-DTEND:20250704T123000
-DTSTAMP:20250704T113000Z
-UID:2025-07-04T11:30:00/Timing (Æfing 1 | Silverstone Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Silverstone Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Silverstone Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20250704T113000
-DTEND:20250704T123000
-DTSTAMP:20250704T113000Z
-UID:2025-07-04T11:30:00/Onboard (Æfing 1 | Silverstone Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Silverstone Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Silverstone Kappaksturinn) - Formula
   1 - viaplay
 DTSTART:20250704T113000
@@ -231,6 +181,24 @@ DTEND:20250704T123000
 DTSTAMP:20250704T113000Z
 UID:2025-07-04T11:30:00/Pitlane (Æfing 1 | Silverstone Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Silverstone Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Silverstone Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250704T113000
+DTEND:20250704T123000
+DTSTAMP:20250704T113000Z
+UID:2025-07-04T11:30:00/Timing (Æfing 1 | Silverstone Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Silverstone Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Silverstone Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20250704T113000
+DTEND:20250704T123000
+DTSTAMP:20250704T113000Z
+UID:2025-07-04T11:30:00/Onboard (Æfing 1 | Silverstone Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone (Tímatökur) - Formula 3 - viaplay
@@ -257,23 +225,21 @@ UID:2025-07-04T14:55:00/Silverstone Kappaksturinn (Æfing 2)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 2 | Silverstone Kappaksturinn) - Formula
-  1 - viaplay
-DTSTART:20250704T150000
-DTEND:20250704T160000
-DTSTAMP:20250704T150000Z
-UID:2025-07-04T15:00:00/Track Positioning (Æfing 2 | Silverstone Kappakst
- urinn)
-DESCRIPTION:Track Positioning (Æfing 2 | Silverstone Kappaksturinn) - For
- mula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KPMG Women’s Irish Open - Ladies European Tour - viaplay
 DTSTART:20250704T150000
 DTEND:20250704T160000
 DTSTAMP:20250704T150000Z
 UID:2025-07-04T15:00:00/KPMG Women’s Irish Open
 DESCRIPTION:KPMG Women’s Irish Open - Ladies European Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 2 | Silverstone Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20250704T150000
+DTEND:20250704T160000
+DTSTAMP:20250704T150000Z
+UID:2025-07-04T15:00:00/Onboard (Æfing 2 | Silverstone Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Silverstone Kappaksturinn) - Formula 1 - viapla
@@ -285,13 +251,15 @@ UID:2025-07-04T15:00:00/Timing (Æfing 2 | Silverstone Kappaksturinn)
 DESCRIPTION:Timing (Æfing 2 | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Silverstone Kappaksturinn) - Formula 1 - viapl
- ay
+SUMMARY:Track Positioning (Æfing 2 | Silverstone Kappaksturinn) - Formula
+  1 - viaplay
 DTSTART:20250704T150000
 DTEND:20250704T160000
 DTSTAMP:20250704T150000Z
-UID:2025-07-04T15:00:00/Onboard (Æfing 2 | Silverstone Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Silverstone Kappaksturinn) - Formula 1
+UID:2025-07-04T15:00:00/Track Positioning (Æfing 2 | Silverstone Kappakst
+ urinn)
+DESCRIPTION:Track Positioning (Æfing 2 | Silverstone Kappaksturinn) - For
+ mula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 2 | Silverstone Kappaksturinn) - Formula 1 - viapl
@@ -393,6 +361,15 @@ UID:2025-07-05T10:25:00/Silverstone Kappaksturinn (Æfing 3)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Silverstone Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20250705T103000
+DTEND:20250705T113000
+DTSTAMP:20250705T103000Z
+UID:2025-07-05T10:30:00/Onboard (Æfing 3 | Silverstone Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Silverstone Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Æfing 3 | Silverstone Kappaksturinn) - Formula 1 - viapla
  y
 DTSTART:20250705T103000
@@ -420,15 +397,6 @@ UID:2025-07-05T10:30:00/Track Positioning (Æfing 3 | Silverstone Kappakst
  urinn)
 DESCRIPTION:Track Positioning (Æfing 3 | Silverstone Kappaksturinn) - For
  mula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Silverstone Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20250705T103000
-DTEND:20250705T113000
-DTSTAMP:20250705T103000Z
-UID:2025-07-05T10:30:00/Onboard (Æfing 3 | Silverstone Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Championship League Snooker - Snóker - viaplay
@@ -508,15 +476,6 @@ DESCRIPTION:World RX of Sweden (Tímatökur 2) - World Rallycross Champion
  ship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Silverstone Kappaksturinn) - Formula 1 - via
- play
-DTSTART:20250705T140000
-DTEND:20250705T150000
-DTSTAMP:20250705T140000Z
-UID:2025-07-05T14:00:00/Timing (Tímatökur | Silverstone Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Silverstone Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Silverstone Kappaksturinn) - Form
  ula 1 - viaplay
 DTSTART:20250705T140000
@@ -528,13 +487,13 @@ DESCRIPTION:Track Positioning (Tímatökur | Silverstone Kappaksturinn) -
  Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Silverstone Kappaksturinn) - Formula 1 - vi
- aplay
+SUMMARY:Timing (Tímatökur | Silverstone Kappaksturinn) - Formula 1 - via
+ play
 DTSTART:20250705T140000
 DTEND:20250705T150000
 DTSTAMP:20250705T140000Z
-UID:2025-07-05T14:00:00/Pitlane (Tímatökur | Silverstone Kappaksturinn)
-DESCRIPTION:Pitlane (Tímatökur | Silverstone Kappaksturinn) - Formula 1
+UID:2025-07-05T14:00:00/Timing (Tímatökur | Silverstone Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Silverstone Kappaksturinn) - Formula 1 - vi
@@ -544,6 +503,15 @@ DTEND:20250705T150000
 DTSTAMP:20250705T140000Z
 UID:2025-07-05T14:00:00/Onboard (Tímatökur | Silverstone Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Silverstone Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Tímatökur | Silverstone Kappaksturinn) - Formula 1 - vi
+ aplay
+DTSTART:20250705T140000
+DTEND:20250705T150000
+DTSTAMP:20250705T140000Z
+UID:2025-07-05T14:00:00/Pitlane (Tímatökur | Silverstone Kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Honda Indy 200 Mid-Ohio (Æfing 2) - IndyCar - viaplay
@@ -663,6 +631,14 @@ UID:2025-07-06T11:15:00/Norisring (Kappakstur 2)
 DESCRIPTION:Norisring (Kappakstur 2) - DTM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bordeaux P2 - Premier Padel - viaplay
+DTSTART:20250706T120000
+DTEND:20250706T130000
+DTSTAMP:20250706T120000Z
+UID:2025-07-06T12:00:00/Bordeaux P2
+DESCRIPTION:Bordeaux P2 - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:World RX of Sweden (Úrslit) - World Rallycross Championship - via
  play
 DTSTART:20250706T120000
@@ -670,14 +646,6 @@ DTEND:20250706T130000
 DTSTAMP:20250706T120000Z
 UID:2025-07-06T12:00:00/World RX of Sweden (Úrslit)
 DESCRIPTION:World RX of Sweden (Úrslit) - World Rallycross Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bordeaux P2 - Premier Padel - viaplay
-DTSTART:20250706T120000
-DTEND:20250706T130000
-DTSTAMP:20250706T120000Z
-UID:2025-07-06T12:00:00/Bordeaux P2
-DESCRIPTION:Bordeaux P2 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KPMG Women’s Irish Open - Ladies European Tour - viaplay
@@ -704,6 +672,14 @@ UID:2025-07-06T13:30:00/Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Honda Indy 200 Mid-Ohio (Warm Up) - IndyCar - viaplay
+DTSTART:20250706T133000
+DTEND:20250706T143000
+DTSTAMP:20250706T133000Z
+UID:2025-07-06T13:30:00/Honda Indy 200 Mid-Ohio (Warm Up)
+DESCRIPTION:Honda Indy 200 Mid-Ohio (Warm Up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hungaroring (Kappakstur 2) - Formula Regional European Championshi
  p - viaplay
 DTSTART:20250706T133000
@@ -712,14 +688,6 @@ DTSTAMP:20250706T133000Z
 UID:2025-07-06T13:30:00/Hungaroring (Kappakstur 2)
 DESCRIPTION:Hungaroring (Kappakstur 2) - Formula Regional European Champio
  nship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honda Indy 200 Mid-Ohio (Warm Up) - IndyCar - viaplay
-DTSTART:20250706T133000
-DTEND:20250706T143000
-DTSTAMP:20250706T133000Z
-UID:2025-07-06T13:30:00/Honda Indy 200 Mid-Ohio (Warm Up)
-DESCRIPTION:Honda Indy 200 Mid-Ohio (Warm Up) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1 Kids (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - via
@@ -731,13 +699,13 @@ UID:2025-07-06T13:55:00/F1 Kids (Kappakstur | Silverstone Kappaksturinn)
 DESCRIPTION:F1 Kids (Kappakstur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - via
+SUMMARY:Pitlane (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - via
  play
 DTSTART:20250706T140000
 DTEND:20250706T150000
 DTSTAMP:20250706T140000Z
-UID:2025-07-06T14:00:00/Onboard (Kappakstur | Silverstone Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Silverstone Kappaksturinn) - Formula 1
+UID:2025-07-06T14:00:00/Pitlane (Kappakstur | Silverstone Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - viap
@@ -749,6 +717,15 @@ UID:2025-07-06T14:00:00/Timing (Kappakstur | Silverstone Kappaksturinn)
 DESCRIPTION:Timing (Kappakstur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20250706T140000
+DTEND:20250706T150000
+DTSTAMP:20250706T140000Z
+UID:2025-07-06T14:00:00/Onboard (Kappakstur | Silverstone Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Silverstone Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Silverstone Kappaksturinn) - Formu
  la 1 - viaplay
 DTSTART:20250706T140000
@@ -758,15 +735,6 @@ UID:2025-07-06T14:00:00/Track Positioning (Kappakstur | Silverstone Kappak
  sturinn)
 DESCRIPTION:Track Positioning (Kappakstur | Silverstone Kappaksturinn) - F
  ormula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - via
- play
-DTSTART:20250706T140000
-DTEND:20250706T150000
-DTSTAMP:20250706T140000Z
-UID:2025-07-06T14:00:00/Pitlane (Kappakstur | Silverstone Kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand Prix at Mid-Ohio (Kappakstur) - Indy NXT - viaplay
@@ -791,5 +759,21 @@ DTEND:20250706T183000
 DTSTAMP:20250706T173000Z
 UID:2025-07-06T17:30:00/Grant Park 165 (Cup Series)
 DESCRIPTION:Grant Park 165 (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Championship League Snooker - Snóker - viaplay
+DTSTART:20250707T110000
+DTEND:20250707T120000
+DTSTAMP:20250707T110000Z
+UID:2025-07-07T11:00:00/Championship League Snooker
+DESCRIPTION:Championship League Snooker - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Championship League Snooker - Snóker - viaplay
+DTSTART:20250707T160000
+DTEND:20250707T170000
+DTSTAMP:20250707T160000Z
+UID:2025-07-07T16:00:00/Championship League Snooker
+DESCRIPTION:Championship League Snooker - Snóker
 END:VEVENT
 END:VCALENDAR
