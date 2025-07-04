@@ -10,15 +10,6 @@ UID:2025-07-04T11:25:00/Silverstone Kappaksturinn (Æfing 1)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Silverstone Kappaksturinn) - Formula 1 - viapla
- y
-DTSTART:20250704T113000
-DTEND:20250704T123000
-DTSTAMP:20250704T113000Z
-UID:2025-07-04T11:30:00/Timing (Æfing 1 | Silverstone Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Silverstone Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Silverstone Kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20250704T113000
@@ -35,6 +26,15 @@ DTEND:20250704T123000
 DTSTAMP:20250704T113000Z
 UID:2025-07-04T11:30:00/Onboard (Æfing 1 | Silverstone Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Silverstone Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Silverstone Kappaksturinn) - Formula 1 - viapla
+ y
+DTSTART:20250704T113000
+DTEND:20250704T123000
+DTSTAMP:20250704T113000Z
+UID:2025-07-04T11:30:00/Timing (Æfing 1 | Silverstone Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Silverstone Kappaksturinn) - Formula
@@ -56,6 +56,17 @@ UID:2025-07-04T14:55:00/Silverstone Kappaksturinn (Æfing 2)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 2 | Silverstone Kappaksturinn) - Formula
+  1 - viaplay
+DTSTART:20250704T150000
+DTEND:20250704T160000
+DTSTAMP:20250704T150000Z
+UID:2025-07-04T15:00:00/Track Positioning (Æfing 2 | Silverstone Kappakst
+ urinn)
+DESCRIPTION:Track Positioning (Æfing 2 | Silverstone Kappaksturinn) - For
+ mula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Silverstone Kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20250704T150000
@@ -72,17 +83,6 @@ DTEND:20250704T160000
 DTSTAMP:20250704T150000Z
 UID:2025-07-04T15:00:00/Timing (Æfing 2 | Silverstone Kappaksturinn)
 DESCRIPTION:Timing (Æfing 2 | Silverstone Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 2 | Silverstone Kappaksturinn) - Formula
-  1 - viaplay
-DTSTART:20250704T150000
-DTEND:20250704T160000
-DTSTAMP:20250704T150000Z
-UID:2025-07-04T15:00:00/Track Positioning (Æfing 2 | Silverstone Kappakst
- urinn)
-DESCRIPTION:Track Positioning (Æfing 2 | Silverstone Kappaksturinn) - For
- mula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 2 | Silverstone Kappaksturinn) - Formula 1 - viapl
@@ -102,15 +102,6 @@ UID:2025-07-05T10:25:00/Silverstone Kappaksturinn (Æfing 3)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Silverstone Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20250705T103000
-DTEND:20250705T113000
-DTSTAMP:20250705T103000Z
-UID:2025-07-05T10:30:00/Onboard (Æfing 3 | Silverstone Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Silverstone Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Æfing 3 | Silverstone Kappaksturinn) - Formula 1 - viapla
  y
 DTSTART:20250705T103000
@@ -118,6 +109,24 @@ DTEND:20250705T113000
 DTSTAMP:20250705T103000Z
 UID:2025-07-05T10:30:00/Timing (Æfing 3 | Silverstone Kappaksturinn)
 DESCRIPTION:Timing (Æfing 3 | Silverstone Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Æfing 3 | Silverstone Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20250705T103000
+DTEND:20250705T113000
+DTSTAMP:20250705T103000Z
+UID:2025-07-05T10:30:00/Pitlane (Æfing 3 | Silverstone Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Silverstone Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Silverstone Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20250705T103000
+DTEND:20250705T113000
+DTSTAMP:20250705T103000Z
+UID:2025-07-05T10:30:00/Onboard (Æfing 3 | Silverstone Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Silverstone Kappaksturinn) - Formula
@@ -131,21 +140,23 @@ DESCRIPTION:Track Positioning (Æfing 3 | Silverstone Kappaksturinn) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Silverstone Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20250705T103000
-DTEND:20250705T113000
-DTSTAMP:20250705T103000Z
-UID:2025-07-05T10:30:00/Pitlane (Æfing 3 | Silverstone Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Silverstone Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20250705T134500
 DTEND:20250705T144500
 DTSTAMP:20250705T134500Z
 UID:2025-07-05T13:45:00/Silverstone Kappaksturinn (Tímatökur)
 DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Tímatökur | Silverstone Kappaksturinn) - Form
+ ula 1 - viaplay
+DTSTART:20250705T140000
+DTEND:20250705T150000
+DTSTAMP:20250705T140000Z
+UID:2025-07-05T14:00:00/Track Positioning (Tímatökur | Silverstone Kappa
+ ksturinn)
+DESCRIPTION:Track Positioning (Tímatökur | Silverstone Kappaksturinn) - 
+ Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Silverstone Kappaksturinn) - Formula 1 - vi
@@ -175,17 +186,6 @@ UID:2025-07-05T14:00:00/Onboard (Tímatökur | Silverstone Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Tímatökur | Silverstone Kappaksturinn) - Form
- ula 1 - viaplay
-DTSTART:20250705T140000
-DTEND:20250705T150000
-DTSTAMP:20250705T140000Z
-UID:2025-07-05T14:00:00/Track Positioning (Tímatökur | Silverstone Kappa
- ksturinn)
-DESCRIPTION:Track Positioning (Tímatökur | Silverstone Kappaksturinn) - 
- Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Kappakstur) - Formula 1 - viaplay
 DTSTART:20250706T133000
 DTEND:20250706T143000
@@ -203,17 +203,6 @@ UID:2025-07-06T13:55:00/F1 Kids (Kappakstur | Silverstone Kappaksturinn)
 DESCRIPTION:F1 Kids (Kappakstur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Silverstone Kappaksturinn) - Formu
- la 1 - viaplay
-DTSTART:20250706T140000
-DTEND:20250706T150000
-DTSTAMP:20250706T140000Z
-UID:2025-07-06T14:00:00/Track Positioning (Kappakstur | Silverstone Kappak
- sturinn)
-DESCRIPTION:Track Positioning (Kappakstur | Silverstone Kappaksturinn) - F
- ormula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - via
  play
 DTSTART:20250706T140000
@@ -221,6 +210,15 @@ DTEND:20250706T150000
 DTSTAMP:20250706T140000Z
 UID:2025-07-06T14:00:00/Pitlane (Kappakstur | Silverstone Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Silverstone Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20250706T140000
+DTEND:20250706T150000
+DTSTAMP:20250706T140000Z
+UID:2025-07-06T14:00:00/Onboard (Kappakstur | Silverstone Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - viap
@@ -232,12 +230,14 @@ UID:2025-07-06T14:00:00/Timing (Kappakstur | Silverstone Kappaksturinn)
 DESCRIPTION:Timing (Kappakstur | Silverstone Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Silverstone Kappaksturinn) - Formula 1 - via
- play
+SUMMARY:Track Positioning (Kappakstur | Silverstone Kappaksturinn) - Formu
+ la 1 - viaplay
 DTSTART:20250706T140000
 DTEND:20250706T150000
 DTSTAMP:20250706T140000Z
-UID:2025-07-06T14:00:00/Onboard (Kappakstur | Silverstone Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Silverstone Kappaksturinn) - Formula 1
+UID:2025-07-06T14:00:00/Track Positioning (Kappakstur | Silverstone Kappak
+ sturinn)
+DESCRIPTION:Track Positioning (Kappakstur | Silverstone Kappaksturinn) - F
+ ormula 1
 END:VEVENT
 END:VCALENDAR
