@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Indy NXT - ical
 BEGIN:VEVENT
-SUMMARY:Grand Prix at Mid-Ohio (Æfing 2) - Indy NXT - viaplay
-DTSTART:20250705T123000
-DTEND:20250705T133000
-DTSTAMP:20250705T123000Z
-UID:2025-07-05T12:30:00/Grand Prix at Mid-Ohio (Æfing 2)
-DESCRIPTION:Grand Prix at Mid-Ohio (Æfing 2) - Indy NXT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grand Prix at Mid-Ohio (Tímatökur) - Indy NXT - viaplay
-DTSTART:20250705T173000
-DTEND:20250705T183000
-DTSTAMP:20250705T173000Z
-UID:2025-07-05T17:30:00/Grand Prix at Mid-Ohio (Tímatökur)
-DESCRIPTION:Grand Prix at Mid-Ohio (Tímatökur) - Indy NXT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grand Prix at Mid-Ohio (Kappakstur) - Indy NXT - viaplay
 DTSTART:20250706T143000
 DTEND:20250706T153000
@@ -44,5 +28,13 @@ UID:2025-07-11T22:30:00/Indy NXT by Firestone at Iowa Speedway (Tímatöku
  r)
 DESCRIPTION:Indy NXT by Firestone at Iowa Speedway (Tímatökur) - Indy NX
  T
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indy NXT by Firestone at Iowa Speedway (Race) - Indy NXT - viaplay
+DTSTART:20250712T173000
+DTEND:20250712T183000
+DTSTAMP:20250712T173000Z
+UID:2025-07-12T17:30:00/Indy NXT by Firestone at Iowa Speedway (Race)
+DESCRIPTION:Indy NXT by Firestone at Iowa Speedway (Race) - Indy NXT
 END:VEVENT
 END:VCALENDAR
