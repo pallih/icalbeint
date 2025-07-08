@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
 SUMMARY:Championship League Snooker - Snóker - viaplay
-DTSTART:20250707T110000
-DTEND:20250707T120000
-DTSTAMP:20250707T110000Z
-UID:2025-07-07T11:00:00/Championship League Snooker
-DESCRIPTION:Championship League Snooker - Snóker
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Championship League Snooker - Snóker - viaplay
-DTSTART:20250707T160000
-DTEND:20250707T170000
-DTSTAMP:20250707T160000Z
-UID:2025-07-07T16:00:00/Championship League Snooker
-DESCRIPTION:Championship League Snooker - Snóker
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Championship League Snooker - Snóker - viaplay
 DTSTART:20250708T110000
 DTEND:20250708T120000
 DTSTAMP:20250708T110000Z
@@ -99,12 +83,12 @@ UID:2025-07-11T08:35:00/Þýskalandskappaksturinn (Frjáls æfing 1)
 DESCRIPTION:Þýskalandskappaksturinn (Frjáls æfing 1) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Melbourne Victory FC - Wrexham - Æfingaleikur - viaplay
+SUMMARY:Wrexham - Melbourne Victory FC - Æfingaleikur - viaplay
 DTSTART:20250711T092500
 DTEND:20250711T102500
 DTSTAMP:20250711T092500Z
-UID:2025-07-11T09:25:00/Melbourne Victory FC - Wrexham
-DESCRIPTION:Melbourne Victory FC - Wrexham - Æfingaleikur
+UID:2025-07-11T09:25:00/Wrexham - Melbourne Victory FC
+DESCRIPTION:Wrexham - Melbourne Victory FC - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Championship League Snooker - Snóker - viaplay
@@ -121,6 +105,22 @@ DTEND:20250711T120000
 DTSTAMP:20250711T110000Z
 UID:2025-07-11T11:00:00/Baltic Sea Darts Open
 DESCRIPTION:Baltic Sea Darts Open - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þýskalandskappaksturinn (Æfing) - Moto3 - viaplay
+DTSTART:20250711T111000
+DTEND:20250711T121000
+DTSTAMP:20250711T111000Z
+UID:2025-07-11T11:10:00/Þýskalandskappaksturinn (Æfing)
+DESCRIPTION:Þýskalandskappaksturinn (Æfing) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þýskalandskappaksturinn (Æfing) - Moto2 - viaplay
+DTSTART:20250711T120000
+DTEND:20250711T130000
+DTSTAMP:20250711T120000Z
+UID:2025-07-11T12:00:00/Þýskalandskappaksturinn (Æfing)
+DESCRIPTION:Þýskalandskappaksturinn (Æfing) - Moto2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þýskalandskappaksturinn (Æfing) - MotoGP - viaplay
@@ -350,10 +350,10 @@ DESCRIPTION:Indycar Race Weekend (Kappakstur 1) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lewis vs Teixeira - UFC - viaplay
-DTSTART:20250713T020000
-DTEND:20250713T030000
-DTSTAMP:20250713T020000Z
-UID:2025-07-13T02:00:00/Lewis vs Teixeira
+DTSTART:20250713T010000
+DTEND:20250713T020000
+DTSTAMP:20250713T010000Z
+UID:2025-07-13T01:00:00/Lewis vs Teixeira
 DESCRIPTION:Lewis vs Teixeira - UFC
 END:VEVENT
 BEGIN:VEVENT
@@ -391,14 +391,6 @@ DESCRIPTION:Nürburgring (Kappakstur 3) - FIA European Truck Racing Champi
  onship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Baltic Sea Darts Open - PDC Darts - viaplay
-DTSTART:20250713T100000
-DTEND:20250713T110000
-DTSTAMP:20250713T100000Z
-UID:2025-07-13T10:00:00/Baltic Sea Darts Open
-DESCRIPTION:Baltic Sea Darts Open - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þýskalandskappaksturinn (Kappakstur) - Moto2 - viaplay
 DTSTART:20250713T100000
 DTEND:20250713T110000
@@ -407,11 +399,19 @@ UID:2025-07-13T10:00:00/Þýskalandskappaksturinn (Kappakstur)
 DESCRIPTION:Þýskalandskappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Baltic Sea Darts Open - PDC Darts - viaplay
+DTSTART:20250713T100000
+DTEND:20250713T110000
+DTSTAMP:20250713T100000Z
+UID:2025-07-13T10:00:00/Baltic Sea Darts Open
+DESCRIPTION:Baltic Sea Darts Open - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Þýskalandskappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20250713T111500
-DTEND:20250713T121500
-DTSTAMP:20250713T111500Z
-UID:2025-07-13T11:15:00/Þýskalandskappaksturinn (Kappakstur)
+DTSTART:20250713T115000
+DTEND:20250713T125000
+DTSTAMP:20250713T115000Z
+UID:2025-07-13T11:50:00/Þýskalandskappaksturinn (Kappakstur)
 DESCRIPTION:Þýskalandskappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
@@ -463,5 +463,29 @@ DTEND:20250713T200000
 DTSTAMP:20250713T190000Z
 UID:2025-07-13T19:00:00/Toyota / Save Mart 350 (Cup Series)
 DESCRIPTION:Toyota / Save Mart 350 (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Championship League Snooker - Snóker - viaplay
+DTSTART:20250714T110000
+DTEND:20250714T120000
+DTSTAMP:20250714T110000Z
+UID:2025-07-14T11:00:00/Championship League Snooker
+DESCRIPTION:Championship League Snooker - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Championship League Snooker - Snóker - viaplay
+DTSTART:20250714T160000
+DTEND:20250714T170000
+DTSTAMP:20250714T160000Z
+UID:2025-07-14T16:00:00/Championship League Snooker
+DESCRIPTION:Championship League Snooker - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malaga P1 - Premier Padel - viaplay
+DTSTART:20250714T170000
+DTEND:20250714T180000
+DTSTAMP:20250714T170000Z
+UID:2025-07-14T17:00:00/Malaga P1
+DESCRIPTION:Malaga P1 - Premier Padel
 END:VEVENT
 END:VCALENDAR
