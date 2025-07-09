@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Danmörk - EM kvenna í fótbolta - ruv
-DTSTART:20250708T160000
-DTEND:20250708T170000
-DTSTAMP:20250708T160000Z
-UID:2025-07-08T16:00:00/Þýskaland - Danmörk
-DESCRIPTION:Þýskaland - Danmörk - EM kvenna í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Egnatia - Breiðablik - Evrópuleikir íslenskra félagsliða - sy
- nsport
-DTSTART:20250708T185000
-DTEND:20250708T195000
-DTSTAMP:20250708T185000Z
-UID:2025-07-08T18:50:00/Egnatia - Breiðablik
-DESCRIPTION:Egnatia - Breiðablik - Evrópuleikir íslenskra félagsliða
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pólland - Svíþjóð - EM kvenna í fótbolta - ruv
-DTSTART:20250708T190000
-DTEND:20250708T200000
-DTSTAMP:20250708T190000Z
-UID:2025-07-08T19:00:00/Pólland - Svíþjóð
-DESCRIPTION:Pólland - Svíþjóð - EM kvenna í fótbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:England - Holland - EM kvenna í fótbolta - ruv
 DTSTART:20250709T160000
 DTEND:20250709T170000
@@ -53,20 +28,20 @@ DESCRIPTION:Malisheva - Víkingur R. - Evrópuleikir íslenskra félagsli
  ða
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Finnland - Sviss - EM kvenna í fótbolta - ruv2
-DTSTART:20250710T190000
-DTEND:20250710T200000
-DTSTAMP:20250710T190000Z
-UID:2025-07-10T19:00:00/Finnland - Sviss
-DESCRIPTION:Finnland - Sviss - EM kvenna í fótbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Noregur - Ísland - EM kvenna í fótbolta - ruv
 DTSTART:20250710T190000
 DTEND:20250710T200000
 DTSTAMP:20250710T190000Z
 UID:2025-07-10T19:00:00/Noregur - Ísland
 DESCRIPTION:Noregur - Ísland - EM kvenna í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finnland - Sviss - EM kvenna í fótbolta - ruv2
+DTSTART:20250710T190000
+DTEND:20250710T200000
+DTSTAMP:20250710T190000Z
+UID:2025-07-10T19:00:00/Finnland - Sviss
+DESCRIPTION:Finnland - Sviss - EM kvenna í fótbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:N1 mót karla - Sumarmótin - synsport
@@ -126,20 +101,20 @@ UID:2025-07-11T19:15:00/Þróttur - Keflavík
 DESCRIPTION:Þróttur - Keflavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Selfoss - Fylkir - Lengjudeildin - livey
-DTSTART:20250711T191500
-DTEND:20250711T201500
-DTSTAMP:20250711T191500Z
-UID:2025-07-11T19:15:00/Selfoss - Fylkir
-DESCRIPTION:Selfoss - Fylkir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - HK - Lengjudeildin - livey
 DTSTART:20250711T191500
 DTEND:20250711T201500
 DTSTAMP:20250711T191500Z
 UID:2025-07-11T19:15:00/ÍR - HK
 DESCRIPTION:ÍR - HK - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - Fylkir - Lengjudeildin - livey
+DTSTART:20250711T191500
+DTEND:20250711T201500
+DTSTAMP:20250711T191500Z
+UID:2025-07-11T19:15:00/Selfoss - Fylkir
+DESCRIPTION:Selfoss - Fylkir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vestri - Fram - Bikarkeppni karla í fótbolta - ruv
@@ -228,5 +203,30 @@ DTEND:20250714T222000
 DTSTAMP:20250714T212000Z
 UID:2025-07-14T21:20:00/Subway Tilþrifin
 DESCRIPTION:Subway Tilþrifin - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrexham - Sydney FC - Æfingaleikur - synsportviaplay
+DTSTART:20250715T092500
+DTEND:20250715T102500
+DTSTAMP:20250715T092500Z
+UID:2025-07-15T09:25:00/Wrexham - Sydney FC
+DESCRIPTION:Wrexham - Sydney FC - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrexham - Sydney FC - Æfingaleikur - viaplay
+DTSTART:20250715T092500
+DTEND:20250715T102500
+DTSTAMP:20250715T092500Z
+UID:2025-07-15T09:25:00/Wrexham - Sydney FC
+DESCRIPTION:Wrexham - Sydney FC - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Egnatia - Evrópuleikir íslenskra félagsliða - sy
+ nsport
+DTSTART:20250715T185000
+DTEND:20250715T195000
+DTSTAMP:20250715T185000Z
+UID:2025-07-15T18:50:00/Breiðablik - Egnatia
+DESCRIPTION:Breiðablik - Egnatia - Evrópuleikir íslenskra félagsliða
 END:VEVENT
 END:VCALENDAR
