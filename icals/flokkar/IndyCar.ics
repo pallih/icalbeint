@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Indycar Race Weekend (Kappakstur 2) - IndyCar - viaplay
-DTSTART:20250713T170000
-DTEND:20250713T180000
-DTSTAMP:20250713T170000Z
-UID:2025-07-13T17:00:00/Indycar Race Weekend (Kappakstur 2)
-DESCRIPTION:Indycar Race Weekend (Kappakstur 2) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ontario Honda Dealers Indy Toronto (Æfing 1) - IndyCar - viaplay
 DTSTART:20250718T190000
 DTEND:20250718T200000
@@ -33,5 +25,22 @@ DTEND:20250719T193000
 DTSTAMP:20250719T183000Z
 UID:2025-07-19T18:30:00/Ontario Honda Dealers Indy Toronto (Tímatökur)
 DESCRIPTION:Ontario Honda Dealers Indy Toronto (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ontario Honda Dealers Indy Toronto (Warm Up) - IndyCar - viaplay
+DTSTART:20250720T123000
+DTEND:20250720T133000
+DTSTAMP:20250720T123000Z
+UID:2025-07-20T12:30:00/Ontario Honda Dealers Indy Toronto (Warm Up)
+DESCRIPTION:Ontario Honda Dealers Indy Toronto (Warm Up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ontario Honda Dealers Indy Toronto (Kappakstur) - IndyCar - viapla
+ y
+DTSTART:20250720T160000
+DTEND:20250720T170000
+DTSTAMP:20250720T160000Z
+UID:2025-07-20T16:00:00/Ontario Honda Dealers Indy Toronto (Kappakstur)
+DESCRIPTION:Ontario Honda Dealers Indy Toronto (Kappakstur) - IndyCar
 END:VEVENT
 END:VCALENDAR

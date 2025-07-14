@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - MotoGP - ical
 BEGIN:VEVENT
-SUMMARY:Þýskalandskappaksturinn (Warm Up) - MotoGP - viaplay
-DTSTART:20250713T073500
-DTEND:20250713T083500
-DTSTAMP:20250713T073500Z
-UID:2025-07-13T07:35:00/Þýskalandskappaksturinn (Warm Up)
-DESCRIPTION:Þýskalandskappaksturinn (Warm Up) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þýskalandskappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20250713T115000
-DTEND:20250713T125000
-DTSTAMP:20250713T115000Z
-UID:2025-07-13T11:50:00/Þýskalandskappaksturinn (Kappakstur)
-DESCRIPTION:Þýskalandskappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tékkneska kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
 DTSTART:20250718T083500
 DTEND:20250718T093500
@@ -56,5 +40,21 @@ DTEND:20250719T133500
 DTSTAMP:20250719T123500Z
 UID:2025-07-19T12:35:00/Tékkneska kappaksturinn (Sprettkeppni)
 DESCRIPTION:Tékkneska kappaksturinn (Sprettkeppni) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tékkneska kappaksturinn (Warm Up) - MotoGP - viaplay
+DTSTART:20250720T073500
+DTEND:20250720T083500
+DTSTAMP:20250720T073500Z
+UID:2025-07-20T07:35:00/Tékkneska kappaksturinn (Warm Up)
+DESCRIPTION:Tékkneska kappaksturinn (Warm Up) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tékkneska kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20250720T111500
+DTEND:20250720T121500
+DTSTAMP:20250720T111500Z
+UID:2025-07-20T11:15:00/Tékkneska kappaksturinn (Kappakstur)
+DESCRIPTION:Tékkneska kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 END:VCALENDAR
