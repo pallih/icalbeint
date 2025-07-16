@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Wrexham - Sydney FC - Æfingaleikur - synsportviaplay
-DTSTART:20250715T092500
-DTEND:20250715T102500
-DTSTAMP:20250715T092500Z
-UID:2025-07-15T09:25:00/Wrexham - Sydney FC
-DESCRIPTION:Wrexham - Sydney FC - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wrexham - Sydney FC - Æfingaleikur - viaplay
-DTSTART:20250715T092500
-DTEND:20250715T102500
-DTSTAMP:20250715T092500Z
-UID:2025-07-15T09:25:00/Wrexham - Sydney FC
-DESCRIPTION:Wrexham - Sydney FC - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - Egnatia - Evrópuleikir íslenskra félagsliða - sy
- nsport
-DTSTART:20250715T185000
-DTEND:20250715T195000
-DTSTAMP:20250715T185000Z
-UID:2025-07-15T18:50:00/Breiðablik - Egnatia
-DESCRIPTION:Breiðablik - Egnatia - Evrópuleikir íslenskra félagsliða
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grótta - ÍBV - Lengjudeildin - livey
 DTSTART:20250716T180000
 DTEND:20250716T190000
@@ -44,6 +19,14 @@ UID:2025-07-16T19:00:00/Noregur - Ítalía - 8-liða úrslit
 DESCRIPTION:Noregur - Ítalía - 8-liða úrslit - EM kvenna í fótbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Afturelding - ÍA - Lengjudeildin - livey
+DTSTART:20250716T191500
+DTEND:20250716T201500
+DTSTAMP:20250716T191500Z
+UID:2025-07-16T19:15:00/Afturelding - ÍA
+DESCRIPTION:Afturelding - ÍA - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Haukar - HK - Lengjudeildin - livey
 DTSTART:20250716T191500
 DTEND:20250716T201500
@@ -58,14 +41,6 @@ DTEND:20250716T201500
 DTSTAMP:20250716T191500Z
 UID:2025-07-16T19:15:00/KR - Keflavík
 DESCRIPTION:KR - Keflavík - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afturelding - ÍA - Lengjudeildin - livey
-DTSTART:20250716T191500
-DTEND:20250716T201500
-DTSTAMP:20250716T191500Z
-UID:2025-07-16T19:15:00/Afturelding - ÍA
-DESCRIPTION:Afturelding - ÍA - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Svíþjóð - England - 8-liða úrslit - EM kvenna í fótbolta -
@@ -118,5 +93,13 @@ DTSTAMP:20250719T190000Z
 UID:2025-07-19T19:00:00/Frakkland - Þýskaland - 8-liða úrslit
 DESCRIPTION:Frakkland - Þýskaland - 8-liða úrslit - EM kvenna í fótb
  olta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undanúrslit - EM kvenna í fótbolta - ruv
+DTSTART:20250722T190000
+DTEND:20250722T200000
+DTSTAMP:20250722T190000Z
+UID:2025-07-22T19:00:00/Undanúrslit
+DESCRIPTION:Undanúrslit - EM kvenna í fótbolta
 END:VEVENT
 END:VCALENDAR
