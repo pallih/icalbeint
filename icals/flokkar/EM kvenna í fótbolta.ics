@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - EM kvenna í fótbolta - ical
 BEGIN:VEVENT
-SUMMARY:Noregur - Ítalía - 8-liða úrslit - EM kvenna í fótbolta - ru
- v
-DTSTART:20250716T190000
-DTEND:20250716T200000
-DTSTAMP:20250716T190000Z
-UID:2025-07-16T19:00:00/Noregur - Ítalía - 8-liða úrslit
-DESCRIPTION:Noregur - Ítalía - 8-liða úrslit - EM kvenna í fótbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Svíþjóð - England - 8-liða úrslit - EM kvenna í fótbolta -
   ruv
 DTSTART:20250717T190000
@@ -44,6 +35,14 @@ DTSTART:20250722T190000
 DTEND:20250722T200000
 DTSTAMP:20250722T190000Z
 UID:2025-07-22T19:00:00/Undanúrslit
+DESCRIPTION:Undanúrslit - EM kvenna í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undanúrslit - EM kvenna í fótbolta - ruv
+DTSTART:20250723T190000
+DTEND:20250723T200000
+DTSTAMP:20250723T190000Z
+UID:2025-07-23T19:00:00/Undanúrslit
 DESCRIPTION:Undanúrslit - EM kvenna í fótbolta
 END:VEVENT
 END:VCALENDAR
