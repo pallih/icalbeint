@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Ontario Honda Dealers Indy Toronto (Warm Up) - IndyCar - viaplay
-DTSTART:20250720T123000
-DTEND:20250720T133000
-DTSTAMP:20250720T123000Z
-UID:2025-07-20T12:30:00/Ontario Honda Dealers Indy Toronto (Warm Up)
-DESCRIPTION:Ontario Honda Dealers Indy Toronto (Warm Up) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ontario Honda Dealers Indy Toronto (Kappakstur) - IndyCar - viapla
- y
-DTSTART:20250720T160000
-DTEND:20250720T170000
-DTSTAMP:20250720T160000Z
-UID:2025-07-20T16:00:00/Ontario Honda Dealers Indy Toronto (Kappakstur)
-DESCRIPTION:Ontario Honda Dealers Indy Toronto (Kappakstur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Indycar Grand Prix of Monterey (Æfing 1) - IndyCar - viaplay
 DTSTART:20250725T210000
 DTEND:20250725T220000
@@ -41,5 +24,21 @@ DTEND:20250726T193000
 DTSTAMP:20250726T183000Z
 UID:2025-07-26T18:30:00/Indycar Grand Prix of Monterey (Tímatökur)
 DESCRIPTION:Indycar Grand Prix of Monterey (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indycar Grand Prix of Monterey (Warm Up) - IndyCar - viaplay
+DTSTART:20250727T160000
+DTEND:20250727T170000
+DTSTAMP:20250727T160000Z
+UID:2025-07-27T16:00:00/Indycar Grand Prix of Monterey (Warm Up)
+DESCRIPTION:Indycar Grand Prix of Monterey (Warm Up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indycar Grand Prix of Monterey (Kappakstur) - IndyCar - viaplay
+DTSTART:20250727T190000
+DTEND:20250727T200000
+DTSTAMP:20250727T190000Z
+UID:2025-07-27T19:00:00/Indycar Grand Prix of Monterey (Kappakstur)
+DESCRIPTION:Indycar Grand Prix of Monterey (Kappakstur) - IndyCar
 END:VEVENT
 END:VCALENDAR
