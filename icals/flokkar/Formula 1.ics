@@ -10,23 +10,12 @@ UID:2025-07-25T10:25:00/Belgíski Kappaksturinn (Æfing 1)
 DESCRIPTION:Belgíski Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 1 | Belgíski Kappaksturinn) - Formula 1
-  - viaplay
+SUMMARY:Pitlane (Æfing 1 | Belgíski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250725T103000
 DTEND:20250725T113000
 DTSTAMP:20250725T103000Z
-UID:2025-07-25T10:30:00/Track Positioning (Æfing 1 | Belgíski Kappakstur
- inn)
-DESCRIPTION:Track Positioning (Æfing 1 | Belgíski Kappaksturinn) - Formu
- la 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Belgíski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250725T103000
-DTEND:20250725T113000
-DTSTAMP:20250725T103000Z
-UID:2025-07-25T10:30:00/Onboard (Æfing 1 | Belgíski Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Belgíski Kappaksturinn) - Formula 1
+UID:2025-07-25T10:30:00/Pitlane (Æfing 1 | Belgíski Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Belgíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Belgíski Kappaksturinn) - Formula 1 - viaplay
@@ -37,12 +26,23 @@ UID:2025-07-25T10:30:00/Timing (Æfing 1 | Belgíski Kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Belgíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Belgíski Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Onboard (Æfing 1 | Belgíski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250725T103000
 DTEND:20250725T113000
 DTSTAMP:20250725T103000Z
-UID:2025-07-25T10:30:00/Pitlane (Æfing 1 | Belgíski Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Belgíski Kappaksturinn) - Formula 1
+UID:2025-07-25T10:30:00/Onboard (Æfing 1 | Belgíski Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Belgíski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 1 | Belgíski Kappaksturinn) - Formula 1
+  - viaplay
+DTSTART:20250725T103000
+DTEND:20250725T113000
+DTSTAMP:20250725T103000Z
+UID:2025-07-25T10:30:00/Track Positioning (Æfing 1 | Belgíski Kappakstur
+ inn)
+DESCRIPTION:Track Positioning (Æfing 1 | Belgíski Kappaksturinn) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belgíski Kappaksturinn (Sprint Shootout) - Formula 1 - viaplay
@@ -64,15 +64,15 @@ DESCRIPTION:Pitlane (Sprint Shootout  | Belgíski Kappaksturinn) - Formula
   1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Sprint Shootout  | Belgíski Kappaksturinn) - F
- ormula 1 - viaplay
+SUMMARY:Timing (Sprint Shootout  | Belgíski Kappaksturinn) - Formula 1 - 
+ viaplay
 DTSTART:20250725T143000
 DTEND:20250725T153000
 DTSTAMP:20250725T143000Z
-UID:2025-07-25T14:30:00/Track Positioning (Sprint Shootout  | Belgíski Ka
- ppaksturinn)
-DESCRIPTION:Track Positioning (Sprint Shootout  | Belgíski Kappaksturinn)
-  - Formula 1
+UID:2025-07-25T14:30:00/Timing (Sprint Shootout  | Belgíski Kappaksturinn
+ )
+DESCRIPTION:Timing (Sprint Shootout  | Belgíski Kappaksturinn) - Formula 
+ 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Sprint Shootout  | Belgíski Kappaksturinn) - Formula 1 -
@@ -86,15 +86,15 @@ DESCRIPTION:Onboard (Sprint Shootout  | Belgíski Kappaksturinn) - Formula
   1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Sprint Shootout  | Belgíski Kappaksturinn) - Formula 1 - 
- viaplay
+SUMMARY:Track Positioning (Sprint Shootout  | Belgíski Kappaksturinn) - F
+ ormula 1 - viaplay
 DTSTART:20250725T143000
 DTEND:20250725T153000
 DTSTAMP:20250725T143000Z
-UID:2025-07-25T14:30:00/Timing (Sprint Shootout  | Belgíski Kappaksturinn
- )
-DESCRIPTION:Timing (Sprint Shootout  | Belgíski Kappaksturinn) - Formula 
- 1
+UID:2025-07-25T14:30:00/Track Positioning (Sprint Shootout  | Belgíski Ka
+ ppaksturinn)
+DESCRIPTION:Track Positioning (Sprint Shootout  | Belgíski Kappaksturinn)
+  - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belgíski Kappaksturinn (Sprettkeppni) - Formula 1 - viaplay
@@ -103,15 +103,6 @@ DTEND:20250726T104500
 DTSTAMP:20250726T094500Z
 UID:2025-07-26T09:45:00/Belgíski Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Belgíski Kappaksturinn (Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1 - via
- play
-DTSTART:20250726T100000
-DTEND:20250726T110000
-DTSTAMP:20250726T100000Z
-UID:2025-07-26T10:00:00/Onboard (Sprettkeppni | Belgíski Kappaksturinn)
-DESCRIPTION:Onboard (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1 - via
@@ -123,15 +114,6 @@ UID:2025-07-26T10:00:00/Pitlane (Sprettkeppni | Belgíski Kappaksturinn)
 DESCRIPTION:Pitlane (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20250726T100000
-DTEND:20250726T110000
-DTSTAMP:20250726T100000Z
-UID:2025-07-26T10:00:00/Timing (Sprettkeppni | Belgíski Kappaksturinn)
-DESCRIPTION:Timing (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Sprettkeppni | Belgíski Kappaksturinn) - Formu
  la 1 - viaplay
 DTSTART:20250726T100000
@@ -141,6 +123,24 @@ UID:2025-07-26T10:00:00/Track Positioning (Sprettkeppni | Belgíski Kappak
  sturinn)
 DESCRIPTION:Track Positioning (Sprettkeppni | Belgíski Kappaksturinn) - F
  ormula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20250726T100000
+DTEND:20250726T110000
+DTSTAMP:20250726T100000Z
+UID:2025-07-26T10:00:00/Onboard (Sprettkeppni | Belgíski Kappaksturinn)
+DESCRIPTION:Onboard (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250726T100000
+DTEND:20250726T110000
+DTSTAMP:20250726T100000Z
+UID:2025-07-26T10:00:00/Timing (Sprettkeppni | Belgíski Kappaksturinn)
+DESCRIPTION:Timing (Sprettkeppni | Belgíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belgíski Kappaksturinn (Tímatökur) - Formula 1 - viaplay
@@ -197,13 +197,13 @@ UID:2025-07-27T12:30:00/Belgíski Kappaksturinn (Kappakstur)
 DESCRIPTION:Belgíski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Belgíski Kappaksturinn) - Formula 1 - viapl
+SUMMARY:Pitlane (Kappakstur | Belgíski Kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20250727T130000
 DTEND:20250727T140000
 DTSTAMP:20250727T130000Z
-UID:2025-07-27T13:00:00/Onboard (Kappakstur | Belgíski Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Belgíski Kappaksturinn) - Formula 1
+UID:2025-07-27T13:00:00/Pitlane (Kappakstur | Belgíski Kappaksturinn)
+DESCRIPTION:Pitlane (Kappakstur | Belgíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Belgíski Kappaksturinn) - Formula 1 - viapla
@@ -215,6 +215,15 @@ UID:2025-07-27T13:00:00/Timing (Kappakstur | Belgíski Kappaksturinn)
 DESCRIPTION:Timing (Kappakstur | Belgíski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Kappakstur | Belgíski Kappaksturinn) - Formula 1 - viapl
+ ay
+DTSTART:20250727T130000
+DTEND:20250727T140000
+DTSTAMP:20250727T130000Z
+UID:2025-07-27T13:00:00/Onboard (Kappakstur | Belgíski Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Belgíski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Belgíski Kappaksturinn) - Formula
   1 - viaplay
 DTSTART:20250727T130000
@@ -224,14 +233,5 @@ UID:2025-07-27T13:00:00/Track Positioning (Kappakstur | Belgíski Kappakst
  urinn)
 DESCRIPTION:Track Positioning (Kappakstur | Belgíski Kappaksturinn) - For
  mula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Kappakstur | Belgíski Kappaksturinn) - Formula 1 - viapl
- ay
-DTSTART:20250727T130000
-DTEND:20250727T140000
-DTSTAMP:20250727T130000Z
-UID:2025-07-27T13:00:00/Pitlane (Kappakstur | Belgíski Kappaksturinn)
-DESCRIPTION:Pitlane (Kappakstur | Belgíski Kappaksturinn) - Formula 1
 END:VEVENT
 END:VCALENDAR
