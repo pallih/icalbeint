@@ -2,70 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Víkingur R. - Stjarnan - Besta deild kvenna - synsportisland2
-DTSTART:20250725T175000
-DTEND:20250725T185000
-DTSTAMP:20250725T175000Z
-UID:2025-07-25T17:50:00/Víkingur R. - Stjarnan
-DESCRIPTION:Víkingur R. - Stjarnan - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FH - Fram - Besta deild kvenna - synsportisland
-DTSTART:20250725T175000
-DTEND:20250725T185000
-DTSTAMP:20250725T175000Z
-UID:2025-07-25T17:50:00/FH - Fram
-DESCRIPTION:FH - Fram - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Keflavík - Þór - Lengjudeildin - livey
-DTSTART:20250725T180000
-DTEND:20250725T190000
-DTSTAMP:20250725T180000Z
-UID:2025-07-25T18:00:00/Keflavík - Þór
-DESCRIPTION:Keflavík - Þór - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Njarðvík - Lengjudeildin - livey
-DTSTART:20250725T191500
-DTEND:20250725T201500
-DTSTAMP:20250725T191500Z
-UID:2025-07-25T19:15:00/ÍR - Njarðvík
-DESCRIPTION:ÍR - Njarðvík - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grindavík - Þróttur - Lengjudeildin - livey
-DTSTART:20250725T191500
-DTEND:20250725T201500
-DTSTAMP:20250725T191500Z
-UID:2025-07-25T19:15:00/Grindavík - Þróttur
-DESCRIPTION:Grindavík - Þróttur - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HK - Leiknir - Lengjudeildin - livey
-DTSTART:20250725T191500
-DTEND:20250725T201500
-DTSTAMP:20250725T191500Z
-UID:2025-07-25T19:15:00/HK - Leiknir
-DESCRIPTION:HK - Leiknir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fylkir - Fjölnir - Lengjudeildin - livey
-DTSTART:20250725T191500
-DTEND:20250725T201500
-DTSTAMP:20250725T191500Z
-UID:2025-07-25T19:15:00/Fylkir - Fjölnir
-DESCRIPTION:Fylkir - Fjölnir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
-DTSTART:20250725T200000
-DTEND:20250725T210000
-DTSTAMP:20250725T200000Z
-UID:2025-07-25T20:00:00/Bestu mörkin
-DESCRIPTION:Bestu mörkin - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liverpool - Milan - Æfingaleikur - viaplay
 DTSTART:20250726T112500
 DTEND:20250726T122500
@@ -138,6 +74,14 @@ UID:2025-07-27T16:00:00/England - Spánn - úrslitaleikur
 DESCRIPTION:England - Spánn - úrslitaleikur - EM kvenna í fótbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fram - Víkingur R. - Besta deild karla - synsportisland3
+DTSTART:20250727T190500
+DTEND:20250727T200500
+DTSTAMP:20250727T190500Z
+UID:2025-07-27T19:05:00/Fram - Víkingur R.
+DESCRIPTION:Fram - Víkingur R. - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fram - Víkingur R. - Besta deild karla - synsportisland2
 DTSTART:20250727T190500
 DTEND:20250727T200500
@@ -152,14 +96,6 @@ DTEND:20250727T200500
 DTSTAMP:20250727T190500Z
 UID:2025-07-27T19:05:00/Valur - FH
 DESCRIPTION:Valur - FH - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fram - Víkingur R. - Besta deild karla - synsportisland3
-DTSTART:20250727T190500
-DTEND:20250727T200500
-DTSTAMP:20250727T190500Z
-UID:2025-07-27T19:05:00/Fram - Víkingur R.
-DESCRIPTION:Fram - Víkingur R. - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Subway Tilþrifin - Besta deild karla - synsportisland
@@ -194,7 +130,7 @@ UID:2025-07-29T19:30:00/Valur - FH - undanúrslit
 DESCRIPTION:Valur - FH - undanúrslit - Bikarkeppni kvenna í fótbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Team K League - Newcastle - Æfingaleikur - viaplay
+SUMMARY:Team K League - Newcastle - Æfingaleikur - synsportviaplay
 DTSTART:20250730T105500
 DTEND:20250730T115500
 DTSTAMP:20250730T105500Z
@@ -202,7 +138,7 @@ UID:2025-07-30T10:55:00/Team K League - Newcastle
 DESCRIPTION:Team K League - Newcastle - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Team K League - Newcastle - Æfingaleikur - synsportviaplay
+SUMMARY:Team K League - Newcastle - Æfingaleikur - viaplay
 DTSTART:20250730T105500
 DTEND:20250730T115500
 DTSTAMP:20250730T105500Z
@@ -236,7 +172,7 @@ UID:2025-07-31T01:20:00/Manchester United - Bournemouth
 DESCRIPTION:Manchester United - Bournemouth - PL Summer Series
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Tottenham - Æfingaleikur - synsportviaplay
+SUMMARY:Arsenal - Tottenham - Æfingaleikur - viaplay
 DTSTART:20250731T112500
 DTEND:20250731T122500
 DTSTAMP:20250731T112500Z
@@ -244,7 +180,7 @@ UID:2025-07-31T11:25:00/Arsenal - Tottenham
 DESCRIPTION:Arsenal - Tottenham - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Tottenham - Æfingaleikur - viaplay
+SUMMARY:Arsenal - Tottenham - Æfingaleikur - synsportviaplay
 DTSTART:20250731T112500
 DTEND:20250731T122500
 DTSTAMP:20250731T112500Z
@@ -260,5 +196,29 @@ DTSTAMP:20250731T180000Z
 UID:2025-07-31T18:00:00/Breiðablik - ÍBV - undanúrslit
 DESCRIPTION:Breiðablik - ÍBV - undanúrslit - Bikarkeppni kvenna í fót
  bolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schalke - Hertha Berlin - 2. Bundesliga - viaplay
+DTSTART:20250801T182500
+DTEND:20250801T192500
+DTSTAMP:20250801T182500Z
+UID:2025-08-01T18:25:00/Schalke - Hertha Berlin
+DESCRIPTION:Schalke - Hertha Berlin - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luton - AFC Wimbledon - League One - viaplay
+DTSTART:20250801T185500
+DTEND:20250801T195500
+DTSTAMP:20250801T185500Z
+UID:2025-08-01T18:55:00/Luton - AFC Wimbledon
+DESCRIPTION:Luton - AFC Wimbledon - League One
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luton Town - Wimbledon - EFL League One - synsportviaplay
+DTSTART:20250801T185500
+DTEND:20250801T195500
+DTSTAMP:20250801T185500Z
+UID:2025-08-01T18:55:00/Luton Town - Wimbledon
+DESCRIPTION:Luton Town - Wimbledon - EFL League One
 END:VEVENT
 END:VCALENDAR
