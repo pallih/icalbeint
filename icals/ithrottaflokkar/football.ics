@@ -2,79 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Þór - Grindavík - Lengjudeildin - livey
-DTSTART:20250729T180000
-DTEND:20250729T190000
-DTSTAMP:20250729T180000Z
-UID:2025-07-29T18:00:00/Þór - Grindavík
-DESCRIPTION:Þór - Grindavík - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - ÍBV - Lengjudeildin - livey
-DTSTART:20250729T180000
-DTEND:20250729T190000
-DTSTAMP:20250729T180000Z
-UID:2025-07-29T18:00:00/KR - ÍBV
-DESCRIPTION:KR - ÍBV - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þróttur - Fylkir - Lengjudeildin - livey
-DTSTART:20250729T191500
-DTEND:20250729T201500
-DTSTAMP:20250729T191500Z
-UID:2025-07-29T19:15:00/Þróttur - Fylkir
-DESCRIPTION:Þróttur - Fylkir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leiknir - Keflavík - Lengjudeildin - livey
-DTSTART:20250729T191500
-DTEND:20250729T201500
-DTSTAMP:20250729T191500Z
-UID:2025-07-29T19:15:00/Leiknir - Keflavík
-DESCRIPTION:Leiknir - Keflavík - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afturelding - HK - Lengjudeildin - livey
-DTSTART:20250729T191500
-DTEND:20250729T201500
-DTSTAMP:20250729T191500Z
-UID:2025-07-29T19:15:00/Afturelding - HK
-DESCRIPTION:Afturelding - HK - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - Fylkir - Lengjudeildin - livey
-DTSTART:20250729T191500
-DTEND:20250729T201500
-DTSTAMP:20250729T191500Z
-UID:2025-07-29T19:15:00/Haukar - Fylkir
-DESCRIPTION:Haukar - Fylkir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Njarðvík - HK - Lengjudeildin - livey
-DTSTART:20250729T191500
-DTEND:20250729T201500
-DTSTAMP:20250729T191500Z
-UID:2025-07-29T19:15:00/Njarðvík - HK
-DESCRIPTION:Njarðvík - HK - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - FH - undanúrslit - Bikarkeppni kvenna í fótbolta - ruv2
-DTSTART:20250729T193000
-DTEND:20250729T203000
-DTSTAMP:20250729T193000Z
-UID:2025-07-29T19:30:00/Valur - FH - undanúrslit
-DESCRIPTION:Valur - FH - undanúrslit - Bikarkeppni kvenna í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brasilía - Úrúgvæ - Copa América Femenina - viaplay
-DTSTART:20250729T235000
-DTEND:20250730T005000
-DTSTAMP:20250729T235000Z
-UID:2025-07-29T23:50:00/Brasilía - Úrúgvæ
-DESCRIPTION:Brasilía - Úrúgvæ - Copa América Femenina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Team K League - Newcastle - Æfingaleikur - synsportviaplay
+SUMMARY:Team K League - Newcastle - Æfingaleikur - viaplay
 DTSTART:20250730T105500
 DTEND:20250730T115500
 DTSTAMP:20250730T105500Z
@@ -82,7 +10,7 @@ UID:2025-07-30T10:55:00/Team K League - Newcastle
 DESCRIPTION:Team K League - Newcastle - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Team K League - Newcastle - Æfingaleikur - viaplay
+SUMMARY:Team K League - Newcastle - Æfingaleikur - synsportviaplay
 DTSTART:20250730T105500
 DTEND:20250730T115500
 DTSTAMP:20250730T105500Z
@@ -108,20 +36,20 @@ UID:2025-07-30T18:30:00/Fjölnir - Völsungur
 DESCRIPTION:Fjölnir - Völsungur - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - ÍA - Lengjudeildin - livey
-DTSTART:20250730T191500
-DTEND:20250730T201500
-DTSTAMP:20250730T191500Z
-UID:2025-07-30T19:15:00/Keflavík - ÍA
-DESCRIPTION:Keflavík - ÍA - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grótta - Grindavík / Njarðvík - Lengjudeildin - livey
 DTSTART:20250730T191500
 DTEND:20250730T201500
 DTSTAMP:20250730T191500Z
 UID:2025-07-30T19:15:00/Grótta - Grindavík / Njarðvík
 DESCRIPTION:Grótta - Grindavík / Njarðvík - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keflavík - ÍA - Lengjudeildin - livey
+DTSTART:20250730T191500
+DTEND:20250730T201500
+DTSTAMP:20250730T191500Z
+UID:2025-07-30T19:15:00/Keflavík - ÍA
+DESCRIPTION:Keflavík - ÍA - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Selfoss - ÍR - Lengjudeildin - livey
@@ -210,14 +138,6 @@ UID:2025-08-01T18:25:00/Schalke - Hertha Berlin
 DESCRIPTION:Schalke - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Luton - AFC Wimbledon - League One - viaplay
-DTSTART:20250801T185500
-DTEND:20250801T195500
-DTSTAMP:20250801T185500Z
-UID:2025-08-01T18:55:00/Luton - AFC Wimbledon
-DESCRIPTION:Luton - AFC Wimbledon - League One
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Luton Town - Wimbledon - EFL League One - synsportviaplay
 DTSTART:20250801T185500
 DTEND:20250801T195500
@@ -226,20 +146,20 @@ UID:2025-08-01T18:55:00/Luton Town - Wimbledon
 DESCRIPTION:Luton Town - Wimbledon - EFL League One
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Luton - AFC Wimbledon - League One - viaplay
+DTSTART:20250801T185500
+DTEND:20250801T195500
+DTSTAMP:20250801T185500Z
+UID:2025-08-01T18:55:00/Luton - AFC Wimbledon
+DESCRIPTION:Luton - AFC Wimbledon - League One
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paderborn - Holstein Kiel - 2. Bundesliga - viaplay
 DTSTART:20250802T105500
 DTEND:20250802T115500
 DTSTAMP:20250802T105500Z
 UID:2025-08-02T10:55:00/Paderborn - Holstein Kiel
 DESCRIPTION:Paderborn - Holstein Kiel - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Bochum - 2. Bundesliga - viaplay
-DTSTART:20250802T105500
-DTEND:20250802T115500
-DTSTAMP:20250802T105500Z
-UID:2025-08-02T10:55:00/Darmstadt - Bochum
-DESCRIPTION:Darmstadt - Bochum - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Nürnberg - 2. Bundesliga - viaplay
@@ -256,6 +176,14 @@ DTEND:20250802T115500
 DTSTAMP:20250802T105500Z
 UID:2025-08-02T10:55:00/Karlsruher - Preußen Münster
 DESCRIPTION:Karlsruher - Preußen Münster - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Bochum - 2. Bundesliga - viaplay
+DTSTART:20250802T105500
+DTEND:20250802T115500
+DTSTAMP:20250802T105500Z
+UID:2025-08-02T10:55:00/Darmstadt - Bochum
+DESCRIPTION:Darmstadt - Bochum - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cardiff - Peterborough - League One - viaplay
@@ -290,6 +218,14 @@ UID:2025-08-02T13:55:00/Barnet - Fleetwood
 DESCRIPTION:Barnet - Fleetwood - League Two
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arminia Bielefeld - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20250802T182500
+DTEND:20250802T192500
+DTSTAMP:20250802T182500Z
+UID:2025-08-02T18:25:00/Arminia Bielefeld - Düsseldorf
+DESCRIPTION:Arminia Bielefeld - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bielefeld - Düsseldorf - 2. Bundesliga - synsportviaplay
 DTSTART:20250802T182500
 DTEND:20250802T192500
@@ -298,12 +234,20 @@ UID:2025-08-02T18:25:00/Bielefeld - Düsseldorf
 DESCRIPTION:Bielefeld - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arminia Bielefeld - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20250802T182500
-DTEND:20250802T192500
-DTSTAMP:20250802T182500Z
-UID:2025-08-02T18:25:00/Arminia Bielefeld - Düsseldorf
-DESCRIPTION:Arminia Bielefeld - Düsseldorf - 2. Bundesliga
+SUMMARY:Kólumbía - Brasilía - Copa América Femenina - viaplay
+DTSTART:20250802T205000
+DTEND:20250802T215000
+DTSTAMP:20250802T205000Z
+UID:2025-08-02T20:50:00/Kólumbía - Brasilía
+DESCRIPTION:Kólumbía - Brasilía - Copa América Femenina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Úrslit - Kólumbía - Brasilía/Úrúgvæ - synsportviaplay
+DTSTART:20250802T205000
+DTEND:20250802T215000
+DTSTAMP:20250802T205000Z
+UID:2025-08-02T20:50:00/Úrslit
+DESCRIPTION:Úrslit - Kólumbía - Brasilía/Úrúgvæ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stockport - Bolton - League One - viaplay
@@ -314,6 +258,14 @@ UID:2025-08-03T10:55:00/Stockport - Bolton
 DESCRIPTION:Stockport - Bolton - League One
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tottenham - Newcastle - Æfingaleikur - synsportviaplay
+DTSTART:20250803T105500
+DTEND:20250803T115500
+DTSTAMP:20250803T105500Z
+UID:2025-08-03T10:55:00/Tottenham - Newcastle
+DESCRIPTION:Tottenham - Newcastle - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tottenham - Newcastle - Æfingaleikur - viaplay
 DTSTART:20250803T105500
 DTEND:20250803T115500
@@ -322,20 +274,20 @@ UID:2025-08-03T10:55:00/Tottenham - Newcastle
 DESCRIPTION:Tottenham - Newcastle - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20250803T112500
-DTEND:20250803T122500
-DTSTAMP:20250803T112500Z
-UID:2025-08-03T11:25:00/Hannover - Kaiserslautern
-DESCRIPTION:Hannover - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Braunschweig - 2. Bundesliga - viaplay
 DTSTART:20250803T112500
 DTEND:20250803T122500
 DTSTAMP:20250803T112500Z
 UID:2025-08-03T11:25:00/Magdeburg - Braunschweig
 DESCRIPTION:Magdeburg - Braunschweig - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20250803T112500
+DTEND:20250803T122500
+DTSTAMP:20250803T112500Z
+UID:2025-08-03T11:25:00/Hannover - Kaiserslautern
+DESCRIPTION:Hannover - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Dynamo Dresden - 2. Bundesliga - viaplay
@@ -368,5 +320,37 @@ DTEND:20250804T185000
 DTSTAMP:20250804T175000Z
 UID:2025-08-04T17:50:00/Valur - Breiðablik
 DESCRIPTION:Valur - Breiðablik - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - KA - Besta deild karla - synsportisland
+DTSTART:20250805T190000
+DTEND:20250805T200000
+DTSTAMP:20250805T190000Z
+UID:2025-08-05T19:00:00/Breiðablik - KA
+DESCRIPTION:Breiðablik - KA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Víkingur R. - Besta deild karla - synsportisland2
+DTSTART:20250805T190500
+DTEND:20250805T200500
+DTSTAMP:20250805T190500Z
+UID:2025-08-05T19:05:00/FH - Víkingur R.
+DESCRIPTION:FH - Víkingur R. - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍA - Valur - Besta deild karla - synsportisland3
+DTSTART:20250805T190500
+DTEND:20250805T200500
+DTSTAMP:20250805T190500Z
+UID:2025-08-05T19:05:00/ÍA - Valur
+DESCRIPTION:ÍA - Valur - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Subway Tilþrifin - Besta deild karla - synsportisland
+DTSTART:20250805T212000
+DTEND:20250805T222000
+DTSTAMP:20250805T212000Z
+UID:2025-08-05T21:20:00/Subway Tilþrifin
+DESCRIPTION:Subway Tilþrifin - Besta deild karla
 END:VEVENT
 END:VCALENDAR
