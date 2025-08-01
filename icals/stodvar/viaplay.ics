@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
 SUMMARY:Tarragona P1 - Premier Padel - viaplay
-DTSTART:20250731T080000
-DTEND:20250731T090000
-DTSTAMP:20250731T080000Z
-UID:2025-07-31T08:00:00/Tarragona P1
-DESCRIPTION:Tarragona P1 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - Tottenham - Æfingaleikur - viaplay
-DTSTART:20250731T112500
-DTEND:20250731T122500
-DTSTAMP:20250731T112500Z
-UID:2025-07-31T11:25:00/Arsenal - Tottenham
-DESCRIPTION:Arsenal - Tottenham - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tarragona P1 - Premier Padel - viaplay
-DTSTART:20250731T140000
-DTEND:20250731T150000
-DTSTAMP:20250731T140000Z
-UID:2025-07-31T14:00:00/Tarragona P1
-DESCRIPTION:Tarragona P1 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tarragona P1 - Premier Padel - viaplay
 DTSTART:20250801T080000
 DTEND:20250801T090000
 DTSTAMP:20250801T080000Z
@@ -42,20 +18,20 @@ UID:2025-08-01T11:25:00/Ungverski Kappaksturinn (Æfing 1)
 DESCRIPTION:Ungverski Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Ungverski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250801T113000
-DTEND:20250801T123000
-DTSTAMP:20250801T113000Z
-UID:2025-08-01T11:30:00/Timing (Æfing 1 | Ungverski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Ungverski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Ungverski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250801T113000
 DTEND:20250801T123000
 DTSTAMP:20250801T113000Z
 UID:2025-08-01T11:30:00/Pitlane (Æfing 1 | Ungverski Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 1 | Ungverski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 1 | Ungverski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250801T113000
+DTEND:20250801T123000
+DTSTAMP:20250801T113000Z
+UID:2025-08-01T11:30:00/Onboard (Æfing 1 | Ungverski Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Ungverski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Ungverski Kappaksturinn) - Formula 1
@@ -69,12 +45,12 @@ DESCRIPTION:Track Positioning (Æfing 1 | Ungverski Kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Ungverski Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing (Æfing 1 | Ungverski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250801T113000
 DTEND:20250801T123000
 DTSTAMP:20250801T113000Z
-UID:2025-08-01T11:30:00/Onboard (Æfing 1 | Ungverski Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Ungverski Kappaksturinn) - Formula 1
+UID:2025-08-01T11:30:00/Timing (Æfing 1 | Ungverski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Ungverski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Budapest (Tímatökur) - Formula 3 - viaplay
@@ -216,6 +192,14 @@ UID:2025-08-02T10:30:00/Onboard (Æfing 3 | Ungverski Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 3 | Ungverski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Æfing 3 | Ungverski Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250802T103000
+DTEND:20250802T113000
+DTSTAMP:20250802T103000Z
+UID:2025-08-02T10:30:00/Timing (Æfing 3 | Ungverski Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Ungverski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 3 | Ungverski Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250802T103000
 DTEND:20250802T113000
@@ -235,28 +219,12 @@ DESCRIPTION:Track Positioning (Æfing 3 | Ungverski Kappaksturinn) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Ungverski Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250802T103000
-DTEND:20250802T113000
-DTSTAMP:20250802T103000Z
-UID:2025-08-02T10:30:00/Timing (Æfing 3 | Ungverski Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Ungverski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paderborn - Holstein Kiel - 2. Bundesliga - viaplay
 DTSTART:20250802T105500
 DTEND:20250802T115500
 DTSTAMP:20250802T105500Z
 UID:2025-08-02T10:55:00/Paderborn - Holstein Kiel
 DESCRIPTION:Paderborn - Holstein Kiel - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karlsruher - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20250802T105500
-DTEND:20250802T115500
-DTSTAMP:20250802T105500Z
-UID:2025-08-02T10:55:00/Karlsruher - Preußen Münster
-DESCRIPTION:Karlsruher - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Nürnberg - 2. Bundesliga - viaplay
@@ -273,6 +241,14 @@ DTEND:20250802T115500
 DTSTAMP:20250802T105500Z
 UID:2025-08-02T10:55:00/Darmstadt - Bochum
 DESCRIPTION:Darmstadt - Bochum - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher - Preußen Münster - 2. Bundesliga - viaplay
+DTSTART:20250802T105500
+DTEND:20250802T115500
+DTSTAMP:20250802T105500Z
+UID:2025-08-02T10:55:00/Karlsruher - Preußen Münster
+DESCRIPTION:Karlsruher - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cardiff - Peterborough - League One - viaplay
@@ -315,15 +291,6 @@ UID:2025-08-02T13:55:00/Barnet - Fleetwood
 DESCRIPTION:Barnet - Fleetwood - League Two
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Ungverski Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20250802T140000
-DTEND:20250802T150000
-DTSTAMP:20250802T140000Z
-UID:2025-08-02T14:00:00/Onboard (Tímatökur | Ungverski Kappaksturinn)
-DESCRIPTION:Onboard (Tímatökur | Ungverski Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Tímatökur | Ungverski Kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20250802T140000
@@ -331,6 +298,15 @@ DTEND:20250802T150000
 DTSTAMP:20250802T140000Z
 UID:2025-08-02T14:00:00/Timing (Tímatökur | Ungverski Kappaksturinn)
 DESCRIPTION:Timing (Tímatökur | Ungverski Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Tímatökur | Ungverski Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250802T140000
+DTEND:20250802T150000
+DTSTAMP:20250802T140000Z
+UID:2025-08-02T14:00:00/Pitlane (Tímatökur | Ungverski Kappaksturinn)
+DESCRIPTION:Pitlane (Tímatökur | Ungverski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Ungverski Kappaksturinn) - Formul
@@ -344,13 +320,13 @@ DESCRIPTION:Track Positioning (Tímatökur | Ungverski Kappaksturinn) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Ungverski Kappaksturinn) - Formula 1 - viap
+SUMMARY:Onboard (Tímatökur | Ungverski Kappaksturinn) - Formula 1 - viap
  lay
 DTSTART:20250802T140000
 DTEND:20250802T150000
 DTSTAMP:20250802T140000Z
-UID:2025-08-02T14:00:00/Pitlane (Tímatökur | Ungverski Kappaksturinn)
-DESCRIPTION:Pitlane (Tímatökur | Ungverski Kappaksturinn) - Formula 1
+UID:2025-08-02T14:00:00/Onboard (Tímatökur | Ungverski Kappaksturinn)
+DESCRIPTION:Onboard (Tímatökur | Ungverski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Imola (Race 1) - Formula Regional European Championship - viaplay
@@ -441,14 +417,6 @@ UID:2025-08-03T09:55:00/Imola (Kappakstur 3)
 DESCRIPTION:Imola (Kappakstur 3) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stockport - Bolton - League One - viaplay
-DTSTART:20250803T105500
-DTEND:20250803T115500
-DTSTAMP:20250803T105500Z
-UID:2025-08-03T10:55:00/Stockport - Bolton
-DESCRIPTION:Stockport - Bolton - League One
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tottenham - Newcastle - Æfingaleikur - viaplay
 DTSTART:20250803T105500
 DTEND:20250803T115500
@@ -457,12 +425,12 @@ UID:2025-08-03T10:55:00/Tottenham - Newcastle
 DESCRIPTION:Tottenham - Newcastle - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20250803T112500
-DTEND:20250803T122500
-DTSTAMP:20250803T112500Z
-UID:2025-08-03T11:25:00/Hannover - Kaiserslautern
-DESCRIPTION:Hannover - Kaiserslautern - 2. Bundesliga
+SUMMARY:Stockport - Bolton - League One - viaplay
+DTSTART:20250803T105500
+DTEND:20250803T115500
+DTSTAMP:20250803T105500Z
+UID:2025-08-03T10:55:00/Stockport - Bolton
+DESCRIPTION:Stockport - Bolton - League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Dynamo Dresden - 2. Bundesliga - viaplay
@@ -471,6 +439,14 @@ DTEND:20250803T122500
 DTSTAMP:20250803T112500Z
 UID:2025-08-03T11:25:00/Greuther Fürth - Dynamo Dresden
 DESCRIPTION:Greuther Fürth - Dynamo Dresden - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20250803T112500
+DTEND:20250803T122500
+DTSTAMP:20250803T112500Z
+UID:2025-08-03T11:25:00/Hannover - Kaiserslautern
+DESCRIPTION:Hannover - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magdeburg - Braunschweig - 2. Bundesliga - viaplay
@@ -498,15 +474,13 @@ UID:2025-08-03T12:30:00/Ungverski Kappaksturinn (Kappakstur)
 DESCRIPTION:Ungverski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Ungverski Kappaksturinn) - Formula
-  1 - viaplay
+SUMMARY:Onboard (Kappakstur | Ungverski Kappaksturinn) - Formula 1 - viapl
+ ay
 DTSTART:20250803T130000
 DTEND:20250803T140000
 DTSTAMP:20250803T130000Z
-UID:2025-08-03T13:00:00/Track Positioning (Kappakstur | Ungverski Kappakst
- urinn)
-DESCRIPTION:Track Positioning (Kappakstur | Ungverski Kappaksturinn) - For
- mula 1
+UID:2025-08-03T13:00:00/Onboard (Kappakstur | Ungverski Kappaksturinn)
+DESCRIPTION:Onboard (Kappakstur | Ungverski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Kappakstur | Ungverski Kappaksturinn) - Formula 1 - viapla
@@ -518,13 +492,15 @@ UID:2025-08-03T13:00:00/Timing (Kappakstur | Ungverski Kappaksturinn)
 DESCRIPTION:Timing (Kappakstur | Ungverski Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Kappakstur | Ungverski Kappaksturinn) - Formula 1 - viapl
- ay
+SUMMARY:Track Positioning (Kappakstur | Ungverski Kappaksturinn) - Formula
+  1 - viaplay
 DTSTART:20250803T130000
 DTEND:20250803T140000
 DTSTAMP:20250803T130000Z
-UID:2025-08-03T13:00:00/Onboard (Kappakstur | Ungverski Kappaksturinn)
-DESCRIPTION:Onboard (Kappakstur | Ungverski Kappaksturinn) - Formula 1
+UID:2025-08-03T13:00:00/Track Positioning (Kappakstur | Ungverski Kappakst
+ urinn)
+DESCRIPTION:Track Positioning (Kappakstur | Ungverski Kappaksturinn) - For
+ mula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Ungverski Kappaksturinn) - Formula 1 - viapl
@@ -565,6 +541,22 @@ DTSTART:20250806T220000
 DTEND:20250806T230000
 DTSTAMP:20250806T220000Z
 UID:2025-08-06T22:00:00/U.S. Women's Amateur
+DESCRIPTION:U.S. Women's Amateur - Golf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Vale - Cardiff - League One - viaplay
+DTSTART:20250807T185500
+DTEND:20250807T195500
+DTSTAMP:20250807T185500Z
+UID:2025-08-07T18:55:00/Port Vale - Cardiff
+DESCRIPTION:Port Vale - Cardiff - League One
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Women's Amateur - Golf - viaplay
+DTSTART:20250807T220000
+DTEND:20250807T230000
+DTSTAMP:20250807T220000Z
+UID:2025-08-07T22:00:00/U.S. Women's Amateur
 DESCRIPTION:U.S. Women's Amateur - Golf
 END:VEVENT
 END:VCALENDAR
