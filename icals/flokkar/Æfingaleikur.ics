@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Æfingaleikur - ical
 BEGIN:VEVENT
-SUMMARY:Tottenham - Newcastle - Æfingaleikur - synsportviaplay
+SUMMARY:Tottenham - Newcastle - Æfingaleikur - viaplay
 DTSTART:20250803T105500
 DTEND:20250803T115500
 DTSTAMP:20250803T105500Z
@@ -10,7 +10,7 @@ UID:2025-08-03T10:55:00/Tottenham - Newcastle
 DESCRIPTION:Tottenham - Newcastle - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Newcastle - Æfingaleikur - viaplay
+SUMMARY:Tottenham - Newcastle - Æfingaleikur - synsportviaplay
 DTSTART:20250803T105500
 DTEND:20250803T115500
 DTSTAMP:20250803T105500Z
@@ -24,5 +24,13 @@ DTEND:20250808T192500
 DTSTAMP:20250808T182500Z
 UID:2025-08-08T18:25:00/Newcastle - Espanyol
 DESCRIPTION:Newcastle - Espanyol - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Atlético Madrid - Æfingaleikur - viaplay
+DTSTART:20250809T145500
+DTEND:20250809T155500
+DTSTAMP:20250809T145500Z
+UID:2025-08-09T14:55:00/Newcastle - Atlético Madrid
+DESCRIPTION:Newcastle - Atlético Madrid - Æfingaleikur
 END:VEVENT
 END:VCALENDAR
