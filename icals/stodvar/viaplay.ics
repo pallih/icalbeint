@@ -35,19 +35,11 @@ DESCRIPTION:Australian Darts Masters - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PIF Championship - Ladies European Tour - viaplay
-DTSTART:20250808T130000
-DTEND:20250808T140000
-DTSTAMP:20250808T130000Z
-UID:2025-08-08T13:00:00/PIF Championship
+DTSTART:20250808T133000
+DTEND:20250808T143000
+DTSTAMP:20250808T133000Z
+UID:2025-08-08T13:30:00/PIF Championship
 DESCRIPTION:PIF Championship - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rosengård - Malmö FF - OBOS Damallsvenskan - viaplay
-DTSTART:20250808T155000
-DTEND:20250808T165000
-DTSTAMP:20250808T155000Z
-UID:2025-08-08T15:50:00/Rosengård - Malmö FF
-DESCRIPTION:Rosengård - Malmö FF - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preußen Münster - Paderborn - 2. Bundesliga - viaplay
@@ -171,12 +163,12 @@ UID:2025-08-09T10:50:00/AIK - Kristianstad
 DESCRIPTION:AIK - Kristianstad - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
+SUMMARY:Dynamo Dresden - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20250809T105500
 DTEND:20250809T115500
 DTSTAMP:20250809T105500Z
-UID:2025-08-09T10:55:00/Düsseldorf - Hannover
-DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
+UID:2025-08-09T10:55:00/Dynamo Dresden - Magdeburg
+DESCRIPTION:Dynamo Dresden - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braunschweig - Greuther Fürth - 2. Bundesliga - viaplay
@@ -187,12 +179,12 @@ UID:2025-08-09T10:55:00/Braunschweig - Greuther Fürth
 DESCRIPTION:Braunschweig - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dynamo Dresden - Magdeburg - 2. Bundesliga - viaplay
+SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
 DTSTART:20250809T105500
 DTEND:20250809T115500
 DTSTAMP:20250809T105500Z
-UID:2025-08-09T10:55:00/Dynamo Dresden - Magdeburg
-DESCRIPTION:Dynamo Dresden - Magdeburg - 2. Bundesliga
+UID:2025-08-09T10:55:00/Düsseldorf - Hannover
+DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürburgring (Kappakstur 1) - DTM - viaplay
@@ -324,20 +316,20 @@ UID:2025-08-09T23:00:00/Dolidze vs Hernandez
 DESCRIPTION:Dolidze vs Hernandez - UFC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Prix of Portland (Tímatökur) - Indy NXT - viaplay
-DTSTART:20250809T233000
-DTEND:20250810T003000
-DTSTAMP:20250809T233000Z
-UID:2025-08-09T23:30:00/Grand Prix of Portland (Tímatökur)
-DESCRIPTION:Grand Prix of Portland (Tímatökur) - Indy NXT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Florida Open - Pool - viaplay
 DTSTART:20250809T233000
 DTEND:20250810T003000
 DTSTAMP:20250809T233000Z
 UID:2025-08-09T23:30:00/Florida Open
 DESCRIPTION:Florida Open - Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Portland (Tímatökur) - Indy NXT - viaplay
+DTSTART:20250809T233000
+DTEND:20250810T003000
+DTSTAMP:20250809T233000Z
+UID:2025-08-09T23:30:00/Grand Prix of Portland (Tímatökur)
+DESCRIPTION:Grand Prix of Portland (Tímatökur) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Æfing 3) - IndyCar - viaplay
@@ -365,6 +357,14 @@ UID:2025-08-10T09:10:00/Nürburgring (Kappakstur 2)
 DESCRIPTION:Nürburgring (Kappakstur 2) - Porsche Carrera Cup Deutschland
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vittsjö - Piteå - OBOS Damallsvenskan - viaplay
+DTSTART:20250810T105000
+DTEND:20250810T115000
+DTSTAMP:20250810T105000Z
+UID:2025-08-10T10:50:00/Vittsjö - Piteå
+DESCRIPTION:Vittsjö - Piteå - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nürburgring (Kappakstur 2) - DTM - viaplay
 DTSTART:20250810T111500
 DTEND:20250810T121500
@@ -381,14 +381,6 @@ UID:2025-08-10T11:25:00/Holstein Kiel - Arminia Bielefeld
 DESCRIPTION:Holstein Kiel - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20250810T112500
-DTEND:20250810T122500
-DTSTAMP:20250810T112500Z
-UID:2025-08-10T11:25:00/Bochum - Elversberg
-DESCRIPTION:Bochum - Elversberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Karlsruher - 2. Bundesliga - viaplay
 DTSTART:20250810T112500
 DTEND:20250810T122500
@@ -397,11 +389,19 @@ UID:2025-08-10T11:25:00/Hertha Berlin - Karlsruher
 DESCRIPTION:Hertha Berlin - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bochum - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20250810T112500
+DTEND:20250810T122500
+DTSTAMP:20250810T112500Z
+UID:2025-08-10T11:25:00/Bochum - Elversberg
+DESCRIPTION:Bochum - Elversberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PIF Championship - Ladies European Tour - viaplay
-DTSTART:20250810T120000
-DTEND:20250810T130000
-DTSTAMP:20250810T120000Z
-UID:2025-08-10T12:00:00/PIF Championship
+DTSTART:20250810T130000
+DTEND:20250810T140000
+DTSTAMP:20250810T130000Z
+UID:2025-08-10T13:00:00/PIF Championship
 DESCRIPTION:PIF Championship - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
@@ -413,6 +413,14 @@ UID:2025-08-10T13:10:00/Nürburgring (Kappakstur 2)
 DESCRIPTION:Nürburgring (Kappakstur 2) - ADAC GT4 Germany
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crystal Palace - Liverpool - FA Community Shield - viaplay
+DTSTART:20250810T135000
+DTEND:20250810T145000
+DTSTAMP:20250810T135000Z
+UID:2025-08-10T13:50:00/Crystal Palace - Liverpool
+DESCRIPTION:Crystal Palace - Liverpool - FA Community Shield
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leicester - Sheffield Wednesday - Championship - viaplay
 DTSTART:20250810T152500
 DTEND:20250810T162500
@@ -421,20 +429,20 @@ UID:2025-08-10T15:25:00/Leicester - Sheffield Wednesday
 DESCRIPTION:Leicester - Sheffield Wednesday - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Prix of Portland (Kappakstur) - Indy NXT - viaplay
-DTSTART:20250810T170000
-DTEND:20250810T180000
-DTSTAMP:20250810T170000Z
-UID:2025-08-10T17:00:00/Grand Prix of Portland (Kappakstur)
-DESCRIPTION:Grand Prix of Portland (Kappakstur) - Indy NXT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Florida Open - Pool - viaplay
 DTSTART:20250810T170000
 DTEND:20250810T180000
 DTSTAMP:20250810T170000Z
 UID:2025-08-10T17:00:00/Florida Open
 DESCRIPTION:Florida Open - Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Portland (Kappakstur) - Indy NXT - viaplay
+DTSTART:20250810T170000
+DTEND:20250810T180000
+DTSTAMP:20250810T170000Z
+UID:2025-08-10T17:00:00/Grand Prix of Portland (Kappakstur)
+DESCRIPTION:Grand Prix of Portland (Kappakstur) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Go Bowling at The Glen (Cup Series) - Nascar - viaplay
@@ -452,5 +460,21 @@ DTEND:20250810T200000
 DTSTAMP:20250810T190000Z
 UID:2025-08-10T19:00:00/Bitnile.com Grand Prix of Portland (Kappakstur)
 DESCRIPTION:Bitnile.com Grand Prix of Portland (Kappakstur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Women's Amateur - Golf - viaplay
+DTSTART:20250810T230000
+DTEND:20250811T000000
+DTSTAMP:20250810T230000Z
+UID:2025-08-10T23:00:00/U.S. Women's Amateur
+DESCRIPTION:U.S. Women's Amateur - Golf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Open - Pool - viaplay
+DTSTART:20250810T233000
+DTEND:20250811T003000
+DTSTAMP:20250810T233000Z
+UID:2025-08-10T23:30:00/Florida Open
+DESCRIPTION:Florida Open - Pool
 END:VEVENT
 END:VCALENDAR

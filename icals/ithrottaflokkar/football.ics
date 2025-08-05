@@ -2,27 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Valur - Breiðablik - Besta deild kvenna - synsportisland
-DTSTART:20250804T175000
-DTEND:20250804T185000
-DTSTAMP:20250804T175000Z
-UID:2025-08-04T17:50:00/Valur - Breiðablik
-DESCRIPTION:Valur - Breiðablik - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍA - Valur - Besta deild karla - synsportisland
 DTSTART:20250805T190000
 DTEND:20250805T200000
 DTSTAMP:20250805T190000Z
 UID:2025-08-05T19:00:00/ÍA - Valur
-DESCRIPTION:ÍA - Valur - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍA - Valur - Besta deild karla - synsportisland3
-DTSTART:20250805T190500
-DTEND:20250805T200500
-DTSTAMP:20250805T190500Z
-UID:2025-08-05T19:05:00/ÍA - Valur
 DESCRIPTION:ÍA - Valur - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
@@ -114,6 +98,14 @@ UID:2025-08-07T19:15:00/HK - Keflavík
 DESCRIPTION:HK - Keflavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ÍA - Grótta - Lengjudeildin - livey
+DTSTART:20250807T191500
+DTEND:20250807T201500
+DTSTAMP:20250807T191500Z
+UID:2025-08-07T19:15:00/ÍA - Grótta
+DESCRIPTION:ÍA - Grótta - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grindavík / Njarðvík - Haukar - Lengjudeildin - livey
 DTSTART:20250807T191500
 DTEND:20250807T201500
@@ -128,22 +120,6 @@ DTEND:20250807T201500
 DTSTAMP:20250807T191500Z
 UID:2025-08-07T19:15:00/Fylkir - KR
 DESCRIPTION:Fylkir - KR - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍA - Grótta - Lengjudeildin - livey
-DTSTART:20250807T191500
-DTEND:20250807T201500
-DTSTAMP:20250807T191500Z
-UID:2025-08-07T19:15:00/ÍA - Grótta
-DESCRIPTION:ÍA - Grótta - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rosengård - Malmö FF - OBOS Damallsvenskan - viaplay
-DTSTART:20250808T155000
-DTEND:20250808T165000
-DTSTAMP:20250808T155000Z
-UID:2025-08-08T15:50:00/Rosengård - Malmö FF
-DESCRIPTION:Rosengård - Malmö FF - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preußen Münster - Paderborn - 2. Bundesliga - viaplay
@@ -210,14 +186,6 @@ UID:2025-08-08T18:25:00/Newcastle - Espanyol
 DESCRIPTION:Newcastle - Espanyol - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Birmingham - Ipswich - Championship - viaplay
-DTSTART:20250808T185500
-DTEND:20250808T195500
-DTSTAMP:20250808T185500Z
-UID:2025-08-08T18:55:00/Birmingham - Ipswich
-DESCRIPTION:Birmingham - Ipswich - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Birmingham - Ipswich - EFL Championship - synsportviaplay
 DTSTART:20250808T185500
 DTEND:20250808T195500
@@ -226,12 +194,12 @@ UID:2025-08-08T18:55:00/Birmingham - Ipswich
 DESCRIPTION:Birmingham - Ipswich - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HK - Keflavík - Lengjudeildin - livey
-DTSTART:20250808T191500
-DTEND:20250808T201500
-DTSTAMP:20250808T191500Z
-UID:2025-08-08T19:15:00/HK - Keflavík
-DESCRIPTION:HK - Keflavík - Lengjudeildin
+SUMMARY:Birmingham - Ipswich - Championship - viaplay
+DTSTART:20250808T185500
+DTEND:20250808T195500
+DTSTAMP:20250808T185500Z
+UID:2025-08-08T18:55:00/Birmingham - Ipswich
+DESCRIPTION:Birmingham - Ipswich - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Fjölnir - Lengjudeildin - livey
@@ -242,20 +210,28 @@ UID:2025-08-08T19:15:00/ÍR - Fjölnir
 DESCRIPTION:ÍR - Fjölnir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Selfoss - Lengjudeildin - livey
-DTSTART:20250808T191500
-DTEND:20250808T201500
-DTSTAMP:20250808T191500Z
-UID:2025-08-08T19:15:00/Njarðvík - Selfoss
-DESCRIPTION:Njarðvík - Selfoss - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grindavík - Leiknir - Lengjudeildin - livey
 DTSTART:20250808T191500
 DTEND:20250808T201500
 DTSTAMP:20250808T191500Z
 UID:2025-08-08T19:15:00/Grindavík - Leiknir
 DESCRIPTION:Grindavík - Leiknir - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HK - Keflavík - Lengjudeildin - livey
+DTSTART:20250808T191500
+DTEND:20250808T201500
+DTSTAMP:20250808T191500Z
+UID:2025-08-08T19:15:00/HK - Keflavík
+DESCRIPTION:HK - Keflavík - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Selfoss - Lengjudeildin - livey
+DTSTART:20250808T191500
+DTEND:20250808T201500
+DTSTAMP:20250808T191500Z
+UID:2025-08-08T19:15:00/Njarðvík - Selfoss
+DESCRIPTION:Njarðvík - Selfoss - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AIK - Kristianstad - OBOS Damallsvenskan - viaplay
@@ -266,12 +242,12 @@ UID:2025-08-09T10:50:00/AIK - Kristianstad
 DESCRIPTION:AIK - Kristianstad - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
+SUMMARY:Dynamo Dresden - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20250809T105500
 DTEND:20250809T115500
 DTSTAMP:20250809T105500Z
-UID:2025-08-09T10:55:00/Düsseldorf - Hannover
-DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
+UID:2025-08-09T10:55:00/Dynamo Dresden - Magdeburg
+DESCRIPTION:Dynamo Dresden - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braunschweig - Greuther Fürth - 2. Bundesliga - viaplay
@@ -282,20 +258,12 @@ UID:2025-08-09T10:55:00/Braunschweig - Greuther Fürth
 DESCRIPTION:Braunschweig - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dynamo Dresden - Magdeburg - 2. Bundesliga - viaplay
+SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
 DTSTART:20250809T105500
 DTEND:20250809T115500
 DTSTAMP:20250809T105500Z
-UID:2025-08-09T10:55:00/Dynamo Dresden - Magdeburg
-DESCRIPTION:Dynamo Dresden - Magdeburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Wrexham - EFL Championship - synsportviaplay
-DTSTART:20250809T112500
-DTEND:20250809T122500
-DTSTAMP:20250809T112500Z
-UID:2025-08-09T11:25:00/Southampton - Wrexham
-DESCRIPTION:Southampton - Wrexham - EFL Championship
+UID:2025-08-09T10:55:00/Düsseldorf - Hannover
+DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southampton - Wrexham - Championship - viaplay
@@ -304,6 +272,14 @@ DTEND:20250809T122500
 DTSTAMP:20250809T112500Z
 UID:2025-08-09T11:25:00/Southampton - Wrexham
 DESCRIPTION:Southampton - Wrexham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southampton - Wrexham - EFL Championship - synsportviaplay
+DTSTART:20250809T112500
+DTEND:20250809T122500
+DTSTAMP:20250809T112500Z
+UID:2025-08-09T11:25:00/Southampton - Wrexham
+DESCRIPTION:Southampton - Wrexham - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FHL - FH - Besta deild kvenna - synsportisland
@@ -387,20 +363,20 @@ UID:2025-08-10T10:50:00/Vittsjö - Pitea
 DESCRIPTION:Vittsjö - Pitea - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vittsjö - Piteå - OBOS Damallsvenskan - viaplay
+DTSTART:20250810T105000
+DTEND:20250810T115000
+DTSTAMP:20250810T105000Z
+UID:2025-08-10T10:50:00/Vittsjö - Piteå
+DESCRIPTION:Vittsjö - Piteå - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Arminia Bielefeld - 2. Bundesliga - viaplay
 DTSTART:20250810T112500
 DTEND:20250810T122500
 DTSTAMP:20250810T112500Z
 UID:2025-08-10T11:25:00/Holstein Kiel - Arminia Bielefeld
 DESCRIPTION:Holstein Kiel - Arminia Bielefeld - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bochum - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20250810T112500
-DTEND:20250810T122500
-DTSTAMP:20250810T112500Z
-UID:2025-08-10T11:25:00/Bochum - Elversberg
-DESCRIPTION:Bochum - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Karlsruher - 2. Bundesliga - viaplay
@@ -411,7 +387,23 @@ UID:2025-08-10T11:25:00/Hertha Berlin - Karlsruher
 DESCRIPTION:Hertha Berlin - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bochum - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20250810T112500
+DTEND:20250810T122500
+DTSTAMP:20250810T112500Z
+UID:2025-08-10T11:25:00/Bochum - Elversberg
+DESCRIPTION:Bochum - Elversberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crystal Palace - Liverpool - FA Community Shield - synsportviaplay
+DTSTART:20250810T135000
+DTEND:20250810T145000
+DTSTAMP:20250810T135000Z
+UID:2025-08-10T13:50:00/Crystal Palace - Liverpool
+DESCRIPTION:Crystal Palace - Liverpool - FA Community Shield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Liverpool - FA Community Shield - viaplay
 DTSTART:20250810T135000
 DTEND:20250810T145000
 DTSTAMP:20250810T135000Z
@@ -457,5 +449,37 @@ DTEND:20250810T222000
 DTSTAMP:20250810T212000Z
 UID:2025-08-10T21:20:00/Subway Tilþrifin
 DESCRIPTION:Subway Tilþrifin - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - Stjarnan - Besta deild karla - synsportisland
+DTSTART:20250811T112500
+DTEND:20250811T122500
+DTSTAMP:20250811T112500Z
+UID:2025-08-11T11:25:00/Víkingur R. - Stjarnan
+DESCRIPTION:Víkingur R. - Stjarnan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Afturelding - Besta deild karla - synsportisland
+DTSTART:20250811T190000
+DTEND:20250811T200000
+DTSTAMP:20250811T190000Z
+UID:2025-08-11T19:00:00/KR - Afturelding
+DESCRIPTION:KR - Afturelding - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - ÍA - Besta deild karla - synsportisland2
+DTSTART:20250811T190500
+DTEND:20250811T200500
+DTSTAMP:20250811T190500Z
+UID:2025-08-11T19:05:00/FH - ÍA
+DESCRIPTION:FH - ÍA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stúkan - Besta deild karla - synsportisland
+DTSTART:20250811T212500
+DTEND:20250811T222500
+DTSTAMP:20250811T212500Z
+UID:2025-08-11T21:25:00/Stúkan
+DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 END:VCALENDAR
