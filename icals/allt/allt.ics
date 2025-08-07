@@ -2,44 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - allt - ical
 BEGIN:VEVENT
-SUMMARY:Afturelding - Vestri - Besta deild karla - synsportisland2
-DTSTART:20250806T175000
-DTEND:20250806T185000
-DTSTAMP:20250806T175000Z
-UID:2025-08-06T17:50:00/Afturelding - Vestri
-DESCRIPTION:Afturelding - Vestri - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fram - Stjarnan - Besta deild karla - synsportisland
-DTSTART:20250806T190000
-DTEND:20250806T200000
-DTSTAMP:20250806T190000Z
-UID:2025-08-06T19:00:00/Fram - Stjarnan
-DESCRIPTION:Fram - Stjarnan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - synsportisland
-DTSTART:20250806T212500
-DTEND:20250806T222500
-DTSTAMP:20250806T212500Z
-UID:2025-08-06T21:25:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:U.S. Women's Amateur - Golf - viaplay
-DTSTART:20250806T220000
-DTEND:20250806T230000
-DTSTAMP:20250806T220000Z
-UID:2025-08-06T22:00:00/U.S. Women's Amateur
-DESCRIPTION:U.S. Women's Amateur - Golf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scottish Championship - DP World Tour - synsport4
+SUMMARY:Nexo Championship - DP World Tour - synsport4
 DTSTART:20250807T113000
 DTEND:20250807T123000
 DTSTAMP:20250807T113000Z
-UID:2025-08-07T11:30:00/Scottish Championship
-DESCRIPTION:Scottish Championship - DP World Tour
+UID:2025-08-07T11:30:00/Nexo Championship
+DESCRIPTION:Nexo Championship - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór/KA - Valur - Besta deild kvenna - synsportisland5
+DTSTART:20250807T175000
+DTEND:20250807T185000
+DTSTAMP:20250807T175000Z
+UID:2025-08-07T17:50:00/Þór/KA - Valur
+DESCRIPTION:Þór/KA - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Breiðablik - Besta deild kvenna - synsportisland4
+DTSTART:20250807T175000
+DTEND:20250807T185000
+DTSTAMP:20250807T175000Z
+UID:2025-08-07T17:50:00/Fram - Breiðablik
+DESCRIPTION:Fram - Breiðablik - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Tindastóll - Besta deild kvenna - synsportisland3
@@ -141,20 +125,20 @@ UID:2025-08-07T23:00:00/Marlins - Braves
 DESCRIPTION:Marlins - Braves - MLB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Australian Darts Masters - World Series of Darts - synsportviaplay
-DTSTART:20250808T090000
-DTEND:20250808T100000
-DTSTAMP:20250808T090000Z
-UID:2025-08-08T09:00:00/Australian Darts Masters
-DESCRIPTION:Australian Darts Masters - World Series of Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Australian Darts Masters - PDC Darts - viaplay
 DTSTART:20250808T090000
 DTEND:20250808T100000
 DTSTAMP:20250808T090000Z
 UID:2025-08-08T09:00:00/Australian Darts Masters
 DESCRIPTION:Australian Darts Masters - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Australian Darts Masters - World Series of Darts - synsportviaplay
+DTSTART:20250808T090000
+DTEND:20250808T100000
+DTSTAMP:20250808T090000Z
+UID:2025-08-08T09:00:00/Australian Darts Masters
+DESCRIPTION:Australian Darts Masters - World Series of Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scottish Championship - DP World Tour - synsport4
@@ -165,7 +149,7 @@ UID:2025-08-08T11:30:00/Scottish Championship
 DESCRIPTION:Scottish Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PIF Championship - Ladies European Tour - synsportviaplay
+SUMMARY:PIF Championship - Ladies European Tour - viaplay
 DTSTART:20250808T133000
 DTEND:20250808T143000
 DTSTAMP:20250808T133000Z
@@ -173,7 +157,7 @@ UID:2025-08-08T13:30:00/PIF Championship
 DESCRIPTION:PIF Championship - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PIF Championship - Ladies European Tour - viaplay
+SUMMARY:PIF Championship - Ladies European Tour - synsportviaplay
 DTSTART:20250808T133000
 DTEND:20250808T143000
 DTSTAMP:20250808T133000Z
@@ -205,14 +189,6 @@ UID:2025-08-08T16:25:00/Preußen Münster - Paderborn
 DESCRIPTION:Preußen Münster - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brommapojkarna - Norrköping - OBOS Damallsvenskan - viaplay
-DTSTART:20250808T165000
-DTEND:20250808T175000
-DTSTAMP:20250808T165000Z
-UID:2025-08-08T16:50:00/Brommapojkarna - Norrköping
-DESCRIPTION:Brommapojkarna - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hammarby - Alingsås - OBOS Damallsvenskan - viaplay
 DTSTART:20250808T165000
 DTEND:20250808T175000
@@ -227,6 +203,14 @@ DTEND:20250808T175000
 DTSTAMP:20250808T165000Z
 UID:2025-08-08T16:50:00/Linköping - Växjö
 DESCRIPTION:Linköping - Växjö - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brommapojkarna - Norrköping - OBOS Damallsvenskan - viaplay
+DTSTART:20250808T165000
+DTEND:20250808T175000
+DTSTAMP:20250808T165000Z
+UID:2025-08-08T16:50:00/Brommapojkarna - Norrköping
+DESCRIPTION:Brommapojkarna - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þróttur R. - Víkingur R. - Besta deild kvenna - synsportisland
@@ -245,20 +229,20 @@ UID:2025-08-08T18:00:00/Fylkir - Þór
 DESCRIPTION:Fylkir - Þór - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monaco - Inter Milan - Vináttuleikir félagsliða - livey
-DTSTART:20250808T180000
-DTEND:20250808T190000
-DTSTAMP:20250808T180000Z
-UID:2025-08-08T18:00:00/Monaco - Inter Milan
-DESCRIPTION:Monaco - Inter Milan - Vináttuleikir félagsliða
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chelsea - Bayer Leverkusen - Vináttuleikir félagsliða - livey
 DTSTART:20250808T180000
 DTEND:20250808T190000
 DTSTAMP:20250808T180000Z
 UID:2025-08-08T18:00:00/Chelsea - Bayer Leverkusen
 DESCRIPTION:Chelsea - Bayer Leverkusen - Vináttuleikir félagsliða
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco - Inter Milan - Vináttuleikir félagsliða - livey
+DTSTART:20250808T180000
+DTEND:20250808T190000
+DTSTAMP:20250808T180000Z
+UID:2025-08-08T18:00:00/Monaco - Inter Milan
+DESCRIPTION:Monaco - Inter Milan - Vináttuleikir félagsliða
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Espanyol - Æfingaleikur - viaplay
@@ -285,14 +269,6 @@ UID:2025-08-08T18:55:00/Birmingham - Ipswich
 DESCRIPTION:Birmingham - Ipswich - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Selfoss - Lengjudeildin - livey
-DTSTART:20250808T191500
-DTEND:20250808T201500
-DTSTAMP:20250808T191500Z
-UID:2025-08-08T19:15:00/Njarðvík - Selfoss
-DESCRIPTION:Njarðvík - Selfoss - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HK - Keflavík - Lengjudeildin - livey
 DTSTART:20250808T191500
 DTEND:20250808T201500
@@ -301,12 +277,12 @@ UID:2025-08-08T19:15:00/HK - Keflavík
 DESCRIPTION:HK - Keflavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grindavík - Leiknir - Lengjudeildin - livey
+SUMMARY:Njarðvík - Selfoss - Lengjudeildin - livey
 DTSTART:20250808T191500
 DTEND:20250808T201500
 DTSTAMP:20250808T191500Z
-UID:2025-08-08T19:15:00/Grindavík - Leiknir
-DESCRIPTION:Grindavík - Leiknir - Lengjudeildin
+UID:2025-08-08T19:15:00/Njarðvík - Selfoss
+DESCRIPTION:Njarðvík - Selfoss - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Fjölnir - Lengjudeildin - livey
@@ -317,6 +293,14 @@ UID:2025-08-08T19:15:00/ÍR - Fjölnir
 DESCRIPTION:ÍR - Fjölnir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grindavík - Leiknir - Lengjudeildin - livey
+DTSTART:20250808T191500
+DTEND:20250808T201500
+DTSTAMP:20250808T191500Z
+UID:2025-08-08T19:15:00/Grindavík - Leiknir
+DESCRIPTION:Grindavík - Leiknir - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grand Prix of Portland (Æfing) - Indy NXT - viaplay
 DTSTART:20250808T200000
 DTEND:20250808T210000
@@ -325,20 +309,20 @@ UID:2025-08-08T20:00:00/Grand Prix of Portland (Æfing)
 DESCRIPTION:Grand Prix of Portland (Æfing) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NascaRace at Watkins Glen - Nascar Truck Series - synsportviaplay
-DTSTART:20250808T210000
-DTEND:20250808T220000
-DTSTAMP:20250808T210000Z
-UID:2025-08-08T21:00:00/NascaRace at Watkins Glen
-DESCRIPTION:NascaRace at Watkins Glen - Nascar Truck Series
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NCTS Race at Watkins Glen (Truck Series) - Nascar - viaplay
 DTSTART:20250808T210000
 DTEND:20250808T220000
 DTSTAMP:20250808T210000Z
 UID:2025-08-08T21:00:00/NCTS Race at Watkins Glen (Truck Series)
 DESCRIPTION:NCTS Race at Watkins Glen (Truck Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NascaRace at Watkins Glen - Nascar Truck Series - synsportviaplay
+DTSTART:20250808T210000
+DTEND:20250808T220000
+DTSTAMP:20250808T210000Z
+UID:2025-08-08T21:00:00/NascaRace at Watkins Glen
+DESCRIPTION:NascaRace at Watkins Glen - Nascar Truck Series
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar - viaplay
@@ -406,14 +390,6 @@ UID:2025-08-09T10:55:00/Dynamo Dresden - Magdeburg
 DESCRIPTION:Dynamo Dresden - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
-DTSTART:20250809T105500
-DTEND:20250809T115500
-DTSTAMP:20250809T105500Z
-UID:2025-08-09T10:55:00/Düsseldorf - Hannover
-DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Braunschweig - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20250809T105500
 DTEND:20250809T115500
@@ -422,20 +398,20 @@ UID:2025-08-09T10:55:00/Braunschweig - Greuther Fürth
 DESCRIPTION:Braunschweig - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürburgring (Kappakstur 1) - DTM - viaplay
-DTSTART:20250809T111500
-DTEND:20250809T121500
-DTSTAMP:20250809T111500Z
-UID:2025-08-09T11:15:00/Nürburgring (Kappakstur 1)
-DESCRIPTION:Nürburgring (Kappakstur 1) - DTM
+SUMMARY:Düsseldorf - Hannover - 2. Bundesliga - viaplay
+DTSTART:20250809T105500
+DTEND:20250809T115500
+DTSTAMP:20250809T105500Z
+UID:2025-08-09T10:55:00/Düsseldorf - Hannover
+DESCRIPTION:Düsseldorf - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Wrexham - Championship - viaplay
-DTSTART:20250809T112500
-DTEND:20250809T122500
-DTSTAMP:20250809T112500Z
-UID:2025-08-09T11:25:00/Southampton - Wrexham
-DESCRIPTION:Southampton - Wrexham - Championship
+SUMMARY:Nürburgring (Kappakstur 1) - DTM - viaplay
+DTSTART:20250809T111000
+DTEND:20250809T121000
+DTSTAMP:20250809T111000Z
+UID:2025-08-09T11:10:00/Nürburgring (Kappakstur 1)
+DESCRIPTION:Nürburgring (Kappakstur 1) - DTM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southampton - Wrexham - EFL Championship - synsportviaplay
@@ -446,6 +422,14 @@ UID:2025-08-09T11:25:00/Southampton - Wrexham
 DESCRIPTION:Southampton - Wrexham - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Southampton - Wrexham - Championship - viaplay
+DTSTART:20250809T112500
+DTEND:20250809T122500
+DTSTAMP:20250809T112500Z
+UID:2025-08-09T11:25:00/Southampton - Wrexham
+DESCRIPTION:Southampton - Wrexham - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scottish Championship - DP World Tour - synsport4
 DTSTART:20250809T113000
 DTEND:20250809T123000
@@ -454,12 +438,12 @@ UID:2025-08-09T11:30:00/Scottish Championship
 DESCRIPTION:Scottish Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Fiorentina - Vináttuleikir félagsliða - livey
-DTSTART:20250809T114500
-DTEND:20250809T124500
-DTSTAMP:20250809T114500Z
-UID:2025-08-09T11:45:00/Man. Utd. - Fiorentina
-DESCRIPTION:Man. Utd. - Fiorentina - Vináttuleikir félagsliða
+SUMMARY:Dubai Duty Free Shergar Cup - Crown Jewels Racing - viaplay
+DTSTART:20250809T120000
+DTEND:20250809T130000
+DTSTAMP:20250809T120000Z
+UID:2025-08-09T12:00:00/Dubai Duty Free Shergar Cup
+DESCRIPTION:Dubai Duty Free Shergar Cup - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PIF Championship - Ladies European Tour - viaplay
@@ -535,6 +519,14 @@ UID:2025-08-09T15:00:00/Golf
 DESCRIPTION:Golf - Íslandsmótið í golfi
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar - viaplay
+DTSTART:20250809T160000
+DTEND:20250809T170000
+DTSTAMP:20250809T160000Z
+UID:2025-08-09T16:00:00/Bitnile.com Grand Prix of Portland (Æfing)
+DESCRIPTION:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Völsungur - Þróttur - Lengjudeildin - livey
 DTSTART:20250809T160000
 DTEND:20250809T170000
@@ -549,14 +541,6 @@ DTEND:20250809T170000
 DTSTAMP:20250809T160000Z
 UID:2025-08-09T16:00:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar - viaplay
-DTSTART:20250809T160000
-DTEND:20250809T170000
-DTSTAMP:20250809T160000Z
-UID:2025-08-09T16:00:00/Bitnile.com Grand Prix of Portland (Æfing)
-DESCRIPTION:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield United - Bristol City - Championship - viaplay
@@ -583,6 +567,14 @@ UID:2025-08-09T18:25:00/Kaiserslautern - Schalke
 DESCRIPTION:Kaiserslautern - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mission 200 At The Glen (Xfinity Series) - Nascar - viaplay
+DTSTART:20250809T183000
+DTEND:20250809T193000
+DTSTAMP:20250809T183000Z
+UID:2025-08-09T18:30:00/Mission 200 At The Glen (Xfinity Series)
+DESCRIPTION:Mission 200 At The Glen (Xfinity Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Tímatökur) - IndyCar - viapl
  ay
 DTSTART:20250809T183000
@@ -606,14 +598,6 @@ DTEND:20250809T200000
 DTSTAMP:20250809T190000Z
 UID:2025-08-09T19:00:00/U.S. Women's Amateur
 DESCRIPTION:U.S. Women's Amateur - Golf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission 200 At The Glen (Xfinity Series) - Nascar - viaplay
-DTSTART:20250809T190000
-DTEND:20250809T200000
-DTSTAMP:20250809T190000Z
-UID:2025-08-09T19:00:00/Mission 200 At The Glen (Xfinity Series)
-DESCRIPTION:Mission 200 At The Glen (Xfinity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palermo - Man. City - Vináttuleikir félagsliða - livey
@@ -648,20 +632,20 @@ UID:2025-08-09T23:00:00/Dolidze vs Hernandez
 DESCRIPTION:Dolidze vs Hernandez - UFC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Prix of Portland (Tímatökur) - Indy NXT - viaplay
-DTSTART:20250809T233000
-DTEND:20250810T003000
-DTSTAMP:20250809T233000Z
-UID:2025-08-09T23:30:00/Grand Prix of Portland (Tímatökur)
-DESCRIPTION:Grand Prix of Portland (Tímatökur) - Indy NXT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Florida Open - Pool - viaplay
 DTSTART:20250809T233000
 DTEND:20250810T003000
 DTSTAMP:20250809T233000Z
 UID:2025-08-09T23:30:00/Florida Open
 DESCRIPTION:Florida Open - Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Portland (Tímatökur) - Indy NXT - viaplay
+DTSTART:20250809T233000
+DTEND:20250810T003000
+DTSTAMP:20250809T233000Z
+UID:2025-08-09T23:30:00/Grand Prix of Portland (Tímatökur)
+DESCRIPTION:Grand Prix of Portland (Tímatökur) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Æfing 3) - IndyCar - viaplay
@@ -689,20 +673,20 @@ UID:2025-08-10T09:10:00/Nürburgring (Kappakstur 2)
 DESCRIPTION:Nürburgring (Kappakstur 2) - Porsche Carrera Cup Deutschland
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vittsjö - Piteå - OBOS Damallsvenskan - viaplay
-DTSTART:20250810T105000
-DTEND:20250810T115000
-DTSTAMP:20250810T105000Z
-UID:2025-08-10T10:50:00/Vittsjö - Piteå
-DESCRIPTION:Vittsjö - Piteå - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vittsjö - Pitea - Sænska úrvalsdeildin - synsportviaplay
 DTSTART:20250810T105000
 DTEND:20250810T115000
 DTSTAMP:20250810T105000Z
 UID:2025-08-10T10:50:00/Vittsjö - Pitea
 DESCRIPTION:Vittsjö - Pitea - Sænska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vittsjö - Piteå - OBOS Damallsvenskan - viaplay
+DTSTART:20250810T105000
+DTEND:20250810T115000
+DTSTAMP:20250810T105000Z
+UID:2025-08-10T10:50:00/Vittsjö - Piteå
+DESCRIPTION:Vittsjö - Piteå - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scottish Championship - DP World Tour - synsport4
@@ -721,6 +705,14 @@ UID:2025-08-10T11:15:00/Nürburgring (Kappakstur 2)
 DESCRIPTION:Nürburgring (Kappakstur 2) - DTM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Arminia Bielefeld - 2. Bundesliga - viaplay
+DTSTART:20250810T112500
+DTEND:20250810T122500
+DTSTAMP:20250810T112500Z
+UID:2025-08-10T11:25:00/Holstein Kiel - Arminia Bielefeld
+DESCRIPTION:Holstein Kiel - Arminia Bielefeld - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bochum - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20250810T112500
 DTEND:20250810T122500
@@ -735,14 +727,6 @@ DTEND:20250810T122500
 DTSTAMP:20250810T112500Z
 UID:2025-08-10T11:25:00/Hertha Berlin - Karlsruher
 DESCRIPTION:Hertha Berlin - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Arminia Bielefeld - 2. Bundesliga - viaplay
-DTSTART:20250810T112500
-DTEND:20250810T122500
-DTSTAMP:20250810T112500Z
-UID:2025-08-10T11:25:00/Holstein Kiel - Arminia Bielefeld
-DESCRIPTION:Holstein Kiel - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PIF Championship - Ladies European Tour - viaplay
@@ -761,6 +745,14 @@ UID:2025-08-10T13:10:00/Nürburgring (Kappakstur 2)
 DESCRIPTION:Nürburgring (Kappakstur 2) - ADAC GT4 Germany
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crystal Palace - Liverpool - FA Community Shield - viaplay
+DTSTART:20250810T135000
+DTEND:20250810T145000
+DTSTAMP:20250810T135000Z
+UID:2025-08-10T13:50:00/Crystal Palace - Liverpool
+DESCRIPTION:Crystal Palace - Liverpool - FA Community Shield
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vestri - Fram - Besta deild karla - synsportisland
 DTSTART:20250810T135000
 DTEND:20250810T145000
@@ -770,14 +762,6 @@ DESCRIPTION:Vestri - Fram - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Liverpool - FA Community Shield - synsportviaplay
-DTSTART:20250810T135000
-DTEND:20250810T145000
-DTSTAMP:20250810T135000Z
-UID:2025-08-10T13:50:00/Crystal Palace - Liverpool
-DESCRIPTION:Crystal Palace - Liverpool - FA Community Shield
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crystal Palace - Liverpool - FA Community Shield - viaplay
 DTSTART:20250810T135000
 DTEND:20250810T145000
 DTSTAMP:20250810T135000Z
@@ -841,6 +825,14 @@ UID:2025-08-10T17:00:00/Florida Open
 DESCRIPTION:Florida Open - Pool
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Go Bowling at The Glen (Cup Series) - Nascar - viaplay
+DTSTART:20250810T173000
+DTEND:20250810T183000
+DTSTAMP:20250810T173000Z
+UID:2025-08-10T17:30:00/Go Bowling at The Glen (Cup Series)
+DESCRIPTION:Go Bowling at The Glen (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Go Bowling at The Glen - Keppni - Nascar Cup Series - synsportviap
  lay
 DTSTART:20250810T173000
@@ -850,12 +842,12 @@ UID:2025-08-10T17:30:00/Go Bowling at The Glen - Keppni
 DESCRIPTION:Go Bowling at The Glen - Keppni - Nascar Cup Series
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Go Bowling at The Glen (Cup Series) - Nascar - viaplay
-DTSTART:20250810T173000
-DTEND:20250810T183000
-DTSTAMP:20250810T173000Z
-UID:2025-08-10T17:30:00/Go Bowling at The Glen (Cup Series)
-DESCRIPTION:Go Bowling at The Glen (Cup Series) - Nascar
+SUMMARY:KR - ÍBV - Lengjudeildin - livey
+DTSTART:20250810T180000
+DTEND:20250810T190000
+DTSTAMP:20250810T180000Z
+UID:2025-08-10T18:00:00/KR - ÍBV
+DESCRIPTION:KR - ÍBV - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Breiðablik - Besta deild karla - synsportisland
@@ -955,20 +947,20 @@ UID:2025-08-12T17:50:00/FH - Þór/KA
 DESCRIPTION:FH - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FHL - Fram - Besta deild kvenna - synsportisland3
-DTSTART:20250812T175000
-DTEND:20250812T185000
-DTSTAMP:20250812T175000Z
-UID:2025-08-12T17:50:00/FHL - Fram
-DESCRIPTION:FHL - Fram - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Víkingur R. - Breiðablik - Besta deild kvenna - synsportisland2
 DTSTART:20250812T175000
 DTEND:20250812T185000
 DTSTAMP:20250812T175000Z
 UID:2025-08-12T17:50:00/Víkingur R. - Breiðablik
 DESCRIPTION:Víkingur R. - Breiðablik - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FHL - Fram - Besta deild kvenna - synsportisland3
+DTSTART:20250812T175000
+DTEND:20250812T185000
+DTSTAMP:20250812T175000Z
+UID:2025-08-12T17:50:00/FHL - Fram
+DESCRIPTION:FHL - Fram - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bromley - Ipswich Town - Carabao Cup - synsportviaplay
@@ -993,5 +985,61 @@ DTEND:20250812T233000
 DTSTAMP:20250812T223000Z
 UID:2025-08-12T22:30:00/Mariners - Orioles
 DESCRIPTION:Mariners - Orioles - MLB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Stjarnan - Besta deild kvenna - synsportisland
+DTSTART:20250813T175000
+DTEND:20250813T185000
+DTSTAMP:20250813T175000Z
+UID:2025-08-13T17:50:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Tottenham - UEFA Super Cup - viaplay
+DTSTART:20250813T185000
+DTEND:20250813T195000
+DTSTAMP:20250813T185000Z
+UID:2025-08-13T18:50:00/PSG - Tottenham
+DESCRIPTION:PSG - Tottenham - UEFA Super Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Tottenham - UEFA Champions League - synsportviaplay
+DTSTART:20250813T185000
+DTEND:20250813T195000
+DTSTAMP:20250813T185000Z
+UID:2025-08-13T18:50:00/PSG - Tottenham
+DESCRIPTION:PSG - Tottenham - UEFA Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Tottenham - UEFA Super Cup - synsport
+DTSTART:20250813T185000
+DTEND:20250813T195000
+DTSTAMP:20250813T185000Z
+UID:2025-08-13T18:50:00/PSG - Tottenham
+DESCRIPTION:PSG - Tottenham - UEFA Super Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birmingham - Sheffield United - Carabao Cup - viaplay
+DTSTART:20250813T185500
+DTEND:20250813T195500
+DTSTAMP:20250813T185500Z
+UID:2025-08-13T18:55:00/Birmingham - Sheffield United
+DESCRIPTION:Birmingham - Sheffield United - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Amateur - Golf - viaplay
+DTSTART:20250813T220000
+DTEND:20250813T230000
+DTSTAMP:20250813T220000Z
+UID:2025-08-13T22:00:00/U.S. Amateur
+DESCRIPTION:U.S. Amateur - Golf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braves - Mets - MLB - synsportviaplay
+DTSTART:20250813T223000
+DTEND:20250813T233000
+DTSTAMP:20250813T223000Z
+UID:2025-08-13T22:30:00/Braves - Mets
+DESCRIPTION:Braves - Mets - MLB
 END:VEVENT
 END:VCALENDAR

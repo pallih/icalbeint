@@ -10,20 +10,20 @@ UID:2025-08-08T20:00:00/Grand Prix of Portland (Æfing)
 DESCRIPTION:Grand Prix of Portland (Æfing) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NascaRace at Watkins Glen - Nascar Truck Series - synsportviaplay
-DTSTART:20250808T210000
-DTEND:20250808T220000
-DTSTAMP:20250808T210000Z
-UID:2025-08-08T21:00:00/NascaRace at Watkins Glen
-DESCRIPTION:NascaRace at Watkins Glen - Nascar Truck Series
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NCTS Race at Watkins Glen (Truck Series) - Nascar - viaplay
 DTSTART:20250808T210000
 DTEND:20250808T220000
 DTSTAMP:20250808T210000Z
 UID:2025-08-08T21:00:00/NCTS Race at Watkins Glen (Truck Series)
 DESCRIPTION:NCTS Race at Watkins Glen (Truck Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NascaRace at Watkins Glen - Nascar Truck Series - synsportviaplay
+DTSTART:20250808T210000
+DTEND:20250808T220000
+DTSTAMP:20250808T210000Z
+UID:2025-08-08T21:00:00/NascaRace at Watkins Glen
+DESCRIPTION:NascaRace at Watkins Glen - Nascar Truck Series
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar - viaplay
@@ -52,10 +52,10 @@ DESCRIPTION:Nürburgring (Kappakstur 1) - Porsche Carrera Cup Deutschland
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürburgring (Kappakstur 1) - DTM - viaplay
-DTSTART:20250809T111500
-DTEND:20250809T121500
-DTSTAMP:20250809T111500Z
-UID:2025-08-09T11:15:00/Nürburgring (Kappakstur 1)
+DTSTART:20250809T111000
+DTEND:20250809T121000
+DTSTAMP:20250809T111000Z
+UID:2025-08-09T11:10:00/Nürburgring (Kappakstur 1)
 DESCRIPTION:Nürburgring (Kappakstur 1) - DTM
 END:VEVENT
 BEGIN:VEVENT
@@ -75,6 +75,14 @@ UID:2025-08-09T16:00:00/Bitnile.com Grand Prix of Portland (Æfing)
 DESCRIPTION:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mission 200 At The Glen (Xfinity Series) - Nascar - viaplay
+DTSTART:20250809T183000
+DTEND:20250809T193000
+DTSTAMP:20250809T183000Z
+UID:2025-08-09T18:30:00/Mission 200 At The Glen (Xfinity Series)
+DESCRIPTION:Mission 200 At The Glen (Xfinity Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Tímatökur) - IndyCar - viapl
  ay
 DTSTART:20250809T183000
@@ -90,14 +98,6 @@ DTEND:20250809T195500
 DTSTAMP:20250809T185500Z
 UID:2025-08-09T18:55:00/Mission 200 by Coca-Cola
 DESCRIPTION:Mission 200 by Coca-Cola - Nascar Xfinity
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission 200 At The Glen (Xfinity Series) - Nascar - viaplay
-DTSTART:20250809T190000
-DTEND:20250809T200000
-DTSTAMP:20250809T190000Z
-UID:2025-08-09T19:00:00/Mission 200 At The Glen (Xfinity Series)
-DESCRIPTION:Mission 200 At The Glen (Xfinity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand Prix of Portland (Æfing) - Indy NXT - viaplay
@@ -165,6 +165,14 @@ UID:2025-08-10T17:00:00/Grand Prix of Portland (Kappakstur)
 DESCRIPTION:Grand Prix of Portland (Kappakstur) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Go Bowling at The Glen (Cup Series) - Nascar - viaplay
+DTSTART:20250810T173000
+DTEND:20250810T183000
+DTSTAMP:20250810T173000Z
+UID:2025-08-10T17:30:00/Go Bowling at The Glen (Cup Series)
+DESCRIPTION:Go Bowling at The Glen (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Go Bowling at The Glen - Keppni - Nascar Cup Series - synsportviap
  lay
 DTSTART:20250810T173000
@@ -172,14 +180,6 @@ DTEND:20250810T183000
 DTSTAMP:20250810T173000Z
 UID:2025-08-10T17:30:00/Go Bowling at The Glen - Keppni
 DESCRIPTION:Go Bowling at The Glen - Keppni - Nascar Cup Series
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Go Bowling at The Glen (Cup Series) - Nascar - viaplay
-DTSTART:20250810T173000
-DTEND:20250810T183000
-DTSTAMP:20250810T173000Z
-UID:2025-08-10T17:30:00/Go Bowling at The Glen (Cup Series)
-DESCRIPTION:Go Bowling at The Glen (Cup Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Kappakstur) - IndyCar - viapla
