@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Besta deild kvenna - ical
 BEGIN:VEVENT
-SUMMARY:Þróttur R. - Víkingur R. - Besta deild kvenna - synsportisland
-DTSTART:20250808T175000
-DTEND:20250808T185000
-DTSTAMP:20250808T175000Z
-UID:2025-08-08T17:50:00/Þróttur R. - Víkingur R.
-DESCRIPTION:Þróttur R. - Víkingur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FHL - FH - Besta deild kvenna - synsportisland
 DTSTART:20250809T135000
 DTEND:20250809T145000
@@ -26,6 +18,14 @@ UID:2025-08-09T16:00:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FH - Þór/KA - Besta deild kvenna - synsportisland
+DTSTART:20250812T175000
+DTEND:20250812T185000
+DTSTAMP:20250812T175000Z
+UID:2025-08-12T17:50:00/FH - Þór/KA
+DESCRIPTION:FH - Þór/KA - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Víkingur R. - Breiðablik - Besta deild kvenna - synsportisland2
 DTSTART:20250812T175000
 DTEND:20250812T185000
@@ -40,14 +40,6 @@ DTEND:20250812T185000
 DTSTAMP:20250812T175000Z
 UID:2025-08-12T17:50:00/FHL - Fram
 DESCRIPTION:FHL - Fram - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FH - Þór/KA - Besta deild kvenna - synsportisland
-DTSTART:20250812T175000
-DTEND:20250812T185000
-DTSTAMP:20250812T175000Z
-UID:2025-08-12T17:50:00/FH - Þór/KA
-DESCRIPTION:FH - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Stjarnan - Besta deild kvenna - synsportisland

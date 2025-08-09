@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:Grand Prix of Portland (Æfing) - Indy NXT - viaplay
-DTSTART:20250808T200000
-DTEND:20250808T210000
-DTSTAMP:20250808T200000Z
-UID:2025-08-08T20:00:00/Grand Prix of Portland (Æfing)
-DESCRIPTION:Grand Prix of Portland (Æfing) - Indy NXT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NascaRace at Watkins Glen - Nascar Truck Series - synsportviaplay
-DTSTART:20250808T210000
-DTEND:20250808T220000
-DTSTAMP:20250808T210000Z
-UID:2025-08-08T21:00:00/NascaRace at Watkins Glen
-DESCRIPTION:NascaRace at Watkins Glen - Nascar Truck Series
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NCTS Race at Watkins Glen (Truck Series) - Nascar - viaplay
-DTSTART:20250808T210000
-DTEND:20250808T220000
-DTSTAMP:20250808T210000Z
-UID:2025-08-08T21:00:00/NCTS Race at Watkins Glen (Truck Series)
-DESCRIPTION:NCTS Race at Watkins Glen (Truck Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar - viaplay
-DTSTART:20250808T213000
-DTEND:20250808T223000
-DTSTAMP:20250808T213000Z
-UID:2025-08-08T21:30:00/Bitnile.com Grand Prix of Portland (Æfing)
-DESCRIPTION:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürburgring (Tímatökur 1) - DTM - viaplay
 DTSTART:20250809T073000
 DTEND:20250809T083000
@@ -158,10 +126,10 @@ DESCRIPTION:Nürburgring (Kappakstur 2) - ADAC GT4 Germany
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand Prix of Portland (Kappakstur) - Indy NXT - viaplay
-DTSTART:20250810T150000
-DTEND:20250810T160000
-DTSTAMP:20250810T150000Z
-UID:2025-08-10T15:00:00/Grand Prix of Portland (Kappakstur)
+DTSTART:20250810T170000
+DTEND:20250810T180000
+DTSTAMP:20250810T170000Z
+UID:2025-08-10T17:00:00/Grand Prix of Portland (Kappakstur)
 DESCRIPTION:Grand Prix of Portland (Kappakstur) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
@@ -189,5 +157,61 @@ DTEND:20250810T200000
 DTSTAMP:20250810T190000Z
 UID:2025-08-10T19:00:00/Bitnile.com Grand Prix of Portland (Kappakstur)
 DESCRIPTION:Bitnile.com Grand Prix of Portland (Kappakstur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríski Kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
+DTSTART:20250815T065500
+DTEND:20250815T075500
+DTSTAMP:20250815T065500Z
+UID:2025-08-15T06:55:00/Austurríski Kappaksturinn (Frjáls æfing 1)
+DESCRIPTION:Austurríski Kappaksturinn (Frjáls æfing 1) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríski Kappaksturinn (Frjáls æfing 1) - Moto2 - viaplay
+DTSTART:20250815T074500
+DTEND:20250815T084500
+DTSTAMP:20250815T074500Z
+UID:2025-08-15T07:45:00/Austurríski Kappaksturinn (Frjáls æfing 1)
+DESCRIPTION:Austurríski Kappaksturinn (Frjáls æfing 1) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríski Kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
+DTSTART:20250815T083500
+DTEND:20250815T093500
+DTSTAMP:20250815T083500Z
+UID:2025-08-15T08:35:00/Austurríski Kappaksturinn (Frjáls æfing 1)
+DESCRIPTION:Austurríski Kappaksturinn (Frjáls æfing 1) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríski Kappaksturinn (Æfing) - Moto3 - viaplay
+DTSTART:20250815T111000
+DTEND:20250815T121000
+DTSTAMP:20250815T111000Z
+UID:2025-08-15T11:10:00/Austurríski Kappaksturinn (Æfing)
+DESCRIPTION:Austurríski Kappaksturinn (Æfing) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríski Kappaksturinn (Æfing) - Moto2 - viaplay
+DTSTART:20250815T120000
+DTEND:20250815T130000
+DTSTAMP:20250815T120000Z
+UID:2025-08-15T12:00:00/Austurríski Kappaksturinn (Æfing)
+DESCRIPTION:Austurríski Kappaksturinn (Æfing) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríski Kappaksturinn (Æfing) - MotoGP - viaplay
+DTSTART:20250815T125000
+DTEND:20250815T135000
+DTSTAMP:20250815T125000Z
+UID:2025-08-15T12:50:00/Austurríski Kappaksturinn (Æfing)
+DESCRIPTION:Austurríski Kappaksturinn (Æfing) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NCTS Race at Richmond (Truck Series) - Nascar - viaplay
+DTSTART:20250815T233000
+DTEND:20250816T003000
+DTSTAMP:20250815T233000Z
+UID:2025-08-15T23:30:00/NCTS Race at Richmond (Truck Series)
+DESCRIPTION:NCTS Race at Richmond (Truck Series) - Nascar
 END:VEVENT
 END:VCALENDAR
