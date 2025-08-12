@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:FH - ÍA - Besta deild karla - synsportisland
-DTSTART:20250811T190000
-DTEND:20250811T200000
-DTSTAMP:20250811T190000Z
-UID:2025-08-11T19:00:00/FH - ÍA
-DESCRIPTION:FH - ÍA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - Afturelding - Besta deild karla - synsportisland2
-DTSTART:20250811T190500
-DTEND:20250811T200500
-DTSTAMP:20250811T190500Z
-UID:2025-08-11T19:05:00/KR - Afturelding
-DESCRIPTION:KR - Afturelding - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - synsportisland
-DTSTART:20250811T212000
-DTEND:20250811T222000
-DTSTAMP:20250811T212000Z
-UID:2025-08-11T21:20:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rosengård - Hammarby - OBOS Damallsvenskan - viaplay
 DTSTART:20250812T165000
 DTEND:20250812T175000
@@ -40,6 +16,14 @@ DTEND:20250812T175000
 DTSTAMP:20250812T165000Z
 UID:2025-08-12T16:50:00/Rosengard - Hammarby
 DESCRIPTION:Rosengard - Hammarby - Sænska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - Breiðablik - Besta deild kvenna - synsportisland2
+DTSTART:20250812T175000
+DTEND:20250812T185000
+DTSTAMP:20250812T175000Z
+UID:2025-08-12T17:50:00/Víkingur R. - Breiðablik
+DESCRIPTION:Víkingur R. - Breiðablik - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FHL - Fram - Besta deild kvenna - synsportisland3
@@ -58,15 +42,7 @@ UID:2025-08-12T17:50:00/FH - Þór/KA
 DESCRIPTION:FH - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víkingur R. - Breiðablik - Besta deild kvenna - synsportisland2
-DTSTART:20250812T175000
-DTEND:20250812T185000
-DTSTAMP:20250812T175000Z
-UID:2025-08-12T17:50:00/Víkingur R. - Breiðablik
-DESCRIPTION:Víkingur R. - Breiðablik - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bromley - Ipswich Town - Carabao Cup - viaplay
+SUMMARY:Bromley - Ipswich Town - Carabao Cup - synsportviaplay
 DTSTART:20250812T185500
 DTEND:20250812T195500
 DTSTAMP:20250812T185500Z
@@ -74,7 +50,7 @@ UID:2025-08-12T18:55:00/Bromley - Ipswich Town
 DESCRIPTION:Bromley - Ipswich Town - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bromley - Ipswich Town - Carabao Cup - synsportviaplay
+SUMMARY:Bromley - Ipswich Town - Carabao Cup - viaplay
 DTSTART:20250812T185500
 DTEND:20250812T195500
 DTSTAMP:20250812T185500Z
@@ -106,20 +82,20 @@ UID:2025-08-13T18:00:00/Keflavík - Grindavík
 DESCRIPTION:Keflavík - Grindavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leiknir - Fylkir - Lengjudeildin - livey
-DTSTART:20250813T180000
-DTEND:20250813T190000
-DTSTAMP:20250813T180000Z
-UID:2025-08-13T18:00:00/Leiknir - Fylkir
-DESCRIPTION:Leiknir - Fylkir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Völsungur - Þór - Lengjudeildin - livey
 DTSTART:20250813T180000
 DTEND:20250813T190000
 DTSTAMP:20250813T180000Z
 UID:2025-08-13T18:00:00/Völsungur - Þór
 DESCRIPTION:Völsungur - Þór - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leiknir - Fylkir - Lengjudeildin - livey
+DTSTART:20250813T180000
+DTEND:20250813T190000
+DTSTAMP:20250813T180000Z
+UID:2025-08-13T18:00:00/Leiknir - Fylkir
+DESCRIPTION:Leiknir - Fylkir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Selfoss - HK - Lengjudeildin - livey
@@ -227,6 +203,14 @@ UID:2025-08-15T18:30:00/Liverpool - Bournemouth
 DESCRIPTION:Liverpool - Bournemouth - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Epsom & Ewell - South Park - FA Cup - synsportviaplay
+DTSTART:20250815T184000
+DTEND:20250815T194000
+DTSTAMP:20250815T184000Z
+UID:2025-08-15T18:40:00/Epsom & Ewell - South Park
+DESCRIPTION:Epsom & Ewell - South Park - FA Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PL Player Cam: Liverpool - Bournemouth - PL Player Cam - synsport2
 DTSTART:20250815T185500
 DTEND:20250815T195500
@@ -275,12 +259,12 @@ UID:2025-08-16T12:50:00/Kristianstad - Rosengård
 DESCRIPTION:Kristianstad - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunderland - West Ham - Premier League - synsport3
+SUMMARY:Tottenham - Burnley - Premier League - synsport2
 DTSTART:20250816T134000
 DTEND:20250816T144000
 DTSTAMP:20250816T134000Z
-UID:2025-08-16T13:40:00/Sunderland - West Ham
-DESCRIPTION:Sunderland - West Ham - Premier League
+UID:2025-08-16T13:40:00/Tottenham - Burnley
+DESCRIPTION:Tottenham - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -291,20 +275,12 @@ UID:2025-08-16T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Burnley - Premier League - synsport2
+SUMMARY:Sunderland - West Ham - Premier League - synsport3
 DTSTART:20250816T134000
 DTEND:20250816T144000
 DTSTAMP:20250816T134000Z
-UID:2025-08-16T13:40:00/Tottenham - Burnley
-DESCRIPTION:Tottenham - Burnley - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackburn - Birmingham - EFL Championship - synsportviaplay
-DTSTART:20250816T135000
-DTEND:20250816T145000
-DTSTAMP:20250816T135000Z
-UID:2025-08-16T13:50:00/Blackburn - Birmingham
-DESCRIPTION:Blackburn - Birmingham - EFL Championship
+UID:2025-08-16T13:40:00/Sunderland - West Ham
+DESCRIPTION:Sunderland - West Ham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brighton - Fulham - Premier League - synsport4
@@ -315,12 +291,28 @@ UID:2025-08-16T13:50:00/Brighton - Fulham
 DESCRIPTION:Brighton - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blackburn - Birmingham - EFL Championship - synsportviaplay
+DTSTART:20250816T135000
+DTEND:20250816T145000
+DTSTAMP:20250816T135000Z
+UID:2025-08-16T13:50:00/Blackburn - Birmingham
+DESCRIPTION:Blackburn - Birmingham - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blackburn - Birmingham - Championship - viaplay
 DTSTART:20250816T135500
 DTEND:20250816T145500
 DTSTAMP:20250816T135500Z
 UID:2025-08-16T13:55:00/Blackburn - Birmingham
 DESCRIPTION:Blackburn - Birmingham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Breiðablik - Bikarúrslit kvenna í fótbolta - ruv
+DTSTART:20250816T160000
+DTEND:20250816T170000
+DTSTAMP:20250816T160000Z
+UID:2025-08-16T16:00:00/FH - Breiðablik
+DESCRIPTION:FH - Breiðablik - Bikarúrslit kvenna í fótbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport2
@@ -339,22 +331,6 @@ UID:2025-08-16T16:20:00/Wolves - Manchester City
 DESCRIPTION:Wolves - Manchester City - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DFL Supercup - Stuttgart - Bayern München - synsportviaplay
-DTSTART:20250816T182000
-DTEND:20250816T192000
-DTSTAMP:20250816T182000Z
-UID:2025-08-16T18:20:00/DFL Supercup
-DESCRIPTION:DFL Supercup - Stuttgart - Bayern München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stuttgart - Bayern München - Franz Beckenbauer Supercup - viaplay
-DTSTART:20250816T182000
-DTEND:20250816T192000
-DTSTAMP:20250816T182000Z
-UID:2025-08-16T18:20:00/Stuttgart - Bayern München
-DESCRIPTION:Stuttgart - Bayern München - Franz Beckenbauer Supercup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stuttgart - Bayern München (Tactical Feed) - Franz Beckenbauer Su
  percup - viaplay
 DTSTART:20250816T182000
@@ -365,6 +341,22 @@ DESCRIPTION:Stuttgart - Bayern München (Tactical Feed) - Franz Beckenbaue
  r Supercup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stuttgart - Bayern München - Franz Beckenbauer Supercup - viaplay
+DTSTART:20250816T182000
+DTEND:20250816T192000
+DTSTAMP:20250816T182000Z
+UID:2025-08-16T18:20:00/Stuttgart - Bayern München
+DESCRIPTION:Stuttgart - Bayern München - Franz Beckenbauer Supercup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFL Supercup - Stuttgart - Bayern München - synsportviaplay
+DTSTART:20250816T182000
+DTEND:20250816T192000
+DTSTAMP:20250816T182000Z
+UID:2025-08-16T18:20:00/DFL Supercup
+DESCRIPTION:DFL Supercup - Stuttgart - Bayern München
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Norrköping - Linköping - OBOS Damallsvenskan - viaplay
 DTSTART:20250817T105000
 DTEND:20250817T115000
@@ -373,20 +365,20 @@ UID:2025-08-17T10:50:00/Norrköping - Linköping
 DESCRIPTION:Norrköping - Linköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Southampton - Championship - viaplay
-DTSTART:20250817T105500
-DTEND:20250817T115500
-DTSTAMP:20250817T105500Z
-UID:2025-08-17T10:55:00/Ipswich - Southampton
-DESCRIPTION:Ipswich - Southampton - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ipswich - Southampton - EFL Championship - synsportviaplay
 DTSTART:20250817T105500
 DTEND:20250817T115500
 DTSTAMP:20250817T105500Z
 UID:2025-08-17T10:55:00/Ipswich - Southampton
 DESCRIPTION:Ipswich - Southampton - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ipswich - Southampton - Championship - viaplay
+DTSTART:20250817T105500
+DTEND:20250817T115500
+DTSTAMP:20250817T105500Z
+UID:2025-08-17T10:55:00/Ipswich - Southampton
+DESCRIPTION:Ipswich - Southampton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Djurgården - Vittsjö - OBOS Damallsvenskan - viaplay
@@ -437,20 +429,20 @@ UID:2025-08-17T13:50:00/Stjarnan - Vestri
 DESCRIPTION:Stjarnan - Vestri - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍBV - Valur - Besta deild karla - synsportisland2
-DTSTART:20250817T135000
-DTEND:20250817T145000
-DTSTAMP:20250817T135000Z
-UID:2025-08-17T13:50:00/ÍBV - Valur
-DESCRIPTION:ÍBV - Valur - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Malmö FF - AIK - Sænska úrvalsdeildin - synsportviaplay
 DTSTART:20250817T135000
 DTEND:20250817T145000
 DTSTAMP:20250817T135000Z
 UID:2025-08-17T13:50:00/Malmö FF - AIK
 DESCRIPTION:Malmö FF - AIK - Sænska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍBV - Valur - Besta deild karla - synsportisland2
+DTSTART:20250817T135000
+DTEND:20250817T145000
+DTSTAMP:20250817T135000Z
+UID:2025-08-17T13:50:00/ÍBV - Valur
+DESCRIPTION:ÍBV - Valur - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manchester United - Arsenal - Premier League - synsport
@@ -461,15 +453,6 @@ UID:2025-08-17T15:00:00/Manchester United - Arsenal
 DESCRIPTION:Manchester United - Arsenal - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PL Player Cam: Manchester United - Arsenal - PL Player Cam - synsp
- ort3
-DTSTART:20250817T152500
-DTEND:20250817T162500
-DTSTAMP:20250817T152500Z
-UID:2025-08-17T15:25:00/PL Player Cam: Manchester United - Arsenal
-DESCRIPTION:PL Player Cam: Manchester United - Arsenal - PL Player Cam
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PL Data Zone: Manchester United - Arsenal - PL Data Zone - synspor
  t2
 DTSTART:20250817T152500
@@ -477,6 +460,15 @@ DTEND:20250817T162500
 DTSTAMP:20250817T152500Z
 UID:2025-08-17T15:25:00/PL Data Zone: Manchester United - Arsenal
 DESCRIPTION:PL Data Zone: Manchester United - Arsenal - PL Data Zone
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PL Player Cam: Manchester United - Arsenal - PL Player Cam - synsp
+ ort3
+DTSTART:20250817T152500
+DTEND:20250817T162500
+DTSTAMP:20250817T152500Z
+UID:2025-08-17T15:25:00/PL Player Cam: Manchester United - Arsenal
+DESCRIPTION:PL Player Cam: Manchester United - Arsenal - PL Player Cam
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afturelding - KA - Besta deild karla - synsportisland
@@ -517,5 +509,29 @@ DTEND:20250817T222000
 DTSTAMP:20250817T212000Z
 UID:2025-08-17T21:20:00/Subway Tilþrifin
 DESCRIPTION:Subway Tilþrifin - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds - Everton - Premier League - synsport
+DTSTART:20250818T184000
+DTEND:20250818T194000
+DTSTAMP:20250818T184000Z
+UID:2025-08-18T18:40:00/Leeds - Everton
+DESCRIPTION:Leeds - Everton - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - KR - Besta deild karla - synsportisland
+DTSTART:20250818T190000
+DTEND:20250818T200000
+DTSTAMP:20250818T190000Z
+UID:2025-08-18T19:00:00/Fram - KR
+DESCRIPTION:Fram - KR - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stúkan - Besta deild karla - synsportisland
+DTSTART:20250818T212500
+DTEND:20250818T222500
+DTSTAMP:20250818T212500Z
+UID:2025-08-18T21:25:00/Stúkan
+DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 END:VCALENDAR
