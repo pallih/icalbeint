@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Rosengård - Hammarby - OBOS Damallsvenskan - viaplay
-DTSTART:20250812T165000
-DTEND:20250812T175000
-DTSTAMP:20250812T165000Z
-UID:2025-08-12T16:50:00/Rosengård - Hammarby
-DESCRIPTION:Rosengård - Hammarby - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bromley - Ipswich Town - Carabao Cup - viaplay
-DTSTART:20250812T185500
-DTEND:20250812T195500
-DTSTAMP:20250812T185500Z
-UID:2025-08-12T18:55:00/Bromley - Ipswich Town
-DESCRIPTION:Bromley - Ipswich Town - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PSG - Tottenham - UEFA Super Cup - viaplay
 DTSTART:20250813T185000
 DTEND:20250813T195000
@@ -218,6 +202,14 @@ UID:2025-08-16T13:55:00/Blackburn - Birmingham
 DESCRIPTION:Blackburn - Birmingham - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stuttgart - Bayern München - Franz Beckenbauer Supercup - viaplay
+DTSTART:20250816T182000
+DTEND:20250816T192000
+DTSTAMP:20250816T182000Z
+UID:2025-08-16T18:20:00/Stuttgart - Bayern München
+DESCRIPTION:Stuttgart - Bayern München - Franz Beckenbauer Supercup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stuttgart - Bayern München (Tactical Feed) - Franz Beckenbauer Su
  percup - viaplay
 DTSTART:20250816T182000
@@ -226,14 +218,6 @@ DTSTAMP:20250816T182000Z
 UID:2025-08-16T18:20:00/Stuttgart - Bayern München (Tactical Feed)
 DESCRIPTION:Stuttgart - Bayern München (Tactical Feed) - Franz Beckenbaue
  r Supercup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stuttgart - Bayern München - Franz Beckenbauer Supercup - viaplay
-DTSTART:20250816T182000
-DTEND:20250816T192000
-DTSTAMP:20250816T182000Z
-UID:2025-08-16T18:20:00/Stuttgart - Bayern München
-DESCRIPTION:Stuttgart - Bayern München - Franz Beckenbauer Supercup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Amateur - U.S. Amateur Championship - viaplay
@@ -346,5 +330,13 @@ DTEND:20250818T000000
 DTSTAMP:20250817T230000Z
 UID:2025-08-17T23:00:00/U.S. Amateur
 DESCRIPTION:U.S. Amateur - U.S. Amateur Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walsall - Grimsby - League Two - viaplay
+DTSTART:20250819T185500
+DTEND:20250819T195500
+DTSTAMP:20250819T185500Z
+UID:2025-08-19T18:55:00/Walsall - Grimsby
+DESCRIPTION:Walsall - Grimsby - League Two
 END:VEVENT
 END:VCALENDAR
