@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Big Ben - Premier League - synsport
-DTSTART:20250821T221000
-DTEND:20250821T231000
-DTSTAMP:20250821T221000Z
-UID:2025-08-21T22:10:00/Big Ben
-DESCRIPTION:Big Ben - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Ham - Chelsea - Premier League - synsport
 DTSTART:20250822T184000
 DTEND:20250822T194000
@@ -18,20 +10,12 @@ UID:2025-08-22T18:40:00/West Ham - Chelsea
 DESCRIPTION:West Ham - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manchester City - Tottenham - Premier League - synsport
+SUMMARY:Man. City - Tottenham - Premier League - synsport
 DTSTART:20250823T111000
 DTEND:20250823T121000
 DTSTAMP:20250823T111000Z
-UID:2025-08-23T11:10:00/Manchester City - Tottenham
-DESCRIPTION:Manchester City - Tottenham - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burnley - Sunderland - Premier League - synsport4
-DTSTART:20250823T134000
-DTEND:20250823T144000
-DTSTAMP:20250823T134000Z
-UID:2025-08-23T13:40:00/Burnley - Sunderland
-DESCRIPTION:Burnley - Sunderland - Premier League
+UID:2025-08-23T11:10:00/Man. City - Tottenham
+DESCRIPTION:Man. City - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brentford - Aston Villa - Premier League - synsport3
@@ -42,6 +26,14 @@ UID:2025-08-23T13:40:00/Brentford - Aston Villa
 DESCRIPTION:Brentford - Aston Villa - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20250823T134000
+DTEND:20250823T144000
+DTSTAMP:20250823T134000Z
+UID:2025-08-23T13:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bournemouth - Wolves - Premier League - synsport2
 DTSTART:20250823T134000
 DTEND:20250823T144000
@@ -50,12 +42,12 @@ UID:2025-08-23T13:40:00/Bournemouth - Wolves
 DESCRIPTION:Bournemouth - Wolves - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
+SUMMARY:Burnley - Sunderland - Premier League - synsport4
 DTSTART:20250823T134000
 DTEND:20250823T144000
 DTSTAMP:20250823T134000Z
-UID:2025-08-23T13:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
+UID:2025-08-23T13:40:00/Burnley - Sunderland
+DESCRIPTION:Burnley - Sunderland - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport2
@@ -74,20 +66,20 @@ UID:2025-08-23T16:20:00/Arsenal - Leeds
 DESCRIPTION:Arsenal - Leeds - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Nottingham Forest - Premier League - synsport2
-DTSTART:20250824T124000
-DTEND:20250824T134000
-DTSTAMP:20250824T124000Z
-UID:2025-08-24T12:40:00/Crystal Palace - Nottingham Forest
-DESCRIPTION:Crystal Palace - Nottingham Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Everton - Brighton - Premier League - synsport
 DTSTART:20250824T124000
 DTEND:20250824T134000
 DTSTAMP:20250824T124000Z
 UID:2025-08-24T12:40:00/Everton - Brighton
 DESCRIPTION:Everton - Brighton - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Nottingham Forest - Premier League - synsport2
+DTSTART:20250824T124000
+DTEND:20250824T134000
+DTSTAMP:20250824T124000Z
+UID:2025-08-24T12:40:00/Crystal Palace - Nottingham Forest
+DESCRIPTION:Crystal Palace - Nottingham Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Man. Utd. - Premier League - synsport
@@ -120,5 +112,13 @@ DTEND:20250826T210000
 DTSTAMP:20250826T200000Z
 UID:2025-08-26T20:00:00/VARsjáin
 DESCRIPTION:VARsjáin - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Ben - Premier League - synsport
+DTSTART:20250828T221000
+DTEND:20250828T231000
+DTSTAMP:20250828T221000Z
+UID:2025-08-28T22:10:00/Big Ben
+DESCRIPTION:Big Ben - Premier League
 END:VEVENT
 END:VCALENDAR

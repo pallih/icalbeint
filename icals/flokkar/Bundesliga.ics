@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Bayern München - Leipzig - Bundesliga - viaplay
+SUMMARY:Bayern München - Leipzig (Tactical Feed) - Bundesliga - viaplay
 DTSTART:20250822T182000
 DTEND:20250822T192000
 DTSTAMP:20250822T182000Z
-UID:2025-08-22T18:20:00/Bayern München - Leipzig
-DESCRIPTION:Bayern München - Leipzig - Bundesliga
+UID:2025-08-22T18:20:00/Bayern München - Leipzig (Tactical Feed)
+DESCRIPTION:Bayern München - Leipzig (Tactical Feed) - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - RB Leipzig - Bundesliga - synsportviaplay
@@ -18,12 +18,12 @@ UID:2025-08-22T18:20:00/Bayern München - RB Leipzig
 DESCRIPTION:Bayern München - RB Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Leipzig (Tactical Feed) - Bundesliga - viaplay
+SUMMARY:Bayern München - Leipzig - Bundesliga - viaplay
 DTSTART:20250822T182000
 DTEND:20250822T192000
 DTSTAMP:20250822T182000Z
-UID:2025-08-22T18:20:00/Bayern München - Leipzig (Tactical Feed)
-DESCRIPTION:Bayern München - Leipzig (Tactical Feed) - Bundesliga
+UID:2025-08-22T18:20:00/Bayern München - Leipzig
+DESCRIPTION:Bayern München - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Hoffenheim - Bundesliga - viaplay
@@ -32,30 +32,6 @@ DTEND:20250823T142000
 DTSTAMP:20250823T132000Z
 UID:2025-08-23T13:20:00/Leverkusen - Hoffenheim
 DESCRIPTION:Leverkusen - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Stuttgart - Bundesliga - viaplay
-DTSTART:20250823T132000
-DTEND:20250823T142000
-DTSTAMP:20250823T132000Z
-UID:2025-08-23T13:20:00/Union Berlin - Stuttgart
-DESCRIPTION:Union Berlin - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankfurt - Werder Bremen - Bundesliga - viaplay
-DTSTART:20250823T132000
-DTEND:20250823T142000
-DTSTAMP:20250823T132000Z
-UID:2025-08-23T13:20:00/Frankfurt - Werder Bremen
-DESCRIPTION:Frankfurt - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Augsburg - Bundesliga - viaplay
-DTSTART:20250823T132000
-DTEND:20250823T142000
-DTSTAMP:20250823T132000Z
-UID:2025-08-23T13:20:00/Freiburg - Augsburg
-DESCRIPTION:Freiburg - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -74,12 +50,28 @@ UID:2025-08-23T13:20:00/Heidenheim - Wolfsburg
 DESCRIPTION:Heidenheim - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Dortmund - Bundesliga - synsportviaplay
-DTSTART:20250823T162000
-DTEND:20250823T172000
-DTSTAMP:20250823T162000Z
-UID:2025-08-23T16:20:00/St. Pauli - Dortmund
-DESCRIPTION:St. Pauli - Dortmund - Bundesliga
+SUMMARY:Union Berlin - Stuttgart - Bundesliga - viaplay
+DTSTART:20250823T132000
+DTEND:20250823T142000
+DTSTAMP:20250823T132000Z
+UID:2025-08-23T13:20:00/Union Berlin - Stuttgart
+DESCRIPTION:Union Berlin - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Augsburg - Bundesliga - viaplay
+DTSTART:20250823T132000
+DTEND:20250823T142000
+DTSTAMP:20250823T132000Z
+UID:2025-08-23T13:20:00/Freiburg - Augsburg
+DESCRIPTION:Freiburg - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Werder Bremen - Bundesliga - viaplay
+DTSTART:20250823T132000
+DTEND:20250823T142000
+DTSTAMP:20250823T132000Z
+UID:2025-08-23T13:20:00/Frankfurt - Werder Bremen
+DESCRIPTION:Frankfurt - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Dortmund - Bundesliga - viaplay
@@ -90,12 +82,12 @@ UID:2025-08-23T16:20:00/St. Pauli - Dortmund
 DESCRIPTION:St. Pauli - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mainz 05 - Köln - Bundesliga - synsportviaplay
-DTSTART:20250824T132000
-DTEND:20250824T142000
-DTSTAMP:20250824T132000Z
-UID:2025-08-24T13:20:00/Mainz 05 - Köln
-DESCRIPTION:Mainz 05 - Köln - Bundesliga
+SUMMARY:St. Pauli - Dortmund - Bundesliga - synsportviaplay
+DTSTART:20250823T162000
+DTEND:20250823T172000
+DTSTAMP:20250823T162000Z
+UID:2025-08-23T16:20:00/St. Pauli - Dortmund
+DESCRIPTION:St. Pauli - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mainz - Köln - Bundesliga - viaplay
@@ -104,6 +96,14 @@ DTEND:20250824T142000
 DTSTAMP:20250824T132000Z
 UID:2025-08-24T13:20:00/Mainz - Köln
 DESCRIPTION:Mainz - Köln - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mainz 05 - Köln - Bundesliga - synsportviaplay
+DTSTART:20250824T132000
+DTEND:20250824T142000
+DTSTAMP:20250824T132000Z
+UID:2025-08-24T13:20:00/Mainz 05 - Köln
+DESCRIPTION:Mainz 05 - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - HSV - Bundesliga - viaplay
