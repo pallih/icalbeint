@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Carabao Cup - ical
 BEGIN:VEVENT
-SUMMARY:Wolverhampton - West Ham - Carabao Cup - viaplay
-DTSTART:20250826T182500
-DTEND:20250826T192500
-DTSTAMP:20250826T182500Z
-UID:2025-08-26T18:25:00/Wolverhampton - West Ham
-DESCRIPTION:Wolverhampton - West Ham - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolves - West Ham - Carabao Cup - synsportviaplay
 DTSTART:20250826T182500
 DTEND:20250826T192500
 DTSTAMP:20250826T182500Z
 UID:2025-08-26T18:25:00/Wolves - West Ham
 DESCRIPTION:Wolves - West Ham - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolverhampton - West Ham - Carabao Cup - viaplay
+DTSTART:20250826T182500
+DTEND:20250826T192500
+DTSTAMP:20250826T182500Z
+UID:2025-08-26T18:25:00/Wolverhampton - West Ham
+DESCRIPTION:Wolverhampton - West Ham - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norwich - Southampton - Carabao Cup - viaplay
@@ -26,20 +26,20 @@ UID:2025-08-26T18:40:00/Norwich - Southampton
 DESCRIPTION:Norwich - Southampton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunderland - Huddersfield Town - Carabao Cup - viaplay
-DTSTART:20250826T184000
-DTEND:20250826T194000
-DTSTAMP:20250826T184000Z
-UID:2025-08-26T18:40:00/Sunderland - Huddersfield Town
-DESCRIPTION:Sunderland - Huddersfield Town - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bournemouth - Brentford - Carabao Cup - viaplay
 DTSTART:20250826T184000
 DTEND:20250826T194000
 DTSTAMP:20250826T184000Z
 UID:2025-08-26T18:40:00/Bournemouth - Brentford
 DESCRIPTION:Bournemouth - Brentford - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland - Huddersfield Town - Carabao Cup - viaplay
+DTSTART:20250826T184000
+DTEND:20250826T194000
+DTSTAMP:20250826T184000Z
+UID:2025-08-26T18:40:00/Sunderland - Huddersfield Town
+DESCRIPTION:Sunderland - Huddersfield Town - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield Wednesday - Leeds - Carabao Cup - viaplay
@@ -58,14 +58,6 @@ UID:2025-08-27T18:40:00/Everton - Mansfield
 DESCRIPTION:Everton - Mansfield - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Bristol City - Carabao Cup - viaplay
-DTSTART:20250827T184000
-DTEND:20250827T194000
-DTSTAMP:20250827T184000Z
-UID:2025-08-27T18:40:00/Fulham - Bristol City
-DESCRIPTION:Fulham - Bristol City - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Oxford - Brighton - Carabao Cup - viaplay
 DTSTART:20250827T184000
 DTEND:20250827T194000
@@ -74,12 +66,12 @@ UID:2025-08-27T18:40:00/Oxford - Brighton
 DESCRIPTION:Oxford - Brighton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grimsby Town - Manchester United - Carabao Cup - synsportviaplay
-DTSTART:20250827T185500
-DTEND:20250827T195500
-DTSTAMP:20250827T185500Z
-UID:2025-08-27T18:55:00/Grimsby Town - Manchester United
-DESCRIPTION:Grimsby Town - Manchester United - Carabao Cup
+SUMMARY:Fulham - Bristol City - Carabao Cup - viaplay
+DTSTART:20250827T184000
+DTEND:20250827T194000
+DTSTAMP:20250827T184000Z
+UID:2025-08-27T18:40:00/Fulham - Bristol City
+DESCRIPTION:Fulham - Bristol City - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grimsby - Man United - Carabao Cup - viaplay
@@ -88,5 +80,13 @@ DTEND:20250827T195500
 DTSTAMP:20250827T185500Z
 UID:2025-08-27T18:55:00/Grimsby - Man United
 DESCRIPTION:Grimsby - Man United - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grimsby Town - Manchester United - Carabao Cup - synsportviaplay
+DTSTART:20250827T185500
+DTEND:20250827T195500
+DTSTAMP:20250827T185500Z
+UID:2025-08-27T18:55:00/Grimsby Town - Manchester United
+DESCRIPTION:Grimsby Town - Manchester United - Carabao Cup
 END:VEVENT
 END:VCALENDAR
