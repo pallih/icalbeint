@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:KR - Stjarnan - Besta deild karla - synsportisland
-DTSTART:20250825T174500
-DTEND:20250825T184500
-DTSTAMP:20250825T174500Z
-UID:2025-08-25T17:45:00/KR - Stjarnan
-DESCRIPTION:KR - Stjarnan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Newcastle - Liverpool - Premier League - synsport
-DTSTART:20250825T183000
-DTEND:20250825T193000
-DTSTAMP:20250825T183000Z
-UID:2025-08-25T18:30:00/Newcastle - Liverpool
-DESCRIPTION:Newcastle - Liverpool - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Subway Tilþrifin - Besta deild karla - synsportisland
-DTSTART:20250825T200000
-DTEND:20250825T210000
-DTSTAMP:20250825T200000Z
-UID:2025-08-25T20:00:00/Subway Tilþrifin
-DESCRIPTION:Subway Tilþrifin - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Uppgjör - Besta deild kvenna - synsportisland
-DTSTART:20250825T203000
-DTEND:20250825T213000
-DTSTAMP:20250825T203000Z
-UID:2025-08-25T20:30:00/Bestu mörkin - Uppgjör
-DESCRIPTION:Bestu mörkin - Uppgjör - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kairat Almaty - Celtic - Kairat Almaty - Celtic - synsport
 DTSTART:20250826T163500
 DTEND:20250826T173500
@@ -260,14 +228,6 @@ UID:2025-08-30T12:55:00/F1: Holland - Tímataka
 DESCRIPTION:F1: Holland - Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Bournemouth - Premier League - synsport3
-DTSTART:20250830T134000
-DTEND:20250830T144000
-DTSTAMP:20250830T134000Z
-UID:2025-08-30T13:40:00/Tottenham - Bournemouth
-DESCRIPTION:Tottenham - Bournemouth - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20250830T134000
 DTEND:20250830T144000
@@ -276,12 +236,12 @@ UID:2025-08-30T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Burnley - Premier League - synsport2
+SUMMARY:Tottenham - Bournemouth - Premier League - synsport3
 DTSTART:20250830T134000
 DTEND:20250830T144000
 DTSTAMP:20250830T134000Z
-UID:2025-08-30T13:40:00/Man. Utd. - Burnley
-DESCRIPTION:Man. Utd. - Burnley - Premier League
+UID:2025-08-30T13:40:00/Tottenham - Bournemouth
+DESCRIPTION:Tottenham - Bournemouth - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Everton - Premier League - synsport4
@@ -292,12 +252,12 @@ UID:2025-08-30T13:40:00/Wolves - Everton
 DESCRIPTION:Wolves - Everton - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FHL - Stjarnan - Besta deild kvenna - synsportisland
-DTSTART:20250830T135000
-DTEND:20250830T145000
-DTSTAMP:20250830T135000Z
-UID:2025-08-30T13:50:00/FHL - Stjarnan
-DESCRIPTION:FHL - Stjarnan - Besta deild kvenna
+SUMMARY:Man. Utd. - Burnley - Premier League - synsport2
+DTSTART:20250830T134000
+DTEND:20250830T144000
+DTSTAMP:20250830T134000Z
+UID:2025-08-30T13:40:00/Man. Utd. - Burnley
+DESCRIPTION:Man. Utd. - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Brentford - Premier League - synsport5
@@ -306,6 +266,14 @@ DTEND:20250830T145000
 DTSTAMP:20250830T135000Z
 UID:2025-08-30T13:50:00/Sunderland - Brentford
 DESCRIPTION:Sunderland - Brentford - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FHL - Stjarnan - Besta deild kvenna - synsportisland
+DTSTART:20250830T135000
+DTEND:20250830T145000
+DTSTAMP:20250830T135000Z
+UID:2025-08-30T13:50:00/FHL - Stjarnan
+DESCRIPTION:FHL - Stjarnan - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Millwall - Wrexham - EFL Championship - synsportviaplay
@@ -412,20 +380,20 @@ UID:2025-08-31T12:40:00/Brighton - Man. City
 DESCRIPTION:Brighton - Man. City - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vestri - KR - Besta deild karla - synsportisland2
-DTSTART:20250831T135000
-DTEND:20250831T145000
-DTSTAMP:20250831T135000Z
-UID:2025-08-31T13:50:00/Vestri - KR
-DESCRIPTION:Vestri - KR - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - ÍA - Besta deild karla - synsportisland3
 DTSTART:20250831T135000
 DTEND:20250831T145000
 DTSTAMP:20250831T135000Z
 UID:2025-08-31T13:50:00/ÍBV - ÍA
 DESCRIPTION:ÍBV - ÍA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vestri - KR - Besta deild karla - synsportisland2
+DTSTART:20250831T135000
+DTEND:20250831T145000
+DTSTAMP:20250831T135000Z
+UID:2025-08-31T13:50:00/Vestri - KR
+DESCRIPTION:Vestri - KR - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afturelding - FH - Besta deild karla - synsportisland
@@ -452,20 +420,20 @@ UID:2025-08-31T15:20:00/Dortmund - Union Berlin
 DESCRIPTION:Dortmund - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PL Data Zone: Liverpool - Arsenal - PL Data Zone - synsport2
-DTSTART:20250831T152500
-DTEND:20250831T162500
-DTSTAMP:20250831T152500Z
-UID:2025-08-31T15:25:00/PL Data Zone: Liverpool - Arsenal
-DESCRIPTION:PL Data Zone: Liverpool - Arsenal - PL Data Zone
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PL Player Cam: Liverpool - Arsenal - PL Player Cam - synsport3
 DTSTART:20250831T152500
 DTEND:20250831T162500
 DTSTAMP:20250831T152500Z
 UID:2025-08-31T15:25:00/PL Player Cam: Liverpool - Arsenal
 DESCRIPTION:PL Player Cam: Liverpool - Arsenal - PL Player Cam
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PL Data Zone: Liverpool - Arsenal - PL Data Zone - synsport2
+DTSTART:20250831T152500
+DTEND:20250831T162500
+DTSTAMP:20250831T152500Z
+UID:2025-08-31T15:25:00/PL Data Zone: Liverpool - Arsenal
+DESCRIPTION:PL Data Zone: Liverpool - Arsenal - PL Data Zone
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - KA - Besta deild karla - synsportisland
@@ -530,5 +498,13 @@ DTEND:20250831T223000
 DTSTAMP:20250831T213000Z
 UID:2025-08-31T21:30:00/Cook Out Southern 500 - Race
 DESCRIPTION:Cook Out Southern 500 - Race - Nascar Cup Series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stúkan - Besta deild karla - synsportisland
+DTSTART:20250901T212500
+DTEND:20250901T222500
+DTSTAMP:20250901T212500Z
+UID:2025-09-01T21:25:00/Stúkan
+DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 END:VCALENDAR

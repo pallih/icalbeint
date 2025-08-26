@@ -34,20 +34,20 @@ UID:2025-08-30T10:55:00/Braunschweig - Arminia Bielefeld
 DESCRIPTION:Braunschweig - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20250830T105500
-DTEND:20250830T115500
-DTSTAMP:20250830T105500Z
-UID:2025-08-30T10:55:00/Bochum - Preußen Münster
-DESCRIPTION:Bochum - Preußen Münster - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Hannover - 2. Bundesliga - viaplay
 DTSTART:20250830T105500
 DTEND:20250830T115500
 DTSTAMP:20250830T105500Z
 UID:2025-08-30T10:55:00/Holstein Kiel - Hannover
 DESCRIPTION:Holstein Kiel - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum - Preußen Münster - 2. Bundesliga - viaplay
+DTSTART:20250830T105500
+DTEND:20250830T115500
+DTSTAMP:20250830T105500Z
+UID:2025-08-30T10:55:00/Bochum - Preußen Münster
+DESCRIPTION:Bochum - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Düsseldorf - Karlsruher - 2. Bundesliga - viaplay
@@ -66,14 +66,6 @@ UID:2025-08-30T18:30:00/Düsseldorf - Karlsruher SC
 DESCRIPTION:Düsseldorf - Karlsruher SC - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20250831T112500
-DTEND:20250831T122500
-DTSTAMP:20250831T112500Z
-UID:2025-08-31T11:25:00/Kaiserslautern - Darmstadt
-DESCRIPTION:Kaiserslautern - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20250831T112500
 DTEND:20250831T122500
@@ -88,5 +80,13 @@ DTEND:20250831T122500
 DTSTAMP:20250831T112500Z
 UID:2025-08-31T11:25:00/Dynamo Dresden - Schalke
 DESCRIPTION:Dynamo Dresden - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20250831T112500
+DTEND:20250831T122500
+DTSTAMP:20250831T112500Z
+UID:2025-08-31T11:25:00/Kaiserslautern - Darmstadt
+DESCRIPTION:Kaiserslautern - Darmstadt - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
