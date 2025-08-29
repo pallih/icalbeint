@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Lengjudeildin - ical
 BEGIN:VEVENT
-SUMMARY:ÍBV - ÍA - Lengjudeildin - livey
-DTSTART:20250828T180000
-DTEND:20250828T190000
-DTSTAMP:20250828T180000Z
-UID:2025-08-28T18:00:00/ÍBV - ÍA
-DESCRIPTION:ÍBV - ÍA - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HK - Fylkir - Lengjudeildin - livey
-DTSTART:20250828T180000
-DTEND:20250828T190000
-DTSTAMP:20250828T180000Z
-UID:2025-08-28T18:00:00/HK - Fylkir
-DESCRIPTION:HK - Fylkir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - Haukar - Lengjudeildin - livey
-DTSTART:20250828T180000
-DTEND:20250828T190000
-DTSTAMP:20250828T180000Z
-UID:2025-08-28T18:00:00/KR - Haukar
-DESCRIPTION:KR - Haukar - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afturelding - Grótta - Lengjudeildin - livey
-DTSTART:20250828T180000
-DTEND:20250828T190000
-DTSTAMP:20250828T180000Z
-UID:2025-08-28T18:00:00/Afturelding - Grótta
-DESCRIPTION:Afturelding - Grótta - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Keflavík - Lengjudeildin - livey
+SUMMARY:Njarðvík - Leiknir - Lengjudeildin - livey
 DTSTART:20250829T180000
 DTEND:20250829T190000
 DTSTAMP:20250829T180000Z
-UID:2025-08-29T18:00:00/ÍR - Keflavík
-DESCRIPTION:ÍR - Keflavík - Lengjudeildin
+UID:2025-08-29T18:00:00/Njarðvík - Leiknir
+DESCRIPTION:Njarðvík - Leiknir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fjölnir - Þróttur - Lengjudeildin - livey
@@ -50,12 +18,12 @@ UID:2025-08-29T18:00:00/Fjölnir - Þróttur
 DESCRIPTION:Fjölnir - Þróttur - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Leiknir - Lengjudeildin - livey
+SUMMARY:ÍR - Keflavík - Lengjudeildin - livey
 DTSTART:20250829T180000
 DTEND:20250829T190000
 DTSTAMP:20250829T180000Z
-UID:2025-08-29T18:00:00/Njarðvík - Leiknir
-DESCRIPTION:Njarðvík - Leiknir - Lengjudeildin
+UID:2025-08-29T18:00:00/ÍR - Keflavík
+DESCRIPTION:ÍR - Keflavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - Fylkir - Lengjudeildin - livey
@@ -74,19 +42,19 @@ UID:2025-08-30T14:00:00/Völsungur - Grindavík
 DESCRIPTION:Völsungur - Grindavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - Grindavík / Njarðvík - Lengjudeildin - livey
-DTSTART:20250830T160000
-DTEND:20250830T170000
-DTSTAMP:20250830T160000Z
-UID:2025-08-30T16:00:00/Keflavík - Grindavík / Njarðvík
-DESCRIPTION:Keflavík - Grindavík / Njarðvík - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Selfoss - Þór - Lengjudeildin - livey
 DTSTART:20250830T160000
 DTEND:20250830T170000
 DTSTAMP:20250830T160000Z
 UID:2025-08-30T16:00:00/Selfoss - Þór
 DESCRIPTION:Selfoss - Þór - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keflavík - Grindavík / Njarðvík - Lengjudeildin - livey
+DTSTART:20250830T160000
+DTEND:20250830T170000
+DTSTAMP:20250830T160000Z
+UID:2025-08-30T16:00:00/Keflavík - Grindavík / Njarðvík
+DESCRIPTION:Keflavík - Grindavík / Njarðvík - Lengjudeildin
 END:VEVENT
 END:VCALENDAR
