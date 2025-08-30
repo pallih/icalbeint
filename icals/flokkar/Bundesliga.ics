@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Melsungen - Rhein-Neckar Löwen - Bundesliga - viaplay
-DTSTART:20250829T165500
-DTEND:20250829T175500
-DTSTAMP:20250829T165500Z
-UID:2025-08-29T16:55:00/Melsungen - Rhein-Neckar Löwen
-DESCRIPTION:Melsungen - Rhein-Neckar Löwen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HSV - St. Pauli - Bundesliga - viaplay
-DTSTART:20250829T182000
-DTEND:20250829T192000
-DTSTAMP:20250829T182000Z
-UID:2025-08-29T18:20:00/HSV - St. Pauli
-DESCRIPTION:HSV - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Werder Bremen - Leverkusen - Bundesliga - viaplay
 DTSTART:20250830T132000
 DTEND:20250830T142000
 DTSTAMP:20250830T132000Z
 UID:2025-08-30T13:20:00/Werder Bremen - Leverkusen
 DESCRIPTION:Werder Bremen - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stuttgart - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20250830T132000
-DTEND:20250830T142000
-DTSTAMP:20250830T132000Z
-UID:2025-08-30T13:20:00/Stuttgart - Mönchengladbach
-DESCRIPTION:Stuttgart - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -50,6 +26,14 @@ UID:2025-08-30T13:20:00/Hoffenheim - Frankfurt
 DESCRIPTION:Hoffenheim - Frankfurt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stuttgart - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20250830T132000
+DTEND:20250830T142000
+DTSTAMP:20250830T132000Z
+UID:2025-08-30T13:20:00/Stuttgart - Mönchengladbach
+DESCRIPTION:Stuttgart - Mönchengladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leipzig - Heidenheim - Bundesliga - viaplay
 DTSTART:20250830T132000
 DTEND:20250830T142000
@@ -58,7 +42,7 @@ UID:2025-08-30T13:20:00/Leipzig - Heidenheim
 DESCRIPTION:Leipzig - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Bayern München - Bundesliga - synsportviaplay
+SUMMARY:Augsburg - Bayern München - Bundesliga - viaplay
 DTSTART:20250830T162000
 DTEND:20250830T172000
 DTSTAMP:20250830T162000Z
@@ -66,7 +50,7 @@ UID:2025-08-30T16:20:00/Augsburg - Bayern München
 DESCRIPTION:Augsburg - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Bayern München - Bundesliga - viaplay
+SUMMARY:Augsburg - Bayern München - Bundesliga - synsportviaplay
 DTSTART:20250830T162000
 DTEND:20250830T172000
 DTSTAMP:20250830T162000Z
