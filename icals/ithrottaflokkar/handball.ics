@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Füchse Berlin - Bergischer - Bundesliga - viaplay
-DTSTART:20250831T125500
-DTEND:20250831T135500
-DTSTAMP:20250831T125500Z
-UID:2025-08-31T12:55:00/Füchse Berlin - Bergischer
-DESCRIPTION:Füchse Berlin - Bergischer - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Handboltahöllin - Olís deildin - sjonvarpsimans
 DTSTART:20250901T201000
 DTEND:20250901T211000
@@ -26,20 +18,20 @@ UID:2025-09-02T16:50:00/Handboltahöllin
 DESCRIPTION:Handboltahöllin - Olís deildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Eisenach - Bundesliga handbolti - synsportviaplay
-DTSTART:20250903T175500
-DTEND:20250903T185500
-DTSTAMP:20250903T175500Z
-UID:2025-09-03T17:55:00/Magdeburg - Eisenach
-DESCRIPTION:Magdeburg - Eisenach - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg  - Eisenach - Bundesliga - viaplay
 DTSTART:20250903T175500
 DTEND:20250903T185500
 DTSTAMP:20250903T175500Z
 UID:2025-09-03T17:55:00/Magdeburg  - Eisenach
 DESCRIPTION:Magdeburg  - Eisenach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Eisenach - Bundesliga handbolti - synsportviaplay
+DTSTART:20250903T175500
+DTEND:20250903T185500
+DTSTAMP:20250903T175500Z
+UID:2025-09-03T17:55:00/Magdeburg - Eisenach
+DESCRIPTION:Magdeburg - Eisenach - Bundesliga handbolti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Valur - Olís deild karla - hsi1
@@ -104,5 +96,13 @@ DTEND:20250906T170000
 DTSTAMP:20250906T160000Z
 UID:2025-09-06T16:00:00/Selfoss - KA
 DESCRIPTION:Selfoss - KA - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV Hamburg - Rhein-Neckar Löwen - Bundesliga - viaplay
+DTSTART:20250907T155500
+DTEND:20250907T165500
+DTSTAMP:20250907T155500Z
+UID:2025-09-07T15:55:00/HSV Hamburg - Rhein-Neckar Löwen
+DESCRIPTION:HSV Hamburg - Rhein-Neckar Löwen - Bundesliga
 END:VEVENT
 END:VCALENDAR
