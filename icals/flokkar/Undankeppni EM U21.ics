@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Undankeppni EM U21 - ical
 BEGIN:VEVENT
-SUMMARY:Ísland U21 - Færeyjar U21 - Undankeppni EM U21 - synsport
+SUMMARY:Ísland - Færeyjar - Undankeppni EM U21 - synsport
 DTSTART:20250904T165000
 DTEND:20250904T175000
 DTSTAMP:20250904T165000Z
-UID:2025-09-04T16:50:00/Ísland U21 - Færeyjar U21
-DESCRIPTION:Ísland U21 - Færeyjar U21 - Undankeppni EM U21
+UID:2025-09-04T16:50:00/Ísland - Færeyjar
+DESCRIPTION:Ísland - Færeyjar - Undankeppni EM U21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eistland - Ísland - Undankeppni EM U21 - synsport
+DTSTART:20250908T155000
+DTEND:20250908T165000
+DTSTAMP:20250908T155000Z
+UID:2025-09-08T15:50:00/Eistland - Ísland
+DESCRIPTION:Eistland - Ísland - Undankeppni EM U21
 END:VEVENT
 END:VCALENDAR

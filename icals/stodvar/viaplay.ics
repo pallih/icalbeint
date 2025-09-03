@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
 SUMMARY:Madrid P1 - Premier Padel - viaplay
-DTSTART:20250902T070000
-DTEND:20250902T080000
-DTSTAMP:20250902T070000Z
-UID:2025-09-02T07:00:00/Madrid P1
-DESCRIPTION:Madrid P1 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Madrid P1 - Premier Padel - viaplay
-DTSTART:20250902T150000
-DTEND:20250902T160000
-DTSTAMP:20250902T150000Z
-UID:2025-09-02T15:00:00/Madrid P1
-DESCRIPTION:Madrid P1 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Madrid P1 - Premier Padel - viaplay
 DTSTART:20250903T070000
 DTEND:20250903T080000
 DTSTAMP:20250903T070000Z
@@ -82,6 +66,14 @@ UID:2025-09-04T15:50:00/Gíbraltar - Albanía
 DESCRIPTION:Gíbraltar - Albanía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Georgía - Tyrkland - Undankeppni HM - viaplay
+DTSTART:20250904T155000
+DTEND:20250904T165000
+DTSTAMP:20250904T155000Z
+UID:2025-09-04T15:50:00/Georgía - Tyrkland
+DESCRIPTION:Georgía - Tyrkland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Litháen - Malta - Undankeppni HM - viaplay
 DTSTART:20250904T155000
 DTEND:20250904T165000
@@ -98,14 +90,6 @@ UID:2025-09-04T15:50:00/Noregur - Finnland
 DESCRIPTION:Noregur - Finnland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgía - Tyrkland - Undankeppni HM - viaplay
-DTSTART:20250904T155000
-DTEND:20250904T165000
-DTSTAMP:20250904T155000Z
-UID:2025-09-04T15:50:00/Georgía - Tyrkland
-DESCRIPTION:Georgía - Tyrkland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gummersbach - Melsungen - Bundesliga - viaplay
 DTSTART:20250904T165500
 DTEND:20250904T175500
@@ -114,12 +98,20 @@ UID:2025-09-04T16:55:00/Gummersbach - Melsungen
 DESCRIPTION:Gummersbach - Melsungen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Búlgaría - Spánn - Undankeppni HM - viaplay
+SUMMARY:Slóvakía - Þýskaland - Undankeppni HM - viaplay
 DTSTART:20250904T183500
 DTEND:20250904T193500
 DTSTAMP:20250904T183500Z
-UID:2025-09-04T18:35:00/Búlgaría - Spánn
-DESCRIPTION:Búlgaría - Spánn - Undankeppni HM
+UID:2025-09-04T18:35:00/Slóvakía - Þýskaland
+DESCRIPTION:Slóvakía - Þýskaland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Pólland - Undankeppni HM - viaplay
+DTSTART:20250904T183500
+DTEND:20250904T193500
+DTSTAMP:20250904T183500Z
+UID:2025-09-04T18:35:00/Holland - Pólland
+DESCRIPTION:Holland - Pólland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lúxemborg - Norður-Írland - Undankeppni HM - viaplay
@@ -138,20 +130,12 @@ UID:2025-09-04T18:35:00/Liechtenstein - Belgía
 DESCRIPTION:Liechtenstein - Belgía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slóvakía - Þýskaland - Undankeppni HM - viaplay
+SUMMARY:Búlgaría - Spánn - Undankeppni HM - viaplay
 DTSTART:20250904T183500
 DTEND:20250904T193500
 DTSTAMP:20250904T183500Z
-UID:2025-09-04T18:35:00/Slóvakía - Þýskaland
-DESCRIPTION:Slóvakía - Þýskaland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holland - Pólland - Undankeppni HM - viaplay
-DTSTART:20250904T183500
-DTEND:20250904T193500
-DTSTAMP:20250904T183500Z
-UID:2025-09-04T18:35:00/Holland - Pólland
-DESCRIPTION:Holland - Pólland - Undankeppni HM
+UID:2025-09-04T18:35:00/Búlgaría - Spánn
+DESCRIPTION:Búlgaría - Spánn - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
@@ -210,20 +194,20 @@ UID:2025-09-05T11:25:00/Ítalíukappaksturinn (Æfing 1)
 DESCRIPTION:Ítalíukappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250905T113000
-DTEND:20250905T123000
-DTSTAMP:20250905T113000Z
-UID:2025-09-05T11:30:00/Timing (Æfing 1 | Monza Kappaksturinn)
-DESCRIPTION:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250905T113000
 DTEND:20250905T123000
 DTSTAMP:20250905T113000Z
 UID:2025-09-05T11:30:00/Onboard (Æfing 1 | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 1 | Monza Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250905T113000
+DTEND:20250905T123000
+DTSTAMP:20250905T113000Z
+UID:2025-09-05T11:30:00/Timing (Æfing 1 | Monza Kappaksturinn)
+DESCRIPTION:Timing (Æfing 1 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Monza Kappaksturinn) - Formula 1 - v
@@ -292,6 +276,14 @@ UID:2025-09-05T14:55:00/Ítalíukappaksturinn (Æfing 2)
 DESCRIPTION:Ítalíukappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fréttamannafundur - UFC - viaplay
+DTSTART:20250905T150000
+DTEND:20250905T160000
+DTSTAMP:20250905T150000Z
+UID:2025-09-05T15:00:00/Fréttamannafundur
+DESCRIPTION:Fréttamannafundur - UFC
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Madrid P1 - Premier Padel - viaplay
 DTSTART:20250905T150000
 DTEND:20250905T160000
@@ -300,12 +292,12 @@ UID:2025-09-05T15:00:00/Madrid P1
 DESCRIPTION:Madrid P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250905T150000
 DTEND:20250905T160000
 DTSTAMP:20250905T150000Z
-UID:2025-09-05T15:00:00/Onboard (Æfing 2 | Monza Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Monza Kappaksturinn) - Formula 1
+UID:2025-09-05T15:00:00/Pitlane (Æfing 2 | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 2 | Monza Kappaksturinn) - Formula 1 - v
@@ -317,12 +309,12 @@ UID:2025-09-05T15:00:00/Track Positioning (Æfing 2 | Monza Kappaksturinn)
 DESCRIPTION:Track Positioning (Æfing 2 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Onboard (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250905T150000
 DTEND:20250905T160000
 DTSTAMP:20250905T150000Z
-UID:2025-09-05T15:00:00/Pitlane (Æfing 2 | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Monza Kappaksturinn) - Formula 1
+UID:2025-09-05T15:00:00/Onboard (Æfing 2 | Monza Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 2 | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -339,6 +331,14 @@ DTEND:20250905T165000
 DTSTAMP:20250905T155000Z
 UID:2025-09-05T15:50:00/Vittsjö - Rosengård
 DESCRIPTION:Vittsjö - Rosengård - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vigtuninni - UFC - viaplay
+DTSTART:20250905T160000
+DTEND:20250905T170000
+DTSTAMP:20250905T160000Z
+UID:2025-09-05T16:00:00/Vigtuninni
+DESCRIPTION:Vigtuninni - UFC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Essen - Frauen-Bundesliga - viaplay
@@ -365,20 +365,20 @@ UID:2025-09-05T17:50:00/Rúmenía - Kanada
 DESCRIPTION:Rúmenía - Kanada - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ísland - Aserbaísjan - Undankeppni HM - viaplay
-DTSTART:20250905T180000
-DTEND:20250905T190000
-DTSTAMP:20250905T180000Z
-UID:2025-09-05T18:00:00/Ísland - Aserbaísjan
-DESCRIPTION:Ísland - Aserbaísjan - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aramco Houston Championship - Ladies European Tour - viaplay
 DTSTART:20250905T180000
 DTEND:20250905T190000
 DTSTAMP:20250905T180000Z
 UID:2025-09-05T18:00:00/Aramco Houston Championship
 DESCRIPTION:Aramco Houston Championship - Ladies European Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísland - Aserbaísjan - Undankeppni HM - viaplay
+DTSTART:20250905T180000
+DTEND:20250905T190000
+DTSTAMP:20250905T180000Z
+UID:2025-09-05T18:00:00/Ísland - Aserbaísjan
+DESCRIPTION:Ísland - Aserbaísjan - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
@@ -397,28 +397,28 @@ UID:2025-09-05T18:35:00/Slóvenía - Svíþjóð
 DESCRIPTION:Slóvenía - Svíþjóð - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sviss - Kósovó - Undankeppni HM - viaplay
+SUMMARY:Danmörk - Skotland - Undankeppni HM - viaplay
 DTSTART:20250905T183500
 DTEND:20250905T193500
 DTSTAMP:20250905T183500Z
-UID:2025-09-05T18:35:00/Sviss - Kósovó
-DESCRIPTION:Sviss - Kósovó - Undankeppni HM
+UID:2025-09-05T18:35:00/Danmörk - Skotland
+DESCRIPTION:Danmörk - Skotland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Færeyjar - Króatía - Undankeppni HM - viaplay
+SUMMARY:Úkraína - Frakkland - Undankeppni HM - viaplay
 DTSTART:20250905T183500
 DTEND:20250905T193500
 DTSTAMP:20250905T183500Z
-UID:2025-09-05T18:35:00/Færeyjar - Króatía
-DESCRIPTION:Færeyjar - Króatía - Undankeppni HM
+UID:2025-09-05T18:35:00/Úkraína - Frakkland
+DESCRIPTION:Úkraína - Frakkland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grikkland - Hvíta-Rússland - Undankeppni HM - viaplay
+SUMMARY:Ítalía - Eistland - Undankeppni HM - viaplay
 DTSTART:20250905T183500
 DTEND:20250905T193500
 DTSTAMP:20250905T183500Z
-UID:2025-09-05T18:35:00/Grikkland - Hvíta-Rússland
-DESCRIPTION:Grikkland - Hvíta-Rússland - Undankeppni HM
+UID:2025-09-05T18:35:00/Ítalía - Eistland
+DESCRIPTION:Ítalía - Eistland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moldóva - Ísrael - Undankeppni HM - viaplay
@@ -437,28 +437,28 @@ UID:2025-09-05T18:35:00/Svartfjallaland - Tékkland
 DESCRIPTION:Svartfjallaland - Tékkland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Danmörk - Skotland - Undankeppni HM - viaplay
+SUMMARY:Færeyjar - Króatía - Undankeppni HM - viaplay
 DTSTART:20250905T183500
 DTEND:20250905T193500
 DTSTAMP:20250905T183500Z
-UID:2025-09-05T18:35:00/Danmörk - Skotland
-DESCRIPTION:Danmörk - Skotland - Undankeppni HM
+UID:2025-09-05T18:35:00/Færeyjar - Króatía
+DESCRIPTION:Færeyjar - Króatía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ítalía - Eistland - Undankeppni HM - viaplay
+SUMMARY:Grikkland - Hvíta-Rússland - Undankeppni HM - viaplay
 DTSTART:20250905T183500
 DTEND:20250905T193500
 DTSTAMP:20250905T183500Z
-UID:2025-09-05T18:35:00/Ítalía - Eistland
-DESCRIPTION:Ítalía - Eistland - Undankeppni HM
+UID:2025-09-05T18:35:00/Grikkland - Hvíta-Rússland
+DESCRIPTION:Grikkland - Hvíta-Rússland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Úkraína - Frakkland - Undankeppni HM - viaplay
+SUMMARY:Sviss - Kósovó - Undankeppni HM - viaplay
 DTSTART:20250905T183500
 DTEND:20250905T193500
 DTSTAMP:20250905T183500Z
-UID:2025-09-05T18:35:00/Úkraína - Frakkland
-DESCRIPTION:Úkraína - Frakkland - Undankeppni HM
+UID:2025-09-05T18:35:00/Sviss - Kósovó
+DESCRIPTION:Sviss - Kósovó - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
@@ -525,12 +525,12 @@ UID:2025-09-06T10:25:00/Ítalíukappaksturinn (Æfing 3)
 DESCRIPTION:Ítalíukappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250906T103000
 DTEND:20250906T113000
 DTSTAMP:20250906T103000Z
-UID:2025-09-06T10:30:00/Pitlane (Æfing 3 | Monza Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1
+UID:2025-09-06T10:30:00/Timing (Æfing 3 | Monza Kappaksturinn)
+DESCRIPTION:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Practice 3 | Italian Grand Prix) - Formula 1 - 
@@ -552,12 +552,12 @@ UID:2025-09-06T10:30:00/Onboard (Æfing 3 | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250906T103000
 DTEND:20250906T113000
 DTSTAMP:20250906T103000Z
-UID:2025-09-06T10:30:00/Timing (Æfing 3 | Monza Kappaksturinn)
-DESCRIPTION:Timing (Æfing 3 | Monza Kappaksturinn) - Formula 1
+UID:2025-09-06T10:30:00/Pitlane (Æfing 3 | Monza Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Bull Ring (Kappakstur 1) - Formula Regional European Champions
@@ -691,20 +691,20 @@ UID:2025-09-06T13:55:00/Ítalíukappaksturinn (Tímatökur)
 DESCRIPTION:Ítalíukappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
-DTSTART:20250906T140000
-DTEND:20250906T150000
-DTSTAMP:20250906T140000Z
-UID:2025-09-06T14:00:00/Timing (Tímatökur | Monza Kappaksturinn)
-DESCRIPTION:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
 DTSTART:20250906T140000
 DTEND:20250906T150000
 DTSTAMP:20250906T140000Z
 UID:2025-09-06T14:00:00/Onboard (Tímatökur | Monza Kappaksturinn)
 DESCRIPTION:Onboard (Tímatökur | Monza Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20250906T140000
+DTEND:20250906T150000
+DTSTAMP:20250906T140000Z
+UID:2025-09-06T14:00:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formula 1 
@@ -716,6 +716,14 @@ UID:2025-09-06T14:00:00/Track Positioning (Tímatökur | Monza Kappaksturi
  nn)
 DESCRIPTION:Track Positioning (Tímatökur | Monza Kappaksturinn) - Formul
  a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
+DTSTART:20250906T140000
+DTEND:20250906T150000
+DTSTAMP:20250906T140000Z
+UID:2025-09-06T14:00:00/Timing (Tímatökur | Monza Kappaksturinn)
+DESCRIPTION:Timing (Tímatökur | Monza Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Monza Kappaksturinn) - Formula 1 - viaplay
@@ -734,14 +742,6 @@ UID:2025-09-06T15:40:00/Bayern München - Leverkusen
 DESCRIPTION:Bayern München - Leverkusen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:England - Andorra - Undankeppni HM - viaplay
-DTSTART:20250906T155000
-DTEND:20250906T165000
-DTSTAMP:20250906T155000Z
-UID:2025-09-06T15:50:00/England - Andorra
-DESCRIPTION:England - Andorra - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Armenía - Portúgal - Undankeppni HM - viaplay
 DTSTART:20250906T155000
 DTEND:20250906T165000
@@ -750,11 +750,19 @@ UID:2025-09-06T15:50:00/Armenía - Portúgal
 DESCRIPTION:Armenía - Portúgal - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:England - Andorra - Undankeppni HM - viaplay
+DTSTART:20250906T155000
+DTEND:20250906T165000
+DTSTAMP:20250906T155000Z
+UID:2025-09-06T15:50:00/England - Andorra
+DESCRIPTION:England - Andorra - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bromley - Gillingham - League Two - viaplay
-DTSTART:20250906T162000
-DTEND:20250906T172000
-DTSTAMP:20250906T162000Z
-UID:2025-09-06T16:20:00/Bromley - Gillingham
+DTSTART:20250906T162500
+DTEND:20250906T172500
+DTSTAMP:20250906T162500Z
+UID:2025-09-06T16:25:00/Bromley - Gillingham
 DESCRIPTION:Bromley - Gillingham - League Two
 END:VEVENT
 BEGIN:VEVENT
@@ -767,10 +775,10 @@ DESCRIPTION:Czech Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aramco Houston Championship - Ladies European Tour - viaplay
-DTSTART:20250906T180000
-DTEND:20250906T190000
-DTSTAMP:20250906T180000Z
-UID:2025-09-06T18:00:00/Aramco Houston Championship
+DTSTART:20250906T170000
+DTEND:20250906T180000
+DTSTAMP:20250906T170000Z
+UID:2025-09-06T17:00:00/Aramco Houston Championship
 DESCRIPTION:Aramco Houston Championship - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
@@ -782,20 +790,20 @@ UID:2025-09-06T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Írland - Ungverjaland - Undankeppni HM - viaplay
-DTSTART:20250906T183500
-DTEND:20250906T193500
-DTSTAMP:20250906T183500Z
-UID:2025-09-06T18:35:00/Írland - Ungverjaland
-DESCRIPTION:Írland - Ungverjaland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Marínó - Bosnía og Hersegóvína - Undankeppni HM - viaplay
 DTSTART:20250906T183500
 DTEND:20250906T193500
 DTSTAMP:20250906T183500Z
 UID:2025-09-06T18:35:00/San Marínó - Bosnía og Hersegóvína
 DESCRIPTION:San Marínó - Bosnía og Hersegóvína - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Írland - Ungverjaland - Undankeppni HM - viaplay
+DTSTART:20250906T183500
+DTEND:20250906T193500
+DTSTAMP:20250906T183500Z
+UID:2025-09-06T18:35:00/Írland - Ungverjaland
+DESCRIPTION:Írland - Ungverjaland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austurríki - Kýpur - Undankeppni HM - viaplay
@@ -1004,14 +1012,6 @@ UID:2025-09-07T15:25:00/Lyon - Marseille
 DESCRIPTION:Lyon - Marseille - Première Ligue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Litháen - Holland - Undankeppni HM - viaplay
-DTSTART:20250907T155000
-DTEND:20250907T165000
-DTSTAMP:20250907T155000Z
-UID:2025-09-07T15:50:00/Litháen - Holland
-DESCRIPTION:Litháen - Holland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Norður-Makedónía - Liechtenstein - Undankeppni HM - viaplay
 DTSTART:20250907T155000
 DTEND:20250907T165000
@@ -1020,20 +1020,20 @@ UID:2025-09-07T15:50:00/Norður-Makedónía - Liechtenstein
 DESCRIPTION:Norður-Makedónía - Liechtenstein - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Litháen - Holland - Undankeppni HM - viaplay
+DTSTART:20250907T155000
+DTEND:20250907T165000
+DTSTAMP:20250907T155000Z
+UID:2025-09-07T15:50:00/Litháen - Holland
+DESCRIPTION:Litháen - Holland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HSV Hamburg - Rhein-Neckar Löwen - Bundesliga - viaplay
 DTSTART:20250907T155500
 DTEND:20250907T165500
 DTSTAMP:20250907T155500Z
 UID:2025-09-07T15:55:00/HSV Hamburg - Rhein-Neckar Löwen
 DESCRIPTION:HSV Hamburg - Rhein-Neckar Löwen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20250907T160000
-DTEND:20250907T170000
-DTSTAMP:20250907T160000Z
-UID:2025-09-07T16:00:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Czech Darts Open - PDC Darts - viaplay
@@ -1052,14 +1052,6 @@ UID:2025-09-07T18:00:00/Aramco Houston Championship
 DESCRIPTION:Aramco Houston Championship - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Enjoy Illinois 300 (Cup Series) - Nascar - viaplay
-DTSTART:20250907T183000
-DTEND:20250907T193000
-DTSTAMP:20250907T183000Z
-UID:2025-09-07T18:30:00/Enjoy Illinois 300 (Cup Series)
-DESCRIPTION:Enjoy Illinois 300 (Cup Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
 DTSTART:20250907T183000
 DTEND:20250907T193000
@@ -1068,20 +1060,20 @@ UID:2025-09-07T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lúxemborg - Slóvakía - Undankeppni HM - viaplay
-DTSTART:20250907T183500
-DTEND:20250907T193500
-DTSTAMP:20250907T183500Z
-UID:2025-09-07T18:35:00/Lúxemborg - Slóvakía
-DESCRIPTION:Lúxemborg - Slóvakía - Undankeppni HM
+SUMMARY:Enjoy Illinois 300 (Cup Series) - Nascar - viaplay
+DTSTART:20250907T183000
+DTEND:20250907T193000
+DTSTAMP:20250907T183000Z
+UID:2025-09-07T18:30:00/Enjoy Illinois 300 (Cup Series)
+DESCRIPTION:Enjoy Illinois 300 (Cup Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tyrkland - Spánn - Undankeppni HM - viaplay
+SUMMARY:Þýskaland - Norður-Írland - Undankeppni HM - viaplay
 DTSTART:20250907T183500
 DTEND:20250907T193500
 DTSTAMP:20250907T183500Z
-UID:2025-09-07T18:35:00/Tyrkland - Spánn
-DESCRIPTION:Tyrkland - Spánn - Undankeppni HM
+UID:2025-09-07T18:35:00/Þýskaland - Norður-Írland
+DESCRIPTION:Þýskaland - Norður-Írland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pólland - Finnland - Undankeppni HM - viaplay
@@ -1092,6 +1084,14 @@ UID:2025-09-07T18:35:00/Pólland - Finnland
 DESCRIPTION:Pólland - Finnland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lúxemborg - Slóvakía - Undankeppni HM - viaplay
+DTSTART:20250907T183500
+DTEND:20250907T193500
+DTSTAMP:20250907T183500Z
+UID:2025-09-07T18:35:00/Lúxemborg - Slóvakía
+DESCRIPTION:Lúxemborg - Slóvakía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Belgía - Kasakstan - Undankeppni HM - viaplay
 DTSTART:20250907T183500
 DTEND:20250907T193500
@@ -1100,12 +1100,12 @@ UID:2025-09-07T18:35:00/Belgía - Kasakstan
 DESCRIPTION:Belgía - Kasakstan - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Norður-Írland - Undankeppni HM - viaplay
+SUMMARY:Tyrkland - Spánn - Undankeppni HM - viaplay
 DTSTART:20250907T183500
 DTEND:20250907T193500
 DTSTAMP:20250907T183500Z
-UID:2025-09-07T18:35:00/Þýskaland - Norður-Írland
-DESCRIPTION:Þýskaland - Norður-Írland - Undankeppni HM
+UID:2025-09-07T18:35:00/Tyrkland - Spánn
+DESCRIPTION:Tyrkland - Spánn - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Walker Cup - Golf - viaplay
@@ -1157,12 +1157,28 @@ UID:2025-09-08T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grikkland - Danmörk - Undankeppni HM - viaplay
+SUMMARY:Hvíta-Rússland - Skotland - Undankeppni HM - viaplay
 DTSTART:20250908T183500
 DTEND:20250908T193500
 DTSTAMP:20250908T183500Z
-UID:2025-09-08T18:35:00/Grikkland - Danmörk
-DESCRIPTION:Grikkland - Danmörk - Undankeppni HM
+UID:2025-09-08T18:35:00/Hvíta-Rússland - Skotland
+DESCRIPTION:Hvíta-Rússland - Skotland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísrael - Ítalía - Undankeppni HM - viaplay
+DTSTART:20250908T183500
+DTEND:20250908T193500
+DTSTAMP:20250908T183500Z
+UID:2025-09-08T18:35:00/Ísrael - Ítalía
+DESCRIPTION:Ísrael - Ítalía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sviss - Slóvenía - Undankeppni HM - viaplay
+DTSTART:20250908T183500
+DTEND:20250908T193500
+DTSTAMP:20250908T183500Z
+UID:2025-09-08T18:35:00/Sviss - Slóvenía
+DESCRIPTION:Sviss - Slóvenía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kósovó - Svíþjóð - Undankeppni HM - viaplay
@@ -1173,12 +1189,12 @@ UID:2025-09-08T18:35:00/Kósovó - Svíþjóð
 DESCRIPTION:Kósovó - Svíþjóð - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sviss - Slóvenía - Undankeppni HM - viaplay
+SUMMARY:Grikkland - Danmörk - Undankeppni HM - viaplay
 DTSTART:20250908T183500
 DTEND:20250908T193500
 DTSTAMP:20250908T183500Z
-UID:2025-09-08T18:35:00/Sviss - Slóvenía
-DESCRIPTION:Sviss - Slóvenía - Undankeppni HM
+UID:2025-09-08T18:35:00/Grikkland - Danmörk
+DESCRIPTION:Grikkland - Danmörk - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gíbraltar - Færeyjar - Undankeppni HM - viaplay
@@ -1197,19 +1213,132 @@ UID:2025-09-08T18:35:00/Króatía - Svartfjallaland
 DESCRIPTION:Króatía - Svartfjallaland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvíta-Rússland - Skotland - Undankeppni HM - viaplay
-DTSTART:20250908T183500
-DTEND:20250908T193500
-DTSTAMP:20250908T183500Z
-UID:2025-09-08T18:35:00/Hvíta-Rússland - Skotland
-DESCRIPTION:Hvíta-Rússland - Skotland - Undankeppni HM
+SUMMARY:Paris Major - Premier Padel - viaplay
+DTSTART:20250909T090000
+DTEND:20250909T100000
+DTSTAMP:20250909T090000Z
+UID:2025-09-09T09:00:00/Paris Major
+DESCRIPTION:Paris Major - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ísrael - Ítalía - Undankeppni HM - viaplay
-DTSTART:20250908T183500
-DTEND:20250908T193500
-DTSTAMP:20250908T183500Z
-UID:2025-09-08T18:35:00/Ísrael - Ítalía
-DESCRIPTION:Ísrael - Ítalía - Undankeppni HM
+SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
+ lay
+DTSTART:20250909T100000
+DTEND:20250909T110000
+DTSTAMP:20250909T100000Z
+UID:2025-09-09T10:00:00/FIFA World Cup 2026 Qualifiers: Highlights
+DESCRIPTION:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - Undankeppni HM - viaplay
+DTSTART:20250909T154500
+DTEND:20250909T164500
+DTSTAMP:20250909T154500Z
+UID:2025-09-09T15:45:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aserbaísjan - Úkraína - Undankeppni HM - viaplay
+DTSTART:20250909T155000
+DTEND:20250909T165000
+DTSTAMP:20250909T155000Z
+UID:2025-09-09T15:50:00/Aserbaísjan - Úkraína
+DESCRIPTION:Aserbaísjan - Úkraína - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Armenía - Írland - Undankeppni HM - viaplay
+DTSTART:20250909T155000
+DTEND:20250909T165000
+DTSTAMP:20250909T155000Z
+UID:2025-09-09T15:50:00/Armenía - Írland
+DESCRIPTION:Armenía - Írland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eistland - Andorra - Landsleikur - viaplay
+DTSTART:20250909T155000
+DTEND:20250909T165000
+DTSTAMP:20250909T155000Z
+UID:2025-09-09T15:50:00/Eistland - Andorra
+DESCRIPTION:Eistland - Andorra - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Major - Premier Padel - viaplay
+DTSTART:20250909T160000
+DTEND:20250909T170000
+DTSTAMP:20250909T160000Z
+UID:2025-09-09T16:00:00/Paris Major
+DESCRIPTION:Paris Major - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Ísland - Undankeppni HM - viaplay
+DTSTART:20250909T180000
+DTEND:20250909T190000
+DTSTAMP:20250909T180000Z
+UID:2025-09-09T18:00:00/Frakkland - Ísland
+DESCRIPTION:Frakkland - Ísland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wales - Kanada - Landsleikur - viaplay
+DTSTART:20250909T183000
+DTEND:20250909T193000
+DTSTAMP:20250909T183000Z
+UID:2025-09-09T18:30:00/Wales - Kanada
+DESCRIPTION:Wales - Kanada - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bosnía og Hersegóvína - Austurríki - Undankeppni HM - viaplay
+DTSTART:20250909T183000
+DTEND:20250909T193000
+DTSTAMP:20250909T183000Z
+UID:2025-09-09T18:30:00/Bosnía og Hersegóvína - Austurríki
+DESCRIPTION:Bosnía og Hersegóvína - Austurríki - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverjaland - Portúgal - Undankeppni HM - viaplay
+DTSTART:20250909T183500
+DTEND:20250909T193500
+DTSTAMP:20250909T183500Z
+UID:2025-09-09T18:35:00/Ungverjaland - Portúgal
+DESCRIPTION:Ungverjaland - Portúgal - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serbía - England - Undankeppni HM - viaplay
+DTSTART:20250909T183500
+DTEND:20250909T193500
+DTSTAMP:20250909T183500Z
+UID:2025-09-09T18:35:00/Serbía - England
+DESCRIPTION:Serbía - England - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noregur - Moldóva - Undankeppni HM - viaplay
+DTSTART:20250909T183500
+DTEND:20250909T193500
+DTSTAMP:20250909T183500Z
+UID:2025-09-09T18:35:00/Noregur - Moldóva
+DESCRIPTION:Noregur - Moldóva - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kýpur - Rúmenía - Undankeppni HM - viaplay
+DTSTART:20250909T183500
+DTEND:20250909T193500
+DTSTAMP:20250909T183500Z
+UID:2025-09-09T18:35:00/Kýpur - Rúmenía
+DESCRIPTION:Kýpur - Rúmenía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albanía - Lettland - Undankeppni HM - viaplay
+DTSTART:20250909T183500
+DTEND:20250909T193500
+DTSTAMP:20250909T183500Z
+UID:2025-09-09T18:35:00/Albanía - Lettland
+DESCRIPTION:Albanía - Lettland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malta - San Marínó - Landsleikur - viaplay
+DTSTART:20250909T185000
+DTEND:20250909T195000
+DTSTAMP:20250909T185000Z
+UID:2025-09-09T18:50:00/Malta - San Marínó
+DESCRIPTION:Malta - San Marínó - Landsleikur
 END:VEVENT
 END:VCALENDAR
