@@ -18,20 +18,20 @@ UID:2025-09-10T16:45:00/Dinamo Bucuresti - Sporting CP
 DESCRIPTION:Dinamo Bucuresti - Sporting CP - EHF
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Magdeburg - Paris Saint-Germain - EHF - livey
-DTSTART:20250910T184500
-DTEND:20250910T194500
-DTSTAMP:20250910T184500Z
-UID:2025-09-10T18:45:00/SC Magdeburg - Paris Saint-Germain
-DESCRIPTION:SC Magdeburg - Paris Saint-Germain - EHF
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HC Eurofarm Pelister - HC Zagreb - EHF - livey
 DTSTART:20250910T184500
 DTEND:20250910T194500
 DTSTAMP:20250910T184500Z
 UID:2025-09-10T18:45:00/HC Eurofarm Pelister - HC Zagreb
 DESCRIPTION:HC Eurofarm Pelister - HC Zagreb - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC Magdeburg - Paris Saint-Germain - EHF - livey
+DTSTART:20250910T184500
+DTEND:20250910T194500
+DTSTAMP:20250910T184500Z
+UID:2025-09-10T18:45:00/SC Magdeburg - Paris Saint-Germain
+DESCRIPTION:SC Magdeburg - Paris Saint-Germain - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OTP Bank-Pick Szeged - Orlen Wisla Plock - EHF - livey
@@ -50,12 +50,12 @@ UID:2025-09-11T18:30:00/ÍR - Selfoss
 DESCRIPTION:ÍR - Selfoss - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barça - GOG - EHF - livey
+SUMMARY:HBC Nantes - Füchse Berlin - EHF - livey
 DTSTART:20250911T184500
 DTEND:20250911T194500
 DTSTAMP:20250911T184500Z
-UID:2025-09-11T18:45:00/Barça - GOG
-DESCRIPTION:Barça - GOG - EHF
+UID:2025-09-11T18:45:00/HBC Nantes - Füchse Berlin
+DESCRIPTION:HBC Nantes - Füchse Berlin - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Industria Kielce - Kolstad Handball - EHF - livey
@@ -66,12 +66,12 @@ UID:2025-09-11T18:45:00/Industria Kielce - Kolstad Handball
 DESCRIPTION:Industria Kielce - Kolstad Handball - EHF
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HBC Nantes - Füchse Berlin - EHF - livey
+SUMMARY:Barça - GOG - EHF - livey
 DTSTART:20250911T184500
 DTEND:20250911T194500
 DTSTAMP:20250911T184500Z
-UID:2025-09-11T18:45:00/HBC Nantes - Füchse Berlin
-DESCRIPTION:HBC Nantes - Füchse Berlin - EHF
+UID:2025-09-11T18:45:00/Barça - GOG
+DESCRIPTION:Barça - GOG - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - Afturelding - Olís deild karla - hsi1
@@ -154,6 +154,14 @@ UID:2025-09-13T15:00:00/Valur - Haukar
 DESCRIPTION:Valur - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Györi Audi ETO KC - Team Esbjerg - EHF - livey
+DTSTART:20250913T160000
+DTEND:20250913T170000
+DTSTAMP:20250913T160000Z
+UID:2025-09-13T16:00:00/Györi Audi ETO KC - Team Esbjerg
+DESCRIPTION:Györi Audi ETO KC - Team Esbjerg - EHF
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fram - Þór - Olís deild karla - hsi1
 DTSTART:20250913T170000
 DTEND:20250913T180000
@@ -170,14 +178,6 @@ UID:2025-09-13T17:55:00/THW Kiel - HSV Hamburg
 DESCRIPTION:THW Kiel - HSV Hamburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VfL Gummersbach - Füchse Berlin - Bundesliga - viaplay
-DTSTART:20250914T125500
-DTEND:20250914T135500
-DTSTAMP:20250914T125500Z
-UID:2025-09-14T12:55:00/VfL Gummersbach - Füchse Berlin
-DESCRIPTION:VfL Gummersbach - Füchse Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gummersbach - Füchse Berlin - Bundesliga handbolti - synsportviap
  lay
 DTSTART:20250914T125500
@@ -187,11 +187,27 @@ UID:2025-09-14T12:55:00/Gummersbach - Füchse Berlin
 DESCRIPTION:Gummersbach - Füchse Berlin - Bundesliga handbolti
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VfL Gummersbach - Füchse Berlin - Bundesliga - viaplay
+DTSTART:20250914T125500
+DTEND:20250914T135500
+DTSTAMP:20250914T125500Z
+UID:2025-09-14T12:55:00/VfL Gummersbach - Füchse Berlin
+DESCRIPTION:VfL Gummersbach - Füchse Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Hannover-Burgdorf - Bundesliga - viaplay
 DTSTART:20250915T165500
 DTEND:20250915T175500
 DTSTAMP:20250915T165500Z
 UID:2025-09-15T16:55:00/Flensburg-Handewitt - Hannover-Burgdorf
 DESCRIPTION:Flensburg-Handewitt - Hannover-Burgdorf - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handboltahöllin - Olís deildin - sjonvarpsimans
+DTSTART:20250915T201000
+DTEND:20250915T211000
+DTSTAMP:20250915T201000Z
+UID:2025-09-15T20:10:00/Handboltahöllin
+DESCRIPTION:Handboltahöllin - Olís deildin
 END:VEVENT
 END:VCALENDAR
