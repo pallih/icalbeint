@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
 SUMMARY:Paris Major - Premier Padel - viaplay
-DTSTART:20250910T090000
-DTEND:20250910T100000
-DTSTAMP:20250910T090000Z
-UID:2025-09-10T09:00:00/Paris Major
-DESCRIPTION:Paris Major - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
- lay
-DTSTART:20250910T100000
-DTEND:20250910T110000
-DTSTAMP:20250910T100000Z
-UID:2025-09-10T10:00:00/FIFA World Cup 2026 Qualifiers: Highlights
-DESCRIPTION:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris Major - Premier Padel - viaplay
-DTSTART:20250910T160000
-DTEND:20250910T170000
-DTSTAMP:20250910T160000Z
-UID:2025-09-10T16:00:00/Paris Major
-DESCRIPTION:Paris Major - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris Major - Premier Padel - viaplay
 DTSTART:20250911T090000
 DTEND:20250911T100000
 DTSTAMP:20250911T090000Z
@@ -252,14 +227,6 @@ UID:2025-09-13T09:55:00/Nürnberg - Werder Bremen
 DESCRIPTION:Nürnberg - Werder Bremen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World Series of Darts Final - PDC Darts - viaplay
-DTSTART:20250913T104500
-DTEND:20250913T114500
-DTSTAMP:20250913T104500Z
-UID:2025-09-13T10:45:00/World Series of Darts Final
-DESCRIPTION:World Series of Darts Final - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Marínó Kappaksturinn (Tímatökur) - Moto3 - viaplay
 DTSTART:20250913T104500
 DTEND:20250913T114500
@@ -268,20 +235,20 @@ UID:2025-09-13T10:45:00/San Marínó Kappaksturinn (Tímatökur)
 DESCRIPTION:San Marínó Kappaksturinn (Tímatökur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:World Series of Darts Final - PDC Darts - viaplay
+DTSTART:20250913T104500
+DTEND:20250913T114500
+DTSTAMP:20250913T104500Z
+UID:2025-09-13T10:45:00/World Series of Darts Final
+DESCRIPTION:World Series of Darts Final - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alingsås - Vittsjö - OBOS Damallsvenskan - viaplay
 DTSTART:20250913T105000
 DTEND:20250913T115000
 DTSTAMP:20250913T105000Z
 UID:2025-09-13T10:50:00/Alingsås - Vittsjö
 DESCRIPTION:Alingsås - Vittsjö - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schalke - Holstein Kiel - 2. Bundesliga - viaplay
-DTSTART:20250913T105500
-DTEND:20250913T115500
-DTSTAMP:20250913T105500Z
-UID:2025-09-13T10:55:00/Schalke - Holstein Kiel
-DESCRIPTION:Schalke - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
@@ -298,6 +265,14 @@ DTEND:20250913T115500
 DTSTAMP:20250913T105500Z
 UID:2025-09-13T10:55:00/Darmstadt - Braunschweig
 DESCRIPTION:Darmstadt - Braunschweig - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schalke - Holstein Kiel - 2. Bundesliga - viaplay
+DTSTART:20250913T105500
+DTEND:20250913T115500
+DTSTAMP:20250913T105500Z
+UID:2025-09-13T10:55:00/Schalke - Holstein Kiel
+DESCRIPTION:Schalke - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris Major - Premier Padel - viaplay
@@ -318,10 +293,10 @@ DESCRIPTION:Zolder (Kappakstur 1) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Bull Ring (Kappakstur 1) - DTM - viaplay
-DTSTART:20250913T111500
-DTEND:20250913T121500
-DTSTAMP:20250913T111500Z
-UID:2025-09-13T11:15:00/Red Bull Ring (Kappakstur 1)
+DTSTART:20250913T111000
+DTEND:20250913T121000
+DTSTAMP:20250913T111000Z
+UID:2025-09-13T11:10:00/Red Bull Ring (Kappakstur 1)
 DESCRIPTION:Red Bull Ring (Kappakstur 1) - DTM
 END:VEVENT
 BEGIN:VEVENT
@@ -381,20 +356,28 @@ UID:2025-09-13T13:00:00/Red Bull Ring (Kappakstur 1)
 DESCRIPTION:Red Bull Ring (Kappakstur 1) - ADAC GT4 Masters
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - Dortmund - Bundesliga - viaplay
-DTSTART:20250913T132000
-DTEND:20250913T142000
-DTSTAMP:20250913T132000Z
-UID:2025-09-13T13:20:00/Heidenheim - Dortmund
-DESCRIPTION:Heidenheim - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Union Berlin - Hoffenheim - Bundesliga - viaplay
 DTSTART:20250913T132000
 DTEND:20250913T142000
 DTSTAMP:20250913T132000Z
 UID:2025-09-13T13:20:00/Union Berlin - Hoffenheim
 DESCRIPTION:Union Berlin - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20250913T132000
+DTEND:20250913T142000
+DTSTAMP:20250913T132000Z
+UID:2025-09-13T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Dortmund - Bundesliga - viaplay
+DTSTART:20250913T132000
+DTEND:20250913T142000
+DTSTAMP:20250913T132000Z
+UID:2025-09-13T13:20:00/Heidenheim - Dortmund
+DESCRIPTION:Heidenheim - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Köln - Bundesliga - viaplay
@@ -421,12 +404,12 @@ UID:2025-09-13T13:20:00/Freiburg - Stuttgart
 DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20250913T132000
-DTEND:20250913T142000
-DTSTAMP:20250913T132000Z
-UID:2025-09-13T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+SUMMARY:Swansea - Hull - Championship - viaplay
+DTSTART:20250913T135500
+DTEND:20250913T145500
+DTSTAMP:20250913T135500Z
+UID:2025-09-13T13:55:00/Swansea - Hull
+DESCRIPTION:Swansea - Hull - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zolder (Kappakstur 2) - FIA European Truck Racing Championship - v
@@ -436,14 +419,6 @@ DTEND:20250913T145500
 DTSTAMP:20250913T135500Z
 UID:2025-09-13T13:55:00/Zolder (Kappakstur 2)
 DESCRIPTION:Zolder (Kappakstur 2) - FIA European Truck Racing Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swansea - Hull - Championship - viaplay
-DTSTART:20250913T135500
-DTEND:20250913T145500
-DTSTAMP:20250913T135500Z
-UID:2025-09-13T13:55:00/Swansea - Hull
-DESCRIPTION:Swansea - Hull - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Bull Ring (Kappakstur 1) - ADAC GT4 Germany - viaplay
@@ -469,6 +444,14 @@ DTEND:20250913T160000
 DTSTAMP:20250913T150000Z
 UID:2025-09-13T15:00:00/Royal Bahrain Irish Champion Stakes
 DESCRIPTION:Royal Bahrain Irish Champion Stakes - Crown Jewels Racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20250913T160000
+DTEND:20250913T170000
+DTSTAMP:20250913T160000Z
+UID:2025-09-13T16:00:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - HSV - Bundesliga - viaplay
@@ -616,14 +599,6 @@ UID:2025-09-14T11:15:00/San Marínó Kappaksturinn (Kappakstur)
 DESCRIPTION:San Marínó Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20250914T112500
-DTEND:20250914T122500
-DTSTAMP:20250914T112500Z
-UID:2025-09-14T11:25:00/Greuther Fürth - Kaiserslautern
-DESCRIPTION:Greuther Fürth - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elversberg - Dynamo Dresden - 2. Bundesliga - viaplay
 DTSTART:20250914T112500
 DTEND:20250914T122500
@@ -638,6 +613,14 @@ DTEND:20250914T122500
 DTSTAMP:20250914T112500Z
 UID:2025-09-14T11:25:00/Preußen Münster - Düsseldorf
 DESCRIPTION:Preußen Münster - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greuther Fürth - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20250914T112500
+DTEND:20250914T122500
+DTSTAMP:20250914T112500Z
+UID:2025-09-14T11:25:00/Greuther Fürth - Kaiserslautern
+DESCRIPTION:Greuther Fürth - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Bayern München - Frauen-Bundesliga - viaplay
@@ -690,10 +673,10 @@ DESCRIPTION:Red Bull Ring (Kappakstur 2) - ADAC GT4 Masters
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Augsburg - Bundesliga - viaplay
-DTSTART:20250914T131500
-DTEND:20250914T141500
-DTSTAMP:20250914T131500Z
-UID:2025-09-14T13:15:00/St. Pauli - Augsburg
+DTSTART:20250914T132000
+DTEND:20250914T142000
+DTSTAMP:20250914T132000Z
+UID:2025-09-14T13:20:00/St. Pauli - Augsburg
 DESCRIPTION:St. Pauli - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
@@ -712,14 +695,6 @@ DTEND:20250914T162000
 DTSTAMP:20250914T152000Z
 UID:2025-09-14T15:20:00/Mönchengladbach - Werder Bremen
 DESCRIPTION:Mönchengladbach - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20250914T160000
-DTEND:20250914T170000
-DTSTAMP:20250914T160000Z
-UID:2025-09-14T16:00:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Series of Darts Final - PDC Darts - viaplay
@@ -794,6 +769,14 @@ UID:2025-09-16T18:50:00/Juventus - Dortmund
 DESCRIPTION:Juventus - Dortmund - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brentford - Aston Villa - Carabao Cup - viaplay
+DTSTART:20250916T185500
+DTEND:20250916T195500
+DTSTAMP:20250916T185500Z
+UID:2025-09-16T18:55:00/Brentford - Aston Villa
+DESCRIPTION:Brentford - Aston Villa - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crystal Palace - Millwall - Carabao Cup - viaplay
 DTSTART:20250916T185500
 DTEND:20250916T195500
@@ -802,11 +785,51 @@ UID:2025-09-16T18:55:00/Crystal Palace - Millwall
 DESCRIPTION:Crystal Palace - Millwall - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Aston Villa - Carabao Cup - viaplay
-DTSTART:20250916T185500
-DTEND:20250916T195500
-DTSTAMP:20250916T185500Z
-UID:2025-09-16T18:55:00/Brentford - Aston Villa
-DESCRIPTION:Brentford - Aston Villa - Carabao Cup
+SUMMARY:Liverpool - Atlético Madrid - UEFA Youth League - viaplay
+DTSTART:20250917T135500
+DTEND:20250917T145500
+DTSTAMP:20250917T135500Z
+UID:2025-09-17T13:55:00/Liverpool - Atlético Madrid
+DESCRIPTION:Liverpool - Atlético Madrid - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prag - Bodø/Glimt - Champions League - viaplay
+DTSTART:20250917T163500
+DTEND:20250917T173500
+DTSTAMP:20250917T163500Z
+UID:2025-09-17T16:35:00/Slavia Prag - Bodø/Glimt
+DESCRIPTION:Slavia Prag - Bodø/Glimt - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - Champions League - viaplay
+DTSTART:20250917T183000
+DTEND:20250917T193000
+DTSTAMP:20250917T183000Z
+UID:2025-09-17T18:30:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Atalanta - Champions League - viaplay
+DTSTART:20250917T185000
+DTEND:20250917T195000
+DTSTAMP:20250917T185000Z
+UID:2025-09-17T18:50:00/PSG - Atalanta
+DESCRIPTION:PSG - Atalanta - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Chelsea - Champions League - viaplay
+DTSTART:20250917T185000
+DTEND:20250917T195000
+DTSTAMP:20250917T185000Z
+UID:2025-09-17T18:50:00/Bayern München - Chelsea
+DESCRIPTION:Bayern München - Chelsea - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swansea - Nottingham Forest - Carabao Cup - viaplay
+DTSTART:20250917T185500
+DTEND:20250917T195500
+DTSTAMP:20250917T185500Z
+UID:2025-09-17T18:55:00/Swansea - Nottingham Forest
+DESCRIPTION:Swansea - Nottingham Forest - Carabao Cup
 END:VEVENT
 END:VCALENDAR

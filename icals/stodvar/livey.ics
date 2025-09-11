@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Aalborg Handbold - One Veszprém HC - EHF - livey
-DTSTART:20250910T164500
-DTEND:20250910T174500
-DTSTAMP:20250910T164500Z
-UID:2025-09-10T16:45:00/Aalborg Handbold - One Veszprém HC
-DESCRIPTION:Aalborg Handbold - One Veszprém HC - EHF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinamo Bucuresti - Sporting CP - EHF - livey
-DTSTART:20250910T164500
-DTEND:20250910T174500
-DTSTAMP:20250910T164500Z
-UID:2025-09-10T16:45:00/Dinamo Bucuresti - Sporting CP
-DESCRIPTION:Dinamo Bucuresti - Sporting CP - EHF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HC Eurofarm Pelister - HC Zagreb - EHF - livey
-DTSTART:20250910T184500
-DTEND:20250910T194500
-DTSTAMP:20250910T184500Z
-UID:2025-09-10T18:45:00/HC Eurofarm Pelister - HC Zagreb
-DESCRIPTION:HC Eurofarm Pelister - HC Zagreb - EHF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SC Magdeburg - Paris Saint-Germain - EHF - livey
-DTSTART:20250910T184500
-DTEND:20250910T194500
-DTSTAMP:20250910T184500Z
-UID:2025-09-10T18:45:00/SC Magdeburg - Paris Saint-Germain
-DESCRIPTION:SC Magdeburg - Paris Saint-Germain - EHF
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OTP Bank-Pick Szeged - Orlen Wisla Plock - EHF - livey
 DTSTART:20250911T164500
 DTEND:20250911T174500
@@ -90,20 +58,20 @@ UID:2025-09-13T12:00:00/Getafe - Oviedo
 DESCRIPTION:Getafe - Oviedo - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Fylkir - Lengjudeildin - livey
-DTSTART:20250913T140000
-DTEND:20250913T150000
-DTSTAMP:20250913T140000Z
-UID:2025-09-13T14:00:00/ÍR - Fylkir
-DESCRIPTION:ÍR - Fylkir - Lengjudeildin
+SUMMARY:Cagliari - Parma - Serie A - Ítalski boltinn - livey
+DTSTART:20250913T130000
+DTEND:20250913T140000
+DTSTAMP:20250913T130000Z
+UID:2025-09-13T13:00:00/Cagliari - Parma
+DESCRIPTION:Cagliari - Parma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Völsungur - HK - Lengjudeildin - livey
+SUMMARY:Njarðvík - Grindavík - Lengjudeildin - livey
 DTSTART:20250913T140000
 DTEND:20250913T150000
 DTSTAMP:20250913T140000Z
-UID:2025-09-13T14:00:00/Völsungur - HK
-DESCRIPTION:Völsungur - HK - Lengjudeildin
+UID:2025-09-13T14:00:00/Njarðvík - Grindavík
+DESCRIPTION:Njarðvík - Grindavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fjölnir - Leiknir - Lengjudeildin - livey
@@ -114,12 +82,20 @@ UID:2025-09-13T14:00:00/Fjölnir - Leiknir
 DESCRIPTION:Fjölnir - Leiknir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Grindavík - Lengjudeildin - livey
+SUMMARY:Völsungur - HK - Lengjudeildin - livey
 DTSTART:20250913T140000
 DTEND:20250913T150000
 DTSTAMP:20250913T140000Z
-UID:2025-09-13T14:00:00/Njarðvík - Grindavík
-DESCRIPTION:Njarðvík - Grindavík - Lengjudeildin
+UID:2025-09-13T14:00:00/Völsungur - HK
+DESCRIPTION:Völsungur - HK - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Fylkir - Lengjudeildin - livey
+DTSTART:20250913T140000
+DTEND:20250913T150000
+DTSTAMP:20250913T140000Z
+UID:2025-09-13T14:00:00/ÍR - Fylkir
+DESCRIPTION:ÍR - Fylkir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Sociedad - Real Madrid - LaLiga - Spænski boltinn - livey
@@ -154,6 +130,14 @@ UID:2025-09-13T16:00:00/Györi Audi ETO KC - Team Esbjerg
 DESCRIPTION:Györi Audi ETO KC - Team Esbjerg - EHF
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Juventus - Inter Milan - Serie A - Ítalski boltinn - livey
+DTSTART:20250913T160000
+DTEND:20250913T170000
+DTSTAMP:20250913T160000Z
+UID:2025-09-13T16:00:00/Juventus - Inter Milan
+DESCRIPTION:Juventus - Inter Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Athletic Bilbao - Deportivo Alaves - LaLiga - Spænski boltinn - l
  ivey
 DTSTART:20250913T163000
@@ -161,6 +145,14 @@ DTEND:20250913T173000
 DTSTAMP:20250913T163000Z
 UID:2025-09-13T16:30:00/Athletic Bilbao - Deportivo Alaves
 DESCRIPTION:Athletic Bilbao - Deportivo Alaves - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiorentina - Napoli - Serie A - Ítalski boltinn - livey
+DTSTART:20250913T184500
+DTEND:20250913T194500
+DTSTAMP:20250913T184500Z
+UID:2025-09-13T18:45:00/Fiorentina - Napoli
+DESCRIPTION:Fiorentina - Napoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Selfoss - Keflavík - Lengjudeildin - livey
@@ -187,12 +179,28 @@ UID:2025-09-13T19:05:00/Auxerre - Monaco
 DESCRIPTION:Auxerre - Monaco - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Roma - Torino - Serie A - Ítalski boltinn - livey
+DTSTART:20250914T103000
+DTEND:20250914T113000
+DTSTAMP:20250914T103000Z
+UID:2025-09-14T10:30:00/Roma - Torino
+DESCRIPTION:Roma - Torino - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Celta Vigo - Girona - LaLiga - Spænski boltinn - livey
 DTSTART:20250914T120000
 DTEND:20250914T130000
 DTSTAMP:20250914T120000Z
 UID:2025-09-14T12:00:00/Celta Vigo - Girona
 DESCRIPTION:Celta Vigo - Girona - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atalanta - Lecce - Serie A - Ítalski boltinn - livey
+DTSTART:20250914T130000
+DTEND:20250914T140000
+DTSTAMP:20250914T130000Z
+UID:2025-09-14T13:00:00/Atalanta - Lecce
+DESCRIPTION:Atalanta - Lecce - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lille - Toulouse - Ligue 1 - Franski Boltinn - livey
@@ -203,28 +211,20 @@ UID:2025-09-14T13:00:00/Lille - Toulouse
 DESCRIPTION:Lille - Toulouse - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pisa - Udinese - Serie A - Ítalski boltinn - livey
+DTSTART:20250914T130000
+DTEND:20250914T140000
+DTSTAMP:20250914T130000Z
+UID:2025-09-14T13:00:00/Pisa - Udinese
+DESCRIPTION:Pisa - Udinese - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Levante - Real Betis - LaLiga - Spænski boltinn - livey
 DTSTART:20250914T141500
 DTEND:20250914T151500
 DTSTAMP:20250914T141500Z
 UID:2025-09-14T14:15:00/Levante - Real Betis
 DESCRIPTION:Levante - Real Betis - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Metz - Angers - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250914T151500
-DTEND:20250914T161500
-DTSTAMP:20250914T151500Z
-UID:2025-09-14T15:15:00/Metz - Angers
-DESCRIPTION:Metz - Angers - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brest - Paris FC - Ligue 1 - Franski Boltinn - livey
-DTSTART:20250914T151500
-DTEND:20250914T161500
-DTSTAMP:20250914T151500Z
-UID:2025-09-14T15:15:00/Brest - Paris FC
-DESCRIPTION:Brest - Paris FC - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RC Strasbourg - Le Havre - Ligue 1 - Franski Boltinn - livey
@@ -235,12 +235,36 @@ UID:2025-09-14T15:15:00/RC Strasbourg - Le Havre
 DESCRIPTION:RC Strasbourg - Le Havre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brest - Paris FC - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250914T151500
+DTEND:20250914T161500
+DTSTAMP:20250914T151500Z
+UID:2025-09-14T15:15:00/Brest - Paris FC
+DESCRIPTION:Brest - Paris FC - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metz - Angers - Ligue 1 - Franski Boltinn - livey
+DTSTART:20250914T151500
+DTEND:20250914T161500
+DTSTAMP:20250914T151500Z
+UID:2025-09-14T15:15:00/Metz - Angers
+DESCRIPTION:Metz - Angers - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PSG - Lens - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250914T151500
 DTEND:20250914T161500
 DTSTAMP:20250914T151500Z
 UID:2025-09-14T15:15:00/PSG - Lens
 DESCRIPTION:PSG - Lens - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sassuolo - Lazio - Serie A - Ítalski boltinn - livey
+DTSTART:20250914T160000
+DTEND:20250914T170000
+DTSTAMP:20250914T160000Z
+UID:2025-09-14T16:00:00/Sassuolo - Lazio
+DESCRIPTION:Sassuolo - Lazio - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Osasuna - Rayo Vallecano - LaLiga - Spænski boltinn - livey
@@ -259,12 +283,36 @@ UID:2025-09-14T18:45:00/Rennes - Lyon
 DESCRIPTION:Rennes - Lyon - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AC Milan - Bologna - Serie A - Ítalski boltinn - livey
+DTSTART:20250914T184500
+DTEND:20250914T194500
+DTSTAMP:20250914T184500Z
+UID:2025-09-14T18:45:00/AC Milan - Bologna
+DESCRIPTION:AC Milan - Bologna - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barcelona - Valencia - LaLiga - Spænski boltinn - livey
 DTSTART:20250914T190000
 DTEND:20250914T200000
 DTSTAMP:20250914T190000Z
 UID:2025-09-14T19:00:00/Barcelona - Valencia
 DESCRIPTION:Barcelona - Valencia - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hellas Verona - Cremonese - Serie A - Ítalski boltinn - livey
+DTSTART:20250915T163000
+DTEND:20250915T173000
+DTSTAMP:20250915T163000Z
+UID:2025-09-15T16:30:00/Hellas Verona - Cremonese
+DESCRIPTION:Hellas Verona - Cremonese - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como - Genoa - Serie A - Ítalski boltinn - livey
+DTSTART:20250915T184500
+DTEND:20250915T194500
+DTSTAMP:20250915T184500Z
+UID:2025-09-15T18:45:00/Como - Genoa
+DESCRIPTION:Como - Genoa - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Espanyol - RCD Mallorca - LaLiga - Spænski boltinn - livey
