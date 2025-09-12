@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Arminia Bielefeld - Magdeburg - 2. Bundesliga - viaplay
-DTSTART:20250912T162500
-DTEND:20250912T172500
-DTSTAMP:20250912T162500Z
-UID:2025-09-12T16:25:00/Arminia Bielefeld - Magdeburg
-DESCRIPTION:Arminia Bielefeld - Magdeburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paderborn - Bochum - 2. Bundesliga - viaplay
 DTSTART:20250912T162500
 DTEND:20250912T172500
 DTSTAMP:20250912T162500Z
 UID:2025-09-12T16:25:00/Paderborn - Bochum
 DESCRIPTION:Paderborn - Bochum - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arminia Bielefeld - Magdeburg - 2. Bundesliga - viaplay
+DTSTART:20250912T162500
+DTEND:20250912T172500
+DTSTAMP:20250912T162500Z
+UID:2025-09-12T16:25:00/Arminia Bielefeld - Magdeburg
+DESCRIPTION:Arminia Bielefeld - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Nürnberg - 2. Bundesliga - viaplay
@@ -66,19 +66,19 @@ UID:2025-09-14T11:25:00/Elversberg - Dynamo Dresden
 DESCRIPTION:Elversberg - Dynamo Dresden - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preußen Münster - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20250914T112500
-DTEND:20250914T122500
-DTSTAMP:20250914T112500Z
-UID:2025-09-14T11:25:00/Preußen Münster - Düsseldorf
-DESCRIPTION:Preußen Münster - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20250914T112500
 DTEND:20250914T122500
 DTSTAMP:20250914T112500Z
 UID:2025-09-14T11:25:00/Greuther Fürth - Kaiserslautern
 DESCRIPTION:Greuther Fürth - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preußen Münster - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20250914T112500
+DTEND:20250914T122500
+DTSTAMP:20250914T112500Z
+UID:2025-09-14T11:25:00/Preußen Münster - Düsseldorf
+DESCRIPTION:Preußen Münster - Düsseldorf - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR

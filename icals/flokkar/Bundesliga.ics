@@ -18,14 +18,6 @@ UID:2025-09-13T13:20:00/Union Berlin - Hoffenheim
 DESCRIPTION:Union Berlin - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20250913T132000
-DTEND:20250913T142000
-DTSTAMP:20250913T132000Z
-UID:2025-09-13T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heidenheim - Dortmund - Bundesliga - viaplay
 DTSTART:20250913T132000
 DTEND:20250913T142000
@@ -34,12 +26,12 @@ UID:2025-09-13T13:20:00/Heidenheim - Dortmund
 DESCRIPTION:Heidenheim - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Köln - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20250913T132000
 DTEND:20250913T142000
 DTSTAMP:20250913T132000Z
-UID:2025-09-13T13:20:00/Wolfsburg - Köln
-DESCRIPTION:Wolfsburg - Köln - Bundesliga
+UID:2025-09-13T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mainz - Leipzig - Bundesliga - viaplay
@@ -50,6 +42,14 @@ UID:2025-09-13T13:20:00/Mainz - Leipzig
 DESCRIPTION:Mainz - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wolfsburg - Köln - Bundesliga - viaplay
+DTSTART:20250913T132000
+DTEND:20250913T142000
+DTSTAMP:20250913T132000Z
+UID:2025-09-13T13:20:00/Wolfsburg - Köln
+DESCRIPTION:Wolfsburg - Köln - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Freiburg - Stuttgart - Bundesliga - viaplay
 DTSTART:20250913T132000
 DTEND:20250913T142000
@@ -58,20 +58,20 @@ UID:2025-09-13T13:20:00/Freiburg - Stuttgart
 DESCRIPTION:Freiburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Hamburger SV - Bundesliga - synsportviaplay
-DTSTART:20250913T162000
-DTEND:20250913T172000
-DTSTAMP:20250913T162000Z
-UID:2025-09-13T16:20:00/Bayern München - Hamburger SV
-DESCRIPTION:Bayern München - Hamburger SV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - HSV - Bundesliga - viaplay
 DTSTART:20250913T162000
 DTEND:20250913T172000
 DTSTAMP:20250913T162000Z
 UID:2025-09-13T16:20:00/Bayern München - HSV
 DESCRIPTION:Bayern München - HSV - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Hamburger SV - Bundesliga - synsportviaplay
+DTSTART:20250913T162000
+DTEND:20250913T172000
+DTSTAMP:20250913T162000Z
+UID:2025-09-13T16:20:00/Bayern München - Hamburger SV
+DESCRIPTION:Bayern München - Hamburger SV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THW Kiel - HSV Hamburg - Bundesliga - viaplay
@@ -120,5 +120,13 @@ DTEND:20250915T175500
 DTSTAMP:20250915T165500Z
 UID:2025-09-15T16:55:00/Flensburg-Handewitt - Hannover-Burgdorf
 DESCRIPTION:Flensburg-Handewitt - Hannover-Burgdorf - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover-Burgdorf - THW Kiel - Bundesliga - viaplay
+DTSTART:20250918T165500
+DTEND:20250918T175500
+DTSTAMP:20250918T165500Z
+UID:2025-09-18T16:55:00/Hannover-Burgdorf - THW Kiel
+DESCRIPTION:Hannover-Burgdorf - THW Kiel - Bundesliga
 END:VEVENT
 END:VCALENDAR
