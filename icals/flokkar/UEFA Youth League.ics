@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - UEFA Youth League - ical
 BEGIN:VEVENT
-SUMMARY:Juventus - Dortmund - UEFA Youth League - viaplay
+SUMMARY:Juventus - Dortmund - UEFA Youth League - synsport
 DTSTART:20250916T115500
 DTEND:20250916T125500
 DTSTAMP:20250916T115500Z
@@ -10,7 +10,7 @@ UID:2025-09-16T11:55:00/Juventus - Dortmund
 DESCRIPTION:Juventus - Dortmund - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Juventus - Dortmund - UEFA Youth League - synsport
+SUMMARY:Juventus - Dortmund - UEFA Youth League - viaplay
 DTSTART:20250916T115500
 DTEND:20250916T125500
 DTSTAMP:20250916T115500Z
@@ -34,20 +34,20 @@ UID:2025-09-16T13:55:00/Real Madrid - Marseille
 DESCRIPTION:Real Madrid - Marseille - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Atletico Madrid - UEFA Youth League - synsport
-DTSTART:20250917T135500
-DTEND:20250917T145500
-DTSTAMP:20250917T135500Z
-UID:2025-09-17T13:55:00/Liverpool - Atletico Madrid
-DESCRIPTION:Liverpool - Atletico Madrid - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liverpool - Atlético Madrid - UEFA Youth League - viaplay
 DTSTART:20250917T135500
 DTEND:20250917T145500
 DTSTAMP:20250917T135500Z
 UID:2025-09-17T13:55:00/Liverpool - Atlético Madrid
 DESCRIPTION:Liverpool - Atlético Madrid - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Atletico Madrid - UEFA Youth League - synsport
+DTSTART:20250917T135500
+DTEND:20250917T145500
+DTSTAMP:20250917T135500Z
+UID:2025-09-17T13:55:00/Liverpool - Atletico Madrid
+DESCRIPTION:Liverpool - Atletico Madrid - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manhester City - Napoli - UEFA Youth League - synsport
