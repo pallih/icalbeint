@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:VfL Gummersbach - Füchse Berlin - Bundesliga - viaplay
-DTSTART:20250914T125500
-DTEND:20250914T135500
-DTSTAMP:20250914T125500Z
-UID:2025-09-14T12:55:00/VfL Gummersbach - Füchse Berlin
-DESCRIPTION:VfL Gummersbach - Füchse Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St. Pauli - Augsburg - Bundesliga - viaplay
-DTSTART:20250914T132000
-DTEND:20250914T142000
-DTSTAMP:20250914T132000Z
-UID:2025-09-14T13:20:00/St. Pauli - Augsburg
-DESCRIPTION:St. Pauli - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Werder Bremen - Bundesliga - viaplay
-DTSTART:20250914T152000
-DTEND:20250914T162000
-DTSTAMP:20250914T152000Z
-UID:2025-09-14T15:20:00/Mönchengladbach - Werder Bremen
-DESCRIPTION:Mönchengladbach - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:M´gladbach - Werder Bremen - Bundesliga - synsportviaplay
-DTSTART:20250914T152000
-DTEND:20250914T162000
-DTSTAMP:20250914T152000Z
-UID:2025-09-14T15:20:00/M´gladbach - Werder Bremen
-DESCRIPTION:M´gladbach - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Hannover-Burgdorf - Bundesliga - viaplay
 DTSTART:20250915T165500
 DTEND:20250915T175500
@@ -74,20 +42,20 @@ UID:2025-09-20T13:20:00/HSV - Heidenheim
 DESCRIPTION:HSV - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Bayern München - Bundesliga - viaplay
-DTSTART:20250920T132000
-DTEND:20250920T142000
-DTSTAMP:20250920T132000Z
-UID:2025-09-20T13:20:00/Hoffenheim - Bayern München
-DESCRIPTION:Hoffenheim - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Augsburg - Mainz - Bundesliga - viaplay
 DTSTART:20250920T132000
 DTEND:20250920T142000
 DTSTAMP:20250920T132000Z
 UID:2025-09-20T13:20:00/Augsburg - Mainz
 DESCRIPTION:Augsburg - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Bayern München - Bundesliga - viaplay
+DTSTART:20250920T132000
+DTEND:20250920T142000
+DTSTAMP:20250920T132000Z
+UID:2025-09-20T13:20:00/Hoffenheim - Bayern München
+DESCRIPTION:Hoffenheim - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -112,5 +80,53 @@ DTEND:20250920T172000
 DTSTAMP:20250920T162000Z
 UID:2025-09-20T16:20:00/Leipzig - Köln
 DESCRIPTION:Leipzig - Köln - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Melsungen - Bundesliga - viaplay
+DTSTART:20250921T125500
+DTEND:20250921T135500
+DTSTAMP:20250921T125500Z
+UID:2025-09-21T12:55:00/Füchse Berlin - Melsungen
+DESCRIPTION:Füchse Berlin - Melsungen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Union Berlin - Bundesliga - viaplay
+DTSTART:20250921T132000
+DTEND:20250921T142000
+DTSTAMP:20250921T132000Z
+UID:2025-09-21T13:20:00/Frankfurt - Union Berlin
+DESCRIPTION:Frankfurt - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - M´gladbach - Bundesliga - synsportviaplay
+DTSTART:20250921T152000
+DTEND:20250921T162000
+DTSTAMP:20250921T152000Z
+UID:2025-09-21T15:20:00/Leverkusen - M´gladbach
+DESCRIPTION:Leverkusen - M´gladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20250921T152000
+DTEND:20250921T162000
+DTSTAMP:20250921T152000Z
+UID:2025-09-21T15:20:00/Leverkusen - Mönchengladbach
+DESCRIPTION:Leverkusen - Mönchengladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Wolfsburg - Bundesliga - viaplay
+DTSTART:20250921T172000
+DTEND:20250921T182000
+DTSTAMP:20250921T172000Z
+UID:2025-09-21T17:20:00/Dortmund - Wolfsburg
+DESCRIPTION:Dortmund - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Wolfsburg - Bundesliga - synsportviaplay
+DTSTART:20250921T172500
+DTEND:20250921T182500
+DTSTAMP:20250921T172500Z
+UID:2025-09-21T17:25:00/Dortmund - Wolfsburg
+DESCRIPTION:Dortmund - Wolfsburg - Bundesliga
 END:VEVENT
 END:VCALENDAR
