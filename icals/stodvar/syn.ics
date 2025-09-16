@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:ÍA - Afturelding - Besta deild karla - synsportisland2
-DTSTART:20250915T163500
-DTEND:20250915T173500
-DTSTAMP:20250915T163500Z
-UID:2025-09-15T16:35:00/ÍA - Afturelding
-DESCRIPTION:ÍA - Afturelding - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norrköping - Djurgarden - Sænska úrvalsdeildin - synsportviapla
- y
-DTSTART:20250915T165000
-DTEND:20250915T175000
-DTSTAMP:20250915T165000Z
-UID:2025-09-15T16:50:00/Norrköping - Djurgarden
-DESCRIPTION:Norrköping - Djurgarden - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - ÍBV - Besta deild karla - synsportisland
-DTSTART:20250915T174500
-DTEND:20250915T184500
-DTSTAMP:20250915T174500Z
-UID:2025-09-15T17:45:00/Breiðablik - ÍBV
-DESCRIPTION:Breiðablik - ÍBV - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - synsportisland
-DTSTART:20250915T200500
-DTEND:20250915T210500
-DTSTAMP:20250915T200500Z
-UID:2025-09-15T20:05:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cubs - Pirates - MLB - synsportviaplay
-DTSTART:20250915T223000
-DTEND:20250915T233000
-DTSTAMP:20250915T223000Z
-UID:2025-09-15T22:30:00/Cubs - Pirates
-DESCRIPTION:Cubs - Pirates - MLB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juventus - Dortmund - UEFA Youth League - synsport
 DTSTART:20250916T115500
 DTEND:20250916T125500
@@ -83,20 +42,20 @@ UID:2025-09-16T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Madrid - Marseille - Meistaradeild Evrópu - synsport3
-DTSTART:20250916T185000
-DTEND:20250916T195000
-DTSTAMP:20250916T185000Z
-UID:2025-09-16T18:50:00/Real Madrid - Marseille
-DESCRIPTION:Real Madrid - Marseille - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tottenham - Villarreal - Meistaradeild Evrópu - synsport2
 DTSTART:20250916T185000
 DTEND:20250916T195000
 DTSTAMP:20250916T185000Z
 UID:2025-09-16T18:50:00/Tottenham - Villarreal
 DESCRIPTION:Tottenham - Villarreal - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid - Marseille - Meistaradeild Evrópu - synsport3
+DTSTART:20250916T185000
+DTEND:20250916T195000
+DTSTAMP:20250916T185000Z
+UID:2025-09-16T18:50:00/Real Madrid - Marseille
+DESCRIPTION:Real Madrid - Marseille - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juventus - Dortmund - Meistaradeild Evrópu - synsportviaplay
@@ -147,6 +106,14 @@ UID:2025-09-17T13:55:00/Liverpool - Atletico Madrid
 DESCRIPTION:Liverpool - Atletico Madrid - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Olympiacos - Pafos - Meistaradeild Evrópu - synsport2
+DTSTART:20250917T163500
+DTEND:20250917T173500
+DTSTAMP:20250917T163500Z
+UID:2025-09-17T16:35:00/Olympiacos - Pafos
+DESCRIPTION:Olympiacos - Pafos - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Slavia Prag - Bodö/Glimt - Meistaradeild Evrópu - synsportviapla
  y
 DTSTART:20250917T163500
@@ -154,14 +121,6 @@ DTEND:20250917T173500
 DTSTAMP:20250917T163500Z
 UID:2025-09-17T16:35:00/Slavia Prag - Bodö/Glimt
 DESCRIPTION:Slavia Prag - Bodö/Glimt - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Olympiacos - Pafos - Meistaradeild Evrópu - synsport2
-DTSTART:20250917T163500
-DTEND:20250917T173500
-DTSTAMP:20250917T163500Z
-UID:2025-09-17T16:35:00/Olympiacos - Pafos
-DESCRIPTION:Olympiacos - Pafos - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
@@ -172,14 +131,6 @@ UID:2025-09-17T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ajax - Inter - Meistaradeild Evrópu - synsport3
-DTSTART:20250917T185000
-DTEND:20250917T195000
-DTSTAMP:20250917T185000Z
-UID:2025-09-17T18:50:00/Ajax - Inter
-DESCRIPTION:Ajax - Inter - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Chelsea - Meistaradeild Evrópu - synsportviapla
  y
 DTSTART:20250917T185000
@@ -187,6 +138,14 @@ DTEND:20250917T195000
 DTSTAMP:20250917T185000Z
 UID:2025-09-17T18:50:00/Bayern München - Chelsea
 DESCRIPTION:Bayern München - Chelsea - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ajax - Inter - Meistaradeild Evrópu - synsport3
+DTSTART:20250917T185000
+DTEND:20250917T195000
+DTSTAMP:20250917T185000Z
+UID:2025-09-17T18:50:00/Ajax - Inter
+DESCRIPTION:Ajax - Inter - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Atletico Madrid - Meistaradeild Evrópu - synsport2
@@ -229,20 +188,20 @@ UID:2025-09-18T11:55:00/Manhester City - Napoli
 DESCRIPTION:Manhester City - Napoli - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FCK - Leverkusen - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20250918T163500
-DTEND:20250918T173500
-DTSTAMP:20250918T163500Z
-UID:2025-09-18T16:35:00/FCK - Leverkusen
-DESCRIPTION:FCK - Leverkusen - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. City - Napoli - Meistaradeild Evrópu - synsport2
 DTSTART:20250918T163500
 DTEND:20250918T173500
 DTSTAMP:20250918T163500Z
 UID:2025-09-18T16:35:00/Man. City - Napoli
 DESCRIPTION:Man. City - Napoli - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCK - Leverkusen - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20250918T163500
+DTEND:20250918T173500
+DTSTAMP:20250918T163500Z
+UID:2025-09-18T16:35:00/FCK - Leverkusen
+DESCRIPTION:FCK - Leverkusen - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
@@ -373,6 +332,14 @@ UID:2025-09-20T08:25:00/F1: Azerbaijan - Æfing 3
 DESCRIPTION:F1: Azerbaijan - Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FedEx Open de France - DP World Tour - synsportisland
+DTSTART:20250920T110000
+DTEND:20250920T120000
+DTSTAMP:20250920T110000Z
+UID:2025-09-20T11:00:00/FedEx Open de France
+DESCRIPTION:FedEx Open de France - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Liverpool - Everton - Premier League - synsport
 DTSTART:20250920T110000
 DTEND:20250920T120000
@@ -397,12 +364,12 @@ UID:2025-09-20T13:40:00/Brighton - Tottenham
 DESCRIPTION:Brighton - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolves - Leeds - Premier League - synsport4
+SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20250920T134000
 DTEND:20250920T144000
 DTSTAMP:20250920T134000Z
-UID:2025-09-20T13:40:00/Wolves - Leeds
-DESCRIPTION:Wolves - Leeds - Premier League
+UID:2025-09-20T13:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Crystal Palace - Premier League - synsport3
@@ -413,12 +380,44 @@ UID:2025-09-20T13:40:00/West Ham - Crystal Palace
 DESCRIPTION:West Ham - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
+SUMMARY:Wolves - Leeds - Premier League - synsport4
 DTSTART:20250920T134000
 DTEND:20250920T144000
 DTSTAMP:20250920T134000Z
-UID:2025-09-20T13:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
+UID:2025-09-20T13:40:00/Wolves - Leeds
+DESCRIPTION:Wolves - Leeds - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - FH - Besta deild kvenna - synsportisland4
+DTSTART:20250920T135000
+DTEND:20250920T145000
+DTSTAMP:20250920T135000Z
+UID:2025-09-20T13:50:00/Tindastóll - FH
+DESCRIPTION:Tindastóll - FH - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - FHL - Besta deild kvenna - synsportisland3
+DTSTART:20250920T135000
+DTEND:20250920T145000
+DTSTAMP:20250920T135000Z
+UID:2025-09-20T13:50:00/Víkingur R. - FHL
+DESCRIPTION:Víkingur R. - FHL - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þróttur R. - Stjarnan - Besta deild kvenna - synsportisland2
+DTSTART:20250920T135000
+DTEND:20250920T145000
+DTSTAMP:20250920T135000Z
+UID:2025-09-20T13:50:00/Þróttur R. - Stjarnan
+DESCRIPTION:Þróttur R. - Stjarnan - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Þór/KA - Besta deild kvenna - synsportisland
+DTSTART:20250920T135000
+DTEND:20250920T145000
+DTSTAMP:20250920T135000Z
+UID:2025-09-20T13:50:00/Breiðablik - Þór/KA
+DESCRIPTION:Breiðablik - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burnley - Nott. Forest - Premier League - synsport6
@@ -427,6 +426,14 @@ DTEND:20250920T145000
 DTSTAMP:20250920T135000Z
 UID:2025-09-20T13:50:00/Burnley - Nott. Forest
 DESCRIPTION:Burnley - Nott. Forest - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Newcastle - Premier League - synsport5
+DTSTART:20250920T135000
+DTEND:20250920T145000
+DTSTAMP:20250920T135000Z
+UID:2025-09-20T13:50:00/Bournemouth - Newcastle
+DESCRIPTION:Bournemouth - Newcastle - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield Utd. - Charlton - EFL Championship - synsportviaplay
@@ -445,22 +452,6 @@ UID:2025-09-20T13:50:00/Fram - Valur
 DESCRIPTION:Fram - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - FH - Besta deild kvenna - synsportisland4
-DTSTART:20250920T135000
-DTEND:20250920T145000
-DTSTAMP:20250920T135000Z
-UID:2025-09-20T13:50:00/Tindastóll - FH
-DESCRIPTION:Tindastóll - FH - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bournemouth - Newcastle - Premier League - synsport5
-DTSTART:20250920T135000
-DTEND:20250920T145000
-DTSTAMP:20250920T135000Z
-UID:2025-09-20T13:50:00/Bournemouth - Newcastle
-DESCRIPTION:Bournemouth - Newcastle - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. Utd. - Chelsea - Premier League - synsport
 DTSTART:20250920T162000
 DTEND:20250920T172000
@@ -475,6 +466,14 @@ DTEND:20250920T172000
 DTSTAMP:20250920T162000Z
 UID:2025-09-20T16:20:00/RB Leipzig - Köln
 DESCRIPTION:RB Leipzig - Köln - Bundesliga handbolti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
+DTSTART:20250920T170000
+DTEND:20250920T180000
+DTSTAMP:20250920T170000Z
+UID:2025-09-20T17:00:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürnberg - Bochum - 2. Bundesliga - synsportviaplay
@@ -557,14 +556,6 @@ UID:2025-09-21T15:20:00/Leverkusen - M´gladbach
 DESCRIPTION:Leverkusen - M´gladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Man. City: Player Cam - PL Player Cam - synsport5
-DTSTART:20250921T152500
-DTEND:20250921T162500
-DTSTAMP:20250921T152500Z
-UID:2025-09-21T15:25:00/Arsenal - Man. City: Player Cam
-DESCRIPTION:Arsenal - Man. City: Player Cam - PL Player Cam
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arsenal - Man. City: Data Zone - PL Data Zone - synsport6
 DTSTART:20250921T152500
 DTEND:20250921T162500
@@ -573,12 +564,20 @@ UID:2025-09-21T15:25:00/Arsenal - Man. City: Data Zone
 DESCRIPTION:Arsenal - Man. City: Data Zone - PL Data Zone
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NFL - NFL - synsport2
+SUMMARY:Arsenal - Man. City: Player Cam - PL Player Cam - synsport5
+DTSTART:20250921T152500
+DTEND:20250921T162500
+DTSTAMP:20250921T152500Z
+UID:2025-09-21T15:25:00/Arsenal - Man. City: Player Cam
+DESCRIPTION:Arsenal - Man. City: Player Cam - PL Player Cam
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eagles - Rams - NFL - synsport2
 DTSTART:20250921T165500
 DTEND:20250921T175500
 DTSTAMP:20250921T165500Z
-UID:2025-09-21T16:55:00/NFL
-DESCRIPTION:NFL - NFL
+UID:2025-09-21T16:55:00/Eagles - Rams
+DESCRIPTION:Eagles - Rams - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NFL Red Zone - NFL - synsport3
@@ -635,5 +634,29 @@ DTEND:20250922T002000
 DTSTAMP:20250921T232000Z
 UID:2025-09-21T23:20:00/Islanders - Flyers
 DESCRIPTION:Islanders - Flyers - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - RB Leipzig - Bundesliga kvenna - synsportviaplay
+DTSTART:20250922T155500
+DTEND:20250922T165500
+DTSTAMP:20250922T155500Z
+UID:2025-09-22T15:55:00/Frankfurt - RB Leipzig
+DESCRIPTION:Frankfurt - RB Leipzig - Bundesliga kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millwall - Watford - EFL Championship - synsportviaplay
+DTSTART:20250922T185000
+DTEND:20250922T195000
+DTSTAMP:20250922T185000Z
+UID:2025-09-22T18:50:00/Millwall - Watford
+DESCRIPTION:Millwall - Watford - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canadiens - Penguins - NHL - synsportviaplay
+DTSTART:20250922T230500
+DTEND:20250923T000500
+DTSTAMP:20250922T230500Z
+UID:2025-09-22T23:05:00/Canadiens - Penguins
+DESCRIPTION:Canadiens - Penguins - NHL
 END:VEVENT
 END:VCALENDAR

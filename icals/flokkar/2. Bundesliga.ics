@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20250919T162000
-DTEND:20250919T172000
-DTSTAMP:20250919T162000Z
-UID:2025-09-19T16:20:00/Kaiserslautern - Preußen Münster
+DTSTART:20250919T162500
+DTEND:20250919T172500
+DTSTAMP:20250919T162500Z
+UID:2025-09-19T16:25:00/Kaiserslautern - Preußen Münster
 DESCRIPTION:Kaiserslautern - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
@@ -16,6 +16,14 @@ DTEND:20250919T172500
 DTSTAMP:20250919T162500Z
 UID:2025-09-19T16:25:00/Arminia Bielefeld - Greuther Fürth
 DESCRIPTION:Arminia Bielefeld - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braunschweig - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20250920T105500
+DTEND:20250920T115500
+DTSTAMP:20250920T105500Z
+UID:2025-09-20T10:55:00/Braunschweig - Elversberg
+DESCRIPTION:Braunschweig - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magdeburg - Schalke - 2. Bundesliga - viaplay
@@ -34,15 +42,7 @@ UID:2025-09-20T10:55:00/Hertha Berlin - Paderborn
 DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschweig - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20250920T105500
-DTEND:20250920T115500
-DTSTAMP:20250920T105500Z
-UID:2025-09-20T10:55:00/Braunschweig - Elversberg
-DESCRIPTION:Braunschweig - Elversberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nürnberg - Bochum - 2. Bundesliga - viaplay
+SUMMARY:Nürnberg - Bochum - 2. Bundesliga - synsportviaplay
 DTSTART:20250920T182500
 DTEND:20250920T192500
 DTSTAMP:20250920T182500Z
@@ -50,7 +50,7 @@ UID:2025-09-20T18:25:00/Nürnberg - Bochum
 DESCRIPTION:Nürnberg - Bochum - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Bochum - 2. Bundesliga - synsportviaplay
+SUMMARY:Nürnberg - Bochum - 2. Bundesliga - viaplay
 DTSTART:20250920T182500
 DTEND:20250920T192500
 DTSTAMP:20250920T182500Z

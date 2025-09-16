@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Flensburg-Handewitt - Hannover-Burgdorf - Bundesliga - viaplay
-DTSTART:20250915T165500
-DTEND:20250915T175500
-DTSTAMP:20250915T165500Z
-UID:2025-09-15T16:55:00/Flensburg-Handewitt - Hannover-Burgdorf
-DESCRIPTION:Flensburg-Handewitt - Hannover-Burgdorf - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hannover-Burgdorf - THW Kiel - Bundesliga - viaplay
 DTSTART:20250918T165500
 DTEND:20250918T175500
@@ -26,12 +18,12 @@ UID:2025-09-19T18:20:00/Stuttgart - St. Pauli
 DESCRIPTION:Stuttgart - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Freiburg - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20250920T132000
 DTEND:20250920T142000
 DTSTAMP:20250920T132000Z
-UID:2025-09-20T13:20:00/Werder Bremen - Freiburg
-DESCRIPTION:Werder Bremen - Freiburg - Bundesliga
+UID:2025-09-20T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HSV - Heidenheim - Bundesliga - viaplay
@@ -42,14 +34,6 @@ UID:2025-09-20T13:20:00/HSV - Heidenheim
 DESCRIPTION:HSV - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Mainz - Bundesliga - viaplay
-DTSTART:20250920T132000
-DTEND:20250920T142000
-DTSTAMP:20250920T132000Z
-UID:2025-09-20T13:20:00/Augsburg - Mainz
-DESCRIPTION:Augsburg - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hoffenheim - Bayern München - Bundesliga - viaplay
 DTSTART:20250920T132000
 DTEND:20250920T142000
@@ -58,12 +42,20 @@ UID:2025-09-20T13:20:00/Hoffenheim - Bayern München
 DESCRIPTION:Hoffenheim - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Augsburg - Mainz - Bundesliga - viaplay
 DTSTART:20250920T132000
 DTEND:20250920T142000
 DTSTAMP:20250920T132000Z
-UID:2025-09-20T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2025-09-20T13:20:00/Augsburg - Mainz
+DESCRIPTION:Augsburg - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Freiburg - Bundesliga - viaplay
+DTSTART:20250920T132000
+DTEND:20250920T142000
+DTSTAMP:20250920T132000Z
+UID:2025-09-20T13:20:00/Werder Bremen - Freiburg
+DESCRIPTION:Werder Bremen - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Erlangen - Magdeburg - Bundesliga - viaplay

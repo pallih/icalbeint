@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Union Berlin - Frauen-Bundesliga - viaplay
-DTSTART:20250915T155500
-DTEND:20250915T165500
-DTSTAMP:20250915T155500Z
-UID:2025-09-15T15:55:00/Leverkusen - Union Berlin
-DESCRIPTION:Leverkusen - Union Berlin - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flensburg-Handewitt - Hannover-Burgdorf - Bundesliga - viaplay
-DTSTART:20250915T165500
-DTEND:20250915T175500
-DTSTAMP:20250915T165500Z
-UID:2025-09-15T16:55:00/Flensburg-Handewitt - Hannover-Burgdorf
-DESCRIPTION:Flensburg-Handewitt - Hannover-Burgdorf - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juventus - Dortmund - UEFA Youth League - viaplay
 DTSTART:20250916T115500
 DTEND:20250916T125500
@@ -66,20 +50,20 @@ UID:2025-09-16T18:50:00/Benfica - Qarabağ
 DESCRIPTION:Benfica - Qarabağ - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Juventus - Dortmund - Champions League - viaplay
-DTSTART:20250916T185000
-DTEND:20250916T195000
-DTSTAMP:20250916T185000Z
-UID:2025-09-16T18:50:00/Juventus - Dortmund
-DESCRIPTION:Juventus - Dortmund - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brentford - Aston Villa - Carabao Cup - viaplay
 DTSTART:20250916T185500
 DTEND:20250916T195500
 DTSTAMP:20250916T185500Z
 UID:2025-09-16T18:55:00/Brentford - Aston Villa
 DESCRIPTION:Brentford - Aston Villa - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus - Dortmund - Champions League - viaplay
+DTSTART:20250916T185500
+DTEND:20250916T195500
+DTSTAMP:20250916T185500Z
+UID:2025-09-16T18:55:00/Juventus - Dortmund
+DESCRIPTION:Juventus - Dortmund - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Millwall - Carabao Cup - viaplay
@@ -122,20 +106,20 @@ UID:2025-09-17T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Chelsea - Champions League - viaplay
-DTSTART:20250917T185000
-DTEND:20250917T195000
-DTSTAMP:20250917T185000Z
-UID:2025-09-17T18:50:00/Bayern München - Chelsea
-DESCRIPTION:Bayern München - Chelsea - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PSG - Atalanta - Champions League - viaplay
 DTSTART:20250917T185000
 DTEND:20250917T195000
 DTSTAMP:20250917T185000Z
 UID:2025-09-17T18:50:00/PSG - Atalanta
 DESCRIPTION:PSG - Atalanta - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Chelsea - Champions League - viaplay
+DTSTART:20250917T185000
+DTEND:20250917T195000
+DTSTAMP:20250917T185000Z
+UID:2025-09-17T18:50:00/Bayern München - Chelsea
+DESCRIPTION:Bayern München - Chelsea - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Nottingham Forest - Carabao Cup - viaplay
@@ -170,20 +154,20 @@ UID:2025-09-18T13:55:00/Man City - Napoli
 DESCRIPTION:Man City - Napoli - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F.C. København - Leverkusen - Champions League - viaplay
-DTSTART:20250918T163500
-DTEND:20250918T173500
-DTSTAMP:20250918T163500Z
-UID:2025-09-18T16:35:00/F.C. København - Leverkusen
-DESCRIPTION:F.C. København - Leverkusen - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Brugge - Monaco - Champions League - viaplay
 DTSTART:20250918T163500
 DTEND:20250918T173500
 DTSTAMP:20250918T163500Z
 UID:2025-09-18T16:35:00/Club Brugge - Monaco
 DESCRIPTION:Club Brugge - Monaco - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F.C. København - Leverkusen - Champions League - viaplay
+DTSTART:20250918T163500
+DTEND:20250918T173500
+DTSTAMP:20250918T163500Z
+UID:2025-09-18T16:35:00/F.C. København - Leverkusen
+DESCRIPTION:F.C. København - Leverkusen - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skellefteå - Färjestad - SHL - viaplay
@@ -234,13 +218,13 @@ UID:2025-09-19T08:25:00/Aserbaísjan Kappaksturinn (Æfing 1)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+SUMMARY:Onboard (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
  lay
 DTSTART:20250919T083000
 DTEND:20250919T093000
 DTSTAMP:20250919T083000Z
-UID:2025-09-19T08:30:00/Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2025-09-19T08:30:00/Onboard (Æfing 1 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 1 | Aserbaísjan Kappaksturinn) - Formul
@@ -254,13 +238,13 @@ DESCRIPTION:Track Positioning (Æfing 1 | Aserbaísjan Kappaksturinn) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+SUMMARY:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
  lay
 DTSTART:20250919T083000
 DTEND:20250919T093000
 DTSTAMP:20250919T083000Z
-UID:2025-09-19T08:30:00/Onboard (Æfing 1 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2025-09-19T08:30:00/Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
@@ -307,13 +291,12 @@ DESCRIPTION:Track Positioning (Æfing 2 | Aserbaísjan Kappaksturinn) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
- lay
+SUMMARY:Timing (Practice 2 | Azerbaijan Grand Prix) - Formula 1 - viaplay
 DTSTART:20250919T120000
 DTEND:20250919T130000
 DTSTAMP:20250919T120000Z
-UID:2025-09-19T12:00:00/Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2025-09-19T12:00:00/Timing (Practice 2 | Azerbaijan Grand Prix)
+DESCRIPTION:Timing (Practice 2 | Azerbaijan Grand Prix) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
@@ -325,12 +308,13 @@ UID:2025-09-19T12:00:00/Onboard (Æfing 2 | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Onboard (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Practice 2 | Azerbaijan Grand Prix) - Formula 1 - viaplay
+SUMMARY:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+ lay
 DTSTART:20250919T120000
 DTEND:20250919T130000
 DTSTAMP:20250919T120000Z
-UID:2025-09-19T12:00:00/Timing (Practice 2 | Azerbaijan Grand Prix)
-DESCRIPTION:Timing (Practice 2 | Azerbaijan Grand Prix) - Formula 1
+UID:2025-09-19T12:00:00/Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Sella Open - Ladies European Tour - viaplay
@@ -342,19 +326,11 @@ DESCRIPTION:La Sella Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20250919T162000
-DTEND:20250919T172000
-DTSTAMP:20250919T162000Z
-UID:2025-09-19T16:20:00/Kaiserslautern - Preußen Münster
+DTSTART:20250919T162500
+DTEND:20250919T172500
+DTSTAMP:20250919T162500Z
+UID:2025-09-19T16:25:00/Kaiserslautern - Preußen Münster
 DESCRIPTION:Kaiserslautern - Preußen Münster - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - HSV - Frauen-Bundesliga - viaplay
-DTSTART:20250919T162000
-DTEND:20250919T172000
-DTSTAMP:20250919T162000Z
-UID:2025-09-19T16:20:00/Freiburg - HSV
-DESCRIPTION:Freiburg - HSV - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arminia Bielefeld - Greuther Fürth - 2. Bundesliga - viaplay
@@ -363,6 +339,14 @@ DTEND:20250919T172500
 DTSTAMP:20250919T162500Z
 UID:2025-09-19T16:25:00/Arminia Bielefeld - Greuther Fürth
 DESCRIPTION:Arminia Bielefeld - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - HSV - Frauen-Bundesliga - viaplay
+DTSTART:20250919T162500
+DTEND:20250919T172500
+DTSTAMP:20250919T162500Z
+UID:2025-09-19T16:25:00/Freiburg - HSV
+DESCRIPTION:Freiburg - HSV - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linköping - Piteå - OBOS Damallsvenskan - viaplay
@@ -415,6 +399,15 @@ UID:2025-09-20T08:25:00/Aserbaísjan Kappaksturinn (Æfing 3)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250920T083000
+DTEND:20250920T093000
+DTSTAMP:20250920T083000Z
+UID:2025-09-20T08:30:00/Onboard (Æfing 3 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Æfing 3 | Aserbaísjan Kappaksturinn) - Formul
  a 1 - viaplay
 DTSTART:20250920T083000
@@ -426,13 +419,13 @@ DESCRIPTION:Track Positioning (Æfing 3 | Aserbaísjan Kappaksturinn) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+SUMMARY:Pitlane (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
  lay
 DTSTART:20250920T083000
 DTEND:20250920T093000
 DTSTAMP:20250920T083000Z
-UID:2025-09-20T08:30:00/Onboard (Æfing 3 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2025-09-20T08:30:00/Pitlane (Æfing 3 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Pitlane (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
@@ -442,15 +435,6 @@ DTEND:20250920T093000
 DTSTAMP:20250920T083000Z
 UID:2025-09-20T08:30:00/Timing (Æfing 3 | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Timing (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20250920T083000
-DTEND:20250920T093000
-DTSTAMP:20250920T083000Z
-UID:2025-09-20T08:30:00/Pitlane (Æfing 3 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Pitlane (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Baku (Sprettkeppni) - Formula 2 - viaplay
@@ -477,6 +461,14 @@ UID:2025-09-20T10:50:00/AIK - Växjö
 DESCRIPTION:AIK - Växjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vittsjö - Norrköping - OBOS Damallsvenskan - viaplay
+DTSTART:20250920T105000
+DTEND:20250920T115000
+DTSTAMP:20250920T105000Z
+UID:2025-09-20T10:50:00/Vittsjö - Norrköping
+DESCRIPTION:Vittsjö - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alingsås - Malmö FF - OBOS Damallsvenskan - viaplay
 DTSTART:20250920T105000
 DTEND:20250920T115000
@@ -485,12 +477,12 @@ UID:2025-09-20T10:50:00/Alingsås - Malmö FF
 DESCRIPTION:Alingsås - Malmö FF - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vittsjö - Norrköping - OBOS Damallsvenskan - viaplay
-DTSTART:20250920T105000
-DTEND:20250920T115000
-DTSTAMP:20250920T105000Z
-UID:2025-09-20T10:50:00/Vittsjö - Norrköping
-DESCRIPTION:Vittsjö - Norrköping - OBOS Damallsvenskan
+SUMMARY:Braunschweig - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20250920T105500
+DTEND:20250920T115500
+DTSTAMP:20250920T105500Z
+UID:2025-09-20T10:55:00/Braunschweig - Elversberg
+DESCRIPTION:Braunschweig - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magdeburg - Schalke - 2. Bundesliga - viaplay
@@ -507,14 +499,6 @@ DTEND:20250920T115500
 DTSTAMP:20250920T105500Z
 UID:2025-09-20T10:55:00/Hertha Berlin - Paderborn
 DESCRIPTION:Hertha Berlin - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Braunschweig - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20250920T105500
-DTEND:20250920T115500
-DTSTAMP:20250920T105500Z
-UID:2025-09-20T10:55:00/Braunschweig - Elversberg
-DESCRIPTION:Braunschweig - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
@@ -567,6 +551,17 @@ UID:2025-09-20T11:55:00/Bayern München - Carl Zeiss Jena
 DESCRIPTION:Bayern München - Carl Zeiss Jena - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 -
+  viaplay
+DTSTART:20250920T120000
+DTEND:20250920T130000
+DTSTAMP:20250920T120000Z
+UID:2025-09-20T12:00:00/Pitlane (Tímatökur | Aserbaísjan Kappaksturin
+ n)
+DESCRIPTION:Pitlane (Tímatökur | Aserbaísjan Kappaksturinn) - Formula
+  1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 - 
  viaplay
 DTSTART:20250920T120000
@@ -600,55 +595,12 @@ DESCRIPTION:Track Positioning (Tímatökur | Aserbaísjan Kappaksturinn)
   - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 -
-  viaplay
-DTSTART:20250920T120000
-DTEND:20250920T130000
-DTSTAMP:20250920T120000Z
-UID:2025-09-20T12:00:00/Pitlane (Tímatökur | Aserbaísjan Kappaksturin
- n)
-DESCRIPTION:Pitlane (Tímatökur | Aserbaísjan Kappaksturinn) - Formula
-  1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La Sella Open - Ladies European Tour - viaplay
 DTSTART:20250920T130000
 DTEND:20250920T140000
 DTSTAMP:20250920T130000Z
 UID:2025-09-20T13:00:00/La Sella Open
 DESCRIPTION:La Sella Open - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werder Bremen - Freiburg - Bundesliga - viaplay
-DTSTART:20250920T132000
-DTEND:20250920T142000
-DTSTAMP:20250920T132000Z
-UID:2025-09-20T13:20:00/Werder Bremen - Freiburg
-DESCRIPTION:Werder Bremen - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HSV - Heidenheim - Bundesliga - viaplay
-DTSTART:20250920T132000
-DTEND:20250920T142000
-DTSTAMP:20250920T132000Z
-UID:2025-09-20T13:20:00/HSV - Heidenheim
-DESCRIPTION:HSV - Heidenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - Mainz - Bundesliga - viaplay
-DTSTART:20250920T132000
-DTEND:20250920T142000
-DTSTAMP:20250920T132000Z
-UID:2025-09-20T13:20:00/Augsburg - Mainz
-DESCRIPTION:Augsburg - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Bayern München - Bundesliga - viaplay
-DTSTART:20250920T132000
-DTEND:20250920T142000
-DTSTAMP:20250920T132000Z
-UID:2025-09-20T13:20:00/Hoffenheim - Bayern München
-DESCRIPTION:Hoffenheim - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -659,6 +611,38 @@ UID:2025-09-20T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSV - Heidenheim - Bundesliga - viaplay
+DTSTART:20250920T132000
+DTEND:20250920T142000
+DTSTAMP:20250920T132000Z
+UID:2025-09-20T13:20:00/HSV - Heidenheim
+DESCRIPTION:HSV - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Bayern München - Bundesliga - viaplay
+DTSTART:20250920T132000
+DTEND:20250920T142000
+DTSTAMP:20250920T132000Z
+UID:2025-09-20T13:20:00/Hoffenheim - Bayern München
+DESCRIPTION:Hoffenheim - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Mainz - Bundesliga - viaplay
+DTSTART:20250920T132000
+DTEND:20250920T142000
+DTSTAMP:20250920T132000Z
+UID:2025-09-20T13:20:00/Augsburg - Mainz
+DESCRIPTION:Augsburg - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Freiburg - Bundesliga - viaplay
+DTSTART:20250920T132000
+DTEND:20250920T142000
+DTSTAMP:20250920T132000Z
+UID:2025-09-20T13:20:00/Werder Bremen - Freiburg
+DESCRIPTION:Werder Bremen - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spa-Francorchamps (Coppa Shell | Kappakstur 1) - Ferrari Challeng
  e Europe - viaplay
 DTSTART:20250920T133500
@@ -667,6 +651,16 @@ DTSTAMP:20250920T133500Z
 UID:2025-09-20T13:35:00/Spa-Francorchamps (Coppa Shell | Kappakstur 1)
 DESCRIPTION:Spa-Francorchamps (Coppa Shell | Kappakstur 1) - Ferrari Chal
  lenge Europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Mans (Kappakstur 1) - FIA European Truck Racing Championship - 
+ viaplay
+DTSTART:20250920T134000
+DTEND:20250920T144000
+DTSTAMP:20250920T134000Z
+UID:2025-09-20T13:40:00/Le Mans (Kappakstur 1)
+DESCRIPTION:Le Mans (Kappakstur 1) - FIA European Truck Racing Championshi
+ p
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield United - Charlton - Championship - viaplay
@@ -695,20 +689,20 @@ DESCRIPTION:Barcelona (Kappakstur 1) - Formula Regional European Champions
  hip
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Erlangen - Magdeburg - Bundesliga - viaplay
-DTSTART:20250920T155500
-DTEND:20250920T165500
-DTSTAMP:20250920T155500Z
-UID:2025-09-20T15:55:00/Erlangen - Magdeburg
-DESCRIPTION:Erlangen - Magdeburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frölunda - Luleå - SHL - viaplay
 DTSTART:20250920T155500
 DTEND:20250920T165500
 DTSTAMP:20250920T155500Z
 UID:2025-09-20T15:55:00/Frölunda - Luleå
 DESCRIPTION:Frölunda - Luleå - SHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erlangen - Magdeburg - Bundesliga - viaplay
+DTSTART:20250920T155500
+DTEND:20250920T165500
+DTSTAMP:20250920T155500Z
+UID:2025-09-20T15:55:00/Erlangen - Magdeburg
+DESCRIPTION:Erlangen - Magdeburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NCTS Playoffs Race at New Hampshire (Truck Series) - Nascar - viap
@@ -726,6 +720,16 @@ DTEND:20250920T172000
 DTSTAMP:20250920T162000Z
 UID:2025-09-20T16:20:00/Leipzig - Köln
 DESCRIPTION:Leipzig - Köln - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Mans (Kappakstur 2) - FIA European Truck Racing Championship - 
+ viaplay
+DTSTART:20250920T162500
+DTEND:20250920T172500
+DTSTAMP:20250920T162500Z
+UID:2025-09-20T16:25:00/Le Mans (Kappakstur 2)
+DESCRIPTION:Le Mans (Kappakstur 2) - FIA European Truck Racing Championshi
+ p
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
@@ -777,6 +781,15 @@ UID:2025-09-21T10:30:00/Aserbaísjan Kappaksturinn (Kappakstur)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20250921T110000
+DTEND:20250921T120000
+DTSTAMP:20250921T110000Z
+UID:2025-09-21T11:00:00/Timing (Kappakstur | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - vi
  aplay
 DTSTART:20250921T110000
@@ -786,15 +799,12 @@ UID:2025-09-21T11:00:00/Pitlane (Kappakstur | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Pitlane (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - Form
- ula 1 - viaplay
+SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
 DTSTART:20250921T110000
 DTEND:20250921T120000
 DTSTAMP:20250921T110000Z
-UID:2025-09-21T11:00:00/Track Positioning (Kappakstur | Aserbaísjan Kappa
- ksturinn)
-DESCRIPTION:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - 
- Formula 1
+UID:2025-09-21T11:00:00/Hungarian Darts Trophy
+DESCRIPTION:Hungarian Darts Trophy - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - vi
@@ -806,21 +816,15 @@ UID:2025-09-21T11:00:00/Onboard (Kappakstur | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Onboard (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - via
- play
+SUMMARY:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - Form
+ ula 1 - viaplay
 DTSTART:20250921T110000
 DTEND:20250921T120000
 DTSTAMP:20250921T110000Z
-UID:2025-09-21T11:00:00/Timing (Kappakstur | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
-DTSTART:20250921T110000
-DTEND:20250921T120000
-DTSTAMP:20250921T110000Z
-UID:2025-09-21T11:00:00/Hungarian Darts Trophy
-DESCRIPTION:Hungarian Darts Trophy - PDC Darts
+UID:2025-09-21T11:00:00/Track Positioning (Kappakstur | Aserbaísjan Kappa
+ ksturinn)
+DESCRIPTION:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - 
+ Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Düsseldorf - Darmstadt - 2. Bundesliga - viaplay
@@ -855,6 +859,16 @@ DTSTAMP:20250921T113000Z
 UID:2025-09-21T11:30:00/Spa-Francorchamps (Trofeo Pirelli | Kappakstur 2)
 DESCRIPTION:Spa-Francorchamps (Trofeo Pirelli | Kappakstur 2) - Ferrari C
  hallenge Europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Mans (Kappakstur 3) - FIA European Truck Racing Championship - 
+ viaplay
+DTSTART:20250921T114500
+DTEND:20250921T124500
+DTSTAMP:20250921T114500Z
+UID:2025-09-21T11:45:00/Le Mans (Kappakstur 3)
+DESCRIPTION:Le Mans (Kappakstur 3) - FIA European Truck Racing Championshi
+ p
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Füchse Berlin - Melsungen - Bundesliga - viaplay
@@ -897,6 +911,16 @@ DTEND:20250921T145000
 DTSTAMP:20250921T135000Z
 UID:2025-09-21T13:50:00/Häcken - Rosengård
 DESCRIPTION:Häcken - Rosengård - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Mans (Kappakstur 4) - FIA European Truck Racing Championship - 
+ viaplay
+DTSTART:20250921T143000
+DTEND:20250921T153000
+DTSTAMP:20250921T143000Z
+UID:2025-09-21T14:30:00/Le Mans (Kappakstur 4)
+DESCRIPTION:Le Mans (Kappakstur 4) - FIA European Truck Racing Championshi
+ p
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barcelona (Kappakstur 2) - Formula Regional European Championship 
@@ -960,20 +984,20 @@ UID:2025-09-21T16:30:00/UEL/UECL Magazine
 DESCRIPTION:UEL/UECL Magazine - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
-DTSTART:20250921T170000
-DTEND:20250921T180000
-DTSTAMP:20250921T170000Z
-UID:2025-09-21T17:00:00/Hungarian Darts Trophy
-DESCRIPTION:Hungarian Darts Trophy - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ottawa - Toronto - NHL - viaplay
 DTSTART:20250921T170000
 DTEND:20250921T180000
 DTSTAMP:20250921T170000Z
 UID:2025-09-21T17:00:00/Ottawa - Toronto
 DESCRIPTION:Ottawa - Toronto - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hungarian Darts Trophy - PDC Darts - viaplay
+DTSTART:20250921T170000
+DTEND:20250921T180000
+DTSTAMP:20250921T170000Z
+UID:2025-09-21T17:00:00/Hungarian Darts Trophy
+DESCRIPTION:Hungarian Darts Trophy - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Wolfsburg - Bundesliga - viaplay
@@ -990,5 +1014,21 @@ DTEND:20250921T183000
 DTSTAMP:20250921T173000Z
 UID:2025-09-21T17:30:00/NCS Playoffs Race at New Hampshire (Cup Series)
 DESCRIPTION:NCS Playoffs Race at New Hampshire (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Leipzig - Frauen-Bundesliga - viaplay
+DTSTART:20250922T155500
+DTEND:20250922T165500
+DTSTAMP:20250922T155500Z
+UID:2025-09-22T15:55:00/Frankfurt - Leipzig
+DESCRIPTION:Frankfurt - Leipzig - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millwall - Watford - Championship - viaplay
+DTSTART:20250922T185500
+DTEND:20250922T195500
+DTSTAMP:20250922T185500Z
+UID:2025-09-22T18:55:00/Millwall - Watford
+DESCRIPTION:Millwall - Watford - Championship
 END:VEVENT
 END:VCALENDAR
