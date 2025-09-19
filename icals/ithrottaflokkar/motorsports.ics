@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:F1: Azerbaijan - Æfing 1 - Formúla 1 - synsportviaplay
-DTSTART:20250919T082500
-DTEND:20250919T092500
-DTSTAMP:20250919T082500Z
-UID:2025-09-19T08:25:00/F1: Azerbaijan - Æfing 1
-DESCRIPTION:F1: Azerbaijan - Æfing 1 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aserbaísjan Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20250919T082500
 DTEND:20250919T092500
@@ -18,15 +10,12 @@ UID:2025-09-19T08:25:00/Aserbaísjan Kappaksturinn (Æfing 1)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 1 | Aserbaísjan Kappaksturinn) - Formul
- a 1 - viaplay
-DTSTART:20250919T083000
-DTEND:20250919T093000
-DTSTAMP:20250919T083000Z
-UID:2025-09-19T08:30:00/Track Positioning (Æfing 1 | Aserbaísjan Kappaks
- turinn)
-DESCRIPTION:Track Positioning (Æfing 1 | Aserbaísjan Kappaksturinn) - Fo
- rmula 1
+SUMMARY:F1: Azerbaijan - Æfing 1 - Formúla 1 - synsportviaplay
+DTSTART:20250919T082500
+DTEND:20250919T092500
+DTSTAMP:20250919T082500Z
+UID:2025-09-19T08:25:00/F1: Azerbaijan - Æfing 1
+DESCRIPTION:F1: Azerbaijan - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
@@ -56,6 +45,17 @@ UID:2025-09-19T08:30:00/Timing (Æfing 1 | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Timing (Æfing 1 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Æfing 1 | Aserbaísjan Kappaksturinn) - Formul
+ a 1 - viaplay
+DTSTART:20250919T083000
+DTEND:20250919T093000
+DTSTAMP:20250919T083000Z
+UID:2025-09-19T08:30:00/Track Positioning (Æfing 1 | Aserbaísjan Kappaks
+ turinn)
+DESCRIPTION:Track Positioning (Æfing 1 | Aserbaísjan Kappaksturinn) - Fo
+ rmula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Baku (Tímatökur) - Formula 2 - viaplay
 DTSTART:20250919T095500
 DTEND:20250919T105500
@@ -80,15 +80,13 @@ UID:2025-09-19T11:55:00/Aserbaísjan Kappaksturinn (Æfing 2)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Æfing 2 | Aserbaísjan Kappaksturinn) - Formul
- a 1 - viaplay
+SUMMARY:Onboard (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+ lay
 DTSTART:20250919T120000
 DTEND:20250919T130000
 DTSTAMP:20250919T120000Z
-UID:2025-09-19T12:00:00/Track Positioning (Æfing 2 | Aserbaísjan Kappaks
- turinn)
-DESCRIPTION:Track Positioning (Æfing 2 | Aserbaísjan Kappaksturinn) - Fo
- rmula 1
+UID:2025-09-19T12:00:00/Onboard (Æfing 2 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Practice 2 | Azerbaijan Grand Prix) - Formula 1 - viaplay
@@ -108,13 +106,15 @@ UID:2025-09-19T12:00:00/Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn)
 DESCRIPTION:Pitlane (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
- lay
+SUMMARY:Track Positioning (Æfing 2 | Aserbaísjan Kappaksturinn) - Formul
+ a 1 - viaplay
 DTSTART:20250919T120000
 DTEND:20250919T130000
 DTSTAMP:20250919T120000Z
-UID:2025-09-19T12:00:00/Onboard (Æfing 2 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 2 | Aserbaísjan Kappaksturinn) - Formula 1
+UID:2025-09-19T12:00:00/Track Positioning (Æfing 2 | Aserbaísjan Kappaks
+ turinn)
+DESCRIPTION:Track Positioning (Æfing 2 | Aserbaísjan Kappaksturinn) - Fo
+ rmula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World RX of Turkey (5. umferð | Tímatökur 1) - World Rallycros
@@ -153,6 +153,15 @@ UID:2025-09-20T08:25:00/Aserbaísjan Kappaksturinn (Æfing 3)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
+ lay
+DTSTART:20250920T083000
+DTEND:20250920T093000
+DTSTAMP:20250920T083000Z
+UID:2025-09-20T08:30:00/Onboard (Æfing 3 | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viapl
  ay
 DTSTART:20250920T083000
@@ -171,15 +180,6 @@ UID:2025-09-20T08:30:00/Track Positioning (Æfing 3 | Aserbaísjan Kappaks
  turinn)
 DESCRIPTION:Track Positioning (Æfing 3 | Aserbaísjan Kappaksturinn) - Fo
  rmula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
- lay
-DTSTART:20250920T083000
-DTEND:20250920T093000
-DTSTAMP:20250920T083000Z
-UID:2025-09-20T08:30:00/Onboard (Æfing 3 | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Onboard (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Æfing 3 | Aserbaísjan Kappaksturinn) - Formula 1 - viap
@@ -243,26 +243,14 @@ UID:2025-09-20T11:45:00/Aserbaísjan Kappaksturinn (Tímatökur)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 -
-  viaplay
+SUMMARY:World RX of Turkey (5. umferð | Úrslit) - World Rallycross Cham
+ pionship - viaplay
 DTSTART:20250920T120000
 DTEND:20250920T130000
 DTSTAMP:20250920T120000Z
-UID:2025-09-20T12:00:00/Onboard (Tímatökur | Aserbaísjan Kappaksturin
- n)
-DESCRIPTION:Onboard (Tímatökur | Aserbaísjan Kappaksturinn) - Formula
-  1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 - 
- viaplay
-DTSTART:20250920T120000
-DTEND:20250920T130000
-DTSTAMP:20250920T120000Z
-UID:2025-09-20T12:00:00/Timing (Tímatökur | Aserbaísjan Kappaksturinn
- )
-DESCRIPTION:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 
- 1
+UID:2025-09-20T12:00:00/World RX of Turkey (5. umferð | Úrslit)
+DESCRIPTION:World RX of Turkey (5. umferð | Úrslit) - World Rallycross 
+ Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Tímatökur | Aserbaísjan Kappaksturinn) - F
@@ -276,14 +264,26 @@ DESCRIPTION:Track Positioning (Tímatökur | Aserbaísjan Kappaksturinn)
   - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World RX of Turkey (5. umferð | Úrslit) - World Rallycross Cham
- pionship - viaplay
+SUMMARY:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 - 
+ viaplay
 DTSTART:20250920T120000
 DTEND:20250920T130000
 DTSTAMP:20250920T120000Z
-UID:2025-09-20T12:00:00/World RX of Turkey (5. umferð | Úrslit)
-DESCRIPTION:World RX of Turkey (5. umferð | Úrslit) - World Rallycross 
- Championship
+UID:2025-09-20T12:00:00/Timing (Tímatökur | Aserbaísjan Kappaksturinn
+ )
+DESCRIPTION:Timing (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 -
+  viaplay
+DTSTART:20250920T120000
+DTEND:20250920T130000
+DTSTAMP:20250920T120000Z
+UID:2025-09-20T12:00:00/Onboard (Tímatökur | Aserbaísjan Kappaksturin
+ n)
+DESCRIPTION:Onboard (Tímatökur | Aserbaísjan Kappaksturinn) - Formula
+  1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Tímatökur | Aserbaísjan Kappaksturinn) - Formula 1 -
@@ -364,6 +364,16 @@ DESCRIPTION:World RX of Turkey (6. umferð | Tímatökur 1) - World Rally
  cross Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spa-Francorchamps (Coppa Shell AM | Kappakstur 2) - Ferrari Chall
+ enge Europe - viaplay
+DTSTART:20250921T082000
+DTEND:20250921T092000
+DTSTAMP:20250921T082000Z
+UID:2025-09-21T08:20:00/Spa-Francorchamps (Coppa Shell AM | Kappakstur 2)
+DESCRIPTION:Spa-Francorchamps (Coppa Shell AM | Kappakstur 2) - Ferrari C
+ hallenge Europe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:World RX of Turkey (6. umferð | Tímatökur 2) - World Rallycros
  s Championship - viaplay
 DTSTART:20250921T083000
@@ -383,6 +393,16 @@ UID:2025-09-21T09:35:00/Barcelona (Kappakstur 2)
 DESCRIPTION:Barcelona (Kappakstur 2) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:World RX of Turkey (6. umferð | Tímatökur 3) - World Rallycros
+ s Championship - viaplay
+DTSTART:20250921T103000
+DTEND:20250921T113000
+DTSTAMP:20250921T103000Z
+UID:2025-09-21T10:30:00/World RX of Turkey (6. umferð | Tímatökur 3)
+DESCRIPTION:World RX of Turkey (6. umferð | Tímatökur 3) - World Rally
+ cross Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:F1: Azerbaijan - Keppni - Formúla 1 - synsportviaplay
 DTSTART:20250921T103000
 DTEND:20250921T113000
@@ -399,25 +419,6 @@ UID:2025-09-21T10:30:00/Aserbaísjan Kappaksturinn (Kappakstur)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World RX of Turkey (6. umferð | Tímatökur 3) - World Rallycros
- s Championship - viaplay
-DTSTART:20250921T103000
-DTEND:20250921T113000
-DTSTAMP:20250921T103000Z
-UID:2025-09-21T10:30:00/World RX of Turkey (6. umferð | Tímatökur 3)
-DESCRIPTION:World RX of Turkey (6. umferð | Tímatökur 3) - World Rally
- cross Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - via
- play
-DTSTART:20250921T110000
-DTEND:20250921T120000
-DTSTAMP:20250921T110000Z
-UID:2025-09-21T11:00:00/Timing (Kappakstur | Aserbaísjan Kappaksturinn)
-DESCRIPTION:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - Form
  ula 1 - viaplay
 DTSTART:20250921T110000
@@ -427,6 +428,15 @@ UID:2025-09-21T11:00:00/Track Positioning (Kappakstur | Aserbaísjan Kappa
  ksturinn)
 DESCRIPTION:Track Positioning (Kappakstur | Aserbaísjan Kappaksturinn) - 
  Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - via
+ play
+DTSTART:20250921T110000
+DTEND:20250921T120000
+DTSTAMP:20250921T110000Z
+UID:2025-09-21T11:00:00/Timing (Kappakstur | Aserbaísjan Kappaksturinn)
+DESCRIPTION:Timing (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Kappakstur | Aserbaísjan Kappaksturinn) - Formula 1 - vi
@@ -532,5 +542,13 @@ DTEND:20250921T183000
 DTSTAMP:20250921T173000Z
 UID:2025-09-21T17:30:00/NCS Playoffs Race at New Hampshire (Cup Series)
 DESCRIPTION:NCS Playoffs Race at New Hampshire (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Japanski Kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
+DTSTART:20250925T235500
+DTEND:20250926T005500
+DTSTAMP:20250925T235500Z
+UID:2025-09-25T23:55:00/Japanski Kappaksturinn (Frjáls æfing 1)
+DESCRIPTION:Japanski Kappaksturinn (Frjáls æfing 1) - Moto3
 END:VEVENT
 END:VCALENDAR
