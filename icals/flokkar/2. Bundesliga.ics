@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20250919T162500
-DTEND:20250919T172500
-DTSTAMP:20250919T162500Z
-UID:2025-09-19T16:25:00/Kaiserslautern - Preußen Münster
-DESCRIPTION:Kaiserslautern - Preußen Münster - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arminia Bielefeld - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20250919T162500
-DTEND:20250919T172500
-DTSTAMP:20250919T162500Z
-UID:2025-09-19T16:25:00/Arminia Bielefeld - Greuther Fürth
-DESCRIPTION:Arminia Bielefeld - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Schalke - 2. Bundesliga - viaplay
 DTSTART:20250920T105500
 DTEND:20250920T115500
@@ -42,14 +26,6 @@ UID:2025-09-20T10:55:00/Braunschweig - Elversberg
 DESCRIPTION:Braunschweig - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Bochum - 2. Bundesliga - viaplay
-DTSTART:20250920T182500
-DTEND:20250920T192500
-DTSTAMP:20250920T182500Z
-UID:2025-09-20T18:25:00/Nürnberg - Bochum
-DESCRIPTION:Nürnberg - Bochum - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürnberg - Bochum - 2. Bundesliga - synsportviaplay
 DTSTART:20250920T182500
 DTEND:20250920T192500
@@ -58,12 +34,20 @@ UID:2025-09-20T18:25:00/Nürnberg - Bochum
 DESCRIPTION:Nürnberg - Bochum - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Karlsruher - 2. Bundesliga - viaplay
+SUMMARY:Nürnberg - Bochum - 2. Bundesliga - viaplay
+DTSTART:20250920T182500
+DTEND:20250920T192500
+DTSTAMP:20250920T182500Z
+UID:2025-09-20T18:25:00/Nürnberg - Bochum
+DESCRIPTION:Nürnberg - Bochum - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf - Darmstadt - 2. Bundesliga - viaplay
 DTSTART:20250921T112500
 DTEND:20250921T122500
 DTSTAMP:20250921T112500Z
-UID:2025-09-21T11:25:00/Holstein Kiel - Karlsruher
-DESCRIPTION:Holstein Kiel - Karlsruher - 2. Bundesliga
+UID:2025-09-21T11:25:00/Düsseldorf - Darmstadt
+DESCRIPTION:Düsseldorf - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dynamo Dresden - Hannover - 2. Bundesliga - viaplay
@@ -74,11 +58,27 @@ UID:2025-09-21T11:25:00/Dynamo Dresden - Hannover
 DESCRIPTION:Dynamo Dresden - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Darmstadt - 2. Bundesliga - viaplay
+SUMMARY:Holstein Kiel - Karlsruher - 2. Bundesliga - viaplay
 DTSTART:20250921T112500
 DTEND:20250921T122500
 DTSTAMP:20250921T112500Z
-UID:2025-09-21T11:25:00/Düsseldorf - Darmstadt
-DESCRIPTION:Düsseldorf - Darmstadt - 2. Bundesliga
+UID:2025-09-21T11:25:00/Holstein Kiel - Karlsruher
+DESCRIPTION:Holstein Kiel - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Dynamo Dresden - 2. Bundesliga - viaplay
+DTSTART:20250926T162500
+DTEND:20250926T172500
+DTSTAMP:20250926T162500Z
+UID:2025-09-26T16:25:00/Darmstadt - Dynamo Dresden
+DESCRIPTION:Darmstadt - Dynamo Dresden - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schalke - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20250926T162500
+DTEND:20250926T172500
+DTSTAMP:20250926T162500Z
+UID:2025-09-26T16:25:00/Schalke - Greuther Fürth
+DESCRIPTION:Schalke - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
