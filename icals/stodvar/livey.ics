@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Cagliari - Frosinone - Serie A - Ítalski boltinn - livey
-DTSTART:20250923T150000
-DTEND:20250923T160000
-DTSTAMP:20250923T150000Z
-UID:2025-09-23T15:00:00/Cagliari - Frosinone
-DESCRIPTION:Cagliari - Frosinone - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Udinese - Palermo - Serie A - Ítalski boltinn - livey
-DTSTART:20250923T163000
-DTEND:20250923T173000
-DTSTAMP:20250923T163000Z
-UID:2025-09-23T16:30:00/Udinese - Palermo
-DESCRIPTION:Udinese - Palermo - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AC Milan - Lecce - Serie A - Ítalski boltinn - livey
-DTSTART:20250923T190000
-DTEND:20250923T200000
-DTSTAMP:20250923T190000Z
-UID:2025-09-23T19:00:00/AC Milan - Lecce
-DESCRIPTION:AC Milan - Lecce - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Parma - Spezia - Serie A - Ítalski boltinn - livey
 DTSTART:20250924T150000
 DTEND:20250924T160000
@@ -58,6 +34,14 @@ UID:2025-09-24T16:45:00/Dinamo Bucuresti - One Veszprém HC
 DESCRIPTION:Dinamo Bucuresti - One Veszprém HC - EHF
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Getafe - Deportivo Alaves - LaLiga - Spænski boltinn - livey
+DTSTART:20250924T170000
+DTEND:20250924T180000
+DTSTAMP:20250924T170000Z
+UID:2025-09-24T17:00:00/Getafe - Deportivo Alaves
+DESCRIPTION:Getafe - Deportivo Alaves - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HC Eurofarm Pelister - GOG - EHF - livey
 DTSTART:20250924T184500
 DTEND:20250924T194500
@@ -82,6 +66,23 @@ UID:2025-09-24T19:00:00/Como - Sassuolo
 DESCRIPTION:Como - Sassuolo - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Atletico Madrid - Rayo Vallecano - LaLiga - Spænski boltinn - liv
+ ey
+DTSTART:20250924T193000
+DTEND:20250924T203000
+DTSTAMP:20250924T193000Z
+UID:2025-09-24T19:30:00/Atletico Madrid - Rayo Vallecano
+DESCRIPTION:Atletico Madrid - Rayo Vallecano - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Sociedad - RCD Mallorca - LaLiga - Spænski boltinn - livey
+DTSTART:20250924T193000
+DTEND:20250924T203000
+DTSTAMP:20250924T193000Z
+UID:2025-09-24T19:30:00/Real Sociedad - RCD Mallorca
+DESCRIPTION:Real Sociedad - RCD Mallorca - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Genoa - Empoli - Serie A - Ítalski boltinn - livey
 DTSTART:20250925T163000
 DTEND:20250925T173000
@@ -90,12 +91,12 @@ UID:2025-09-25T16:30:00/Genoa - Empoli
 DESCRIPTION:Genoa - Empoli - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Zagreb - Barça - EHF - livey
+SUMMARY:Industria Kielce - Füchse Berlin - EHF - livey
 DTSTART:20250925T164500
 DTEND:20250925T174500
 DTSTAMP:20250925T164500Z
-UID:2025-09-25T16:45:00/HC Zagreb - Barça
-DESCRIPTION:HC Zagreb - Barça - EHF
+UID:2025-09-25T16:45:00/Industria Kielce - Füchse Berlin
+DESCRIPTION:Industria Kielce - Füchse Berlin - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OTP Bank-Pick Szeged - Paris Saint-Germain - EHF - livey
@@ -106,12 +107,20 @@ UID:2025-09-25T16:45:00/OTP Bank-Pick Szeged - Paris Saint-Germain
 DESCRIPTION:OTP Bank-Pick Szeged - Paris Saint-Germain - EHF
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Industria Kielce - Füchse Berlin - EHF - livey
+SUMMARY:HC Zagreb - Barça - EHF - livey
 DTSTART:20250925T164500
 DTEND:20250925T174500
 DTSTAMP:20250925T164500Z
-UID:2025-09-25T16:45:00/Industria Kielce - Füchse Berlin
-DESCRIPTION:Industria Kielce - Füchse Berlin - EHF
+UID:2025-09-25T16:45:00/HC Zagreb - Barça
+DESCRIPTION:HC Zagreb - Barça - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osasuna - Elche - LaLiga - Spænski boltinn - livey
+DTSTART:20250925T173000
+DTEND:20250925T183000
+DTSTAMP:20250925T173000Z
+UID:2025-09-25T17:30:00/Osasuna - Elche
+DESCRIPTION:Osasuna - Elche - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SC Magdeburg - Orlen Wisla Plock - EHF - livey
@@ -128,6 +137,14 @@ DTEND:20250925T200000
 DTSTAMP:20250925T190000Z
 UID:2025-09-25T19:00:00/Torino - Pisa
 DESCRIPTION:Torino - Pisa - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oviedo - Barcelona - LaLiga - Spænski boltinn - livey
+DTSTART:20250925T193000
+DTEND:20250925T203000
+DTSTAMP:20250925T193000Z
+UID:2025-09-25T19:30:00/Oviedo - Barcelona
+DESCRIPTION:Oviedo - Barcelona - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RC Strasbourg - Marseille - Ligue 1 - Franski Boltinn - livey
@@ -154,6 +171,14 @@ UID:2025-09-27T16:00:00/Brest Bretagne Handball - CS Rapid Bucuresti
 DESCRIPTION:Brest Bretagne Handball - CS Rapid Bucuresti - EHF
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Keflavík - HK - Lengjudeildin - livey
+DTSTART:20250927T161500
+DTEND:20250927T171500
+DTSTAMP:20250927T161500Z
+UID:2025-09-27T16:15:00/Keflavík - HK
+DESCRIPTION:Keflavík - HK - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Toulouse - Nantes - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250927T170000
 DTEND:20250927T180000
@@ -178,12 +203,12 @@ UID:2025-09-28T13:00:00/Nice - Paris FC
 DESCRIPTION:Nice - Paris FC - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Metz - Le Havre - Ligue 1 - Franski Boltinn - livey
+SUMMARY:Lille - Lyon - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250928T151500
 DTEND:20250928T161500
 DTSTAMP:20250928T151500Z
-UID:2025-09-28T15:15:00/Metz - Le Havre
-DESCRIPTION:Metz - Le Havre - Ligue 1 - Franski Boltinn
+UID:2025-09-28T15:15:00/Lille - Lyon
+DESCRIPTION:Lille - Lyon - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angers - Brest - Ligue 1 - Franski Boltinn - livey
@@ -194,12 +219,12 @@ UID:2025-09-28T15:15:00/Angers - Brest
 DESCRIPTION:Angers - Brest - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lille - Lyon - Ligue 1 - Franski Boltinn - livey
+SUMMARY:Metz - Le Havre - Ligue 1 - Franski Boltinn - livey
 DTSTART:20250928T151500
 DTEND:20250928T161500
 DTSTAMP:20250928T151500Z
-UID:2025-09-28T15:15:00/Lille - Lyon
-DESCRIPTION:Lille - Lyon - Ligue 1 - Franski Boltinn
+UID:2025-09-28T15:15:00/Metz - Le Havre
+DESCRIPTION:Metz - Le Havre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rennes - Lens - Ligue 1 - Franski Boltinn - livey
