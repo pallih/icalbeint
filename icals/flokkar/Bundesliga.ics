@@ -2,63 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Leverkusen - Bundesliga - viaplay
-DTSTART:20250927T132000
-DTEND:20250927T142000
-DTSTAMP:20250927T132000Z
-UID:2025-09-27T13:20:00/St. Pauli - Leverkusen
-DESCRIPTION:St. Pauli - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20250927T132000
-DTEND:20250927T142000
-DTSTAMP:20250927T132000Z
-UID:2025-09-27T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - Leipzig - Bundesliga - viaplay
-DTSTART:20250927T132000
-DTEND:20250927T142000
-DTSTAMP:20250927T132000Z
-UID:2025-09-27T13:20:00/Wolfsburg - Leipzig
-DESCRIPTION:Wolfsburg - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mainz - Dortmund - Bundesliga - viaplay
-DTSTART:20250927T132000
-DTEND:20250927T142000
-DTSTAMP:20250927T132000Z
-UID:2025-09-27T13:20:00/Mainz - Dortmund
-DESCRIPTION:Mainz - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Augsburg - Bundesliga - viaplay
-DTSTART:20250927T132000
-DTEND:20250927T142000
-DTSTAMP:20250927T132000Z
-UID:2025-09-27T13:20:00/Heidenheim - Augsburg
-DESCRIPTION:Heidenheim - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Frankfurt - Bundesliga - viaplay
-DTSTART:20250927T162000
-DTEND:20250927T172000
-DTSTAMP:20250927T162000Z
-UID:2025-09-27T16:20:00/Mönchengladbach - Frankfurt
-DESCRIPTION:Mönchengladbach - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:M´gladbach - Frankfurt - Bundesliga - synsportviaplay
-DTSTART:20250927T162000
-DTEND:20250927T172000
-DTSTAMP:20250927T162000Z
-UID:2025-09-27T16:20:00/M´gladbach - Frankfurt
-DESCRIPTION:M´gladbach - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Hoffenheim - Bundesliga - viaplay
+SUMMARY:Freiburg - Hoffenheim - Bundesliga - synsportviaplay
 DTSTART:20250928T132000
 DTEND:20250928T142000
 DTSTAMP:20250928T132000Z
@@ -66,7 +10,7 @@ UID:2025-09-28T13:20:00/Freiburg - Hoffenheim
 DESCRIPTION:Freiburg - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Hoffenheim - Bundesliga - synsportviaplay
+SUMMARY:Freiburg - Hoffenheim - Bundesliga - viaplay
 DTSTART:20250928T132000
 DTEND:20250928T142000
 DTSTAMP:20250928T132000Z
@@ -120,5 +64,61 @@ DTEND:20251003T192000
 DTSTAMP:20251003T182000Z
 UID:2025-10-03T18:20:00/Hoffenheim - Köln
 DESCRIPTION:Hoffenheim - Köln - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Leipzig - Bundesliga - viaplay
+DTSTART:20251004T132000
+DTEND:20251004T142000
+DTSTAMP:20251004T132000Z
+UID:2025-10-04T13:20:00/Dortmund - Leipzig
+DESCRIPTION:Dortmund - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - St. Pauli - Bundesliga - viaplay
+DTSTART:20251004T132000
+DTEND:20251004T142000
+DTSTAMP:20251004T132000Z
+UID:2025-10-04T13:20:00/Werder Bremen - St. Pauli
+DESCRIPTION:Werder Bremen - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Wolfsburg - Bundesliga - viaplay
+DTSTART:20251004T132000
+DTEND:20251004T142000
+DTSTAMP:20251004T132000Z
+UID:2025-10-04T13:20:00/Augsburg - Wolfsburg
+DESCRIPTION:Augsburg - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20251004T132000
+DTEND:20251004T142000
+DTSTAMP:20251004T132000Z
+UID:2025-10-04T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Union Berlin - Bundesliga - viaplay
+DTSTART:20251004T132000
+DTEND:20251004T142000
+DTSTAMP:20251004T132000Z
+UID:2025-10-04T13:20:00/Leverkusen - Union Berlin
+DESCRIPTION:Leverkusen - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DHfK Leipzig - Flensburg-Handewitt - Bundesliga - viaplay
+DTSTART:20251004T155500
+DTEND:20251004T165500
+DTSTAMP:20251004T155500Z
+UID:2025-10-04T15:55:00/DHfK Leipzig - Flensburg-Handewitt
+DESCRIPTION:DHfK Leipzig - Flensburg-Handewitt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Bayern München - Bundesliga - viaplay
+DTSTART:20251004T162000
+DTEND:20251004T172000
+DTSTAMP:20251004T162000Z
+UID:2025-10-04T16:20:00/Frankfurt - Bayern München
+DESCRIPTION:Frankfurt - Bayern München - Bundesliga
 END:VEVENT
 END:VCALENDAR
