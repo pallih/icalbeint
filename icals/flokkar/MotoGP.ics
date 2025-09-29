@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - MotoGP - ical
 BEGIN:VEVENT
-SUMMARY:Japanski Kappaksturinn (Warm Up) - MotoGP - viaplay
-DTSTART:20250928T003500
-DTEND:20250928T013500
-DTSTAMP:20250928T003500Z
-UID:2025-09-28T00:35:00/Japanski Kappaksturinn (Warm Up)
-DESCRIPTION:Japanski Kappaksturinn (Warm Up) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Japanski Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20250928T041500
-DTEND:20250928T051500
-DTSTAMP:20250928T041500Z
-UID:2025-09-28T04:15:00/Japanski Kappaksturinn (Kappakstur)
-DESCRIPTION:Japanski Kappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Indónesíska kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
 DTSTART:20251003T023500
 DTEND:20251003T033500
@@ -56,5 +40,21 @@ DTEND:20251004T073500
 DTSTAMP:20251004T063500Z
 UID:2025-10-04T06:35:00/Indónesíska kappaksturinn (Sprettkeppni)
 DESCRIPTION:Indónesíska kappaksturinn (Sprettkeppni) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indónesíska kappaksturinn (Warm Up) - MotoGP - viaplay
+DTSTART:20251005T023500
+DTEND:20251005T033500
+DTSTAMP:20251005T023500Z
+UID:2025-10-05T02:35:00/Indónesíska kappaksturinn (Warm Up)
+DESCRIPTION:Indónesíska kappaksturinn (Warm Up) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indónesíska kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20251005T061500
+DTEND:20251005T071500
+DTSTAMP:20251005T061500Z
+UID:2025-10-05T06:15:00/Indónesíska kappaksturinn (Kappakstur)
+DESCRIPTION:Indónesíska kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 END:VCALENDAR

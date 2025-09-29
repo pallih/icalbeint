@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Champions League - ical
 BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20250928T170000
-DTEND:20250928T180000
-DTSTAMP:20250928T170000Z
-UID:2025-09-28T17:00:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chelsea - Benfica - Champions League - viaplay
-DTSTART:20250930T135500
-DTEND:20250930T145500
-DTSTAMP:20250930T135500Z
-UID:2025-09-30T13:55:00/Chelsea - Benfica
-DESCRIPTION:Chelsea - Benfica - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kairat - Real Madrid - Champions League - viaplay
 DTSTART:20250930T163500
 DTEND:20250930T173500
@@ -32,14 +16,6 @@ DTEND:20250930T193000
 DTSTAMP:20250930T183000Z
 UID:2025-09-30T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Galatasaray - Liverpool - Champions League - viaplay
-DTSTART:20250930T185000
-DTEND:20250930T195000
-DTSTAMP:20250930T185000Z
-UID:2025-09-30T18:50:00/Galatasaray - Liverpool
-DESCRIPTION:Galatasaray - Liverpool - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlético Madrid - Frankfurt - Champions League - viaplay
@@ -58,6 +34,14 @@ UID:2025-09-30T18:50:00/Pafos - Bayern München
 DESCRIPTION:Pafos - Bayern München - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Galatasaray - Liverpool - Champions League - viaplay
+DTSTART:20250930T185000
+DTEND:20250930T195000
+DTSTAMP:20250930T185000Z
+UID:2025-09-30T18:50:00/Galatasaray - Liverpool
+DESCRIPTION:Galatasaray - Liverpool - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qarabağ - F.C. København - Champions League - viaplay
 DTSTART:20251001T163500
 DTEND:20251001T173500
@@ -74,12 +58,12 @@ UID:2025-10-01T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Napoli - Sporting - Champions League - viaplay
+SUMMARY:Arsenal - Olympiakos - Champions League - viaplay
 DTSTART:20251001T185000
 DTEND:20251001T195000
 DTSTAMP:20251001T185000Z
-UID:2025-10-01T18:50:00/Napoli - Sporting
-DESCRIPTION:Napoli - Sporting - Champions League
+UID:2025-10-01T18:50:00/Arsenal - Olympiakos
+DESCRIPTION:Arsenal - Olympiakos - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monaco - Man City - Champions League - viaplay
@@ -90,12 +74,12 @@ UID:2025-10-01T18:50:00/Monaco - Man City
 DESCRIPTION:Monaco - Man City - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Olympiakos - Champions League - viaplay
+SUMMARY:Napoli - Sporting - Champions League - viaplay
 DTSTART:20251001T185000
 DTEND:20251001T195000
 DTSTAMP:20251001T185000Z
-UID:2025-10-01T18:50:00/Arsenal - Olympiakos
-DESCRIPTION:Arsenal - Olympiakos - Champions League
+UID:2025-10-01T18:50:00/Napoli - Sporting
+DESCRIPTION:Napoli - Sporting - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - PSV - Champions League - viaplay
@@ -112,5 +96,13 @@ DTEND:20251001T220000
 DTSTAMP:20251001T210000Z
 UID:2025-10-01T21:00:00/Goalshow
 DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20251005T160000
+DTEND:20251005T170000
+DTSTAMP:20251005T160000Z
+UID:2025-10-05T16:00:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 END:VCALENDAR
