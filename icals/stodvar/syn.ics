@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Dortmund - Bayern München - Þýska bikarkeppni kvenna - synsport
- viaplay
-DTSTART:20250929T162000
-DTEND:20250929T172000
-DTSTAMP:20250929T162000Z
-UID:2025-09-29T16:20:00/Dortmund - Bayern München
-DESCRIPTION:Dortmund - Bayern München - Þýska bikarkeppni kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - West Ham - Premier League - synsport
-DTSTART:20250929T184000
-DTEND:20250929T194000
-DTSTAMP:20250929T184000Z
-UID:2025-09-29T18:40:00/Everton - West Ham
-DESCRIPTION:Everton - West Ham - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - Víkingur R. - Besta deild karla - synsportisland
-DTSTART:20250929T184500
-DTEND:20250929T194500
-DTSTAMP:20250929T184500Z
-UID:2025-09-29T18:45:00/Stjarnan - Víkingur R.
-DESCRIPTION:Stjarnan - Víkingur R. - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - synsportisland
-DTSTART:20250929T212000
-DTEND:20250929T222000
-DTSTAMP:20250929T212000Z
-UID:2025-09-29T21:20:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hurricanes - Panthers - NHL - synsportviaplay
-DTSTART:20250929T220500
-DTEND:20250929T230500
-DTSTAMP:20250929T220500Z
-UID:2025-09-29T22:05:00/Hurricanes - Panthers
-DESCRIPTION:Hurricanes - Panthers - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atalanta - Club Brugge - UEFA Youth League - synsport
 DTSTART:20250930T115500
 DTEND:20250930T125500
@@ -59,15 +18,6 @@ UID:2025-09-30T13:55:00/Chelsea - Benfica
 DESCRIPTION:Chelsea - Benfica - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kairat Almaty - Real Madrid - Meistaradeild Evrópu - synsportviap
- lay
-DTSTART:20250930T163500
-DTEND:20250930T173500
-DTSTAMP:20250930T163500Z
-UID:2025-09-30T16:35:00/Kairat Almaty - Real Madrid
-DESCRIPTION:Kairat Almaty - Real Madrid - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atalanta - Club Brugge - Meistaradeild Evrópu - synsport2
 DTSTART:20250930T163500
 DTEND:20250930T173500
@@ -76,12 +26,13 @@ UID:2025-09-30T16:35:00/Atalanta - Club Brugge
 DESCRIPTION:Atalanta - Club Brugge - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víkingur R. - Valur - Besta deild kvenna - synsportisland5
-DTSTART:20250930T175000
-DTEND:20250930T185000
-DTSTAMP:20250930T175000Z
-UID:2025-09-30T17:50:00/Víkingur R. - Valur
-DESCRIPTION:Víkingur R. - Valur - Besta deild kvenna
+SUMMARY:Kairat Almaty - Real Madrid - Meistaradeild Evrópu - synsportviap
+ lay
+DTSTART:20250930T163500
+DTEND:20250930T173500
+DTSTAMP:20250930T163500Z
+UID:2025-09-30T16:35:00/Kairat Almaty - Real Madrid
+DESCRIPTION:Kairat Almaty - Real Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þróttur R. - Breiðablik - Besta deild kvenna - synsportisland4
@@ -92,11 +43,19 @@ UID:2025-09-30T17:50:00/Þróttur R. - Breiðablik
 DESCRIPTION:Þróttur R. - Breiðablik - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Víkingur R. - Valur - Besta deild kvenna - synsportisland5
+DTSTART:20250930T175000
+DTEND:20250930T185000
+DTSTAMP:20250930T175000Z
+UID:2025-09-30T17:50:00/Víkingur R. - Valur
+DESCRIPTION:Víkingur R. - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stjarnan - Njarðvík - Bónus deild kvenna - synsportisland
-DTSTART:20250930T180600
-DTEND:20250930T190600
-DTSTAMP:20250930T180600Z
-UID:2025-09-30T18:06:00/Stjarnan - Njarðvík
+DTSTART:20250930T180500
+DTEND:20250930T190500
+DTSTAMP:20250930T180500Z
+UID:2025-09-30T18:05:00/Stjarnan - Njarðvík
 DESCRIPTION:Stjarnan - Njarðvík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
@@ -106,14 +65,6 @@ DTEND:20250930T193000
 DTSTAMP:20250930T183000Z
 UID:2025-09-30T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marseille - Ajax - Meistaradeild Evrópu - synsport5
-DTSTART:20250930T185000
-DTEND:20250930T195000
-DTSTAMP:20250930T185000Z
-UID:2025-09-30T18:50:00/Marseille - Ajax
-DESCRIPTION:Marseille - Ajax - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bodö/Glimt - Tottenham - Meistaradeild Evrópu - synsport2
@@ -132,14 +83,6 @@ UID:2025-09-30T18:50:00/Chelsea - Benfica
 DESCRIPTION:Chelsea - Benfica - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Galatasaray - Liverpool - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20250930T185000
-DTEND:20250930T195000
-DTSTAMP:20250930T185000Z
-UID:2025-09-30T18:50:00/Galatasaray - Liverpool
-DESCRIPTION:Galatasaray - Liverpool - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inter - Slavia Prag - Meistaradeild Evrópu - synsport4
 DTSTART:20250930T185000
 DTEND:20250930T195000
@@ -148,12 +91,20 @@ UID:2025-09-30T18:50:00/Inter - Slavia Prag
 DESCRIPTION:Inter - Slavia Prag - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Tindastóll - Bónus deild kvenna - synsportisland2
-DTSTART:20250930T190500
-DTEND:20250930T200500
-DTSTAMP:20250930T190500Z
-UID:2025-09-30T19:05:00/Haukar - Tindastóll
-DESCRIPTION:Haukar - Tindastóll - Bónus deild kvenna
+SUMMARY:Marseille - Ajax - Meistaradeild Evrópu - synsport5
+DTSTART:20250930T185000
+DTEND:20250930T195000
+DTSTAMP:20250930T185000Z
+UID:2025-09-30T18:50:00/Marseille - Ajax
+DESCRIPTION:Marseille - Ajax - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galatasaray - Liverpool - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20250930T185000
+DTEND:20250930T195000
+DTSTAMP:20250930T185000Z
+UID:2025-09-30T18:50:00/Galatasaray - Liverpool
+DESCRIPTION:Galatasaray - Liverpool - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ármann - KR - Bónus deild kvenna - synsportisland3
@@ -162,6 +113,14 @@ DTEND:20250930T200500
 DTSTAMP:20250930T190500Z
 UID:2025-09-30T19:05:00/Ármann - KR
 DESCRIPTION:Ármann - KR - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Tindastóll - Bónus deild kvenna - synsportisland2
+DTSTART:20250930T190500
+DTEND:20250930T200500
+DTSTAMP:20250930T190500Z
+UID:2025-09-30T19:05:00/Haukar - Tindastóll
+DESCRIPTION:Haukar - Tindastóll - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
@@ -190,10 +149,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Upphitun  - Bónus deild karla - synspo
  rtisland
-DTSTART:20250930T221100
-DTEND:20250930T231100
-DTSTAMP:20250930T221100Z
-UID:2025-09-30T22:11:00/Bónus Körfuboltakvöld - Upphitun 
+DTSTART:20250930T215500
+DTEND:20250930T225500
+DTSTAMP:20250930T215500Z
+UID:2025-09-30T21:55:00/Bónus Körfuboltakvöld - Upphitun 
 DESCRIPTION:Bónus Körfuboltakvöld - Upphitun  - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
@@ -221,20 +180,20 @@ UID:2025-10-01T13:55:00/Barcelona - PSG
 DESCRIPTION:Barcelona - PSG - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union SG - Newcastle - Meistaradeild Evrópu - synsport2
-DTSTART:20251001T163500
-DTEND:20251001T173500
-DTSTAMP:20251001T163500Z
-UID:2025-10-01T16:35:00/Union SG - Newcastle
-DESCRIPTION:Union SG - Newcastle - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Qarabag - FCK - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20251001T163500
 DTEND:20251001T173500
 DTSTAMP:20251001T163500Z
 UID:2025-10-01T16:35:00/Qarabag - FCK
 DESCRIPTION:Qarabag - FCK - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union SG - Newcastle - Meistaradeild Evrópu - synsport2
+DTSTART:20251001T163500
+DTEND:20251001T173500
+DTSTAMP:20251001T163500Z
+UID:2025-10-01T16:35:00/Union SG - Newcastle
+DESCRIPTION:Union SG - Newcastle - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - FH - Besta deild kvenna - synsportisland3
@@ -253,12 +212,12 @@ UID:2025-10-01T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Olympiacos - Meistaradeild Evrópu - synsportviaplay
+SUMMARY:Barcelona - PSG - Meistaradeild Evrópu - synsport2
 DTSTART:20251001T185000
 DTEND:20251001T195000
 DTSTAMP:20251001T185000Z
-UID:2025-10-01T18:50:00/Arsenal - Olympiacos
-DESCRIPTION:Arsenal - Olympiacos - Meistaradeild Evrópu
+UID:2025-10-01T18:50:00/Barcelona - PSG
+DESCRIPTION:Barcelona - PSG - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Villarreal - Juventus - Meistaradeild Evrópu - synsport3
@@ -269,20 +228,20 @@ UID:2025-10-01T18:50:00/Villarreal - Juventus
 DESCRIPTION:Villarreal - Juventus - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barcelona - PSG - Meistaradeild Evrópu - synsport2
-DTSTART:20251001T185000
-DTEND:20251001T195000
-DTSTAMP:20251001T185000Z
-UID:2025-10-01T18:50:00/Barcelona - PSG
-DESCRIPTION:Barcelona - PSG - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dortmund - Athletic Club - Meistaradeild Evrópu - synsport4
 DTSTART:20251001T185000
 DTEND:20251001T195000
 DTSTAMP:20251001T185000Z
 UID:2025-10-01T18:50:00/Dortmund - Athletic Club
 DESCRIPTION:Dortmund - Athletic Club - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Olympiacos - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20251001T185000
+DTEND:20251001T195000
+DTSTAMP:20251001T185000Z
+UID:2025-10-01T18:50:00/Arsenal - Olympiacos
+DESCRIPTION:Arsenal - Olympiacos - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Valur - Bónus deild kvenna - synsportisland
@@ -358,14 +317,6 @@ UID:2025-10-02T16:35:00/Fiorentina - Sigma Olomouc
 DESCRIPTION:Fiorentina - Sigma Olomouc - Sambandsdeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celtic - Braga - Evrópudeildin - synsport2
-DTSTART:20251002T163500
-DTEND:20251002T173500
-DTSTAMP:20251002T163500Z
-UID:2025-10-02T16:35:00/Celtic - Braga
-DESCRIPTION:Celtic - Braga - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Roma - Lille - Evrópudeildin - synsport
 DTSTART:20251002T163500
 DTEND:20251002T173500
@@ -380,6 +331,14 @@ DTEND:20251002T173500
 DTSTAMP:20251002T163500Z
 UID:2025-10-02T16:35:00/Lausanne - Breiðablik
 DESCRIPTION:Lausanne - Breiðablik - Sambandsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celtic - Braga - Evrópudeildin - synsport2
+DTSTART:20251002T163500
+DTEND:20251002T173500
+DTSTAMP:20251002T163500Z
+UID:2025-10-02T16:35:00/Celtic - Braga
+DESCRIPTION:Celtic - Braga - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feyenoord - Aston Villa - Evrópudeildin  - synsportviaplay
@@ -422,6 +381,14 @@ UID:2025-10-02T19:00:00/ÍA - Þór Þ.
 DESCRIPTION:ÍA - Þór Þ. - Bónus deild karla 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KR - Stjarnan - Bónus deild karla - synsportisland2
+DTSTART:20251002T190500
+DTEND:20251002T200500
+DTSTAMP:20251002T190500Z
+UID:2025-10-02T19:05:00/KR - Stjarnan
+DESCRIPTION:KR - Stjarnan - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Álftanes - Ármann - Bónus deild karla  - synsportisland4
 DTSTART:20251002T190500
 DTEND:20251002T200500
@@ -436,14 +403,6 @@ DTEND:20251002T200500
 DTSTAMP:20251002T190500Z
 UID:2025-10-02T19:05:00/Keflavík - ÍR
 DESCRIPTION:Keflavík - ÍR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - Stjarnan - Bónus deild karla - synsportisland2
-DTSTART:20251002T190500
-DTEND:20251002T200500
-DTSTAMP:20251002T190500Z
-UID:2025-10-02T19:05:00/KR - Stjarnan
-DESCRIPTION:KR - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -606,20 +565,20 @@ UID:2025-10-04T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - West Ham - Premier League - synsport2
-DTSTART:20251004T134000
-DTEND:20251004T144000
-DTSTAMP:20251004T134000Z
-UID:2025-10-04T13:40:00/Arsenal - West Ham
-DESCRIPTION:Arsenal - West Ham - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. Utd. - Sunderland - Premier League - synsport3
 DTSTART:20251004T134000
 DTEND:20251004T144000
 DTSTAMP:20251004T134000Z
 UID:2025-10-04T13:40:00/Man. Utd. - Sunderland
 DESCRIPTION:Man. Utd. - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - West Ham - Premier League - synsport2
+DTSTART:20251004T134000
+DTEND:20251004T144000
+DTSTAMP:20251004T134000Z
+UID:2025-10-04T13:40:00/Arsenal - West Ham
+DESCRIPTION:Arsenal - West Ham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Afturelding - Besta deild karla - synsportisland
@@ -670,6 +629,14 @@ UID:2025-10-04T16:05:00/Valur - Tindastóll
 DESCRIPTION:Valur - Tindastóll - Bónus deild karla 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fram - Tindastóll - Besta deild kvenna - synsportisland4
+DTSTART:20251004T160500
+DTEND:20251004T170500
+DTSTAMP:20251004T160500Z
+UID:2025-10-04T16:05:00/Fram - Tindastóll
+DESCRIPTION:Fram - Tindastóll - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chelsea - Liverpool - Premier League - synsport
 DTSTART:20251004T162000
 DTEND:20251004T172000
@@ -695,10 +662,10 @@ DESCRIPTION:Laugardagsmörkin - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Stjarnan - Besta deild karla - synsportisland
-DTSTART:20251004T190000
-DTEND:20251004T200000
-DTSTAMP:20251004T190000Z
-UID:2025-10-04T19:00:00/Valur - Stjarnan
+DTSTART:20251004T194500
+DTEND:20251004T204500
+DTSTAMP:20251004T194500Z
+UID:2025-10-04T19:45:00/Valur - Stjarnan
 DESCRIPTION:Valur - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
@@ -711,10 +678,10 @@ DESCRIPTION:Drive for the Cure 200 - Nascar Xfinity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Subway Tilþrifin - Besta deild karla - synsportisland
-DTSTART:20251004T212100
-DTEND:20251004T222100
-DTSTAMP:20251004T212100Z
-UID:2025-10-04T21:21:00/Subway Tilþrifin
+DTSTART:20251004T220000
+DTEND:20251004T230000
+DTSTAMP:20251004T220000Z
+UID:2025-10-04T22:00:00/Subway Tilþrifin
 DESCRIPTION:Subway Tilþrifin - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
@@ -758,12 +725,12 @@ UID:2025-10-05T12:40:00/Newcastle - Nott. Forest
 DESCRIPTION:Newcastle - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Crystal Palace - Premier League - synsport3
+SUMMARY:Aston Villa - Burnley - Premier League - synsport
 DTSTART:20251005T124000
 DTEND:20251005T134000
 DTSTAMP:20251005T124000Z
-UID:2025-10-05T12:40:00/Everton - Crystal Palace
-DESCRIPTION:Everton - Crystal Palace - Premier League
+UID:2025-10-05T12:40:00/Aston Villa - Burnley
+DESCRIPTION:Aston Villa - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Brighton - Premier League - synsport4
@@ -774,12 +741,12 @@ UID:2025-10-05T12:40:00/Wolves - Brighton
 DESCRIPTION:Wolves - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aston Villa - Burnley - Premier League - synsport
+SUMMARY:Everton - Crystal Palace - Premier League - synsport3
 DTSTART:20251005T124000
 DTEND:20251005T134000
 DTSTAMP:20251005T124000Z
-UID:2025-10-05T12:40:00/Aston Villa - Burnley
-DESCRIPTION:Aston Villa - Burnley - Premier League
+UID:2025-10-05T12:40:00/Everton - Crystal Palace
+DESCRIPTION:Everton - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Browns - Vikings - NFL - synsport6
@@ -796,6 +763,14 @@ DTEND:20251005T145000
 DTSTAMP:20251005T135000Z
 UID:2025-10-05T13:50:00/KA - Vestri
 DESCRIPTION:KA - Vestri - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Þróttur R. - Besta deild kvenna - synsportisland2
+DTSTART:20251005T135000
+DTEND:20251005T145000
+DTSTAMP:20251005T135000Z
+UID:2025-10-05T13:50:00/FH - Þróttur R.
+DESCRIPTION:FH - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THW Kiel - Rhein Neckar Löwen - Bundesliga handbolti - synsportvi
@@ -855,6 +830,14 @@ UID:2025-10-05T19:00:00/Víkingur R. - FH
 DESCRIPTION:Víkingur R. - FH - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breiðablik - Fram - Besta deild karla - synsportisland2
+DTSTART:20251005T190500
+DTEND:20251005T200500
+DTSTAMP:20251005T190500Z
+UID:2025-10-05T19:05:00/Breiðablik - Fram
+DESCRIPTION:Breiðablik - Fram - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bank of America ROVAL 400 - Nascar Cup Series - synsportviaplay
 DTSTART:20251005T192500
 DTEND:20251005T202500
@@ -877,5 +860,38 @@ DTEND:20251005T222000
 DTSTAMP:20251005T212000Z
 UID:2025-10-05T21:20:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harrogate Town - Crewe Alexandra - EFL League Two - synsportviapla
+ y
+DTSTART:20251006T185500
+DTEND:20251006T195500
+DTSTAMP:20251006T185500Z
+UID:2025-10-06T18:55:00/Harrogate Town - Crewe Alexandra
+DESCRIPTION:Harrogate Town - Crewe Alexandra - EFL League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Stjarnan - Besta deild kvenna - synsportisland
+DTSTART:20251006T190500
+DTEND:20251006T200500
+DTSTAMP:20251006T190500Z
+UID:2025-10-06T19:05:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deildin - Extra - Bónus deild karla - synsportisland
+DTSTART:20251006T200000
+DTEND:20251006T210000
+DTSTAMP:20251006T200000Z
+UID:2025-10-06T20:00:00/Bónus deildin - Extra
+DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
+DTSTART:20251006T212000
+DTEND:20251006T222000
+DTSTAMP:20251006T212000Z
+UID:2025-10-06T21:20:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 END:VCALENDAR

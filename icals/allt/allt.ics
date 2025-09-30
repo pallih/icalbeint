@@ -2,111 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - allt - ical
 BEGIN:VEVENT
-SUMMARY:Edmonton - Vancouver - NHL - viaplay
-DTSTART:20250929T000500
-DTEND:20250929T010500
-DTSTAMP:20250929T000500Z
-UID:2025-09-29T00:05:00/Edmonton - Vancouver
-DESCRIPTION:Edmonton - Vancouver - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20250929T100000
-DTEND:20250929T110000
-DTSTAMP:20250929T100000Z
-UID:2025-09-29T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Bayern München - Þýska bikarkeppni kvenna - synsport
- viaplay
-DTSTART:20250929T162000
-DTEND:20250929T172000
-DTSTAMP:20250929T162000Z
-UID:2025-09-29T16:20:00/Dortmund - Bayern München
-DESCRIPTION:Dortmund - Bayern München - Þýska bikarkeppni kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Bayern München - DFB-Pokal Frauen - viaplay
-DTSTART:20250929T162500
-DTEND:20250929T172500
-DTSTAMP:20250929T162500Z
-UID:2025-09-29T16:25:00/Dortmund - Bayern München
-DESCRIPTION:Dortmund - Bayern München - DFB-Pokal Frauen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parma - Torino - Serie A - Ítalski boltinn - livey
-DTSTART:20250929T163000
-DTEND:20250929T173000
-DTSTAMP:20250929T163000Z
-UID:2025-09-29T16:30:00/Parma - Torino
-DESCRIPTION:Parma - Torino - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - West Ham - Premier League - synsport
-DTSTART:20250929T184000
-DTEND:20250929T194000
-DTSTAMP:20250929T184000Z
-UID:2025-09-29T18:40:00/Everton - West Ham
-DESCRIPTION:Everton - West Ham - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Genoa - Lazio - Serie A - Ítalski boltinn - livey
-DTSTART:20250929T184500
-DTEND:20250929T194500
-DTSTAMP:20250929T184500Z
-UID:2025-09-29T18:45:00/Genoa - Lazio
-DESCRIPTION:Genoa - Lazio - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - Víkingur R. - Besta deild karla - synsportisland
-DTSTART:20250929T184500
-DTEND:20250929T194500
-DTSTAMP:20250929T184500Z
-UID:2025-09-29T18:45:00/Stjarnan - Víkingur R.
-DESCRIPTION:Stjarnan - Víkingur R. - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valencia - Oviedo - LaLiga - Spænski boltinn - livey
-DTSTART:20250929T190000
-DTEND:20250929T200000
-DTSTAMP:20250929T190000Z
-UID:2025-09-29T19:00:00/Valencia - Oviedo
-DESCRIPTION:Valencia - Oviedo - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Handboltahöllin - Olís deildin - sjonvarpsimans
-DTSTART:20250929T201000
-DTEND:20250929T211000
-DTSTAMP:20250929T201000Z
-UID:2025-09-29T20:10:00/Handboltahöllin
-DESCRIPTION:Handboltahöllin - Olís deildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - synsportisland
-DTSTART:20250929T212000
-DTEND:20250929T222000
-DTSTAMP:20250929T212000Z
-UID:2025-09-29T21:20:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florida - Carolina - NHL - viaplay
-DTSTART:20250929T220500
-DTEND:20250929T230500
-DTSTAMP:20250929T220500Z
-UID:2025-09-29T22:05:00/Florida - Carolina
-DESCRIPTION:Florida - Carolina - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hurricanes - Panthers - NHL - synsportviaplay
-DTSTART:20250929T220500
-DTEND:20250929T230500
-DTSTAMP:20250929T220500Z
-UID:2025-09-29T22:05:00/Hurricanes - Panthers
-DESCRIPTION:Hurricanes - Panthers - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rotterdam P1 - Premier Padel - viaplay
 DTSTART:20250930T070000
 DTEND:20250930T080000
@@ -115,7 +10,7 @@ UID:2025-09-30T07:00:00/Rotterdam P1
 DESCRIPTION:Rotterdam P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atalanta - Club Brugge - UEFA Youth League - viaplay
+SUMMARY:Atalanta - Club Brugge - UEFA Youth League - synsport
 DTSTART:20250930T115500
 DTEND:20250930T125500
 DTSTAMP:20250930T115500Z
@@ -123,7 +18,7 @@ UID:2025-09-30T11:55:00/Atalanta - Club Brugge
 DESCRIPTION:Atalanta - Club Brugge - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atalanta - Club Brugge - UEFA Youth League - synsport
+SUMMARY:Atalanta - Club Brugge - UEFA Youth League - viaplay
 DTSTART:20250930T115500
 DTEND:20250930T125500
 DTSTAMP:20250930T115500Z
@@ -155,15 +50,6 @@ UID:2025-09-30T16:30:00/Rotterdam P1
 DESCRIPTION:Rotterdam P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kairat Almaty - Real Madrid - Meistaradeild Evrópu - synsportviap
- lay
-DTSTART:20250930T163500
-DTEND:20250930T173500
-DTSTAMP:20250930T163500Z
-UID:2025-09-30T16:35:00/Kairat Almaty - Real Madrid
-DESCRIPTION:Kairat Almaty - Real Madrid - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kairat - Real Madrid - Champions League - viaplay
 DTSTART:20250930T163500
 DTEND:20250930T173500
@@ -180,20 +66,21 @@ UID:2025-09-30T16:35:00/Atalanta - Club Brugge
 DESCRIPTION:Atalanta - Club Brugge - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kairat Almaty - Real Madrid - Meistaradeild Evrópu - synsportviap
+ lay
+DTSTART:20250930T163500
+DTEND:20250930T173500
+DTSTAMP:20250930T163500Z
+UID:2025-09-30T16:35:00/Kairat Almaty - Real Madrid
+DESCRIPTION:Kairat Almaty - Real Madrid - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skellefteå - Luleå - SHL - viaplay
 DTSTART:20250930T165500
 DTEND:20250930T175500
 DTSTAMP:20250930T165500Z
 UID:2025-09-30T16:55:00/Skellefteå - Luleå
 DESCRIPTION:Skellefteå - Luleå - SHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Víkingur R. - Valur - Besta deild kvenna - synsportisland5
-DTSTART:20250930T175000
-DTEND:20250930T185000
-DTSTAMP:20250930T175000Z
-UID:2025-09-30T17:50:00/Víkingur R. - Valur
-DESCRIPTION:Víkingur R. - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þróttur R. - Breiðablik - Besta deild kvenna - synsportisland4
@@ -204,20 +91,20 @@ UID:2025-09-30T17:50:00/Þróttur R. - Breiðablik
 DESCRIPTION:Þróttur R. - Breiðablik - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Njarðvík - Bónus deild kvenna - synsportisland
-DTSTART:20250930T180600
-DTEND:20250930T190600
-DTSTAMP:20250930T180600Z
-UID:2025-09-30T18:06:00/Stjarnan - Njarðvík
-DESCRIPTION:Stjarnan - Njarðvík - Bónus deild kvenna
+SUMMARY:Víkingur R. - Valur - Besta deild kvenna - synsportisland5
+DTSTART:20250930T175000
+DTEND:20250930T185000
+DTSTAMP:20250930T175000Z
+UID:2025-09-30T17:50:00/Víkingur R. - Valur
+DESCRIPTION:Víkingur R. - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Instant Highlights - Champions League - viaplay
-DTSTART:20250930T183000
-DTEND:20250930T193000
-DTSTAMP:20250930T183000Z
-UID:2025-09-30T18:30:00/Instant Highlights
-DESCRIPTION:Instant Highlights - Champions League
+SUMMARY:Stjarnan - Njarðvík - Bónus deild kvenna - synsportisland
+DTSTART:20250930T180500
+DTEND:20250930T190500
+DTSTAMP:20250930T180500Z
+UID:2025-09-30T18:05:00/Stjarnan - Njarðvík
+DESCRIPTION:Stjarnan - Njarðvík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
@@ -228,12 +115,20 @@ UID:2025-09-30T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marseille - Ajax - Meistaradeild Evrópu - synsport5
+SUMMARY:Instant Highlights - Champions League - viaplay
+DTSTART:20250930T183000
+DTEND:20250930T193000
+DTSTAMP:20250930T183000Z
+UID:2025-09-30T18:30:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos - Bayern München - Champions League - viaplay
 DTSTART:20250930T185000
 DTEND:20250930T195000
 DTSTAMP:20250930T185000Z
-UID:2025-09-30T18:50:00/Marseille - Ajax
-DESCRIPTION:Marseille - Ajax - Meistaradeild Evrópu
+UID:2025-09-30T18:50:00/Pafos - Bayern München
+DESCRIPTION:Pafos - Bayern München - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bodö/Glimt - Tottenham - Meistaradeild Evrópu - synsport2
@@ -252,28 +147,20 @@ UID:2025-09-30T18:50:00/Chelsea - Benfica
 DESCRIPTION:Chelsea - Benfica - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlético Madrid - Frankfurt - Champions League - viaplay
+SUMMARY:Inter - Slavia Prag - Meistaradeild Evrópu - synsport4
 DTSTART:20250930T185000
 DTEND:20250930T195000
 DTSTAMP:20250930T185000Z
-UID:2025-09-30T18:50:00/Atlético Madrid - Frankfurt
-DESCRIPTION:Atlético Madrid - Frankfurt - Champions League
+UID:2025-09-30T18:50:00/Inter - Slavia Prag
+DESCRIPTION:Inter - Slavia Prag - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pafos - Bayern München - Champions League - viaplay
+SUMMARY:Marseille - Ajax - Meistaradeild Evrópu - synsport5
 DTSTART:20250930T185000
 DTEND:20250930T195000
 DTSTAMP:20250930T185000Z
-UID:2025-09-30T18:50:00/Pafos - Bayern München
-DESCRIPTION:Pafos - Bayern München - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Galatasaray - Liverpool - Champions League - viaplay
-DTSTART:20250930T185000
-DTEND:20250930T195000
-DTSTAMP:20250930T185000Z
-UID:2025-09-30T18:50:00/Galatasaray - Liverpool
-DESCRIPTION:Galatasaray - Liverpool - Champions League
+UID:2025-09-30T18:50:00/Marseille - Ajax
+DESCRIPTION:Marseille - Ajax - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Galatasaray - Liverpool - Meistaradeild Evrópu - synsportviaplay
@@ -284,12 +171,20 @@ UID:2025-09-30T18:50:00/Galatasaray - Liverpool
 DESCRIPTION:Galatasaray - Liverpool - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter - Slavia Prag - Meistaradeild Evrópu - synsport4
+SUMMARY:Atlético Madrid - Frankfurt - Champions League - viaplay
 DTSTART:20250930T185000
 DTEND:20250930T195000
 DTSTAMP:20250930T185000Z
-UID:2025-09-30T18:50:00/Inter - Slavia Prag
-DESCRIPTION:Inter - Slavia Prag - Meistaradeild Evrópu
+UID:2025-09-30T18:50:00/Atlético Madrid - Frankfurt
+DESCRIPTION:Atlético Madrid - Frankfurt - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galatasaray - Liverpool - Champions League - viaplay
+DTSTART:20250930T185500
+DTEND:20250930T195500
+DTSTAMP:20250930T185500Z
+UID:2025-09-30T18:55:00/Galatasaray - Liverpool
+DESCRIPTION:Galatasaray - Liverpool - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Derby - Charlton - Championship - viaplay
@@ -300,14 +195,6 @@ UID:2025-09-30T18:55:00/Derby - Charlton
 DESCRIPTION:Derby - Charlton - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Tindastóll - Bónus deild kvenna - synsportisland2
-DTSTART:20250930T190500
-DTEND:20250930T200500
-DTSTAMP:20250930T190500Z
-UID:2025-09-30T19:05:00/Haukar - Tindastóll
-DESCRIPTION:Haukar - Tindastóll - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ármann - KR - Bónus deild kvenna - synsportisland3
 DTSTART:20250930T190500
 DTEND:20250930T200500
@@ -316,12 +203,28 @@ UID:2025-09-30T19:05:00/Ármann - KR
 DESCRIPTION:Ármann - KR - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Haukar - Tindastóll - Bónus deild kvenna - synsportisland2
+DTSTART:20250930T190500
+DTEND:20250930T200500
+DTSTAMP:20250930T190500Z
+UID:2025-09-30T19:05:00/Haukar - Tindastóll
+DESCRIPTION:Haukar - Tindastóll - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
 DTSTART:20250930T210000
 DTEND:20250930T220000
 DTSTAMP:20250930T210000Z
 UID:2025-09-30T21:00:00/Meistaradeildarmörkin
 DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goalshow - Champions League - viaplay
+DTSTART:20250930T210000
+DTEND:20250930T220000
+DTSTAMP:20250930T210000Z
+UID:2025-09-30T21:00:00/Goalshow
+DESCRIPTION:Goalshow - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lokasóknin - NFL - synsport2
@@ -342,19 +245,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld - Upphitun  - Bónus deild karla - synspo
  rtisland
-DTSTART:20250930T221100
-DTEND:20250930T231100
-DTSTAMP:20250930T221100Z
-UID:2025-09-30T22:11:00/Bónus Körfuboltakvöld - Upphitun 
+DTSTART:20250930T215500
+DTEND:20250930T225500
+DTSTAMP:20250930T215500Z
+UID:2025-09-30T21:55:00/Bónus Körfuboltakvöld - Upphitun 
 DESCRIPTION:Bónus Körfuboltakvöld - Upphitun  - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colorado - Vegas - NHL - viaplay
-DTSTART:20251001T000500
-DTEND:20251001T010500
-DTSTAMP:20251001T000500Z
-UID:2025-10-01T00:05:00/Colorado - Vegas
-DESCRIPTION:Colorado - Vegas - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Knights - Avalanche - NHL - synsportviaplay
@@ -363,6 +258,14 @@ DTEND:20251001T010500
 DTSTAMP:20251001T000500Z
 UID:2025-10-01T00:05:00/Knights - Avalanche
 DESCRIPTION:Knights - Avalanche - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado - Vegas - NHL - viaplay
+DTSTART:20251001T000500
+DTEND:20251001T010500
+DTSTAMP:20251001T000500Z
+UID:2025-10-01T00:05:00/Colorado - Vegas
+DESCRIPTION:Colorado - Vegas - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rotterdam P1 - Premier Padel - viaplay
@@ -381,7 +284,7 @@ UID:2025-10-01T10:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - PSV - UEFA Youth League - viaplay
+SUMMARY:Leverkusen - PSV - UEFA Youth League - synsport
 DTSTART:20251001T115500
 DTEND:20251001T125500
 DTSTAMP:20251001T115500Z
@@ -389,7 +292,7 @@ UID:2025-10-01T11:55:00/Leverkusen - PSV
 DESCRIPTION:Leverkusen - PSV - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - PSV - UEFA Youth League - synsport
+SUMMARY:Leverkusen - PSV - UEFA Youth League - viaplay
 DTSTART:20251001T115500
 DTEND:20251001T125500
 DTSTAMP:20251001T115500Z
@@ -429,12 +332,12 @@ UID:2025-10-01T16:30:00/Rotterdam P1
 DESCRIPTION:Rotterdam P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qarabağ - F.C. København - Champions League - viaplay
+SUMMARY:Qarabag - FCK - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20251001T163500
 DTEND:20251001T173500
 DTSTAMP:20251001T163500Z
-UID:2025-10-01T16:35:00/Qarabağ - F.C. København
-DESCRIPTION:Qarabağ - F.C. København - Champions League
+UID:2025-10-01T16:35:00/Qarabag - FCK
+DESCRIPTION:Qarabag - FCK - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union SG - Newcastle - Meistaradeild Evrópu - synsport2
@@ -445,12 +348,12 @@ UID:2025-10-01T16:35:00/Union SG - Newcastle
 DESCRIPTION:Union SG - Newcastle - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qarabag - FCK - Meistaradeild Evrópu - synsportviaplay
+SUMMARY:Qarabağ - F.C. København - Champions League - viaplay
 DTSTART:20251001T163500
 DTEND:20251001T173500
 DTSTAMP:20251001T163500Z
-UID:2025-10-01T16:35:00/Qarabag - FCK
-DESCRIPTION:Qarabag - FCK - Meistaradeild Evrópu
+UID:2025-10-01T16:35:00/Qarabağ - F.C. København
+DESCRIPTION:Qarabağ - F.C. København - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - FH - Besta deild kvenna - synsportisland3
@@ -477,52 +380,12 @@ UID:2025-10-01T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Instant Highlights - Champions League - viaplay
-DTSTART:20251001T183000
-DTEND:20251001T193000
-DTSTAMP:20251001T183000Z
-UID:2025-10-01T18:30:00/Instant Highlights
-DESCRIPTION:Instant Highlights - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - Olympiacos - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20251001T185000
-DTEND:20251001T195000
-DTSTAMP:20251001T185000Z
-UID:2025-10-01T18:50:00/Arsenal - Olympiacos
-DESCRIPTION:Arsenal - Olympiacos - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Villarreal - Juventus - Meistaradeild Evrópu - synsport3
-DTSTART:20251001T185000
-DTEND:20251001T195000
-DTSTAMP:20251001T185000Z
-UID:2025-10-01T18:50:00/Villarreal - Juventus
-DESCRIPTION:Villarreal - Juventus - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arsenal - Olympiakos - Champions League - viaplay
 DTSTART:20251001T185000
 DTEND:20251001T195000
 DTSTAMP:20251001T185000Z
 UID:2025-10-01T18:50:00/Arsenal - Olympiakos
 DESCRIPTION:Arsenal - Olympiakos - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monaco - Man City - Champions League - viaplay
-DTSTART:20251001T185000
-DTEND:20251001T195000
-DTSTAMP:20251001T185000Z
-UID:2025-10-01T18:50:00/Monaco - Man City
-DESCRIPTION:Monaco - Man City - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Napoli - Sporting - Champions League - viaplay
-DTSTART:20251001T185000
-DTEND:20251001T195000
-DTSTAMP:20251001T185000Z
-UID:2025-10-01T18:50:00/Napoli - Sporting
-DESCRIPTION:Napoli - Sporting - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barcelona - PSG - Meistaradeild Evrópu - synsport2
@@ -533,6 +396,14 @@ UID:2025-10-01T18:50:00/Barcelona - PSG
 DESCRIPTION:Barcelona - PSG - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Villarreal - Juventus - Meistaradeild Evrópu - synsport3
+DTSTART:20251001T185000
+DTEND:20251001T195000
+DTSTAMP:20251001T185000Z
+UID:2025-10-01T18:50:00/Villarreal - Juventus
+DESCRIPTION:Villarreal - Juventus - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dortmund - Athletic Club - Meistaradeild Evrópu - synsport4
 DTSTART:20251001T185000
 DTEND:20251001T195000
@@ -541,12 +412,36 @@ UID:2025-10-01T18:50:00/Dortmund - Athletic Club
 DESCRIPTION:Dortmund - Athletic Club - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arsenal - Olympiacos - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20251001T185000
+DTEND:20251001T195000
+DTSTAMP:20251001T185000Z
+UID:2025-10-01T18:50:00/Arsenal - Olympiacos
+DESCRIPTION:Arsenal - Olympiacos - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli - Sporting - Champions League - viaplay
+DTSTART:20251001T185000
+DTEND:20251001T195000
+DTSTAMP:20251001T185000Z
+UID:2025-10-01T18:50:00/Napoli - Sporting
+DESCRIPTION:Napoli - Sporting - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leverkusen - PSV - Champions League - viaplay
-DTSTART:20251001T185500
-DTEND:20251001T195500
-DTSTAMP:20251001T185500Z
-UID:2025-10-01T18:55:00/Leverkusen - PSV
+DTSTART:20251001T185000
+DTEND:20251001T195000
+DTSTAMP:20251001T185000Z
+UID:2025-10-01T18:50:00/Leverkusen - PSV
 DESCRIPTION:Leverkusen - PSV - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco - Man City - Champions League - viaplay
+DTSTART:20251001T185000
+DTEND:20251001T195000
+DTSTAMP:20251001T185000Z
+UID:2025-10-01T18:50:00/Monaco - Man City
+DESCRIPTION:Monaco - Man City - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QPR - Oxford - Championship - viaplay
@@ -581,20 +476,20 @@ UID:2025-10-01T19:30:00/Stjarnan - Valur
 DESCRIPTION:Stjarnan - Valur - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
-DTSTART:20251001T210000
-DTEND:20251001T220000
-DTSTAMP:20251001T210000Z
-UID:2025-10-01T21:00:00/Meistaradeildarmörkin
-DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Goalshow - Champions League - viaplay
 DTSTART:20251001T210000
 DTEND:20251001T220000
 DTSTAMP:20251001T210000Z
 UID:2025-10-01T21:00:00/Goalshow
 DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
+DTSTART:20251001T210000
+DTEND:20251001T220000
+DTSTAMP:20251001T210000Z
+UID:2025-10-01T21:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
@@ -623,10 +518,10 @@ DESCRIPTION:Lotte Championship  - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary - Vancouver - NHL - viaplay
-DTSTART:20251002T010000
-DTEND:20251002T020000
-DTSTAMP:20251002T010000Z
-UID:2025-10-02T01:00:00/Calgary - Vancouver
+DTSTART:20251002T010500
+DTEND:20251002T020500
+DTSTAMP:20251002T010500Z
+UID:2025-10-02T01:05:00/Calgary - Vancouver
 DESCRIPTION:Calgary - Vancouver - NHL
 END:VEVENT
 BEGIN:VEVENT
@@ -670,29 +565,12 @@ UID:2025-10-02T16:00:00/Rotterdam P1
 DESCRIPTION:Rotterdam P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne-Sport - Breidablik - UEFA Europa Conference League - viap
- lay
-DTSTART:20251002T163500
-DTEND:20251002T173500
-DTSTAMP:20251002T163500Z
-UID:2025-10-02T16:35:00/Lausanne-Sport - Breidablik
-DESCRIPTION:Lausanne-Sport - Breidablik - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fiorentina - Sigma Olomouc - Sambandsdeildin - synsport3
 DTSTART:20251002T163500
 DTEND:20251002T173500
 DTSTAMP:20251002T163500Z
 UID:2025-10-02T16:35:00/Fiorentina - Sigma Olomouc
 DESCRIPTION:Fiorentina - Sigma Olomouc - Sambandsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Celtic - Braga - Evrópudeildin - synsport2
-DTSTART:20251002T163500
-DTEND:20251002T173500
-DTSTAMP:20251002T163500Z
-UID:2025-10-02T16:35:00/Celtic - Braga
-DESCRIPTION:Celtic - Braga - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roma - Lille - Evrópudeildin - synsport
@@ -703,12 +581,46 @@ UID:2025-10-02T16:35:00/Roma - Lille
 DESCRIPTION:Roma - Lille - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lausanne-Sport - Breidablik - UEFA Europa Conference League - viap
+ lay
+DTSTART:20251002T163500
+DTEND:20251002T173500
+DTSTAMP:20251002T163500Z
+UID:2025-10-02T16:35:00/Lausanne-Sport - Breidablik
+DESCRIPTION:Lausanne-Sport - Breidablik - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lausanne - Breiðablik - Sambandsdeildin - synsportviaplay
 DTSTART:20251002T163500
 DTEND:20251002T173500
 DTSTAMP:20251002T163500Z
 UID:2025-10-02T16:35:00/Lausanne - Breiðablik
 DESCRIPTION:Lausanne - Breiðablik - Sambandsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celtic - Braga - Evrópudeildin - synsport2
+DTSTART:20251002T163500
+DTEND:20251002T173500
+DTSTAMP:20251002T163500Z
+UID:2025-10-02T16:35:00/Celtic - Braga
+DESCRIPTION:Celtic - Braga - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viktoria Plzeň - Malmö FF - UEFA Europa League - viaplay
+DTSTART:20251002T164000
+DTEND:20251002T174000
+DTSTAMP:20251002T164000Z
+UID:2025-10-02T16:40:00/Viktoria Plzeň - Malmö FF
+DESCRIPTION:Viktoria Plzeň - Malmö FF - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano - Shkendija - UEFA Europa Conference League - viapl
+ ay
+DTSTART:20251002T164000
+DTEND:20251002T174000
+DTSTAMP:20251002T164000Z
+UID:2025-10-02T16:40:00/Rayo Vallecano - Shkendija
+DESCRIPTION:Rayo Vallecano - Shkendija - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omonia Nicosia - Mainz - UEFA Europa Conference League - viaplay
@@ -727,77 +639,13 @@ UID:2025-10-02T16:40:00/KuPS - Drita
 DESCRIPTION:KuPS - Drita - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bologna - Freiburg - UEFA Europa League - viaplay
+SUMMARY:Lech Poznań - Rapid Wien - UEFA Europa Conference League - viapla
+ y
 DTSTART:20251002T164000
 DTEND:20251002T174000
 DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Bologna - Freiburg
-DESCRIPTION:Bologna - Freiburg - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viktoria Plzeň - Malmö FF - UEFA Europa League - viaplay
-DTSTART:20251002T164000
-DTEND:20251002T174000
-DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Viktoria Plzeň - Malmö FF
-DESCRIPTION:Viktoria Plzeň - Malmö FF - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fenerbahçe - Nice - UEFA Europa League - viaplay
-DTSTART:20251002T164000
-DTEND:20251002T174000
-DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Fenerbahçe - Nice
-DESCRIPTION:Fenerbahçe - Nice - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FCSB - Young Boys - UEFA Europa League - viaplay
-DTSTART:20251002T164000
-DTEND:20251002T174000
-DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/FCSB - Young Boys
-DESCRIPTION:FCSB - Young Boys - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Panathinaikos - Go Ahead Eagles - UEFA Europa League - viaplay
-DTSTART:20251002T164000
-DTEND:20251002T174000
-DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Panathinaikos - Go Ahead Eagles
-DESCRIPTION:Panathinaikos - Go Ahead Eagles - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ludogorets - Betis - UEFA Europa League - viaplay
-DTSTART:20251002T164000
-DTEND:20251002T174000
-DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Ludogorets - Betis
-DESCRIPTION:Ludogorets - Betis - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brann - Utrecht - UEFA Europa League - viaplay
-DTSTART:20251002T164000
-DTEND:20251002T174000
-DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Brann - Utrecht
-DESCRIPTION:Brann - Utrecht - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noah - Rijeka - UEFA Europa Conference League - viaplay
-DTSTART:20251002T164000
-DTEND:20251002T174000
-DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Noah - Rijeka
-DESCRIPTION:Noah - Rijeka - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zrinjski - Lincoln Red Imps - UEFA Europa Conference League - viap
- lay
-DTSTART:20251002T164000
-DTEND:20251002T174000
-DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Zrinjski - Lincoln Red Imps
-DESCRIPTION:Zrinjski - Lincoln Red Imps - UEFA Europa Conference League
+UID:2025-10-02T16:40:00/Lech Poznań - Rapid Wien
+DESCRIPTION:Lech Poznań - Rapid Wien - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jagiellonia Białystok - Hamrun Spartans - UEFA Europa Conference 
@@ -810,22 +658,69 @@ DESCRIPTION:Jagiellonia Białystok - Hamrun Spartans - UEFA Europa Confere
  nce League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lech Poznań - Rapid Wien - UEFA Europa Conference League - viapla
- y
+SUMMARY:Zrinjski - Lincoln Red Imps - UEFA Europa Conference League - viap
+ lay
 DTSTART:20251002T164000
 DTEND:20251002T174000
 DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Lech Poznań - Rapid Wien
-DESCRIPTION:Lech Poznań - Rapid Wien - UEFA Europa Conference League
+UID:2025-10-02T16:40:00/Zrinjski - Lincoln Red Imps
+DESCRIPTION:Zrinjski - Lincoln Red Imps - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rayo Vallecano - Shkendija - UEFA Europa Conference League - viapl
- ay
+SUMMARY:Noah - Rijeka - UEFA Europa Conference League - viaplay
 DTSTART:20251002T164000
 DTEND:20251002T174000
 DTSTAMP:20251002T164000Z
-UID:2025-10-02T16:40:00/Rayo Vallecano - Shkendija
-DESCRIPTION:Rayo Vallecano - Shkendija - UEFA Europa Conference League
+UID:2025-10-02T16:40:00/Noah - Rijeka
+DESCRIPTION:Noah - Rijeka - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brann - Utrecht - UEFA Europa League - viaplay
+DTSTART:20251002T164000
+DTEND:20251002T174000
+DTSTAMP:20251002T164000Z
+UID:2025-10-02T16:40:00/Brann - Utrecht
+DESCRIPTION:Brann - Utrecht - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludogorets - Betis - UEFA Europa League - viaplay
+DTSTART:20251002T164000
+DTEND:20251002T174000
+DTSTAMP:20251002T164000Z
+UID:2025-10-02T16:40:00/Ludogorets - Betis
+DESCRIPTION:Ludogorets - Betis - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panathinaikos - Go Ahead Eagles - UEFA Europa League - viaplay
+DTSTART:20251002T164000
+DTEND:20251002T174000
+DTSTAMP:20251002T164000Z
+UID:2025-10-02T16:40:00/Panathinaikos - Go Ahead Eagles
+DESCRIPTION:Panathinaikos - Go Ahead Eagles - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCSB - Young Boys - UEFA Europa League - viaplay
+DTSTART:20251002T164000
+DTEND:20251002T174000
+DTSTAMP:20251002T164000Z
+UID:2025-10-02T16:40:00/FCSB - Young Boys
+DESCRIPTION:FCSB - Young Boys - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahçe - Nice - UEFA Europa League - viaplay
+DTSTART:20251002T164000
+DTEND:20251002T174000
+DTSTAMP:20251002T164000Z
+UID:2025-10-02T16:40:00/Fenerbahçe - Nice
+DESCRIPTION:Fenerbahçe - Nice - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bologna - Freiburg - UEFA Europa League - viaplay
+DTSTART:20251002T164000
+DTEND:20251002T174000
+DTSTAMP:20251002T164000Z
+UID:2025-10-02T16:40:00/Bologna - Freiburg
+DESCRIPTION:Bologna - Freiburg - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brynäs - Timrå - SHL - viaplay
@@ -834,6 +729,14 @@ DTEND:20251002T175500
 DTSTAMP:20251002T165500Z
 UID:2025-10-02T16:55:00/Brynäs - Timrå
 DESCRIPTION:Brynäs - Timrå - SHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór - Stjarnan - Olís deild karla - hsi1
+DTSTART:20251002T180000
+DTEND:20251002T190000
+DTSTAMP:20251002T180000Z
+UID:2025-10-02T18:00:00/Þór - Stjarnan
+DESCRIPTION:Þór - Stjarnan - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KA - ÍR - Olís deild karla - hsi1
@@ -850,14 +753,6 @@ DTEND:20251002T193000
 DTSTAMP:20251002T183000Z
 UID:2025-10-02T18:30:00/Selfoss - ÍBV
 DESCRIPTION:Selfoss - ÍBV - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór - Stjarnan - Olís deild karla - hsi1
-DTSTART:20251002T183000
-DTEND:20251002T193000
-DTSTAMP:20251002T183000Z
-UID:2025-10-02T18:30:00/Þór - Stjarnan
-DESCRIPTION:Þór - Stjarnan - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feyenoord - Aston Villa - Evrópudeildin  - synsportviaplay
@@ -900,41 +795,6 @@ UID:2025-10-02T18:50:00/Sturm Graz - Rangers
 DESCRIPTION:Sturm Graz - Rangers - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rotherham - Bradford - League One - viaplay
-DTSTART:20251002T185500
-DTEND:20251002T195500
-DTSTAMP:20251002T185500Z
-UID:2025-10-02T18:55:00/Rotherham - Bradford
-DESCRIPTION:Rotherham - Bradford - League One
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Raków Częstochowa - Universitatea Craiova - UEFA Europa Conferen
- ce League - viaplay
-DTSTART:20251002T185500
-DTEND:20251002T195500
-DTSTAMP:20251002T185500Z
-UID:2025-10-02T18:55:00/Raków Częstochowa - Universitatea Craiova
-DESCRIPTION:Raków Częstochowa - Universitatea Craiova - UEFA Europa Conf
- erence League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Celje - AEK Athens - UEFA Europa Conference League - viaplay
-DTSTART:20251002T185500
-DTEND:20251002T195500
-DTSTAMP:20251002T185500Z
-UID:2025-10-02T18:55:00/Celje - AEK Athens
-DESCRIPTION:Celje - AEK Athens - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legia Warszawa - Samsunspor - UEFA Europa Conference League - viap
- lay
-DTSTART:20251002T185500
-DTEND:20251002T195500
-DTSTAMP:20251002T185500Z
-UID:2025-10-02T18:55:00/Legia Warszawa - Samsunspor
-DESCRIPTION:Legia Warszawa - Samsunspor - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AEK Larnaca - AZ - UEFA Europa Conference League - viaplay
 DTSTART:20251002T185500
 DTEND:20251002T195500
@@ -950,23 +810,6 @@ DTEND:20251002T195500
 DTSTAMP:20251002T185500Z
 UID:2025-10-02T18:55:00/Sparta Prag - Shamrock Rovers
 DESCRIPTION:Sparta Prag - Shamrock Rovers - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slovan Bratislava - Strasbourg - UEFA Europa Conference League - v
- iaplay
-DTSTART:20251002T185500
-DTEND:20251002T195500
-DTSTAMP:20251002T185500Z
-UID:2025-10-02T18:55:00/Slovan Bratislava - Strasbourg
-DESCRIPTION:Slovan Bratislava - Strasbourg - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shelbourne - Häcken - UEFA Europa Conference League - viaplay
-DTSTART:20251002T185500
-DTEND:20251002T195500
-DTSTAMP:20251002T185500Z
-UID:2025-10-02T18:55:00/Shelbourne - Häcken
-DESCRIPTION:Shelbourne - Häcken - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aberdeen - Shakhtar Donetsk - UEFA Europa Conference League - viap
@@ -1026,12 +869,56 @@ UID:2025-10-02T18:55:00/Basel - Stuttgart
 DESCRIPTION:Basel - Stuttgart - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍA - Þór Þ. - Bónus deild karla  - synsportisland5
-DTSTART:20251002T190000
-DTEND:20251002T200000
-DTSTAMP:20251002T190000Z
-UID:2025-10-02T19:00:00/ÍA - Þór Þ.
-DESCRIPTION:ÍA - Þór Þ. - Bónus deild karla 
+SUMMARY:Rotherham - Bradford - League One - viaplay
+DTSTART:20251002T185500
+DTEND:20251002T195500
+DTSTAMP:20251002T185500Z
+UID:2025-10-02T18:55:00/Rotherham - Bradford
+DESCRIPTION:Rotherham - Bradford - League One
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava - Strasbourg - UEFA Europa Conference League - v
+ iaplay
+DTSTART:20251002T185500
+DTEND:20251002T195500
+DTSTAMP:20251002T185500Z
+UID:2025-10-02T18:55:00/Slovan Bratislava - Strasbourg
+DESCRIPTION:Slovan Bratislava - Strasbourg - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shelbourne - Häcken - UEFA Europa Conference League - viaplay
+DTSTART:20251002T185500
+DTEND:20251002T195500
+DTSTAMP:20251002T185500Z
+UID:2025-10-02T18:55:00/Shelbourne - Häcken
+DESCRIPTION:Shelbourne - Häcken - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raków Częstochowa - Universitatea Craiova - UEFA Europa Conferen
+ ce League - viaplay
+DTSTART:20251002T185500
+DTEND:20251002T195500
+DTSTAMP:20251002T185500Z
+UID:2025-10-02T18:55:00/Raków Częstochowa - Universitatea Craiova
+DESCRIPTION:Raków Częstochowa - Universitatea Craiova - UEFA Europa Conf
+ erence League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celje - AEK Athens - UEFA Europa Conference League - viaplay
+DTSTART:20251002T185500
+DTEND:20251002T195500
+DTSTAMP:20251002T185500Z
+UID:2025-10-02T18:55:00/Celje - AEK Athens
+DESCRIPTION:Celje - AEK Athens - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legia Warszawa - Samsunspor - UEFA Europa Conference League - viap
+ lay
+DTSTART:20251002T185500
+DTEND:20251002T195500
+DTSTAMP:20251002T185500Z
+UID:2025-10-02T18:55:00/Legia Warszawa - Samsunspor
+DESCRIPTION:Legia Warszawa - Samsunspor - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afturelding - Fram - Olís deild karla - hsi1
@@ -1040,6 +927,22 @@ DTEND:20251002T200000
 DTSTAMP:20251002T190000Z
 UID:2025-10-02T19:00:00/Afturelding - Fram
 DESCRIPTION:Afturelding - Fram - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍA - Þór Þ. - Bónus deild karla  - synsportisland5
+DTSTART:20251002T190000
+DTEND:20251002T200000
+DTSTAMP:20251002T190000Z
+UID:2025-10-02T19:00:00/ÍA - Þór Þ.
+DESCRIPTION:ÍA - Þór Þ. - Bónus deild karla 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Stjarnan - Bónus deild karla - synsportisland2
+DTSTART:20251002T190500
+DTEND:20251002T200500
+DTSTAMP:20251002T190500Z
+UID:2025-10-02T19:05:00/KR - Stjarnan
+DESCRIPTION:KR - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Álftanes - Ármann - Bónus deild karla  - synsportisland4
@@ -1056,14 +959,6 @@ DTEND:20251002T200500
 DTSTAMP:20251002T190500Z
 UID:2025-10-02T19:05:00/Keflavík - ÍR
 DESCRIPTION:Keflavík - ÍR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - Stjarnan - Bónus deild karla - synsportisland2
-DTSTART:20251002T190500
-DTEND:20251002T200500
-DTSTAMP:20251002T190500Z
-UID:2025-10-02T19:05:00/KR - Stjarnan
-DESCRIPTION:KR - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -1114,14 +1009,6 @@ UID:2025-10-02T22:10:00/Big Ben
 DESCRIPTION:Big Ben - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto - Detroit - NHL - viaplay
-DTSTART:20251002T230000
-DTEND:20251003T000000
-DTSTAMP:20251002T230000Z
-UID:2025-10-02T23:00:00/Toronto - Detroit
-DESCRIPTION:Toronto - Detroit - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lotte Championship  - LPGA Tour - synsport4
 DTSTART:20251002T230000
 DTEND:20251003T000000
@@ -1136,6 +1023,14 @@ DTEND:20251003T000500
 DTSTAMP:20251002T230500Z
 UID:2025-10-02T23:05:00/Red Wings - Maple Leafs
 DESCRIPTION:Red Wings - Maple Leafs - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto - Detroit - NHL - viaplay
+DTSTART:20251002T230500
+DTEND:20251003T000500
+DTSTAMP:20251002T230500Z
+UID:2025-10-02T23:05:00/Toronto - Detroit
+DESCRIPTION:Toronto - Detroit - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indónesíska kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
@@ -1202,14 +1097,6 @@ UID:2025-10-03T08:00:00/Rotterdam P1
 DESCRIPTION:Rotterdam P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Singapore  - Æfing 1 - Formúla 1 - synsportviaplay
-DTSTART:20251003T092500
-DTEND:20251003T102500
-DTSTAMP:20251003T092500Z
-UID:2025-10-03T09:25:00/F1: Singapore  - Æfing 1
-DESCRIPTION:F1: Singapore  - Æfing 1 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Singapúr Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20251003T092500
 DTEND:20251003T102500
@@ -1218,12 +1105,20 @@ UID:2025-10-03T09:25:00/Singapúr Kappaksturinn (Æfing 1)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+SUMMARY:F1: Singapore  - Æfing 1 - Formúla 1 - synsportviaplay
+DTSTART:20251003T092500
+DTEND:20251003T102500
+DTSTAMP:20251003T092500Z
+UID:2025-10-03T09:25:00/F1: Singapore  - Æfing 1
+DESCRIPTION:F1: Singapore  - Æfing 1 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20251003T093000
 DTEND:20251003T103000
 DTSTAMP:20251003T093000Z
-UID:2025-10-03T09:30:00/Pitlane (Singapúr Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Æfing 1) - Formula 1
+UID:2025-10-03T09:30:00/Onboard (Singapúr Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Singapúr Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -1245,12 +1140,12 @@ DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Æfing 1) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+SUMMARY:Pitlane (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20251003T093000
 DTEND:20251003T103000
 DTSTAMP:20251003T093000Z
-UID:2025-10-03T09:30:00/Onboard (Singapúr Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Singapúr Kappaksturinn | Æfing 1) - Formula 1
+UID:2025-10-03T09:30:00/Pitlane (Singapúr Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
@@ -1277,6 +1172,14 @@ UID:2025-10-03T11:00:00/Alfred Dunhill Links Championship
 DESCRIPTION:Alfred Dunhill Links Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:F1: Singapore  - Æfing 2 - Formúla 1 - synsportviaplay
+DTSTART:20251003T125500
+DTEND:20251003T135500
+DTSTAMP:20251003T125500Z
+UID:2025-10-03T12:55:00/F1: Singapore  - Æfing 2
+DESCRIPTION:F1: Singapore  - Æfing 2 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Singapúr Kappaksturinn (Æfing 2) - Formula 1 - viaplay
 DTSTART:20251003T125500
 DTEND:20251003T135500
@@ -1285,12 +1188,12 @@ UID:2025-10-03T12:55:00/Singapúr Kappaksturinn (Æfing 2)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Singapore  - Æfing 2 - Formúla 1 - synsportviaplay
-DTSTART:20251003T125500
-DTEND:20251003T135500
-DTSTAMP:20251003T125500Z
-UID:2025-10-03T12:55:00/F1: Singapore  - Æfing 2
-DESCRIPTION:F1: Singapore  - Æfing 2 - Formúla 1
+SUMMARY:Onboard (Singapúr Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+DTSTART:20251003T130000
+DTEND:20251003T140000
+DTSTAMP:20251003T130000Z
+UID:2025-10-03T13:00:00/Onboard (Singapúr Kappaksturinn | Æfing 2)
+DESCRIPTION:Onboard (Singapúr Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Singapúr Kappaksturinn | Æfing 2) - Formula 1
@@ -1320,14 +1223,6 @@ UID:2025-10-03T13:00:00/Pitlane (Singapúr Kappaksturinn | Æfing 2)
 DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Singapúr Kappaksturinn | Æfing 2) - Formula 1 - viaplay
-DTSTART:20251003T130000
-DTEND:20251003T140000
-DTSTAMP:20251003T130000Z
-UID:2025-10-03T13:00:00/Onboard (Singapúr Kappaksturinn | Æfing 2)
-DESCRIPTION:Onboard (Singapúr Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UEL/UECL Highlights - UEFA Europa League - viaplay
 DTSTART:20251003T150000
 DTEND:20251003T160000
@@ -1352,20 +1247,20 @@ UID:2025-10-03T16:20:00/Frankfurt - Carl Zeiss Jena
 DESCRIPTION:Frankfurt - Carl Zeiss Jena - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschwieg - Paderborn - 2. Bundesliga - synsportviaplay
-DTSTART:20251003T162500
-DTEND:20251003T172500
-DTSTAMP:20251003T162500Z
-UID:2025-10-03T16:25:00/Braunschwieg - Paderborn
-DESCRIPTION:Braunschwieg - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Düsseldorf - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20251003T162500
 DTEND:20251003T172500
 DTSTAMP:20251003T162500Z
 UID:2025-10-03T16:25:00/Düsseldorf - Nürnberg
 DESCRIPTION:Düsseldorf - Nürnberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braunschwieg - Paderborn - 2. Bundesliga - synsportviaplay
+DTSTART:20251003T162500
+DTEND:20251003T172500
+DTSTAMP:20251003T162500Z
+UID:2025-10-03T16:25:00/Braunschwieg - Paderborn
+DESCRIPTION:Braunschwieg - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braunschweig - Paderborn - 2. Bundesliga - viaplay
@@ -1482,20 +1377,20 @@ UID:2025-10-04T01:20:00/Indónesíska kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Indónesíska kappaksturinn (Frjáls æfing 2) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver - Edmonton - NHL - viaplay
-DTSTART:20251004T020000
-DTEND:20251004T030000
-DTSTAMP:20251004T020000Z
-UID:2025-10-04T02:00:00/Vancouver - Edmonton
-DESCRIPTION:Vancouver - Edmonton - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Indónesíska kappaksturinn (Frjáls æfing 2) - MotoGP - viaplay
 DTSTART:20251004T020000
 DTEND:20251004T030000
 DTSTAMP:20251004T020000Z
 UID:2025-10-04T02:00:00/Indónesíska kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Indónesíska kappaksturinn (Frjáls æfing 2) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver - Edmonton - NHL - viaplay
+DTSTART:20251004T020000
+DTEND:20251004T030000
+DTSTAMP:20251004T020000Z
+UID:2025-10-04T02:00:00/Vancouver - Edmonton
+DESCRIPTION:Vancouver - Edmonton - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indónesíska kappaksturinn (Tímatökur) - MotoGP - viaplay
@@ -1556,14 +1451,6 @@ DESCRIPTION:Hockenheimring (Kappakstur 1) - Porsche Carrera Cup Deutschlan
  d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Singapúr Kappaksturinn (Æfing 3) - Formula 1 - viaplay
-DTSTART:20251004T092500
-DTEND:20251004T102500
-DTSTAMP:20251004T092500Z
-UID:2025-10-04T09:25:00/Singapúr Kappaksturinn (Æfing 3)
-DESCRIPTION:Singapúr Kappaksturinn (Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Singapore  - Æfing 3 - Formúla 1 - synsportviaplay
 DTSTART:20251004T092500
 DTEND:20251004T102500
@@ -1572,20 +1459,28 @@ UID:2025-10-04T09:25:00/F1: Singapore  - Æfing 3
 DESCRIPTION:F1: Singapore  - Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Singapúr Kappaksturinn (Æfing 3) - Formula 1 - viaplay
+DTSTART:20251004T092500
+DTEND:20251004T102500
+DTSTAMP:20251004T092500Z
+UID:2025-10-04T09:25:00/Singapúr Kappaksturinn (Æfing 3)
+DESCRIPTION:Singapúr Kappaksturinn (Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Singapúr Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20251004T093000
+DTEND:20251004T103000
+DTSTAMP:20251004T093000Z
+UID:2025-10-04T09:30:00/Timing (Singapúr Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Singapúr Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Singapúr Kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20251004T093000
 DTEND:20251004T103000
 DTSTAMP:20251004T093000Z
 UID:2025-10-04T09:30:00/Pitlane (Singapúr Kappaksturinn | Æfing 3)
 DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Singapúr Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20251004T093000
-DTEND:20251004T103000
-DTSTAMP:20251004T093000Z
-UID:2025-10-04T09:30:00/Onboard (Singapúr Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Singapúr Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Singapúr Kappaksturinn | Æfing 3) - Formula 1
@@ -1599,12 +1494,12 @@ DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Æfing 3) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Singapúr Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+SUMMARY:Onboard (Singapúr Kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20251004T093000
 DTEND:20251004T103000
 DTSTAMP:20251004T093000Z
-UID:2025-10-04T09:30:00/Timing (Singapúr Kappaksturinn | Æfing 3)
-DESCRIPTION:Timing (Singapúr Kappaksturinn | Æfing 3) - Formula 1
+UID:2025-10-04T09:30:00/Onboard (Singapúr Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Singapúr Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Essen - Wolfsburg - Frauen-Bundesliga - viaplay
@@ -1615,20 +1510,20 @@ UID:2025-10-04T09:55:00/Essen - Wolfsburg
 DESCRIPTION:Essen - Wolfsburg - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rotterdam P1 - Premier Padel - viaplay
-DTSTART:20251004T100000
-DTEND:20251004T110000
-DTSTAMP:20251004T100000Z
-UID:2025-10-04T10:00:00/Rotterdam P1
-DESCRIPTION:Rotterdam P1 - Premier Padel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
 DTSTART:20251004T100000
 DTEND:20251004T110000
 DTSTAMP:20251004T100000Z
 UID:2025-10-04T10:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rotterdam P1 - Premier Padel - viaplay
+DTSTART:20251004T100000
+DTEND:20251004T110000
+DTSTAMP:20251004T100000Z
+UID:2025-10-04T10:00:00/Rotterdam P1
+DESCRIPTION:Rotterdam P1 - Premier Padel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vittsjö - Kristianstad - OBOS Damallsvenskan - viaplay
@@ -1639,12 +1534,12 @@ UID:2025-10-04T10:50:00/Vittsjö - Kristianstad
 DESCRIPTION:Vittsjö - Kristianstad - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Preußen Münster - 2. Bundesliga - viaplay
+SUMMARY:Kaiserslautern - Bochum - 2. Bundesliga - viaplay
 DTSTART:20251004T105500
 DTEND:20251004T115500
 DTSTAMP:20251004T105500Z
-UID:2025-10-04T10:55:00/Hertha Berlin - Preußen Münster
-DESCRIPTION:Hertha Berlin - Preußen Münster - 2. Bundesliga
+UID:2025-10-04T10:55:00/Kaiserslautern - Bochum
+DESCRIPTION:Kaiserslautern - Bochum - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Darmstadt - 2. Bundesliga - viaplay
@@ -1655,12 +1550,12 @@ UID:2025-10-04T10:55:00/Holstein Kiel - Darmstadt
 DESCRIPTION:Holstein Kiel - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Bochum - 2. Bundesliga - viaplay
+SUMMARY:Hertha Berlin - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20251004T105500
 DTEND:20251004T115500
 DTSTAMP:20251004T105500Z
-UID:2025-10-04T10:55:00/Kaiserslautern - Bochum
-DESCRIPTION:Kaiserslautern - Bochum - 2. Bundesliga
+UID:2025-10-04T10:55:00/Hertha Berlin - Preußen Münster
+DESCRIPTION:Hertha Berlin - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alfred Dunhill Links Championship - DP World Tour - synsport4
@@ -1719,6 +1614,15 @@ UID:2025-10-04T12:55:00/F1: Singapore  - Tímataka
 DESCRIPTION:F1: Singapore  - Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
+ lay
+DTSTART:20251004T130000
+DTEND:20251004T140000
+DTSTAMP:20251004T130000Z
+UID:2025-10-04T13:00:00/Onboard (Singapúr Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Singapúr Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viapl
  ay
 DTSTART:20251004T130000
@@ -1726,15 +1630,6 @@ DTEND:20251004T140000
 DTSTAMP:20251004T130000Z
 UID:2025-10-04T13:00:00/Timing (Singapúr Kappaksturinn | Tímatökur)
 DESCRIPTION:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
- lay
-DTSTART:20251004T130000
-DTEND:20251004T140000
-DTSTAMP:20251004T130000Z
-UID:2025-10-04T13:00:00/Pitlane (Singapúr Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Singapúr Kappaksturinn | Tímatökur) - Formul
@@ -1748,13 +1643,13 @@ DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Tímatökur) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
+SUMMARY:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
  lay
 DTSTART:20251004T130000
 DTEND:20251004T140000
 DTSTAMP:20251004T130000Z
-UID:2025-10-04T13:00:00/Onboard (Singapúr Kappaksturinn | Tímatökur)
-DESCRIPTION:Onboard (Singapúr Kappaksturinn | Tímatökur) - Formula 1
+UID:2025-10-04T13:00:00/Pitlane (Singapúr Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Kappakstur 1) - ADAC GT4 Masters - viaplay
@@ -1765,12 +1660,12 @@ UID:2025-10-04T13:05:00/Hockenheimring (Kappakstur 1)
 DESCRIPTION:Hockenheimring (Kappakstur 1) - ADAC GT4 Masters
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - St. Pauli - Bundesliga - viaplay
+SUMMARY:Leverkusen - Union Berlin - Bundesliga - viaplay
 DTSTART:20251004T132000
 DTEND:20251004T142000
 DTSTAMP:20251004T132000Z
-UID:2025-10-04T13:20:00/Werder Bremen - St. Pauli
-DESCRIPTION:Werder Bremen - St. Pauli - Bundesliga
+UID:2025-10-04T13:20:00/Leverkusen - Union Berlin
+DESCRIPTION:Leverkusen - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Augsburg - Wolfsburg - Bundesliga - viaplay
@@ -1781,20 +1676,20 @@ UID:2025-10-04T13:20:00/Augsburg - Wolfsburg
 DESCRIPTION:Augsburg - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Werder Bremen - St. Pauli - Bundesliga - viaplay
+DTSTART:20251004T132000
+DTEND:20251004T142000
+DTSTAMP:20251004T132000Z
+UID:2025-10-04T13:20:00/Werder Bremen - St. Pauli
+DESCRIPTION:Werder Bremen - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20251004T132000
 DTEND:20251004T142000
 DTSTAMP:20251004T132000Z
 UID:2025-10-04T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leverkusen - Union Berlin - Bundesliga - viaplay
-DTSTART:20251004T132000
-DTEND:20251004T142000
-DTSTAMP:20251004T132000Z
-UID:2025-10-04T13:20:00/Leverkusen - Union Berlin
-DESCRIPTION:Leverkusen - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Leipzig - Bundesliga - viaplay
@@ -1813,20 +1708,20 @@ UID:2025-10-04T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - West Ham - Premier League - synsport2
-DTSTART:20251004T134000
-DTEND:20251004T144000
-DTSTAMP:20251004T134000Z
-UID:2025-10-04T13:40:00/Arsenal - West Ham
-DESCRIPTION:Arsenal - West Ham - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. Utd. - Sunderland - Premier League - synsport3
 DTSTART:20251004T134000
 DTEND:20251004T144000
 DTSTAMP:20251004T134000Z
 UID:2025-10-04T13:40:00/Man. Utd. - Sunderland
 DESCRIPTION:Man. Utd. - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - West Ham - Premier League - synsport2
+DTSTART:20251004T134000
+DTEND:20251004T144000
+DTSTAMP:20251004T134000Z
+UID:2025-10-04T13:40:00/Arsenal - West Ham
+DESCRIPTION:Arsenal - West Ham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Afturelding - Besta deild karla - synsportisland
@@ -1837,20 +1732,20 @@ UID:2025-10-04T13:50:00/KR - Afturelding
 DESCRIPTION:KR - Afturelding - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alingsås - Häcken - OBOS Damallsvenskan - viaplay
-DTSTART:20251004T135000
-DTEND:20251004T145000
-DTSTAMP:20251004T135000Z
-UID:2025-10-04T13:50:00/Alingsås - Häcken
-DESCRIPTION:Alingsås - Häcken - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - ÍA - Besta deild karla - synsportisland2
 DTSTART:20251004T135000
 DTEND:20251004T145000
 DTSTAMP:20251004T135000Z
 UID:2025-10-04T13:50:00/ÍBV - ÍA
 DESCRIPTION:ÍBV - ÍA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alingsås - Häcken - OBOS Damallsvenskan - viaplay
+DTSTART:20251004T135000
+DTEND:20251004T145000
+DTSTAMP:20251004T135000Z
+UID:2025-10-04T13:50:00/Alingsås - Häcken
+DESCRIPTION:Alingsås - Häcken - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Watford - Oxford - Championship - viaplay
@@ -1911,6 +1806,14 @@ UID:2025-10-04T15:15:00/Hockenheimring (Kappakstur 1)
 DESCRIPTION:Hockenheimring (Kappakstur 1) - ADAC GT4 Germany
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DHfK Leipzig - Flensburg - Bundesliga handbolti - synsportviaplay
+DTSTART:20251004T155500
+DTEND:20251004T165500
+DTSTAMP:20251004T155500Z
+UID:2025-10-04T15:55:00/DHfK Leipzig - Flensburg
+DESCRIPTION:DHfK Leipzig - Flensburg - Bundesliga handbolti
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DHfK Leipzig - Flensburg-Handewitt - Bundesliga - viaplay
 DTSTART:20251004T155500
 DTEND:20251004T165500
@@ -1927,20 +1830,20 @@ UID:2025-10-04T15:55:00/Färjestad - Brynäs
 DESCRIPTION:Färjestad - Brynäs - SHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DHfK Leipzig - Flensburg - Bundesliga handbolti - synsportviaplay
-DTSTART:20251004T155500
-DTEND:20251004T165500
-DTSTAMP:20251004T155500Z
-UID:2025-10-04T15:55:00/DHfK Leipzig - Flensburg
-DESCRIPTION:DHfK Leipzig - Flensburg - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - Tindastóll - Bónus deild karla  - synsportisland5
 DTSTART:20251004T160500
 DTEND:20251004T170500
 DTSTAMP:20251004T160500Z
 UID:2025-10-04T16:05:00/Valur - Tindastóll
 DESCRIPTION:Valur - Tindastóll - Bónus deild karla 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Tindastóll - Besta deild kvenna - synsportisland4
+DTSTART:20251004T160500
+DTEND:20251004T170500
+DTSTAMP:20251004T160500Z
+UID:2025-10-04T16:05:00/Fram - Tindastóll
+DESCRIPTION:Fram - Tindastóll - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Liverpool - Premier League - synsport
@@ -1967,14 +1870,6 @@ UID:2025-10-04T18:00:00/KA/Þór - Haukar
 DESCRIPTION:KA/Þór - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dresden - Karlsruher SC - 2. Bundesliga - synsportviaplay
-DTSTART:20251004T182500
-DTEND:20251004T192500
-DTSTAMP:20251004T182500Z
-UID:2025-10-04T18:25:00/Dresden - Karlsruher SC
-DESCRIPTION:Dresden - Karlsruher SC - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dynamo Dresden - Karlsruher - 2. Bundesliga - viaplay
 DTSTART:20251004T182500
 DTEND:20251004T192500
@@ -1983,20 +1878,20 @@ UID:2025-10-04T18:25:00/Dynamo Dresden - Karlsruher
 DESCRIPTION:Dynamo Dresden - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dresden - Karlsruher SC - 2. Bundesliga - synsportviaplay
+DTSTART:20251004T182500
+DTEND:20251004T192500
+DTSTAMP:20251004T182500Z
+UID:2025-10-04T18:25:00/Dresden - Karlsruher SC
+DESCRIPTION:Dresden - Karlsruher SC - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport
 DTSTART:20251004T183500
 DTEND:20251004T193500
 DTSTAMP:20251004T183500Z
 UID:2025-10-04T18:35:00/Laugardagsmörkin
 DESCRIPTION:Laugardagsmörkin - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Stjarnan - Besta deild karla - synsportisland
-DTSTART:20251004T190000
-DTEND:20251004T200000
-DTSTAMP:20251004T190000Z
-UID:2025-10-04T19:00:00/Valur - Stjarnan
-DESCRIPTION:Valur - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drive for the Cure 200 by Blue Cross and Blue Shield of NC (Xfinit
@@ -2010,6 +1905,14 @@ DESCRIPTION:Drive for the Cure 200 by Blue Cross and Blue Shield of NC (Xf
  inity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Stjarnan - Besta deild karla - synsportisland
+DTSTART:20251004T194500
+DTEND:20251004T204500
+DTSTAMP:20251004T194500Z
+UID:2025-10-04T19:45:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drive for the Cure 200 - Nascar Xfinity - synsportviaplay
 DTSTART:20251004T202500
 DTEND:20251004T212500
@@ -2019,10 +1922,10 @@ DESCRIPTION:Drive for the Cure 200 - Nascar Xfinity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Subway Tilþrifin - Besta deild karla - synsportisland
-DTSTART:20251004T212100
-DTEND:20251004T222100
-DTSTAMP:20251004T212100Z
-UID:2025-10-04T21:21:00/Subway Tilþrifin
+DTSTART:20251004T220000
+DTEND:20251004T230000
+DTSTAMP:20251004T220000Z
+UID:2025-10-04T22:00:00/Subway Tilþrifin
 DESCRIPTION:Subway Tilþrifin - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
@@ -2174,20 +2077,20 @@ UID:2025-10-05T11:25:00/Greuther Fürth - Hannover
 DESCRIPTION:Greuther Fürth - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20251005T112500
-DTEND:20251005T122500
-DTSTAMP:20251005T112500Z
-UID:2025-10-05T11:25:00/Magdeburg - Elversberg
-DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arminia Bielefeld - Schalke - 2. Bundesliga - viaplay
 DTSTART:20251005T112500
 DTEND:20251005T122500
 DTSTAMP:20251005T112500Z
 UID:2025-10-05T11:25:00/Arminia Bielefeld - Schalke
 DESCRIPTION:Arminia Bielefeld - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20251005T112500
+DTEND:20251005T122500
+DTSTAMP:20251005T112500Z
+UID:2025-10-05T11:25:00/Magdeburg - Elversberg
+DESCRIPTION:Magdeburg - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Singapore  - Keppni - Formúla 1 - synsportviaplay
@@ -2230,24 +2133,6 @@ UID:2025-10-05T11:55:00/F1 Kids: Singapúr Kappaksturinn
 DESCRIPTION:F1 Kids: Singapúr Kappaksturinn - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapla
- y
-DTSTART:20251005T120000
-DTEND:20251005T130000
-DTSTAMP:20251005T120000Z
-UID:2025-10-05T12:00:00/Timing (Singapúr Kappaksturinn | Kappakstur)
-DESCRIPTION:Timing (Singapúr Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapl
- ay
-DTSTART:20251005T120000
-DTEND:20251005T130000
-DTSTAMP:20251005T120000Z
-UID:2025-10-05T12:00:00/Pitlane (Singapúr Kappaksturinn | Kappakstur)
-DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - Formula
   1 - viaplay
 DTSTART:20251005T120000
@@ -2259,6 +2144,15 @@ DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapla
+ y
+DTSTART:20251005T120000
+DTEND:20251005T130000
+DTSTAMP:20251005T120000Z
+UID:2025-10-05T12:00:00/Timing (Singapúr Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Singapúr Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapl
  ay
 DTSTART:20251005T120000
@@ -2266,6 +2160,15 @@ DTEND:20251005T130000
 DTSTAMP:20251005T120000Z
 UID:2025-10-05T12:00:00/Onboard (Singapúr Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Singapúr Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapl
+ ay
+DTSTART:20251005T120000
+DTEND:20251005T130000
+DTSTAMP:20251005T120000Z
+UID:2025-10-05T12:00:00/Pitlane (Singapúr Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Nott. Forest - Premier League - synsport2
@@ -2276,12 +2179,12 @@ UID:2025-10-05T12:40:00/Newcastle - Nott. Forest
 DESCRIPTION:Newcastle - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Crystal Palace - Premier League - synsport3
+SUMMARY:Aston Villa - Burnley - Premier League - synsport
 DTSTART:20251005T124000
 DTEND:20251005T134000
 DTSTAMP:20251005T124000Z
-UID:2025-10-05T12:40:00/Everton - Crystal Palace
-DESCRIPTION:Everton - Crystal Palace - Premier League
+UID:2025-10-05T12:40:00/Aston Villa - Burnley
+DESCRIPTION:Aston Villa - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Brighton - Premier League - synsport4
@@ -2292,20 +2195,12 @@ UID:2025-10-05T12:40:00/Wolves - Brighton
 DESCRIPTION:Wolves - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aston Villa - Burnley - Premier League - synsport
+SUMMARY:Everton - Crystal Palace - Premier League - synsport3
 DTSTART:20251005T124000
 DTEND:20251005T134000
 DTSTAMP:20251005T124000Z
-UID:2025-10-05T12:40:00/Aston Villa - Burnley
-DESCRIPTION:Aston Villa - Burnley - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Piteå - Djurgården - OBOS Damallsvenskan - viaplay
-DTSTART:20251005T125000
-DTEND:20251005T135000
-DTSTAMP:20251005T125000Z
-UID:2025-10-05T12:50:00/Piteå - Djurgården
-DESCRIPTION:Piteå - Djurgården - OBOS Damallsvenskan
+UID:2025-10-05T12:40:00/Everton - Crystal Palace
+DESCRIPTION:Everton - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norrköping - Växjö - OBOS Damallsvenskan - viaplay
@@ -2314,6 +2209,14 @@ DTEND:20251005T135000
 DTSTAMP:20251005T125000Z
 UID:2025-10-05T12:50:00/Norrköping - Växjö
 DESCRIPTION:Norrköping - Växjö - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piteå - Djurgården - OBOS Damallsvenskan - viaplay
+DTSTART:20251005T125000
+DTEND:20251005T135000
+DTSTAMP:20251005T125000Z
+UID:2025-10-05T12:50:00/Piteå - Djurgården
+DESCRIPTION:Piteå - Djurgården - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Kappakstur 2) - ADAC GT4 Masters - viaplay
@@ -2346,6 +2249,14 @@ DTEND:20251005T145000
 DTSTAMP:20251005T135000Z
 UID:2025-10-05T13:50:00/KA - Vestri
 DESCRIPTION:KA - Vestri - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Þróttur R. - Besta deild kvenna - synsportisland2
+DTSTART:20251005T135000
+DTEND:20251005T145000
+DTSTAMP:20251005T135000Z
+UID:2025-10-05T13:50:00/FH - Þróttur R.
+DESCRIPTION:FH - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rotterdam P1 - Premier Padel - viaplay
@@ -2477,6 +2388,14 @@ UID:2025-10-05T19:00:00/Víkingur R. - FH
 DESCRIPTION:Víkingur R. - FH - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breiðablik - Fram - Besta deild karla - synsportisland2
+DTSTART:20251005T190500
+DTEND:20251005T200500
+DTSTAMP:20251005T190500Z
+UID:2025-10-05T19:05:00/Breiðablik - Fram
+DESCRIPTION:Breiðablik - Fram - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bank of America ROVAL 400 - Nascar Cup Series - synsportviaplay
 DTSTART:20251005T192500
 DTEND:20251005T202500
@@ -2499,5 +2418,138 @@ DTEND:20251005T222000
 DTSTAMP:20251005T212000Z
 UID:2025-10-05T21:20:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milan P1 - Premier Padel - viaplay
+DTSTART:20251006T070000
+DTEND:20251006T080000
+DTSTAMP:20251006T070000Z
+UID:2025-10-06T07:00:00/Milan P1
+DESCRIPTION:Milan P1 - Premier Padel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20251006T100000
+DTEND:20251006T110000
+DTSTAMP:20251006T100000Z
+UID:2025-10-06T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Grand Prix - PDC Darts - viaplay
+DTSTART:20251006T170000
+DTEND:20251006T180000
+DTSTAMP:20251006T170000Z
+UID:2025-10-06T17:00:00/World Grand Prix
+DESCRIPTION:World Grand Prix - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - ÍBV - 16-liða úrslit - Powerade-bikar karla í ha
+ ndbolta - ruv2
+DTSTART:20251006T180000
+DTEND:20251006T190000
+DTSTAMP:20251006T180000Z
+UID:2025-10-06T18:00:00/Afturelding - ÍBV - 16-liða úrslit
+DESCRIPTION:Afturelding - ÍBV - 16-liða úrslit - Powerade-bikar karla 
+ í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - ÍBV - Powerade bikar karla 2026 - hsi1
+DTSTART:20251006T180000
+DTEND:20251006T190000
+DTSTAMP:20251006T180000Z
+UID:2025-10-06T18:00:00/Afturelding - ÍBV
+DESCRIPTION:Afturelding - ÍBV - Powerade bikar karla 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur - Fram - Powerade bikar karla 2026 - hsi1
+DTSTART:20251006T183000
+DTEND:20251006T193000
+DTSTAMP:20251006T183000Z
+UID:2025-10-06T18:30:00/Víkingur - Fram
+DESCRIPTION:Víkingur - Fram - Powerade bikar karla 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harrogate - Crewe - League Two - viaplay
+DTSTART:20251006T185500
+DTEND:20251006T195500
+DTSTAMP:20251006T185500Z
+UID:2025-10-06T18:55:00/Harrogate - Crewe
+DESCRIPTION:Harrogate - Crewe - League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harrogate Town - Crewe Alexandra - EFL League Two - synsportviapla
+ y
+DTSTART:20251006T185500
+DTEND:20251006T195500
+DTSTAMP:20251006T185500Z
+UID:2025-10-06T18:55:00/Harrogate Town - Crewe Alexandra
+DESCRIPTION:Harrogate Town - Crewe Alexandra - EFL League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Stjarnan - Besta deild kvenna - synsportisland
+DTSTART:20251006T190500
+DTEND:20251006T200500
+DTSTAMP:20251006T190500Z
+UID:2025-10-06T19:05:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grótta - FH - Powerade bikar karla 2026 - hsi1
+DTSTART:20251006T193000
+DTEND:20251006T203000
+DTSTAMP:20251006T193000Z
+UID:2025-10-06T19:30:00/Grótta - FH
+DESCRIPTION:Grótta - FH - Powerade bikar karla 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HK - Selfoss - Powerade bikar karla 2026 - hsi1
+DTSTART:20251006T193000
+DTEND:20251006T203000
+DTSTAMP:20251006T193000Z
+UID:2025-10-06T19:30:00/HK - Selfoss
+DESCRIPTION:HK - Selfoss - Powerade bikar karla 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deildin - Extra - Bónus deild karla - synsportisland
+DTSTART:20251006T200000
+DTEND:20251006T210000
+DTSTAMP:20251006T200000Z
+UID:2025-10-06T20:00:00/Bónus deildin - Extra
+DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Valur - Powerade bikar karla 2026 - hsi1
+DTSTART:20251006T200000
+DTEND:20251006T210000
+DTSTAMP:20251006T200000Z
+UID:2025-10-06T20:00:00/Haukar - Valur
+DESCRIPTION:Haukar - Valur - Powerade bikar karla 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Valur - 16-liða úrslit - Powerade-bikar karla í handbo
+ lta - ruv2
+DTSTART:20251006T200000
+DTEND:20251006T210000
+DTSTAMP:20251006T200000Z
+UID:2025-10-06T20:00:00/Haukar - Valur - 16-liða úrslit
+DESCRIPTION:Haukar - Valur - 16-liða úrslit - Powerade-bikar karla í ha
+ ndbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - Stjarnan - Powerade bikar karla 2026 - hsi1
+DTSTART:20251006T201500
+DTEND:20251006T211500
+DTSTAMP:20251006T201500Z
+UID:2025-10-06T20:15:00/Fjölnir - Stjarnan
+DESCRIPTION:Fjölnir - Stjarnan - Powerade bikar karla 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
+DTSTART:20251006T212000
+DTEND:20251006T222000
+DTSTAMP:20251006T212000Z
+UID:2025-10-06T21:20:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 END:VCALENDAR
