@@ -82,6 +82,14 @@ UID:2025-10-03T09:30:00/Onboard (Singapúr Kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Singapúr Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20251003T093000
+DTEND:20251003T103000
+DTSTAMP:20251003T093000Z
+UID:2025-10-03T09:30:00/Pitlane (Singapúr Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20251003T093000
 DTEND:20251003T103000
@@ -99,14 +107,6 @@ UID:2025-10-03T09:30:00/Track Positioning (Singapúr Kappaksturinn | Æfin
  g 1)
 DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Æfing 1) - Formu
  la 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20251003T093000
-DTEND:20251003T103000
-DTSTAMP:20251003T093000Z
-UID:2025-10-03T09:30:00/Pitlane (Singapúr Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Singapore (Tímatökur) - F1 Academy - viaplay
@@ -260,20 +260,20 @@ DESCRIPTION:Hockenheimring (Kappakstur 1) - Porsche Carrera Cup Deutschlan
  d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Singapore  - Æfing 3 - Formúla 1 - synsportviaplay
-DTSTART:20251004T092500
-DTEND:20251004T102500
-DTSTAMP:20251004T092500Z
-UID:2025-10-04T09:25:00/F1: Singapore  - Æfing 3
-DESCRIPTION:F1: Singapore  - Æfing 3 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Singapúr Kappaksturinn (Æfing 3) - Formula 1 - viaplay
 DTSTART:20251004T092500
 DTEND:20251004T102500
 DTSTAMP:20251004T092500Z
 UID:2025-10-04T09:25:00/Singapúr Kappaksturinn (Æfing 3)
 DESCRIPTION:Singapúr Kappaksturinn (Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Singapore  - Æfing 3 - Formúla 1 - synsportviaplay
+DTSTART:20251004T092500
+DTEND:20251004T102500
+DTSTAMP:20251004T092500Z
+UID:2025-10-04T09:25:00/F1: Singapore  - Æfing 3
+DESCRIPTION:F1: Singapore  - Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Singapúr Kappaksturinn | Æfing 3) - Formula 1 - viaplay
@@ -319,6 +319,14 @@ UID:2025-10-04T11:15:00/Hockenheimring (Kappakstur 1)
 DESCRIPTION:Hockenheimring (Kappakstur 1) - DTM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:F1: Singapore  - Tímataka - Formúla 1 - synsportviaplay
+DTSTART:20251004T125500
+DTEND:20251004T135500
+DTSTAMP:20251004T125500Z
+UID:2025-10-04T12:55:00/F1: Singapore  - Tímataka
+DESCRIPTION:F1: Singapore  - Tímataka - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Singapúr Kappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20251004T125500
 DTEND:20251004T135500
@@ -327,12 +335,13 @@ UID:2025-10-04T12:55:00/Singapúr Kappaksturinn (Tímatökur)
 DESCRIPTION:Singapúr Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Singapore  - Tímataka - Formúla 1 - synsportviaplay
-DTSTART:20251004T125500
-DTEND:20251004T135500
-DTSTAMP:20251004T125500Z
-UID:2025-10-04T12:55:00/F1: Singapore  - Tímataka
-DESCRIPTION:F1: Singapore  - Tímataka - Formúla 1
+SUMMARY:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viapl
+ ay
+DTSTART:20251004T130000
+DTEND:20251004T140000
+DTSTAMP:20251004T130000Z
+UID:2025-10-04T13:00:00/Timing (Singapúr Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
@@ -344,13 +353,13 @@ UID:2025-10-04T13:00:00/Onboard (Singapúr Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Singapúr Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viapl
- ay
+SUMMARY:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
+ lay
 DTSTART:20251004T130000
 DTEND:20251004T140000
 DTSTAMP:20251004T130000Z
-UID:2025-10-04T13:00:00/Timing (Singapúr Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1
+UID:2025-10-04T13:00:00/Pitlane (Singapúr Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Singapúr Kappaksturinn | Tímatökur) - Formul
@@ -364,21 +373,21 @@ DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Tímatökur) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
- lay
-DTSTART:20251004T130000
-DTEND:20251004T140000
-DTSTAMP:20251004T130000Z
-UID:2025-10-04T13:00:00/Pitlane (Singapúr Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hockenheimring (Kappakstur 1) - ADAC GT4 Masters - viaplay
 DTSTART:20251004T130500
 DTEND:20251004T140500
 DTSTAMP:20251004T130500Z
 UID:2025-10-04T13:05:00/Hockenheimring (Kappakstur 1)
 DESCRIPTION:Hockenheimring (Kappakstur 1) - ADAC GT4 Masters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jarama (Kappakstur 1) - FIA European Truck Racing Championship - v
+ iaplay
+DTSTART:20251004T130500
+DTEND:20251004T140500
+DTSTAMP:20251004T130500Z
+UID:2025-10-04T13:05:00/Jarama (Kappakstur 1)
+DESCRIPTION:Jarama (Kappakstur 1) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Kappakstur 1) - Formula Regional European Champion
@@ -397,6 +406,15 @@ DTEND:20251004T161500
 DTSTAMP:20251004T151500Z
 UID:2025-10-04T15:15:00/Hockenheimring (Kappakstur 1)
 DESCRIPTION:Hockenheimring (Kappakstur 1) - ADAC GT4 Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jarama (Kappakstur 2) - FIA European Truck Racing Championship - v
+ iaplay
+DTSTART:20251004T152000
+DTEND:20251004T162000
+DTSTAMP:20251004T152000Z
+UID:2025-10-04T15:20:00/Jarama (Kappakstur 2)
+DESCRIPTION:Jarama (Kappakstur 2) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drive for the Cure 200 by Blue Cross and Blue Shield of NC (Xfinit
@@ -486,20 +504,21 @@ DESCRIPTION:Hockenheimring (Kappakstur 2) - Porsche Carrera Cup Deutschlan
  d
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jarama (Kappakstur 3) - FIA European Truck Racing Championship - v
+ iaplay
+DTSTART:20251005T111000
+DTEND:20251005T121000
+DTSTAMP:20251005T111000Z
+UID:2025-10-05T11:10:00/Jarama (Kappakstur 3)
+DESCRIPTION:Jarama (Kappakstur 3) - FIA European Truck Racing Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hockenheimring (Kappakstur 2) - DTM - viaplay
 DTSTART:20251005T111500
 DTEND:20251005T121500
 DTSTAMP:20251005T111500Z
 UID:2025-10-05T11:15:00/Hockenheimring (Kappakstur 2)
 DESCRIPTION:Hockenheimring (Kappakstur 2) - DTM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1: Singapore  - Keppni - Formúla 1 - synsportviaplay
-DTSTART:20251005T113000
-DTEND:20251005T123000
-DTSTAMP:20251005T113000Z
-UID:2025-10-05T11:30:00/F1: Singapore  - Keppni
-DESCRIPTION:F1: Singapore  - Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Singapúr Kappaksturinn (Kappakstur) - Formula 1 - viaplay
@@ -510,23 +529,20 @@ UID:2025-10-05T11:30:00/Singapúr Kappaksturinn (Kappakstur)
 DESCRIPTION:Singapúr Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:F1: Singapore  - Keppni - Formúla 1 - synsportviaplay
+DTSTART:20251005T113000
+DTEND:20251005T123000
+DTSTAMP:20251005T113000Z
+UID:2025-10-05T11:30:00/F1: Singapore  - Keppni
+DESCRIPTION:F1: Singapore  - Keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:F1 Kids: Singapúr Kappaksturinn - Formula 1 - viaplay
 DTSTART:20251005T115500
 DTEND:20251005T125500
 DTSTAMP:20251005T115500Z
 UID:2025-10-05T11:55:00/F1 Kids: Singapúr Kappaksturinn
 DESCRIPTION:F1 Kids: Singapúr Kappaksturinn - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - Formula
-  1 - viaplay
-DTSTART:20251005T120000
-DTEND:20251005T130000
-DTSTAMP:20251005T120000Z
-UID:2025-10-05T12:00:00/Track Positioning (Singapúr Kappaksturinn | Kappa
- kstur)
-DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - For
- mula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapla
@@ -547,6 +563,17 @@ UID:2025-10-05T12:00:00/Onboard (Singapúr Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Singapúr Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - Formula
+  1 - viaplay
+DTSTART:20251005T120000
+DTEND:20251005T130000
+DTSTAMP:20251005T120000Z
+UID:2025-10-05T12:00:00/Track Positioning (Singapúr Kappaksturinn | Kappa
+ kstur)
+DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - For
+ mula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapl
  ay
 DTSTART:20251005T120000
@@ -562,6 +589,15 @@ DTEND:20251005T141000
 DTSTAMP:20251005T131000Z
 UID:2025-10-05T13:10:00/Hockenheimring (Kappakstur 2)
 DESCRIPTION:Hockenheimring (Kappakstur 2) - ADAC GT4 Masters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jarama (Kappakstur 4) - FIA European Truck Racing Championship - v
+ iaplay
+DTSTART:20251005T133000
+DTEND:20251005T143000
+DTSTAMP:20251005T133000Z
+UID:2025-10-05T13:30:00/Jarama (Kappakstur 4)
+DESCRIPTION:Jarama (Kappakstur 4) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hockenheimring (Kappakstur 2) - ADAC GT4 Germany - viaplay
