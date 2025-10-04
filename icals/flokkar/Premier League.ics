@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Fulham - Premier League - synsport
-DTSTART:20251003T184000
-DTEND:20251003T194000
-DTSTAMP:20251003T184000Z
-UID:2025-10-03T18:40:00/Bournemouth - Fulham
-DESCRIPTION:Bournemouth - Fulham - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leeds - Tottenham - Premier League - synsport
 DTSTART:20251004T111000
 DTEND:20251004T121000
@@ -18,12 +10,12 @@ UID:2025-10-04T11:10:00/Leeds - Tottenham
 DESCRIPTION:Leeds - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - West Ham - Premier League - synsport2
+SUMMARY:Man. Utd. - Sunderland - Premier League - synsport3
 DTSTART:20251004T134000
 DTEND:20251004T144000
 DTSTAMP:20251004T134000Z
-UID:2025-10-04T13:40:00/Arsenal - West Ham
-DESCRIPTION:Arsenal - West Ham - Premier League
+UID:2025-10-04T13:40:00/Man. Utd. - Sunderland
+DESCRIPTION:Man. Utd. - Sunderland - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -34,12 +26,20 @@ UID:2025-10-04T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Sunderland - Premier League - synsport3
+SUMMARY:Arsenal - West Ham - Premier League - synsport2
 DTSTART:20251004T134000
 DTEND:20251004T144000
 DTSTAMP:20251004T134000Z
-UID:2025-10-04T13:40:00/Man. Utd. - Sunderland
-DESCRIPTION:Man. Utd. - Sunderland - Premier League
+UID:2025-10-04T13:40:00/Arsenal - West Ham
+DESCRIPTION:Arsenal - West Ham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Man. Utd.: Data Zone - Premier League - synsport5
+DTSTART:20251004T152500
+DTEND:20251004T162500
+DTSTAMP:20251004T152500Z
+UID:2025-10-04T15:25:00/Liverpool - Man. Utd.: Data Zone
+DESCRIPTION:Liverpool - Man. Utd.: Data Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Liverpool - Premier League - synsport
@@ -66,14 +66,6 @@ UID:2025-10-04T18:35:00/Laugardagsmörkin
 DESCRIPTION:Laugardagsmörkin - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Nott. Forest - Premier League - synsport2
-DTSTART:20251005T124000
-DTEND:20251005T134000
-DTSTAMP:20251005T124000Z
-UID:2025-10-05T12:40:00/Newcastle - Nott. Forest
-DESCRIPTION:Newcastle - Nott. Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Burnley - Premier League - synsport
 DTSTART:20251005T124000
 DTEND:20251005T134000
@@ -82,12 +74,12 @@ UID:2025-10-05T12:40:00/Aston Villa - Burnley
 DESCRIPTION:Aston Villa - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolves - Brighton - Premier League - synsport4
+SUMMARY:Newcastle - Nott. Forest - Premier League - synsport2
 DTSTART:20251005T124000
 DTEND:20251005T134000
 DTSTAMP:20251005T124000Z
-UID:2025-10-05T12:40:00/Wolves - Brighton
-DESCRIPTION:Wolves - Brighton - Premier League
+UID:2025-10-05T12:40:00/Newcastle - Nott. Forest
+DESCRIPTION:Newcastle - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Crystal Palace - Premier League - synsport3
@@ -96,6 +88,14 @@ DTEND:20251005T134000
 DTSTAMP:20251005T124000Z
 UID:2025-10-05T12:40:00/Everton - Crystal Palace
 DESCRIPTION:Everton - Crystal Palace - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolves - Brighton - Premier League - synsport4
+DTSTART:20251005T124000
+DTEND:20251005T134000
+DTSTAMP:20251005T124000Z
+UID:2025-10-05T12:40:00/Wolves - Brighton
+DESCRIPTION:Wolves - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brentford - Man. City - Premier League - synsport
