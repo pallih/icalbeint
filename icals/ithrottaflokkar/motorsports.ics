@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:Misano (Kappakstur 4) - Formula 4 Italian Championship - viaplay
-DTSTART:20251012T085500
-DTEND:20251012T095500
-DTSTAMP:20251012T085500Z
-UID:2025-10-12T08:55:00/Misano (Kappakstur 4)
-DESCRIPTION:Misano (Kappakstur 4) - Formula 4 Italian Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Misano (Kappakstur 5) - Formula 4 Italian Championship - viaplay
-DTSTART:20251012T135500
-DTEND:20251012T145500
-DTSTAMP:20251012T135500Z
-UID:2025-10-12T13:55:00/Misano (Kappakstur 5)
-DESCRIPTION:Misano (Kappakstur 5) - Formula 4 Italian Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:South Point 400 (Cup Series) - Nascar - viaplay
-DTSTART:20251012T210000
-DTEND:20251012T220000
-DTSTAMP:20251012T210000Z
-UID:2025-10-12T21:00:00/South Point 400 (Cup Series)
-DESCRIPTION:South Point 400 (Cup Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
 DTSTART:20251016T215500
 DTEND:20251016T225500
@@ -74,6 +50,14 @@ UID:2025-10-17T03:50:00/Ástralíu Kappaksturinn (Æfing)
 DESCRIPTION:Ástralíu Kappaksturinn (Æfing) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Texas Kappaksturinn (Æfing 1) - Formula 1 - viaplay
+DTSTART:20251017T172500
+DTEND:20251017T182500
+DTSTAMP:20251017T172500Z
+UID:2025-10-17T17:25:00/Texas Kappaksturinn (Æfing 1)
+DESCRIPTION:Texas Kappaksturinn (Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:F1: Texas - Æfing 1 - Formúla 1 - synsportviaplay
 DTSTART:20251017T172500
 DTEND:20251017T182500
@@ -82,12 +66,20 @@ UID:2025-10-17T17:25:00/F1: Texas - Æfing 1
 DESCRIPTION:F1: Texas - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Texas Kappaksturinn (Æfing 1) - Formula 1 - viaplay
-DTSTART:20251017T172500
-DTEND:20251017T182500
-DTSTAMP:20251017T172500Z
-UID:2025-10-17T17:25:00/Texas Kappaksturinn (Æfing 1)
-DESCRIPTION:Texas Kappaksturinn (Æfing 1) - Formula 1
+SUMMARY:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20251017T173000
+DTEND:20251017T183000
+DTSTAMP:20251017T173000Z
+UID:2025-10-17T17:30:00/Onboard (Texas Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20251017T173000
+DTEND:20251017T183000
+DTSTAMP:20251017T173000Z
+UID:2025-10-17T17:30:00/Pitlane (Texas Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 1) - Formula 1 - v
@@ -105,22 +97,6 @@ DTEND:20251017T183000
 DTSTAMP:20251017T173000Z
 UID:2025-10-17T17:30:00/Timing (Texas Kappaksturinn | Æfing 1)
 DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20251017T173000
-DTEND:20251017T183000
-DTSTAMP:20251017T173000Z
-UID:2025-10-17T17:30:00/Onboard (Texas Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20251017T173000
-DTEND:20251017T183000
-DTSTAMP:20251017T173000Z
-UID:2025-10-17T17:30:00/Pitlane (Texas Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love's RV Stop 225 (Truck Series) - Nascar - viaplay
@@ -147,15 +123,13 @@ UID:2025-10-17T21:25:00/Texas Kappaksturinn (Sprint Shootout)
 DESCRIPTION:Texas Kappaksturinn (Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Texas Kappaksturinn | Sprint Shootout) - Formul
- a 1 - viaplay
+SUMMARY:Timing (Texas Kappaksturinn | Sprint Shootout) - Formula 1 - viapl
+ ay
 DTSTART:20251017T213000
 DTEND:20251017T223000
 DTSTAMP:20251017T213000Z
-UID:2025-10-17T21:30:00/Track Positioning (Texas Kappaksturinn | Sprint Sh
- ootout)
-DESCRIPTION:Track Positioning (Texas Kappaksturinn | Sprint Shootout) - Fo
- rmula 1
+UID:2025-10-17T21:30:00/Timing (Texas Kappaksturinn | Sprint Shootout)
+DESCRIPTION:Timing (Texas Kappaksturinn | Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Texas Kappaksturinn | Sprint Shootout) - Formula 1 - viap
@@ -167,6 +141,17 @@ UID:2025-10-17T21:30:00/Onboard (Texas Kappaksturinn | Sprint Shootout)
 DESCRIPTION:Onboard (Texas Kappaksturinn | Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Texas Kappaksturinn | Sprint Shootout) - Formul
+ a 1 - viaplay
+DTSTART:20251017T213000
+DTEND:20251017T223000
+DTSTAMP:20251017T213000Z
+UID:2025-10-17T21:30:00/Track Positioning (Texas Kappaksturinn | Sprint Sh
+ ootout)
+DESCRIPTION:Track Positioning (Texas Kappaksturinn | Sprint Shootout) - Fo
+ rmula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Texas Kappaksturinn | Sprint Shootout) - Formula 1 - viap
  lay
 DTSTART:20251017T213000
@@ -174,15 +159,6 @@ DTEND:20251017T223000
 DTSTAMP:20251017T213000Z
 UID:2025-10-17T21:30:00/Pitlane (Texas Kappaksturinn | Sprint Shootout)
 DESCRIPTION:Pitlane (Texas Kappaksturinn | Sprint Shootout) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Texas Kappaksturinn | Sprint Shootout) - Formula 1 - viapl
- ay
-DTSTART:20251017T213000
-DTEND:20251017T223000
-DTSTAMP:20251017T213000Z
-UID:2025-10-17T21:30:00/Timing (Texas Kappaksturinn | Sprint Shootout)
-DESCRIPTION:Timing (Texas Kappaksturinn | Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
@@ -324,20 +300,20 @@ UID:2025-10-18T21:00:00/Pitlane (Texas Kappaksturinn | Tímatökur)
 DESCRIPTION:Pitlane (Texas Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
-DTSTART:20251018T210000
-DTEND:20251018T220000
-DTSTAMP:20251018T210000Z
-UID:2025-10-18T21:00:00/Timing (Texas Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
 DTSTART:20251018T210000
 DTEND:20251018T220000
 DTSTAMP:20251018T210000Z
 UID:2025-10-18T21:00:00/Onboard (Texas Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20251018T210000
+DTEND:20251018T220000
+DTSTAMP:20251018T210000Z
+UID:2025-10-18T21:00:00/Timing (Texas Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Tímatökur) - Formula 1 
@@ -365,5 +341,80 @@ DTEND:20251019T004500
 DTSTAMP:20251018T234500Z
 UID:2025-10-18T23:45:00/Ástralíu Kappaksturinn (Kappakstur)
 DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Moto2 - viaplay
+DTSTART:20251019T010000
+DTEND:20251019T020000
+DTSTAMP:20251019T010000Z
+UID:2025-10-19T01:00:00/Ástralíu Kappaksturinn (Kappakstur)
+DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20251019T021500
+DTEND:20251019T031500
+DTSTAMP:20251019T021500Z
+UID:2025-10-19T02:15:00/Ástralíu Kappaksturinn (Kappakstur)
+DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YellaWood 500 (Cup Series) - Nascar - viaplay
+DTSTART:20251019T173000
+DTEND:20251019T183000
+DTSTAMP:20251019T173000Z
+UID:2025-10-19T17:30:00/YellaWood 500 (Cup Series)
+DESCRIPTION:YellaWood 500 (Cup Series) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Texas - Keppni - Formúla 1 - synsportviaplay
+DTSTART:20251019T183000
+DTEND:20251019T193000
+DTSTAMP:20251019T183000Z
+UID:2025-10-19T18:30:00/F1: Texas - Keppni
+DESCRIPTION:F1: Texas - Keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Kappaksturinn (Kappakstur) - Formula 1 - viaplay
+DTSTART:20251019T183000
+DTEND:20251019T193000
+DTSTAMP:20251019T183000Z
+UID:2025-10-19T18:30:00/Texas Kappaksturinn (Kappakstur)
+DESCRIPTION:Texas Kappaksturinn (Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20251019T190000
+DTEND:20251019T200000
+DTSTAMP:20251019T190000Z
+UID:2025-10-19T19:00:00/Pitlane (Texas Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20251019T190000
+DTEND:20251019T200000
+DTSTAMP:20251019T190000Z
+UID:2025-10-19T19:00:00/Timing (Texas Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Texas Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20251019T190000
+DTEND:20251019T200000
+DTSTAMP:20251019T190000Z
+UID:2025-10-19T19:00:00/Onboard (Texas Kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Texas Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula 1 -
+  viaplay
+DTSTART:20251019T190000
+DTEND:20251019T200000
+DTSTAMP:20251019T190000Z
+UID:2025-10-19T19:00:00/Track Positioning (Texas Kappaksturinn | Kappakstu
+ r)
+DESCRIPTION:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula
+  1
 END:VEVENT
 END:VCALENDAR

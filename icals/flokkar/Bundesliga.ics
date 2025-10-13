@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Bergischer - Bundesliga - viaplay
-DTSTART:20251012T125500
-DTEND:20251012T135500
-DTSTAMP:20251012T125500Z
-UID:2025-10-12T12:55:00/Magdeburg - Bergischer
-DESCRIPTION:Magdeburg - Bergischer - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ThSV Eisenach - Flensburg-Handewitt - Bundesliga - viaplay
 DTSTART:20251016T165500
 DTEND:20251016T175500
@@ -26,20 +18,12 @@ UID:2025-10-17T18:20:00/Union Berlin - Mönchengladbach
 DESCRIPTION:Union Berlin - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mainz - Leverkusen - Bundesliga - viaplay
+SUMMARY:Leipzig - HSV - Bundesliga - viaplay
 DTSTART:20251018T132000
 DTEND:20251018T142000
 DTSTAMP:20251018T132000Z
-UID:2025-10-18T13:20:00/Mainz - Leverkusen
-DESCRIPTION:Mainz - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20251018T132000
-DTEND:20251018T142000
-DTSTAMP:20251018T132000Z
-UID:2025-10-18T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2025-10-18T13:20:00/Leipzig - HSV
+DESCRIPTION:Leipzig - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Stuttgart - Bundesliga - viaplay
@@ -50,12 +34,12 @@ UID:2025-10-18T13:20:00/Wolfsburg - Stuttgart
 DESCRIPTION:Wolfsburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köln - Augsburg - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20251018T132000
 DTEND:20251018T142000
 DTSTAMP:20251018T132000Z
-UID:2025-10-18T13:20:00/Köln - Augsburg
-DESCRIPTION:Köln - Augsburg - Bundesliga
+UID:2025-10-18T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heidenheim - Werder Bremen - Bundesliga - viaplay
@@ -66,12 +50,20 @@ UID:2025-10-18T13:20:00/Heidenheim - Werder Bremen
 DESCRIPTION:Heidenheim - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - HSV - Bundesliga - viaplay
+SUMMARY:Köln - Augsburg - Bundesliga - viaplay
 DTSTART:20251018T132000
 DTEND:20251018T142000
 DTSTAMP:20251018T132000Z
-UID:2025-10-18T13:20:00/Leipzig - HSV
-DESCRIPTION:Leipzig - HSV - Bundesliga
+UID:2025-10-18T13:20:00/Köln - Augsburg
+DESCRIPTION:Köln - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mainz - Leverkusen - Bundesliga - viaplay
+DTSTART:20251018T132000
+DTEND:20251018T142000
+DTSTAMP:20251018T132000Z
+UID:2025-10-18T13:20:00/Mainz - Leverkusen
+DESCRIPTION:Mainz - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Dortmund - Bundesliga - viaplay
@@ -88,5 +80,45 @@ DTEND:20251018T185500
 DTSTAMP:20251018T175500Z
 UID:2025-10-18T17:55:00/Kiel - Melsungen
 DESCRIPTION:Kiel - Melsungen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Frankfurt - Bundesliga - viaplay
+DTSTART:20251019T132000
+DTEND:20251019T142000
+DTSTAMP:20251019T132000Z
+UID:2025-10-19T13:20:00/Freiburg - Frankfurt
+DESCRIPTION:Freiburg - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Eintracht Frankfurt - Bundesliga - synsportviaplay
+DTSTART:20251019T132000
+DTEND:20251019T142000
+DTSTAMP:20251019T132000Z
+UID:2025-10-19T13:20:00/Freiburg - Eintracht Frankfurt
+DESCRIPTION:Freiburg - Eintracht Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DHfK Leipzig - Magdeburg - Bundesliga - viaplay
+DTSTART:20251019T135500
+DTEND:20251019T145500
+DTSTAMP:20251019T135500Z
+UID:2025-10-19T13:55:00/DHfK Leipzig - Magdeburg
+DESCRIPTION:DHfK Leipzig - Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - Hoffenheim - Bundesliga - viaplay
+DTSTART:20251019T152000
+DTEND:20251019T162000
+DTSTAMP:20251019T152000Z
+UID:2025-10-19T15:20:00/St. Pauli - Hoffenheim
+DESCRIPTION:St. Pauli - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - Hoffenheim - Bundesliga - synsportviaplay
+DTSTART:20251019T152500
+DTEND:20251019T162500
+DTSTAMP:20251019T152500Z
+UID:2025-10-19T15:25:00/St. Pauli - Hoffenheim
+DESCRIPTION:St. Pauli - Hoffenheim - Bundesliga
 END:VEVENT
 END:VCALENDAR

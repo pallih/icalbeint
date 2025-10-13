@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Bergischer - Bundesliga - viaplay
-DTSTART:20251012T125500
-DTEND:20251012T135500
-DTSTAMP:20251012T125500Z
-UID:2025-10-12T12:55:00/Magdeburg - Bergischer
-DESCRIPTION:Magdeburg - Bergischer - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍBV - Haukar - Olís deild karla - hsi1
-DTSTART:20251012T160000
-DTEND:20251012T170000
-DTSTAMP:20251012T160000Z
-UID:2025-10-12T16:00:00/ÍBV - Haukar
-DESCRIPTION:ÍBV - Haukar - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Selfoss - FH - Olís deild karla - hsi1
 DTSTART:20251013T190000
 DTEND:20251013T200000
@@ -50,20 +34,20 @@ UID:2025-10-15T19:30:00/Ísland - Færeyjar
 DESCRIPTION:Ísland - Færeyjar - Undankeppni EM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eisenach - Flensburg - Bundesliga handbolti - synsportviaplay
-DTSTART:20251016T165500
-DTEND:20251016T175500
-DTSTAMP:20251016T165500Z
-UID:2025-10-16T16:55:00/Eisenach - Flensburg
-DESCRIPTION:Eisenach - Flensburg - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ThSV Eisenach - Flensburg-Handewitt - Bundesliga - viaplay
 DTSTART:20251016T165500
 DTEND:20251016T175500
 DTSTAMP:20251016T165500Z
 UID:2025-10-16T16:55:00/ThSV Eisenach - Flensburg-Handewitt
 DESCRIPTION:ThSV Eisenach - Flensburg-Handewitt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eisenach - Flensburg - Bundesliga handbolti - synsportviaplay
+DTSTART:20251016T165500
+DTEND:20251016T175500
+DTSTAMP:20251016T165500Z
+UID:2025-10-16T16:55:00/Eisenach - Flensburg
+DESCRIPTION:Eisenach - Flensburg - Bundesliga handbolti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KA - Valur - Olís deild karla - hsi1
@@ -128,5 +112,21 @@ DTEND:20251018T193000
 DTSTAMP:20251018T183000Z
 UID:2025-10-18T18:30:00/THW Kiel - MT Melsungen
 DESCRIPTION:THW Kiel - MT Melsungen - Bundesliga handbolti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DHfK Leipzig - Magdeburg - Bundesliga - viaplay
+DTSTART:20251019T135500
+DTEND:20251019T145500
+DTSTAMP:20251019T135500Z
+UID:2025-10-19T13:55:00/DHfK Leipzig - Magdeburg
+DESCRIPTION:DHfK Leipzig - Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portúgal - Ísland - Undankeppni EM kvenna í handbolta - ruv
+DTSTART:20251019T160000
+DTEND:20251019T170000
+DTSTAMP:20251019T160000Z
+UID:2025-10-19T16:00:00/Portúgal - Ísland
+DESCRIPTION:Portúgal - Ísland - Undankeppni EM kvenna í handbolta
 END:VEVENT
 END:VCALENDAR
