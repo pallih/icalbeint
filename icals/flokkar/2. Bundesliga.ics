@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
+SUMMARY:Hannover - Schalke - 2. Bundesliga - viaplay
+DTSTART:20251017T162500
+DTEND:20251017T172500
+DTSTAMP:20251017T162500Z
+UID:2025-10-17T16:25:00/Hannover - Schalke
+DESCRIPTION:Hannover - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Düsseldorf - Braunschweig - 2. Bundesliga - viaplay
 DTSTART:20251017T162500
 DTEND:20251017T172500
@@ -10,12 +18,12 @@ UID:2025-10-17T16:25:00/Düsseldorf - Braunschweig
 DESCRIPTION:Düsseldorf - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Schalke - 2. Bundesliga - viaplay
-DTSTART:20251017T162500
-DTEND:20251017T172500
-DTSTAMP:20251017T162500Z
-UID:2025-10-17T16:25:00/Hannover - Schalke
-DESCRIPTION:Hannover - Schalke - 2. Bundesliga
+SUMMARY:Paderborn - Arminia Bielefeld - 2. Bundesliga - viaplay
+DTSTART:20251018T105500
+DTEND:20251018T115500
+DTSTAMP:20251018T105500Z
+UID:2025-10-18T10:55:00/Paderborn - Arminia Bielefeld
+DESCRIPTION:Paderborn - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Kaiserslautern - 2. Bundesliga - viaplay
@@ -34,28 +42,12 @@ UID:2025-10-18T10:55:00/Preußen Münster - Dynamo Dresden
 DESCRIPTION:Preußen Münster - Dynamo Dresden - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paderborn - Arminia Bielefeld - 2. Bundesliga - viaplay
-DTSTART:20251018T105500
-DTEND:20251018T115500
-DTSTAMP:20251018T105500Z
-UID:2025-10-18T10:55:00/Paderborn - Arminia Bielefeld
-DESCRIPTION:Paderborn - Arminia Bielefeld - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bochum - Hertha Berlin - 2. Bundesliga - viaplay
 DTSTART:20251018T182500
 DTEND:20251018T192500
 DTSTAMP:20251018T182500Z
 UID:2025-10-18T18:25:00/Bochum - Hertha Berlin
 DESCRIPTION:Bochum - Hertha Berlin - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nürnberg - Holstein Kiel - 2. Bundesliga - viaplay
-DTSTART:20251019T112500
-DTEND:20251019T122500
-DTSTAMP:20251019T112500Z
-UID:2025-10-19T11:25:00/Nürnberg - Holstein Kiel
-DESCRIPTION:Nürnberg - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Darmstadt - Magdeburg - 2. Bundesliga - viaplay
@@ -72,5 +64,13 @@ DTEND:20251019T122500
 DTSTAMP:20251019T112500Z
 UID:2025-10-19T11:25:00/Elversberg - Greuther Fürth
 DESCRIPTION:Elversberg - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Holstein Kiel - 2. Bundesliga - viaplay
+DTSTART:20251019T112500
+DTEND:20251019T122500
+DTSTAMP:20251019T112500Z
+UID:2025-10-19T11:25:00/Nürnberg - Holstein Kiel
+DESCRIPTION:Nürnberg - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
