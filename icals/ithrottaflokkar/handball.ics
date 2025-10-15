@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Fram - FC Porto - EHF - livey
-DTSTART:20251014T184500
-DTEND:20251014T194500
-DTSTAMP:20251014T184500Z
-UID:2025-10-14T18:45:00/Fram - FC Porto
-DESCRIPTION:Fram - FC Porto - EHF
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ísland - Færeyjar - Undankeppni EM kvenna í handbolta - ruv2
 DTSTART:20251015T193000
 DTEND:20251015T203000
@@ -18,20 +10,20 @@ UID:2025-10-15T19:30:00/Ísland - Færeyjar
 DESCRIPTION:Ísland - Færeyjar - Undankeppni EM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ThSV Eisenach - Flensburg-Handewitt - Bundesliga - viaplay
-DTSTART:20251016T165500
-DTEND:20251016T175500
-DTSTAMP:20251016T165500Z
-UID:2025-10-16T16:55:00/ThSV Eisenach - Flensburg-Handewitt
-DESCRIPTION:ThSV Eisenach - Flensburg-Handewitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eisenach - Flensburg - Bundesliga handbolti - synsportviaplay
 DTSTART:20251016T165500
 DTEND:20251016T175500
 DTSTAMP:20251016T165500Z
 UID:2025-10-16T16:55:00/Eisenach - Flensburg
 DESCRIPTION:Eisenach - Flensburg - Bundesliga handbolti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ThSV Eisenach - Flensburg-Handewitt - Bundesliga - viaplay
+DTSTART:20251016T165500
+DTEND:20251016T175500
+DTSTAMP:20251016T165500Z
+UID:2025-10-16T16:55:00/ThSV Eisenach - Flensburg-Handewitt
+DESCRIPTION:ThSV Eisenach - Flensburg-Handewitt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KA - Valur - Olís deild karla - hsi1
@@ -112,5 +104,21 @@ DTEND:20251019T170000
 DTSTAMP:20251019T160000Z
 UID:2025-10-19T16:00:00/Portúgal - Ísland
 DESCRIPTION:Portúgal - Ísland - Undankeppni EM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handboltahöllin - Olís deildin - sjonvarpsimans
+DTSTART:20251020T200000
+DTEND:20251020T210000
+DTSTAMP:20251020T200000Z
+UID:2025-10-20T20:00:00/Handboltahöllin
+DESCRIPTION:Handboltahöllin - Olís deildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Elverum Håndball - EHF - livey
+DTSTART:20251021T184500
+DTEND:20251021T194500
+DTSTAMP:20251021T184500Z
+UID:2025-10-21T18:45:00/Fram - Elverum Håndball
+DESCRIPTION:Fram - Elverum Håndball - EHF
 END:VEVENT
 END:VCALENDAR
