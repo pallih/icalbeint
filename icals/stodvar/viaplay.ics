@@ -2,71 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Calgary - Vegas - NHL - viaplay
-DTSTART:20251015T010500
-DTEND:20251015T020500
-DTSTAMP:20251015T010500Z
-UID:2025-10-15T01:05:00/Calgary - Vegas
-DESCRIPTION:Calgary - Vegas - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dallas - Minnesota - NHL - viaplay
-DTSTART:20251015T013500
-DTEND:20251015T023500
-DTSTAMP:20251015T013500Z
-UID:2025-10-15T01:35:00/Dallas - Minnesota
-DESCRIPTION:Dallas - Minnesota - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Jose - Carolina - NHL - viaplay
-DTSTART:20251015T020500
-DTEND:20251015T030500
-DTSTAMP:20251015T020500Z
-UID:2025-10-15T02:05:00/San Jose - Carolina
-DESCRIPTION:San Jose - Carolina - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anaheim - Pittsburgh - NHL - viaplay
-DTSTART:20251015T023500
-DTEND:20251015T033500
-DTSTAMP:20251015T023500Z
-UID:2025-10-15T02:35:00/Anaheim - Pittsburgh
-DESCRIPTION:Anaheim - Pittsburgh - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL On The Fly - NHL - viaplay
-DTSTART:20251015T100000
-DTEND:20251015T110000
-DTSTAMP:20251015T100000Z
-UID:2025-10-15T10:00:00/NHL On The Fly
-DESCRIPTION:NHL On The Fly - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
- lay
-DTSTART:20251015T120000
-DTEND:20251015T130000
-DTSTAMP:20251015T120000Z
-UID:2025-10-15T12:00:00/FIFA World Cup 2026 Qualifiers: Highlights
-DESCRIPTION:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Detroit - Florida - NHL - viaplay
-DTSTART:20251015T230500
-DTEND:20251016T000500
-DTSTAMP:20251015T230500Z
-UID:2025-10-15T23:05:00/Detroit - Florida
-DESCRIPTION:Detroit - Florida - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buffalo - Ottawa - NHL - viaplay
-DTSTART:20251015T230500
-DTEND:20251016T000500
-DTSTAMP:20251015T230500Z
-UID:2025-10-15T23:05:00/Buffalo - Ottawa
-DESCRIPTION:Buffalo - Ottawa - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Utah - Calgary - NHL - viaplay
 DTSTART:20251016T013500
 DTEND:20251016T023500
@@ -139,20 +74,20 @@ UID:2025-10-16T22:45:00/Ástralíu Kappaksturinn (Frjáls æfing 1)
 DESCRIPTION:Ástralíu Kappaksturinn (Frjáls æfing 1) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia - Winnipeg - NHL - viaplay
-DTSTART:20251016T230500
-DTEND:20251017T000500
-DTSTAMP:20251016T230500Z
-UID:2025-10-16T23:05:00/Philadelphia - Winnipeg
-DESCRIPTION:Philadelphia - Winnipeg - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Columbus - Colorado - NHL - viaplay
 DTSTART:20251016T230500
 DTEND:20251017T000500
 DTSTAMP:20251016T230500Z
 UID:2025-10-16T23:05:00/Columbus - Colorado
 DESCRIPTION:Columbus - Colorado - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia - Winnipeg - NHL - viaplay
+DTSTART:20251016T230500
+DTEND:20251017T000500
+DTSTAMP:20251016T230500Z
+UID:2025-10-16T23:05:00/Philadelphia - Winnipeg
+DESCRIPTION:Philadelphia - Winnipeg - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Montreal - Nashville - NHL - viaplay
@@ -171,14 +106,6 @@ UID:2025-10-16T23:05:00/Ottawa - Seattle
 DESCRIPTION:Ottawa - Seattle - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto - NY Rangers - NHL - viaplay
-DTSTART:20251016T230500
-DTEND:20251017T000500
-DTSTAMP:20251016T230500Z
-UID:2025-10-16T23:05:00/Toronto - NY Rangers
-DESCRIPTION:Toronto - NY Rangers - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New Jersey - Florida - NHL - viaplay
 DTSTART:20251016T230500
 DTEND:20251017T000500
@@ -187,12 +114,12 @@ UID:2025-10-16T23:05:00/New Jersey - Florida
 DESCRIPTION:New Jersey - Florida - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NY Islanders - Edmonton - NHL - viaplay
-DTSTART:20251016T233500
-DTEND:20251017T003500
-DTSTAMP:20251016T233500Z
-UID:2025-10-16T23:35:00/NY Islanders - Edmonton
-DESCRIPTION:NY Islanders - Edmonton - NHL
+SUMMARY:Toronto - NY Rangers - NHL - viaplay
+DTSTART:20251016T230500
+DTEND:20251017T000500
+DTSTAMP:20251016T230500Z
+UID:2025-10-16T23:05:00/Toronto - NY Rangers
+DESCRIPTION:Toronto - NY Rangers - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
@@ -203,12 +130,28 @@ UID:2025-10-16T23:35:00/Ástralíu Kappaksturinn (Frjáls æfing 1)
 DESCRIPTION:Ástralíu Kappaksturinn (Frjáls æfing 1) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NY Islanders - Edmonton - NHL - viaplay
+DTSTART:20251016T233500
+DTEND:20251017T003500
+DTSTAMP:20251016T233500Z
+UID:2025-10-16T23:35:00/NY Islanders - Edmonton
+DESCRIPTION:NY Islanders - Edmonton - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dallas - Vancouver - NHL - viaplay
 DTSTART:20251017T000500
 DTEND:20251017T010500
 DTSTAMP:20251017T000500Z
 UID:2025-10-17T00:05:00/Dallas - Vancouver
 DESCRIPTION:Dallas - Vancouver - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anaheim - Carolina - NHL - viaplay
+DTSTART:20251017T020500
+DTEND:20251017T030500
+DTSTAMP:20251017T020500Z
+UID:2025-10-17T02:05:00/Anaheim - Carolina
+DESCRIPTION:Anaheim - Carolina - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegas - Boston - NHL - viaplay
@@ -225,14 +168,6 @@ DTEND:20251017T030500
 DTSTAMP:20251017T020500Z
 UID:2025-10-17T02:05:00/Los Angeles - Pittsburgh
 DESCRIPTION:Los Angeles - Pittsburgh - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anaheim - Carolina - NHL - viaplay
-DTSTART:20251017T020500
-DTEND:20251017T030500
-DTSTAMP:20251017T020500Z
-UID:2025-10-17T02:05:00/Anaheim - Carolina
-DESCRIPTION:Anaheim - Carolina - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Æfing) - Moto3 - viaplay
@@ -267,20 +202,20 @@ UID:2025-10-17T10:00:00/NHL On The Fly
 DESCRIPTION:NHL On The Fly - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reyes Cup - Pool - viaplay
-DTSTART:20251017T110000
-DTEND:20251017T120000
-DTSTAMP:20251017T110000Z
-UID:2025-10-17T11:00:00/Reyes Cup
-DESCRIPTION:Reyes Cup - Pool
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:German Darts Championship - PDC Darts - viaplay
 DTSTART:20251017T110000
 DTEND:20251017T120000
 DTSTAMP:20251017T110000Z
 UID:2025-10-17T11:00:00/German Darts Championship
 DESCRIPTION:German Darts Championship - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reyes Cup - Pool - viaplay
+DTSTART:20251017T110000
+DTEND:20251017T120000
+DTSTAMP:20251017T110000Z
+UID:2025-10-17T11:00:00/Reyes Cup
+DESCRIPTION:Reyes Cup - Pool
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Essen - Hoffenheim - Frauen-Bundesliga - viaplay
@@ -331,13 +266,12 @@ UID:2025-10-17T17:25:00/Texas Kappaksturinn (Æfing 1)
 DESCRIPTION:Texas Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 1) - Formula 1 - v
- iaplay
+SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20251017T173000
 DTEND:20251017T183000
 DTSTAMP:20251017T173000Z
-UID:2025-10-17T17:30:00/Track Positioning (Texas Kappaksturinn | Æfing 1)
-DESCRIPTION:Track Positioning (Texas Kappaksturinn | Æfing 1) - Formula 1
+UID:2025-10-17T17:30:00/Pitlane (Texas Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -348,20 +282,21 @@ UID:2025-10-17T17:30:00/Onboard (Texas Kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20251017T173000
-DTEND:20251017T183000
-DTSTAMP:20251017T173000Z
-UID:2025-10-17T17:30:00/Pitlane (Texas Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20251017T173000
 DTEND:20251017T183000
 DTSTAMP:20251017T173000Z
 UID:2025-10-17T17:30:00/Timing (Texas Kappaksturinn | Æfing 1)
 DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 1) - Formula 1 - v
+ iaplay
+DTSTART:20251017T173000
+DTEND:20251017T183000
+DTSTAMP:20251017T173000Z
+UID:2025-10-17T17:30:00/Track Positioning (Texas Kappaksturinn | Æfing 1)
+DESCRIPTION:Track Positioning (Texas Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Mönchengladbach - Bundesliga - viaplay
@@ -396,24 +331,6 @@ UID:2025-10-17T21:25:00/Texas Kappaksturinn (Sprint Shootout)
 DESCRIPTION:Texas Kappaksturinn (Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Texas Kappaksturinn | Sprint Shootout) - Formula 1 - viap
- lay
-DTSTART:20251017T213000
-DTEND:20251017T223000
-DTSTAMP:20251017T213000Z
-UID:2025-10-17T21:30:00/Onboard (Texas Kappaksturinn | Sprint Shootout)
-DESCRIPTION:Onboard (Texas Kappaksturinn | Sprint Shootout) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Texas Kappaksturinn | Sprint Shootout) - Formula 1 - viap
- lay
-DTSTART:20251017T213000
-DTEND:20251017T223000
-DTSTAMP:20251017T213000Z
-UID:2025-10-17T21:30:00/Pitlane (Texas Kappaksturinn | Sprint Shootout)
-DESCRIPTION:Pitlane (Texas Kappaksturinn | Sprint Shootout) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Sprint Shootout) - Formul
  a 1 - viaplay
 DTSTART:20251017T213000
@@ -432,6 +349,24 @@ DTEND:20251017T223000
 DTSTAMP:20251017T213000Z
 UID:2025-10-17T21:30:00/Timing (Texas Kappaksturinn | Sprint Shootout)
 DESCRIPTION:Timing (Texas Kappaksturinn | Sprint Shootout) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Texas Kappaksturinn | Sprint Shootout) - Formula 1 - viap
+ lay
+DTSTART:20251017T213000
+DTEND:20251017T223000
+DTSTAMP:20251017T213000Z
+UID:2025-10-17T21:30:00/Onboard (Texas Kappaksturinn | Sprint Shootout)
+DESCRIPTION:Onboard (Texas Kappaksturinn | Sprint Shootout) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Texas Kappaksturinn | Sprint Shootout) - Formula 1 - viap
+ lay
+DTSTART:20251017T213000
+DTEND:20251017T223000
+DTSTAMP:20251017T213000Z
+UID:2025-10-17T21:30:00/Pitlane (Texas Kappaksturinn | Sprint Shootout)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
@@ -458,20 +393,20 @@ UID:2025-10-17T23:00:00/Ástralíu Kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Ástralíu Kappaksturinn (Frjáls æfing 2) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Detroit - Tampa Bay - NHL - viaplay
-DTSTART:20251017T230500
-DTEND:20251018T000500
-DTSTAMP:20251017T230500Z
-UID:2025-10-17T23:05:00/Detroit - Tampa Bay
-DESCRIPTION:Detroit - Tampa Bay - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Washington - Minnesota - NHL - viaplay
 DTSTART:20251017T230500
 DTEND:20251018T000500
 DTSTAMP:20251017T230500Z
 UID:2025-10-17T23:05:00/Washington - Minnesota
 DESCRIPTION:Washington - Minnesota - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit - Tampa Bay - NHL - viaplay
+DTSTART:20251017T230500
+DTEND:20251018T000500
+DTSTAMP:20251017T230500Z
+UID:2025-10-17T23:05:00/Detroit - Tampa Bay
+DESCRIPTION:Detroit - Tampa Bay - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Tímatökur) - MotoGP - viaplay
@@ -530,14 +465,6 @@ UID:2025-10-18T10:00:00/NHL On The Fly
 DESCRIPTION:NHL On The Fly - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20251018T105500
-DTEND:20251018T115500
-DTSTAMP:20251018T105500Z
-UID:2025-10-18T10:55:00/Karlsruher - Kaiserslautern
-DESCRIPTION:Karlsruher - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paderborn - Arminia Bielefeld - 2. Bundesliga - viaplay
 DTSTART:20251018T105500
 DTEND:20251018T115500
@@ -552,6 +479,14 @@ DTEND:20251018T115500
 DTSTAMP:20251018T105500Z
 UID:2025-10-18T10:55:00/Preußen Münster - Dynamo Dresden
 DESCRIPTION:Preußen Münster - Dynamo Dresden - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20251018T105500
+DTEND:20251018T115500
+DTSTAMP:20251018T105500Z
+UID:2025-10-18T10:55:00/Karlsruher - Kaiserslautern
+DESCRIPTION:Karlsruher - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reyes Cup - Pool - viaplay
@@ -586,12 +521,12 @@ UID:2025-10-18T11:55:00/HSV - Carl Zeiss Jena
 DESCRIPTION:HSV - Carl Zeiss Jena - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köln - Augsburg - Bundesliga - viaplay
+SUMMARY:Wolfsburg - Stuttgart - Bundesliga - viaplay
 DTSTART:20251018T132000
 DTEND:20251018T142000
 DTSTAMP:20251018T132000Z
-UID:2025-10-18T13:20:00/Köln - Augsburg
-DESCRIPTION:Köln - Augsburg - Bundesliga
+UID:2025-10-18T13:20:00/Wolfsburg - Stuttgart
+DESCRIPTION:Wolfsburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - HSV - Bundesliga - viaplay
@@ -602,22 +537,6 @@ UID:2025-10-18T13:20:00/Leipzig - HSV
 DESCRIPTION:Leipzig - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Stuttgart - Bundesliga - viaplay
-DTSTART:20251018T132000
-DTEND:20251018T142000
-DTSTAMP:20251018T132000Z
-UID:2025-10-18T13:20:00/Wolfsburg - Stuttgart
-DESCRIPTION:Wolfsburg - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Werder Bremen - Bundesliga - viaplay
-DTSTART:20251018T132000
-DTEND:20251018T142000
-DTSTAMP:20251018T132000Z
-UID:2025-10-18T13:20:00/Heidenheim - Werder Bremen
-DESCRIPTION:Heidenheim - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mainz - Leverkusen - Bundesliga - viaplay
 DTSTART:20251018T132000
 DTEND:20251018T142000
@@ -626,12 +545,28 @@ UID:2025-10-18T13:20:00/Mainz - Leverkusen
 DESCRIPTION:Mainz - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Köln - Augsburg - Bundesliga - viaplay
+DTSTART:20251018T132000
+DTEND:20251018T142000
+DTSTAMP:20251018T132000Z
+UID:2025-10-18T13:20:00/Köln - Augsburg
+DESCRIPTION:Köln - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20251018T132000
 DTEND:20251018T142000
 DTSTAMP:20251018T132000Z
 UID:2025-10-18T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Werder Bremen - Bundesliga - viaplay
+DTSTART:20251018T132000
+DTEND:20251018T142000
+DTSTAMP:20251018T132000Z
+UID:2025-10-18T13:20:00/Heidenheim - Werder Bremen
+DESCRIPTION:Heidenheim - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alingsås - Växjö - OBOS Damallsvenskan - viaplay
@@ -648,6 +583,14 @@ DTEND:20251018T145500
 DTSTAMP:20251018T135500Z
 UID:2025-10-18T13:55:00/Charlton - Sheffield Wednesday
 DESCRIPTION:Charlton - Sheffield Wednesday - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:British Champions Day - Crown Jewels Racing - viaplay
+DTSTART:20251018T140000
+DTEND:20251018T150000
+DTSTAMP:20251018T140000Z
+UID:2025-10-18T14:00:00/British Champions Day
+DESCRIPTION:British Champions Day - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leksand - Färjestad - SHL - viaplay
@@ -674,6 +617,22 @@ UID:2025-10-18T16:55:00/Texas Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Texas Kappaksturinn (Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Texas Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
+DTSTART:20251018T170000
+DTEND:20251018T180000
+DTSTAMP:20251018T170000Z
+UID:2025-10-18T17:00:00/Pitlane (Texas Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Texas Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
+DTSTART:20251018T170000
+DTEND:20251018T180000
+DTSTAMP:20251018T170000Z
+UID:2025-10-18T17:00:00/Timing (Texas Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Timing (Texas Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Sprettkeppni) - Formula 1
   - viaplay
 DTSTART:20251018T170000
@@ -693,28 +652,12 @@ UID:2025-10-18T17:00:00/German Darts Championship
 DESCRIPTION:German Darts Championship - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Texas Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
-DTSTART:20251018T170000
-DTEND:20251018T180000
-DTSTAMP:20251018T170000Z
-UID:2025-10-18T17:00:00/Timing (Texas Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Timing (Texas Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Texas Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
 DTSTART:20251018T170000
 DTEND:20251018T180000
 DTSTAMP:20251018T170000Z
 UID:2025-10-18T17:00:00/Onboard (Texas Kappaksturinn | Sprettkeppni)
 DESCRIPTION:Onboard (Texas Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Texas Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
-DTSTART:20251018T170000
-DTEND:20251018T180000
-DTSTAMP:20251018T170000Z
-UID:2025-10-18T17:00:00/Pitlane (Texas Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Pitlane (Texas Kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buffalo - Florida - NHL - viaplay
@@ -840,20 +783,20 @@ UID:2025-10-18T23:00:00/de Ridder vs Allen
 DESCRIPTION:de Ridder vs Allen - UFC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winnipeg - Nashville - NHL - viaplay
+SUMMARY:Montreal - NY Rangers - NHL - viaplay
 DTSTART:20251018T230500
 DTEND:20251019T000500
 DTSTAMP:20251018T230500Z
-UID:2025-10-18T23:05:00/Winnipeg - Nashville
-DESCRIPTION:Winnipeg - Nashville - NHL
+UID:2025-10-18T23:05:00/Montreal - NY Rangers
+DESCRIPTION:Montreal - NY Rangers - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis - Dallas - NHL - viaplay
+SUMMARY:Toronto - Seattle - NHL - viaplay
 DTSTART:20251018T230500
 DTEND:20251019T000500
 DTSTAMP:20251018T230500Z
-UID:2025-10-18T23:05:00/St. Louis - Dallas
-DESCRIPTION:St. Louis - Dallas - NHL
+UID:2025-10-18T23:05:00/Toronto - Seattle
+DESCRIPTION:Toronto - Seattle - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus - Tampa Bay - NHL - viaplay
@@ -872,20 +815,20 @@ UID:2025-10-18T23:05:00/Philadelphia - Minnesota
 DESCRIPTION:Philadelphia - Minnesota - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Montreal - NY Rangers - NHL - viaplay
+SUMMARY:Winnipeg - Nashville - NHL - viaplay
 DTSTART:20251018T230500
 DTEND:20251019T000500
 DTSTAMP:20251018T230500Z
-UID:2025-10-18T23:05:00/Montreal - NY Rangers
-DESCRIPTION:Montreal - NY Rangers - NHL
+UID:2025-10-18T23:05:00/Winnipeg - Nashville
+DESCRIPTION:Winnipeg - Nashville - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto - Seattle - NHL - viaplay
+SUMMARY:St. Louis - Dallas - NHL - viaplay
 DTSTART:20251018T230500
 DTEND:20251019T000500
 DTSTAMP:20251018T230500Z
-UID:2025-10-18T23:05:00/Toronto - Seattle
-DESCRIPTION:Toronto - Seattle - NHL
+UID:2025-10-18T23:05:00/St. Louis - Dallas
+DESCRIPTION:St. Louis - Dallas - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Moto3 - viaplay
@@ -968,14 +911,6 @@ UID:2025-10-19T11:00:00/German Darts Championship
 DESCRIPTION:German Darts Championship - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20251019T112500
-DTEND:20251019T122500
-DTSTAMP:20251019T112500Z
-UID:2025-10-19T11:25:00/Elversberg - Greuther Fürth
-DESCRIPTION:Elversberg - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darmstadt - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20251019T112500
 DTEND:20251019T122500
@@ -992,12 +927,12 @@ UID:2025-10-19T11:25:00/Nürnberg - Holstein Kiel
 DESCRIPTION:Nürnberg - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Piteå - Kristianstad - OBOS Damallsvenskan - viaplay
-DTSTART:20251019T115000
-DTEND:20251019T125000
-DTSTAMP:20251019T115000Z
-UID:2025-10-19T11:50:00/Piteå - Kristianstad
-DESCRIPTION:Piteå - Kristianstad - OBOS Damallsvenskan
+SUMMARY:Elversberg - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20251019T112500
+DTEND:20251019T122500
+DTSTAMP:20251019T112500Z
+UID:2025-10-19T11:25:00/Elversberg - Greuther Fürth
+DESCRIPTION:Elversberg - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brommapojkarna - Häcken - OBOS Damallsvenskan - viaplay
@@ -1006,6 +941,14 @@ DTEND:20251019T125000
 DTSTAMP:20251019T115000Z
 UID:2025-10-19T11:50:00/Brommapojkarna - Häcken
 DESCRIPTION:Brommapojkarna - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piteå - Kristianstad - OBOS Damallsvenskan - viaplay
+DTSTART:20251019T115000
+DTEND:20251019T125000
+DTSTAMP:20251019T115000Z
+UID:2025-10-19T11:50:00/Piteå - Kristianstad
+DESCRIPTION:Piteå - Kristianstad - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norrköping - Rosengård - OBOS Damallsvenskan - viaplay
@@ -1096,12 +1039,12 @@ UID:2025-10-19T18:30:00/Texas Kappaksturinn (Kappakstur)
 DESCRIPTION:Texas Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+SUMMARY:Onboard (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
 DTSTART:20251019T190000
 DTEND:20251019T200000
 DTSTAMP:20251019T190000Z
-UID:2025-10-19T19:00:00/Pitlane (Texas Kappaksturinn | Kappakstur)
-DESCRIPTION:Pitlane (Texas Kappaksturinn | Kappakstur) - Formula 1
+UID:2025-10-19T19:00:00/Onboard (Texas Kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Texas Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula 1 -
@@ -1115,12 +1058,12 @@ DESCRIPTION:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula
   1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+SUMMARY:Pitlane (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
 DTSTART:20251019T190000
 DTEND:20251019T200000
 DTSTAMP:20251019T190000Z
-UID:2025-10-19T19:00:00/Onboard (Texas Kappaksturinn | Kappakstur)
-DESCRIPTION:Onboard (Texas Kappaksturinn | Kappakstur) - Formula 1
+UID:2025-10-19T19:00:00/Pitlane (Texas Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
@@ -1163,20 +1106,20 @@ UID:2025-10-20T10:00:00/NHL On The Fly
 DESCRIPTION:NHL On The Fly - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia - Seattle - NHL - viaplay
-DTSTART:20251020T230500
-DTEND:20251021T000500
-DTSTAMP:20251020T230500Z
-UID:2025-10-20T23:05:00/Philadelphia - Seattle
-DESCRIPTION:Philadelphia - Seattle - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NY Rangers - Minnesota - NHL - viaplay
 DTSTART:20251020T230500
 DTEND:20251021T000500
 DTSTAMP:20251020T230500Z
 UID:2025-10-20T23:05:00/NY Rangers - Minnesota
 DESCRIPTION:NY Rangers - Minnesota - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia - Seattle - NHL - viaplay
+DTSTART:20251020T230500
+DTEND:20251021T000500
+DTSTAMP:20251020T230500Z
+UID:2025-10-20T23:05:00/Philadelphia - Seattle
+DESCRIPTION:Philadelphia - Seattle - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Montreal - Buffalo - NHL - viaplay
@@ -1243,12 +1186,12 @@ UID:2025-10-21T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Atlético Madrid - Champions League - viaplay
+SUMMARY:F.C. København - Dortmund - Champions League - viaplay
 DTSTART:20251021T185000
 DTEND:20251021T195000
 DTSTAMP:20251021T185000Z
-UID:2025-10-21T18:50:00/Arsenal - Atlético Madrid
-DESCRIPTION:Arsenal - Atlético Madrid - Champions League
+UID:2025-10-21T18:50:00/F.C. København - Dortmund
+DESCRIPTION:F.C. København - Dortmund - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - PSG - Champions League - viaplay
@@ -1259,12 +1202,12 @@ UID:2025-10-21T18:50:00/Leverkusen - PSG
 DESCRIPTION:Leverkusen - PSG - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F.C. København - Dortmund - Champions League - viaplay
+SUMMARY:Arsenal - Atlético Madrid - Champions League - viaplay
 DTSTART:20251021T185000
 DTEND:20251021T195000
 DTSTAMP:20251021T185000Z
-UID:2025-10-21T18:50:00/F.C. København - Dortmund
-DESCRIPTION:F.C. København - Dortmund - Champions League
+UID:2025-10-21T18:50:00/Arsenal - Atlético Madrid
+DESCRIPTION:Arsenal - Atlético Madrid - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bristol City - Southampton - Championship - viaplay
@@ -1283,14 +1226,6 @@ UID:2025-10-21T21:00:00/Goalshow
 DESCRIPTION:Goalshow - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ottawa - Edmonton - NHL - viaplay
-DTSTART:20251021T230500
-DTEND:20251022T000500
-DTSTAMP:20251021T230500Z
-UID:2025-10-21T23:05:00/Ottawa - Edmonton
-DESCRIPTION:Ottawa - Edmonton - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Toronto - New Jersey - NHL - viaplay
 DTSTART:20251021T230500
 DTEND:20251022T000500
@@ -1299,20 +1234,12 @@ UID:2025-10-21T23:05:00/Toronto - New Jersey
 DESCRIPTION:Toronto - New Jersey - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Washington - Seattle - NHL - viaplay
+SUMMARY:Ottawa - Edmonton - NHL - viaplay
 DTSTART:20251021T230500
 DTEND:20251022T000500
 DTSTAMP:20251021T230500Z
-UID:2025-10-21T23:05:00/Washington - Seattle
-DESCRIPTION:Washington - Seattle - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pittsburgh - Vancouver - NHL - viaplay
-DTSTART:20251021T230500
-DTEND:20251022T000500
-DTSTAMP:20251021T230500Z
-UID:2025-10-21T23:05:00/Pittsburgh - Vancouver
-DESCRIPTION:Pittsburgh - Vancouver - NHL
+UID:2025-10-21T23:05:00/Ottawa - Edmonton
+DESCRIPTION:Ottawa - Edmonton - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NY Islanders - San Jose Sharks - NHL - viaplay
@@ -1323,11 +1250,163 @@ UID:2025-10-21T23:05:00/NY Islanders - San Jose Sharks
 DESCRIPTION:NY Islanders - San Jose Sharks - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pittsburgh - Vancouver - NHL - viaplay
+DTSTART:20251021T230500
+DTEND:20251022T000500
+DTSTAMP:20251021T230500Z
+UID:2025-10-21T23:05:00/Pittsburgh - Vancouver
+DESCRIPTION:Pittsburgh - Vancouver - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington - Seattle - NHL - viaplay
+DTSTART:20251021T230500
+DTEND:20251022T000500
+DTSTAMP:20251021T230500Z
+UID:2025-10-21T23:05:00/Washington - Seattle
+DESCRIPTION:Washington - Seattle - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Boston - Florida - NHL - viaplay
 DTSTART:20251021T233500
 DTEND:20251022T003500
 DTSTAMP:20251021T233500Z
 UID:2025-10-21T23:35:00/Boston - Florida
 DESCRIPTION:Boston - Florida - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis - Los Angeles - NHL - viaplay
+DTSTART:20251022T000500
+DTEND:20251022T010500
+DTSTAMP:20251022T000500Z
+UID:2025-10-22T00:05:00/St. Louis - Los Angeles
+DESCRIPTION:St. Louis - Los Angeles - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville - Anaheim - NHL - viaplay
+DTSTART:20251022T000500
+DTEND:20251022T010500
+DTSTAMP:20251022T000500Z
+UID:2025-10-22T00:05:00/Nashville - Anaheim
+DESCRIPTION:Nashville - Anaheim - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas - Columbus - NHL - viaplay
+DTSTART:20251022T000500
+DTEND:20251022T010500
+DTSTAMP:20251022T000500Z
+UID:2025-10-22T00:05:00/Dallas - Columbus
+DESCRIPTION:Dallas - Columbus - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah - Colorado - NHL - viaplay
+DTSTART:20251022T020500
+DTEND:20251022T030500
+DTSTAMP:20251022T020500Z
+UID:2025-10-22T02:05:00/Utah - Colorado
+DESCRIPTION:Utah - Colorado - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL On The Fly - NHL - viaplay
+DTSTART:20251022T100000
+DTEND:20251022T110000
+DTSTAMP:20251022T100000Z
+UID:2025-10-22T10:00:00/NHL On The Fly
+DESCRIPTION:NHL On The Fly - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco - Tottenham - UEFA Youth League - viaplay
+DTSTART:20251022T115500
+DTEND:20251022T125500
+DTSTAMP:20251022T115500Z
+UID:2025-10-22T11:55:00/Monaco - Tottenham
+DESCRIPTION:Monaco - Tottenham - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Club Brugge - UEFA Youth League - viaplay
+DTSTART:20251022T135500
+DTEND:20251022T145500
+DTSTAMP:20251022T135500Z
+UID:2025-10-22T13:55:00/Bayern München - Club Brugge
+DESCRIPTION:Bayern München - Club Brugge - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Club - Qarabağ - Champions League - viaplay
+DTSTART:20251022T163500
+DTEND:20251022T173500
+DTSTAMP:20251022T163500Z
+UID:2025-10-22T16:35:00/Athletic Club - Qarabağ
+DESCRIPTION:Athletic Club - Qarabağ - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - Champions League - viaplay
+DTSTART:20251022T183000
+DTEND:20251022T193000
+DTSTAMP:20251022T183000Z
+UID:2025-10-22T18:30:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco - Tottenham - Champions League - viaplay
+DTSTART:20251022T185000
+DTEND:20251022T195000
+DTSTAMP:20251022T185000Z
+UID:2025-10-22T18:50:00/Monaco - Tottenham
+DESCRIPTION:Monaco - Tottenham - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Club Brugge - Champions League - viaplay
+DTSTART:20251022T185000
+DTEND:20251022T195000
+DTSTAMP:20251022T185000Z
+UID:2025-10-22T18:50:00/Bayern München - Club Brugge
+DESCRIPTION:Bayern München - Club Brugge - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid - Juventus - Champions League - viaplay
+DTSTART:20251022T185000
+DTEND:20251022T195000
+DTSTAMP:20251022T185000Z
+UID:2025-10-22T18:50:00/Real Madrid - Juventus
+DESCRIPTION:Real Madrid - Juventus - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - Marseille - Champions League - viaplay
+DTSTART:20251022T185000
+DTEND:20251022T195000
+DTSTAMP:20251022T185000Z
+UID:2025-10-22T18:50:00/Sporting - Marseille
+DESCRIPTION:Sporting - Marseille - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield Wednesday - Middlesbrough - Championship - viaplay
+DTSTART:20251022T185500
+DTEND:20251022T195500
+DTSTAMP:20251022T185500Z
+UID:2025-10-22T18:55:00/Sheffield Wednesday - Middlesbrough
+DESCRIPTION:Sheffield Wednesday - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goalshow - Champions League - viaplay
+DTSTART:20251022T210000
+DTEND:20251022T220000
+DTSTAMP:20251022T210000Z
+UID:2025-10-22T21:00:00/Goalshow
+DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Jersey - Minnesota - NHL - viaplay
+DTSTART:20251022T230500
+DTEND:20251023T000500
+DTSTAMP:20251022T230500Z
+UID:2025-10-22T23:05:00/New Jersey - Minnesota
+DESCRIPTION:New Jersey - Minnesota - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo - Detroit - NHL - viaplay
+DTSTART:20251022T233500
+DTEND:20251023T003500
+DTSTAMP:20251022T233500Z
+UID:2025-10-22T23:35:00/Buffalo - Detroit
+DESCRIPTION:Buffalo - Detroit - NHL
 END:VEVENT
 END:VCALENDAR
