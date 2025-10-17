@@ -2,20 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:ThSV Eisenach - Flensburg-Handewitt - Bundesliga - viaplay
-DTSTART:20251016T165500
-DTEND:20251016T175500
-DTSTAMP:20251016T165500Z
-UID:2025-10-16T16:55:00/ThSV Eisenach - Flensburg-Handewitt
-DESCRIPTION:ThSV Eisenach - Flensburg-Handewitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Union Berlin - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20251017T182000
 DTEND:20251017T192000
 DTSTAMP:20251017T182000Z
 UID:2025-10-17T18:20:00/Union Berlin - Mönchengladbach
 DESCRIPTION:Union Berlin - Mönchengladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20251018T132000
+DTEND:20251018T142000
+DTSTAMP:20251018T132000Z
+UID:2025-10-18T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Werder Bremen - Bundesliga - viaplay
+DTSTART:20251018T132000
+DTEND:20251018T142000
+DTSTAMP:20251018T132000Z
+UID:2025-10-18T13:20:00/Heidenheim - Werder Bremen
+DESCRIPTION:Heidenheim - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Stuttgart - Bundesliga - viaplay
@@ -50,22 +58,6 @@ UID:2025-10-18T13:20:00/Köln - Augsburg
 DESCRIPTION:Köln - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20251018T132000
-DTEND:20251018T142000
-DTSTAMP:20251018T132000Z
-UID:2025-10-18T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Werder Bremen - Bundesliga - viaplay
-DTSTART:20251018T132000
-DTEND:20251018T142000
-DTSTAMP:20251018T132000Z
-UID:2025-10-18T13:20:00/Heidenheim - Werder Bremen
-DESCRIPTION:Heidenheim - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Dortmund - Bundesliga - viaplay
 DTSTART:20251018T162000
 DTEND:20251018T172000
@@ -82,20 +74,20 @@ UID:2025-10-18T17:55:00/Kiel - Melsungen
 DESCRIPTION:Kiel - Melsungen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Eintracht Frankfurt - Bundesliga - synsportviaplay
-DTSTART:20251019T132000
-DTEND:20251019T142000
-DTSTAMP:20251019T132000Z
-UID:2025-10-19T13:20:00/Freiburg - Eintracht Frankfurt
-DESCRIPTION:Freiburg - Eintracht Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freiburg - Frankfurt - Bundesliga - viaplay
 DTSTART:20251019T132000
 DTEND:20251019T142000
 DTSTAMP:20251019T132000Z
 UID:2025-10-19T13:20:00/Freiburg - Frankfurt
 DESCRIPTION:Freiburg - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Eintracht Frankfurt - Bundesliga - synsportviaplay
+DTSTART:20251019T132000
+DTEND:20251019T142000
+DTSTAMP:20251019T132000Z
+UID:2025-10-19T13:20:00/Freiburg - Eintracht Frankfurt
+DESCRIPTION:Freiburg - Eintracht Frankfurt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DHfK Leipzig - Magdeburg - Bundesliga - viaplay
@@ -120,5 +112,13 @@ DTEND:20251019T162500
 DTSTAMP:20251019T152500Z
 UID:2025-10-19T15:25:00/St. Pauli - Hoffenheim
 DESCRIPTION:St. Pauli - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VfL Gummersbach - Kiel - Bundesliga - viaplay
+DTSTART:20251023T165500
+DTEND:20251023T175500
+DTSTAMP:20251023T165500Z
+UID:2025-10-23T16:55:00/VfL Gummersbach - Kiel
+DESCRIPTION:VfL Gummersbach - Kiel - Bundesliga
 END:VEVENT
 END:VCALENDAR
