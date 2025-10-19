@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Stofan - EM karla í körfubolta - ruv
-DTSTART:20251019T153000
-DTEND:20251019T163000
-DTSTAMP:20251019T153000Z
-UID:2025-10-19T15:30:00/Stofan
-DESCRIPTION:Stofan - EM karla í körfubolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stofan - EM karla í körfubolta - ruv
-DTSTART:20251019T173000
-DTEND:20251019T183000
-DTSTAMP:20251019T173000Z
-UID:2025-10-19T17:30:00/Stofan
-DESCRIPTION:Stofan - EM karla í körfubolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Álftanes - Njarðvík - 32-liða úrslit - VÍS-bikar karla í k
  örfubolta - ruv2
 DTSTART:20251020T191500
@@ -26,6 +10,14 @@ DTSTAMP:20251020T191500Z
 UID:2025-10-20T19:15:00/Álftanes - Njarðvík - 32-liða úrslit
 DESCRIPTION:Álftanes - Njarðvík - 32-liða úrslit - VÍS-bikar karla 
  í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Stjarnan - Bónus deild kvenna - synsportisland
+DTSTART:20251021T190500
+DTEND:20251021T200500
+DTSTAMP:20251021T190500Z
+UID:2025-10-21T19:05:00/Grindavík - Stjarnan
+DESCRIPTION:Grindavík - Stjarnan - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamar/Þór - Ármann - Bónus deild kvenna - synsportisland2
@@ -42,14 +34,6 @@ DTEND:20251021T200500
 DTSTAMP:20251021T190500Z
 UID:2025-10-21T19:05:00/KR - Njarðvík
 DESCRIPTION:KR - Njarðvík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grindavík - Stjarnan - Bónus deild kvenna - synsportisland
-DTSTART:20251021T190500
-DTEND:20251021T200500
-DTSTAMP:20251021T190500Z
-UID:2025-10-21T19:05:00/Grindavík - Stjarnan
-DESCRIPTION:Grindavík - Stjarnan - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Haukar - Bónus deild kvenna - synsportisland
@@ -85,20 +69,20 @@ UID:2025-10-23T19:00:00/Ármann - Keflavík
 DESCRIPTION:Ármann - Keflavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grindavík - KR - Bónus deild karla - synsportisland5
-DTSTART:20251023T190500
-DTEND:20251023T200500
-DTSTAMP:20251023T190500Z
-UID:2025-10-23T19:05:00/Grindavík - KR
-DESCRIPTION:Grindavík - KR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór Þ. - Valur - Bónus deild karla - synsportisland3
 DTSTART:20251023T190500
 DTEND:20251023T200500
 DTSTAMP:20251023T190500Z
 UID:2025-10-23T19:05:00/Þór Þ. - Valur
 DESCRIPTION:Þór Þ. - Valur - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - KR - Bónus deild karla - synsportisland5
+DTSTART:20251023T190500
+DTEND:20251023T200500
+DTSTAMP:20251023T190500Z
+UID:2025-10-23T19:05:00/Grindavík - KR
+DESCRIPTION:Grindavík - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Njarðvík - Tindastóll - Bónus deild karla - synsportisland2
