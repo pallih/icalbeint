@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - MotoGP - ical
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20251019T031500
-DTEND:20251019T041500
-DTSTAMP:20251019T031500Z
-UID:2025-10-19T03:15:00/Ástralíu Kappaksturinn (Kappakstur)
-DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Malasíu Kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
 DTSTART:20251024T023500
 DTEND:20251024T033500
@@ -48,5 +40,21 @@ DTEND:20251025T073500
 DTSTAMP:20251025T063500Z
 UID:2025-10-25T06:35:00/Malasíu Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Malasíu Kappaksturinn (Sprettkeppni) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malaysia Grand Prix (Warm Up) - MotoGP - viaplay
+DTSTART:20251026T023500
+DTEND:20251026T033500
+DTSTAMP:20251026T023500Z
+UID:2025-10-26T02:35:00/Malaysia Grand Prix (Warm Up)
+DESCRIPTION:Malaysia Grand Prix (Warm Up) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malasíu Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20251026T061500
+DTEND:20251026T071500
+DTSTAMP:20251026T061500Z
+UID:2025-10-26T06:15:00/Malasíu Kappaksturinn (Kappakstur)
+DESCRIPTION:Malasíu Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 END:VCALENDAR

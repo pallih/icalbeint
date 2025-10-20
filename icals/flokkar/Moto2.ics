@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Moto2 - ical
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Moto2 - viaplay
-DTSTART:20251019T020000
-DTEND:20251019T030000
-DTSTAMP:20251019T020000Z
-UID:2025-10-19T02:00:00/Ástralíu Kappaksturinn (Kappakstur)
-DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Malasíu Kappaksturinn (Frjáls æfing 1) - Moto2 - viaplay
 DTSTART:20251024T014500
 DTEND:20251024T024500
@@ -40,5 +32,13 @@ DTEND:20251025T064000
 DTSTAMP:20251025T054000Z
 UID:2025-10-25T05:40:00/Malasíu Kappaksturinn (Tímatökur)
 DESCRIPTION:Malasíu Kappaksturinn (Tímatökur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malasíu Kappaksturinn (Kappakstur) - Moto2 - viaplay
+DTSTART:20251026T050000
+DTEND:20251026T060000
+DTSTAMP:20251026T050000Z
+UID:2025-10-26T05:00:00/Malasíu Kappaksturinn (Kappakstur)
+DESCRIPTION:Malasíu Kappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 END:VCALENDAR
