@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Cremonese - Udinese - Serie A - Ítalski boltinn - livey
-DTSTART:20251020T184500
-DTEND:20251020T194500
-DTSTAMP:20251020T184500Z
-UID:2025-10-20T18:45:00/Cremonese - Udinese
-DESCRIPTION:Cremonese - Udinese - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deportivo Alaves - Valencia - LaLiga - Spænski boltinn - livey
-DTSTART:20251020T190000
-DTEND:20251020T200000
-DTSTAMP:20251020T190000Z
-UID:2025-10-20T19:00:00/Deportivo Alaves - Valencia
-DESCRIPTION:Deportivo Alaves - Valencia - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - Elverum Håndball - EHF - livey
 DTSTART:20251021T184500
 DTEND:20251021T194500
@@ -50,20 +34,20 @@ UID:2025-10-22T18:45:00/HBC Nantes - Aalborg Handbold
 DESCRIPTION:HBC Nantes - Aalborg Handbold - EHF
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dinamo Bucuresti - Industria Kielce - EHF - livey
-DTSTART:20251023T164500
-DTEND:20251023T174500
-DTSTAMP:20251023T164500Z
-UID:2025-10-23T16:45:00/Dinamo Bucuresti - Industria Kielce
-DESCRIPTION:Dinamo Bucuresti - Industria Kielce - EHF
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:One Veszprém HC - Füchse Berlin - EHF - livey
 DTSTART:20251023T164500
 DTEND:20251023T174500
 DTSTAMP:20251023T164500Z
 UID:2025-10-23T16:45:00/One Veszprém HC - Füchse Berlin
 DESCRIPTION:One Veszprém HC - Füchse Berlin - EHF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinamo Bucuresti - Industria Kielce - EHF - livey
+DTSTART:20251023T164500
+DTEND:20251023T174500
+DTSTAMP:20251023T164500Z
+UID:2025-10-23T16:45:00/Dinamo Bucuresti - Industria Kielce
+DESCRIPTION:Dinamo Bucuresti - Industria Kielce - EHF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlen Wisla Plock - Barça - EHF - livey
@@ -169,5 +153,13 @@ DTEND:20251026T210000
 DTSTAMP:20251026T200000Z
 UID:2025-10-26T20:00:00/Rayo Vallecano - Deportivo Alaves
 DESCRIPTION:Rayo Vallecano - Deportivo Alaves - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis - Atletico Madrid - LaLiga - Spænski boltinn - livey
+DTSTART:20251027T200000
+DTEND:20251027T210000
+DTSTAMP:20251027T200000Z
+UID:2025-10-27T20:00:00/Real Betis - Atletico Madrid
+DESCRIPTION:Real Betis - Atletico Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 END:VCALENDAR
