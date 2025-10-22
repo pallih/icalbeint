@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 1. deild kvenna í körfubolta  - ical
 BEGIN:VEVENT
-SUMMARY:ÍR - Aþena - 1. deild kvenna í körfubolta  - kkitv1
-DTSTART:20251022T190500
-DTEND:20251022T200500
-DTSTAMP:20251022T190500Z
-UID:2025-10-22T19:05:00/ÍR - Aþena
-DESCRIPTION:ÍR - Aþena - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Selfoss - Snæfell - 1. deild kvenna í körfubolta  - kkitv3
 DTSTART:20251022T190500
 DTEND:20251022T200500
@@ -25,6 +17,14 @@ DTEND:20251022T200500
 DTSTAMP:20251022T190500Z
 UID:2025-10-22T19:05:00/Þór Ak. - Njarðvík b
 DESCRIPTION:Þór Ak. - Njarðvík b - 1. deild kvenna í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Aþena - 1. deild kvenna í körfubolta  - kkitv1
+DTSTART:20251022T190500
+DTEND:20251022T200500
+DTSTAMP:20251022T190500Z
+UID:2025-10-22T19:05:00/ÍR - Aþena
+DESCRIPTION:ÍR - Aþena - 1. deild kvenna í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan U - Selfoss - 1. deild kvenna í körfubolta  - kkitv1
@@ -43,19 +43,19 @@ UID:2025-10-25T15:50:00/Njarðvík b - KV
 DESCRIPTION:Njarðvík b - KV - 1. deild kvenna í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fjölnir - ÍR - 1. deild kvenna í körfubolta  - kkitv3
-DTSTART:20251025T175000
-DTEND:20251025T185000
-DTSTAMP:20251025T175000Z
-UID:2025-10-25T17:50:00/Fjölnir - ÍR
-DESCRIPTION:Fjölnir - ÍR - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aþena - Þór Ak. - 1. deild kvenna í körfubolta  - kkitv1
 DTSTART:20251025T175000
 DTEND:20251025T185000
 DTSTAMP:20251025T175000Z
 UID:2025-10-25T17:50:00/Aþena - Þór Ak.
 DESCRIPTION:Aþena - Þór Ak. - 1. deild kvenna í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - ÍR - 1. deild kvenna í körfubolta  - kkitv3
+DTSTART:20251025T175000
+DTEND:20251025T185000
+DTSTAMP:20251025T175000Z
+UID:2025-10-25T17:50:00/Fjölnir - ÍR
+DESCRIPTION:Fjölnir - ÍR - 1. deild kvenna í körfubolta 
 END:VEVENT
 END:VCALENDAR
