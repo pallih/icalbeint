@@ -18,20 +18,20 @@ UID:2025-10-24T16:25:00/Schalke - Darmstadt
 DESCRIPTION:Schalke - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arminia Bielefeld - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20251025T105500
-DTEND:20251025T115500
-DTSTAMP:20251025T105500Z
-UID:2025-10-25T10:55:00/Arminia Bielefeld - Elversberg
-DESCRIPTION:Arminia Bielefeld - Elversberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dynamo Dresden - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20251025T105500
 DTEND:20251025T115500
 DTSTAMP:20251025T105500Z
 UID:2025-10-25T10:55:00/Dynamo Dresden - Paderborn
 DESCRIPTION:Dynamo Dresden - Paderborn - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arminia Bielefeld - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20251025T105500
+DTEND:20251025T115500
+DTSTAMP:20251025T105500Z
+UID:2025-10-25T10:55:00/Arminia Bielefeld - Elversberg
+DESCRIPTION:Arminia Bielefeld - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Bochum - 2. Bundesliga - viaplay
@@ -50,14 +50,6 @@ UID:2025-10-25T18:25:00/Hertha Berlin - Düsseldorf
 DESCRIPTION:Hertha Berlin - Düsseldorf - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Preußen Münster - 2. Bundesliga - viaplay
-DTSTART:20251026T122500
-DTEND:20251026T132500
-DTSTAMP:20251026T122500Z
-UID:2025-10-26T12:25:00/Magdeburg - Preußen Münster
-DESCRIPTION:Magdeburg - Preußen Münster - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20251026T122500
 DTEND:20251026T132500
@@ -72,5 +64,13 @@ DTEND:20251026T132500
 DTSTAMP:20251026T122500Z
 UID:2025-10-26T12:25:00/Braunschweig - Hannover
 DESCRIPTION:Braunschweig - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Preußen Münster - 2. Bundesliga - viaplay
+DTSTART:20251026T122500
+DTEND:20251026T132500
+DTSTAMP:20251026T122500Z
+UID:2025-10-26T12:25:00/Magdeburg - Preußen Münster
+DESCRIPTION:Magdeburg - Preußen Münster - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
