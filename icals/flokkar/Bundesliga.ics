@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Bayer Leverkusen - Freiburg - Bundesliga - synsportviaplay
-DTSTART:20251026T142000
-DTEND:20251026T152000
-DTSTAMP:20251026T142000Z
-UID:2025-10-26T14:20:00/Bayer Leverkusen - Freiburg
-DESCRIPTION:Bayer Leverkusen - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leverkusen - Freiburg - Bundesliga - viaplay
-DTSTART:20251026T142000
-DTEND:20251026T152000
-DTSTAMP:20251026T142000Z
-UID:2025-10-26T14:20:00/Leverkusen - Freiburg
-DESCRIPTION:Leverkusen - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hannover-Burgdorf - Magdeburg - Bundesliga - viaplay
-DTSTART:20251026T152500
-DTEND:20251026T162500
-DTSTAMP:20251026T152500Z
-UID:2025-10-26T15:25:00/Hannover-Burgdorf - Magdeburg
-DESCRIPTION:Hannover-Burgdorf - Magdeburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stuttgart - Mainz - Bundesliga - viaplay
-DTSTART:20251026T162000
-DTEND:20251026T172000
-DTSTAMP:20251026T162000Z
-UID:2025-10-26T16:20:00/Stuttgart - Mainz
-DESCRIPTION:Stuttgart - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stuttgart - Mainz 05 - Bundesliga - synsportviaplay
-DTSTART:20251026T163000
-DTEND:20251026T173000
-DTSTAMP:20251026T163000Z
-UID:2025-10-26T16:30:00/Stuttgart - Mainz 05
-DESCRIPTION:Stuttgart - Mainz 05 - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Augsburg - Dortmund - Bundesliga - viaplay
 DTSTART:20251031T192000
 DTEND:20251031T202000
@@ -50,12 +10,20 @@ UID:2025-10-31T19:20:00/Augsburg - Dortmund
 DESCRIPTION:Augsburg - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Stuttgart - Bundesliga - viaplay
+SUMMARY:Heidenheim - Frankfurt - Bundesliga - viaplay
 DTSTART:20251101T142000
 DTEND:20251101T152000
 DTSTAMP:20251101T142000Z
-UID:2025-11-01T14:20:00/Leipzig - Stuttgart
-DESCRIPTION:Leipzig - Stuttgart - Bundesliga
+UID:2025-11-01T14:20:00/Heidenheim - Frankfurt
+DESCRIPTION:Heidenheim - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Freiburg - Bundesliga - viaplay
+DTSTART:20251101T142000
+DTEND:20251101T152000
+DTSTAMP:20251101T142000Z
+UID:2025-11-01T14:20:00/Union Berlin - Freiburg
+DESCRIPTION:Union Berlin - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -74,12 +42,12 @@ UID:2025-11-01T14:20:00/Mainz - Werder Bremen
 DESCRIPTION:Mainz - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Freiburg - Bundesliga - viaplay
+SUMMARY:Leipzig - Stuttgart - Bundesliga - viaplay
 DTSTART:20251101T142000
 DTEND:20251101T152000
 DTSTAMP:20251101T142000Z
-UID:2025-11-01T14:20:00/Union Berlin - Freiburg
-DESCRIPTION:Union Berlin - Freiburg - Bundesliga
+UID:2025-11-01T14:20:00/Leipzig - Stuttgart
+DESCRIPTION:Leipzig - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Mönchengladbach - Bundesliga - viaplay
@@ -90,12 +58,12 @@ UID:2025-11-01T14:20:00/St. Pauli - Mönchengladbach
 DESCRIPTION:St. Pauli - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - Frankfurt - Bundesliga - viaplay
-DTSTART:20251101T142000
-DTEND:20251101T152000
-DTSTAMP:20251101T142000Z
-UID:2025-11-01T14:20:00/Heidenheim - Frankfurt
-DESCRIPTION:Heidenheim - Frankfurt - Bundesliga
+SUMMARY:Bayern München - Leverkusen - Bundesliga - synsportviaplay
+DTSTART:20251101T172000
+DTEND:20251101T182000
+DTSTAMP:20251101T172000Z
+UID:2025-11-01T17:20:00/Bayern München - Leverkusen
+DESCRIPTION:Bayern München - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Leverkusen - Bundesliga - viaplay
@@ -104,5 +72,29 @@ DTEND:20251101T182000
 DTSTAMP:20251101T172000Z
 UID:2025-11-01T17:20:00/Bayern München - Leverkusen
 DESCRIPTION:Bayern München - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln - HSV - Bundesliga - viaplay
+DTSTART:20251102T142000
+DTEND:20251102T152000
+DTSTAMP:20251102T142000Z
+UID:2025-11-02T14:20:00/Köln - HSV
+DESCRIPTION:Köln - HSV - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Hoffenheim - Bundesliga - viaplay
+DTSTART:20251102T161500
+DTEND:20251102T171500
+DTSTAMP:20251102T161500Z
+UID:2025-11-02T16:15:00/Wolfsburg - Hoffenheim
+DESCRIPTION:Wolfsburg - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Hoffenheim - Bundesliga - synsportviaplay
+DTSTART:20251102T162000
+DTEND:20251102T172000
+DTSTAMP:20251102T162000Z
+UID:2025-11-02T16:20:00/Wolfsburg - Hoffenheim
+DESCRIPTION:Wolfsburg - Hoffenheim - Bundesliga
 END:VEVENT
 END:VCALENDAR
