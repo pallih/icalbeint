@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Port Vale - Stockport - League One - viaplay
-DTSTART:20251027T195500
-DTEND:20251027T205500
-DTSTAMP:20251027T195500Z
-UID:2025-10-27T19:55:00/Port Vale - Stockport
-DESCRIPTION:Port Vale - Stockport - League One
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Port Vale - Stockport - EFL League One - synsportviaplay
-DTSTART:20251027T195500
-DTEND:20251027T205500
-DTSTAMP:20251027T195500Z
-UID:2025-10-27T19:55:00/Port Vale - Stockport
-DESCRIPTION:Port Vale - Stockport - EFL League One
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Betis - Atletico Madrid - LaLiga - Spænski boltinn - livey
-DTSTART:20251027T200000
-DTEND:20251027T210000
-DTSTAMP:20251027T200000Z
-UID:2025-10-27T20:00:00/Real Betis - Atletico Madrid
-DESCRIPTION:Real Betis - Atletico Madrid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lecce - Napoli - Serie A - Ítalski boltinn - livey
 DTSTART:20251028T173000
 DTEND:20251028T183000
 DTSTAMP:20251028T173000Z
 UID:2025-10-28T17:30:00/Lecce - Napoli
 DESCRIPTION:Lecce - Napoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:null - null - DFB-Pokal - livey
+DTSTART:20251028T173000
+DTEND:20251028T183000
+DTSTAMP:20251028T173000Z
+UID:2025-10-28T17:30:00/null - null
+DESCRIPTION:null - null - DFB-Pokal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VARsjáin - Premier League - synsport
@@ -66,7 +50,7 @@ UID:2025-10-28T19:45:00/Atalanta - AC Milan
 DESCRIPTION:Atalanta - AC Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wrexham - Cardiff - Carabao Cup - viaplay
+SUMMARY:Wrexham - Cardiff - Carabao Cup - synsportviaplay
 DTSTART:20251028T195500
 DTEND:20251028T205500
 DTSTAMP:20251028T195500Z
@@ -74,7 +58,7 @@ UID:2025-10-28T19:55:00/Wrexham - Cardiff
 DESCRIPTION:Wrexham - Cardiff - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wrexham - Cardiff - Carabao Cup - synsportviaplay
+SUMMARY:Wrexham - Cardiff - Carabao Cup - viaplay
 DTSTART:20251028T195500
 DTEND:20251028T205500
 DTSTAMP:20251028T195500Z
@@ -106,6 +90,38 @@ UID:2025-10-29T17:30:00/Roma - Parma
 DESCRIPTION:Roma - Parma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Le Havre - Brest - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T180000
+DTEND:20251029T190000
+DTSTAMP:20251029T180000Z
+UID:2025-10-29T18:00:00/Le Havre - Brest
+DESCRIPTION:Le Havre - Brest - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lorient - PSG - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T180000
+DTEND:20251029T190000
+DTSTAMP:20251029T180000Z
+UID:2025-10-29T18:00:00/Lorient - PSG
+DESCRIPTION:Lorient - PSG - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nice - Lille - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T180000
+DTEND:20251029T190000
+DTSTAMP:20251029T180000Z
+UID:2025-10-29T18:00:00/Nice - Lille
+DESCRIPTION:Nice - Lille - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metz - Lens - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T180000
+DTEND:20251029T190000
+DTSTAMP:20251029T180000Z
+UID:2025-10-29T18:00:00/Metz - Lens
+DESCRIPTION:Metz - Lens - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Liverpool - Crystal Palace - Carabao Cup - synsportviaplay
 DTSTART:20251029T193500
 DTEND:20251029T203500
@@ -122,20 +138,20 @@ UID:2025-10-29T19:35:00/Liverpool - Crystal Palace
 DESCRIPTION:Liverpool - Crystal Palace - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Brighton - Carabao Cup - viaplay
-DTSTART:20251029T194000
-DTEND:20251029T204000
-DTSTAMP:20251029T194000Z
-UID:2025-10-29T19:40:00/Arsenal - Brighton
-DESCRIPTION:Arsenal - Brighton - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolverhampton - Chelsea - Carabao Cup - viaplay
 DTSTART:20251029T194000
 DTEND:20251029T204000
 DTSTAMP:20251029T194000Z
 UID:2025-10-29T19:40:00/Wolverhampton - Chelsea
 DESCRIPTION:Wolverhampton - Chelsea - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Brighton - Carabao Cup - viaplay
+DTSTART:20251029T194000
+DTEND:20251029T204000
+DTSTAMP:20251029T194000Z
+UID:2025-10-29T19:40:00/Arsenal - Brighton
+DESCRIPTION:Arsenal - Brighton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Man City - Carabao Cup - viaplay
@@ -146,12 +162,12 @@ UID:2025-10-29T19:40:00/Swansea - Man City
 DESCRIPTION:Swansea - Man City - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bologna - Torino - Serie A - Ítalski boltinn - livey
+SUMMARY:FC Cologne - null - DFB-Pokal - livey
 DTSTART:20251029T194500
 DTEND:20251029T204500
 DTSTAMP:20251029T194500Z
-UID:2025-10-29T19:45:00/Bologna - Torino
-DESCRIPTION:Bologna - Torino - Serie A - Ítalski boltinn
+UID:2025-10-29T19:45:00/FC Cologne - null
+DESCRIPTION:FC Cologne - null - DFB-Pokal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Milan - Fiorentina - Serie A - Ítalski boltinn - livey
@@ -170,12 +186,60 @@ UID:2025-10-29T19:45:00/Genoa - Cremonese
 DESCRIPTION:Genoa - Cremonese - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bologna - Torino - Serie A - Ítalski boltinn - livey
+DTSTART:20251029T194500
+DTEND:20251029T204500
+DTSTAMP:20251029T194500Z
+UID:2025-10-29T19:45:00/Bologna - Torino
+DESCRIPTION:Bologna - Torino - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Newcastle - Tottenham - Carabao Cup - viaplay
 DTSTART:20251029T195500
 DTEND:20251029T205500
 DTSTAMP:20251029T195500Z
 UID:2025-10-29T19:55:00/Newcastle - Tottenham
 DESCRIPTION:Newcastle - Tottenham - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T200500
+DTEND:20251029T210500
+DTSTAMP:20251029T200500Z
+UID:2025-10-29T20:05:00/RC Strasbourg - Auxerre
+DESCRIPTION:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris FC - Lyon - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T200500
+DTEND:20251029T210500
+DTSTAMP:20251029T200500Z
+UID:2025-10-29T20:05:00/Paris FC - Lyon
+DESCRIPTION:Paris FC - Lyon - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marseille - Angers - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T200500
+DTEND:20251029T210500
+DTSTAMP:20251029T200500Z
+UID:2025-10-29T20:05:00/Marseille - Angers
+DESCRIPTION:Marseille - Angers - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nantes - Monaco - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T200500
+DTEND:20251029T210500
+DTSTAMP:20251029T200500Z
+UID:2025-10-29T20:05:00/Nantes - Monaco
+DESCRIPTION:Nantes - Monaco - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toulouse - Rennes - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T200500
+DTEND:20251029T210500
+DTSTAMP:20251029T200500Z
+UID:2025-10-29T20:05:00/Toulouse - Rennes
+DESCRIPTION:Toulouse - Rennes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cagliari - Sassuolo - Serie A - Ítalski boltinn - livey
@@ -194,12 +258,12 @@ UID:2025-10-30T19:45:00/Pisa - Lazio
 DESCRIPTION:Pisa - Lazio - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preußen Münster - Holstein Kiel - 2. Bundesliga - viaplay
-DTSTART:20251031T172500
-DTEND:20251031T182500
-DTSTAMP:20251031T172500Z
-UID:2025-10-31T17:25:00/Preußen Münster - Holstein Kiel
-DESCRIPTION:Preußen Münster - Holstein Kiel - 2. Bundesliga
+SUMMARY:Big Ben - Premier League - synsport
+DTSTART:20251030T221000
+DTEND:20251030T231000
+DTSTAMP:20251030T221000Z
+UID:2025-10-30T22:10:00/Big Ben
+DESCRIPTION:Big Ben - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Nürnberg - Frauen-Bundesliga - viaplay
@@ -210,6 +274,14 @@ UID:2025-10-31T17:25:00/Köln - Nürnberg
 DESCRIPTION:Köln - Nürnberg - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Elversberg - Hannover 96 - 2. Bundesliga - synsportviaplay
+DTSTART:20251031T172500
+DTEND:20251031T182500
+DTSTAMP:20251031T172500Z
+UID:2025-10-31T17:25:00/Elversberg - Hannover 96
+DESCRIPTION:Elversberg - Hannover 96 - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elversberg - Hannover - 2. Bundesliga - viaplay
 DTSTART:20251031T172500
 DTEND:20251031T182500
@@ -218,12 +290,12 @@ UID:2025-10-31T17:25:00/Elversberg - Hannover
 DESCRIPTION:Elversberg - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Hannover 96 - 2. Bundesliga - synsportviaplay
+SUMMARY:Preußen Münster - Holstein Kiel - 2. Bundesliga - viaplay
 DTSTART:20251031T172500
 DTEND:20251031T182500
 DTSTAMP:20251031T172500Z
-UID:2025-10-31T17:25:00/Elversberg - Hannover 96
-DESCRIPTION:Elversberg - Hannover 96 - 2. Bundesliga
+UID:2025-10-31T17:25:00/Preußen Münster - Holstein Kiel
+DESCRIPTION:Preußen Münster - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Augsburg - Dortmund - Bundesliga - viaplay
@@ -258,12 +330,12 @@ UID:2025-10-31T19:55:00/Wrexham - Coventry
 DESCRIPTION:Wrexham - Coventry - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Växjö - Brommapojkarna - OBOS Damallsvenskan - viaplay
+SUMMARY:Chelmsford - Braintree - FA Cup - viaplay
 DTSTART:20251101T115000
 DTEND:20251101T125000
 DTSTAMP:20251101T115000Z
-UID:2025-11-01T11:50:00/Växjö - Brommapojkarna
-DESCRIPTION:Växjö - Brommapojkarna - OBOS Damallsvenskan
+UID:2025-11-01T11:50:00/Chelmsford - Braintree
+DESCRIPTION:Chelmsford - Braintree - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kristianstad - Djurgården - OBOS Damallsvenskan - viaplay
@@ -274,28 +346,12 @@ UID:2025-11-01T11:50:00/Kristianstad - Djurgården
 DESCRIPTION:Kristianstad - Djurgården - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelmsford - Braintree - FA Cup - viaplay
+SUMMARY:Växjö - Brommapojkarna - OBOS Damallsvenskan - viaplay
 DTSTART:20251101T115000
 DTEND:20251101T125000
 DTSTAMP:20251101T115000Z
-UID:2025-11-01T11:50:00/Chelmsford - Braintree
-DESCRIPTION:Chelmsford - Braintree - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Dynamo Dresden - 2. Bundesliga - viaplay
-DTSTART:20251101T115500
-DTEND:20251101T125500
-DTSTAMP:20251101T115500Z
-UID:2025-11-01T11:55:00/Hertha Berlin - Dynamo Dresden
-DESCRIPTION:Hertha Berlin - Dynamo Dresden - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karlsruher - Schalke - 2. Bundesliga - viaplay
-DTSTART:20251101T115500
-DTEND:20251101T125500
-DTSTAMP:20251101T115500Z
-UID:2025-11-01T11:55:00/Karlsruher - Schalke
-DESCRIPTION:Karlsruher - Schalke - 2. Bundesliga
+UID:2025-11-01T11:50:00/Växjö - Brommapojkarna
+DESCRIPTION:Växjö - Brommapojkarna - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürnberg - Braunschweig - 2. Bundesliga - viaplay
@@ -306,12 +362,20 @@ UID:2025-11-01T11:55:00/Nürnberg - Braunschweig
 DESCRIPTION:Nürnberg - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leicester - Blackburn Rovers - EFL Championship - synsportviaplay
-DTSTART:20251101T122500
-DTEND:20251101T132500
-DTSTAMP:20251101T122500Z
-UID:2025-11-01T12:25:00/Leicester - Blackburn Rovers
-DESCRIPTION:Leicester - Blackburn Rovers - EFL Championship
+SUMMARY:Karlsruher - Schalke - 2. Bundesliga - viaplay
+DTSTART:20251101T115500
+DTEND:20251101T125500
+DTSTAMP:20251101T115500Z
+UID:2025-11-01T11:55:00/Karlsruher - Schalke
+DESCRIPTION:Karlsruher - Schalke - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hertha Berlin - Dynamo Dresden - 2. Bundesliga - viaplay
+DTSTART:20251101T115500
+DTEND:20251101T125500
+DTSTAMP:20251101T115500Z
+UID:2025-11-01T11:55:00/Hertha Berlin - Dynamo Dresden
+DESCRIPTION:Hertha Berlin - Dynamo Dresden - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leicester - Blackburn - Championship - viaplay
@@ -322,6 +386,14 @@ UID:2025-11-01T12:25:00/Leicester - Blackburn
 DESCRIPTION:Leicester - Blackburn - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leicester - Blackburn Rovers - EFL Championship - synsportviaplay
+DTSTART:20251101T122500
+DTEND:20251101T132500
+DTSTAMP:20251101T122500Z
+UID:2025-11-01T12:25:00/Leicester - Blackburn Rovers
+DESCRIPTION:Leicester - Blackburn Rovers - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayern München - Essen - Frauen-Bundesliga - viaplay
 DTSTART:20251101T125500
 DTEND:20251101T135500
@@ -330,12 +402,28 @@ UID:2025-11-01T12:55:00/Bayern München - Essen
 DESCRIPTION:Bayern München - Essen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:St. Pauli - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20251101T142000
+DTEND:20251101T152000
+DTSTAMP:20251101T142000Z
+UID:2025-11-01T14:20:00/St. Pauli - Mönchengladbach
+DESCRIPTION:St. Pauli - Mönchengladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Heidenheim - Frankfurt - Bundesliga - viaplay
 DTSTART:20251101T142000
 DTEND:20251101T152000
 DTSTAMP:20251101T142000Z
 UID:2025-11-01T14:20:00/Heidenheim - Frankfurt
 DESCRIPTION:Heidenheim - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Stuttgart - Bundesliga - viaplay
+DTSTART:20251101T142000
+DTEND:20251101T152000
+DTSTAMP:20251101T142000Z
+UID:2025-11-01T14:20:00/Leipzig - Stuttgart
+DESCRIPTION:Leipzig - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Freiburg - Bundesliga - viaplay
@@ -362,20 +450,52 @@ UID:2025-11-01T14:20:00/Mainz - Werder Bremen
 DESCRIPTION:Mainz - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Stuttgart - Bundesliga - viaplay
-DTSTART:20251101T142000
-DTEND:20251101T152000
-DTSTAMP:20251101T142000Z
-UID:2025-11-01T14:20:00/Leipzig - Stuttgart
-DESCRIPTION:Leipzig - Stuttgart - Bundesliga
+SUMMARY:Brighton - Leeds - Premier League - synsport4
+DTSTART:20251101T144000
+DTEND:20251101T154000
+DTSTAMP:20251101T144000Z
+UID:2025-11-01T14:40:00/Brighton - Leeds
+DESCRIPTION:Brighton - Leeds - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20251101T142000
-DTEND:20251101T152000
-DTSTAMP:20251101T142000Z
-UID:2025-11-01T14:20:00/St. Pauli - Mönchengladbach
-DESCRIPTION:St. Pauli - Mönchengladbach - Bundesliga
+SUMMARY:Nott. Forest - Man. Utd. - Premier League - synsport2
+DTSTART:20251101T144000
+DTEND:20251101T154000
+DTSTAMP:20251101T144000Z
+UID:2025-11-01T14:40:00/Nott. Forest - Man. Utd.
+DESCRIPTION:Nott. Forest - Man. Utd. - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20251101T144000
+DTEND:20251101T154000
+DTSTAMP:20251101T144000Z
+UID:2025-11-01T14:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Arsenal - Premier League - synsport3
+DTSTART:20251101T144000
+DTEND:20251101T154000
+DTSTAMP:20251101T144000Z
+UID:2025-11-01T14:40:00/Burnley - Arsenal
+DESCRIPTION:Burnley - Arsenal - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Wolves - Premier League - synsport6
+DTSTART:20251101T145000
+DTEND:20251101T155000
+DTSTAMP:20251101T145000Z
+UID:2025-11-01T14:50:00/Fulham - Wolves
+DESCRIPTION:Fulham - Wolves - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Brentford - Premier League - synsport5
+DTSTART:20251101T145000
+DTEND:20251101T155000
+DTSTAMP:20251101T145000Z
+UID:2025-11-01T14:50:00/Crystal Palace - Brentford
+DESCRIPTION:Crystal Palace - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QPR - Ipswich - EFL Championship - synsportviaplay
@@ -386,14 +506,6 @@ UID:2025-11-01T14:50:00/QPR - Ipswich
 DESCRIPTION:QPR - Ipswich - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Hoffenheim - Frauen-Bundesliga - viaplay
-DTSTART:20251101T145500
-DTEND:20251101T155500
-DTSTAMP:20251101T145500Z
-UID:2025-11-01T14:55:00/Wolfsburg - Hoffenheim
-DESCRIPTION:Wolfsburg - Hoffenheim - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:QPR - Ipswich - Championship - viaplay
 DTSTART:20251101T145500
 DTEND:20251101T155500
@@ -402,12 +514,36 @@ UID:2025-11-01T14:55:00/QPR - Ipswich
 DESCRIPTION:QPR - Ipswich - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wolfsburg - Hoffenheim - Frauen-Bundesliga - viaplay
+DTSTART:20251101T145500
+DTEND:20251101T155500
+DTSTAMP:20251101T145500Z
+UID:2025-11-01T14:55:00/Wolfsburg - Hoffenheim
+DESCRIPTION:Wolfsburg - Hoffenheim - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayern München - Leverkusen - Bundesliga - synsportviaplay
 DTSTART:20251101T172000
 DTEND:20251101T182000
 DTSTAMP:20251101T172000Z
 UID:2025-11-01T17:20:00/Bayern München - Leverkusen
 DESCRIPTION:Bayern München - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Chelsea: Data Zone - Premier League - synsport2
+DTSTART:20251101T172000
+DTEND:20251101T182000
+DTSTAMP:20251101T172000Z
+UID:2025-11-01T17:20:00/Tottenham - Chelsea: Data Zone
+DESCRIPTION:Tottenham - Chelsea: Data Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Chelsea - Premier League - synsport
+DTSTART:20251101T172000
+DTEND:20251101T182000
+DTSTAMP:20251101T172000Z
+UID:2025-11-01T17:20:00/Tottenham - Chelsea
+DESCRIPTION:Tottenham - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Leverkusen - Bundesliga - viaplay
@@ -442,28 +578,28 @@ UID:2025-11-01T19:25:00/Darmstadt - Arminia Bielefeld
 DESCRIPTION:Darmstadt - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Laugardagsmörkin - Premier League - synsport
+DTSTART:20251101T193500
+DTEND:20251101T203500
+DTSTAMP:20251101T193500Z
+UID:2025-11-01T19:35:00/Laugardagsmörkin
+DESCRIPTION:Laugardagsmörkin - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Aston Villa - Premier League - synsport
+DTSTART:20251101T195500
+DTEND:20251101T205500
+DTSTAMP:20251101T195500Z
+UID:2025-11-01T19:55:00/Liverpool - Aston Villa
+DESCRIPTION:Liverpool - Aston Villa - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Malmö FF - Pitea - Sænska úrvalsdeildin - synsportviaplay
 DTSTART:20251102T115000
 DTEND:20251102T125000
 DTSTAMP:20251102T115000Z
 UID:2025-11-02T11:50:00/Malmö FF - Pitea
 DESCRIPTION:Malmö FF - Pitea - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Düsseldorf - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20251102T122500
-DTEND:20251102T132500
-DTSTAMP:20251102T122500Z
-UID:2025-11-02T12:25:00/Düsseldorf - Kaiserslautern
-DESCRIPTION:Düsseldorf - Kaiserslautern - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bochum - Magdeburg - 2. Bundesliga - viaplay
-DTSTART:20251102T122500
-DTEND:20251102T132500
-DTSTAMP:20251102T122500Z
-UID:2025-11-02T12:25:00/Bochum - Magdeburg
-DESCRIPTION:Bochum - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - Greuther Fürth - 2. Bundesliga - viaplay
@@ -474,28 +610,36 @@ UID:2025-11-02T12:25:00/Paderborn - Greuther Fürth
 DESCRIPTION:Paderborn - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bochum - Magdeburg - 2. Bundesliga - viaplay
+DTSTART:20251102T122500
+DTEND:20251102T132500
+DTSTAMP:20251102T122500Z
+UID:2025-11-02T12:25:00/Bochum - Magdeburg
+DESCRIPTION:Bochum - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20251102T122500
+DTEND:20251102T132500
+DTSTAMP:20251102T122500Z
+UID:2025-11-02T12:25:00/Düsseldorf - Kaiserslautern
+DESCRIPTION:Düsseldorf - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Newcastle - Premier League - synsport
+DTSTART:20251102T134000
+DTEND:20251102T144000
+DTSTAMP:20251102T134000Z
+UID:2025-11-02T13:40:00/West Ham - Newcastle
+DESCRIPTION:West Ham - Newcastle - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hammarby - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20251102T135000
 DTEND:20251102T145000
 DTSTAMP:20251102T135000Z
 UID:2025-11-02T13:50:00/Hammarby - Norrköping
 DESCRIPTION:Hammarby - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Ham - Newcastle - Premier League - synsport
-DTSTART:20251102T135000
-DTEND:20251102T145000
-DTSTAMP:20251102T135000Z
-UID:2025-11-02T13:50:00/West Ham - Newcastle
-DESCRIPTION:West Ham - Newcastle - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hammarby - Norrköping - Sænska úrvalsdeildin - synsportviaplay
-DTSTART:20251102T135500
-DTEND:20251102T145500
-DTSTAMP:20251102T135500Z
-UID:2025-11-02T13:55:00/Hammarby - Norrköping
-DESCRIPTION:Hammarby - Norrköping - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HSV - Frankfurt - Frauen-Bundesliga - viaplay
@@ -506,6 +650,14 @@ UID:2025-11-02T13:55:00/HSV - Frankfurt
 DESCRIPTION:HSV - Frankfurt - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hammarby - Norrköping - Sænska úrvalsdeildin - synsportviaplay
+DTSTART:20251102T135500
+DTEND:20251102T145500
+DTSTAMP:20251102T135500Z
+UID:2025-11-02T13:55:00/Hammarby - Norrköping
+DESCRIPTION:Hammarby - Norrköping - Sænska úrvalsdeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Köln - HSV - Bundesliga - viaplay
 DTSTART:20251102T142000
 DTEND:20251102T152000
@@ -514,12 +666,12 @@ UID:2025-11-02T14:20:00/Köln - HSV
 DESCRIPTION:Köln - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Port Vale - Maldon & Tiptree Sun - FA Cup - viaplay
+SUMMARY:Rosengård - Alingsås - OBOS Damallsvenskan - viaplay
 DTSTART:20251102T145000
 DTEND:20251102T155000
 DTSTAMP:20251102T145000Z
-UID:2025-11-02T14:50:00/Port Vale - Maldon & Tiptree Sun
-DESCRIPTION:Port Vale - Maldon & Tiptree Sun - FA Cup
+UID:2025-11-02T14:50:00/Rosengård - Alingsås
+DESCRIPTION:Rosengård - Alingsås - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Häcken - Linköping - OBOS Damallsvenskan - viaplay
@@ -530,12 +682,12 @@ UID:2025-11-02T14:50:00/Häcken - Linköping
 DESCRIPTION:Häcken - Linköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rosengård - Alingsås - OBOS Damallsvenskan - viaplay
+SUMMARY:Port Vale - Maldon & Tiptree Sun - FA Cup - viaplay
 DTSTART:20251102T145000
 DTEND:20251102T155000
 DTSTAMP:20251102T145000Z
-UID:2025-11-02T14:50:00/Rosengård - Alingsås
-DESCRIPTION:Rosengård - Alingsås - OBOS Damallsvenskan
+UID:2025-11-02T14:50:00/Port Vale - Maldon & Tiptree Sun
+DESCRIPTION:Port Vale - Maldon & Tiptree Sun - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Bournemouth - Premier League - synsport
@@ -568,5 +720,21 @@ DTEND:20251102T193500
 DTSTAMP:20251102T183500Z
 UID:2025-11-02T18:35:00/Sunnudagsmessan
 DESCRIPTION:Sunnudagsmessan - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tamworth - Leyton Orient - FA Cup - viaplay
+DTSTART:20251103T192000
+DTEND:20251103T202000
+DTSTAMP:20251103T192000Z
+UID:2025-11-03T19:20:00/Tamworth - Leyton Orient
+DESCRIPTION:Tamworth - Leyton Orient - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland - Everton - Premier League - synsport
+DTSTART:20251103T194000
+DTEND:20251103T204000
+DTSTAMP:20251103T194000Z
+UID:2025-11-03T19:40:00/Sunderland - Everton
+DESCRIPTION:Sunderland - Everton - Premier League
 END:VEVENT
 END:VCALENDAR
