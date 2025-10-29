@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Lecce - Napoli - Serie A - Ítalski boltinn - livey
-DTSTART:20251028T173000
-DTEND:20251028T183000
-DTSTAMP:20251028T173000Z
-UID:2025-10-28T17:30:00/Lecce - Napoli
-DESCRIPTION:Lecce - Napoli - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:null - null - DFB-Pokal - livey
-DTSTART:20251028T173000
-DTEND:20251028T183000
-DTSTAMP:20251028T173000Z
-UID:2025-10-28T17:30:00/null - null
-DESCRIPTION:null - null - DFB-Pokal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atalanta - AC Milan - Serie A - Ítalski boltinn - livey
-DTSTART:20251028T194500
-DTEND:20251028T204500
-DTSTAMP:20251028T194500Z
-UID:2025-10-28T19:45:00/Atalanta - AC Milan
-DESCRIPTION:Atalanta - AC Milan - Serie A - Ítalski boltinn
+SUMMARY:Juventus - Udinese - Serie A - Ítalski boltinn - livey
+DTSTART:20251029T130000
+DTEND:20251029T140000
+DTSTAMP:20251029T130000Z
+UID:2025-10-29T13:00:00/Juventus - Udinese
+DESCRIPTION:Juventus - Udinese - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Como - Hellas Verona - Serie A - Ítalski boltinn - livey
@@ -34,12 +18,12 @@ UID:2025-10-29T13:00:00/Como - Hellas Verona
 DESCRIPTION:Como - Hellas Verona - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Juventus - Udinese - Serie A - Ítalski boltinn - livey
-DTSTART:20251029T130000
-DTEND:20251029T140000
-DTSTAMP:20251029T130000Z
-UID:2025-10-29T13:00:00/Juventus - Udinese
-DESCRIPTION:Juventus - Udinese - Serie A - Ítalski boltinn
+SUMMARY:DFB-Pokal Zone - DFB-Pokal - livey
+DTSTART:20251029T164500
+DTEND:20251029T174500
+DTSTAMP:20251029T164500Z
+UID:2025-10-29T16:45:00/DFB-Pokal Zone
+DESCRIPTION:DFB-Pokal Zone - DFB-Pokal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roma - Parma - Serie A - Ítalski boltinn - livey
@@ -50,12 +34,12 @@ UID:2025-10-29T17:30:00/Roma - Parma
 DESCRIPTION:Roma - Parma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Havre - Brest - Ligue 1 - Franski Boltinn - livey
+SUMMARY:Nice - Lille - Ligue 1 - Franski Boltinn - livey
 DTSTART:20251029T180000
 DTEND:20251029T190000
 DTSTAMP:20251029T180000Z
-UID:2025-10-29T18:00:00/Le Havre - Brest
-DESCRIPTION:Le Havre - Brest - Ligue 1 - Franski Boltinn
+UID:2025-10-29T18:00:00/Nice - Lille
+DESCRIPTION:Nice - Lille - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lorient - PSG - Ligue 1 - Franski Boltinn - livey
@@ -66,12 +50,12 @@ UID:2025-10-29T18:00:00/Lorient - PSG
 DESCRIPTION:Lorient - PSG - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nice - Lille - Ligue 1 - Franski Boltinn - livey
+SUMMARY:Le Havre - Brest - Ligue 1 - Franski Boltinn - livey
 DTSTART:20251029T180000
 DTEND:20251029T190000
 DTSTAMP:20251029T180000Z
-UID:2025-10-29T18:00:00/Nice - Lille
-DESCRIPTION:Nice - Lille - Ligue 1 - Franski Boltinn
+UID:2025-10-29T18:00:00/Le Havre - Brest
+DESCRIPTION:Le Havre - Brest - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Metz - Lens - Ligue 1 - Franski Boltinn - livey
@@ -80,14 +64,6 @@ DTEND:20251029T190000
 DTSTAMP:20251029T180000Z
 UID:2025-10-29T18:00:00/Metz - Lens
 DESCRIPTION:Metz - Lens - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FC Cologne - null - DFB-Pokal - livey
-DTSTART:20251029T194500
-DTEND:20251029T204500
-DTSTAMP:20251029T194500Z
-UID:2025-10-29T19:45:00/FC Cologne - null
-DESCRIPTION:FC Cologne - null - DFB-Pokal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Milan - Fiorentina - Serie A - Ítalski boltinn - livey
@@ -114,6 +90,22 @@ UID:2025-10-29T19:45:00/Bologna - Torino
 DESCRIPTION:Bologna - Torino - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FC Köln - FC Bayern - DFB-Pokal - livey
+DTSTART:20251029T194500
+DTEND:20251029T204500
+DTSTAMP:20251029T194500Z
+UID:2025-10-29T19:45:00/FC Köln - FC Bayern
+DESCRIPTION:FC Köln - FC Bayern - DFB-Pokal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marseille - Angers - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251029T200500
+DTEND:20251029T210500
+DTSTAMP:20251029T200500Z
+UID:2025-10-29T20:05:00/Marseille - Angers
+DESCRIPTION:Marseille - Angers - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RC Strasbourg - Auxerre - Ligue 1 - Franski Boltinn - livey
 DTSTART:20251029T200500
 DTEND:20251029T210500
@@ -128,14 +120,6 @@ DTEND:20251029T210500
 DTSTAMP:20251029T200500Z
 UID:2025-10-29T20:05:00/Paris FC - Lyon
 DESCRIPTION:Paris FC - Lyon - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marseille - Angers - Ligue 1 - Franski Boltinn - livey
-DTSTART:20251029T200500
-DTEND:20251029T210500
-DTSTAMP:20251029T200500Z
-UID:2025-10-29T20:05:00/Marseille - Angers
-DESCRIPTION:Marseille - Angers - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nantes - Monaco - Ligue 1 - Franski Boltinn - livey
