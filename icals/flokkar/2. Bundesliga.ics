@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Elversberg - Hannover - 2. Bundesliga - viaplay
+SUMMARY:Elversberg - Hannover 96 - 2. Bundesliga - synsportviaplay
 DTSTART:20251031T172500
 DTEND:20251031T182500
 DTSTAMP:20251031T172500Z
-UID:2025-10-31T17:25:00/Elversberg - Hannover
-DESCRIPTION:Elversberg - Hannover - 2. Bundesliga
+UID:2025-10-31T17:25:00/Elversberg - Hannover 96
+DESCRIPTION:Elversberg - Hannover 96 - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preußen Münster - Holstein Kiel - 2. Bundesliga - viaplay
@@ -18,20 +18,12 @@ UID:2025-10-31T17:25:00/Preußen Münster - Holstein Kiel
 DESCRIPTION:Preußen Münster - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Hannover 96 - 2. Bundesliga - synsportviaplay
+SUMMARY:Elversberg - Hannover - 2. Bundesliga - viaplay
 DTSTART:20251031T172500
 DTEND:20251031T182500
 DTSTAMP:20251031T172500Z
-UID:2025-10-31T17:25:00/Elversberg - Hannover 96
-DESCRIPTION:Elversberg - Hannover 96 - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nürnberg - Braunschweig - 2. Bundesliga - viaplay
-DTSTART:20251101T115500
-DTEND:20251101T125500
-DTSTAMP:20251101T115500Z
-UID:2025-11-01T11:55:00/Nürnberg - Braunschweig
-DESCRIPTION:Nürnberg - Braunschweig - 2. Bundesliga
+UID:2025-10-31T17:25:00/Elversberg - Hannover
+DESCRIPTION:Elversberg - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Dynamo Dresden - 2. Bundesliga - viaplay
@@ -40,6 +32,14 @@ DTEND:20251101T125500
 DTSTAMP:20251101T115500Z
 UID:2025-11-01T11:55:00/Hertha Berlin - Dynamo Dresden
 DESCRIPTION:Hertha Berlin - Dynamo Dresden - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Braunschweig - 2. Bundesliga - viaplay
+DTSTART:20251101T115500
+DTEND:20251101T125500
+DTSTAMP:20251101T115500Z
+UID:2025-11-01T11:55:00/Nürnberg - Braunschweig
+DESCRIPTION:Nürnberg - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Schalke - 2. Bundesliga - viaplay
@@ -58,12 +58,12 @@ UID:2025-11-01T19:25:00/Darmstadt - Arminia Bielefeld
 DESCRIPTION:Darmstadt - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Magdeburg - 2. Bundesliga - viaplay
+SUMMARY:Düsseldorf - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20251102T122500
 DTEND:20251102T132500
 DTSTAMP:20251102T122500Z
-UID:2025-11-02T12:25:00/Bochum - Magdeburg
-DESCRIPTION:Bochum - Magdeburg - 2. Bundesliga
+UID:2025-11-02T12:25:00/Düsseldorf - Kaiserslautern
+DESCRIPTION:Düsseldorf - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - Greuther Fürth - 2. Bundesliga - viaplay
@@ -74,11 +74,11 @@ UID:2025-11-02T12:25:00/Paderborn - Greuther Fürth
 DESCRIPTION:Paderborn - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Kaiserslautern - 2. Bundesliga - viaplay
+SUMMARY:Bochum - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20251102T122500
 DTEND:20251102T132500
 DTSTAMP:20251102T122500Z
-UID:2025-11-02T12:25:00/Düsseldorf - Kaiserslautern
-DESCRIPTION:Düsseldorf - Kaiserslautern - 2. Bundesliga
+UID:2025-11-02T12:25:00/Bochum - Magdeburg
+DESCRIPTION:Bochum - Magdeburg - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
