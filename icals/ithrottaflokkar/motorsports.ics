@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:NXS Championship (Xfinity Series) - Nascar - viaplay
-DTSTART:20251031T230000
-DTEND:20251101T000000
-DTSTAMP:20251031T230000Z
-UID:2025-10-31T23:00:00/NXS Championship (Xfinity Series)
-DESCRIPTION:NXS Championship (Xfinity Series) - Nascar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NASCAR Craftsman Truck Series Championship Race (Truck Series) - N
  ascar - viaplay
 DTSTART:20251031T233000
@@ -21,13 +13,12 @@ DESCRIPTION:NASCAR Craftsman Truck Series Championship Race (Truck Series)
   - Nascar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NASCAR Cup Series Championship - Nascar Cup Series - synsportviapl
- ay
-DTSTART:20251102T193000
-DTEND:20251102T203000
-DTSTAMP:20251102T193000Z
-UID:2025-11-02T19:30:00/NASCAR Cup Series Championship
-DESCRIPTION:NASCAR Cup Series Championship - Nascar Cup Series
+SUMMARY:NXS Championship (Xfinity Series) - Nascar - viaplay
+DTSTART:20251101T230000
+DTEND:20251102T000000
+DTSTAMP:20251101T230000Z
+UID:2025-11-01T23:00:00/NXS Championship (Xfinity Series)
+DESCRIPTION:NXS Championship (Xfinity Series) - Nascar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NCS Championship Race (Kappakstur) - Nascar - viaplay
@@ -36,5 +27,14 @@ DTEND:20251102T203000
 DTSTAMP:20251102T193000Z
 UID:2025-11-02T19:30:00/NCS Championship Race (Kappakstur)
 DESCRIPTION:NCS Championship Race (Kappakstur) - Nascar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NASCAR Cup Series Championship - Nascar Cup Series - synsportviapl
+ ay
+DTSTART:20251102T193000
+DTEND:20251102T203000
+DTSTAMP:20251102T193000Z
+UID:2025-11-02T19:30:00/NASCAR Cup Series Championship
+DESCRIPTION:NASCAR Cup Series Championship - Nascar Cup Series
 END:VEVENT
 END:VCALENDAR
