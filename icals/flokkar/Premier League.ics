@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Nott. Forest - Man. Utd. - Premier League - synsport2
-DTSTART:20251101T144000
-DTEND:20251101T154000
-DTSTAMP:20251101T144000Z
-UID:2025-11-01T14:40:00/Nott. Forest - Man. Utd.
-DESCRIPTION:Nott. Forest - Man. Utd. - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20251101T144000
 DTEND:20251101T154000
@@ -18,12 +10,12 @@ UID:2025-11-01T14:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Arsenal - Premier League - synsport3
+SUMMARY:Nott. Forest - Man. Utd. - Premier League - synsport2
 DTSTART:20251101T144000
 DTEND:20251101T154000
 DTSTAMP:20251101T144000Z
-UID:2025-11-01T14:40:00/Burnley - Arsenal
-DESCRIPTION:Burnley - Arsenal - Premier League
+UID:2025-11-01T14:40:00/Nott. Forest - Man. Utd.
+DESCRIPTION:Nott. Forest - Man. Utd. - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brighton - Leeds - Premier League - synsport4
@@ -32,6 +24,14 @@ DTEND:20251101T154000
 DTSTAMP:20251101T144000Z
 UID:2025-11-01T14:40:00/Brighton - Leeds
 DESCRIPTION:Brighton - Leeds - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Arsenal - Premier League - synsport3
+DTSTART:20251101T144000
+DTEND:20251101T154000
+DTSTAMP:20251101T144000Z
+UID:2025-11-01T14:40:00/Burnley - Arsenal
+DESCRIPTION:Burnley - Arsenal - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Wolves - Premier League - synsport6
@@ -50,20 +50,20 @@ UID:2025-11-01T14:50:00/Crystal Palace - Brentford
 DESCRIPTION:Crystal Palace - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Chelsea - Premier League - synsport
-DTSTART:20251101T172000
-DTEND:20251101T182000
-DTSTAMP:20251101T172000Z
-UID:2025-11-01T17:20:00/Tottenham - Chelsea
-DESCRIPTION:Tottenham - Chelsea - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tottenham - Chelsea: Data Zone - Premier League - synsport2
 DTSTART:20251101T172000
 DTEND:20251101T182000
 DTSTAMP:20251101T172000Z
 UID:2025-11-01T17:20:00/Tottenham - Chelsea: Data Zone
 DESCRIPTION:Tottenham - Chelsea: Data Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Chelsea - Premier League - synsport
+DTSTART:20251101T172000
+DTEND:20251101T182000
+DTSTAMP:20251101T172000Z
+UID:2025-11-01T17:20:00/Tottenham - Chelsea
+DESCRIPTION:Tottenham - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport
