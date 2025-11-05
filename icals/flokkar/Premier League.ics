@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:VARsjáin - Premier League - synsport2
-DTSTART:20251104T221000
-DTEND:20251104T231000
-DTSTAMP:20251104T221000Z
-UID:2025-11-04T22:10:00/VARsjáin
-DESCRIPTION:VARsjáin - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Big Ben - Premier League - synsport
 DTSTART:20251106T221000
 DTEND:20251106T231000
@@ -26,14 +18,6 @@ UID:2025-11-08T11:50:00/Tottenham - Man. Utd.
 DESCRIPTION:Tottenham - Man. Utd. - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Fulham - Premier League - synsport2
-DTSTART:20251108T144000
-DTEND:20251108T154000
-DTSTAMP:20251108T144000Z
-UID:2025-11-08T14:40:00/Everton - Fulham
-DESCRIPTION:Everton - Fulham - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20251108T144000
 DTEND:20251108T154000
@@ -48,6 +32,14 @@ DTEND:20251108T154000
 DTSTAMP:20251108T144000Z
 UID:2025-11-08T14:40:00/West Ham - Burnley
 DESCRIPTION:West Ham - Burnley - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Fulham - Premier League - synsport2
+DTSTART:20251108T144000
+DTEND:20251108T154000
+DTSTAMP:20251108T144000Z
+UID:2025-11-08T14:40:00/Everton - Fulham
+DESCRIPTION:Everton - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Arsenal - Premier League - synsport
@@ -74,12 +66,12 @@ UID:2025-11-08T22:05:00/Laugardagsmörkin
 DESCRIPTION:Laugardagsmörkin - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Newcastle  - Premier League - synsport3
+SUMMARY:Crystal Palace - Brighton - Premier League - synsport4
 DTSTART:20251109T134000
 DTEND:20251109T144000
 DTSTAMP:20251109T134000Z
-UID:2025-11-09T13:40:00/Brentford - Newcastle 
-DESCRIPTION:Brentford - Newcastle  - Premier League
+UID:2025-11-09T13:40:00/Crystal Palace - Brighton
+DESCRIPTION:Crystal Palace - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nott. Forest - Leeds - Premier League - synsport2
@@ -90,12 +82,12 @@ UID:2025-11-09T13:40:00/Nott. Forest - Leeds
 DESCRIPTION:Nott. Forest - Leeds - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Brighton - Premier League - synsport4
+SUMMARY:Brentford - Newcastle  - Premier League - synsport3
 DTSTART:20251109T134000
 DTEND:20251109T144000
 DTSTAMP:20251109T134000Z
-UID:2025-11-09T13:40:00/Crystal Palace - Brighton
-DESCRIPTION:Crystal Palace - Brighton - Premier League
+UID:2025-11-09T13:40:00/Brentford - Newcastle 
+DESCRIPTION:Brentford - Newcastle  - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aston Villa - Bournemouth - Premier League - synsport5
@@ -128,5 +120,13 @@ DTEND:20251109T194500
 DTSTAMP:20251109T184500Z
 UID:2025-11-09T18:45:00/Sunnudagsmessan
 DESCRIPTION:Sunnudagsmessan - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VARsjáin - Premier League - synsport
+DTSTART:20251111T200000
+DTEND:20251111T210000
+DTSTAMP:20251111T200000Z
+UID:2025-11-11T20:00:00/VARsjáin
+DESCRIPTION:VARsjáin - Premier League
 END:VEVENT
 END:VCALENDAR

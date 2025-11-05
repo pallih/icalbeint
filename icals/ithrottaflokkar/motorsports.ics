@@ -69,15 +69,6 @@ DESCRIPTION:Track Positioning (Brasilíski Kappaksturinn | Æfing 1) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Brasilíski Kappaksturinn | Æfing 1) - Formula 1 - viapl
- ay
-DTSTART:20251107T143000
-DTEND:20251107T153000
-DTSTAMP:20251107T143000Z
-UID:2025-11-07T14:30:00/Pitlane (Brasilíski Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Brasilíski Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Brasilíski Kappaksturinn | Æfing 1) - Formula 1 - viapla
  y
 DTSTART:20251107T143000
@@ -94,6 +85,15 @@ DTEND:20251107T153000
 DTSTAMP:20251107T143000Z
 UID:2025-11-07T14:30:00/Onboard (Brasilíski Kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Brasilíski Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Brasilíski Kappaksturinn | Æfing 1) - Formula 1 - viapl
+ ay
+DTSTART:20251107T143000
+DTEND:20251107T153000
+DTSTAMP:20251107T143000Z
+UID:2025-11-07T14:30:00/Pitlane (Brasilíski Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Brasilíski Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portugal Grand Prix (Æfing) - MotoGP - viaplay
@@ -120,15 +120,15 @@ UID:2025-11-07T18:25:00/Brasilíski Kappaksturinn (Sprint Shootout)
 DESCRIPTION:Brasilíski Kappaksturinn (Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Brasilíski Kappaksturinn | Sprint Shootout) - 
- Formula 1 - viaplay
+SUMMARY:Onboard (Brasilíski Kappaksturinn | Sprint Shootout) - Formula 1 
+ - viaplay
 DTSTART:20251107T183000
 DTEND:20251107T193000
 DTSTAMP:20251107T183000Z
-UID:2025-11-07T18:30:00/Track Positioning (Brasilíski Kappaksturinn | Spr
- int Shootout)
-DESCRIPTION:Track Positioning (Brasilíski Kappaksturinn | Sprint Shootout
- ) - Formula 1
+UID:2025-11-07T18:30:00/Onboard (Brasilíski Kappaksturinn | Sprint Shooto
+ ut)
+DESCRIPTION:Onboard (Brasilíski Kappaksturinn | Sprint Shootout) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Brasilíski Kappaksturinn | Sprint Shootout) - Formula 1 
@@ -142,6 +142,17 @@ DESCRIPTION:Pitlane (Brasilíski Kappaksturinn | Sprint Shootout) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Brasilíski Kappaksturinn | Sprint Shootout) - 
+ Formula 1 - viaplay
+DTSTART:20251107T183000
+DTEND:20251107T193000
+DTSTAMP:20251107T183000Z
+UID:2025-11-07T18:30:00/Track Positioning (Brasilíski Kappaksturinn | Spr
+ int Shootout)
+DESCRIPTION:Track Positioning (Brasilíski Kappaksturinn | Sprint Shootout
+ ) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Brasilíski Kappaksturinn | Sprint Shootout) - Formula 1 -
   viaplay
 DTSTART:20251107T183000
@@ -151,17 +162,6 @@ UID:2025-11-07T18:30:00/Timing (Brasilíski Kappaksturinn | Sprint Shootou
  t)
 DESCRIPTION:Timing (Brasilíski Kappaksturinn | Sprint Shootout) - Formula
   1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Brasilíski Kappaksturinn | Sprint Shootout) - Formula 1 
- - viaplay
-DTSTART:20251107T183000
-DTEND:20251107T193000
-DTSTAMP:20251107T183000Z
-UID:2025-11-07T18:30:00/Onboard (Brasilíski Kappaksturinn | Sprint Shooto
- ut)
-DESCRIPTION:Onboard (Brasilíski Kappaksturinn | Sprint Shootout) - Formul
- a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portúgal Grand Prix (Frjáls æfing 2) - Moto3 - viaplay
@@ -212,6 +212,14 @@ UID:2025-11-08T13:40:00/Portúgal Grand Prix (Tímatökur)
 DESCRIPTION:Portúgal Grand Prix (Tímatökur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:F1: Brasilía - Sprint keppni - Formúla 1 - synsportviaplay
+DTSTART:20251108T135500
+DTEND:20251108T145500
+DTSTAMP:20251108T135500Z
+UID:2025-11-08T13:55:00/F1: Brasilía - Sprint keppni
+DESCRIPTION:F1: Brasilía - Sprint keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brasilíski Kappaksturinn (Sprettkeppni) - Formula 1 - viaplay
 DTSTART:20251108T135500
 DTEND:20251108T145500
@@ -220,12 +228,22 @@ UID:2025-11-08T13:55:00/Brasilíski Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Brasilíski Kappaksturinn (Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Brasilía - Sprint keppni - Formúla 1 - synsportviaplay
-DTSTART:20251108T135500
-DTEND:20251108T145500
-DTSTAMP:20251108T135500Z
-UID:2025-11-08T13:55:00/F1: Brasilía - Sprint keppni
-DESCRIPTION:F1: Brasilía - Sprint keppni - Formúla 1
+SUMMARY:Timing (Brasilíski Kappaksturinn | Sprettkeppni) - Formula 1 - vi
+ aplay
+DTSTART:20251108T140000
+DTEND:20251108T150000
+DTSTAMP:20251108T140000Z
+UID:2025-11-08T14:00:00/Timing (Brasilíski Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Timing (Brasilíski Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Brasilíski Kappaksturinn | Sprettkeppni) - Formula 1 - v
+ iaplay
+DTSTART:20251108T140000
+DTEND:20251108T150000
+DTSTAMP:20251108T140000Z
+UID:2025-11-08T14:00:00/Pitlane (Brasilíski Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Pitlane (Brasilíski Kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Brasilíski Kappaksturinn | Sprettkeppni) - Formula 1 - v
@@ -246,24 +264,6 @@ UID:2025-11-08T14:00:00/Track Positioning (Brasilíski Kappaksturinn | Spr
  ettkeppni)
 DESCRIPTION:Track Positioning (Brasilíski Kappaksturinn | Sprettkeppni) -
   Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Brasilíski Kappaksturinn | Sprettkeppni) - Formula 1 - vi
- aplay
-DTSTART:20251108T140000
-DTEND:20251108T150000
-DTSTAMP:20251108T140000Z
-UID:2025-11-08T14:00:00/Timing (Brasilíski Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Timing (Brasilíski Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Brasilíski Kappaksturinn | Sprettkeppni) - Formula 1 - v
- iaplay
-DTSTART:20251108T140000
-DTEND:20251108T150000
-DTSTAMP:20251108T140000Z
-UID:2025-11-08T14:00:00/Pitlane (Brasilíski Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Pitlane (Brasilíski Kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portúgal Grand Prix (Sprettkeppni) - MotoGP - viaplay
@@ -290,13 +290,22 @@ UID:2025-11-08T17:45:00/Brasilíski Kappaksturinn (Tímatökur)
 DESCRIPTION:Brasilíski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Brasilíski Kappaksturinn | Tímatökur) - Formula 1 - vi
+SUMMARY:Timing (Brasilíski Kappaksturinn | Tímatökur) - Formula 1 - via
+ play
+DTSTART:20251108T180000
+DTEND:20251108T190000
+DTSTAMP:20251108T180000Z
+UID:2025-11-08T18:00:00/Timing (Brasilíski Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Brasilíski Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Brasilíski Kappaksturinn | Tímatökur) - Formula 1 - vi
  aplay
 DTSTART:20251108T180000
 DTEND:20251108T190000
 DTSTAMP:20251108T180000Z
-UID:2025-11-08T18:00:00/Onboard (Brasilíski Kappaksturinn | Tímatökur)
-DESCRIPTION:Onboard (Brasilíski Kappaksturinn | Tímatökur) - Formula 1
+UID:2025-11-08T18:00:00/Pitlane (Brasilíski Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Brasilíski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Brasilíski Kappaksturinn | Tímatökur) - Form
@@ -310,22 +319,13 @@ DESCRIPTION:Track Positioning (Brasilíski Kappaksturinn | Tímatökur) -
  Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Brasilíski Kappaksturinn | Tímatökur) - Formula 1 - vi
+SUMMARY:Onboard (Brasilíski Kappaksturinn | Tímatökur) - Formula 1 - vi
  aplay
 DTSTART:20251108T180000
 DTEND:20251108T190000
 DTSTAMP:20251108T180000Z
-UID:2025-11-08T18:00:00/Pitlane (Brasilíski Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Brasilíski Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Brasilíski Kappaksturinn | Tímatökur) - Formula 1 - via
- play
-DTSTART:20251108T180000
-DTEND:20251108T190000
-DTSTAMP:20251108T180000Z
-UID:2025-11-08T18:00:00/Timing (Brasilíski Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Brasilíski Kappaksturinn | Tímatökur) - Formula 1
+UID:2025-11-08T18:00:00/Onboard (Brasilíski Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Brasilíski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portúgal Grand Prix (Warm Up) - MotoGP - viaplay
@@ -360,20 +360,20 @@ UID:2025-11-09T14:15:00/Portúgal Grand Prix (Kappakstur)
 DESCRIPTION:Portúgal Grand Prix (Kappakstur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brasilíski Kappaksturinn (Kappakstur) - Formula 1 - viaplay
-DTSTART:20251109T163000
-DTEND:20251109T173000
-DTSTAMP:20251109T163000Z
-UID:2025-11-09T16:30:00/Brasilíski Kappaksturinn (Kappakstur)
-DESCRIPTION:Brasilíski Kappaksturinn (Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Brasilía - Keppni - Formúla 1 - synsportviaplay
 DTSTART:20251109T163000
 DTEND:20251109T173000
 DTSTAMP:20251109T163000Z
 UID:2025-11-09T16:30:00/F1: Brasilía - Keppni
 DESCRIPTION:F1: Brasilía - Keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brasilíski Kappaksturinn (Kappakstur) - Formula 1 - viaplay
+DTSTART:20251109T163000
+DTEND:20251109T173000
+DTSTAMP:20251109T163000Z
+UID:2025-11-09T16:30:00/Brasilíski Kappaksturinn (Kappakstur)
+DESCRIPTION:Brasilíski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1 Kids: Brasilíski Kappaksturinn (Kappakstur) - Formula 1 - viap
@@ -385,6 +385,17 @@ UID:2025-11-09T16:55:00/F1 Kids: Brasilíski Kappaksturinn (Kappakstur)
 DESCRIPTION:F1 Kids: Brasilíski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Brasilíski Kappaksturinn | Kappakstur) - Formu
+ la 1 - viaplay
+DTSTART:20251109T170000
+DTEND:20251109T180000
+DTSTAMP:20251109T170000Z
+UID:2025-11-09T17:00:00/Track Positioning (Brasilíski Kappaksturinn | Kap
+ pakstur)
+DESCRIPTION:Track Positioning (Brasilíski Kappaksturinn | Kappakstur) - F
+ ormula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Brasilíski Kappaksturinn | Kappakstur) - Formula 1 - viap
  lay
 DTSTART:20251109T170000
@@ -392,15 +403,6 @@ DTEND:20251109T180000
 DTSTAMP:20251109T170000Z
 UID:2025-11-09T17:00:00/Timing (Brasilíski Kappaksturinn | Kappakstur)
 DESCRIPTION:Timing (Brasilíski Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Brasilíski Kappaksturinn | Kappakstur) - Formula 1 - via
- play
-DTSTART:20251109T170000
-DTEND:20251109T180000
-DTSTAMP:20251109T170000Z
-UID:2025-11-09T17:00:00/Pitlane (Brasilíski Kappaksturinn | Kappakstur)
-DESCRIPTION:Pitlane (Brasilíski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Brasilíski Kappaksturinn | Kappakstur) - Formula 1 - via
@@ -412,14 +414,12 @@ UID:2025-11-09T17:00:00/Onboard (Brasilíski Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Brasilíski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Brasilíski Kappaksturinn | Kappakstur) - Formu
- la 1 - viaplay
+SUMMARY:Pitlane (Brasilíski Kappaksturinn | Kappakstur) - Formula 1 - via
+ play
 DTSTART:20251109T170000
 DTEND:20251109T180000
 DTSTAMP:20251109T170000Z
-UID:2025-11-09T17:00:00/Track Positioning (Brasilíski Kappaksturinn | Kap
- pakstur)
-DESCRIPTION:Track Positioning (Brasilíski Kappaksturinn | Kappakstur) - F
- ormula 1
+UID:2025-11-09T17:00:00/Pitlane (Brasilíski Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Brasilíski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 END:VCALENDAR
