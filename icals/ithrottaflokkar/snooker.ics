@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - snooker - ical
 BEGIN:VEVENT
-SUMMARY:Champion of Champions - Snóker - viaplay
-DTSTART:20251110T124000
-DTEND:20251110T134000
-DTSTAMP:20251110T124000Z
-UID:2025-11-10T12:40:00/Champion of Champions
-DESCRIPTION:Champion of Champions - Snóker
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Champion of Champions - Dagur 1 - Matchroom Snooker - synsportviap
  lay
 DTSTART:20251110T124500
@@ -20,18 +12,18 @@ DESCRIPTION:Champion of Champions - Dagur 1 - Matchroom Snooker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Champion of Champions - Snóker - viaplay
-DTSTART:20251110T184500
-DTEND:20251110T194500
-DTSTAMP:20251110T184500Z
-UID:2025-11-10T18:45:00/Champion of Champions
+DTSTART:20251110T124500
+DTEND:20251110T134500
+DTSTAMP:20251110T124500Z
+UID:2025-11-10T12:45:00/Champion of Champions
 DESCRIPTION:Champion of Champions - Snóker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Champion of Champions - Snóker - viaplay
-DTSTART:20251111T124000
-DTEND:20251111T134000
-DTSTAMP:20251111T124000Z
-UID:2025-11-11T12:40:00/Champion of Champions
+DTSTART:20251110T184500
+DTEND:20251110T194500
+DTSTAMP:20251110T184500Z
+UID:2025-11-10T18:45:00/Champion of Champions
 DESCRIPTION:Champion of Champions - Snóker
 END:VEVENT
 BEGIN:VEVENT
@@ -44,13 +36,12 @@ UID:2025-11-11T12:45:00/Champion of Champions - Dagur 2
 DESCRIPTION:Champion of Champions - Dagur 2 - Matchroom Snooker
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Champion of Champions - Kvöld 2 - Matchroom Snooker - synsportvia
- play
-DTSTART:20251111T184500
-DTEND:20251111T194500
-DTSTAMP:20251111T184500Z
-UID:2025-11-11T18:45:00/Champion of Champions - Kvöld 2
-DESCRIPTION:Champion of Champions - Kvöld 2 - Matchroom Snooker
+SUMMARY:Champion of Champions - Snóker - viaplay
+DTSTART:20251111T124500
+DTEND:20251111T134500
+DTSTAMP:20251111T124500Z
+UID:2025-11-11T12:45:00/Champion of Champions
+DESCRIPTION:Champion of Champions - Snóker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Champion of Champions - Snóker - viaplay
@@ -61,12 +52,13 @@ UID:2025-11-11T18:45:00/Champion of Champions
 DESCRIPTION:Champion of Champions - Snóker
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Champion of Champions - Snóker - viaplay
-DTSTART:20251112T124500
-DTEND:20251112T134500
-DTSTAMP:20251112T124500Z
-UID:2025-11-12T12:45:00/Champion of Champions
-DESCRIPTION:Champion of Champions - Snóker
+SUMMARY:Champion of Champions - Kvöld 2 - Matchroom Snooker - synsportvia
+ play
+DTSTART:20251111T184500
+DTEND:20251111T194500
+DTSTAMP:20251111T184500Z
+UID:2025-11-11T18:45:00/Champion of Champions - Kvöld 2
+DESCRIPTION:Champion of Champions - Kvöld 2 - Matchroom Snooker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Champion of Champions - Dagur 3 - Matchroom Snooker - synsportviap
@@ -76,6 +68,14 @@ DTEND:20251112T134500
 DTSTAMP:20251112T124500Z
 UID:2025-11-12T12:45:00/Champion of Champions - Dagur 3
 DESCRIPTION:Champion of Champions - Dagur 3 - Matchroom Snooker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champion of Champions - Snóker - viaplay
+DTSTART:20251112T124500
+DTEND:20251112T134500
+DTSTAMP:20251112T124500Z
+UID:2025-11-12T12:45:00/Champion of Champions
+DESCRIPTION:Champion of Champions - Snóker
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Champion of Champions - Kvöld 3 - Matchroom Snooker - synsportvia
@@ -108,6 +108,14 @@ DTSTART:20251113T184500
 DTEND:20251113T194500
 DTSTAMP:20251113T184500Z
 UID:2025-11-13T18:45:00/Champion of Champions
+DESCRIPTION:Champion of Champions - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champion of Champions - Snóker - viaplay
+DTSTART:20251114T184000
+DTEND:20251114T194000
+DTSTAMP:20251114T184000Z
+UID:2025-11-14T18:40:00/Champion of Champions
 DESCRIPTION:Champion of Champions - Snóker
 END:VEVENT
 END:VCALENDAR
