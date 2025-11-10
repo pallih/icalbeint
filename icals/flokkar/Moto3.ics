@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Moto3 - ical
 BEGIN:VEVENT
-SUMMARY:Portúgal Grand Prix (Kappakstur) - Moto3 - viaplay
-DTSTART:20251109T141500
-DTEND:20251109T151500
-DTSTAMP:20251109T141500Z
-UID:2025-11-09T14:15:00/Portúgal Grand Prix (Kappakstur)
-DESCRIPTION:Portúgal Grand Prix (Kappakstur) - Moto3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valensía Kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
 DTSTART:20251114T075500
 DTEND:20251114T085500
@@ -40,5 +32,13 @@ DTEND:20251115T124500
 DTSTAMP:20251115T114500Z
 UID:2025-11-15T11:45:00/Valensía Kappaksturinn (Tímatökur)
 DESCRIPTION:Valensía Kappaksturinn (Tímatökur) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valensía Kappaksturinn (Kappakstur) - Moto3 - viaplay
+DTSTART:20251116T094500
+DTEND:20251116T104500
+DTSTAMP:20251116T094500Z
+UID:2025-11-16T09:45:00/Valensía Kappaksturinn (Kappakstur)
+DESCRIPTION:Valensía Kappaksturinn (Kappakstur) - Moto3
 END:VEVENT
 END:VCALENDAR
