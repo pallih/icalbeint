@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Aserbaísjan - Ísland - Undankeppi HM 2026 - synsport
-DTSTART:20251113T163000
-DTEND:20251113T173000
-DTSTAMP:20251113T163000Z
-UID:2025-11-13T16:30:00/Aserbaísjan - Ísland
-DESCRIPTION:Aserbaísjan - Ísland - Undankeppi HM 2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aserbaísjan - Ísland - Undankeppni HM - viaplay
 DTSTART:20251113T163000
 DTEND:20251113T173000
 DTSTAMP:20251113T163000Z
 UID:2025-11-13T16:30:00/Aserbaísjan - Ísland
 DESCRIPTION:Aserbaísjan - Ísland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aserbaísjan - Ísland - Undankeppi HM 2026 - synsport
+DTSTART:20251113T163000
+DTEND:20251113T173000
+DTSTAMP:20251113T163000Z
+UID:2025-11-13T16:30:00/Aserbaísjan - Ísland
+DESCRIPTION:Aserbaísjan - Ísland - Undankeppi HM 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
@@ -42,20 +42,20 @@ UID:2025-11-13T16:50:00/Noregur - Eistland
 DESCRIPTION:Noregur - Eistland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Noregur - Eistland - Undankeppni HM 2026 - synsportviaplay
+DTSTART:20251113T165000
+DTEND:20251113T175000
+DTSTAMP:20251113T165000Z
+UID:2025-11-13T16:50:00/Noregur - Eistland
+DESCRIPTION:Noregur - Eistland - Undankeppni HM 2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Norður-Makedónía - Lettland - Landsleikur - viaplay
 DTSTART:20251113T165000
 DTEND:20251113T175000
 DTSTAMP:20251113T165000Z
 UID:2025-11-13T16:50:00/Norður-Makedónía - Lettland
 DESCRIPTION:Norður-Makedónía - Lettland - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Litháen - Ísrael - Landsleikur - viaplay
-DTSTART:20251113T165000
-DTEND:20251113T175000
-DTSTAMP:20251113T165000Z
-UID:2025-11-13T16:50:00/Litháen - Ísrael
-DESCRIPTION:Litháen - Ísrael - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tékkland - San Marínó - Landsleikur - viaplay
@@ -66,12 +66,12 @@ UID:2025-11-13T16:50:00/Tékkland - San Marínó
 DESCRIPTION:Tékkland - San Marínó - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Noregur - Eistland - Undankeppni HM 2026 - synsportviaplay
+SUMMARY:Litháen - Ísrael - Landsleikur - viaplay
 DTSTART:20251113T165000
 DTEND:20251113T175000
 DTSTAMP:20251113T165000Z
-UID:2025-11-13T16:50:00/Noregur - Eistland
-DESCRIPTION:Noregur - Eistland - Undankeppni HM 2026
+UID:2025-11-13T16:50:00/Litháen - Ísrael
+DESCRIPTION:Litháen - Ísrael - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lúxemborg - Ísland - Undankeppni EM U21 - synsport2
@@ -90,14 +90,6 @@ UID:2025-11-13T19:00:00/Aserbaísjan - Ísland: Uppgjör
 DESCRIPTION:Aserbaísjan - Ísland: Uppgjör - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Moldóva - Ítalía - Undankeppni HM - viaplay
-DTSTART:20251113T193500
-DTEND:20251113T203500
-DTSTAMP:20251113T193500Z
-UID:2025-11-13T19:35:00/Moldóva - Ítalía
-DESCRIPTION:Moldóva - Ítalía - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:England - Serbía - Undankeppni HM - viaplay
 DTSTART:20251113T193500
 DTEND:20251113T203500
@@ -114,12 +106,20 @@ UID:2025-11-13T19:35:00/Andorra - Albanía
 DESCRIPTION:Andorra - Albanía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frakkland - Úkraína - Undankeppni HM 2026 - synsportviaplay
+SUMMARY:Moldóva - Ítalía - Undankeppni HM - viaplay
 DTSTART:20251113T193500
 DTEND:20251113T203500
 DTSTAMP:20251113T193500Z
-UID:2025-11-13T19:35:00/Frakkland - Úkraína
-DESCRIPTION:Frakkland - Úkraína - Undankeppni HM 2026
+UID:2025-11-13T19:35:00/Moldóva - Ítalía
+DESCRIPTION:Moldóva - Ítalía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Írland - Portúgal - Undankeppni HM - viaplay
+DTSTART:20251113T193500
+DTEND:20251113T203500
+DTSTAMP:20251113T193500Z
+UID:2025-11-13T19:35:00/Írland - Portúgal
+DESCRIPTION:Írland - Portúgal - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frakkland - Úkraína - Undankeppni HM - viaplay
@@ -130,12 +130,12 @@ UID:2025-11-13T19:35:00/Frakkland - Úkraína
 DESCRIPTION:Frakkland - Úkraína - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Írland - Portúgal - Undankeppni HM - viaplay
+SUMMARY:Frakkland - Úkraína - Undankeppni HM 2026 - synsportviaplay
 DTSTART:20251113T193500
 DTEND:20251113T203500
 DTSTAMP:20251113T193500Z
-UID:2025-11-13T19:35:00/Írland - Portúgal
-DESCRIPTION:Írland - Portúgal - Undankeppni HM
+UID:2025-11-13T19:35:00/Frakkland - Úkraína
+DESCRIPTION:Frakkland - Úkraína - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
@@ -187,20 +187,12 @@ UID:2025-11-14T19:35:00/Króatía - Færeyjar
 DESCRIPTION:Króatía - Færeyjar - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pólland - Holland - Undankeppni HM - viaplay
+SUMMARY:Gíbraltar - Svartfjallaland - Undankeppni HM - viaplay
 DTSTART:20251114T193500
 DTEND:20251114T203500
 DTSTAMP:20251114T193500Z
-UID:2025-11-14T19:35:00/Pólland - Holland
-DESCRIPTION:Pólland - Holland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lúxemborg - Þýskaland - Undankeppni HM - viaplay
-DTSTART:20251114T193500
-DTEND:20251114T203500
-DTSTAMP:20251114T193500Z
-UID:2025-11-14T19:35:00/Lúxemborg - Þýskaland
-DESCRIPTION:Lúxemborg - Þýskaland - Undankeppni HM
+UID:2025-11-14T19:35:00/Gíbraltar - Svartfjallaland
+DESCRIPTION:Gíbraltar - Svartfjallaland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Króatía - Færeyjar - Undankeppni HM - viaplay
@@ -211,12 +203,20 @@ UID:2025-11-14T19:35:00/Króatía - Færeyjar
 DESCRIPTION:Króatía - Færeyjar - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gíbraltar - Svartfjallaland - Undankeppni HM - viaplay
+SUMMARY:Lúxemborg - Þýskaland - Undankeppni HM - viaplay
 DTSTART:20251114T193500
 DTEND:20251114T203500
 DTSTAMP:20251114T193500Z
-UID:2025-11-14T19:35:00/Gíbraltar - Svartfjallaland
-DESCRIPTION:Gíbraltar - Svartfjallaland - Undankeppni HM
+UID:2025-11-14T19:35:00/Lúxemborg - Þýskaland
+DESCRIPTION:Lúxemborg - Þýskaland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pólland - Holland - Undankeppni HM - viaplay
+DTSTART:20251114T193500
+DTEND:20251114T203500
+DTSTAMP:20251114T193500Z
+UID:2025-11-14T19:35:00/Pólland - Holland
+DESCRIPTION:Pólland - Holland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Carl Zeiss Jena - DFB-Pokal Frauen - viaplay
@@ -236,20 +236,20 @@ UID:2025-11-15T13:00:00/FIFA World Cup 2026 Qualifiers: Highlights
 DESCRIPTION:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kazakhstan - Belgía - Undankeppni HM 2026 - synsportviaplay
-DTSTART:20251115T135000
-DTEND:20251115T145000
-DTSTAMP:20251115T135000Z
-UID:2025-11-15T13:50:00/Kazakhstan - Belgía
-DESCRIPTION:Kazakhstan - Belgía - Undankeppni HM 2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kasakstan - Belgía - Undankeppni HM - viaplay
 DTSTART:20251115T135000
 DTEND:20251115T145000
 DTSTAMP:20251115T135000Z
 UID:2025-11-15T13:50:00/Kasakstan - Belgía
 DESCRIPTION:Kasakstan - Belgía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kazakhstan - Belgía - Undankeppni HM 2026 - synsportviaplay
+DTSTART:20251115T135000
+DTEND:20251115T145000
+DTSTAMP:20251115T135000Z
+UID:2025-11-15T13:50:00/Kazakhstan - Belgía
+DESCRIPTION:Kazakhstan - Belgía - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Freiburg - DFB-Pokal Frauen - viaplay
@@ -268,12 +268,20 @@ UID:2025-11-15T16:45:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgía - Spánn - Undankeppni HM - viaplay
+SUMMARY:Kýpur - Austurríki - Undankeppni HM - viaplay
 DTSTART:20251115T165000
 DTEND:20251115T175000
 DTSTAMP:20251115T165000Z
-UID:2025-11-15T16:50:00/Georgía - Spánn
-DESCRIPTION:Georgía - Spánn - Undankeppni HM
+UID:2025-11-15T16:50:00/Kýpur - Austurríki
+DESCRIPTION:Kýpur - Austurríki - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tyrkland - Búlgaría - Undankeppni HM - viaplay
+DTSTART:20251115T165000
+DTEND:20251115T175000
+DTSTAMP:20251115T165000Z
+UID:2025-11-15T16:50:00/Tyrkland - Búlgaría
+DESCRIPTION:Tyrkland - Búlgaría - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liechtenstein - Wales - Undankeppni HM - viaplay
@@ -284,12 +292,12 @@ UID:2025-11-15T16:50:00/Liechtenstein - Wales
 DESCRIPTION:Liechtenstein - Wales - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kýpur - Austurríki - Undankeppni HM - viaplay
+SUMMARY:Georgía - Spánn - Undankeppni HM - viaplay
 DTSTART:20251115T165000
 DTEND:20251115T175000
 DTSTAMP:20251115T165000Z
-UID:2025-11-15T16:50:00/Kýpur - Austurríki
-DESCRIPTION:Kýpur - Austurríki - Undankeppni HM
+UID:2025-11-15T16:50:00/Georgía - Spánn
+DESCRIPTION:Georgía - Spánn - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Georgia - Spánn - Undankeppni HM 2026 - synsportviaplay
@@ -298,14 +306,6 @@ DTEND:20251115T175000
 DTSTAMP:20251115T165000Z
 UID:2025-11-15T16:50:00/Georgia - Spánn
 DESCRIPTION:Georgia - Spánn - Undankeppni HM 2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tyrkland - Búlgaría - Undankeppni HM - viaplay
-DTSTART:20251115T165000
-DTEND:20251115T175000
-DTSTAMP:20251115T165000Z
-UID:2025-11-15T16:50:00/Tyrkland - Búlgaría
-DESCRIPTION:Tyrkland - Búlgaría - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gillingham - Crawley - League Two - viaplay
@@ -364,36 +364,20 @@ UID:2025-11-15T19:35:00/Sviss - Svíþjóð
 DESCRIPTION:Sviss - Svíþjóð - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hammarby - Brommapojkarna - OBOS Damallsvenskan - viaplay
-DTSTART:20251116T125000
-DTEND:20251116T135000
-DTSTAMP:20251116T125000Z
-UID:2025-11-16T12:50:00/Hammarby - Brommapojkarna
-DESCRIPTION:Hammarby - Brommapojkarna - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kristianstad - Alingsås - OBOS Damallsvenskan - viaplay
-DTSTART:20251116T125000
-DTEND:20251116T135000
-DTSTAMP:20251116T125000Z
-UID:2025-11-16T12:50:00/Kristianstad - Alingsås
-DESCRIPTION:Kristianstad - Alingsås - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rosengård - Linköping - OBOS Damallsvenskan - viaplay
-DTSTART:20251116T125000
-DTEND:20251116T135000
-DTSTAMP:20251116T125000Z
-UID:2025-11-16T12:50:00/Rosengård - Linköping
-DESCRIPTION:Rosengård - Linköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AIK - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20251116T125000
 DTEND:20251116T135000
 DTSTAMP:20251116T125000Z
 UID:2025-11-16T12:50:00/AIK - Norrköping
 DESCRIPTION:AIK - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hammarby - Brommapojkarna - OBOS Damallsvenskan - viaplay
+DTSTART:20251116T125000
+DTEND:20251116T135000
+DTSTAMP:20251116T125000Z
+UID:2025-11-16T12:50:00/Hammarby - Brommapojkarna
+DESCRIPTION:Hammarby - Brommapojkarna - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Växjö - Djurgården - OBOS Damallsvenskan - viaplay
@@ -410,6 +394,22 @@ DTEND:20251116T135000
 DTSTAMP:20251116T125000Z
 UID:2025-11-16T12:50:00/Malmö FF - Vittsjö
 DESCRIPTION:Malmö FF - Vittsjö - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kristianstad - Alingsås - OBOS Damallsvenskan - viaplay
+DTSTART:20251116T125000
+DTEND:20251116T135000
+DTSTAMP:20251116T125000Z
+UID:2025-11-16T12:50:00/Kristianstad - Alingsås
+DESCRIPTION:Kristianstad - Alingsås - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosengård - Linköping - OBOS Damallsvenskan - viaplay
+DTSTART:20251116T125000
+DTEND:20251116T135000
+DTSTAMP:20251116T125000Z
+UID:2025-11-16T12:50:00/Rosengård - Linköping
+DESCRIPTION:Rosengård - Linköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
@@ -445,20 +445,20 @@ UID:2025-11-16T13:50:00/Portúgal - Armenía
 DESCRIPTION:Portúgal - Armenía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Úkraína - Ísland - Undankeppni HM - viaplay
-DTSTART:20251116T163000
-DTEND:20251116T173000
-DTSTAMP:20251116T163000Z
-UID:2025-11-16T16:30:00/Úkraína - Ísland
-DESCRIPTION:Úkraína - Ísland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Úkraína - Ísland - Undankeppi HM 2026 - synsport
 DTSTART:20251116T163000
 DTEND:20251116T173000
 DTSTAMP:20251116T163000Z
 UID:2025-11-16T16:30:00/Úkraína - Ísland
 DESCRIPTION:Úkraína - Ísland - Undankeppi HM 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Úkraína - Ísland - Undankeppni HM - viaplay
+DTSTART:20251116T163000
+DTEND:20251116T173000
+DTSTAMP:20251116T163000Z
+UID:2025-11-16T16:30:00/Úkraína - Ísland
+DESCRIPTION:Úkraína - Ísland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
@@ -469,20 +469,20 @@ UID:2025-11-16T16:45:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Albanía - England - Undankeppni HM - viaplay
+DTSTART:20251116T165000
+DTEND:20251116T175000
+DTSTAMP:20251116T165000Z
+UID:2025-11-16T16:50:00/Albanía - England
+DESCRIPTION:Albanía - England - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aserbaísjan - Frakkland - Undankeppni HM - viaplay
 DTSTART:20251116T165000
 DTEND:20251116T175000
 DTSTAMP:20251116T165000Z
 UID:2025-11-16T16:50:00/Aserbaísjan - Frakkland
 DESCRIPTION:Aserbaísjan - Frakkland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Azerbaijan - Frakkland - Undankeppni HM 2026 - synsportviaplay
-DTSTART:20251116T165000
-DTEND:20251116T175000
-DTSTAMP:20251116T165000Z
-UID:2025-11-16T16:50:00/Azerbaijan - Frakkland
-DESCRIPTION:Azerbaijan - Frakkland - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Serbía - Lettland - Undankeppni HM - viaplay
@@ -493,12 +493,12 @@ UID:2025-11-16T16:50:00/Serbía - Lettland
 DESCRIPTION:Serbía - Lettland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Albanía - England - Undankeppni HM - viaplay
+SUMMARY:Azerbaijan - Frakkland - Undankeppni HM 2026 - synsportviaplay
 DTSTART:20251116T165000
 DTEND:20251116T175000
 DTSTAMP:20251116T165000Z
-UID:2025-11-16T16:50:00/Albanía - England
-DESCRIPTION:Albanía - England - Undankeppni HM
+UID:2025-11-16T16:50:00/Azerbaijan - Frakkland
+DESCRIPTION:Azerbaijan - Frakkland - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Champions League weekly - Champions League - viaplay
@@ -517,14 +517,6 @@ UID:2025-11-16T19:00:00/Úkraína - Ísland: Uppgjör
 DESCRIPTION:Úkraína - Ísland: Uppgjör - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ítalía - Noregur - Undankeppni HM - viaplay
-DTSTART:20251116T193500
-DTEND:20251116T203500
-DTSTAMP:20251116T193500Z
-UID:2025-11-16T19:35:00/Ítalía - Noregur
-DESCRIPTION:Ítalía - Noregur - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ítalía - Noregur - Undankeppni HM 2026 - synsportviaplay
 DTSTART:20251116T193500
 DTEND:20251116T203500
@@ -539,6 +531,14 @@ DTEND:20251116T203500
 DTSTAMP:20251116T193500Z
 UID:2025-11-16T19:35:00/Ísrael - Moldóva
 DESCRIPTION:Ísrael - Moldóva - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ítalía - Noregur - Undankeppni HM - viaplay
+DTSTART:20251116T193500
+DTEND:20251116T203500
+DTSTAMP:20251116T193500Z
+UID:2025-11-16T19:35:00/Ítalía - Noregur
+DESCRIPTION:Ítalía - Noregur - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
@@ -566,36 +566,12 @@ UID:2025-11-17T19:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Norður-Írland - Lúxemborg - Undankeppni HM - viaplay
-DTSTART:20251117T193500
-DTEND:20251117T203500
-DTSTAMP:20251117T193500Z
-UID:2025-11-17T19:35:00/Norður-Írland - Lúxemborg
-DESCRIPTION:Norður-Írland - Lúxemborg - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Svartfjallaland - Króatía - Undankeppni HM - viaplay
-DTSTART:20251117T193500
-DTEND:20251117T203500
-DTSTAMP:20251117T193500Z
-UID:2025-11-17T19:35:00/Svartfjallaland - Króatía
-DESCRIPTION:Svartfjallaland - Króatía - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tékkland - Gíbraltar - Undankeppni HM - viaplay
 DTSTART:20251117T193500
 DTEND:20251117T203500
 DTSTAMP:20251117T193500Z
 UID:2025-11-17T19:35:00/Tékkland - Gíbraltar
 DESCRIPTION:Tékkland - Gíbraltar - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holland - Litháen - Undankeppni HM - viaplay
-DTSTART:20251117T193500
-DTEND:20251117T203500
-DTSTAMP:20251117T193500Z
-UID:2025-11-17T19:35:00/Holland - Litháen
-DESCRIPTION:Holland - Litháen - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þýskaland - Slóvakía - Undankeppni HM 2026 - synsportviaplay
@@ -606,12 +582,12 @@ UID:2025-11-17T19:35:00/Þýskaland - Slóvakía
 DESCRIPTION:Þýskaland - Slóvakía - Undankeppni HM 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Malta - Pólland - Undankeppni HM - viaplay
+SUMMARY:Norður-Írland - Lúxemborg - Undankeppni HM - viaplay
 DTSTART:20251117T193500
 DTEND:20251117T203500
 DTSTAMP:20251117T193500Z
-UID:2025-11-17T19:35:00/Malta - Pólland
-DESCRIPTION:Malta - Pólland - Undankeppni HM
+UID:2025-11-17T19:35:00/Norður-Írland - Lúxemborg
+DESCRIPTION:Norður-Írland - Lúxemborg - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þýskaland - Slóvakía - Undankeppni HM - viaplay
@@ -620,6 +596,30 @@ DTEND:20251117T203500
 DTSTAMP:20251117T193500Z
 UID:2025-11-17T19:35:00/Þýskaland - Slóvakía
 DESCRIPTION:Þýskaland - Slóvakía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Litháen - Undankeppni HM - viaplay
+DTSTART:20251117T193500
+DTEND:20251117T203500
+DTSTAMP:20251117T193500Z
+UID:2025-11-17T19:35:00/Holland - Litháen
+DESCRIPTION:Holland - Litháen - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svartfjallaland - Króatía - Undankeppni HM - viaplay
+DTSTART:20251117T193500
+DTEND:20251117T203500
+DTSTAMP:20251117T193500Z
+UID:2025-11-17T19:35:00/Svartfjallaland - Króatía
+DESCRIPTION:Svartfjallaland - Króatía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malta - Pólland - Undankeppni HM - viaplay
+DTSTART:20251117T193500
+DTEND:20251117T203500
+DTSTAMP:20251117T193500Z
+UID:2025-11-17T19:35:00/Malta - Pólland
+DESCRIPTION:Malta - Pólland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
@@ -655,12 +655,36 @@ UID:2025-11-18T19:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Svíþjóð - Slóvenía - Undankeppni HM - viaplay
+DTSTART:20251118T193500
+DTEND:20251118T203500
+DTSTAMP:20251118T193500Z
+UID:2025-11-18T19:35:00/Svíþjóð - Slóvenía
+DESCRIPTION:Svíþjóð - Slóvenía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skotland - Danmörk - Undankeppni HM 2026 - synsportviaplay
 DTSTART:20251118T193500
 DTEND:20251118T203500
 DTSTAMP:20251118T193500Z
 UID:2025-11-18T19:35:00/Skotland - Danmörk
 DESCRIPTION:Skotland - Danmörk - Undankeppni HM 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríki - Bosnía og Hersegóvína - Undankeppni HM - viaplay
+DTSTART:20251118T193500
+DTEND:20251118T203500
+DTSTAMP:20251118T193500Z
+UID:2025-11-18T19:35:00/Austurríki - Bosnía og Hersegóvína
+DESCRIPTION:Austurríki - Bosnía og Hersegóvína - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hvíta-Rússland - Grikkland - Undankeppni HM - viaplay
+DTSTART:20251118T193500
+DTEND:20251118T203500
+DTSTAMP:20251118T193500Z
+UID:2025-11-18T19:35:00/Hvíta-Rússland - Grikkland
+DESCRIPTION:Hvíta-Rússland - Grikkland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belgía - Liechtenstein - Undankeppni HM - viaplay
@@ -679,52 +703,12 @@ UID:2025-11-18T19:35:00/Búlgaría - Georgía
 DESCRIPTION:Búlgaría - Georgía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austurríki - Bosnía og Hersegóvína - Undankeppni HM - viaplay
+SUMMARY:Kósovó - Sviss - Undankeppni HM - viaplay
 DTSTART:20251118T193500
 DTEND:20251118T203500
 DTSTAMP:20251118T193500Z
-UID:2025-11-18T19:35:00/Austurríki - Bosnía og Hersegóvína
-DESCRIPTION:Austurríki - Bosnía og Hersegóvína - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Svíþjóð - Slóvenía - Undankeppni HM - viaplay
-DTSTART:20251118T193500
-DTEND:20251118T203500
-DTSTAMP:20251118T193500Z
-UID:2025-11-18T19:35:00/Svíþjóð - Slóvenía
-DESCRIPTION:Svíþjóð - Slóvenía - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spánn - Tyrkland - Undankeppni HM - viaplay
-DTSTART:20251118T193500
-DTEND:20251118T203500
-DTSTAMP:20251118T193500Z
-UID:2025-11-18T19:35:00/Spánn - Tyrkland
-DESCRIPTION:Spánn - Tyrkland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Skotland - Danmörk - Undankeppni HM - viaplay
-DTSTART:20251118T193500
-DTEND:20251118T203500
-DTSTAMP:20251118T193500Z
-UID:2025-11-18T19:35:00/Skotland - Danmörk
-DESCRIPTION:Skotland - Danmörk - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hvíta-Rússland - Grikkland - Undankeppni HM - viaplay
-DTSTART:20251118T193500
-DTEND:20251118T203500
-DTSTAMP:20251118T193500Z
-UID:2025-11-18T19:35:00/Hvíta-Rússland - Grikkland
-DESCRIPTION:Hvíta-Rússland - Grikkland - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wales - Norður-Makedónía - Undankeppni HM - viaplay
-DTSTART:20251118T193500
-DTEND:20251118T203500
-DTSTAMP:20251118T193500Z
-UID:2025-11-18T19:35:00/Wales - Norður-Makedónía
-DESCRIPTION:Wales - Norður-Makedónía - Undankeppni HM
+UID:2025-11-18T19:35:00/Kósovó - Sviss
+DESCRIPTION:Kósovó - Sviss - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rúmenía - San Marínó - Undankeppni HM - viaplay
@@ -735,11 +719,36 @@ UID:2025-11-18T19:35:00/Rúmenía - San Marínó
 DESCRIPTION:Rúmenía - San Marínó - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kósovó - Sviss - Undankeppni HM - viaplay
+SUMMARY:Skotland - Danmörk - Undankeppni HM - viaplay
 DTSTART:20251118T193500
 DTEND:20251118T203500
 DTSTAMP:20251118T193500Z
-UID:2025-11-18T19:35:00/Kósovó - Sviss
-DESCRIPTION:Kósovó - Sviss - Undankeppni HM
+UID:2025-11-18T19:35:00/Skotland - Danmörk
+DESCRIPTION:Skotland - Danmörk - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spánn - Tyrkland - Undankeppni HM - viaplay
+DTSTART:20251118T193500
+DTEND:20251118T203500
+DTSTAMP:20251118T193500Z
+UID:2025-11-18T19:35:00/Spánn - Tyrkland
+DESCRIPTION:Spánn - Tyrkland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wales - Norður-Makedónía - Undankeppni HM - viaplay
+DTSTART:20251118T193500
+DTEND:20251118T203500
+DTSTAMP:20251118T193500Z
+UID:2025-11-18T19:35:00/Wales - Norður-Makedónía
+DESCRIPTION:Wales - Norður-Makedónía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM - viap
+ lay
+DTSTART:20251119T130000
+DTEND:20251119T140000
+DTSTAMP:20251119T130000Z
+UID:2025-11-19T13:00:00/FIFA World Cup 2026 Qualifiers: Highlights
+DESCRIPTION:FIFA World Cup 2026 Qualifiers: Highlights - Undankeppni HM
 END:VEVENT
 END:VCALENDAR
