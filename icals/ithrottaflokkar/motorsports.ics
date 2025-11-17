@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:Valensía Kappaksturinn (Warm Up) - MotoGP - viaplay
-DTSTART:20251116T083500
-DTEND:20251116T093500
-DTSTAMP:20251116T083500Z
-UID:2025-11-16T08:35:00/Valensía Kappaksturinn (Warm Up)
-DESCRIPTION:Valensía Kappaksturinn (Warm Up) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valensía Kappaksturinn (Kappakstur) - Moto3 - viaplay
-DTSTART:20251116T094500
-DTEND:20251116T104500
-DTSTAMP:20251116T094500Z
-UID:2025-11-16T09:45:00/Valensía Kappaksturinn (Kappakstur)
-DESCRIPTION:Valensía Kappaksturinn (Kappakstur) - Moto3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valensía Kappaksturinn (Kappakstur) - Moto2 - viaplay
-DTSTART:20251116T110000
-DTEND:20251116T120000
-DTSTAMP:20251116T110000Z
-UID:2025-11-16T11:00:00/Valensía Kappaksturinn (Kappakstur)
-DESCRIPTION:Valensía Kappaksturinn (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valensía Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20251116T125000
-DTEND:20251116T135000
-DTSTAMP:20251116T125000Z
-UID:2025-11-16T12:50:00/Valensía Kappaksturinn (Kappakstur)
-DESCRIPTION:Valensía Kappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Las Vegas kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20251121T002500
 DTEND:20251121T012500
@@ -82,20 +50,20 @@ UID:2025-11-21T05:25:00/Las Vegas (Tímatökur)
 DESCRIPTION:Las Vegas (Tímatökur) - F1 Academy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Las Vegas kappaksturinn (Æfing 3) - Formula 1 - viaplay
-DTSTART:20251122T002500
-DTEND:20251122T012500
-DTSTAMP:20251122T002500Z
-UID:2025-11-22T00:25:00/Las Vegas kappaksturinn (Æfing 3)
-DESCRIPTION:Las Vegas kappaksturinn (Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Las Vegas - Æfing 3 - Formúla 1 - synsportviaplay
 DTSTART:20251122T002500
 DTEND:20251122T012500
 DTSTAMP:20251122T002500Z
 UID:2025-11-22T00:25:00/F1: Las Vegas - Æfing 3
 DESCRIPTION:F1: Las Vegas - Æfing 3 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas kappaksturinn (Æfing 3) - Formula 1 - viaplay
+DTSTART:20251122T002500
+DTEND:20251122T012500
+DTSTAMP:20251122T002500Z
+UID:2025-11-22T00:25:00/Las Vegas kappaksturinn (Æfing 3)
+DESCRIPTION:Las Vegas kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las Vegas (Kappakstur 1) - F1 Academy - viaplay
@@ -106,6 +74,14 @@ UID:2025-11-22T02:10:00/Las Vegas (Kappakstur 1)
 DESCRIPTION:Las Vegas (Kappakstur 1) - F1 Academy
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Las Vegas kappaksturinn (Tímatökur) - Formula 1 - viaplay
+DTSTART:20251122T034500
+DTEND:20251122T044500
+DTSTAMP:20251122T034500Z
+UID:2025-11-22T03:45:00/Las Vegas kappaksturinn (Tímatökur)
+DESCRIPTION:Las Vegas kappaksturinn (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:F1: Las Vegas - Tímataka - Formúla 1 - synsportviaplay
 DTSTART:20251122T034500
 DTEND:20251122T044500
@@ -114,11 +90,27 @@ UID:2025-11-22T03:45:00/F1: Las Vegas - Tímataka
 DESCRIPTION:F1: Las Vegas - Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Las Vegas kappaksturinn (Tímatökur) - Formula 1 - viaplay
-DTSTART:20251122T034500
-DTEND:20251122T044500
-DTSTAMP:20251122T034500Z
-UID:2025-11-22T03:45:00/Las Vegas kappaksturinn (Tímatökur)
-DESCRIPTION:Las Vegas kappaksturinn (Tímatökur) - Formula 1
+SUMMARY:Las Vegas (Kappakstur 2) - F1 Academy - viaplay
+DTSTART:20251123T001500
+DTEND:20251123T011500
+DTSTAMP:20251123T001500Z
+UID:2025-11-23T00:15:00/Las Vegas (Kappakstur 2)
+DESCRIPTION:Las Vegas (Kappakstur 2) - F1 Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Las Vegas - Keppni - Formúla 1 - synsportviaplay
+DTSTART:20251123T033000
+DTEND:20251123T043000
+DTSTAMP:20251123T033000Z
+UID:2025-11-23T03:30:00/F1: Las Vegas - Keppni
+DESCRIPTION:F1: Las Vegas - Keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas kappaksturinn (Kappakstur) - Formula 1 - viaplay
+DTSTART:20251123T033000
+DTEND:20251123T043000
+DTSTAMP:20251123T033000Z
+UID:2025-11-23T03:30:00/Las Vegas kappaksturinn (Kappakstur)
+DESCRIPTION:Las Vegas kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 END:VCALENDAR
