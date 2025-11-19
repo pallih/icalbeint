@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Fram - HC Kriens-Luzern - EHF - livey
-DTSTART:20251118T194500
-DTEND:20251118T204500
-DTSTAMP:20251118T194500Z
-UID:2025-11-18T19:45:00/Fram - HC Kriens-Luzern
-DESCRIPTION:Fram - HC Kriens-Luzern - EHF
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nice - Marseille - Ligue 1 - Franski Boltinn - livey
 DTSTART:20251121T194500
 DTEND:20251121T204500
@@ -34,6 +26,22 @@ UID:2025-11-22T13:00:00/Deportivo Alaves - Celta Vigo
 DESCRIPTION:Deportivo Alaves - Celta Vigo - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Udinese - Bologna - Serie A - Ítalski boltinn - livey
+DTSTART:20251122T140000
+DTEND:20251122T150000
+DTSTAMP:20251122T140000Z
+UID:2025-11-22T14:00:00/Udinese - Bologna
+DESCRIPTION:Udinese - Bologna - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cagliari - Genoa - Serie A - Ítalski boltinn - livey
+DTSTART:20251122T140000
+DTEND:20251122T150000
+DTSTAMP:20251122T140000Z
+UID:2025-11-22T14:00:00/Cagliari - Genoa
+DESCRIPTION:Cagliari - Genoa - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barcelona - Athletic Bilbao - LaLiga - Spænski boltinn - livey
 DTSTART:20251122T151500
 DTEND:20251122T161500
@@ -48,6 +56,14 @@ DTEND:20251122T170000
 DTSTAMP:20251122T160000Z
 UID:2025-11-22T16:00:00/Lens - RC Strasbourg
 DESCRIPTION:Lens - RC Strasbourg - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiorentina - Juventus - Serie A - Ítalski boltinn - livey
+DTSTART:20251122T170000
+DTEND:20251122T180000
+DTSTAMP:20251122T170000Z
+UID:2025-11-22T17:00:00/Fiorentina - Juventus
+DESCRIPTION:Fiorentina - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Osasuna - Real Sociedad - LaLiga - Spænski boltinn - livey
@@ -66,6 +82,14 @@ UID:2025-11-22T18:00:00/Rennes - Monaco
 DESCRIPTION:Rennes - Monaco - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Napoli - Atalanta - Serie A - Ítalski boltinn - livey
+DTSTART:20251122T194500
+DTEND:20251122T204500
+DTSTAMP:20251122T194500Z
+UID:2025-11-22T19:45:00/Napoli - Atalanta
+DESCRIPTION:Napoli - Atalanta - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Villarreal - RCD Mallorca - LaLiga - Spænski boltinn - livey
 DTSTART:20251122T200000
 DTEND:20251122T210000
@@ -80,6 +104,14 @@ DTEND:20251122T210500
 DTSTAMP:20251122T200500Z
 UID:2025-11-22T20:05:00/PSG - Le Havre
 DESCRIPTION:PSG - Le Havre - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hellas Verona - Parma - Serie A - Ítalski boltinn - livey
+DTSTART:20251123T113000
+DTEND:20251123T123000
+DTSTAMP:20251123T113000Z
+UID:2025-11-23T11:30:00/Hellas Verona - Parma
+DESCRIPTION:Hellas Verona - Parma - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oviedo - Rayo Vallecano - LaLiga - Spænski boltinn - livey
@@ -98,6 +130,14 @@ UID:2025-11-23T14:00:00/Auxerre - Lyon
 DESCRIPTION:Auxerre - Lyon - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cremonese - Roma - Serie A - Ítalski boltinn - livey
+DTSTART:20251123T140000
+DTEND:20251123T150000
+DTSTAMP:20251123T140000Z
+UID:2025-11-23T14:00:00/Cremonese - Roma
+DESCRIPTION:Cremonese - Roma - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Real Betis - Girona - LaLiga - Spænski boltinn - livey
 DTSTART:20251123T151500
 DTEND:20251123T161500
@@ -114,6 +154,14 @@ UID:2025-11-23T16:15:00/Nantes - Lorient
 DESCRIPTION:Nantes - Lorient - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Toulouse - Angers - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251123T161500
+DTEND:20251123T171500
+DTSTAMP:20251123T161500Z
+UID:2025-11-23T16:15:00/Toulouse - Angers
+DESCRIPTION:Toulouse - Angers - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brest - Metz - Ligue 1 - Franski Boltinn - livey
 DTSTART:20251123T161500
 DTEND:20251123T171500
@@ -122,12 +170,12 @@ UID:2025-11-23T16:15:00/Brest - Metz
 DESCRIPTION:Brest - Metz - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toulouse - Angers - Ligue 1 - Franski Boltinn - livey
-DTSTART:20251123T161500
-DTEND:20251123T171500
-DTSTAMP:20251123T161500Z
-UID:2025-11-23T16:15:00/Toulouse - Angers
-DESCRIPTION:Toulouse - Angers - Ligue 1 - Franski Boltinn
+SUMMARY:Lazio - Lecce - Serie A - Ítalski boltinn - livey
+DTSTART:20251123T170000
+DTEND:20251123T180000
+DTSTAMP:20251123T170000Z
+UID:2025-11-23T17:00:00/Lazio - Lecce
+DESCRIPTION:Lazio - Lecce - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Getafe - Atletico Madrid - LaLiga - Spænski boltinn - livey
@@ -146,6 +194,14 @@ UID:2025-11-23T19:45:00/Lille - Paris FC
 DESCRIPTION:Lille - Paris FC - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inter Milan - AC Milan - Serie A - Ítalski boltinn - livey
+DTSTART:20251123T194500
+DTEND:20251123T204500
+DTSTAMP:20251123T194500Z
+UID:2025-11-23T19:45:00/Inter Milan - AC Milan
+DESCRIPTION:Inter Milan - AC Milan - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elche - Real Madrid - LaLiga - Spænski boltinn - livey
 DTSTART:20251123T200000
 DTEND:20251123T210000
@@ -154,11 +210,35 @@ UID:2025-11-23T20:00:00/Elche - Real Madrid
 DESCRIPTION:Elche - Real Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Torino - Como - Serie A - Ítalski boltinn - livey
+DTSTART:20251124T173000
+DTEND:20251124T183000
+DTSTAMP:20251124T173000Z
+UID:2025-11-24T17:30:00/Torino - Como
+DESCRIPTION:Torino - Como - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sassuolo - Pisa - Serie A - Ítalski boltinn - livey
+DTSTART:20251124T194500
+DTEND:20251124T204500
+DTSTAMP:20251124T194500Z
+UID:2025-11-24T19:45:00/Sassuolo - Pisa
+DESCRIPTION:Sassuolo - Pisa - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Espanyol - Sevilla - LaLiga - Spænski boltinn - livey
 DTSTART:20251124T200000
 DTEND:20251124T210000
 DTSTAMP:20251124T200000Z
 UID:2025-11-24T20:00:00/Espanyol - Sevilla
 DESCRIPTION:Espanyol - Sevilla - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Porto - Fram - EHF - livey
+DTSTART:20251125T194500
+DTEND:20251125T204500
+DTSTAMP:20251125T194500Z
+UID:2025-11-25T19:45:00/FC Porto - Fram
+DESCRIPTION:FC Porto - Fram - EHF
 END:VEVENT
 END:VCALENDAR

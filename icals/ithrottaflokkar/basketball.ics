@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Stofan - Íþróttaþættir - ruv2
-DTSTART:20251118T184000
-DTEND:20251118T194000
-DTSTAMP:20251118T184000Z
-UID:2025-11-18T18:40:00/Stofan
-DESCRIPTION:Stofan - Íþróttaþættir
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portúgal - Ísland - Undankeppni EM kvenna í körfubolta - ruv2
-DTSTART:20251118T190000
-DTEND:20251118T200000
-DTSTAMP:20251118T190000Z
-UID:2025-11-18T19:00:00/Portúgal - Ísland
-DESCRIPTION:Portúgal - Ísland - Undankeppni EM kvenna í körfubolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stofan - Íþróttaþættir - ruv2
-DTSTART:20251118T204500
-DTEND:20251118T214500
-DTSTAMP:20251118T204500Z
-UID:2025-11-18T20:45:00/Stofan
-DESCRIPTION:Stofan - Íþróttaþættir
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór Þ. - Stjarnan - Bónus deild karla - synsportisland5
 DTSTART:20251120T190500
 DTEND:20251120T200500
@@ -90,22 +66,6 @@ UID:2025-11-21T21:05:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Grindavík - Bónus deild kvenna - synsportisland4
-DTSTART:20251122T190500
-DTEND:20251122T200500
-DTSTAMP:20251122T190500Z
-UID:2025-11-22T19:05:00/Valur - Grindavík
-DESCRIPTION:Valur - Grindavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ármann - Njarðvík - Bónus deild kvenna - synsportisland2
-DTSTART:20251122T190500
-DTEND:20251122T200500
-DTSTAMP:20251122T190500Z
-UID:2025-11-22T19:05:00/Ármann - Njarðvík
-DESCRIPTION:Ármann - Njarðvík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Hamar/Þór - Bónus deild kvenna - synsportisland3
 DTSTART:20251122T190500
 DTEND:20251122T200500
@@ -114,12 +74,12 @@ UID:2025-11-22T19:05:00/Tindastóll - Hamar/Þór
 DESCRIPTION:Tindastóll - Hamar/Þór - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - KR - Bónus deild kvenna - synsportisland2
-DTSTART:20251123T190500
-DTEND:20251123T200500
-DTSTAMP:20251123T190500Z
-UID:2025-11-23T19:05:00/Keflavík - KR
-DESCRIPTION:Keflavík - KR - Bónus deild kvenna
+SUMMARY:Ármann - Njarðvík - Bónus deild kvenna - synsportisland4
+DTSTART:20251122T190500
+DTEND:20251122T200500
+DTSTAMP:20251122T190500Z
+UID:2025-11-22T19:05:00/Ármann - Njarðvík
+DESCRIPTION:Ármann - Njarðvík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Stjarnan - Bónus deild kvenna - synsportisland
@@ -130,20 +90,28 @@ UID:2025-11-23T19:05:00/Haukar - Stjarnan
 DESCRIPTION:Haukar - Stjarnan - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
- sland
-DTSTART:20251123T211000
-DTEND:20251123T221000
-DTSTAMP:20251123T211000Z
-UID:2025-11-23T21:10:00/Bónus Körfuboltakvöld kvenna 
-DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
+SUMMARY:Keflavík - KR - Bónus deild kvenna - synsportisland2
+DTSTART:20251123T190500
+DTEND:20251123T200500
+DTSTAMP:20251123T190500Z
+UID:2025-11-23T19:05:00/Keflavík - KR
+DESCRIPTION:Keflavík - KR - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus deildin - Extra - Bónus deild karla - synsportisland
-DTSTART:20251124T101500
-DTEND:20251124T111500
-DTSTAMP:20251124T101500Z
-UID:2025-11-24T10:15:00/Bónus deildin - Extra
+DTSTART:20251124T101000
+DTEND:20251124T111000
+DTSTAMP:20251124T101000Z
+UID:2025-11-24T10:10:00/Bónus deildin - Extra
 DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
+ sland
+DTSTART:20251124T200100
+DTEND:20251124T210100
+DTSTAMP:20251124T200100Z
+UID:2025-11-24T20:01:00/Bónus Körfuboltakvöld kvenna 
+DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 END:VCALENDAR
