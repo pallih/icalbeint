@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Big Ben - Premier League - synsport
-DTSTART:20251120T221000
-DTEND:20251120T231000
-DTSTAMP:20251120T221000Z
-UID:2025-11-20T22:10:00/Big Ben
-DESCRIPTION:Big Ben - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burnley - Chelsea - Premier League - synsport
 DTSTART:20251122T121000
 DTEND:20251122T131000
@@ -18,12 +10,12 @@ UID:2025-11-22T12:10:00/Burnley - Chelsea
 DESCRIPTION:Burnley - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Nott. Forest - Premier League - synsport2
+SUMMARY:Bournemouth - West Ham - Premier League - synsport3
 DTSTART:20251122T144000
 DTEND:20251122T154000
 DTSTAMP:20251122T144000Z
-UID:2025-11-22T14:40:00/Liverpool - Nott. Forest
-DESCRIPTION:Liverpool - Nott. Forest - Premier League
+UID:2025-11-22T14:40:00/Bournemouth - West Ham
+DESCRIPTION:Bournemouth - West Ham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -42,20 +34,12 @@ UID:2025-11-22T14:40:00/Brighton - Brentford
 DESCRIPTION:Brighton - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - West Ham - Premier League - synsport3
+SUMMARY:Liverpool - Nott. Forest - Premier League - synsport2
 DTSTART:20251122T144000
 DTEND:20251122T154000
 DTSTAMP:20251122T144000Z
-UID:2025-11-22T14:40:00/Bournemouth - West Ham
-DESCRIPTION:Bournemouth - West Ham - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fulham - Sunderland - Premier League - synsport5
-DTSTART:20251122T145000
-DTEND:20251122T155000
-DTSTAMP:20251122T145000Z
-UID:2025-11-22T14:50:00/Fulham - Sunderland
-DESCRIPTION:Fulham - Sunderland - Premier League
+UID:2025-11-22T14:40:00/Liverpool - Nott. Forest
+DESCRIPTION:Liverpool - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Crystal Palace - Premier League - synsport6
@@ -64,6 +48,14 @@ DTEND:20251122T155000
 DTSTAMP:20251122T145000Z
 UID:2025-11-22T14:50:00/Wolves - Crystal Palace
 DESCRIPTION:Wolves - Crystal Palace - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Sunderland - Premier League - synsport5
+DTSTART:20251122T145000
+DTEND:20251122T155000
+DTSTAMP:20251122T145000Z
+UID:2025-11-22T14:50:00/Fulham - Sunderland
+DESCRIPTION:Fulham - Sunderland - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport2
@@ -128,5 +120,13 @@ DTEND:20251125T231000
 DTSTAMP:20251125T221000Z
 UID:2025-11-25T22:10:00/VARsjáin
 DESCRIPTION:VARsjáin - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Ben - Premier League - synsport
+DTSTART:20251127T221500
+DTEND:20251127T231500
+DTSTAMP:20251127T221500Z
+UID:2025-11-27T22:15:00/Big Ben
+DESCRIPTION:Big Ben - Premier League
 END:VEVENT
 END:VCALENDAR
