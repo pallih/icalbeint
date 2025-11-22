@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Melsungen - Flensburg-Handewitt - Bundesliga - viaplay
-DTSTART:20251121T185500
-DTEND:20251121T195500
-DTSTAMP:20251121T185500Z
-UID:2025-11-21T18:55:00/Melsungen - Flensburg-Handewitt
-DESCRIPTION:Melsungen - Flensburg-Handewitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mainz - Hoffenheim - Bundesliga - viaplay
-DTSTART:20251121T192000
-DTEND:20251121T202000
-DTSTAMP:20251121T192000Z
-UID:2025-11-21T19:20:00/Mainz - Hoffenheim
-DESCRIPTION:Mainz - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Stuttgart - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20251122T142000
 DTEND:20251122T152000
 DTSTAMP:20251122T142000Z
-UID:2025-11-22T14:20:00/Dortmund - Stuttgart
-DESCRIPTION:Dortmund - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - Bayer Leverkusen - Bundesliga - viaplay
-DTSTART:20251122T142000
-DTEND:20251122T152000
-DTSTAMP:20251122T142000Z
-UID:2025-11-22T14:20:00/Wolfsburg - Bayer Leverkusen
-DESCRIPTION:Wolfsburg - Bayer Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - HSV - Bundesliga - viaplay
-DTSTART:20251122T142000
-DTEND:20251122T152000
-DTSTAMP:20251122T142000Z
-UID:2025-11-22T14:20:00/Augsburg - HSV
-DESCRIPTION:Augsburg - HSV - Bundesliga
+UID:2025-11-22T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heidenheim - Mönchengladbach - Bundesliga - viaplay
@@ -50,12 +18,28 @@ UID:2025-11-22T14:20:00/Heidenheim - Mönchengladbach
 DESCRIPTION:Heidenheim - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Augsburg - HSV - Bundesliga - viaplay
 DTSTART:20251122T142000
 DTEND:20251122T152000
 DTSTAMP:20251122T142000Z
-UID:2025-11-22T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2025-11-22T14:20:00/Augsburg - HSV
+DESCRIPTION:Augsburg - HSV - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Bayer Leverkusen - Bundesliga - viaplay
+DTSTART:20251122T142000
+DTEND:20251122T152000
+DTSTAMP:20251122T142000Z
+UID:2025-11-22T14:20:00/Wolfsburg - Bayer Leverkusen
+DESCRIPTION:Wolfsburg - Bayer Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Stuttgart - Bundesliga - viaplay
+DTSTART:20251122T142000
+DTEND:20251122T152000
+DTSTAMP:20251122T142000Z
+UID:2025-11-22T14:20:00/Dortmund - Stuttgart
+DESCRIPTION:Dortmund - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Freiburg - Bundesliga - viaplay
@@ -66,20 +50,20 @@ UID:2025-11-22T14:20:00/Bayern München - Freiburg
 DESCRIPTION:Bayern München - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köln - Eintracht Frankfurt - Bundesliga - synsportviaplay
-DTSTART:20251122T172000
-DTEND:20251122T182000
-DTSTAMP:20251122T172000Z
-UID:2025-11-22T17:20:00/Köln - Eintracht Frankfurt
-DESCRIPTION:Köln - Eintracht Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Köln - Frankfurt - Bundesliga - viaplay
 DTSTART:20251122T172000
 DTEND:20251122T182000
 DTSTAMP:20251122T172000Z
 UID:2025-11-22T17:20:00/Köln - Frankfurt
 DESCRIPTION:Köln - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln - Eintracht Frankfurt - Bundesliga - synsportviaplay
+DTSTART:20251122T172000
+DTEND:20251122T182000
+DTSTAMP:20251122T172000Z
+UID:2025-11-22T17:20:00/Köln - Eintracht Frankfurt
+DESCRIPTION:Köln - Eintracht Frankfurt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THW Kiel - Frisch Auf! Göppingen - Bundesliga - viaplay
@@ -128,5 +112,21 @@ DTEND:20251123T172500
 DTSTAMP:20251123T162500Z
 UID:2025-11-23T16:25:00/St. Pauli - Union Berlin
 DESCRIPTION:St. Pauli - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eisenach - THW Kiel - Bundesliga - viaplay
+DTSTART:20251128T185500
+DTEND:20251128T195500
+DTSTAMP:20251128T185500Z
+UID:2025-11-28T18:55:00/Eisenach - THW Kiel
+DESCRIPTION:Eisenach - THW Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Leipzig - Bundesliga - viaplay
+DTSTART:20251128T192000
+DTEND:20251128T202000
+DTSTAMP:20251128T192000Z
+UID:2025-11-28T19:20:00/Mönchengladbach - Leipzig
+DESCRIPTION:Mönchengladbach - Leipzig - Bundesliga
 END:VEVENT
 END:VCALENDAR
