@@ -58,20 +58,20 @@ UID:2025-11-26T17:35:00/Pafos - Monaco
 DESCRIPTION:Pafos - Monaco - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Bayern München - Champions League - viaplay
-DTSTART:20251126T195000
-DTEND:20251126T205000
-DTSTAMP:20251126T195000Z
-UID:2025-11-26T19:50:00/Arsenal - Bayern München
-DESCRIPTION:Arsenal - Bayern München - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlético Madrid - Inter - Champions League - viaplay
 DTSTART:20251126T195000
 DTEND:20251126T205000
 DTSTAMP:20251126T195000Z
 UID:2025-11-26T19:50:00/Atlético Madrid - Inter
 DESCRIPTION:Atlético Madrid - Inter - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Bayern München - Champions League - viaplay
+DTSTART:20251126T195000
+DTEND:20251126T205000
+DTSTAMP:20251126T195000Z
+UID:2025-11-26T19:50:00/Arsenal - Bayern München
+DESCRIPTION:Arsenal - Bayern München - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSG - Tottenham - Champions League - viaplay
@@ -96,5 +96,13 @@ DTEND:20251126T230000
 DTSTAMP:20251126T220000Z
 UID:2025-11-26T22:00:00/Goalshow
 DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20251130T170000
+DTEND:20251130T180000
+DTSTAMP:20251130T170000Z
+UID:2025-11-30T17:00:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 END:VCALENDAR

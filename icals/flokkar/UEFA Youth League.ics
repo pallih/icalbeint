@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - UEFA Youth League - ical
 BEGIN:VEVENT
-SUMMARY:Chelsea - Barcelona - UEFA Youth League - viaplay
+SUMMARY:Chelsea - Barcelona - UEFA Youth League - synsport
 DTSTART:20251125T125500
 DTEND:20251125T135500
 DTSTAMP:20251125T125500Z
@@ -10,7 +10,7 @@ UID:2025-11-25T12:55:00/Chelsea - Barcelona
 DESCRIPTION:Chelsea - Barcelona - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Barcelona - UEFA Youth League - synsport
+SUMMARY:Chelsea - Barcelona - UEFA Youth League - viaplay
 DTSTART:20251125T125500
 DTEND:20251125T135500
 DTSTAMP:20251125T125500Z
@@ -34,14 +34,6 @@ UID:2025-11-25T14:55:00/Dortmund - Villarreal
 DESCRIPTION:Dortmund - Villarreal - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Bayern München - UEFA Youth League - synsport
-DTSTART:20251126T125500
-DTEND:20251126T135500
-DTSTAMP:20251126T125500Z
-UID:2025-11-26T12:55:00/Arsenal - Bayern München
-DESCRIPTION:Arsenal - Bayern München - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arsenal - Bayern München - UEFA Youth League - viaplay
 DTSTART:20251126T125500
 DTEND:20251126T135500
@@ -50,7 +42,15 @@ UID:2025-11-26T12:55:00/Arsenal - Bayern München
 DESCRIPTION:Arsenal - Bayern München - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Atalanta - UEFA Youth League - synsport
+SUMMARY:Arsenal - Bayern München - UEFA Youth League - synsport
+DTSTART:20251126T125500
+DTEND:20251126T135500
+DTSTAMP:20251126T125500Z
+UID:2025-11-26T12:55:00/Arsenal - Bayern München
+DESCRIPTION:Arsenal - Bayern München - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Atalanta - UEFA Youth League - viaplay
 DTSTART:20251126T145500
 DTEND:20251126T155500
 DTSTAMP:20251126T145500Z
@@ -58,7 +58,7 @@ UID:2025-11-26T14:55:00/Frankfurt - Atalanta
 DESCRIPTION:Frankfurt - Atalanta - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Atalanta - UEFA Youth League - viaplay
+SUMMARY:Frankfurt - Atalanta - UEFA Youth League - synsport
 DTSTART:20251126T145500
 DTEND:20251126T155500
 DTSTAMP:20251126T145500Z
