@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Meistaradeild Evrópu - ical
 BEGIN:VEVENT
-SUMMARY:Ajax - Benfica - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20251125T173500
-DTEND:20251125T183500
-DTSTAMP:20251125T173500Z
-UID:2025-11-25T17:35:00/Ajax - Benfica
-DESCRIPTION:Ajax - Benfica - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Galatasaray - Union SG - Meistaradeild Evrópu - synsport2
 DTSTART:20251125T173500
 DTEND:20251125T183500
@@ -18,12 +10,36 @@ UID:2025-11-25T17:35:00/Galatasaray - Union SG
 DESCRIPTION:Galatasaray - Union SG - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ajax - Benfica - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20251125T173500
+DTEND:20251125T183500
+DTSTAMP:20251125T173500Z
+UID:2025-11-25T17:35:00/Ajax - Benfica
+DESCRIPTION:Ajax - Benfica - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
 DTSTART:20251125T193000
 DTEND:20251125T203000
 DTSTAMP:20251125T193000Z
 UID:2025-11-25T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prag - Athletic Club - Meistaradeild Evrópu - synsport5
+DTSTART:20251125T195000
+DTEND:20251125T205000
+DTSTAMP:20251125T195000Z
+UID:2025-11-25T19:50:00/Slavia Prag - Athletic Club
+DESCRIPTION:Slavia Prag - Athletic Club - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Villarreal - Meistaradeild Evrópu - synsport4
+DTSTART:20251125T195000
+DTEND:20251125T205000
+DTSTAMP:20251125T195000Z
+UID:2025-11-25T19:50:00/Dortmund - Villarreal
+DESCRIPTION:Dortmund - Villarreal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marseille - Newcastle - Meistaradeild Evrópu - synsport3
@@ -40,22 +56,6 @@ DTEND:20251125T205000
 DTSTAMP:20251125T195000Z
 UID:2025-11-25T19:50:00/Man. City - Leverkusen
 DESCRIPTION:Man. City - Leverkusen - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Villarreal - Meistaradeild Evrópu - synsport4
-DTSTART:20251125T195000
-DTEND:20251125T205000
-DTSTAMP:20251125T195000Z
-UID:2025-11-25T19:50:00/Dortmund - Villarreal
-DESCRIPTION:Dortmund - Villarreal - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slavia Prag - Athletic Club - Meistaradeild Evrópu - synsport5
-DTSTART:20251125T195000
-DTEND:20251125T205000
-DTSTAMP:20251125T195000Z
-UID:2025-11-25T19:50:00/Slavia Prag - Athletic Club
-DESCRIPTION:Slavia Prag - Athletic Club - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Barcelona - Meistaradeild Evrópu - synsportviaplay
@@ -98,12 +98,12 @@ UID:2025-11-26T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - PSV - Meistaradeild Evrópu - synsport2
+SUMMARY:Frankfurt - Atalanta - Meistaradeild Evrópu - synsport4
 DTSTART:20251126T195000
 DTEND:20251126T205000
 DTSTAMP:20251126T195000Z
-UID:2025-11-26T19:50:00/Liverpool - PSV
-DESCRIPTION:Liverpool - PSV - Meistaradeild Evrópu
+UID:2025-11-26T19:50:00/Frankfurt - Atalanta
+DESCRIPTION:Frankfurt - Atalanta - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olympiacos - Real Madrid - Meistaradeild Evrópu - synsport3
@@ -114,14 +114,6 @@ UID:2025-11-26T19:50:00/Olympiacos - Real Madrid
 DESCRIPTION:Olympiacos - Real Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Atalanta - Meistaradeild Evrópu - synsport4
-DTSTART:20251126T195000
-DTEND:20251126T205000
-DTSTAMP:20251126T195000Z
-UID:2025-11-26T19:50:00/Frankfurt - Atalanta
-DESCRIPTION:Frankfurt - Atalanta - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arsenal - Bayern München - Meistaradeild Evrópu - synsportviapla
  y
 DTSTART:20251126T195000
@@ -129,6 +121,14 @@ DTEND:20251126T205000
 DTSTAMP:20251126T195000Z
 UID:2025-11-26T19:50:00/Arsenal - Bayern München
 DESCRIPTION:Arsenal - Bayern München - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - PSV - Meistaradeild Evrópu - synsport2
+DTSTART:20251126T195000
+DTEND:20251126T205000
+DTSTAMP:20251126T195000Z
+UID:2025-11-26T19:50:00/Liverpool - PSV
+DESCRIPTION:Liverpool - PSV - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport

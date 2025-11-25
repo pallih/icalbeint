@@ -10,6 +10,14 @@ UID:2025-11-28T13:25:00/Katar kappaksturinn (Æfing 1)
 DESCRIPTION:Katar kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Katar kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20251128T133000
+DTEND:20251128T143000
+DTSTAMP:20251128T133000Z
+UID:2025-11-28T13:30:00/Onboard (Katar kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Katar kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Katar kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20251128T133000
 DTEND:20251128T143000
@@ -35,20 +43,30 @@ UID:2025-11-28T13:30:00/Track Positioning (Katar kappaksturinn | Æfing 1)
 DESCRIPTION:Track Positioning (Katar kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Katar kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20251128T133000
-DTEND:20251128T143000
-DTSTAMP:20251128T133000Z
-UID:2025-11-28T13:30:00/Onboard (Katar kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Katar kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Katar kappaksturinn (Sprint Shootout) - Formula 1 - viaplay
 DTSTART:20251128T172500
 DTEND:20251128T182500
 DTSTAMP:20251128T172500Z
 UID:2025-11-28T17:25:00/Katar kappaksturinn (Sprint Shootout)
 DESCRIPTION:Katar kappaksturinn (Sprint Shootout) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Katar kappaksturinn | Sprint Shootout) - Formula 1 - viapl
+ ay
+DTSTART:20251128T173000
+DTEND:20251128T183000
+DTSTAMP:20251128T173000Z
+UID:2025-11-28T17:30:00/Timing (Katar kappaksturinn | Sprint Shootout)
+DESCRIPTION:Timing (Katar kappaksturinn | Sprint Shootout) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Katar kappaksturinn | Sprint Shootout) - Formula 1 - viap
+ lay
+DTSTART:20251128T173000
+DTEND:20251128T183000
+DTSTAMP:20251128T173000Z
+UID:2025-11-28T17:30:00/Onboard (Katar kappaksturinn | Sprint Shootout)
+DESCRIPTION:Onboard (Katar kappaksturinn | Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Katar kappaksturinn | Sprint Shootout) - Formula 1 - viap
@@ -71,24 +89,6 @@ DESCRIPTION:Track Positioning (Katar kappaksturinn | Sprint Shootout) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Katar kappaksturinn | Sprint Shootout) - Formula 1 - viapl
- ay
-DTSTART:20251128T173000
-DTEND:20251128T183000
-DTSTAMP:20251128T173000Z
-UID:2025-11-28T17:30:00/Timing (Katar kappaksturinn | Sprint Shootout)
-DESCRIPTION:Timing (Katar kappaksturinn | Sprint Shootout) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Katar kappaksturinn | Sprint Shootout) - Formula 1 - viap
- lay
-DTSTART:20251128T173000
-DTEND:20251128T183000
-DTSTAMP:20251128T173000Z
-UID:2025-11-28T17:30:00/Onboard (Katar kappaksturinn | Sprint Shootout)
-DESCRIPTION:Onboard (Katar kappaksturinn | Sprint Shootout) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Katar kappaksturinn (Sprettkeppni) - Formula 1 - viaplay
 DTSTART:20251129T135500
 DTEND:20251129T145500
@@ -97,29 +97,12 @@ UID:2025-11-29T13:55:00/Katar kappaksturinn (Sprettkeppni)
 DESCRIPTION:Katar kappaksturinn (Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Katar kappaksturinn | Sprettkeppni) - Formula 1 - viapla
- y
-DTSTART:20251129T140000
-DTEND:20251129T150000
-DTSTAMP:20251129T140000Z
-UID:2025-11-29T14:00:00/Pitlane (Katar kappaksturinn | Sprettkeppni)
-DESCRIPTION:Pitlane (Katar kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Katar kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
 DTSTART:20251129T140000
 DTEND:20251129T150000
 DTSTAMP:20251129T140000Z
 UID:2025-11-29T14:00:00/Onboard (Katar kappaksturinn | Sprettkeppni)
 DESCRIPTION:Onboard (Katar kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Katar kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
-DTSTART:20251129T140000
-DTEND:20251129T150000
-DTSTAMP:20251129T140000Z
-UID:2025-11-29T14:00:00/Timing (Katar kappaksturinn | Sprettkeppni)
-DESCRIPTION:Timing (Katar kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Katar kappaksturinn | Sprettkeppni) - Formula 1
@@ -131,6 +114,23 @@ UID:2025-11-29T14:00:00/Track Positioning (Katar kappaksturinn | Sprettkep
  pni)
 DESCRIPTION:Track Positioning (Katar kappaksturinn | Sprettkeppni) - Formu
  la 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Katar kappaksturinn | Sprettkeppni) - Formula 1 - viapla
+ y
+DTSTART:20251129T140000
+DTEND:20251129T150000
+DTSTAMP:20251129T140000Z
+UID:2025-11-29T14:00:00/Pitlane (Katar kappaksturinn | Sprettkeppni)
+DESCRIPTION:Pitlane (Katar kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Katar kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
+DTSTART:20251129T140000
+DTEND:20251129T150000
+DTSTAMP:20251129T140000Z
+UID:2025-11-29T14:00:00/Timing (Katar kappaksturinn | Sprettkeppni)
+DESCRIPTION:Timing (Katar kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Katar kappaksturinn (Tímatökur) - Formula 1 - viaplay
@@ -184,14 +184,6 @@ UID:2025-11-30T15:25:00/Katar kappaksturinn (Kappakstur)
 DESCRIPTION:Katar kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Katar kappaksturinn | Kappakstur) - Formula 1 - viaplay
-DTSTART:20251130T160000
-DTEND:20251130T170000
-DTSTAMP:20251130T160000Z
-UID:2025-11-30T16:00:00/Onboard (Katar kappaksturinn | Kappakstur)
-DESCRIPTION:Onboard (Katar kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Katar kappaksturinn | Kappakstur) - Formula 1 - viaplay
 DTSTART:20251130T160000
 DTEND:20251130T170000
@@ -206,6 +198,14 @@ DTEND:20251130T170000
 DTSTAMP:20251130T160000Z
 UID:2025-11-30T16:00:00/Track Positioning (Qatar Grand Prix | Race)
 DESCRIPTION:Track Positioning (Qatar Grand Prix | Race) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Katar kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20251130T160000
+DTEND:20251130T170000
+DTSTAMP:20251130T160000Z
+UID:2025-11-30T16:00:00/Onboard (Katar kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Katar kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Katar kappaksturinn | Kappakstur) - Formula 1 - viaplay

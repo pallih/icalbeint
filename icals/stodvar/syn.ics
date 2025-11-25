@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Everton - Premier League - synsport
-DTSTART:20251124T194000
-DTEND:20251124T204000
-DTSTAMP:20251124T194000Z
-UID:2025-11-24T19:40:00/Man. Utd. - Everton
-DESCRIPTION:Man. Utd. - Everton - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
- sland
-DTSTART:20251124T200000
-DTEND:20251124T210000
-DTSTAMP:20251124T200000Z
-UID:2025-11-24T20:00:00/Bónus Körfuboltakvöld kvenna 
-DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus deildin - Extra - Bónus deild karla - synsportisland
-DTSTART:20251124T210500
-DTEND:20251124T220500
-DTSTAMP:20251124T210500Z
-UID:2025-11-24T21:05:00/Bónus deildin - Extra
-DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lightning - Flyers - NHL - synsportviaplay
-DTSTART:20251125T000500
-DTEND:20251125T010500
-DTSTAMP:20251125T000500Z
-UID:2025-11-25T00:05:00/Lightning - Flyers
-DESCRIPTION:Lightning - Flyers - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chelsea - Barcelona - UEFA Youth League - synsport
 DTSTART:20251125T125500
 DTEND:20251125T135500
@@ -51,14 +18,6 @@ UID:2025-11-25T14:55:00/Dortmund - Villarreal
 DESCRIPTION:Dortmund - Villarreal - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ajax - Benfica - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20251125T173500
-DTEND:20251125T183500
-DTSTAMP:20251125T173500Z
-UID:2025-11-25T17:35:00/Ajax - Benfica
-DESCRIPTION:Ajax - Benfica - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Galatasaray - Union SG - Meistaradeild Evrópu - synsport2
 DTSTART:20251125T173500
 DTEND:20251125T183500
@@ -67,12 +26,36 @@ UID:2025-11-25T17:35:00/Galatasaray - Union SG
 DESCRIPTION:Galatasaray - Union SG - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ajax - Benfica - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20251125T173500
+DTEND:20251125T183500
+DTSTAMP:20251125T173500Z
+UID:2025-11-25T17:35:00/Ajax - Benfica
+DESCRIPTION:Ajax - Benfica - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
 DTSTART:20251125T193000
 DTEND:20251125T203000
 DTSTAMP:20251125T193000Z
 UID:2025-11-25T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prag - Athletic Club - Meistaradeild Evrópu - synsport5
+DTSTART:20251125T195000
+DTEND:20251125T205000
+DTSTAMP:20251125T195000Z
+UID:2025-11-25T19:50:00/Slavia Prag - Athletic Club
+DESCRIPTION:Slavia Prag - Athletic Club - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Villarreal - Meistaradeild Evrópu - synsport4
+DTSTART:20251125T195000
+DTEND:20251125T205000
+DTSTAMP:20251125T195000Z
+UID:2025-11-25T19:50:00/Dortmund - Villarreal
+DESCRIPTION:Dortmund - Villarreal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marseille - Newcastle - Meistaradeild Evrópu - synsport3
@@ -91,22 +74,6 @@ UID:2025-11-25T19:50:00/Man. City - Leverkusen
 DESCRIPTION:Man. City - Leverkusen - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Villarreal - Meistaradeild Evrópu - synsport4
-DTSTART:20251125T195000
-DTEND:20251125T205000
-DTSTAMP:20251125T195000Z
-UID:2025-11-25T19:50:00/Dortmund - Villarreal
-DESCRIPTION:Dortmund - Villarreal - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slavia Prag - Athletic Club - Meistaradeild Evrópu - synsport5
-DTSTART:20251125T195000
-DTEND:20251125T205000
-DTSTAMP:20251125T195000Z
-UID:2025-11-25T19:50:00/Slavia Prag - Athletic Club
-DESCRIPTION:Slavia Prag - Athletic Club - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chelsea - Barcelona - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20251125T195000
 DTEND:20251125T205000
@@ -123,20 +90,20 @@ UID:2025-11-25T22:00:00/Meistaradeildarmörkin
 DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VARsjáin - Premier League - synsport2
-DTSTART:20251125T221000
-DTEND:20251125T231000
-DTSTAMP:20251125T221000Z
-UID:2025-11-25T22:10:00/VARsjáin
-DESCRIPTION:VARsjáin - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lokasóknin - NFL - synsport3
 DTSTART:20251125T221000
 DTEND:20251125T231000
 DTSTAMP:20251125T221000Z
 UID:2025-11-25T22:10:00/Lokasóknin
 DESCRIPTION:Lokasóknin - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VARsjáin - Premier League - synsport2
+DTSTART:20251125T221000
+DTEND:20251125T231000
+DTSTAMP:20251125T221000Z
+UID:2025-11-25T22:10:00/VARsjáin
+DESCRIPTION:VARsjáin - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Bayern München - UEFA Youth League - synsport
@@ -203,12 +170,12 @@ UID:2025-11-26T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - PSV - Meistaradeild Evrópu - synsport2
+SUMMARY:Frankfurt - Atalanta - Meistaradeild Evrópu - synsport4
 DTSTART:20251126T195000
 DTEND:20251126T205000
 DTSTAMP:20251126T195000Z
-UID:2025-11-26T19:50:00/Liverpool - PSV
-DESCRIPTION:Liverpool - PSV - Meistaradeild Evrópu
+UID:2025-11-26T19:50:00/Frankfurt - Atalanta
+DESCRIPTION:Frankfurt - Atalanta - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olympiacos - Real Madrid - Meistaradeild Evrópu - synsport3
@@ -219,14 +186,6 @@ UID:2025-11-26T19:50:00/Olympiacos - Real Madrid
 DESCRIPTION:Olympiacos - Real Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Atalanta - Meistaradeild Evrópu - synsport4
-DTSTART:20251126T195000
-DTEND:20251126T205000
-DTSTAMP:20251126T195000Z
-UID:2025-11-26T19:50:00/Frankfurt - Atalanta
-DESCRIPTION:Frankfurt - Atalanta - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arsenal - Bayern München - Meistaradeild Evrópu - synsportviapla
  y
 DTSTART:20251126T195000
@@ -234,6 +193,14 @@ DTEND:20251126T205000
 DTSTAMP:20251126T195000Z
 UID:2025-11-26T19:50:00/Arsenal - Bayern München
 DESCRIPTION:Arsenal - Bayern München - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - PSV - Meistaradeild Evrópu - synsport2
+DTSTART:20251126T195000
+DTEND:20251126T205000
+DTSTAMP:20251126T195000Z
+UID:2025-11-26T19:50:00/Liverpool - PSV
+DESCRIPTION:Liverpool - PSV - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
@@ -268,20 +235,20 @@ UID:2025-11-27T17:30:00/Lions - Packers
 DESCRIPTION:Lions - Packers - NFL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAOK - Brann - Evrópudeildin - synsport3
-DTSTART:20251127T173500
-DTEND:20251127T183500
-DTSTAMP:20251127T173500Z
-UID:2025-11-27T17:35:00/PAOK - Brann
-DESCRIPTION:PAOK - Brann - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lille - Dinamo Zagreb - Evrópudeildin  - synsportviaplay
 DTSTART:20251127T173500
 DTEND:20251127T183500
 DTSTAMP:20251127T173500Z
 UID:2025-11-27T17:35:00/Lille - Dinamo Zagreb
 DESCRIPTION:Lille - Dinamo Zagreb - Evrópudeildin 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAOK - Brann - Evrópudeildin - synsport3
+DTSTART:20251127T173500
+DTEND:20251127T183500
+DTSTAMP:20251127T173500Z
+UID:2025-11-27T17:35:00/PAOK - Brann
+DESCRIPTION:PAOK - Brann - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lech Poznan - Lausanne - Sambandsdeildin - synsport4
@@ -437,12 +404,12 @@ UID:2025-11-29T13:55:00/F1 Katar: Sprint keppni
 DESCRIPTION:F1 Katar: Sprint keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. City - Leeds - Premier League - synsport2
+SUMMARY:Brentford - Burnley - Premier League - synsport3
 DTSTART:20251129T144000
 DTEND:20251129T154000
 DTSTAMP:20251129T144000Z
-UID:2025-11-29T14:40:00/Man. City - Leeds
-DESCRIPTION:Man. City - Leeds - Premier League
+UID:2025-11-29T14:40:00/Brentford - Burnley
+DESCRIPTION:Brentford - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -453,12 +420,12 @@ UID:2025-11-29T14:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Burnley - Premier League - synsport3
+SUMMARY:Man. City - Leeds - Premier League - synsport2
 DTSTART:20251129T144000
 DTEND:20251129T154000
 DTSTAMP:20251129T144000Z
-UID:2025-11-29T14:40:00/Brentford - Burnley
-DESCRIPTION:Brentford - Burnley - Premier League
+UID:2025-11-29T14:40:00/Man. City - Leeds
+DESCRIPTION:Man. City - Leeds - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Bournemouth - Premier League - synsport4
@@ -550,6 +517,14 @@ UID:2025-11-30T12:25:00/Elversberg - Darmstadt 98
 DESCRIPTION:Elversberg - Darmstadt 98 - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nott. Forest - Brighton - Premier League - synsport4
+DTSTART:20251130T134500
+DTEND:20251130T144500
+DTSTAMP:20251130T134500Z
+UID:2025-11-30T13:45:00/Nott. Forest - Brighton
+DESCRIPTION:Nott. Forest - Brighton - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aston Villa - Wolves - Premier League - synsport3
 DTSTART:20251130T134500
 DTEND:20251130T144500
@@ -564,14 +539,6 @@ DTEND:20251130T144500
 DTSTAMP:20251130T134500Z
 UID:2025-11-30T13:45:00/West Ham - Liverpool
 DESCRIPTION:West Ham - Liverpool - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nott. Forest - Brighton - Premier League - synsport4
-DTSTART:20251130T134500
-DTEND:20251130T144500
-DTSTAMP:20251130T134500Z
-UID:2025-11-30T13:45:00/Nott. Forest - Brighton
-DESCRIPTION:Nott. Forest - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1 Katar: Keppni - Formúla 1 - synsportviaplay
@@ -598,12 +565,12 @@ UID:2025-11-30T16:20:00/Chelsea - Arsenal: Data Zone
 DESCRIPTION:Chelsea - Arsenal: Data Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Panthers - Rams - NFL - synsport2
+SUMMARY:Colts - Texans - NFL - synsport2
 DTSTART:20251130T175500
 DTEND:20251130T185500
 DTSTAMP:20251130T175500Z
-UID:2025-11-30T17:55:00/Panthers - Rams
-DESCRIPTION:Panthers - Rams - NFL
+UID:2025-11-30T17:55:00/Colts - Texans
+DESCRIPTION:Colts - Texans - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NFL Red Zone - NFL - synsport5
@@ -644,5 +611,13 @@ DTEND:20251201T002000
 DTSTAMP:20251130T232000Z
 UID:2025-11-30T23:20:00/Stars - Senators
 DESCRIPTION:Stars - Senators - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birmingham - Watford - EFL Championship - synsportviaplay
+DTSTART:20251201T195500
+DTEND:20251201T205500
+DTSTAMP:20251201T195500Z
+UID:2025-12-01T19:55:00/Birmingham - Watford
+DESCRIPTION:Birmingham - Watford - EFL Championship
 END:VEVENT
 END:VCALENDAR
