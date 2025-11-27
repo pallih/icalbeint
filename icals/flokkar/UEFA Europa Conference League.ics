@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - UEFA Europa Conference League - ical
 BEGIN:VEVENT
+SUMMARY:Zrinjski - Häcken - UEFA Europa Conference League - viaplay
+DTSTART:20251127T174000
+DTEND:20251127T184000
+DTSTAMP:20251127T174000Z
+UID:2025-11-27T17:40:00/Zrinjski - Häcken
+DESCRIPTION:Zrinjski - Häcken - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Slovan Bratislava - Rayo Vallecano - UEFA Europa Conference League
   - viaplay
 DTSTART:20251127T174000
@@ -39,21 +47,12 @@ DESCRIPTION:Raków Częstochowa - Rapid Wien - UEFA Europa Conference Leag
  ue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Omonia Nicosia - Dynamo Kyiv - UEFA Europa Conference League - via
- play
+SUMMARY:AZ Alkmaar - Shelbourne - UEFA Europa Conference League - viaplay
 DTSTART:20251127T174000
 DTEND:20251127T184000
 DTSTAMP:20251127T174000Z
-UID:2025-11-27T17:40:00/Omonia Nicosia - Dynamo Kyiv
-DESCRIPTION:Omonia Nicosia - Dynamo Kyiv - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zrinjski - Häcken - UEFA Europa Conference League - viaplay
-DTSTART:20251127T174000
-DTEND:20251127T184000
-DTSTAMP:20251127T174000Z
-UID:2025-11-27T17:40:00/Zrinjski - Häcken
-DESCRIPTION:Zrinjski - Häcken - UEFA Europa Conference League
+UID:2025-11-27T17:40:00/AZ Alkmaar - Shelbourne
+DESCRIPTION:AZ Alkmaar - Shelbourne - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamrun Spartans - Lincoln Red Imps - UEFA Europa Conference League
@@ -66,12 +65,13 @@ DESCRIPTION:Hamrun Spartans - Lincoln Red Imps - UEFA Europa Conference Le
  ague
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AZ Alkmaar - Shelbourne - UEFA Europa Conference League - viaplay
+SUMMARY:Omonia Nicosia - Dynamo Kyiv - UEFA Europa Conference League - via
+ play
 DTSTART:20251127T174000
 DTEND:20251127T184000
 DTSTAMP:20251127T174000Z
-UID:2025-11-27T17:40:00/AZ Alkmaar - Shelbourne
-DESCRIPTION:AZ Alkmaar - Shelbourne - UEFA Europa Conference League
+UID:2025-11-27T17:40:00/Omonia Nicosia - Dynamo Kyiv
+DESCRIPTION:Omonia Nicosia - Dynamo Kyiv - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fiorentina - AEK Athens - UEFA Europa Conference League - viaplay
@@ -80,32 +80,6 @@ DTEND:20251127T205000
 DTSTAMP:20251127T195000Z
 UID:2025-11-27T19:50:00/Fiorentina - AEK Athens
 DESCRIPTION:Fiorentina - AEK Athens - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rijeka - AEK Larnaca - UEFA Europa Conference League - viaplay
-DTSTART:20251127T195500
-DTEND:20251127T205500
-DTSTAMP:20251127T195500Z
-UID:2025-11-27T19:55:00/Rijeka - AEK Larnaca
-DESCRIPTION:Rijeka - AEK Larnaca - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jagiellonia Białystok - KuPS - UEFA Europa Conference League - vi
- aplay
-DTSTART:20251127T195500
-DTEND:20251127T205500
-DTSTAMP:20251127T195500Z
-UID:2025-11-27T19:55:00/Jagiellonia Białystok - KuPS
-DESCRIPTION:Jagiellonia Białystok - KuPS - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legia Warszawa - Sparta Prag - UEFA Europa Conference League - via
- play
-DTSTART:20251127T195500
-DTEND:20251127T205500
-DTSTAMP:20251127T195500Z
-UID:2025-11-27T19:55:00/Legia Warszawa - Sparta Prag
-DESCRIPTION:Legia Warszawa - Sparta Prag - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shamrock Rovers - Shakhtar Donetsk - UEFA Europa Conference League
@@ -127,12 +101,30 @@ UID:2025-11-27T19:55:00/Strasbourg - Crystal Palace
 DESCRIPTION:Strasbourg - Crystal Palace - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aberdeen - Noah - UEFA Europa Conference League - viaplay
+SUMMARY:Legia Warszawa - Sparta Prag - UEFA Europa Conference League - via
+ play
 DTSTART:20251127T195500
 DTEND:20251127T205500
 DTSTAMP:20251127T195500Z
-UID:2025-11-27T19:55:00/Aberdeen - Noah
-DESCRIPTION:Aberdeen - Noah - UEFA Europa Conference League
+UID:2025-11-27T19:55:00/Legia Warszawa - Sparta Prag
+DESCRIPTION:Legia Warszawa - Sparta Prag - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jagiellonia Białystok - KuPS - UEFA Europa Conference League - vi
+ aplay
+DTSTART:20251127T195500
+DTEND:20251127T205500
+DTSTAMP:20251127T195500Z
+UID:2025-11-27T19:55:00/Jagiellonia Białystok - KuPS
+DESCRIPTION:Jagiellonia Białystok - KuPS - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rijeka - AEK Larnaca - UEFA Europa Conference League - viaplay
+DTSTART:20251127T195500
+DTEND:20251127T205500
+DTSTAMP:20251127T195500Z
+UID:2025-11-27T19:55:00/Rijeka - AEK Larnaca
+DESCRIPTION:Rijeka - AEK Larnaca - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drita - Shkendija - UEFA Europa Conference League - viaplay
@@ -141,5 +133,13 @@ DTEND:20251127T205500
 DTSTAMP:20251127T195500Z
 UID:2025-11-27T19:55:00/Drita - Shkendija
 DESCRIPTION:Drita - Shkendija - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aberdeen - Noah - UEFA Europa Conference League - viaplay
+DTSTART:20251127T195500
+DTEND:20251127T205500
+DTSTAMP:20251127T195500Z
+UID:2025-11-27T19:55:00/Aberdeen - Noah
+DESCRIPTION:Aberdeen - Noah - UEFA Europa Conference League
 END:VEVENT
 END:VCALENDAR
