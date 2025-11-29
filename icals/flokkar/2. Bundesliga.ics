@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Schalke - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20251128T172500
-DTEND:20251128T182500
-DTSTAMP:20251128T172500Z
-UID:2025-11-28T17:25:00/Schalke - Paderborn
-DESCRIPTION:Schalke - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hannover - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20251128T172500
-DTEND:20251128T182500
-DTSTAMP:20251128T172500Z
-UID:2025-11-28T17:25:00/Hannover - Karlsruher
-DESCRIPTION:Hannover - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Hertha Berlin - 2. Bundesliga - viaplay
 DTSTART:20251129T115500
 DTEND:20251129T125500
@@ -42,7 +26,7 @@ UID:2025-11-29T11:55:00/Greuther Fürth - Bochum
 DESCRIPTION:Greuther Fürth - Bochum - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Nürnberg - 2. Bundesliga - viaplay
+SUMMARY:Magdeburg - Nürnberg - 2. Bundesliga - synsportviaplay
 DTSTART:20251129T192500
 DTEND:20251129T202500
 DTSTAMP:20251129T192500Z
@@ -50,7 +34,7 @@ UID:2025-11-29T19:25:00/Magdeburg - Nürnberg
 DESCRIPTION:Magdeburg - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Nürnberg - 2. Bundesliga - synsportviaplay
+SUMMARY:Magdeburg - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20251129T192500
 DTEND:20251129T202500
 DTSTAMP:20251129T192500Z
@@ -88,5 +72,29 @@ DTEND:20251130T132500
 DTSTAMP:20251130T122500Z
 UID:2025-11-30T12:25:00/Elversberg - Darmstadt 98
 DESCRIPTION:Elversberg - Darmstadt 98 - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preußen Münster - Hannover - 2. Bundesliga - viaplay
+DTSTART:20251205T172500
+DTEND:20251205T182500
+DTSTAMP:20251205T172500Z
+UID:2025-12-05T17:25:00/Preußen Münster - Hannover
+DESCRIPTION:Preußen Münster - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsserldorf - Schalke 04 - 2. Bundesliga - synsportviaplay
+DTSTART:20251205T172500
+DTEND:20251205T182500
+DTSTAMP:20251205T172500Z
+UID:2025-12-05T17:25:00/Düsserldorf - Schalke 04
+DESCRIPTION:Düsserldorf - Schalke 04 - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf - Schalke - 2. Bundesliga - viaplay
+DTSTART:20251205T172500
+DTEND:20251205T182500
+DTSTAMP:20251205T172500Z
+UID:2025-12-05T17:25:00/Düsseldorf - Schalke
+DESCRIPTION:Düsseldorf - Schalke - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
