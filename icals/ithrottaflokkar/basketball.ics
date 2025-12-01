@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Ísland - Bretland - Undankeppni HM karla í körfubolta - ruv
-DTSTART:20251130T164500
-DTEND:20251130T174500
-DTSTAMP:20251130T164500Z
-UID:2025-11-30T16:45:00/Ísland - Bretland
-DESCRIPTION:Ísland - Bretland - Undankeppni HM karla í körfubolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz - Rockets - NBA - livey
-DTSTART:20251130T200000
-DTEND:20251130T210000
-DTSTAMP:20251130T200000Z
-UID:2025-11-30T20:00:00/Jazz - Rockets
-DESCRIPTION:Jazz - Rockets - NBA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Haukar - Bónus deild kvenna - synsportisland3
 DTSTART:20251202T190500
 DTEND:20251202T200500
@@ -32,6 +16,14 @@ DTEND:20251202T200500
 DTSTAMP:20251202T190500Z
 UID:2025-12-02T19:05:00/KR - Ármann
 DESCRIPTION:KR - Ármann - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Keflavík - Bónus deild kvenna - synsportisland
+DTSTART:20251202T190500
+DTEND:20251202T200500
+DTSTAMP:20251202T190500Z
+UID:2025-12-02T19:05:00/Valur - Keflavík
+DESCRIPTION:Valur - Keflavík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Njarðvík - Stjarnan - Bónus deild kvenna - synsportisland
@@ -59,12 +51,12 @@ UID:2025-12-03T21:10:00/Bónus Körfuboltakvöld kvenna
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - KR - Bónus deild karla - synsportisland4
+SUMMARY:Valur - Njarðvík - Bónus deild karla - synsportisland2
 DTSTART:20251205T190500
 DTEND:20251205T200500
 DTSTAMP:20251205T190500Z
-UID:2025-12-05T19:05:00/Keflavík - KR
-DESCRIPTION:Keflavík - KR - Bónus deild karla
+UID:2025-12-05T19:05:00/Valur - Njarðvík
+DESCRIPTION:Valur - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - ÍA - Bónus deild karla - synsportisland5
@@ -75,20 +67,20 @@ UID:2025-12-05T19:05:00/Tindastóll - ÍA
 DESCRIPTION:Tindastóll - ÍA - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Keflavík - KR - Bónus deild karla - synsportisland4
+DTSTART:20251205T190500
+DTEND:20251205T200500
+DTSTAMP:20251205T190500Z
+UID:2025-12-05T19:05:00/Keflavík - KR
+DESCRIPTION:Keflavík - KR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍR - Álftanes - Bónus deild karla - synsportisland3
 DTSTART:20251205T190500
 DTEND:20251205T200500
 DTSTAMP:20251205T190500Z
 UID:2025-12-05T19:05:00/ÍR - Álftanes
 DESCRIPTION:ÍR - Álftanes - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Njarðvík - Bónus deild karla - synsportisland2
-DTSTART:20251205T190500
-DTEND:20251205T200500
-DTSTAMP:20251205T190500Z
-UID:2025-12-05T19:05:00/Valur - Njarðvík
-DESCRIPTION:Valur - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -113,5 +105,45 @@ DTEND:20251206T195000
 DTSTAMP:20251206T185000Z
 UID:2025-12-06T18:50:00/Ármann - Þór Þ.
 DESCRIPTION:Ármann - Þór Þ. - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nets - Pelicans - NBA - livey
+DTSTART:20251206T220000
+DTEND:20251206T230000
+DTSTAMP:20251206T220000Z
+UID:2025-12-06T22:00:00/Nets - Pelicans
+DESCRIPTION:Nets - Pelicans - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knicks - Magic - NBA - livey
+DTSTART:20251207T170000
+DTEND:20251207T180000
+DTSTAMP:20251207T170000Z
+UID:2025-12-07T17:00:00/Knicks - Magic
+DESCRIPTION:Knicks - Magic - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Grindavík - Bónus deild karla - synsportisland
+DTSTART:20251207T190000
+DTEND:20251207T200000
+DTSTAMP:20251207T190000Z
+UID:2025-12-07T19:00:00/Stjarnan - Grindavík
+DESCRIPTION:Stjarnan - Grindavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raptors - Celtics - NBA - livey
+DTSTART:20251207T203000
+DTEND:20251207T213000
+DTSTAMP:20251207T203000Z
+UID:2025-12-07T20:30:00/Raptors - Celtics
+DESCRIPTION:Raptors - Celtics - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
+DTSTART:20251207T210500
+DTEND:20251207T220500
+DTSTAMP:20251207T210500Z
+UID:2025-12-07T21:05:00/Bónus Körfuboltakvöld 
+DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
