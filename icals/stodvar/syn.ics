@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Birmingham - Watford - EFL Championship - synsportviaplay
-DTSTART:20251201T195500
-DTEND:20251201T205500
-DTSTAMP:20251201T195500Z
-UID:2025-12-01T19:55:00/Birmingham - Watford
-DESCRIPTION:Birmingham - Watford - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flyers - Penguins - NHL - synsportviaplay
-DTSTART:20251202T000500
-DTEND:20251202T010500
-DTSTAMP:20251202T000500Z
-UID:2025-12-02T00:05:00/Flyers - Penguins
-DESCRIPTION:Flyers - Penguins - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VARsjáin - Premier League - synsport
 DTSTART:20251202T185000
 DTEND:20251202T195000
 DTSTAMP:20251202T185000Z
 UID:2025-12-02T18:50:00/VARsjáin
 DESCRIPTION:VARsjáin - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tindastóll - Haukar - Bónus deild kvenna - synsportisland3
-DTSTART:20251202T190500
-DTEND:20251202T200500
-DTSTAMP:20251202T190500Z
-UID:2025-12-02T19:05:00/Tindastóll - Haukar
-DESCRIPTION:Tindastóll - Haukar - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Ármann - Bónus deild kvenna - synsportisland2
@@ -50,12 +26,12 @@ UID:2025-12-02T19:05:00/Valur - Keflavík
 DESCRIPTION:Valur - Keflavík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Man. City - Premier League - synsport2
-DTSTART:20251202T191000
-DTEND:20251202T201000
-DTSTAMP:20251202T191000Z
-UID:2025-12-02T19:10:00/Fulham - Man. City
-DESCRIPTION:Fulham - Man. City - Premier League
+SUMMARY:Tindastóll - Haukar - Bónus deild kvenna - synsportisland3
+DTSTART:20251202T190500
+DTEND:20251202T200500
+DTSTAMP:20251202T190500Z
+UID:2025-12-02T19:05:00/Tindastóll - Haukar
+DESCRIPTION:Tindastóll - Haukar - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Everton - Premier League - synsport3
@@ -64,6 +40,14 @@ DTEND:20251202T201000
 DTSTAMP:20251202T191000Z
 UID:2025-12-02T19:10:00/Bournemouth - Everton
 DESCRIPTION:Bournemouth - Everton - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Man. City - Premier League - synsport2
+DTSTART:20251202T191000
+DTEND:20251202T201000
+DTSTAMP:20251202T191000Z
+UID:2025-12-02T19:10:00/Fulham - Man. City
+DESCRIPTION:Fulham - Man. City - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Tottenham - Premier League - synsport
@@ -90,20 +74,12 @@ UID:2025-12-03T00:05:00/Canadiens - Senators
 DESCRIPTION:Canadiens - Senators - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pool - Mosconi Cup  - synsportviaplay
+SUMMARY:Mosconi Cup - Pool - synsportviaplay
 DTSTART:20251203T183000
 DTEND:20251203T193000
 DTSTAMP:20251203T183000Z
-UID:2025-12-03T18:30:00/Pool
-DESCRIPTION:Pool - Mosconi Cup 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Njarðvík - Stjarnan - Bónus deild kvenna - synsportisland
-DTSTART:20251203T190500
-DTEND:20251203T200500
-DTSTAMP:20251203T190500Z
-UID:2025-12-03T19:05:00/Njarðvík - Stjarnan
-DESCRIPTION:Njarðvík - Stjarnan - Bónus deild kvenna
+UID:2025-12-03T18:30:00/Mosconi Cup
+DESCRIPTION:Mosconi Cup - Pool
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík - Hamar/Þór - Bónus deild kvenna - synsportisland2
@@ -112,6 +88,14 @@ DTEND:20251203T200500
 DTSTAMP:20251203T190500Z
 UID:2025-12-03T19:05:00/Grindavík - Hamar/Þór
 DESCRIPTION:Grindavík - Hamar/Þór - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Stjarnan - Bónus deild kvenna - synsportisland
+DTSTART:20251203T190500
+DTEND:20251203T200500
+DTSTAMP:20251203T190500Z
+UID:2025-12-03T19:05:00/Njarðvík - Stjarnan
+DESCRIPTION:Njarðvík - Stjarnan - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Brentford - Premier League - synsport3
@@ -138,20 +122,20 @@ UID:2025-12-03T19:15:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Crystal Palace - Premier League - synsport6
-DTSTART:20251203T192000
-DTEND:20251203T202000
-DTSTAMP:20251203T192000Z
-UID:2025-12-03T19:20:00/Burnley - Crystal Palace
-DESCRIPTION:Burnley - Crystal Palace - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolves - Nott. Forest - Premier League - synsportisland3
 DTSTART:20251203T192000
 DTEND:20251203T202000
 DTSTAMP:20251203T192000Z
 UID:2025-12-03T19:20:00/Wolves - Nott. Forest
 DESCRIPTION:Wolves - Nott. Forest - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Crystal Palace - Premier League - synsport6
+DTSTART:20251203T192000
+DTEND:20251203T202000
+DTSTAMP:20251203T192000Z
+UID:2025-12-03T19:20:00/Burnley - Crystal Palace
+DESCRIPTION:Burnley - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leeds - Chelsea - Premier League - synsport4
@@ -283,6 +267,14 @@ UID:2025-12-05T17:25:00/Düsserldorf - Schalke 04
 DESCRIPTION:Düsserldorf - Schalke 04 - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Keflavík - KR - Bónus deild karla - synsportisland4
+DTSTART:20251205T190500
+DTEND:20251205T200500
+DTSTAMP:20251205T190500Z
+UID:2025-12-05T19:05:00/Keflavík - KR
+DESCRIPTION:Keflavík - KR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valur - Njarðvík - Bónus deild karla - synsportisland2
 DTSTART:20251205T190500
 DTEND:20251205T200500
@@ -297,14 +289,6 @@ DTEND:20251205T200500
 DTSTAMP:20251205T190500Z
 UID:2025-12-05T19:05:00/Tindastóll - ÍA
 DESCRIPTION:Tindastóll - ÍA - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Keflavík - KR - Bónus deild karla - synsportisland4
-DTSTART:20251205T190500
-DTEND:20251205T200500
-DTSTAMP:20251205T190500Z
-UID:2025-12-05T19:05:00/Keflavík - KR
-DESCRIPTION:Keflavík - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Álftanes - Bónus deild karla - synsportisland3
@@ -387,6 +371,22 @@ UID:2025-12-06T13:50:00/F1: Abu Dhabi - Tímataka
 DESCRIPTION:F1: Abu Dhabi - Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Man. City - Sunderland - Premier League - synsport2
+DTSTART:20251206T144000
+DTEND:20251206T154000
+DTSTAMP:20251206T144000Z
+UID:2025-12-06T14:40:00/Man. City - Sunderland
+DESCRIPTION:Man. City - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Chelsea - Premier League - synsport3
+DTSTART:20251206T144000
+DTEND:20251206T154000
+DTSTAMP:20251206T144000Z
+UID:2025-12-06T14:40:00/Bournemouth - Chelsea
+DESCRIPTION:Bournemouth - Chelsea - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20251206T144000
 DTEND:20251206T154000
@@ -403,20 +403,12 @@ UID:2025-12-06T14:40:00/Tottenham - Brentford
 DESCRIPTION:Tottenham - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Chelsea - Premier League - synsport3
-DTSTART:20251206T144000
-DTEND:20251206T154000
-DTSTAMP:20251206T144000Z
-UID:2025-12-06T14:40:00/Bournemouth - Chelsea
-DESCRIPTION:Bournemouth - Chelsea - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. City - Sunderland - Premier League - synsport2
-DTSTART:20251206T144000
-DTEND:20251206T154000
-DTSTAMP:20251206T144000Z
-UID:2025-12-06T14:40:00/Man. City - Sunderland
-DESCRIPTION:Man. City - Sunderland - Premier League
+SUMMARY:Everton - Nott. Forest - Premier League - synsport5
+DTSTART:20251206T145000
+DTEND:20251206T155000
+DTSTAMP:20251206T145000Z
+UID:2025-12-06T14:50:00/Everton - Nott. Forest
+DESCRIPTION:Everton - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Burnley - Premier League - synsport6
@@ -425,14 +417,6 @@ DTEND:20251206T155000
 DTSTAMP:20251206T145000Z
 UID:2025-12-06T14:50:00/Newcastle - Burnley
 DESCRIPTION:Newcastle - Burnley - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - Nott. Forest - Premier League - synsport5
-DTSTART:20251206T145000
-DTEND:20251206T155000
-DTSTAMP:20251206T145000Z
-UID:2025-12-06T14:50:00/Everton - Nott. Forest
-DESCRIPTION:Everton - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport2
@@ -594,5 +578,37 @@ DTEND:20251207T230500
 DTSTAMP:20251207T220500Z
 UID:2025-12-07T22:05:00/Panthers - Islanders
 DESCRIPTION:Panthers - Islanders - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FA Cup: Dráttur - FA Cup - synsportviaplay
+DTSTART:20251208T183000
+DTEND:20251208T193000
+DTSTAMP:20251208T183000Z
+UID:2025-12-08T18:30:00/FA Cup: Dráttur
+DESCRIPTION:FA Cup: Dráttur - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brackley Town - Burton Albion - FA Cup - synsportviaplay
+DTSTART:20251208T192500
+DTEND:20251208T202500
+DTSTAMP:20251208T192500Z
+UID:2025-12-08T19:25:00/Brackley Town - Burton Albion
+DESCRIPTION:Brackley Town - Burton Albion - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolves - Man. Utd. - Premier League - synsport
+DTSTART:20251208T194000
+DTEND:20251208T204000
+DTSTAMP:20251208T194000Z
+UID:2025-12-08T19:40:00/Wolves - Man. Utd.
+DESCRIPTION:Wolves - Man. Utd. - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deildin - Extra - Bónus deild karla - synsportisland
+DTSTART:20251208T200000
+DTEND:20251208T210000
+DTSTAMP:20251208T200000Z
+UID:2025-12-08T20:00:00/Bónus deildin - Extra
+DESCRIPTION:Bónus deildin - Extra - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
