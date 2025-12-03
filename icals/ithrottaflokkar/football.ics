@@ -2,62 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Spánn - Þýskaland - UEFA Women's Nations League - viaplay
-DTSTART:20251202T172000
-DTEND:20251202T182000
-DTSTAMP:20251202T172000Z
-UID:2025-12-02T17:20:00/Spánn - Þýskaland
-DESCRIPTION:Spánn - Þýskaland - UEFA Women's Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VARsjáin - Premier League - synsport
-DTSTART:20251202T185000
-DTEND:20251202T195000
-DTSTAMP:20251202T185000Z
-UID:2025-12-02T18:50:00/VARsjáin
-DESCRIPTION:VARsjáin - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bournemouth - Everton - Premier League - synsport3
-DTSTART:20251202T191000
-DTEND:20251202T201000
-DTSTAMP:20251202T191000Z
-UID:2025-12-02T19:10:00/Bournemouth - Everton
-DESCRIPTION:Bournemouth - Everton - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fulham - Man. City - Premier League - synsport2
-DTSTART:20251202T191000
-DTEND:20251202T201000
-DTSTAMP:20251202T191000Z
-UID:2025-12-02T19:10:00/Fulham - Man. City
-DESCRIPTION:Fulham - Man. City - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Newcastle - Tottenham - Premier League - synsport
-DTSTART:20251202T195500
-DTEND:20251202T205500
-DTSTAMP:20251202T195500Z
-UID:2025-12-02T19:55:00/Newcastle - Tottenham
-DESCRIPTION:Newcastle - Tottenham - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juventus - Udinese - Serie A - Ítalski boltinn - livey
-DTSTART:20251202T200000
-DTEND:20251202T210000
-DTSTAMP:20251202T200000Z
-UID:2025-12-02T20:00:00/Juventus - Udinese
-DESCRIPTION:Juventus - Udinese - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barcelona - Atletico Madrid - LaLiga - Spænski boltinn - livey
-DTSTART:20251202T200000
-DTEND:20251202T210000
-DTSTAMP:20251202T200000Z
-UID:2025-12-02T20:00:00/Barcelona - Atletico Madrid
-DESCRIPTION:Barcelona - Atletico Madrid - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atalanta - Genoa - Serie A - Ítalski boltinn - livey
 DTSTART:20251203T140000
 DTEND:20251203T150000
@@ -82,14 +26,6 @@ UID:2025-12-03T18:00:00/Athletic Bilbao - Real Madrid
 DESCRIPTION:Athletic Bilbao - Real Madrid - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Brentford - Premier League - synsport3
-DTSTART:20251203T191000
-DTEND:20251203T201000
-DTSTAMP:20251203T191000Z
-UID:2025-12-03T19:10:00/Arsenal - Brentford
-DESCRIPTION:Arsenal - Brentford - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brighton - Aston Villa - Premier League - synsport5
 DTSTART:20251203T191000
 DTEND:20251203T201000
@@ -98,12 +34,12 @@ UID:2025-12-03T19:10:00/Brighton - Aston Villa
 DESCRIPTION:Brighton - Aston Villa - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
-DTSTART:20251203T191500
-DTEND:20251203T201500
-DTSTAMP:20251203T191500Z
-UID:2025-12-03T19:15:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
+SUMMARY:Arsenal - Brentford - Premier League - synsport3
+DTSTART:20251203T191000
+DTEND:20251203T201000
+DTSTAMP:20251203T191000Z
+UID:2025-12-03T19:10:00/Arsenal - Brentford
+DESCRIPTION:Arsenal - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Nott. Forest - Premier League - synsportisland3
@@ -114,6 +50,14 @@ UID:2025-12-03T19:20:00/Wolves - Nott. Forest
 DESCRIPTION:Wolves - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20251203T192000
+DTEND:20251203T202000
+DTSTAMP:20251203T192000Z
+UID:2025-12-03T19:20:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burnley - Crystal Palace - Premier League - synsport6
 DTSTART:20251203T192000
 DTEND:20251203T202000
@@ -122,20 +66,20 @@ UID:2025-12-03T19:20:00/Burnley - Crystal Palace
 DESCRIPTION:Burnley - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leeds - Chelsea - Premier League - synsport4
-DTSTART:20251203T195500
-DTEND:20251203T205500
-DTSTAMP:20251203T195500Z
-UID:2025-12-03T19:55:00/Leeds - Chelsea
-DESCRIPTION:Leeds - Chelsea - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liverpool - Sunderland - Premier League - synsport2
 DTSTART:20251203T195500
 DTEND:20251203T205500
 DTSTAMP:20251203T195500Z
 UID:2025-12-03T19:55:00/Liverpool - Sunderland
 DESCRIPTION:Liverpool - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds - Chelsea - Premier League - synsport4
+DTSTART:20251203T195500
+DTEND:20251203T205500
+DTSTAMP:20251203T195500Z
+UID:2025-12-03T19:55:00/Leeds - Chelsea
+DESCRIPTION:Leeds - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Milan - Venezia - Serie A - Ítalski boltinn - livey
@@ -250,6 +194,14 @@ UID:2025-12-05T19:55:00/Hull - Middlesbrough
 DESCRIPTION:Hull - Middlesbrough - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bochum - Arminia Bielefeld - 2. Bundesliga - viaplay
+DTSTART:20251206T115500
+DTEND:20251206T125500
+DTSTAMP:20251206T115500Z
+UID:2025-12-06T11:55:00/Bochum - Arminia Bielefeld
+DESCRIPTION:Bochum - Arminia Bielefeld - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Dynamo Dresden - 2. Bundesliga - viaplay
 DTSTART:20251206T115500
 DTEND:20251206T125500
@@ -264,14 +216,6 @@ DTEND:20251206T125500
 DTSTAMP:20251206T115500Z
 UID:2025-12-06T11:55:00/Paderborn - Elversberg
 DESCRIPTION:Paderborn - Elversberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bochum - Arminia Bielefeld - 2. Bundesliga - viaplay
-DTSTART:20251206T115500
-DTEND:20251206T125500
-DTSTAMP:20251206T115500Z
-UID:2025-12-06T11:55:00/Bochum - Arminia Bielefeld
-DESCRIPTION:Bochum - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aston Villa - Arsenal - Premier League - synsport
@@ -298,14 +242,6 @@ UID:2025-12-06T12:55:00/Leverkusen - Leipzig
 DESCRIPTION:Leverkusen - Leipzig - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köln - St. Pauli - Bundesliga - viaplay
-DTSTART:20251206T142000
-DTEND:20251206T152000
-DTSTAMP:20251206T142000Z
-UID:2025-12-06T14:20:00/Köln - St. Pauli
-DESCRIPTION:Köln - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heidenheim - Freiburg - Bundesliga - viaplay
 DTSTART:20251206T142000
 DTEND:20251206T152000
@@ -314,12 +250,20 @@ UID:2025-12-06T14:20:00/Heidenheim - Freiburg
 DESCRIPTION:Heidenheim - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Bayer Leverkusen - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20251206T142000
 DTEND:20251206T152000
 DTSTAMP:20251206T142000Z
-UID:2025-12-06T14:20:00/Augsburg - Bayer Leverkusen
-DESCRIPTION:Augsburg - Bayer Leverkusen - Bundesliga
+UID:2025-12-06T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln - St. Pauli - Bundesliga - viaplay
+DTSTART:20251206T142000
+DTEND:20251206T152000
+DTSTAMP:20251206T142000Z
+UID:2025-12-06T14:20:00/Köln - St. Pauli
+DESCRIPTION:Köln - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Union Berlin - Bundesliga - viaplay
@@ -338,12 +282,12 @@ UID:2025-12-06T14:20:00/Stuttgart - Bayern München
 DESCRIPTION:Stuttgart - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Augsburg - Bayer Leverkusen - Bundesliga - viaplay
 DTSTART:20251206T142000
 DTEND:20251206T152000
 DTSTAMP:20251206T142000Z
-UID:2025-12-06T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2025-12-06T14:20:00/Augsburg - Bayer Leverkusen
+DESCRIPTION:Augsburg - Bayer Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Sunderland - Premier League - synsport2
@@ -378,20 +322,20 @@ UID:2025-12-06T14:40:00/Tottenham - Brentford
 DESCRIPTION:Tottenham - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Nott. Forest - Premier League - synsport5
-DTSTART:20251206T145000
-DTEND:20251206T155000
-DTSTAMP:20251206T145000Z
-UID:2025-12-06T14:50:00/Everton - Nott. Forest
-DESCRIPTION:Everton - Nott. Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Newcastle - Burnley - Premier League - synsport6
 DTSTART:20251206T145000
 DTEND:20251206T155000
 DTSTAMP:20251206T145000Z
 UID:2025-12-06T14:50:00/Newcastle - Burnley
 DESCRIPTION:Newcastle - Burnley - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Nott. Forest - Premier League - synsport5
+DTSTART:20251206T145000
+DTEND:20251206T155000
+DTSTAMP:20251206T145000Z
+UID:2025-12-06T14:50:00/Everton - Nott. Forest
+DESCRIPTION:Everton - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bristol City - Millwall - Championship - viaplay
@@ -458,12 +402,12 @@ UID:2025-12-07T12:20:00/Slough Town - Macclesfield
 DESCRIPTION:Slough Town - Macclesfield - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschweig - Holstein Kiel - 2. Bundesliga - viaplay
+SUMMARY:Nürnberg - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20251207T122500
 DTEND:20251207T132500
 DTSTAMP:20251207T122500Z
-UID:2025-12-07T12:25:00/Braunschweig - Holstein Kiel
-DESCRIPTION:Braunschweig - Holstein Kiel - 2. Bundesliga
+UID:2025-12-07T12:25:00/Nürnberg - Greuther Fürth
+DESCRIPTION:Nürnberg - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Magdeburg - 2. Bundesliga - viaplay
@@ -474,12 +418,12 @@ UID:2025-12-07T12:25:00/Hertha Berlin - Magdeburg
 DESCRIPTION:Hertha Berlin - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Greuther Fürth - 2. Bundesliga - viaplay
+SUMMARY:Braunschweig - Holstein Kiel - 2. Bundesliga - viaplay
 DTSTART:20251207T122500
 DTEND:20251207T132500
 DTSTAMP:20251207T122500Z
-UID:2025-12-07T12:25:00/Nürnberg - Greuther Fürth
-DESCRIPTION:Nürnberg - Greuther Fürth - 2. Bundesliga
+UID:2025-12-07T12:25:00/Braunschweig - Holstein Kiel
+DESCRIPTION:Braunschweig - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brighton - West Ham - Premier League - synsport
@@ -600,5 +544,158 @@ DTEND:20251208T204000
 DTSTAMP:20251208T194000Z
 UID:2025-12-08T19:40:00/Wolves - Man. Utd.
 DESCRIPTION:Wolves - Man. Utd. - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV - Atlético Madrid - UEFA Youth League - viaplay
+DTSTART:20251209T125500
+DTEND:20251209T135500
+DTSTAMP:20251209T125500Z
+UID:2025-12-09T12:55:00/PSV - Atlético Madrid
+DESCRIPTION:PSV - Atlético Madrid - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV - Atletico Madrid - UEFA Youth League - synsport
+DTSTART:20251209T125500
+DTEND:20251209T135500
+DTSTAMP:20251209T125500Z
+UID:2025-12-09T12:55:00/PSV - Atletico Madrid
+DESCRIPTION:PSV - Atletico Madrid - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter - Liverpool - UEFA Youth League - synsport
+DTSTART:20251209T145500
+DTEND:20251209T155500
+DTSTAMP:20251209T145500Z
+UID:2025-12-09T14:55:00/Inter - Liverpool
+DESCRIPTION:Inter - Liverpool - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter - Liverpool - UEFA Youth League - viaplay
+DTSTART:20251209T145500
+DTEND:20251209T155500
+DTSTAMP:20251209T145500Z
+UID:2025-12-09T14:55:00/Inter - Liverpool
+DESCRIPTION:Inter - Liverpool - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VARsjáin - Premier League - synsport
+DTSTART:20251209T173000
+DTEND:20251209T183000
+DTSTAMP:20251209T173000Z
+UID:2025-12-09T17:30:00/VARsjáin
+DESCRIPTION:VARsjáin - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Sporting - Meistaradeild Evrópu - synsportviapl
+ ay
+DTSTART:20251209T173500
+DTEND:20251209T183500
+DTSTAMP:20251209T173500Z
+UID:2025-12-09T17:35:00/Bayern München - Sporting
+DESCRIPTION:Bayern München - Sporting - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeild Evrópu - Meistaradeild Evrópu - synsport2
+DTSTART:20251209T173500
+DTEND:20251209T183500
+DTSTAMP:20251209T173500Z
+UID:2025-12-09T17:35:00/Meistaradeild Evrópu
+DESCRIPTION:Meistaradeild Evrópu - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Sporting - Champions League - viaplay
+DTSTART:20251209T173500
+DTEND:20251209T183500
+DTSTAMP:20251209T173500Z
+UID:2025-12-09T17:35:00/Bayern München - Sporting
+DESCRIPTION:Bayern München - Sporting - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - Champions League - viaplay
+DTSTART:20251209T193000
+DTEND:20251209T203000
+DTSTAMP:20251209T193000Z
+UID:2025-12-09T19:30:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
+DTSTART:20251209T193000
+DTEND:20251209T203000
+DTSTAMP:20251209T193000Z
+UID:2025-12-09T19:30:00/Meistaradeildarmessan
+DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter - Liverpool - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20251209T195000
+DTEND:20251209T205000
+DTSTAMP:20251209T195000Z
+UID:2025-12-09T19:50:00/Inter - Liverpool
+DESCRIPTION:Inter - Liverpool - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeild Evrópu - Meistaradeild Evrópu - synsport2
+DTSTART:20251209T195000
+DTEND:20251209T205000
+DTSTAMP:20251209T195000Z
+UID:2025-12-09T19:50:00/Meistaradeild Evrópu
+DESCRIPTION:Meistaradeild Evrópu - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta - Chelsea - Meistaradeild Evrópu - synsport3
+DTSTART:20251209T195000
+DTEND:20251209T205000
+DTSTAMP:20251209T195000Z
+UID:2025-12-09T19:50:00/Atlanta - Chelsea
+DESCRIPTION:Atlanta - Chelsea - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter - Liverpool - Champions League - viaplay
+DTSTART:20251209T195000
+DTEND:20251209T205000
+DTSTAMP:20251209T195000Z
+UID:2025-12-09T19:50:00/Inter - Liverpool
+DESCRIPTION:Inter - Liverpool - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona - Frankfurt - Champions League - viaplay
+DTSTART:20251209T195000
+DTEND:20251209T205000
+DTSTAMP:20251209T195000Z
+UID:2025-12-09T19:50:00/Barcelona - Frankfurt
+DESCRIPTION:Barcelona - Frankfurt - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco - Galatasaray - Champions League - viaplay
+DTSTART:20251209T195000
+DTEND:20251209T205000
+DTSTAMP:20251209T195000Z
+UID:2025-12-09T19:50:00/Monaco - Galatasaray
+DESCRIPTION:Monaco - Galatasaray - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QPR - Birmingham - Championship - viaplay
+DTSTART:20251209T195500
+DTEND:20251209T205500
+DTSTAMP:20251209T195500Z
+UID:2025-12-09T19:55:00/QPR - Birmingham
+DESCRIPTION:QPR - Birmingham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goalshow - Champions League - viaplay
+DTSTART:20251209T220000
+DTEND:20251209T230000
+DTSTAMP:20251209T220000Z
+UID:2025-12-09T22:00:00/Goalshow
+DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
+DTSTART:20251209T220000
+DTEND:20251209T230000
+DTSTAMP:20251209T220000Z
+UID:2025-12-09T22:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
 END:VEVENT
 END:VCALENDAR
