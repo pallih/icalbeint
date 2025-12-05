@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Lemgo Lippe - Flensburg-Handewitt - Bundesliga - viaplay
-DTSTART:20251204T175500
-DTEND:20251204T185500
-DTSTAMP:20251204T175500Z
-UID:2025-12-04T17:55:00/Lemgo Lippe - Flensburg-Handewitt
-DESCRIPTION:Lemgo Lippe - Flensburg-Handewitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mainz - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20251205T192000
 DTEND:20251205T202000
 DTSTAMP:20251205T192000Z
 UID:2025-12-05T19:20:00/Mainz - Mönchengladbach
 DESCRIPTION:Mainz - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20251206T142000
-DTEND:20251206T152000
-DTSTAMP:20251206T142000Z
-UID:2025-12-06T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stuttgart - Bayern München - Bundesliga - viaplay
@@ -34,12 +18,20 @@ UID:2025-12-06T14:20:00/Stuttgart - Bayern München
 DESCRIPTION:Stuttgart - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - Union Berlin - Bundesliga - viaplay
+SUMMARY:Heidenheim - Freiburg - Bundesliga - viaplay
 DTSTART:20251206T142000
 DTEND:20251206T152000
 DTSTAMP:20251206T142000Z
-UID:2025-12-06T14:20:00/Wolfsburg - Union Berlin
-DESCRIPTION:Wolfsburg - Union Berlin - Bundesliga
+UID:2025-12-06T14:20:00/Heidenheim - Freiburg
+DESCRIPTION:Heidenheim - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20251206T142000
+DTEND:20251206T152000
+DTSTAMP:20251206T142000Z
+UID:2025-12-06T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Augsburg - Bayer Leverkusen - Bundesliga - viaplay
@@ -58,12 +50,12 @@ UID:2025-12-06T14:20:00/Köln - St. Pauli
 DESCRIPTION:Köln - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - Freiburg - Bundesliga - viaplay
+SUMMARY:Wolfsburg - Union Berlin - Bundesliga - viaplay
 DTSTART:20251206T142000
 DTEND:20251206T152000
 DTSTAMP:20251206T142000Z
-UID:2025-12-06T14:20:00/Heidenheim - Freiburg
-DESCRIPTION:Heidenheim - Freiburg - Bundesliga
+UID:2025-12-06T14:20:00/Wolfsburg - Union Berlin
+DESCRIPTION:Wolfsburg - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Frankfurt - Bundesliga - viaplay
@@ -98,14 +90,6 @@ UID:2025-12-07T14:20:00/HSV - Werder Bremen
 DESCRIPTION:HSV - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Hoffenheim - Bundesliga - synsportviaplay
-DTSTART:20251207T162000
-DTEND:20251207T172000
-DTSTAMP:20251207T162000Z
-UID:2025-12-07T16:20:00/Dortmund - Hoffenheim
-DESCRIPTION:Dortmund - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dortmund - Hoffenhaim - Bundesliga - viaplay
 DTSTART:20251207T162000
 DTEND:20251207T172000
@@ -114,11 +98,27 @@ UID:2025-12-07T16:20:00/Dortmund - Hoffenhaim
 DESCRIPTION:Dortmund - Hoffenhaim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dortmund - Hoffenheim - Bundesliga - synsportviaplay
+DTSTART:20251207T162000
+DTEND:20251207T172000
+DTSTAMP:20251207T162000Z
+UID:2025-12-07T16:20:00/Dortmund - Hoffenheim
+DESCRIPTION:Dortmund - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magdeburg - Melsungen - Bundesliga - viaplay
 DTSTART:20251210T185500
 DTEND:20251210T195500
 DTSTAMP:20251210T185500Z
 UID:2025-12-10T18:55:00/Magdeburg - Melsungen
 DESCRIPTION:Magdeburg - Melsungen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flensburg-Handewitt - Füchse Berlin - Bundesliga - viaplay
+DTSTART:20251211T175500
+DTEND:20251211T185500
+DTSTAMP:20251211T175500Z
+UID:2025-12-11T17:55:00/Flensburg-Handewitt - Füchse Berlin
+DESCRIPTION:Flensburg-Handewitt - Füchse Berlin - Bundesliga
 END:VEVENT
 END:VCALENDAR
