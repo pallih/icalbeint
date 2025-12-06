@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Brest - Monaco - Ligue 1 - Franski Boltinn - livey
-DTSTART:20251205T180000
-DTEND:20251205T190000
-DTSTAMP:20251205T180000Z
-UID:2025-12-05T18:00:00/Brest - Monaco
-DESCRIPTION:Brest - Monaco - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oviedo - RCD Mallorca - LaLiga - Spænski boltinn - livey
-DTSTART:20251205T200000
-DTEND:20251205T210000
-DTSTAMP:20251205T200000Z
-UID:2025-12-05T20:00:00/Oviedo - RCD Mallorca
-DESCRIPTION:Oviedo - RCD Mallorca - LaLiga - Spænski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lille - Marseille - Ligue 1 - Franski Boltinn - livey
-DTSTART:20251205T200000
-DTEND:20251205T210000
-DTSTAMP:20251205T200000Z
-UID:2025-12-05T20:00:00/Lille - Marseille
-DESCRIPTION:Lille - Marseille - Ligue 1 - Franski Boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Villarreal - Getafe - LaLiga - Spænski boltinn - livey
 DTSTART:20251206T130000
 DTEND:20251206T140000
 DTSTAMP:20251206T130000Z
 UID:2025-12-06T13:00:00/Villarreal - Getafe
 DESCRIPTION:Villarreal - Getafe - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - Þróttur Fjb. - Blaksamband Íslands - livey
+DTSTART:20251206T133000
+DTEND:20251206T143000
+DTSTAMP:20251206T133000Z
+UID:2025-12-06T13:30:00/Afturelding - Þróttur Fjb.
+DESCRIPTION:Afturelding - Þróttur Fjb. - Blaksamband Íslands
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sassuolo - Fiorentina - Serie A - Ítalski boltinn - livey
@@ -49,6 +33,14 @@ DTEND:20251206T161500
 DTSTAMP:20251206T151500Z
 UID:2025-12-06T15:15:00/Deportivo Alaves - Real Sociedad
 DESCRIPTION:Deportivo Alaves - Real Sociedad - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - Vestri - Blaksamband Íslands - livey
+DTSTART:20251206T153000
+DTEND:20251206T163000
+DTSTAMP:20251206T153000Z
+UID:2025-12-06T15:30:00/Afturelding - Vestri
+DESCRIPTION:Afturelding - Vestri - Blaksamband Íslands
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nantes - Lens - Ligue 1 - Franski Boltinn - livey
@@ -124,6 +116,14 @@ UID:2025-12-07T11:30:00/Cremonese - Lecce
 DESCRIPTION:Cremonese - Lecce - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Þróttur Rvk. - Völsungur - Blaksamband Íslands - livey
+DTSTART:20251207T130000
+DTEND:20251207T140000
+DTSTAMP:20251207T130000Z
+UID:2025-12-07T13:00:00/Þróttur Rvk. - Völsungur
+DESCRIPTION:Þróttur Rvk. - Völsungur - Blaksamband Íslands
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elche - Girona - LaLiga - Spænski boltinn - livey
 DTSTART:20251207T130000
 DTEND:20251207T140000
@@ -156,12 +156,12 @@ UID:2025-12-07T15:15:00/Valencia - Sevilla
 DESCRIPTION:Valencia - Sevilla - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Havre - Paris FC - Ligue 1 - Franski Boltinn - livey
-DTSTART:20251207T161500
-DTEND:20251207T171500
-DTSTAMP:20251207T161500Z
-UID:2025-12-07T16:15:00/Le Havre - Paris FC
-DESCRIPTION:Le Havre - Paris FC - Ligue 1 - Franski Boltinn
+SUMMARY:Þróttur Rvk. - Völsungur - Blaksamband Íslands - livey
+DTSTART:20251207T153000
+DTEND:20251207T163000
+DTSTAMP:20251207T153000Z
+UID:2025-12-07T15:30:00/Þróttur Rvk. - Völsungur
+DESCRIPTION:Þróttur Rvk. - Völsungur - Blaksamband Íslands
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Auxerre - Metz - Ligue 1 - Franski Boltinn - livey
@@ -170,6 +170,14 @@ DTEND:20251207T171500
 DTSTAMP:20251207T161500Z
 UID:2025-12-07T16:15:00/Auxerre - Metz
 DESCRIPTION:Auxerre - Metz - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Havre - Paris FC - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251207T161500
+DTEND:20251207T171500
+DTSTAMP:20251207T161500Z
+UID:2025-12-07T16:15:00/Le Havre - Paris FC
+DESCRIPTION:Le Havre - Paris FC - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lazio - Bologna - Serie A - Ítalski boltinn - livey
@@ -196,20 +204,20 @@ UID:2025-12-07T17:30:00/Espanyol - Rayo Vallecano
 DESCRIPTION:Espanyol - Rayo Vallecano - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Napoli - Juventus - Serie A - Ítalski boltinn - livey
-DTSTART:20251207T194500
-DTEND:20251207T204500
-DTSTAMP:20251207T194500Z
-UID:2025-12-07T19:45:00/Napoli - Juventus
-DESCRIPTION:Napoli - Juventus - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lorient - Lyon - Ligue 1 - Franski Boltinn - livey
 DTSTART:20251207T194500
 DTEND:20251207T204500
 DTSTAMP:20251207T194500Z
 UID:2025-12-07T19:45:00/Lorient - Lyon
 DESCRIPTION:Lorient - Lyon - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli - Juventus - Serie A - Ítalski boltinn - livey
+DTSTART:20251207T194500
+DTEND:20251207T204500
+DTSTAMP:20251207T194500Z
+UID:2025-12-07T19:45:00/Napoli - Juventus
+DESCRIPTION:Napoli - Juventus - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - Celta Vigo - LaLiga - Spænski boltinn - livey
