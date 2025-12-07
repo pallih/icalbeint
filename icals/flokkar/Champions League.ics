@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Champions League - ical
 BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20251206T180000
-DTEND:20251206T190000
-DTSTAMP:20251206T180000Z
-UID:2025-12-06T18:00:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Sporting - Champions League - viaplay
 DTSTART:20251209T173500
 DTEND:20251209T183500
@@ -74,14 +66,6 @@ UID:2025-12-10T19:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Brugge - Arsenal - Champions League - viaplay
-DTSTART:20251210T195000
-DTEND:20251210T205000
-DTSTAMP:20251210T195000Z
-UID:2025-12-10T19:50:00/Club Brugge - Arsenal
-DESCRIPTION:Club Brugge - Arsenal - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Benfica - Napoli - Champions League - viaplay
 DTSTART:20251210T195000
 DTEND:20251210T205000
@@ -96,6 +80,14 @@ DTEND:20251210T205000
 DTSTAMP:20251210T195000Z
 UID:2025-12-10T19:50:00/Juventus - Pafos
 DESCRIPTION:Juventus - Pafos - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Brugge - Arsenal - Champions League - viaplay
+DTSTART:20251210T195000
+DTEND:20251210T205000
+DTSTAMP:20251210T195000Z
+UID:2025-12-10T19:50:00/Club Brugge - Arsenal
+DESCRIPTION:Club Brugge - Arsenal - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Athletic Club - PSG - Champions League - viaplay
