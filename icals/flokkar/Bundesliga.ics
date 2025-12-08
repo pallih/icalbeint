@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Hannover-Burgdorf - Füchse Berlin - Bundesliga - viaplay
-DTSTART:20251207T135500
-DTEND:20251207T145500
-DTSTAMP:20251207T135500Z
-UID:2025-12-07T13:55:00/Hannover-Burgdorf - Füchse Berlin
-DESCRIPTION:Hannover-Burgdorf - Füchse Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HSV - Werder Bremen - Bundesliga - viaplay
-DTSTART:20251207T142000
-DTEND:20251207T152000
-DTSTAMP:20251207T142000Z
-UID:2025-12-07T14:20:00/HSV - Werder Bremen
-DESCRIPTION:HSV - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Hoffenheim - Bundesliga - synsportviaplay
-DTSTART:20251207T162000
-DTEND:20251207T172000
-DTSTAMP:20251207T162000Z
-UID:2025-12-07T16:20:00/Dortmund - Hoffenheim
-DESCRIPTION:Dortmund - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Hoffenhaim - Bundesliga - viaplay
-DTSTART:20251207T162000
-DTEND:20251207T172000
-DTSTAMP:20251207T162000Z
-UID:2025-12-07T16:20:00/Dortmund - Hoffenhaim
-DESCRIPTION:Dortmund - Hoffenhaim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Melsungen - Bundesliga - viaplay
 DTSTART:20251210T185500
 DTEND:20251210T195500
@@ -58,20 +26,20 @@ UID:2025-12-12T19:20:00/Union Berlin - Leipzig
 DESCRIPTION:Union Berlin - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:St. Pauli - Heidenheim - Bundesliga - viaplay
+DTSTART:20251213T142000
+DTEND:20251213T152000
+DTSTAMP:20251213T142000Z
+UID:2025-12-13T14:20:00/St. Pauli - Heidenheim
+DESCRIPTION:St. Pauli - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hoffenheim - HSV - Bundesliga - viaplay
 DTSTART:20251213T142000
 DTEND:20251213T152000
 DTSTAMP:20251213T142000Z
 UID:2025-12-13T14:20:00/Hoffenheim - HSV
 DESCRIPTION:Hoffenheim - HSV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20251213T142000
-DTEND:20251213T152000
-DTSTAMP:20251213T142000Z
-UID:2025-12-13T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Augsburg - Bundesliga - viaplay
@@ -82,12 +50,12 @@ UID:2025-12-13T14:20:00/Frankfurt - Augsburg
 DESCRIPTION:Frankfurt - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Heidenheim - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20251213T142000
 DTEND:20251213T152000
 DTSTAMP:20251213T142000Z
-UID:2025-12-13T14:20:00/St. Pauli - Heidenheim
-DESCRIPTION:St. Pauli - Heidenheim - Bundesliga
+UID:2025-12-13T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Wolfsburg - Bundesliga - viaplay
@@ -104,5 +72,45 @@ DTEND:20251213T195500
 DTSTAMP:20251213T185500Z
 UID:2025-12-13T18:55:00/Eisenach - Frisch Auf! Göppingen
 DESCRIPTION:Eisenach - Frisch Auf! Göppingen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lemgo Lippe - THW Kiel - Bundesliga - viaplay
+DTSTART:20251214T135500
+DTEND:20251214T145500
+DTSTAMP:20251214T135500Z
+UID:2025-12-14T13:55:00/Lemgo Lippe - THW Kiel
+DESCRIPTION:Lemgo Lippe - THW Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Dortmund - Bundesliga - viaplay
+DTSTART:20251214T142000
+DTEND:20251214T152000
+DTSTAMP:20251214T142000Z
+UID:2025-12-14T14:20:00/Freiburg - Dortmund
+DESCRIPTION:Freiburg - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Mainz - Bundesliga - viaplay
+DTSTART:20251214T162000
+DTEND:20251214T172000
+DTSTAMP:20251214T162000Z
+UID:2025-12-14T16:20:00/Bayern München - Mainz
+DESCRIPTION:Bayern München - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gummersbach - Magdeburg - Bundesliga - viaplay
+DTSTART:20251214T165500
+DTEND:20251214T175500
+DTSTAMP:20251214T165500Z
+UID:2025-12-14T16:55:00/Gummersbach - Magdeburg
+DESCRIPTION:Gummersbach - Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Stuttgart - Bundesliga - viaplay
+DTSTART:20251214T182000
+DTEND:20251214T192000
+DTSTAMP:20251214T182000Z
+UID:2025-12-14T18:20:00/Werder Bremen - Stuttgart
+DESCRIPTION:Werder Bremen - Stuttgart - Bundesliga
 END:VEVENT
 END:VCALENDAR

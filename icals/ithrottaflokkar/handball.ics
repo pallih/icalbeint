@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Hannover-Burgdorf - Füchse Berlin - Bundesliga - viaplay
-DTSTART:20251207T135500
-DTEND:20251207T145500
-DTSTAMP:20251207T135500Z
-UID:2025-12-07T13:55:00/Hannover-Burgdorf - Füchse Berlin
-DESCRIPTION:Hannover-Burgdorf - Füchse Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Angóla - Svíþjóð - HM kvenna í handbolta - ruv2
-DTSTART:20251207T170000
-DTEND:20251207T180000
-DTSTAMP:20251207T170000Z
-UID:2025-12-07T17:00:00/Angóla - Svíþjóð
-DESCRIPTION:Angóla - Svíþjóð - HM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noregur - Brasilía - HM kvenna í handbolta - ruv2
-DTSTART:20251207T193000
-DTEND:20251207T203000
-DTSTAMP:20251207T193000Z
-UID:2025-12-07T19:30:00/Noregur - Brasilía
-DESCRIPTION:Noregur - Brasilía - HM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ungverjaland - Danmörk - HM kvenna í handbolta - ruvis
-DTSTART:20251207T193000
-DTEND:20251207T203000
-DTSTAMP:20251207T193000Z
-UID:2025-12-07T19:30:00/Ungverjaland - Danmörk
-DESCRIPTION:Ungverjaland - Danmörk - HM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pólland - Austurríki - HM kvenna í handbolta - ruv2
 DTSTART:20251208T170000
 DTEND:20251208T180000
@@ -58,20 +26,24 @@ UID:2025-12-08T20:00:00/Handboltahöllin
 DESCRIPTION:Handboltahöllin - Olís deildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM kvenna í handbolta - ruv2
-DTSTART:20251209T163000
-DTEND:20251209T173000
-DTSTAMP:20251209T163000Z
-UID:2025-12-09T16:30:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM kvenna í handbolta
+SUMMARY:Þýskaland - Brasilía - 8-liða úrslit - HM kvenna í handbolta
+  - ruv2
+DTSTART:20251209T161500
+DTEND:20251209T171500
+DTSTAMP:20251209T161500Z
+UID:2025-12-09T16:15:00/Þýskaland - Brasilía - 8-liða úrslit
+DESCRIPTION:Þýskaland - Brasilía - 8-liða úrslit - HM kvenna í handb
+ olta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM kvenna í handbolta - ruv2
-DTSTART:20251209T190000
-DTEND:20251209T200000
-DTSTAMP:20251209T190000Z
-UID:2025-12-09T19:00:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM kvenna í handbolta
+SUMMARY:Noregur - Svartfjallaland - 8-liða úrslit - HM kvenna í handbol
+ ta - ruv2
+DTSTART:20251209T193000
+DTEND:20251209T203000
+DTSTAMP:20251209T193000Z
+UID:2025-12-09T19:30:00/Noregur - Svartfjallaland - 8-liða úrslit
+DESCRIPTION:Noregur - Svartfjallaland - 8-liða úrslit - HM kvenna í han
+ dbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8-liða úrslit - HM kvenna í handbolta - ruv2
@@ -98,14 +70,6 @@ UID:2025-12-10T18:55:00/Magdeburg - Melsungen
 DESCRIPTION:Magdeburg - Melsungen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM kvenna í handbolta - ruv2
-DTSTART:20251210T190000
-DTEND:20251210T200000
-DTSTAMP:20251210T190000Z
-UID:2025-12-10T19:00:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - Haukar - Olís deild karla - hsi1
 DTSTART:20251210T190000
 DTEND:20251210T200000
@@ -114,20 +78,20 @@ UID:2025-12-10T19:00:00/ÍR - Haukar
 DESCRIPTION:ÍR - Haukar - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:8-liða úrslit - HM kvenna í handbolta - ruv2
+DTSTART:20251210T190000
+DTEND:20251210T200000
+DTSTAMP:20251210T190000Z
+UID:2025-12-10T19:00:00/8-liða úrslit
+DESCRIPTION:8-liða úrslit - HM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HK - Stjarnan - Olís deild karla - hsi1
 DTSTART:20251210T193000
 DTEND:20251210T203000
 DTSTAMP:20251210T193000Z
 UID:2025-12-10T19:30:00/HK - Stjarnan
 DESCRIPTION:HK - Stjarnan - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selfoss - ÍBV - Olís deild kvenna - hsi1
-DTSTART:20251211T173000
-DTEND:20251211T183000
-DTSTAMP:20251211T173000Z
-UID:2025-12-11T17:30:00/Selfoss - ÍBV
-DESCRIPTION:Selfoss - ÍBV - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Füchse Berlin - Bundesliga - viaplay
@@ -178,6 +142,14 @@ UID:2025-12-12T16:45:00/Undanúrslit
 DESCRIPTION:Undanúrslit - HM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Selfoss - ÍBV - Olís deild kvenna - hsi1
+DTSTART:20251212T180000
+DTEND:20251212T190000
+DTSTAMP:20251212T180000Z
+UID:2025-12-12T18:00:00/Selfoss - ÍBV
+DESCRIPTION:Selfoss - ÍBV - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Undanúrslit - HM kvenna í handbolta - ruv2
 DTSTART:20251212T194500
 DTEND:20251212T204500
@@ -202,6 +174,14 @@ UID:2025-12-13T15:00:00/Valur - Stjarnan
 DESCRIPTION:Valur - Stjarnan - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Haukar - KA/Þór - Olís deild kvenna - sjonvarpsimans
+DTSTART:20251213T151500
+DTEND:20251213T161500
+DTSTAMP:20251213T151500Z
+UID:2025-12-13T15:15:00/Haukar - KA/Þór
+DESCRIPTION:Haukar - KA/Þór - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Haukar - KA/Þór - Olís deild kvenna - hsi1
 DTSTART:20251213T153000
 DTEND:20251213T163000
@@ -216,5 +196,45 @@ DTEND:20251213T195500
 DTSTAMP:20251213T185500Z
 UID:2025-12-13T18:55:00/Eisenach - Frisch Auf! Göppingen
 DESCRIPTION:Eisenach - Frisch Auf! Göppingen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bronsleikur - HM kvenna í handbolta - ruv
+DTSTART:20251214T133000
+DTEND:20251214T143000
+DTSTAMP:20251214T133000Z
+UID:2025-12-14T13:30:00/Bronsleikur
+DESCRIPTION:Bronsleikur - HM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lemgo Lippe - THW Kiel - Bundesliga - viaplay
+DTSTART:20251214T135500
+DTEND:20251214T145500
+DTSTAMP:20251214T135500Z
+UID:2025-12-14T13:55:00/Lemgo Lippe - THW Kiel
+DESCRIPTION:Lemgo Lippe - THW Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór - ÍBV - Olís deild karla - hsi1
+DTSTART:20251214T150000
+DTEND:20251214T160000
+DTSTAMP:20251214T150000Z
+UID:2025-12-14T15:00:00/Þór - ÍBV
+DESCRIPTION:Þór - ÍBV - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Úrslitaleikur - HM kvenna í handbolta - ruv
+DTSTART:20251214T163000
+DTEND:20251214T173000
+DTSTAMP:20251214T163000Z
+UID:2025-12-14T16:30:00/Úrslitaleikur
+DESCRIPTION:Úrslitaleikur - HM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gummersbach - Magdeburg - Bundesliga - viaplay
+DTSTART:20251214T165500
+DTEND:20251214T175500
+DTSTAMP:20251214T165500Z
+UID:2025-12-14T16:55:00/Gummersbach - Magdeburg
+DESCRIPTION:Gummersbach - Magdeburg - Bundesliga
 END:VEVENT
 END:VCALENDAR
