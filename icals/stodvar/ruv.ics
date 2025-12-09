@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Pólland - Austurríki - HM kvenna í handbolta - ruv2
-DTSTART:20251208T170000
-DTEND:20251208T180000
-DTSTAMP:20251208T170000Z
-UID:2025-12-08T17:00:00/Pólland - Austurríki
-DESCRIPTION:Pólland - Austurríki - HM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frakkland - Holland - HM kvenna í handbolta - ruv2
-DTSTART:20251208T193000
-DTEND:20251208T203000
-DTSTAMP:20251208T193000Z
-UID:2025-12-08T19:30:00/Frakkland - Holland
-DESCRIPTION:Frakkland - Holland - HM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þýskaland - Brasilía - 8-liða úrslit - HM kvenna í handbolta
   - ruv2
 DTSTART:20251209T161500
@@ -38,20 +22,24 @@ DESCRIPTION:Noregur - Svartfjallaland - 8-liða úrslit - HM kvenna í han
  dbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM kvenna í handbolta - ruv2
-DTSTART:20251210T163000
-DTEND:20251210T173000
-DTSTAMP:20251210T163000Z
-UID:2025-12-10T16:30:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM kvenna í handbolta
+SUMMARY:Holland - Ungverjaland - 8-liða úrslit - HM kvenna í handbolta 
+ - ruv2
+DTSTART:20251210T170000
+DTEND:20251210T180000
+DTSTAMP:20251210T170000Z
+UID:2025-12-10T17:00:00/Holland - Ungverjaland - 8-liða úrslit
+DESCRIPTION:Holland - Ungverjaland - 8-liða úrslit - HM kvenna í handbo
+ lta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM kvenna í handbolta - ruv2
-DTSTART:20251210T190000
-DTEND:20251210T200000
-DTSTAMP:20251210T190000Z
-UID:2025-12-10T19:00:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM kvenna í handbolta
+SUMMARY:Danmörk - Frakkland - 8-liða úrslit - HM kvenna í handbolta - 
+ ruv2
+DTSTART:20251210T200000
+DTEND:20251210T210000
+DTSTAMP:20251210T200000Z
+UID:2025-12-10T20:00:00/Danmörk - Frakkland - 8-liða úrslit
+DESCRIPTION:Danmörk - Frakkland - 8-liða úrslit - HM kvenna í handbolt
+ a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Undanúrslit - HM kvenna í handbolta - ruv2
@@ -94,6 +82,22 @@ UID:2025-12-14T14:00:00/Njarðvík - Haukar
 DESCRIPTION:Njarðvík - Haukar - VÍS-bikar kvenna í körfubolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stofan - Íþróttaþættir - ruv2
+DTSTART:20251214T160000
+DTEND:20251214T170000
+DTSTAMP:20251214T160000Z
+UID:2025-12-14T16:00:00/Stofan
+DESCRIPTION:Stofan - Íþróttaþættir
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stofan - Íþróttaþættir - ruv
+DTSTART:20251214T160000
+DTEND:20251214T170000
+DTSTAMP:20251214T160000Z
+UID:2025-12-14T16:00:00/Stofan
+DESCRIPTION:Stofan - Íþróttaþættir
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Úrslitaleikur - HM kvenna í handbolta - ruv
 DTSTART:20251214T163000
 DTEND:20251214T173000
@@ -102,11 +106,27 @@ UID:2025-12-14T16:30:00/Úrslitaleikur
 DESCRIPTION:Úrslitaleikur - HM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stofan - Íþróttaþættir - ruv2
+DTSTART:20251214T180000
+DTEND:20251214T190000
+DTSTAMP:20251214T180000Z
+UID:2025-12-14T18:00:00/Stofan
+DESCRIPTION:Stofan - Íþróttaþættir
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍA - Keflavík - VÍS-bikar karla í körfubolta - ruv2
 DTSTART:20251214T193000
 DTEND:20251214T203000
 DTSTAMP:20251214T193000Z
 UID:2025-12-14T19:30:00/ÍA - Keflavík
 DESCRIPTION:ÍA - Keflavík - VÍS-bikar karla í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Álftanes - VÍS-bikar karla í körfubolta - ruv2
+DTSTART:20251215T193000
+DTEND:20251215T203000
+DTSTAMP:20251215T193000Z
+UID:2025-12-15T19:30:00/Stjarnan - Álftanes
+DESCRIPTION:Stjarnan - Álftanes - VÍS-bikar karla í körfubolta
 END:VEVENT
 END:VCALENDAR

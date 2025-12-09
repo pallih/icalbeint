@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Pisa - Parma - Serie A - Ítalski boltinn - livey
-DTSTART:20251208T140000
-DTEND:20251208T150000
-DTSTAMP:20251208T140000Z
-UID:2025-12-08T14:00:00/Pisa - Parma
-DESCRIPTION:Pisa - Parma - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Udinese - Genoa - Serie A - Ítalski boltinn - livey
-DTSTART:20251208T170000
-DTEND:20251208T180000
-DTSTAMP:20251208T170000Z
-UID:2025-12-08T17:00:00/Udinese - Genoa
-DESCRIPTION:Udinese - Genoa - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Torino - AC Milan - Serie A - Ítalski boltinn - livey
-DTSTART:20251208T194500
-DTEND:20251208T204500
-DTSTAMP:20251208T194500Z
-UID:2025-12-08T19:45:00/Torino - AC Milan
-DESCRIPTION:Torino - AC Milan - Serie A - Ítalski boltinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Osasuna - Levante - LaLiga - Spænski boltinn - livey
-DTSTART:20251208T200000
-DTEND:20251208T210000
-DTSTAMP:20251208T200000Z
-UID:2025-12-08T20:00:00/Osasuna - Levante
-DESCRIPTION:Osasuna - Levante - LaLiga - Spænski boltinn
+SUMMARY:Lecce - Pisa - Serie A - Ítalski boltinn - livey
+DTSTART:20251212T194500
+DTEND:20251212T204500
+DTSTAMP:20251212T194500Z
+UID:2025-12-12T19:45:00/Lecce - Pisa
+DESCRIPTION:Lecce - Pisa - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angers - Nantes - Ligue 1 - Franski Boltinn - livey
@@ -42,12 +18,20 @@ UID:2025-12-12T19:45:00/Angers - Nantes
 DESCRIPTION:Angers - Nantes - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lecce - Pisa - Serie A - Ítalski boltinn - livey
-DTSTART:20251212T194500
-DTEND:20251212T204500
-DTSTAMP:20251212T194500Z
-UID:2025-12-12T19:45:00/Lecce - Pisa
-DESCRIPTION:Lecce - Pisa - Serie A - Ítalski boltinn
+SUMMARY:Real Sociedad - Girona - LaLiga - Spænski boltinn - livey
+DTSTART:20251212T200000
+DTEND:20251212T210000
+DTSTAMP:20251212T200000Z
+UID:2025-12-12T20:00:00/Real Sociedad - Girona
+DESCRIPTION:Real Sociedad - Girona - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atletico Madrid - Valencia - LaLiga - Spænski boltinn - livey
+DTSTART:20251213T130000
+DTEND:20251213T140000
+DTSTAMP:20251213T130000Z
+UID:2025-12-13T13:00:00/Atletico Madrid - Valencia
+DESCRIPTION:Atletico Madrid - Valencia - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Torino - Cremonese - Serie A - Ítalski boltinn - livey
@@ -56,6 +40,14 @@ DTEND:20251213T150000
 DTSTAMP:20251213T140000Z
 UID:2025-12-13T14:00:00/Torino - Cremonese
 DESCRIPTION:Torino - Cremonese - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RCD Mallorca - Elche - LaLiga - Spænski boltinn - livey
+DTSTART:20251213T151500
+DTEND:20251213T161500
+DTSTAMP:20251213T151500Z
+UID:2025-12-13T15:15:00/RCD Mallorca - Elche
+DESCRIPTION:RCD Mallorca - Elche - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rennes - Brest - Ligue 1 - Franski Boltinn - livey
@@ -74,6 +66,14 @@ UID:2025-12-13T17:00:00/Parma - Lazio
 DESCRIPTION:Parma - Lazio - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barcelona - Osasuna - LaLiga - Spænski boltinn - livey
+DTSTART:20251213T173000
+DTEND:20251213T183000
+DTSTAMP:20251213T173000Z
+UID:2025-12-13T17:30:00/Barcelona - Osasuna
+DESCRIPTION:Barcelona - Osasuna - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Metz - PSG - Ligue 1 - Franski Boltinn - livey
 DTSTART:20251213T180000
 DTEND:20251213T190000
@@ -88,6 +88,14 @@ DTEND:20251213T204500
 DTSTAMP:20251213T194500Z
 UID:2025-12-13T19:45:00/Atalanta - Cagliari
 DESCRIPTION:Atalanta - Cagliari - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe - Espanyol - LaLiga - Spænski boltinn - livey
+DTSTART:20251213T200000
+DTEND:20251213T210000
+DTSTAMP:20251213T200000Z
+UID:2025-12-13T20:00:00/Getafe - Espanyol
+DESCRIPTION:Getafe - Espanyol - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris FC - Toulouse - Ligue 1 - Franski Boltinn - livey
@@ -106,12 +114,12 @@ UID:2025-12-14T11:30:00/AC Milan - Sassuolo
 DESCRIPTION:AC Milan - Sassuolo - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Udinese - Napoli - Serie A - Ítalski boltinn - livey
-DTSTART:20251214T140000
-DTEND:20251214T150000
-DTSTAMP:20251214T140000Z
-UID:2025-12-14T14:00:00/Udinese - Napoli
-DESCRIPTION:Udinese - Napoli - Serie A - Ítalski boltinn
+SUMMARY:Sevilla - Oviedo - LaLiga - Spænski boltinn - livey
+DTSTART:20251214T130000
+DTEND:20251214T140000
+DTSTAMP:20251214T130000Z
+UID:2025-12-14T13:00:00/Sevilla - Oviedo
+DESCRIPTION:Sevilla - Oviedo - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lyon - Le Havre - Ligue 1 - Franski Boltinn - livey
@@ -122,6 +130,14 @@ UID:2025-12-14T14:00:00/Lyon - Le Havre
 DESCRIPTION:Lyon - Le Havre - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Udinese - Napoli - Serie A - Ítalski boltinn - livey
+DTSTART:20251214T140000
+DTEND:20251214T150000
+DTSTAMP:20251214T140000Z
+UID:2025-12-14T14:00:00/Udinese - Napoli
+DESCRIPTION:Udinese - Napoli - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fiorentina - Hellas Verona - Serie A - Ítalski boltinn - livey
 DTSTART:20251214T140000
 DTEND:20251214T150000
@@ -130,12 +146,12 @@ UID:2025-12-14T14:00:00/Fiorentina - Hellas Verona
 DESCRIPTION:Fiorentina - Hellas Verona - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RC Strasbourg - Lorient - Ligue 1 - Franski Boltinn - livey
-DTSTART:20251214T161500
-DTEND:20251214T171500
-DTSTAMP:20251214T161500Z
-UID:2025-12-14T16:15:00/RC Strasbourg - Lorient
-DESCRIPTION:RC Strasbourg - Lorient - Ligue 1 - Franski Boltinn
+SUMMARY:Celta Vigo - Athletic Bilbao - LaLiga - Spænski boltinn - livey
+DTSTART:20251214T151500
+DTEND:20251214T161500
+DTSTAMP:20251214T151500Z
+UID:2025-12-14T15:15:00/Celta Vigo - Athletic Bilbao
+DESCRIPTION:Celta Vigo - Athletic Bilbao - LaLiga - Spænski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lens - Nice - Ligue 1 - Franski Boltinn - livey
@@ -144,6 +160,14 @@ DTEND:20251214T171500
 DTSTAMP:20251214T161500Z
 UID:2025-12-14T16:15:00/Lens - Nice
 DESCRIPTION:Lens - Nice - Ligue 1 - Franski Boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RC Strasbourg - Lorient - Ligue 1 - Franski Boltinn - livey
+DTSTART:20251214T161500
+DTEND:20251214T171500
+DTSTAMP:20251214T161500Z
+UID:2025-12-14T16:15:00/RC Strasbourg - Lorient
+DESCRIPTION:RC Strasbourg - Lorient - Ligue 1 - Franski Boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Auxerre - Lille - Ligue 1 - Franski Boltinn - livey
@@ -162,6 +186,14 @@ UID:2025-12-14T17:00:00/Genoa - Inter Milan
 DESCRIPTION:Genoa - Inter Milan - Serie A - Ítalski boltinn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Levante - Villarreal - LaLiga - Spænski boltinn - livey
+DTSTART:20251214T173000
+DTEND:20251214T183000
+DTSTAMP:20251214T173000Z
+UID:2025-12-14T17:30:00/Levante - Villarreal
+DESCRIPTION:Levante - Villarreal - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marseille - Monaco - Ligue 1 - Franski Boltinn - livey
 DTSTART:20251214T194500
 DTEND:20251214T204500
@@ -176,5 +208,29 @@ DTEND:20251214T204500
 DTSTAMP:20251214T194500Z
 UID:2025-12-14T19:45:00/Bologna - Juventus
 DESCRIPTION:Bologna - Juventus - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deportivo Alaves - Real Madrid - LaLiga - Spænski boltinn - livey
+DTSTART:20251214T200000
+DTEND:20251214T210000
+DTSTAMP:20251214T200000Z
+UID:2025-12-14T20:00:00/Deportivo Alaves - Real Madrid
+DESCRIPTION:Deportivo Alaves - Real Madrid - LaLiga - Spænski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roma - Como - Serie A - Ítalski boltinn - livey
+DTSTART:20251215T194500
+DTEND:20251215T204500
+DTSTAMP:20251215T194500Z
+UID:2025-12-15T19:45:00/Roma - Como
+DESCRIPTION:Roma - Como - Serie A - Ítalski boltinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rayo Vallecano - Real Betis - LaLiga - Spænski boltinn - livey
+DTSTART:20251215T200000
+DTEND:20251215T210000
+DTSTAMP:20251215T200000Z
+UID:2025-12-15T20:00:00/Rayo Vallecano - Real Betis
+DESCRIPTION:Rayo Vallecano - Real Betis - LaLiga - Spænski boltinn
 END:VEVENT
 END:VCALENDAR
