@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Brasilía - 8-liða úrslit - HM kvenna í handbolta
-  - ruv2
-DTSTART:20251209T161500
-DTEND:20251209T171500
-DTSTAMP:20251209T161500Z
-UID:2025-12-09T16:15:00/Þýskaland - Brasilía - 8-liða úrslit
-DESCRIPTION:Þýskaland - Brasilía - 8-liða úrslit - HM kvenna í handb
- olta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noregur - Svartfjallaland - 8-liða úrslit - HM kvenna í handbol
- ta - ruv2
-DTSTART:20251209T193000
-DTEND:20251209T203000
-DTSTAMP:20251209T193000Z
-UID:2025-12-09T19:30:00/Noregur - Svartfjallaland - 8-liða úrslit
-DESCRIPTION:Noregur - Svartfjallaland - 8-liða úrslit - HM kvenna í han
- dbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holland - Ungverjaland - 8-liða úrslit - HM kvenna í handbolta 
  - ruv2
 DTSTART:20251210T170000
@@ -98,20 +78,20 @@ UID:2025-12-11T18:30:00/Fram - Selfoss
 DESCRIPTION:Fram - Selfoss - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KA - Afturelding - Olís deild karla - sjonvarpsimans
+DTSTART:20251211T185000
+DTEND:20251211T195000
+DTSTAMP:20251211T185000Z
+UID:2025-12-11T18:50:00/KA - Afturelding
+DESCRIPTION:KA - Afturelding - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KA - Afturelding - Olís deild karla - hsi1
 DTSTART:20251211T190000
 DTEND:20251211T200000
 DTSTAMP:20251211T190000Z
 UID:2025-12-11T19:00:00/KA - Afturelding
 DESCRIPTION:KA - Afturelding - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍBV - FH - Olís deild karla - sjonvarpsimans
-DTSTART:20251211T191500
-DTEND:20251211T201500
-DTSTAMP:20251211T191500Z
-UID:2025-12-11T19:15:00/ÍBV - FH
-DESCRIPTION:ÍBV - FH - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Undanúrslit - HM kvenna í handbolta - ruv2
@@ -138,20 +118,20 @@ UID:2025-12-12T19:45:00/Undanúrslit
 DESCRIPTION:Undanúrslit - HM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Stjarnan - Olís deild kvenna - hsi1
+DTSTART:20251213T140000
+DTEND:20251213T150000
+DTSTAMP:20251213T140000Z
+UID:2025-12-13T14:00:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍR - Fram - Olís deild kvenna - hsi1
 DTSTART:20251213T143000
 DTEND:20251213T153000
 DTSTAMP:20251213T143000Z
 UID:2025-12-13T14:30:00/ÍR - Fram
 DESCRIPTION:ÍR - Fram - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Stjarnan - Olís deild kvenna - hsi1
-DTSTART:20251213T150000
-DTEND:20251213T160000
-DTSTAMP:20251213T150000Z
-UID:2025-12-13T15:00:00/Valur - Stjarnan
-DESCRIPTION:Valur - Stjarnan - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - KA/Þór - Olís deild kvenna - sjonvarpsimans
@@ -258,6 +238,14 @@ UID:2025-12-15T19:00:00/KA - HK
 DESCRIPTION:KA - HK - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Haukar - Fram - Olís deild karla - sjonvarpsimans
+DTSTART:20251215T191500
+DTEND:20251215T201500
+DTSTAMP:20251215T191500Z
+UID:2025-12-15T19:15:00/Haukar - Fram
+DESCRIPTION:Haukar - Fram - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Afturelding - ÍR - Olís deild karla - hsi1
 DTSTART:20251215T191500
 DTEND:20251215T201500
@@ -272,5 +260,13 @@ DTEND:20251215T203000
 DTSTAMP:20251215T193000Z
 UID:2025-12-15T19:30:00/Haukar - Fram
 DESCRIPTION:Haukar - Fram - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handboltahöllin - Olís deildin - sjonvarpsimans
+DTSTART:20251215T210500
+DTEND:20251215T220500
+DTSTAMP:20251215T210500Z
+UID:2025-12-15T21:05:00/Handboltahöllin
+DESCRIPTION:Handboltahöllin - Olís deildin
 END:VEVENT
 END:VCALENDAR
