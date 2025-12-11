@@ -2,66 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Holland - Ungverjaland - 8-liða úrslit - HM kvenna í handbolta 
- - ruv2
-DTSTART:20251210T170000
-DTEND:20251210T180000
-DTSTAMP:20251210T170000Z
-UID:2025-12-10T17:00:00/Holland - Ungverjaland - 8-liða úrslit
-DESCRIPTION:Holland - Ungverjaland - 8-liða úrslit - HM kvenna í handbo
- lta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍBV - FH - Olís deild karla - hsi1
-DTSTART:20251210T180000
-DTEND:20251210T190000
-DTSTAMP:20251210T180000Z
-UID:2025-12-10T18:00:00/ÍBV - FH
-DESCRIPTION:ÍBV - FH - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Þór - Olís deild karla - hsi1
-DTSTART:20251210T183000
-DTEND:20251210T193000
-DTSTAMP:20251210T183000Z
-UID:2025-12-10T18:30:00/Valur - Þór
-DESCRIPTION:Valur - Þór - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Melsungen - Bundesliga - viaplay
-DTSTART:20251210T185500
-DTEND:20251210T195500
-DTSTAMP:20251210T185500Z
-UID:2025-12-10T18:55:00/Magdeburg - Melsungen
-DESCRIPTION:Magdeburg - Melsungen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Haukar - Olís deild karla - hsi1
-DTSTART:20251210T190000
-DTEND:20251210T200000
-DTSTAMP:20251210T190000Z
-UID:2025-12-10T19:00:00/ÍR - Haukar
-DESCRIPTION:ÍR - Haukar - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HK - Stjarnan - Olís deild karla - hsi1
-DTSTART:20251210T193000
-DTEND:20251210T203000
-DTSTAMP:20251210T193000Z
-UID:2025-12-10T19:30:00/HK - Stjarnan
-DESCRIPTION:HK - Stjarnan - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danmörk - Frakkland - 8-liða úrslit - HM kvenna í handbolta - 
- ruv2
-DTSTART:20251210T200000
-DTEND:20251210T210000
-DTSTAMP:20251210T200000Z
-UID:2025-12-10T20:00:00/Danmörk - Frakkland - 8-liða úrslit
-DESCRIPTION:Danmörk - Frakkland - 8-liða úrslit - HM kvenna í handbolt
- a
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Füchse Berlin - Bundesliga - viaplay
 DTSTART:20251211T175500
 DTEND:20251211T185500
@@ -94,28 +34,20 @@ UID:2025-12-11T19:00:00/KA - Afturelding
 DESCRIPTION:KA - Afturelding - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Undanúrslit - HM kvenna í handbolta - ruv2
+SUMMARY:Frakkland - Þýskaland - HM kvenna í handbolta - ruv2
 DTSTART:20251212T164500
 DTEND:20251212T174500
 DTSTAMP:20251212T164500Z
-UID:2025-12-12T16:45:00/Undanúrslit
-DESCRIPTION:Undanúrslit - HM kvenna í handbolta
+UID:2025-12-12T16:45:00/Frakkland - Þýskaland
+DESCRIPTION:Frakkland - Þýskaland - HM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Selfoss - ÍBV - Olís deild kvenna - hsi1
-DTSTART:20251212T180000
-DTEND:20251212T190000
-DTSTAMP:20251212T180000Z
-UID:2025-12-12T18:00:00/Selfoss - ÍBV
-DESCRIPTION:Selfoss - ÍBV - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Undanúrslit - HM kvenna í handbolta - ruv2
+SUMMARY:Holland - Noregur - HM kvenna í handbolta - ruv2
 DTSTART:20251212T194500
 DTEND:20251212T204500
 DTSTAMP:20251212T194500Z
-UID:2025-12-12T19:45:00/Undanúrslit
-DESCRIPTION:Undanúrslit - HM kvenna í handbolta
+UID:2025-12-12T19:45:00/Holland - Noregur
+DESCRIPTION:Holland - Noregur - HM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Stjarnan - Olís deild kvenna - hsi1
@@ -156,6 +88,14 @@ DTEND:20251213T195500
 DTSTAMP:20251213T185500Z
 UID:2025-12-13T18:55:00/Eisenach - Frisch Auf! Göppingen
 DESCRIPTION:Eisenach - Frisch Auf! Göppingen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - ÍBV - Olís deild kvenna - hsi1
+DTSTART:20251214T133000
+DTEND:20251214T143000
+DTSTAMP:20251214T133000Z
+UID:2025-12-14T13:30:00/Selfoss - ÍBV
+DESCRIPTION:Selfoss - ÍBV - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bronsleikur - HM kvenna í handbolta - ruv
@@ -268,5 +208,13 @@ DTEND:20251215T220500
 DTSTAMP:20251215T210500Z
 UID:2025-12-15T21:05:00/Handboltahöllin
 DESCRIPTION:Handboltahöllin - Olís deildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍBV - ÍR - Olís deild kvenna - hsi1
+DTSTART:20251217T183000
+DTEND:20251217T193000
+DTSTAMP:20251217T183000Z
+UID:2025-12-17T18:30:00/ÍBV - ÍR
+DESCRIPTION:ÍBV - ÍR - Olís deild kvenna
 END:VEVENT
 END:VCALENDAR

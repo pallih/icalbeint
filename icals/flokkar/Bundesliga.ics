@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Melsungen - Bundesliga - viaplay
-DTSTART:20251210T185500
-DTEND:20251210T195500
-DTSTAMP:20251210T185500Z
-UID:2025-12-10T18:55:00/Magdeburg - Melsungen
-DESCRIPTION:Magdeburg - Melsungen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Füchse Berlin - Bundesliga - viaplay
 DTSTART:20251211T175500
 DTEND:20251211T185500
@@ -26,14 +18,6 @@ UID:2025-12-12T19:20:00/Union Berlin - Leipzig
 DESCRIPTION:Union Berlin - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - HSV - Bundesliga - viaplay
-DTSTART:20251213T142000
-DTEND:20251213T152000
-DTSTAMP:20251213T142000Z
-UID:2025-12-13T14:20:00/Hoffenheim - HSV
-DESCRIPTION:Hoffenheim - HSV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:St. Pauli - Heidenheim - Bundesliga - viaplay
 DTSTART:20251213T142000
 DTEND:20251213T152000
@@ -42,12 +26,12 @@ UID:2025-12-13T14:20:00/St. Pauli - Heidenheim
 DESCRIPTION:St. Pauli - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Augsburg - Bundesliga - viaplay
+SUMMARY:Hoffenheim - HSV - Bundesliga - viaplay
 DTSTART:20251213T142000
 DTEND:20251213T152000
 DTSTAMP:20251213T142000Z
-UID:2025-12-13T14:20:00/Frankfurt - Augsburg
-DESCRIPTION:Frankfurt - Augsburg - Bundesliga
+UID:2025-12-13T14:20:00/Hoffenheim - HSV
+DESCRIPTION:Hoffenheim - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -56,6 +40,14 @@ DTEND:20251213T152000
 DTSTAMP:20251213T142000Z
 UID:2025-12-13T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Augsburg - Bundesliga - viaplay
+DTSTART:20251213T142000
+DTEND:20251213T152000
+DTSTAMP:20251213T142000Z
+UID:2025-12-13T14:20:00/Frankfurt - Augsburg
+DESCRIPTION:Frankfurt - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Wolfsburg - Bundesliga - viaplay
