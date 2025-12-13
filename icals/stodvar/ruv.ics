@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Frakkland - Þýskaland - HM kvenna í handbolta - ruv2
-DTSTART:20251212T164500
-DTEND:20251212T174500
-DTSTAMP:20251212T164500Z
-UID:2025-12-12T16:45:00/Frakkland - Þýskaland
-DESCRIPTION:Frakkland - Þýskaland - HM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holland - Noregur - HM kvenna í handbolta - ruv2
-DTSTART:20251212T194500
-DTEND:20251212T204500
-DTSTAMP:20251212T194500Z
-UID:2025-12-12T19:45:00/Holland - Noregur
-DESCRIPTION:Holland - Noregur - HM kvenna í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - Keflavík - VÍS-bikar kvenna í körfubolta - ruv2
 DTSTART:20251213T170000
 DTEND:20251213T180000
@@ -26,12 +10,12 @@ UID:2025-12-13T17:00:00/Valur - Keflavík
 DESCRIPTION:Valur - Keflavík - VÍS-bikar kvenna í körfubolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bronsleikur - HM kvenna í handbolta - ruv
+SUMMARY:Frakkland - Holland - bronsleikur - HM kvenna í handbolta - ruv
 DTSTART:20251214T133000
 DTEND:20251214T143000
 DTSTAMP:20251214T133000Z
-UID:2025-12-14T13:30:00/Bronsleikur
-DESCRIPTION:Bronsleikur - HM kvenna í handbolta
+UID:2025-12-14T13:30:00/Frakkland - Holland - bronsleikur
+DESCRIPTION:Frakkland - Holland - bronsleikur - HM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Njarðvík - Haukar - VÍS-bikar kvenna í körfubolta - ruv2
@@ -58,12 +42,12 @@ UID:2025-12-14T16:00:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Úrslitaleikur - HM kvenna í handbolta - ruv
+SUMMARY:Þýskaland - Noregur - úrslit - HM kvenna í handbolta - ruv
 DTSTART:20251214T163000
 DTEND:20251214T173000
 DTSTAMP:20251214T163000Z
-UID:2025-12-14T16:30:00/Úrslitaleikur
-DESCRIPTION:Úrslitaleikur - HM kvenna í handbolta
+UID:2025-12-14T16:30:00/Þýskaland - Noregur - úrslit
+DESCRIPTION:Þýskaland - Noregur - úrslit - HM kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv2
@@ -88,5 +72,21 @@ DTEND:20251215T203000
 DTSTAMP:20251215T193000Z
 UID:2025-12-15T19:30:00/Stjarnan - Álftanes
 DESCRIPTION:Stjarnan - Álftanes - VÍS-bikar karla í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KA - Fram - Powerade-bikar karla í handbolta - ruv2
+DTSTART:20251219T180000
+DTEND:20251219T190000
+DTSTAMP:20251219T180000Z
+UID:2025-12-19T18:00:00/KA - Fram
+DESCRIPTION:KA - Fram - Powerade-bikar karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - FH - Powerade-bikar karla í handbolta - ruv2
+DTSTART:20251219T200000
+DTEND:20251219T210000
+DTSTAMP:20251219T200000Z
+UID:2025-12-19T20:00:00/Afturelding - FH
+DESCRIPTION:Afturelding - FH - Powerade-bikar karla í handbolta
 END:VEVENT
 END:VCALENDAR

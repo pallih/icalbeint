@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Leipzig - Bundesliga - viaplay
-DTSTART:20251212T192000
-DTEND:20251212T202000
-DTSTAMP:20251212T192000Z
-UID:2025-12-12T19:20:00/Union Berlin - Leipzig
-DESCRIPTION:Union Berlin - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frankfurt - Augsburg - Bundesliga - viaplay
 DTSTART:20251213T142000
 DTEND:20251213T152000
 DTSTAMP:20251213T142000Z
 UID:2025-12-13T14:20:00/Frankfurt - Augsburg
 DESCRIPTION:Frankfurt - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Wolfsburg - Bundesliga - viaplay
+DTSTART:20251213T142000
+DTEND:20251213T152000
+DTSTAMP:20251213T142000Z
+UID:2025-12-13T14:20:00/Mönchengladbach - Wolfsburg
+DESCRIPTION:Mönchengladbach - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -40,14 +40,6 @@ DTEND:20251213T152000
 DTSTAMP:20251213T142000Z
 UID:2025-12-13T14:20:00/St. Pauli - Heidenheim
 DESCRIPTION:St. Pauli - Heidenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Wolfsburg - Bundesliga - viaplay
-DTSTART:20251213T142000
-DTEND:20251213T152000
-DTSTAMP:20251213T142000Z
-UID:2025-12-13T14:20:00/Mönchengladbach - Wolfsburg
-DESCRIPTION:Mönchengladbach - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Köln - Bundesliga - viaplay
@@ -104,5 +96,13 @@ DTEND:20251214T192000
 DTSTAMP:20251214T182000Z
 UID:2025-12-14T18:20:00/Werder Bremen - Stuttgart
 DESCRIPTION:Werder Bremen - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20251219T191500
+DTEND:20251219T201500
+DTSTAMP:20251219T191500Z
+UID:2025-12-19T19:15:00/Dortmund - Mönchengladbach
+DESCRIPTION:Dortmund - Mönchengladbach - Bundesliga
 END:VEVENT
 END:VCALENDAR
