@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Valur - Keflavík - VÍS-bikar kvenna í körfubolta - ruv2
-DTSTART:20251213T170000
-DTEND:20251213T180000
-DTSTAMP:20251213T170000Z
-UID:2025-12-13T17:00:00/Valur - Keflavík
-DESCRIPTION:Valur - Keflavík - VÍS-bikar kvenna í körfubolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Njarðvík - Haukar - VÍS-bikar kvenna í körfubolta - ruv2
 DTSTART:20251214T140000
 DTEND:20251214T150000
@@ -66,20 +58,20 @@ UID:2025-12-17T19:05:00/KR - Stjarnan
 DESCRIPTION:KR - Stjarnan - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grindavík - Haukar - Bónus deild kvenna - synsportisland
-DTSTART:20251217T190500
-DTEND:20251217T200500
-DTSTAMP:20251217T190500Z
-UID:2025-12-17T19:05:00/Grindavík - Haukar
-DESCRIPTION:Grindavík - Haukar - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Njarðvík - Bónus deild kvenna - synsportisland2
 DTSTART:20251217T190500
 DTEND:20251217T200500
 DTSTAMP:20251217T190500Z
 UID:2025-12-17T19:05:00/Tindastóll - Njarðvík
 DESCRIPTION:Tindastóll - Njarðvík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Haukar - Bónus deild kvenna - synsportisland
+DTSTART:20251217T190500
+DTEND:20251217T200500
+DTSTAMP:20251217T190500Z
+UID:2025-12-17T19:05:00/Grindavík - Haukar
+DESCRIPTION:Grindavík - Haukar - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
@@ -99,12 +91,12 @@ UID:2025-12-18T19:00:00/Þór Þ. - Grindavík
 DESCRIPTION:Þór Þ. - Grindavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - KR - Bónus deild karla - synsportisland3
+SUMMARY:ÍR - Valur - Bónus deild karla - synsportisland4
 DTSTART:20251218T190500
 DTEND:20251218T200500
 DTSTAMP:20251218T190500Z
-UID:2025-12-18T19:05:00/Tindastóll - KR
-DESCRIPTION:Tindastóll - KR - Bónus deild karla
+UID:2025-12-18T19:05:00/ÍR - Valur
+DESCRIPTION:ÍR - Valur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Njarðvík - Bónus deild karla - synsportisland2
@@ -115,12 +107,12 @@ UID:2025-12-18T19:05:00/Keflavík - Njarðvík
 DESCRIPTION:Keflavík - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Valur - Bónus deild karla - synsportisland4
+SUMMARY:Tindastóll - KR - Bónus deild karla - synsportisland3
 DTSTART:20251218T190500
 DTEND:20251218T200500
 DTSTAMP:20251218T190500Z
-UID:2025-12-18T19:05:00/ÍR - Valur
-DESCRIPTION:ÍR - Valur - Bónus deild karla
+UID:2025-12-18T19:05:00/Tindastóll - KR
+DESCRIPTION:Tindastóll - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -161,5 +153,13 @@ DTEND:20251219T222500
 DTSTAMP:20251219T212500Z
 UID:2025-12-19T21:25:00/Bónus Körfuboltakvöld 
 DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nuggets - Rockets - NBA - livey
+DTSTART:20251220T220000
+DTEND:20251220T230000
+DTSTAMP:20251220T220000Z
+UID:2025-12-20T22:00:00/Nuggets - Rockets
+DESCRIPTION:Nuggets - Rockets - NBA
 END:VEVENT
 END:VCALENDAR
