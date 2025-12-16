@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Frankfurt - Frauen-Bundesliga - viaplay
-DTSTART:20251215T165500
-DTEND:20251215T175500
-DTSTAMP:20251215T165500Z
-UID:2025-12-15T16:55:00/Union Berlin - Frankfurt
-DESCRIPTION:Union Berlin - Frankfurt - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Essen - Frankfurt - Frauen-Bundesliga - viaplay
 DTSTART:20251219T172500
 DTEND:20251219T182500
@@ -32,5 +24,13 @@ DTEND:20251221T182500
 DTSTAMP:20251221T172500Z
 UID:2025-12-21T17:25:00/Wolfsburg - HSV
 DESCRIPTION:Wolfsburg - HSV - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Bayern München - Frauen-Bundesliga - viaplay
+DTSTART:20251222T165500
+DTEND:20251222T175500
+DTSTAMP:20251222T165500Z
+UID:2025-12-22T16:55:00/Leverkusen - Bayern München
+DESCRIPTION:Leverkusen - Bayern München - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR
