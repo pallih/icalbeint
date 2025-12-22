@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Aston Villa - Man. Utd. - Premier League - synsport
-DTSTART:20251221T161000
-DTEND:20251221T171000
-DTSTAMP:20251221T161000Z
-UID:2025-12-21T16:10:00/Aston Villa - Man. Utd.
-DESCRIPTION:Aston Villa - Man. Utd. - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunnudagsmessan - Premier League - synsport
-DTSTART:20251221T183500
-DTEND:20251221T193500
-DTSTAMP:20251221T183500Z
-UID:2025-12-21T18:35:00/Sunnudagsmessan
-DESCRIPTION:Sunnudagsmessan - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fulham - Nott. Forest - Premier League - synsport
 DTSTART:20251222T194000
 DTEND:20251222T204000
@@ -50,14 +34,6 @@ UID:2025-12-27T12:10:00/Nott. Forest - Man. City
 DESCRIPTION:Nott. Forest - Man. City - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Wolves - Premier League - synsport2
-DTSTART:20251227T144000
-DTEND:20251227T154000
-DTSTAMP:20251227T144000Z
-UID:2025-12-27T14:40:00/Liverpool - Wolves
-DESCRIPTION:Liverpool - Wolves - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brentford - Bournemouth - Premier League - synsport4
 DTSTART:20251227T144000
 DTEND:20251227T154000
@@ -66,12 +42,12 @@ UID:2025-12-27T14:40:00/Brentford - Bournemouth
 DESCRIPTION:Brentford - Bournemouth - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Brighton - Premier League - synsport3
+SUMMARY:Liverpool - Wolves - Premier League - synsport2
 DTSTART:20251227T144000
 DTEND:20251227T154000
 DTSTAMP:20251227T144000Z
-UID:2025-12-27T14:40:00/Arsenal - Brighton
-DESCRIPTION:Arsenal - Brighton - Premier League
+UID:2025-12-27T14:40:00/Liverpool - Wolves
+DESCRIPTION:Liverpool - Wolves - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -82,12 +58,12 @@ UID:2025-12-27T14:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Everton - Premier League - synsport6
-DTSTART:20251227T145000
-DTEND:20251227T155000
-DTSTAMP:20251227T145000Z
-UID:2025-12-27T14:50:00/Burnley - Everton
-DESCRIPTION:Burnley - Everton - Premier League
+SUMMARY:Arsenal - Brighton - Premier League - synsport3
+DTSTART:20251227T144000
+DTEND:20251227T154000
+DTSTAMP:20251227T144000Z
+UID:2025-12-27T14:40:00/Arsenal - Brighton
+DESCRIPTION:Arsenal - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Fulham - Premier League - synsport5
@@ -96,6 +72,14 @@ DTEND:20251227T155000
 DTSTAMP:20251227T145000Z
 UID:2025-12-27T14:50:00/West Ham - Fulham
 DESCRIPTION:West Ham - Fulham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Everton - Premier League - synsport6
+DTSTART:20251227T145000
+DTEND:20251227T155000
+DTSTAMP:20251227T145000Z
+UID:2025-12-27T14:50:00/Burnley - Everton
+DESCRIPTION:Burnley - Everton - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport2
@@ -112,5 +96,29 @@ DTEND:20251227T182000
 DTSTAMP:20251227T172000Z
 UID:2025-12-27T17:20:00/Chelsea - Aston Villa
 DESCRIPTION:Chelsea - Aston Villa - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland - Leeds - Premier League - synsport
+DTSTART:20251228T134000
+DTEND:20251228T144000
+DTSTAMP:20251228T134000Z
+UID:2025-12-28T13:40:00/Sunderland - Leeds
+DESCRIPTION:Sunderland - Leeds - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Tottenham - Premier League - synsport
+DTSTART:20251228T161000
+DTEND:20251228T171000
+DTSTAMP:20251228T161000Z
+UID:2025-12-28T16:10:00/Crystal Palace - Tottenham
+DESCRIPTION:Crystal Palace - Tottenham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunnudagsmessan - Premier League - synsport
+DTSTART:20251228T183500
+DTEND:20251228T193500
+DTSTAMP:20251228T183500Z
+UID:2025-12-28T18:35:00/Sunnudagsmessan
+DESCRIPTION:Sunnudagsmessan - Premier League
 END:VEVENT
 END:VCALENDAR
