@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Fulham - Premier League - synsport2
-DTSTART:20260101T171000
-DTEND:20260101T181000
-DTSTAMP:20260101T171000Z
-UID:2026-01-01T17:10:00/Crystal Palace - Fulham
-DESCRIPTION:Crystal Palace - Fulham - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liverpool - Leeds - Premier League - synsport
 DTSTART:20260101T171000
 DTEND:20260101T181000
@@ -18,12 +10,12 @@ UID:2026-01-01T17:10:00/Liverpool - Leeds
 DESCRIPTION:Liverpool - Leeds - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunderland - Man. City - Premier League - synsport2
-DTSTART:20260101T194000
-DTEND:20260101T204000
-DTSTAMP:20260101T194000Z
-UID:2026-01-01T19:40:00/Sunderland - Man. City
-DESCRIPTION:Sunderland - Man. City - Premier League
+SUMMARY:Crystal Palace - Fulham - Premier League - synsport2
+DTSTART:20260101T171000
+DTEND:20260101T181000
+DTSTAMP:20260101T171000Z
+UID:2026-01-01T17:10:00/Crystal Palace - Fulham
+DESCRIPTION:Crystal Palace - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brentford - Tottenham - Premier League - synsport
@@ -32,6 +24,14 @@ DTEND:20260101T204000
 DTSTAMP:20260101T194000Z
 UID:2026-01-01T19:40:00/Brentford - Tottenham
 DESCRIPTION:Brentford - Tottenham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland - Man. City - Premier League - synsport2
+DTSTART:20260101T194000
+DTEND:20260101T204000
+DTSTAMP:20260101T194000Z
+UID:2026-01-01T19:40:00/Sunderland - Man. City
+DESCRIPTION:Sunderland - Man. City - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunnudagsmessan - Premier League - synsport
@@ -98,20 +98,12 @@ UID:2026-01-04T14:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Liverpool - Premier League - synsport2
+SUMMARY:Newcastle - Crystal Palace - Premier League - synsport5
 DTSTART:20260104T144000
 DTEND:20260104T154000
 DTSTAMP:20260104T144000Z
-UID:2026-01-04T14:40:00/Fulham - Liverpool
-DESCRIPTION:Fulham - Liverpool - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tottenham - Sunderland - Premier League - synsport3
-DTSTART:20260104T144000
-DTEND:20260104T154000
-DTSTAMP:20260104T144000Z
-UID:2026-01-04T14:40:00/Tottenham - Sunderland
-DESCRIPTION:Tottenham - Sunderland - Premier League
+UID:2026-01-04T14:40:00/Newcastle - Crystal Palace
+DESCRIPTION:Newcastle - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Brentford - Premier League - synsport4
@@ -122,12 +114,20 @@ UID:2026-01-04T14:40:00/Everton - Brentford
 DESCRIPTION:Everton - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Crystal Palace - Premier League - synsport5
+SUMMARY:Tottenham - Sunderland - Premier League - synsport3
 DTSTART:20260104T144000
 DTEND:20260104T154000
 DTSTAMP:20260104T144000Z
-UID:2026-01-04T14:40:00/Newcastle - Crystal Palace
-DESCRIPTION:Newcastle - Crystal Palace - Premier League
+UID:2026-01-04T14:40:00/Tottenham - Sunderland
+DESCRIPTION:Tottenham - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Liverpool - Premier League - synsport2
+DTSTART:20260104T144000
+DTEND:20260104T154000
+DTSTAMP:20260104T144000Z
+UID:2026-01-04T14:40:00/Fulham - Liverpool
+DESCRIPTION:Fulham - Liverpool - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Chelsea - Premier League - synsport
@@ -160,5 +160,85 @@ DTEND:20260106T231000
 DTSTAMP:20260106T221000Z
 UID:2026-01-06T22:10:00/VARsjáin
 DESCRIPTION:VARsjáin - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Tottenham - Premier League - synsport6
+DTSTART:20260107T191000
+DTEND:20260107T201000
+DTSTAMP:20260107T191000Z
+UID:2026-01-07T19:10:00/Bournemouth - Tottenham
+DESCRIPTION:Bournemouth - Tottenham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fulham - Chelsea - Premier League - synsportisland3
+DTSTART:20260107T191000
+DTEND:20260107T201000
+DTSTAMP:20260107T191000Z
+UID:2026-01-07T19:10:00/Fulham - Chelsea
+DESCRIPTION:Fulham - Chelsea - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. City - Brighton - Premier League - synsport3
+DTSTART:20260107T191000
+DTEND:20260107T201000
+DTSTAMP:20260107T191000Z
+UID:2026-01-07T19:10:00/Man. City - Brighton
+DESCRIPTION:Man. City - Brighton - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Aston Villa - Premier League - synsport5
+DTSTART:20260107T191000
+DTEND:20260107T201000
+DTSTAMP:20260107T191000Z
+UID:2026-01-07T19:10:00/Crystal Palace - Aston Villa
+DESCRIPTION:Crystal Palace - Aston Villa - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20260107T191500
+DTEND:20260107T201500
+DTSTAMP:20260107T191500Z
+UID:2026-01-07T19:15:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Wolves - Premier League - synsportisland4
+DTSTART:20260107T192000
+DTEND:20260107T202000
+DTSTAMP:20260107T192000Z
+UID:2026-01-07T19:20:00/Everton - Wolves
+DESCRIPTION:Everton - Wolves - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford - Sunderland - Premier League - synsportisland5
+DTSTART:20260107T192000
+DTEND:20260107T202000
+DTSTAMP:20260107T192000Z
+UID:2026-01-07T19:20:00/Brentford - Sunderland
+DESCRIPTION:Brentford - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Leeds - Premier League - synsport4
+DTSTART:20260107T195500
+DTEND:20260107T205500
+DTSTAMP:20260107T195500Z
+UID:2026-01-07T19:55:00/Newcastle - Leeds
+DESCRIPTION:Newcastle - Leeds - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Man. Utd. - Premier League - synsport2
+DTSTART:20260107T195500
+DTEND:20260107T205500
+DTSTAMP:20260107T195500Z
+UID:2026-01-07T19:55:00/Burnley - Man. Utd.
+DESCRIPTION:Burnley - Man. Utd. - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miðvikudagsmörkin - Premier League - synsport2
+DTSTART:20260107T222500
+DTEND:20260107T232500
+DTSTAMP:20260107T222500Z
+UID:2026-01-07T22:25:00/Miðvikudagsmörkin
+DESCRIPTION:Miðvikudagsmörkin - Premier League
 END:VEVENT
 END:VCALENDAR
