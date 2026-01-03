@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:World Darts Championship - Matchroom Darts - synsportviaplay
-DTSTART:20260102T193000
-DTEND:20260102T203000
-DTSTAMP:20260102T193000Z
-UID:2026-01-02T19:30:00/World Darts Championship
-DESCRIPTION:World Darts Championship - Matchroom Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Nott. Forest - Premier League - synsport
 DTSTART:20260103T121000
 DTEND:20260103T131000
@@ -50,12 +42,12 @@ UID:2026-01-03T19:05:00/Ármann - Álftanes
 DESCRIPTION:Ármann - Álftanes - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - KR - Bónus deild karla - synsportisland3
+SUMMARY:Tindastóll - Valur - Bónus deild karla - synsportisland2
 DTSTART:20260103T190500
 DTEND:20260103T200500
 DTSTAMP:20260103T190500Z
-UID:2026-01-03T19:05:00/Stjarnan - KR
-DESCRIPTION:Stjarnan - KR - Bónus deild karla
+UID:2026-01-03T19:05:00/Tindastóll - Valur
+DESCRIPTION:Tindastóll - Valur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Þ. - ÍA - Bónus deild karla - synsportisland5
@@ -66,12 +58,12 @@ UID:2026-01-03T19:05:00/Þór Þ. - ÍA
 DESCRIPTION:Þór Þ. - ÍA - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Valur - Bónus deild karla - synsportisland2
+SUMMARY:Stjarnan - KR - Bónus deild karla - synsportisland3
 DTSTART:20260103T190500
 DTEND:20260103T200500
 DTSTAMP:20260103T190500Z
-UID:2026-01-03T19:05:00/Tindastóll - Valur
-DESCRIPTION:Tindastóll - Valur - Bónus deild karla
+UID:2026-01-03T19:05:00/Stjarnan - KR
+DESCRIPTION:Stjarnan - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -130,20 +122,20 @@ UID:2026-01-04T12:10:00/Leeds - Man. Utd.
 DESCRIPTION:Leeds - Man. Utd. - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Everton - Brentford - Premier League - synsport4
+DTSTART:20260104T144000
+DTEND:20260104T154000
+DTSTAMP:20260104T144000Z
+UID:2026-01-04T14:40:00/Everton - Brentford
+DESCRIPTION:Everton - Brentford - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Newcastle - Crystal Palace - Premier League - synsport5
 DTSTART:20260104T144000
 DTEND:20260104T154000
 DTSTAMP:20260104T144000Z
 UID:2026-01-04T14:40:00/Newcastle - Crystal Palace
 DESCRIPTION:Newcastle - Crystal Palace - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
-DTSTART:20260104T144000
-DTEND:20260104T154000
-DTSTAMP:20260104T144000Z
-UID:2026-01-04T14:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Liverpool - Premier League - synsport2
@@ -154,20 +146,20 @@ UID:2026-01-04T14:40:00/Fulham - Liverpool
 DESCRIPTION:Fulham - Liverpool - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20260104T144000
+DTEND:20260104T154000
+DTSTAMP:20260104T144000Z
+UID:2026-01-04T14:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tottenham - Sunderland - Premier League - synsport3
 DTSTART:20260104T144000
 DTEND:20260104T154000
 DTSTAMP:20260104T144000Z
 UID:2026-01-04T14:40:00/Tottenham - Sunderland
 DESCRIPTION:Tottenham - Sunderland - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - Brentford - Premier League - synsport4
-DTSTART:20260104T144000
-DTEND:20260104T154000
-DTSTAMP:20260104T144000Z
-UID:2026-01-04T14:40:00/Everton - Brentford
-DESCRIPTION:Everton - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norwich - Stoke - EFL Championship - synsportviaplay
@@ -186,20 +178,20 @@ UID:2026-01-04T17:20:00/Man. City - Chelsea
 DESCRIPTION:Man. City - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NFL Red Zone - NFL - synsport3
-DTSTART:20260104T175500
-DTEND:20260104T185500
-DTSTAMP:20260104T175500Z
-UID:2026-01-04T17:55:00/NFL Red Zone
-DESCRIPTION:NFL Red Zone - NFL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jaguars - Titans - NFL - synsport2
 DTSTART:20260104T175500
 DTEND:20260104T185500
 DTSTAMP:20260104T175500Z
 UID:2026-01-04T17:55:00/Jaguars - Titans
 DESCRIPTION:Jaguars - Titans - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL Red Zone - NFL - synsport3
+DTSTART:20260104T175500
+DTEND:20260104T185500
+DTSTAMP:20260104T175500Z
+UID:2026-01-04T17:55:00/NFL Red Zone
+DESCRIPTION:NFL Red Zone - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Keflavík - Bónus deild karla - synsportisland2
@@ -354,20 +346,20 @@ UID:2026-01-07T19:05:00/Tindastóll - Valur
 DESCRIPTION:Tindastóll - Valur - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fulham - Chelsea - Premier League - synsportisland3
+DTSTART:20260107T191000
+DTEND:20260107T201000
+DTSTAMP:20260107T191000Z
+UID:2026-01-07T19:10:00/Fulham - Chelsea
+DESCRIPTION:Fulham - Chelsea - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Man. City - Brighton - Premier League - synsport3
 DTSTART:20260107T191000
 DTEND:20260107T201000
 DTSTAMP:20260107T191000Z
 UID:2026-01-07T19:10:00/Man. City - Brighton
 DESCRIPTION:Man. City - Brighton - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bournemouth - Tottenham - Premier League - synsport6
-DTSTART:20260107T191000
-DTEND:20260107T201000
-DTSTAMP:20260107T191000Z
-UID:2026-01-07T19:10:00/Bournemouth - Tottenham
-DESCRIPTION:Bournemouth - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crystal Palace - Aston Villa - Premier League - synsport5
@@ -378,12 +370,12 @@ UID:2026-01-07T19:10:00/Crystal Palace - Aston Villa
 DESCRIPTION:Crystal Palace - Aston Villa - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Chelsea - Premier League - synsportisland3
+SUMMARY:Bournemouth - Tottenham - Premier League - synsport6
 DTSTART:20260107T191000
 DTEND:20260107T201000
 DTSTAMP:20260107T191000Z
-UID:2026-01-07T19:10:00/Fulham - Chelsea
-DESCRIPTION:Fulham - Chelsea - Premier League
+UID:2026-01-07T19:10:00/Bournemouth - Tottenham
+DESCRIPTION:Bournemouth - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -394,20 +386,20 @@ UID:2026-01-07T19:15:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Wolves - Premier League - synsportisland4
-DTSTART:20260107T192000
-DTEND:20260107T202000
-DTSTAMP:20260107T192000Z
-UID:2026-01-07T19:20:00/Everton - Wolves
-DESCRIPTION:Everton - Wolves - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brentford - Sunderland - Premier League - synsportisland5
 DTSTART:20260107T192000
 DTEND:20260107T202000
 DTSTAMP:20260107T192000Z
 UID:2026-01-07T19:20:00/Brentford - Sunderland
 DESCRIPTION:Brentford - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Wolves - Premier League - synsportisland4
+DTSTART:20260107T192000
+DTEND:20260107T202000
+DTSTAMP:20260107T192000Z
+UID:2026-01-07T19:20:00/Everton - Wolves
+DESCRIPTION:Everton - Wolves - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burnley - Man. Utd. - Premier League - synsport2
@@ -459,22 +451,6 @@ UID:2026-01-08T17:55:00/Växjö Lakers - Färjestad BK
 DESCRIPTION:Växjö Lakers - Färjestad BK - SHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Stjarnan - Bónus deild karla - synsportisland2
-DTSTART:20260108T190500
-DTEND:20260108T200500
-DTSTAMP:20260108T190500Z
-UID:2026-01-08T19:05:00/Valur - Stjarnan
-DESCRIPTION:Valur - Stjarnan - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - Ármann - Bónus deild karla - synsportisland5
-DTSTART:20260108T190500
-DTEND:20260108T200500
-DTSTAMP:20260108T190500Z
-UID:2026-01-08T19:05:00/KR - Ármann
-DESCRIPTION:KR - Ármann - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍA - Grindavík - Bónus deild karla - synsportisland4
 DTSTART:20260108T190500
 DTEND:20260108T200500
@@ -483,12 +459,28 @@ UID:2026-01-08T19:05:00/ÍA - Grindavík
 DESCRIPTION:ÍA - Grindavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Stjarnan - Bónus deild karla - synsportisland2
+DTSTART:20260108T190500
+DTEND:20260108T200500
+DTSTAMP:20260108T190500Z
+UID:2026-01-08T19:05:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍR - Njarðvík - Bónus deild karla - synsportisland3
 DTSTART:20260108T190500
 DTEND:20260108T200500
 DTSTAMP:20260108T190500Z
 UID:2026-01-08T19:05:00/ÍR - Njarðvík
 DESCRIPTION:ÍR - Njarðvík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Ármann - Bónus deild karla - synsportisland5
+DTSTART:20260108T190500
+DTEND:20260108T200500
+DTSTAMP:20260108T190500Z
+UID:2026-01-08T19:05:00/KR - Ármann
+DESCRIPTION:KR - Ármann - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -521,5 +513,37 @@ DTEND:20260108T232000
 DTSTAMP:20260108T222000Z
 UID:2026-01-08T22:20:00/Big Ben
 DESCRIPTION:Big Ben - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Wings - Canucks - NHL - synsportviaplay
+DTSTART:20260109T000500
+DTEND:20260109T010500
+DTSTAMP:20260109T000500Z
+UID:2026-01-09T00:05:00/Red Wings - Canucks
+DESCRIPTION:Red Wings - Canucks - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Álftanes - Þór Þ. - Bónus deild karla - synsportisland
+DTSTART:20260109T190000
+DTEND:20260109T200000
+DTSTAMP:20260109T190000Z
+UID:2026-01-09T19:00:00/Álftanes - Þór Þ.
+DESCRIPTION:Álftanes - Þór Þ. - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrexham - Notthingham Forest - FA Cup - synsportviaplay
+DTSTART:20260109T192500
+DTEND:20260109T202500
+DTSTAMP:20260109T192500Z
+UID:2026-01-09T19:25:00/Wrexham - Notthingham Forest
+DESCRIPTION:Wrexham - Notthingham Forest - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
+DTSTART:20260109T212500
+DTEND:20260109T222500
+DTSTAMP:20260109T212500Z
+UID:2026-01-09T21:25:00/Bónus Körfuboltakvöld 
+DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
