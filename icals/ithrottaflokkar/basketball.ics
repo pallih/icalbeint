@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
-DTSTART:20260105T200000
-DTEND:20260105T210000
-DTSTAMP:20260105T200000Z
-UID:2026-01-05T20:00:00/Körfuboltakvöld Extra
-DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - Grindavík - Bónus deild kvenna - synsportisland2
 DTSTART:20260106T180500
 DTEND:20260106T190500
@@ -67,20 +59,20 @@ UID:2026-01-08T19:05:00/ÍR - Njarðvík
 DESCRIPTION:ÍR - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍA - Grindavík - Bónus deild karla - synsportisland4
-DTSTART:20260108T190500
-DTEND:20260108T200500
-DTSTAMP:20260108T190500Z
-UID:2026-01-08T19:05:00/ÍA - Grindavík
-DESCRIPTION:ÍA - Grindavík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - Stjarnan - Bónus deild karla - synsportisland2
 DTSTART:20260108T190500
 DTEND:20260108T200500
 DTSTAMP:20260108T190500Z
 UID:2026-01-08T19:05:00/Valur - Stjarnan
 DESCRIPTION:Valur - Stjarnan - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍA - Grindavík - Bónus deild karla - synsportisland4
+DTSTART:20260108T190500
+DTEND:20260108T200500
+DTSTAMP:20260108T190500Z
+UID:2026-01-08T19:05:00/ÍA - Grindavík
+DESCRIPTION:ÍA - Grindavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Ármann - Bónus deild karla - synsportisland5
@@ -151,5 +143,23 @@ DTSTAMP:20260111T193000Z
 UID:2026-01-11T19:30:00/Stjarnan - Grindavík - 8-liða úrslit
 DESCRIPTION:Stjarnan - Grindavík - 8-liða úrslit - VÍS-bikar karla í 
  körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Keflavík - 8-liða úrslit - VÍS-bikar karla í körfubo
+ lta - ruv2
+DTSTART:20260112T193000
+DTEND:20260112T203000
+DTSTAMP:20260112T193000Z
+UID:2026-01-12T19:30:00/Valur - Keflavík - 8-liða úrslit
+DESCRIPTION:Valur - Keflavík - 8-liða úrslit - VÍS-bikar karla í kör
+ fubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
+DTSTART:20260112T200000
+DTEND:20260112T210000
+DTSTAMP:20260112T200000Z
+UID:2026-01-12T20:00:00/Körfuboltakvöld Extra
+DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
