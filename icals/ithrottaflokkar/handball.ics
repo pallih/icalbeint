@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Ísland - Slóvenía - Æfingamót karla í handbolta - ruv
-DTSTART:20260109T173000
-DTEND:20260109T183000
-DTSTAMP:20260109T173000Z
-UID:2026-01-09T17:30:00/Ísland - Slóvenía
-DESCRIPTION:Ísland - Slóvenía - Æfingamót karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - Valur - Olís deild kvenna - sjonvarpsimans
 DTSTART:20260110T144500
 DTEND:20260110T154500
@@ -58,14 +50,12 @@ UID:2026-01-10T16:15:00/ÍBV - Haukar
 DESCRIPTION:ÍBV - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ísland - Frakkland/Austurríki - Æfingamót karla í handbolta -
-  ruv
-DTSTART:20260111T133000
-DTEND:20260111T143000
-DTSTAMP:20260111T133000Z
-UID:2026-01-11T13:30:00/Ísland - Frakkland/Austurríki
-DESCRIPTION:Ísland - Frakkland/Austurríki - Æfingamót karla í handbol
- ta
+SUMMARY:Frakkland - Ísland - Æfingamót karla í handbolta - ruv
+DTSTART:20260111T160000
+DTEND:20260111T170000
+DTSTAMP:20260111T160000Z
+UID:2026-01-11T16:00:00/Frakkland - Ísland
+DESCRIPTION:Frakkland - Ísland - Æfingamót karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Handboltahöllin - Olís deildin - sjonvarpsimans
@@ -92,6 +82,14 @@ UID:2026-01-15T17:00:00/Spánn - Serbía
 DESCRIPTION:Spánn - Serbía - EM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ÍR - ÍBV - Olís deild kvenna - sjonvarpsimans
+DTSTART:20260115T175000
+DTEND:20260115T185000
+DTSTAMP:20260115T175000Z
+UID:2026-01-15T17:50:00/ÍR - ÍBV
+DESCRIPTION:ÍR - ÍBV - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍR - ÍBV - Olís deild kvenna - hsi1
 DTSTART:20260115T180000
 DTEND:20260115T190000
@@ -100,12 +98,12 @@ UID:2026-01-15T18:00:00/ÍR - ÍBV
 DESCRIPTION:ÍR - ÍBV - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Noregur - Úkraína - EM karla í handbolta - ruvis
+SUMMARY:Þýskaland - Austurríki - EM karla í handbolta - ruv2
 DTSTART:20260115T193000
 DTEND:20260115T203000
 DTSTAMP:20260115T193000Z
-UID:2026-01-15T19:30:00/Noregur - Úkraína
-DESCRIPTION:Noregur - Úkraína - EM karla í handbolta
+UID:2026-01-15T19:30:00/Þýskaland - Austurríki
+DESCRIPTION:Þýskaland - Austurríki - EM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Selfoss - Olís deild kvenna - hsi1
@@ -116,11 +114,35 @@ UID:2026-01-15T19:30:00/Haukar - Selfoss
 DESCRIPTION:Haukar - Selfoss - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Austurríki - EM karla í handbolta - ruv2
+SUMMARY:Noregur - Úkraína - EM karla í handbolta - ruvis
 DTSTART:20260115T193000
 DTEND:20260115T203000
 DTSTAMP:20260115T193000Z
-UID:2026-01-15T19:30:00/Þýskaland - Austurríki
-DESCRIPTION:Þýskaland - Austurríki - EM karla í handbolta
+UID:2026-01-15T19:30:00/Noregur - Úkraína
+DESCRIPTION:Noregur - Úkraína - EM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísland - Ítalía - EM karla í handbolta - ruv
+DTSTART:20260116T170000
+DTEND:20260116T180000
+DTSTAMP:20260116T170000Z
+UID:2026-01-16T17:00:00/Ísland - Ítalía
+DESCRIPTION:Ísland - Ítalía - EM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - N-Makedónía - EM karla í handbolta - ruvis
+DTSTART:20260116T193000
+DTEND:20260116T203000
+DTSTAMP:20260116T193000Z
+UID:2026-01-16T19:30:00/Danmörk - N-Makedónía
+DESCRIPTION:Danmörk - N-Makedónía - EM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverjaland - Pólland - EM karla í handbolta - ruv2
+DTSTART:20260116T193000
+DTEND:20260116T203000
+DTSTAMP:20260116T193000Z
+UID:2026-01-16T19:30:00/Ungverjaland - Pólland
+DESCRIPTION:Ungverjaland - Pólland - EM karla í handbolta
 END:VEVENT
 END:VCALENDAR

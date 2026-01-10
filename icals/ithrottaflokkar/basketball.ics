@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Álftanes - Þór Þ. - Bónus deild karla - synsportisland
-DTSTART:20260109T190000
-DTEND:20260109T200000
-DTSTAMP:20260109T190000Z
-UID:2026-01-09T19:00:00/Álftanes - Þór Þ.
-DESCRIPTION:Álftanes - Þór Þ. - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
-DTSTART:20260109T212500
-DTEND:20260109T222500
-DTSTAMP:20260109T212500Z
-UID:2026-01-09T21:25:00/Bónus Körfuboltakvöld 
-DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keflavík - Haukar - 8-liða úrslit - VÍS-bikar kvenna í körfu
  bolta - ruv
 DTSTART:20260110T160000
@@ -46,6 +30,14 @@ DTSTAMP:20260111T193000Z
 UID:2026-01-11T19:30:00/Stjarnan - Grindavík - 8-liða úrslit
 DESCRIPTION:Stjarnan - Grindavík - 8-liða úrslit - VÍS-bikar karla í 
  körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magic - Pelicans - NBA - livey
+DTSTART:20260111T200000
+DTEND:20260111T210000
+DTSTAMP:20260111T200000Z
+UID:2026-01-11T20:00:00/Magic - Pelicans
+DESCRIPTION:Magic - Pelicans - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Keflavík - 8-liða úrslit - VÍS-bikar karla í körfubo
@@ -115,20 +107,20 @@ UID:2026-01-14T21:15:00/Bónus Körfuboltakvöld kvenna
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Þ. - KR - Bónus deild karla - synsportisland5
-DTSTART:20260115T190500
-DTEND:20260115T200500
-DTSTAMP:20260115T190500Z
-UID:2026-01-15T19:05:00/Þór Þ. - KR
-DESCRIPTION:Þór Þ. - KR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - ÍR - Bónus deild karla - synsportisland4
 DTSTART:20260115T190500
 DTEND:20260115T200500
 DTSTAMP:20260115T190500Z
 UID:2026-01-15T19:05:00/Tindastóll - ÍR
 DESCRIPTION:Tindastóll - ÍR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Þ. - KR - Bónus deild karla - synsportisland5
+DTSTART:20260115T190500
+DTEND:20260115T200500
+DTSTAMP:20260115T190500Z
+UID:2026-01-15T19:05:00/Þór Þ. - KR
+DESCRIPTION:Þór Þ. - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ármann - Valur - Bónus deild karla - synsportisland3
@@ -161,5 +153,29 @@ DTEND:20260115T221000
 DTSTAMP:20260115T211000Z
 UID:2026-01-15T21:10:00/Tilþrifin 
 DESCRIPTION:Tilþrifin  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - ÍA - Bónus deild karla - synsportisland2
+DTSTART:20260116T185000
+DTEND:20260116T195000
+DTSTAMP:20260116T185000Z
+UID:2026-01-16T18:50:00/Njarðvík - ÍA
+DESCRIPTION:Njarðvík - ÍA - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Álftanes - Bónus deild karla - synsportisland
+DTSTART:20260116T191500
+DTEND:20260116T201500
+DTSTAMP:20260116T191500Z
+UID:2026-01-16T19:15:00/Grindavík - Álftanes
+DESCRIPTION:Grindavík - Álftanes - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
+DTSTART:20260116T212500
+DTEND:20260116T222500
+DTSTAMP:20260116T212500Z
+UID:2026-01-16T21:25:00/Bónus Körfuboltakvöld 
+DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
