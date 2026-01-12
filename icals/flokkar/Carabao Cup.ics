@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Carabao Cup - ical
 BEGIN:VEVENT
-SUMMARY:Newcastle - Man City. - Carabao Cup - synsportviaplay
-DTSTART:20260113T195500
-DTEND:20260113T205500
-DTSTAMP:20260113T195500Z
-UID:2026-01-13T19:55:00/Newcastle - Man City.
-DESCRIPTION:Newcastle - Man City. - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Newcastle - Man City - Carabao Cup - viaplay
 DTSTART:20260113T195500
 DTEND:20260113T205500
@@ -18,7 +10,15 @@ UID:2026-01-13T19:55:00/Newcastle - Man City
 DESCRIPTION:Newcastle - Man City - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Arsenal - Carabao Cup - viaplay
+SUMMARY:Newcastle - Man City. - Carabao Cup - synsportviaplay
+DTSTART:20260113T195500
+DTEND:20260113T205500
+DTSTAMP:20260113T195500Z
+UID:2026-01-13T19:55:00/Newcastle - Man City.
+DESCRIPTION:Newcastle - Man City. - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Arsenal - Carabao Cup - synsportviaplay
 DTSTART:20260114T195500
 DTEND:20260114T205500
 DTSTAMP:20260114T195500Z
@@ -26,7 +26,7 @@ UID:2026-01-14T19:55:00/Chelsea - Arsenal
 DESCRIPTION:Chelsea - Arsenal - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Arsenal - Carabao Cup - synsportviaplay
+SUMMARY:Chelsea - Arsenal - Carabao Cup - viaplay
 DTSTART:20260114T195500
 DTEND:20260114T205500
 DTSTAMP:20260114T195500Z
