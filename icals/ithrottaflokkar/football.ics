@@ -2,86 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Wolfsburg - St. Pauli - Bundesliga - synsportviaplay
-DTSTART:20260114T172000
-DTEND:20260114T182000
-DTSTAMP:20260114T172000Z
-UID:2026-01-14T17:20:00/Wolfsburg - St. Pauli
-DESCRIPTION:Wolfsburg - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - St. Pauli - Bundesliga - viaplay
-DTSTART:20260114T172000
-DTEND:20260114T182000
-DTSTAMP:20260114T172000Z
-UID:2026-01-14T17:20:00/Wolfsburg - St. Pauli
-DESCRIPTION:Wolfsburg - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Napoli - Parma - Serie A - livey
-DTSTART:20260114T173000
-DTEND:20260114T183000
-DTSTAMP:20260114T173000Z
-UID:2026-01-14T17:30:00/Napoli - Parma
-DESCRIPTION:Napoli - Parma - Serie A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20260114T192000
-DTEND:20260114T202000
-DTSTAMP:20260114T192000Z
-UID:2026-01-14T19:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Freiburg - Bundesliga - viaplay
-DTSTART:20260114T192000
-DTEND:20260114T202000
-DTSTAMP:20260114T192000Z
-UID:2026-01-14T19:20:00/Leipzig - Freiburg
-DESCRIPTION:Leipzig - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Köln - Bayern München - Bundesliga - viaplay
-DTSTART:20260114T192000
-DTEND:20260114T202000
-DTSTAMP:20260114T192000Z
-UID:2026-01-14T19:20:00/Köln - Bayern München
-DESCRIPTION:Köln - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20260114T192000
-DTEND:20260114T202000
-DTSTAMP:20260114T192000Z
-UID:2026-01-14T19:20:00/Hoffenheim - Mönchengladbach
-DESCRIPTION:Hoffenheim - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inter Milan - Lecce - Serie A - livey
-DTSTART:20260114T194500
-DTEND:20260114T204500
-DTSTAMP:20260114T194500Z
-UID:2026-01-14T19:45:00/Inter Milan - Lecce
-DESCRIPTION:Inter Milan - Lecce - Serie A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chelsea - Arsenal - Carabao Cup - viaplay
-DTSTART:20260114T195500
-DTEND:20260114T205500
-DTSTAMP:20260114T195500Z
-UID:2026-01-14T19:55:00/Chelsea - Arsenal
-DESCRIPTION:Chelsea - Arsenal - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chelsea - Arsenal - Carabao Cup - synsportviaplay
-DTSTART:20260114T195500
-DTEND:20260114T205500
-DTSTAMP:20260114T195500Z
-UID:2026-01-14T19:55:00/Chelsea - Arsenal
-DESCRIPTION:Chelsea - Arsenal - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hellas Verona - Bologna - Serie A - livey
 DTSTART:20260115T173000
 DTEND:20260115T183000
@@ -90,7 +10,7 @@ UID:2026-01-15T17:30:00/Hellas Verona - Bologna
 DESCRIPTION:Hellas Verona - Bologna - Serie A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Union Berlin - Bundesliga - synsportviaplay
+SUMMARY:Augsburg - Union Berlin - Bundesliga - viaplay
 DTSTART:20260115T192000
 DTEND:20260115T202000
 DTSTAMP:20260115T192000Z
@@ -98,7 +18,7 @@ UID:2026-01-15T19:20:00/Augsburg - Union Berlin
 DESCRIPTION:Augsburg - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Union Berlin - Bundesliga - viaplay
+SUMMARY:Augsburg - Union Berlin - Bundesliga - synsportviaplay
 DTSTART:20260115T192000
 DTEND:20260115T202000
 DTSTAMP:20260115T192000Z
@@ -130,20 +50,20 @@ UID:2026-01-16T12:00:00/Dregið
 DESCRIPTION:Dregið - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Düsseldorf - Bielefeld - 2. Bundesliga - synsportviaplay
-DTSTART:20260116T172500
-DTEND:20260116T182500
-DTSTAMP:20260116T172500Z
-UID:2026-01-16T17:25:00/Düsseldorf - Bielefeld
-DESCRIPTION:Düsseldorf - Bielefeld - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Düsseldorf - Arminia Bielefeld - 2. Bundesliga - viaplay
 DTSTART:20260116T172500
 DTEND:20260116T182500
 DTSTAMP:20260116T172500Z
 UID:2026-01-16T17:25:00/Düsseldorf - Arminia Bielefeld
 DESCRIPTION:Düsseldorf - Arminia Bielefeld - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf - Bielefeld - 2. Bundesliga - synsportviaplay
+DTSTART:20260116T172500
+DTEND:20260116T182500
+DTSTAMP:20260116T172500Z
+UID:2026-01-16T17:25:00/Düsseldorf - Bielefeld
+DESCRIPTION:Düsseldorf - Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braunschweig - Magdeburg - 2. Bundesliga - viaplay
@@ -210,14 +130,6 @@ UID:2026-01-17T11:50:00/Man. Utd. - Man. City
 DESCRIPTION:Man. Utd. - Man. City - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preußen Münster - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20260117T115500
-DTEND:20260117T125500
-DTSTAMP:20260117T115500Z
-UID:2026-01-17T11:55:00/Preußen Münster - Karlsruher
-DESCRIPTION:Preußen Münster - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürnberg - Elversberg - 2. Bundesliga - viaplay
 DTSTART:20260117T115500
 DTEND:20260117T125500
@@ -232,6 +144,14 @@ DTEND:20260117T125500
 DTSTAMP:20260117T115500Z
 UID:2026-01-17T11:55:00/Dynamo Dresden - Greuther Fürth
 DESCRIPTION:Dynamo Dresden - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preußen Münster - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20260117T115500
+DTEND:20260117T125500
+DTSTAMP:20260117T115500Z
+UID:2026-01-17T11:55:00/Preußen Münster - Karlsruher
+DESCRIPTION:Preußen Münster - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coventry - Leicester - Championship - viaplay
@@ -258,12 +178,12 @@ UID:2026-01-17T14:00:00/Udinese - Inter Milan
 DESCRIPTION:Udinese - Inter Milan - Serie A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köln - Mainz - Bundesliga - viaplay
+SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - viaplay
 DTSTART:20260117T142000
 DTEND:20260117T152000
 DTSTAMP:20260117T142000Z
-UID:2026-01-17T14:20:00/Köln - Mainz
-DESCRIPTION:Köln - Mainz - Bundesliga
+UID:2026-01-17T14:20:00/Hoffenheim - Bayer Leverkusen
+DESCRIPTION:Hoffenheim - Bayer Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - St. Pauli - Bundesliga - viaplay
@@ -282,12 +202,20 @@ UID:2026-01-17T14:20:00/Wolfsburg - Heidenheim
 DESCRIPTION:Wolfsburg - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - viaplay
+SUMMARY:Köln - Mainz - Bundesliga - viaplay
 DTSTART:20260117T142000
 DTEND:20260117T152000
 DTSTAMP:20260117T142000Z
-UID:2026-01-17T14:20:00/Hoffenheim - Bayer Leverkusen
-DESCRIPTION:Hoffenheim - Bayer Leverkusen - Bundesliga
+UID:2026-01-17T14:20:00/Köln - Mainz
+DESCRIPTION:Köln - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20260117T142000
+DTEND:20260117T152000
+DTSTAMP:20260117T142000Z
+UID:2026-01-17T14:20:00/HSV - Mönchengladbach
+DESCRIPTION:HSV - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -298,12 +226,12 @@ UID:2026-01-17T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HSV - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20260117T142000
-DTEND:20260117T152000
-DTSTAMP:20260117T142000Z
-UID:2026-01-17T14:20:00/HSV - Mönchengladbach
-DESCRIPTION:HSV - Mönchengladbach - Bundesliga
+SUMMARY:Tottenham - West Ham - Premier League - synsport3
+DTSTART:20260117T144000
+DTEND:20260117T154000
+DTSTAMP:20260117T144000Z
+UID:2026-01-17T14:40:00/Tottenham - West Ham
+DESCRIPTION:Tottenham - West Ham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Burnley - Premier League - synsport2
@@ -322,14 +250,6 @@ UID:2026-01-17T14:40:00/Chelsea - Brentford
 DESCRIPTION:Chelsea - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - West Ham - Premier League - synsport3
-DTSTART:20260117T144000
-DTEND:20260117T154000
-DTSTAMP:20260117T144000Z
-UID:2026-01-17T14:40:00/Tottenham - West Ham
-DESCRIPTION:Tottenham - West Ham - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20260117T144500
 DTEND:20260117T154500
@@ -338,20 +258,20 @@ UID:2026-01-17T14:45:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leeds - Fulham - Premier League - synsport5
-DTSTART:20260117T145000
-DTEND:20260117T155000
-DTSTAMP:20260117T145000Z
-UID:2026-01-17T14:50:00/Leeds - Fulham
-DESCRIPTION:Leeds - Fulham - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sunderland - Crystal Palace - Premier League - synsport6
 DTSTART:20260117T145000
 DTEND:20260117T155000
 DTSTAMP:20260117T145000Z
 UID:2026-01-17T14:50:00/Sunderland - Crystal Palace
 DESCRIPTION:Sunderland - Crystal Palace - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds - Fulham - Premier League - synsport5
+DTSTART:20260117T145000
+DTEND:20260117T155000
+DTSTAMP:20260117T145000Z
+UID:2026-01-17T14:50:00/Leeds - Fulham
+DESCRIPTION:Leeds - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oxford - Bristol - EFL Championship - synsportviaplay
@@ -426,20 +346,20 @@ UID:2026-01-17T17:25:00/Swansea - Birmingham
 DESCRIPTION:Swansea - Birmingham - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20260117T180000
-DTEND:20260117T190000
-DTSTAMP:20260117T180000Z
-UID:2026-01-17T18:00:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Toulouse - Nice - Ligue 1 - livey
 DTSTART:20260117T180000
 DTEND:20260117T190000
 DTSTAMP:20260117T180000Z
 UID:2026-01-17T18:00:00/Toulouse - Nice
 DESCRIPTION:Toulouse - Nice - Ligue 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20260117T180000
+DTEND:20260117T190000
+DTSTAMP:20260117T180000Z
+UID:2026-01-17T18:00:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UEL/UECL Magazine - UEFA Europa League - viaplay
@@ -498,6 +418,22 @@ UID:2026-01-18T11:30:00/Parma - Genoa
 DESCRIPTION:Parma - Genoa - Serie A
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bochum - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20260118T122500
+DTEND:20260118T132500
+DTSTAMP:20260118T122500Z
+UID:2026-01-18T12:25:00/Bochum - Darmstadt
+DESCRIPTION:Bochum - Darmstadt - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Hannover - 2. Bundesliga - viaplay
+DTSTART:20260118T122500
+DTEND:20260118T132500
+DTSTAMP:20260118T122500Z
+UID:2026-01-18T12:25:00/Kaiserslautern - Hannover
+DESCRIPTION:Kaiserslautern - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20260118T122500
 DTEND:20260118T132500
@@ -514,22 +450,6 @@ UID:2026-01-18T12:25:00/Kaiserslautern - Hannover 96
 DESCRIPTION:Kaiserslautern - Hannover 96 - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Hannover - 2. Bundesliga - viaplay
-DTSTART:20260118T122500
-DTEND:20260118T132500
-DTSTAMP:20260118T122500Z
-UID:2026-01-18T12:25:00/Kaiserslautern - Hannover
-DESCRIPTION:Kaiserslautern - Hannover - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bochum - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20260118T122500
-DTEND:20260118T132500
-DTSTAMP:20260118T122500Z
-UID:2026-01-18T12:25:00/Bochum - Darmstadt
-DESCRIPTION:Bochum - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolves - Newcastle - Premier League - synsport
 DTSTART:20260118T134000
 DTEND:20260118T144000
@@ -538,20 +458,20 @@ UID:2026-01-18T13:40:00/Wolves - Newcastle
 DESCRIPTION:Wolves - Newcastle - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RC Strasbourg - Metz - Ligue 1 - livey
-DTSTART:20260118T140000
-DTEND:20260118T150000
-DTSTAMP:20260118T140000Z
-UID:2026-01-18T14:00:00/RC Strasbourg - Metz
-DESCRIPTION:RC Strasbourg - Metz - Ligue 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bologna - Fiorentina - Serie A - livey
 DTSTART:20260118T140000
 DTEND:20260118T150000
 DTSTAMP:20260118T140000Z
 UID:2026-01-18T14:00:00/Bologna - Fiorentina
 DESCRIPTION:Bologna - Fiorentina - Serie A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RC Strasbourg - Metz - Ligue 1 - livey
+DTSTART:20260118T140000
+DTEND:20260118T150000
+DTSTAMP:20260118T140000Z
+UID:2026-01-18T14:00:00/RC Strasbourg - Metz
+DESCRIPTION:RC Strasbourg - Metz - Ligue 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stuttgart - Union Berlin - Bundesliga - viaplay
@@ -626,20 +546,20 @@ UID:2026-01-18T18:35:00/Sunnudagsmessan
 DESCRIPTION:Sunnudagsmessan - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lyon - Brest - Ligue 1 - livey
-DTSTART:20260118T194500
-DTEND:20260118T204500
-DTSTAMP:20260118T194500Z
-UID:2026-01-18T19:45:00/Lyon - Brest
-DESCRIPTION:Lyon - Brest - Ligue 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AC Milan - Lecce - Serie A - livey
 DTSTART:20260118T194500
 DTEND:20260118T204500
 DTSTAMP:20260118T194500Z
 UID:2026-01-18T19:45:00/AC Milan - Lecce
 DESCRIPTION:AC Milan - Lecce - Serie A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lyon - Brest - Ligue 1 - livey
+DTSTART:20260118T194500
+DTEND:20260118T204500
+DTSTAMP:20260118T194500Z
+UID:2026-01-18T19:45:00/Lyon - Brest
+DESCRIPTION:Lyon - Brest - Ligue 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cremonese - Hellas Verona - Serie A - livey
@@ -715,14 +635,6 @@ UID:2026-01-20T19:35:00/Salford - Swindon
 DESCRIPTION:Salford - Swindon - FA Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tottenham - Dortmund - Meistaradeild Evrópu - synsport2
-DTSTART:20260120T195000
-DTEND:20260120T205000
-DTSTAMP:20260120T195000Z
-UID:2026-01-20T19:50:00/Tottenham - Dortmund
-DESCRIPTION:Tottenham - Dortmund - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FCK - Napoli - Meistaradeild Evrópu - synsport3
 DTSTART:20260120T195000
 DTEND:20260120T205000
@@ -731,28 +643,12 @@ UID:2026-01-20T19:50:00/FCK - Napoli
 DESCRIPTION:FCK - Napoli - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Olympiacos - Leverkusen - Meistaradeild Evrópu - synsport4
+SUMMARY:Tottenham - Dortmund - Meistaradeild Evrópu - synsport2
 DTSTART:20260120T195000
 DTEND:20260120T205000
 DTSTAMP:20260120T195000Z
-UID:2026-01-20T19:50:00/Olympiacos - Leverkusen
-DESCRIPTION:Olympiacos - Leverkusen - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Villarreal - Ajax - Meistaradeild Evrópu - synsport5
-DTSTART:20260120T195000
-DTEND:20260120T205000
-DTSTAMP:20260120T195000Z
-UID:2026-01-20T19:50:00/Villarreal - Ajax
-DESCRIPTION:Villarreal - Ajax - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inter - Arsenal - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20260120T195000
-DTEND:20260120T205000
-DTSTAMP:20260120T195000Z
-UID:2026-01-20T19:50:00/Inter - Arsenal
-DESCRIPTION:Inter - Arsenal - Meistaradeild Evrópu
+UID:2026-01-20T19:50:00/Tottenham - Dortmund
+DESCRIPTION:Tottenham - Dortmund - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter - Arsenal - Champions League - viaplay
@@ -763,12 +659,20 @@ UID:2026-01-20T19:50:00/Inter - Arsenal
 DESCRIPTION:Inter - Arsenal - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Madrid - Monaco - Champions League - viaplay
+SUMMARY:Villarreal - Ajax - Meistaradeild Evrópu - synsport5
 DTSTART:20260120T195000
 DTEND:20260120T205000
 DTSTAMP:20260120T195000Z
-UID:2026-01-20T19:50:00/Real Madrid - Monaco
-DESCRIPTION:Real Madrid - Monaco - Champions League
+UID:2026-01-20T19:50:00/Villarreal - Ajax
+DESCRIPTION:Villarreal - Ajax - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiacos - Leverkusen - Meistaradeild Evrópu - synsport4
+DTSTART:20260120T195000
+DTEND:20260120T205000
+DTSTAMP:20260120T195000Z
+UID:2026-01-20T19:50:00/Olympiacos - Leverkusen
+DESCRIPTION:Olympiacos - Leverkusen - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting - PSG - Champions League - viaplay
@@ -777,6 +681,22 @@ DTEND:20260120T205000
 DTSTAMP:20260120T195000Z
 UID:2026-01-20T19:50:00/Sporting - PSG
 DESCRIPTION:Sporting - PSG - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid - Monaco - Champions League - viaplay
+DTSTART:20260120T195000
+DTEND:20260120T205000
+DTSTAMP:20260120T195000Z
+UID:2026-01-20T19:50:00/Real Madrid - Monaco
+DESCRIPTION:Real Madrid - Monaco - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter - Arsenal - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260120T195000
+DTEND:20260120T205000
+DTSTAMP:20260120T195000Z
+UID:2026-01-20T19:50:00/Inter - Arsenal
+DESCRIPTION:Inter - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wrexham - Leicester - Championship - viaplay
@@ -800,6 +720,78 @@ DTSTART:20260120T220000
 DTEND:20260120T230000
 DTSTAMP:20260120T220000Z
 UID:2026-01-20T22:00:00/Goalshow
+DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qarabag - Frankfurt - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260121T173500
+DTEND:20260121T183500
+DTSTAMP:20260121T173500Z
+UID:2026-01-21T17:35:00/Qarabag - Frankfurt
+DESCRIPTION:Qarabag - Frankfurt - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qarabağ - Frankfurt - Champions League - viaplay
+DTSTART:20260121T173500
+DTEND:20260121T183500
+DTSTAMP:20260121T173500Z
+UID:2026-01-21T17:35:00/Qarabağ - Frankfurt
+DESCRIPTION:Qarabağ - Frankfurt - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Pafos - Champions League - viaplay
+DTSTART:20260121T195000
+DTEND:20260121T205000
+DTSTAMP:20260121T195000Z
+UID:2026-01-21T19:50:00/Chelsea - Pafos
+DESCRIPTION:Chelsea - Pafos - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus - Benfica - Champions League - viaplay
+DTSTART:20260121T195000
+DTEND:20260121T205000
+DTSTAMP:20260121T195000Z
+UID:2026-01-21T19:50:00/Juventus - Benfica
+DESCRIPTION:Juventus - Benfica - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prag - Barcelona - Champions League - viaplay
+DTSTART:20260121T195000
+DTEND:20260121T205000
+DTSTAMP:20260121T195000Z
+UID:2026-01-21T19:50:00/Slavia Prag - Barcelona
+DESCRIPTION:Slavia Prag - Barcelona - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atalanta - Athletic Club - Champions League - viaplay
+DTSTART:20260121T195000
+DTEND:20260121T205000
+DTSTAMP:20260121T195000Z
+UID:2026-01-21T19:50:00/Atalanta - Athletic Club
+DESCRIPTION:Atalanta - Athletic Club - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Pafos - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260121T195000
+DTEND:20260121T205000
+DTSTAMP:20260121T195000Z
+UID:2026-01-21T19:50:00/Chelsea - Pafos
+DESCRIPTION:Chelsea - Pafos - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stoke - Middlesbrough - Championship - viaplay
+DTSTART:20260121T195500
+DTEND:20260121T205500
+DTSTAMP:20260121T195500Z
+UID:2026-01-21T19:55:00/Stoke - Middlesbrough
+DESCRIPTION:Stoke - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goalshow - Champions League - viaplay
+DTSTART:20260121T220000
+DTEND:20260121T230000
+DTSTAMP:20260121T220000Z
+UID:2026-01-21T22:00:00/Goalshow
 DESCRIPTION:Goalshow - Champions League
 END:VEVENT
 END:VCALENDAR
