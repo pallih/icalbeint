@@ -3,62 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
 SUMMARY:Dubai Invitational - DP World Tour - synsport4
-DTSTART:20260116T073000
-DTEND:20260116T083000
-DTSTAMP:20260116T073000Z
-UID:2026-01-16T07:30:00/Dubai Invitational
-DESCRIPTION:Dubai Invitational - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Düsseldorf - Bielefeld - 2. Bundesliga - synsportviaplay
-DTSTART:20260116T172500
-DTEND:20260116T182500
-DTSTAMP:20260116T172500Z
-UID:2026-01-16T17:25:00/Düsseldorf - Bielefeld
-DESCRIPTION:Düsseldorf - Bielefeld - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Njarðvík - ÍA - Bónus deild karla - synsportisland2
-DTSTART:20260116T185000
-DTEND:20260116T195000
-DTSTAMP:20260116T185000Z
-UID:2026-01-16T18:50:00/Njarðvík - ÍA
-DESCRIPTION:Njarðvík - ÍA - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grindavík - Álftanes - Bónus deild karla - synsportisland
-DTSTART:20260116T191500
-DTEND:20260116T201500
-DTSTAMP:20260116T191500Z
-UID:2026-01-16T19:15:00/Grindavík - Álftanes
-DESCRIPTION:Grindavík - Álftanes - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WBA - Middlesbrough - EFL Championship - synsportviaplay
-DTSTART:20260116T195500
-DTEND:20260116T205500
-DTSTAMP:20260116T195500Z
-UID:2026-01-16T19:55:00/WBA - Middlesbrough
-DESCRIPTION:WBA - Middlesbrough - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
-DTSTART:20260116T212500
-DTEND:20260116T222500
-DTSTAMP:20260116T212500Z
-UID:2026-01-16T21:25:00/Bónus Körfuboltakvöld 
-DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hurricanes - Panthers - NHL - synsportviaplay
-DTSTART:20260117T000500
-DTEND:20260117T010500
-DTSTAMP:20260117T000500Z
-UID:2026-01-17T00:05:00/Hurricanes - Panthers
-DESCRIPTION:Hurricanes - Panthers - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dubai Invitational - DP World Tour - synsport4
 DTSTART:20260117T073000
 DTEND:20260117T083000
 DTSTAMP:20260117T073000Z
@@ -82,14 +26,6 @@ UID:2026-01-17T12:25:00/Coventry - Leicester
 DESCRIPTION:Coventry - Leicester - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Burnley - Premier League - synsport2
-DTSTART:20260117T144000
-DTEND:20260117T154000
-DTSTAMP:20260117T144000Z
-UID:2026-01-17T14:40:00/Liverpool - Burnley
-DESCRIPTION:Liverpool - Burnley - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chelsea - Brentford - Premier League - synsport4
 DTSTART:20260117T144000
 DTEND:20260117T154000
@@ -104,6 +40,14 @@ DTEND:20260117T154000
 DTSTAMP:20260117T144000Z
 UID:2026-01-17T14:40:00/Tottenham - West Ham
 DESCRIPTION:Tottenham - West Ham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Burnley - Premier League - synsport2
+DTSTART:20260117T144000
+DTEND:20260117T154000
+DTSTAMP:20260117T144000Z
+UID:2026-01-17T14:40:00/Liverpool - Burnley
+DESCRIPTION:Liverpool - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -364,12 +308,12 @@ UID:2026-01-20T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Olympiacos - Leverkusen - Meistaradeild Evrópu - synsport4
+SUMMARY:Inter - Arsenal - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20260120T195000
 DTEND:20260120T205000
 DTSTAMP:20260120T195000Z
-UID:2026-01-20T19:50:00/Olympiacos - Leverkusen
-DESCRIPTION:Olympiacos - Leverkusen - Meistaradeild Evrópu
+UID:2026-01-20T19:50:00/Inter - Arsenal
+DESCRIPTION:Inter - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Villarreal - Ajax - Meistaradeild Evrópu - synsport5
@@ -380,12 +324,12 @@ UID:2026-01-20T19:50:00/Villarreal - Ajax
 DESCRIPTION:Villarreal - Ajax - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter - Arsenal - Meistaradeild Evrópu - synsportviaplay
+SUMMARY:Olympiacos - Leverkusen - Meistaradeild Evrópu - synsport4
 DTSTART:20260120T195000
 DTEND:20260120T205000
 DTSTAMP:20260120T195000Z
-UID:2026-01-20T19:50:00/Inter - Arsenal
-DESCRIPTION:Inter - Arsenal - Meistaradeild Evrópu
+UID:2026-01-20T19:50:00/Olympiacos - Leverkusen
+DESCRIPTION:Olympiacos - Leverkusen - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FCK - Napoli - Meistaradeild Evrópu - synsport3
@@ -485,20 +429,12 @@ UID:2026-01-22T17:30:00/Bónus Körfuboltakvöld kvenna
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Álftanes - ÍA - Bónus deild karla - synsportisland5
+SUMMARY:ÍR - Stjarnan - Bónus deild karla - synsportisland2
 DTSTART:20260122T190500
 DTEND:20260122T200500
 DTSTAMP:20260122T190500Z
-UID:2026-01-22T19:05:00/Álftanes - ÍA
-DESCRIPTION:Álftanes - ÍA - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Þór Þ. - Bónus deild karla - synsportisland4
-DTSTART:20260122T190500
-DTEND:20260122T200500
-DTSTAMP:20260122T190500Z
-UID:2026-01-22T19:05:00/Valur - Þór Þ.
-DESCRIPTION:Valur - Þór Þ. - Bónus deild karla
+UID:2026-01-22T19:05:00/ÍR - Stjarnan
+DESCRIPTION:ÍR - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Ármann - Bónus deild karla - synsportisland3
@@ -509,12 +445,20 @@ UID:2026-01-22T19:05:00/Keflavík - Ármann
 DESCRIPTION:Keflavík - Ármann - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Stjarnan - Bónus deild karla - synsportisland2
+SUMMARY:Valur - Þór Þ. - Bónus deild karla - synsportisland4
 DTSTART:20260122T190500
 DTEND:20260122T200500
 DTSTAMP:20260122T190500Z
-UID:2026-01-22T19:05:00/ÍR - Stjarnan
-DESCRIPTION:ÍR - Stjarnan - Bónus deild karla
+UID:2026-01-22T19:05:00/Valur - Þór Þ.
+DESCRIPTION:Valur - Þór Þ. - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Álftanes - ÍA - Bónus deild karla - synsportisland5
+DTSTART:20260122T190500
+DTEND:20260122T200500
+DTSTAMP:20260122T190500Z
+UID:2026-01-22T19:05:00/Álftanes - ÍA
+DESCRIPTION:Álftanes - ÍA - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -539,5 +483,53 @@ DTEND:20260122T221000
 DTSTAMP:20260122T211000Z
 UID:2026-01-22T21:10:00/Tilþrifin 
 DESCRIPTION:Tilþrifin  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Jackets - Stars - NHL - synsportviaplay
+DTSTART:20260123T000500
+DTEND:20260123T010500
+DTSTAMP:20260123T000500Z
+UID:2026-01-23T00:05:00/Blue Jackets - Stars
+DESCRIPTION:Blue Jackets - Stars - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt 98 - Nürnberg - 2. Bundesliga - synsportviaplay
+DTSTART:20260123T172500
+DTEND:20260123T182500
+DTSTAMP:20260123T172500Z
+UID:2026-01-23T17:25:00/Darmstadt 98 - Nürnberg
+DESCRIPTION:Darmstadt 98 - Nürnberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Njarðvík - Bónus deild karla - synsportisland2
+DTSTART:20260123T185000
+DTEND:20260123T195000
+DTSTAMP:20260123T185000Z
+UID:2026-01-23T18:50:00/Tindastóll - Njarðvík
+DESCRIPTION:Tindastóll - Njarðvík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Grindavík - Bónus deild karla - synsportisland
+DTSTART:20260123T191500
+DTEND:20260123T201500
+DTSTAMP:20260123T191500Z
+UID:2026-01-23T19:15:00/KR - Grindavík
+DESCRIPTION:KR - Grindavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Derby - WBA - EFL Championship - synsportviaplay
+DTSTART:20260123T195500
+DTEND:20260123T205500
+DTSTAMP:20260123T195500Z
+UID:2026-01-23T19:55:00/Derby - WBA
+DESCRIPTION:Derby - WBA - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
+DTSTART:20260123T212500
+DTEND:20260123T222500
+DTSTAMP:20260123T212500Z
+UID:2026-01-23T21:25:00/Bónus Körfuboltakvöld 
+DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 END:VCALENDAR

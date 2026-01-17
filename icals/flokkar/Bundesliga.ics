@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Frankfurt - Bundesliga - viaplay
-DTSTART:20260116T192000
-DTEND:20260116T202000
-DTSTAMP:20260116T192000Z
-UID:2026-01-16T19:20:00/Werder Bremen - Frankfurt
-DESCRIPTION:Werder Bremen - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - viaplay
+SUMMARY:Köln - Mainz - Bundesliga - viaplay
 DTSTART:20260117T142000
 DTEND:20260117T152000
 DTSTAMP:20260117T142000Z
-UID:2026-01-17T14:20:00/Hoffenheim - Bayer Leverkusen
-DESCRIPTION:Hoffenheim - Bayer Leverkusen - Bundesliga
+UID:2026-01-17T14:20:00/Köln - Mainz
+DESCRIPTION:Köln - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - St. Pauli - Bundesliga - viaplay
@@ -34,6 +26,14 @@ UID:2026-01-17T14:20:00/Wolfsburg - Heidenheim
 DESCRIPTION:Wolfsburg - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hoffenheim - Bayer Leverkusen - Bundesliga - viaplay
+DTSTART:20260117T142000
+DTEND:20260117T152000
+DTSTAMP:20260117T142000Z
+UID:2026-01-17T14:20:00/Hoffenheim - Bayer Leverkusen
+DESCRIPTION:Hoffenheim - Bayer Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20260117T142000
 DTEND:20260117T152000
@@ -48,14 +48,6 @@ DTEND:20260117T152000
 DTSTAMP:20260117T142000Z
 UID:2026-01-17T14:20:00/HSV - Mönchengladbach
 DESCRIPTION:HSV - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Köln - Mainz - Bundesliga - viaplay
-DTSTART:20260117T142000
-DTEND:20260117T152000
-DTSTAMP:20260117T142000Z
-UID:2026-01-17T14:20:00/Köln - Mainz
-DESCRIPTION:Köln - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Bayern München - Bundesliga - viaplay
@@ -96,5 +88,13 @@ DTEND:20260118T172500
 DTSTAMP:20260118T162500Z
 UID:2026-01-18T16:25:00/Augsburg - Freiburg
 DESCRIPTION:Augsburg - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - HSV - Bundesliga - viaplay
+DTSTART:20260123T192000
+DTEND:20260123T202000
+DTSTAMP:20260123T192000Z
+UID:2026-01-23T19:20:00/St. Pauli - HSV
+DESCRIPTION:St. Pauli - HSV - Bundesliga
 END:VEVENT
 END:VCALENDAR
