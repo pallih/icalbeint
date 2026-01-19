@@ -18,6 +18,14 @@ UID:2026-01-20T19:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sporting - PSG - Champions League - viaplay
+DTSTART:20260120T195000
+DTEND:20260120T205000
+DTSTAMP:20260120T195000Z
+UID:2026-01-20T19:50:00/Sporting - PSG
+DESCRIPTION:Sporting - PSG - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Real Madrid - Monaco - Champions League - viaplay
 DTSTART:20260120T195000
 DTEND:20260120T205000
@@ -32,14 +40,6 @@ DTEND:20260120T205000
 DTSTAMP:20260120T195000Z
 UID:2026-01-20T19:50:00/Inter - Arsenal
 DESCRIPTION:Inter - Arsenal - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sporting - PSG - Champions League - viaplay
-DTSTART:20260120T195000
-DTEND:20260120T205000
-DTSTAMP:20260120T195000Z
-UID:2026-01-20T19:50:00/Sporting - PSG
-DESCRIPTION:Sporting - PSG - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goalshow - Champions League - viaplay
@@ -58,12 +58,12 @@ UID:2026-01-21T17:35:00/Qarabağ - Frankfurt
 DESCRIPTION:Qarabağ - Frankfurt - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atalanta - Athletic Club - Champions League - viaplay
+SUMMARY:Slavia Prag - Barcelona - Champions League - viaplay
 DTSTART:20260121T195000
 DTEND:20260121T205000
 DTSTAMP:20260121T195000Z
-UID:2026-01-21T19:50:00/Atalanta - Athletic Club
-DESCRIPTION:Atalanta - Athletic Club - Champions League
+UID:2026-01-21T19:50:00/Slavia Prag - Barcelona
+DESCRIPTION:Slavia Prag - Barcelona - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juventus - Benfica - Champions League - viaplay
@@ -74,14 +74,6 @@ UID:2026-01-21T19:50:00/Juventus - Benfica
 DESCRIPTION:Juventus - Benfica - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slavia Prag - Barcelona - Champions League - viaplay
-DTSTART:20260121T195000
-DTEND:20260121T205000
-DTSTAMP:20260121T195000Z
-UID:2026-01-21T19:50:00/Slavia Prag - Barcelona
-DESCRIPTION:Slavia Prag - Barcelona - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chelsea - Pafos - Champions League - viaplay
 DTSTART:20260121T195000
 DTEND:20260121T205000
@@ -90,11 +82,27 @@ UID:2026-01-21T19:50:00/Chelsea - Pafos
 DESCRIPTION:Chelsea - Pafos - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Atalanta - Athletic Club - Champions League - viaplay
+DTSTART:20260121T195000
+DTEND:20260121T205000
+DTSTAMP:20260121T195000Z
+UID:2026-01-21T19:50:00/Atalanta - Athletic Club
+DESCRIPTION:Atalanta - Athletic Club - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goalshow - Champions League - viaplay
 DTSTART:20260121T220000
 DTEND:20260121T230000
 DTSTAMP:20260121T220000Z
 UID:2026-01-21T22:00:00/Goalshow
 DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20260125T170000
+DTEND:20260125T180000
+DTSTAMP:20260125T170000Z
+UID:2026-01-25T17:00:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 END:VCALENDAR

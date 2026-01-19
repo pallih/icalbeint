@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Stofan - Íþróttaþættir - ruv
-DTSTART:20260118T162000
-DTEND:20260118T172000
-DTSTAMP:20260118T162000Z
-UID:2026-01-18T16:20:00/Stofan
-DESCRIPTION:Stofan - Íþróttaþættir
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Svartfjallaland - Færeyjar - EM karla í handbolta - ruvis
-DTSTART:20260118T170000
-DTEND:20260118T180000
-DTSTAMP:20260118T170000Z
-UID:2026-01-18T17:00:00/Svartfjallaland - Færeyjar
-DESCRIPTION:Svartfjallaland - Færeyjar - EM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pólland - Ísland - EM karla í handbolta - ruv
-DTSTART:20260118T170000
-DTEND:20260118T180000
-DTSTAMP:20260118T170000Z
-UID:2026-01-18T17:00:00/Pólland - Ísland
-DESCRIPTION:Pólland - Ísland - EM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stofan - Íþróttaþættir - ruv
-DTSTART:20260118T183500
-DTEND:20260118T193500
-DTSTAMP:20260118T183500Z
-UID:2026-01-18T18:35:00/Stofan
-DESCRIPTION:Stofan - Íþróttaþættir
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ítalía - Ungverjaland - EM karla í handbolta - ruv2
-DTSTART:20260118T193000
-DTEND:20260118T203000
-DTSTAMP:20260118T193000Z
-UID:2026-01-18T19:30:00/Ítalía - Ungverjaland
-DESCRIPTION:Ítalía - Ungverjaland - EM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holland - Króatía - EM karla í handbolta - ruv
 DTSTART:20260119T170000
 DTEND:20260119T180000
@@ -50,20 +10,20 @@ UID:2026-01-19T17:00:00/Holland - Króatía
 DESCRIPTION:Holland - Króatía - EM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frakkland - Noregur - EM karla í handbolta - ruv2
-DTSTART:20260119T193000
-DTEND:20260119T203000
-DTSTAMP:20260119T193000Z
-UID:2026-01-19T19:30:00/Frakkland - Noregur
-DESCRIPTION:Frakkland - Noregur - EM karla í handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þýskaland - Spánn - EM karla í handbolta - ruvis
+SUMMARY:Þýskaland - Spánn - EM karla í handbolta - ruv2
 DTSTART:20260119T193000
 DTEND:20260119T203000
 DTSTAMP:20260119T193000Z
 UID:2026-01-19T19:30:00/Þýskaland - Spánn
 DESCRIPTION:Þýskaland - Spánn - EM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Noregur - EM karla í handbolta - ruvis
+DTSTART:20260119T193000
+DTEND:20260119T203000
+DTSTAMP:20260119T193000Z
+UID:2026-01-19T19:30:00/Frakkland - Noregur
+DESCRIPTION:Frakkland - Noregur - EM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pólland - Ítalía - EM karla í handbolta - ruv2
@@ -90,12 +50,20 @@ UID:2026-01-20T19:30:00/Ungverjaland - Ísland
 DESCRIPTION:Ungverjaland - Ísland - EM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Riðlakeppni - EM karla í handbolta - ruv2
+SUMMARY:Slóvenía - Færeyjar - EM karla í handbolta - ruv2
 DTSTART:20260120T193000
 DTEND:20260120T203000
 DTSTAMP:20260120T193000Z
-UID:2026-01-20T19:30:00/Riðlakeppni
-DESCRIPTION:Riðlakeppni - EM karla í handbolta
+UID:2026-01-20T19:30:00/Slóvenía - Færeyjar
+DESCRIPTION:Slóvenía - Færeyjar - EM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Portúgal - EM karla í handbolta - ruvis
+DTSTART:20260120T193000
+DTEND:20260120T203000
+DTSTAMP:20260120T193000Z
+UID:2026-01-20T19:30:00/Danmörk - Portúgal
+DESCRIPTION:Danmörk - Portúgal - EM karla í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv
@@ -208,5 +176,29 @@ DTEND:20260124T204500
 DTSTAMP:20260124T194500Z
 UID:2026-01-24T19:45:00/Dans
 DESCRIPTION:Dans - Reykjavíkurleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milliriðill - EM karla í handbolta - ruv
+DTSTART:20260125T143000
+DTEND:20260125T153000
+DTSTAMP:20260125T143000Z
+UID:2026-01-25T14:30:00/Milliriðill
+DESCRIPTION:Milliriðill - EM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milliriðill - EM karla í handbolta - ruv
+DTSTART:20260125T170000
+DTEND:20260125T180000
+DTSTAMP:20260125T170000Z
+UID:2026-01-25T17:00:00/Milliriðill
+DESCRIPTION:Milliriðill - EM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milliriðill - EM karla í handbolta - ruv2
+DTSTART:20260125T193000
+DTEND:20260125T203000
+DTSTAMP:20260125T193000Z
+UID:2026-01-25T19:30:00/Milliriðill
+DESCRIPTION:Milliriðill - EM karla í handbolta
 END:VEVENT
 END:VCALENDAR
