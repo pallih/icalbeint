@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Hamar/Þór - Bónus deild kvenna - synsportisland2
-DTSTART:20260120T180500
-DTEND:20260120T190500
-DTSTAMP:20260120T180500Z
-UID:2026-01-20T18:05:00/Stjarnan - Hamar/Þór
-DESCRIPTION:Stjarnan - Hamar/Þór - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - Valur - Bónus deild kvenna - synsportisland
-DTSTART:20260120T190500
-DTEND:20260120T200500
-DTSTAMP:20260120T190500Z
-UID:2026-01-20T19:05:00/KR - Valur
-DESCRIPTION:KR - Valur - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - Ármann - Bónus deild kvenna - synsportisland3
-DTSTART:20260120T190500
-DTEND:20260120T200500
-DTSTAMP:20260120T190500Z
-UID:2026-01-20T19:05:00/Haukar - Ármann
-DESCRIPTION:Haukar - Ármann - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Grindavík - Bónus deild kvenna - synsportisland2
 DTSTART:20260121T190500
 DTEND:20260121T200500
@@ -51,20 +27,12 @@ UID:2026-01-22T17:30:00/Bónus Körfuboltakvöld kvenna
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Þór Þ. - Bónus deild karla - synsportisland4
+SUMMARY:Álftanes - ÍA - Bónus deild karla - synsportisland5
 DTSTART:20260122T190500
 DTEND:20260122T200500
 DTSTAMP:20260122T190500Z
-UID:2026-01-22T19:05:00/Valur - Þór Þ.
-DESCRIPTION:Valur - Þór Þ. - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Keflavík - Ármann - Bónus deild karla - synsportisland3
-DTSTART:20260122T190500
-DTEND:20260122T200500
-DTSTAMP:20260122T190500Z
-UID:2026-01-22T19:05:00/Keflavík - Ármann
-DESCRIPTION:Keflavík - Ármann - Bónus deild karla
+UID:2026-01-22T19:05:00/Álftanes - ÍA
+DESCRIPTION:Álftanes - ÍA - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Stjarnan - Bónus deild karla - synsportisland2
@@ -75,12 +43,20 @@ UID:2026-01-22T19:05:00/ÍR - Stjarnan
 DESCRIPTION:ÍR - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Álftanes - ÍA - Bónus deild karla - synsportisland5
+SUMMARY:Keflavík - Ármann - Bónus deild karla - synsportisland3
 DTSTART:20260122T190500
 DTEND:20260122T200500
 DTSTAMP:20260122T190500Z
-UID:2026-01-22T19:05:00/Álftanes - ÍA
-DESCRIPTION:Álftanes - ÍA - Bónus deild karla
+UID:2026-01-22T19:05:00/Keflavík - Ármann
+DESCRIPTION:Keflavík - Ármann - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Þór Þ. - Bónus deild karla - synsportisland4
+DTSTART:20260122T190500
+DTEND:20260122T200500
+DTSTAMP:20260122T190500Z
+UID:2026-01-22T19:05:00/Valur - Þór Þ.
+DESCRIPTION:Valur - Þór Þ. - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -137,5 +113,37 @@ DTEND:20260126T221500
 DTSTAMP:20260126T211500Z
 UID:2026-01-26T21:15:00/Körfuboltakvöld Extra
 DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - KR - Bónus deild kvenna - synsportisland
+DTSTART:20260127T190500
+DTEND:20260127T200500
+DTSTAMP:20260127T190500Z
+UID:2026-01-27T19:05:00/Grindavík - KR
+DESCRIPTION:Grindavík - KR - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keflavík - Tindastóll - Bónus deild kvenna - synsportisland2
+DTSTART:20260127T190500
+DTEND:20260127T200500
+DTSTAMP:20260127T190500Z
+UID:2026-01-27T19:05:00/Keflavík - Tindastóll
+DESCRIPTION:Keflavík - Tindastóll - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamar/Þór - Njarðvík - Bónus deild kvenna - synsportisland3
+DTSTART:20260127T190500
+DTEND:20260127T200500
+DTSTAMP:20260127T190500Z
+UID:2026-01-27T19:05:00/Hamar/Þór - Njarðvík
+DESCRIPTION:Hamar/Þór - Njarðvík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ármann - Stjarnan - Bónus deild kvenna - synsportisland4
+DTSTART:20260127T190500
+DTEND:20260127T200500
+DTSTAMP:20260127T190500Z
+UID:2026-01-27T19:05:00/Ármann - Stjarnan
+DESCRIPTION:Ármann - Stjarnan - Bónus deild kvenna
 END:VEVENT
 END:VCALENDAR
