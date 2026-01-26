@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Champions League - ical
 BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20260125T163000
-DTEND:20260125T173000
-DTSTAMP:20260125T163000Z
-UID:2026-01-25T16:30:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Instant Highlights - Champions League - viaplay
 DTSTART:20260128T193000
 DTEND:20260128T203000
 DTSTAMP:20260128T193000Z
 UID:2026-01-28T19:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liverpool - Qarabağ - Champions League - viaplay
-DTSTART:20260128T195000
-DTEND:20260128T205000
-DTSTAMP:20260128T195000Z
-UID:2026-01-28T19:50:00/Liverpool - Qarabağ
-DESCRIPTION:Liverpool - Qarabağ - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Benfica - Real Madrid - Champions League - viaplay
@@ -42,12 +26,12 @@ UID:2026-01-28T19:50:00/Napoli - Chelsea
 DESCRIPTION:Napoli - Chelsea - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Inter - Champions League - viaplay
-DTSTART:20260128T195500
-DTEND:20260128T205500
-DTSTAMP:20260128T195500Z
-UID:2026-01-28T19:55:00/Dortmund - Inter
-DESCRIPTION:Dortmund - Inter - Champions League
+SUMMARY:Liverpool - Qarabağ - Champions League - viaplay
+DTSTART:20260128T195000
+DTEND:20260128T205000
+DTSTAMP:20260128T195000Z
+UID:2026-01-28T19:50:00/Liverpool - Qarabağ
+DESCRIPTION:Liverpool - Qarabağ - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSV - Bayern München - Champions League - viaplay
@@ -98,6 +82,14 @@ UID:2026-01-28T19:55:00/Club Brugge - Marseille
 DESCRIPTION:Club Brugge - Marseille - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dortmund - Inter - Champions League - viaplay
+DTSTART:20260128T195500
+DTEND:20260128T205500
+DTSTAMP:20260128T195500Z
+UID:2026-01-28T19:55:00/Dortmund - Inter
+DESCRIPTION:Dortmund - Inter - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlético Madrid - Bodø/Glimt - Champions League - viaplay
 DTSTART:20260128T195500
 DTEND:20260128T205500
@@ -144,5 +136,13 @@ DTEND:20260130T120000
 DTSTAMP:20260130T110000Z
 UID:2026-01-30T11:00:00/Dregið
 DESCRIPTION:Dregið - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20260201T170000
+DTEND:20260201T180000
+DTSTAMP:20260201T170000Z
+UID:2026-02-01T17:00:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 END:VCALENDAR
