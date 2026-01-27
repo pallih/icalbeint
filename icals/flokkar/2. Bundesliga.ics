@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Hannover - 2. Bundesliga - viaplay
-DTSTART:20260130T172500
-DTEND:20260130T182500
-DTSTAMP:20260130T172500Z
-UID:2026-01-30T17:25:00/Magdeburg - Hannover
-DESCRIPTION:Magdeburg - Hannover - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürnberg - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20260130T172500
 DTEND:20260130T182500
@@ -18,12 +10,12 @@ UID:2026-01-30T17:25:00/Nürnberg - Preußen Münster
 DESCRIPTION:Nürnberg - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Schalke - 2. Bundesliga - viaplay
-DTSTART:20260131T115500
-DTEND:20260131T125500
-DTSTAMP:20260131T115500Z
-UID:2026-01-31T11:55:00/Bochum - Schalke
-DESCRIPTION:Bochum - Schalke - 2. Bundesliga
+SUMMARY:Magdeburg - Hannover - 2. Bundesliga - viaplay
+DTSTART:20260130T172500
+DTEND:20260130T182500
+DTSTAMP:20260130T172500Z
+UID:2026-01-30T17:25:00/Magdeburg - Hannover
+DESCRIPTION:Magdeburg - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eintracht Braunschweig - Karlsruher - 2. Bundesliga - viaplay
@@ -32,6 +24,14 @@ DTEND:20260131T125500
 DTSTAMP:20260131T115500Z
 UID:2026-01-31T11:55:00/Eintracht Braunschweig - Karlsruher
 DESCRIPTION:Eintracht Braunschweig - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum - Schalke - 2. Bundesliga - viaplay
+DTSTART:20260131T115500
+DTEND:20260131T125500
+DTSTAMP:20260131T115500Z
+UID:2026-01-31T11:55:00/Bochum - Schalke
+DESCRIPTION:Bochum - Schalke - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Greuther Fürth - 2. Bundesliga - viaplay
@@ -58,22 +58,6 @@ UID:2026-01-31T19:25:00/Kaiserslautern - Elversberg
 DESCRIPTION:Kaiserslautern - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hertha BSC - Darmstadt 98 - 2. Bundesliga - synsportviaplay
-DTSTART:20260201T122500
-DTEND:20260201T132500
-DTSTAMP:20260201T122500Z
-UID:2026-02-01T12:25:00/Hertha BSC - Darmstadt 98
-DESCRIPTION:Hertha BSC - Darmstadt 98 - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20260201T122500
-DTEND:20260201T132500
-DTSTAMP:20260201T122500Z
-UID:2026-02-01T12:25:00/Hertha Berlin - Darmstadt
-DESCRIPTION:Hertha Berlin - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dynamo Dresden - Arminia Bielefeld - 2. Bundesliga - viaplay
 DTSTART:20260201T122500
 DTEND:20260201T132500
@@ -82,11 +66,27 @@ UID:2026-02-01T12:25:00/Dynamo Dresden - Arminia Bielefeld
 DESCRIPTION:Dynamo Dresden - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hertha BSC - Darmstadt 98 - 2. Bundesliga - synsportviaplay
+DTSTART:20260201T122500
+DTEND:20260201T132500
+DTSTAMP:20260201T122500Z
+UID:2026-02-01T12:25:00/Hertha BSC - Darmstadt 98
+DESCRIPTION:Hertha BSC - Darmstadt 98 - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fortuna Düsseldorf - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20260201T122500
 DTEND:20260201T132500
 DTSTAMP:20260201T122500Z
 UID:2026-02-01T12:25:00/Fortuna Düsseldorf - Paderborn
 DESCRIPTION:Fortuna Düsseldorf - Paderborn - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hertha Berlin - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20260201T122500
+DTEND:20260201T132500
+DTSTAMP:20260201T122500Z
+UID:2026-02-01T12:25:00/Hertha Berlin - Darmstadt
+DESCRIPTION:Hertha Berlin - Darmstadt - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
