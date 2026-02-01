@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Nürnberg - Frauen-Bundesliga - viaplay
-DTSTART:20260131T105500
-DTEND:20260131T115500
-DTSTAMP:20260131T105500Z
-UID:2026-01-31T10:55:00/Leverkusen - Nürnberg
-DESCRIPTION:Leverkusen - Nürnberg - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hoffenheim - Werder Bremen - Frauen-Bundesliga - viaplay
 DTSTART:20260201T145500
 DTEND:20260201T155500
@@ -40,5 +32,13 @@ DTEND:20260206T182500
 DTSTAMP:20260206T172500Z
 UID:2026-02-06T17:25:00/Freiburg - Bayern München
 DESCRIPTION:Freiburg - Bayern München - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Wolfsburg - Frauen-Bundesliga - viaplay
+DTSTART:20260207T105500
+DTEND:20260207T115500
+DTSTAMP:20260207T105500Z
+UID:2026-02-07T10:55:00/Werder Bremen - Wolfsburg
+DESCRIPTION:Werder Bremen - Wolfsburg - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR

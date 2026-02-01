@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv
-DTSTART:20260201T132000
-DTEND:20260201T142000
-DTSTAMP:20260201T132000Z
-UID:2026-02-01T13:20:00/Stofan
+DTSTART:20260201T131500
+DTEND:20260201T141500
+DTSTAMP:20260201T131500Z
+UID:2026-02-01T13:15:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
@@ -40,6 +40,14 @@ DTEND:20260201T180000
 DTSTAMP:20260201T170000Z
 UID:2026-02-01T17:00:00/Danmörk - Þýskaland
 DESCRIPTION:Danmörk - Þýskaland - EM karla í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stofan - Íþróttaþættir - ruv2
+DTSTART:20260201T183500
+DTEND:20260201T193500
+DTSTAMP:20260201T183500Z
+UID:2026-02-01T18:35:00/Stofan
+DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv
@@ -121,5 +129,76 @@ DTEND:20260206T200000
 DTSTAMP:20260206T190000Z
 UID:2026-02-06T19:00:00/Setningarathöfn
 DESCRIPTION:Setningarathöfn - Vetrarólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpagreinar: Brun karla - Vetrarólympíuleikar - ruv
+DTSTART:20260207T102000
+DTEND:20260207T112000
+DTSTAMP:20260207T102000Z
+UID:2026-02-07T10:20:00/Alpagreinar: Brun karla
+DESCRIPTION:Alpagreinar: Brun karla - Vetrarólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skíðaganga: Skiptiganga kvenna - Vetrarólympíuleikar - ruv
+DTSTART:20260207T120000
+DTEND:20260207T130000
+DTSTAMP:20260207T120000Z
+UID:2026-02-07T12:00:00/Skíðaganga: Skiptiganga kvenna
+DESCRIPTION:Skíðaganga: Skiptiganga kvenna - Vetrarólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bikarúrslit karla - VÍS-bikar karla í körfubolta - ruv
+DTSTART:20260207T150000
+DTEND:20260207T160000
+DTSTAMP:20260207T150000Z
+UID:2026-02-07T15:00:00/Bikarúrslit karla
+DESCRIPTION:Bikarúrslit karla - VÍS-bikar karla í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Íshokkí kvenna: Bandaríkin - Finnland - Vetrarólympíuleikar -
+  ruv2
+DTSTART:20260207T153000
+DTEND:20260207T163000
+DTSTAMP:20260207T153000Z
+UID:2026-02-07T15:30:00/Íshokkí kvenna: Bandaríkin - Finnland
+DESCRIPTION:Íshokkí kvenna: Bandaríkin - Finnland - Vetrarólympíuleik
+ ar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bikarúrslit kvenna - VÍS-bikar kvenna í körfubolta - ruv2
+DTSTART:20260207T181500
+DTEND:20260207T191500
+DTSTAMP:20260207T181500Z
+UID:2026-02-07T18:15:00/Bikarúrslit kvenna
+DESCRIPTION:Bikarúrslit kvenna - VÍS-bikar kvenna í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Listskautar: Liðakeppni karla - stuttar æfingar - Vetrarólympí
+ uleikar - ruv2
+DTSTART:20260207T184000
+DTEND:20260207T194000
+DTSTAMP:20260207T184000Z
+UID:2026-02-07T18:40:00/Listskautar: Liðakeppni karla - stuttar æfingar
+DESCRIPTION:Listskautar: Liðakeppni karla - stuttar æfingar - Vetraróly
+ mpíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snjóbrettastökk af stórum palli - Vetrarólympíuleikar - ruv2
+DTSTART:20260207T200000
+DTEND:20260207T210000
+DTSTAMP:20260207T200000Z
+UID:2026-02-07T20:00:00/Snjóbrettastökk af stórum palli
+DESCRIPTION:Snjóbrettastökk af stórum palli - Vetrarólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Listautar: Liðakeppni í ísdansi para - frjálsar æfingar - Vet
+ rarólympíuleikar - ruv2
+DTSTART:20260207T210500
+DTEND:20260207T220500
+DTSTAMP:20260207T210500Z
+UID:2026-02-07T21:05:00/Listautar: Liðakeppni í ísdansi para - frjálsa
+ r æfingar
+DESCRIPTION:Listautar: Liðakeppni í ísdansi para - frjálsar æfingar -
+  Vetrarólympíuleikar
 END:VEVENT
 END:VCALENDAR
