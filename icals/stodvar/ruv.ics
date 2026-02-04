@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Keflavík - Stjarnan - undanúrslit - VÍS-bikar karla í körfubo
- lta - ruv2
-DTSTART:20260203T171500
-DTEND:20260203T181500
-DTSTAMP:20260203T171500Z
-UID:2026-02-03T17:15:00/Keflavík - Stjarnan - undanúrslit
-DESCRIPTION:Keflavík - Stjarnan - undanúrslit - VÍS-bikar karla í kör
- fubolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tindastóll - KR - undanúrslit - VÍS-bikar karla í körfubolta 
- - ruv2
-DTSTART:20260203T200000
-DTEND:20260203T210000
-DTSTAMP:20260203T200000Z
-UID:2026-02-03T20:00:00/Tindastóll - KR - undanúrslit
-DESCRIPTION:Tindastóll - KR - undanúrslit - VÍS-bikar karla í körfubo
- lta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Listskautar: Liðakeppni í ísdansi - Vetrarólympíuleikar - ruv
 DTSTART:20260206T085000
 DTEND:20260206T095000
@@ -81,12 +61,12 @@ UID:2026-02-07T12:00:00/Skíðaganga: Skiptiganga kvenna
 DESCRIPTION:Skíðaganga: Skiptiganga kvenna - Vetrarólympíuleikar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bikarúrslit karla - VÍS-bikar karla í körfubolta - ruv
+SUMMARY:Stjarnan - KR - VÍS-bikar karla í körfubolta - ruv
 DTSTART:20260207T150000
 DTEND:20260207T160000
 DTSTAMP:20260207T150000Z
-UID:2026-02-07T15:00:00/Bikarúrslit karla
-DESCRIPTION:Bikarúrslit karla - VÍS-bikar karla í körfubolta
+UID:2026-02-07T15:00:00/Stjarnan - KR
+DESCRIPTION:Stjarnan - KR - VÍS-bikar karla í körfubolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Íshokkí kvenna: Bandaríkin - Finnland - Vetrarólympíuleikar -
@@ -302,5 +282,94 @@ DTSTAMP:20260209T223000Z
 UID:2026-02-09T22:30:00/Snjóbrettastökk kvenna af stórum palli
 DESCRIPTION:Snjóbrettastökk kvenna af stórum palli - Vetrarólympíulei
  kar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skíðganga: Sprettaganga kvenna og karla - Vetrarólympíuleikar 
+ - ruv2
+DTSTART:20260210T080500
+DTEND:20260210T090500
+DTSTAMP:20260210T080500Z
+UID:2026-02-10T08:05:00/Skíðganga: Sprettaganga kvenna og karla
+DESCRIPTION:Skíðganga: Sprettaganga kvenna og karla - Vetrarólympíulei
+ kar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpatvíkeppni: Liðakeppni kvenna - brun - Vetrarólympíuleikar 
+ - ruv
+DTSTART:20260210T092000
+DTEND:20260210T102000
+DTSTAMP:20260210T092000Z
+UID:2026-02-10T09:20:00/Alpatvíkeppni: Liðakeppni kvenna - brun
+DESCRIPTION:Alpatvíkeppni: Liðakeppni kvenna - brun - Vetrarólympíulei
+ kar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skíðganga: Sprettaganga kvenna og karla - Vetrarólympíuleikar 
+ - ruv2
+DTSTART:20260210T103500
+DTEND:20260210T113500
+DTSTAMP:20260210T103500Z
+UID:2026-02-10T10:35:00/Skíðganga: Sprettaganga kvenna og karla
+DESCRIPTION:Skíðganga: Sprettaganga kvenna og karla - Vetrarólympíulei
+ kar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skíðaskotfimi: 20 km karla - Vetrarólympíuleikar - ruv
+DTSTART:20260210T122000
+DTEND:20260210T132000
+DTSTAMP:20260210T122000Z
+UID:2026-02-10T12:20:00/Skíðaskotfimi: 20 km karla
+DESCRIPTION:Skíðaskotfimi: 20 km karla - Vetrarólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpatvíkeppni: Liðakeppni kvenna - svig - Vetrarólympíuleikar 
+ - ruv2
+DTSTART:20260210T125000
+DTEND:20260210T135000
+DTSTAMP:20260210T125000Z
+UID:2026-02-10T12:50:00/Alpatvíkeppni: Liðakeppni kvenna - svig
+DESCRIPTION:Alpatvíkeppni: Liðakeppni kvenna - svig - Vetrarólympíulei
+ kar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skíðafimi karla - Vetrarólympíuleikar - ruv
+DTSTART:20260210T140500
+DTEND:20260210T150500
+DTSTAMP:20260210T140500Z
+UID:2026-02-10T14:05:00/Skíðafimi karla
+DESCRIPTION:Skíðafimi karla - Vetrarólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skautaat: Blönduð liðakeppni - Vetrarólympíuleikar - ruv2
+DTSTART:20260210T141500
+DTEND:20260210T151500
+DTSTAMP:20260210T141500Z
+UID:2026-02-10T14:15:00/Skautaat: Blönduð liðakeppni
+DESCRIPTION:Skautaat: Blönduð liðakeppni - Vetrarólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Listskautar: Stuttar æfingar karla - Vetrarólympíuleikar - ruv2
+DTSTART:20260210T172500
+DTEND:20260210T182500
+DTSTAMP:20260210T172500Z
+UID:2026-02-10T17:25:00/Listskautar: Stuttar æfingar karla
+DESCRIPTION:Listskautar: Stuttar æfingar karla - Vetrarólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baksleði kvenna - Vetrarólympíuleikar - ruv
+DTSTART:20260210T173500
+DTEND:20260210T183500
+DTSTAMP:20260210T173500Z
+UID:2026-02-10T17:35:00/Baksleði kvenna
+DESCRIPTION:Baksleði kvenna - Vetrarólympíuleikar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Íshokkí kvenna: Kanada - Bandraíkin - Vetrarólympíuleikar - r
+ uv2
+DTSTART:20260210T214500
+DTEND:20260210T224500
+DTSTAMP:20260210T214500Z
+UID:2026-02-10T21:45:00/Íshokkí kvenna: Kanada - Bandraíkin
+DESCRIPTION:Íshokkí kvenna: Kanada - Bandraíkin - Vetrarólympíuleikar
 END:VEVENT
 END:VCALENDAR
