@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Magdeburg - 2. Bundesliga - viaplay
-DTSTART:20260206T172500
-DTEND:20260206T182500
-DTSTAMP:20260206T172500Z
-UID:2026-02-06T17:25:00/Greuther Fürth - Magdeburg
-DESCRIPTION:Greuther Fürth - Magdeburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preußen Münster - Bochum - 2. Bundesliga - viaplay
 DTSTART:20260206T172500
 DTEND:20260206T182500
 DTSTAMP:20260206T172500Z
 UID:2026-02-06T17:25:00/Preußen Münster - Bochum
 DESCRIPTION:Preußen Münster - Bochum - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greuther Fürth - Magdeburg - 2. Bundesliga - viaplay
+DTSTART:20260206T172500
+DTEND:20260206T182500
+DTSTAMP:20260206T172500Z
+UID:2026-02-06T17:25:00/Greuther Fürth - Magdeburg
+DESCRIPTION:Greuther Fürth - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - Nürnberg - 2. Bundesliga - viaplay
@@ -58,6 +58,14 @@ UID:2026-02-07T19:25:00/Darmstadt - Kaiserslautern
 DESCRIPTION:Darmstadt - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hannover - Holstein Kiel - 2. Bundesliga - viaplay
+DTSTART:20260208T122500
+DTEND:20260208T132500
+DTSTAMP:20260208T122500Z
+UID:2026-02-08T12:25:00/Hannover - Holstein Kiel
+DESCRIPTION:Hannover - Holstein Kiel - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Karlsruher - Fortuna Düsseldorf - 2. Bundesliga - viaplay
 DTSTART:20260208T122500
 DTEND:20260208T132500
@@ -73,13 +81,5 @@ DTEND:20260208T132500
 DTSTAMP:20260208T122500Z
 UID:2026-02-08T12:25:00/Arminia Bielefeld - Eintracht Braunschweig
 DESCRIPTION:Arminia Bielefeld - Eintracht Braunschweig - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hannover - Holstein Kiel - 2. Bundesliga - viaplay
-DTSTART:20260208T122500
-DTEND:20260208T132500
-DTSTAMP:20260208T122500Z
-UID:2026-02-08T12:25:00/Hannover - Holstein Kiel
-DESCRIPTION:Hannover - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
