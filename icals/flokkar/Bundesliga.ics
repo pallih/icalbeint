@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Frankfurt - Bundesliga - viaplay
-DTSTART:20260206T192000
-DTEND:20260206T202000
-DTSTAMP:20260206T192000Z
-UID:2026-02-06T19:20:00/Union Berlin - Frankfurt
-DESCRIPTION:Union Berlin - Frankfurt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Werder Bremen - Bundesliga - viaplay
-DTSTART:20260207T142000
-DTEND:20260207T152000
-DTSTAMP:20260207T142000Z
-UID:2026-02-07T14:20:00/Freiburg - Werder Bremen
-DESCRIPTION:Freiburg - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mainz - Augsburg - Bundesliga - viaplay
-DTSTART:20260207T142000
-DTEND:20260207T152000
-DTSTAMP:20260207T142000Z
-UID:2026-02-07T14:20:00/Mainz - Augsburg
-DESCRIPTION:Mainz - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolfsburg - Dortmund - Bundesliga - viaplay
 DTSTART:20260207T142000
 DTEND:20260207T152000
@@ -42,12 +18,20 @@ UID:2026-02-07T14:20:00/St. Pauli - Stuttgart
 DESCRIPTION:St. Pauli - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - HSV - Bundesliga - viaplay
+SUMMARY:Mainz - Augsburg - Bundesliga - viaplay
 DTSTART:20260207T142000
 DTEND:20260207T152000
 DTSTAMP:20260207T142000Z
-UID:2026-02-07T14:20:00/Heidenheim - HSV
-DESCRIPTION:Heidenheim - HSV - Bundesliga
+UID:2026-02-07T14:20:00/Mainz - Augsburg
+DESCRIPTION:Mainz - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Werder Bremen - Bundesliga - viaplay
+DTSTART:20260207T142000
+DTEND:20260207T152000
+DTSTAMP:20260207T142000Z
+UID:2026-02-07T14:20:00/Freiburg - Werder Bremen
+DESCRIPTION:Freiburg - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -58,12 +42,12 @@ UID:2026-02-07T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Leverkusen - Bundesliga - viaplay
-DTSTART:20260207T172000
-DTEND:20260207T182000
-DTSTAMP:20260207T172000Z
-UID:2026-02-07T17:20:00/Mönchengladbach - Leverkusen
-DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
+SUMMARY:Heidenheim - HSV - Bundesliga - viaplay
+DTSTART:20260207T142000
+DTEND:20260207T152000
+DTSTAMP:20260207T142000Z
+UID:2026-02-07T14:20:00/Heidenheim - HSV
+DESCRIPTION:Heidenheim - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:M´gladbach - Leverkusen - Bundesliga - synsportviaplay
@@ -72,6 +56,14 @@ DTEND:20260207T182000
 DTSTAMP:20260207T172000Z
 UID:2026-02-07T17:20:00/M´gladbach - Leverkusen
 DESCRIPTION:M´gladbach - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Leverkusen - Bundesliga - viaplay
+DTSTART:20260207T172000
+DTEND:20260207T182000
+DTSTAMP:20260207T172000Z
+UID:2026-02-07T17:20:00/Mönchengladbach - Leverkusen
+DESCRIPTION:Mönchengladbach - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Leipzig - Bundesliga - viaplay
@@ -120,5 +112,13 @@ DTEND:20260211T195500
 DTSTAMP:20260211T185500Z
 UID:2026-02-11T18:55:00/Magdeburg - Lemgo Lippe
 DESCRIPTION:Magdeburg - Lemgo Lippe - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Mainz - Bundesliga - viaplay
+DTSTART:20260213T192000
+DTEND:20260213T202000
+DTSTAMP:20260213T192000Z
+UID:2026-02-13T19:20:00/Dortmund - Mainz
+DESCRIPTION:Dortmund - Mainz - Bundesliga
 END:VEVENT
 END:VCALENDAR

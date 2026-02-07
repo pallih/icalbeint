@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Valur (9.flokkur kvenna) - VÍS bikar yngri flokka - sy
- nsportisland
-DTSTART:20260206T172500
-DTEND:20260206T182500
-DTSTAMP:20260206T172500Z
-UID:2026-02-06T17:25:00/Stjarnan - Valur (9.flokkur kvenna)
-DESCRIPTION:Stjarnan - Valur (9.flokkur kvenna) - VÍS bikar yngri flokka
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - Valur (10.flokkur karla) - VÍS bikar yngri flokka - sy
- nsportisland
-DTSTART:20260206T195500
-DTEND:20260206T205500
-DTSTAMP:20260206T195500Z
-UID:2026-02-06T19:55:00/Stjarnan - Valur (10.flokkur karla)
-DESCRIPTION:Stjarnan - Valur (10.flokkur karla) - VÍS bikar yngri flokka
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - KR - VÍS-bikar karla í körfubolta - ruv
 DTSTART:20260207T150000
 DTEND:20260207T160000
@@ -34,6 +16,22 @@ DTEND:20260207T191500
 DTSTAMP:20260207T181500Z
 UID:2026-02-07T18:15:00/Keflavík - Grindavík
 DESCRIPTION:Keflavík - Grindavík - VÍS-bikar kvenna í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thunder - Rockets - NBA - livey
+DTSTART:20260207T203000
+DTEND:20260207T213000
+DTSTAMP:20260207T203000Z
+UID:2026-02-07T20:30:00/Thunder - Rockets
+DESCRIPTION:Thunder - Rockets - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lakers - Warriors - NBA - livey
+DTSTART:20260208T013000
+DTEND:20260208T023000
+DTSTAMP:20260208T013000Z
+UID:2026-02-08T01:30:00/Lakers - Warriors
+DESCRIPTION:Lakers - Warriors - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍA - Fjölnir (9.flokkur drengja) - VÍS bikar yngri flokka - syn
@@ -66,6 +64,22 @@ DESCRIPTION:Fjölnir/Vængir Júpiters - KR/KV (11.flokkur karla) - VÍS b
  ikar yngri flokka
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Celtics - Knicks - NBA - livey
+DTSTART:20260208T173000
+DTEND:20260208T183000
+DTSTAMP:20260208T173000Z
+UID:2026-02-08T17:30:00/Celtics - Knicks
+DESCRIPTION:Celtics - Knicks - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timberwolves - Clippers - NBA - livey
+DTSTART:20260208T200000
+DTEND:20260208T210000
+DTSTAMP:20260208T200000Z
+UID:2026-02-08T20:00:00/Timberwolves - Clippers
+DESCRIPTION:Timberwolves - Clippers - NBA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stjarnan - Haukar - Bónus deild kvenna - synsportisland
 DTSTART:20260210T180500
 DTEND:20260210T190500
@@ -80,14 +94,6 @@ DTEND:20260210T200500
 DTSTAMP:20260210T190500Z
 UID:2026-02-10T19:05:00/KR - Keflavík
 DESCRIPTION:KR - Keflavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Njarðvík - Ármann - Bónus deild kvenna - synsportisland3
-DTSTART:20260211T190500
-DTEND:20260211T200500
-DTSTAMP:20260211T190500Z
-UID:2026-02-11T19:05:00/Njarðvík - Ármann
-DESCRIPTION:Njarðvík - Ármann - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík - Valur - Bónus deild kvenna - synsportisland
@@ -106,6 +112,14 @@ UID:2026-02-11T19:05:00/Hamar/Þór - Tindastóll
 DESCRIPTION:Hamar/Þór - Tindastóll - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Njarðvík - Ármann - Bónus deild kvenna - synsportisland3
+DTSTART:20260211T190500
+DTEND:20260211T200500
+DTSTAMP:20260211T190500Z
+UID:2026-02-11T19:05:00/Njarðvík - Ármann
+DESCRIPTION:Njarðvík - Ármann - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
  sland
 DTSTART:20260212T173000
@@ -113,22 +127,6 @@ DTEND:20260212T183000
 DTSTAMP:20260212T173000Z
 UID:2026-02-12T17:30:00/Bónus Körfuboltakvöld kvenna 
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - ÍA - Bónus deild karla - synsportisland3
-DTSTART:20260212T190500
-DTEND:20260212T200500
-DTSTAMP:20260212T190500Z
-UID:2026-02-12T19:05:00/Valur - ÍA
-DESCRIPTION:Valur - ÍA - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - Álftanes - Bónus deild karla - synsportisland2
-DTSTART:20260212T190500
-DTEND:20260212T200500
-DTSTAMP:20260212T190500Z
-UID:2026-02-12T19:05:00/KR - Álftanes
-DESCRIPTION:KR - Álftanes - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Þór Þ. - Bónus deild karla - synsportisland5
@@ -147,6 +145,22 @@ UID:2026-02-12T19:05:00/Stjarnan - Njarðvík
 DESCRIPTION:Stjarnan - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - ÍA - Bónus deild karla - synsportisland3
+DTSTART:20260212T190500
+DTEND:20260212T200500
+DTSTAMP:20260212T190500Z
+UID:2026-02-12T19:05:00/Valur - ÍA
+DESCRIPTION:Valur - ÍA - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Álftanes - Bónus deild karla - synsportisland2
+DTSTART:20260212T190500
+DTEND:20260212T200500
+DTSTAMP:20260212T190500Z
+UID:2026-02-12T19:05:00/KR - Álftanes
+DESCRIPTION:KR - Álftanes - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
 DTSTART:20260212T191000
 DTEND:20260212T201000
@@ -161,5 +175,29 @@ DTEND:20260212T221000
 DTSTAMP:20260212T211000Z
 UID:2026-02-12T21:10:00/Tilþrifin 
 DESCRIPTION:Tilþrifin  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Ármann - Bónus deild karla - synsportisland2
+DTSTART:20260213T185000
+DTEND:20260213T195000
+DTSTAMP:20260213T185000Z
+UID:2026-02-13T18:50:00/Tindastóll - Ármann
+DESCRIPTION:Tindastóll - Ármann - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keflavík - Grindavík - Bónus deild karla - synsportisland
+DTSTART:20260213T191500
+DTEND:20260213T201500
+DTSTAMP:20260213T191500Z
+UID:2026-02-13T19:15:00/Keflavík - Grindavík
+DESCRIPTION:Keflavík - Grindavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
+DTSTART:20260213T212500
+DTEND:20260213T222500
+DTSTAMP:20260213T212500Z
+UID:2026-02-13T21:25:00/Bónus Körfuboltakvöld 
+DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
