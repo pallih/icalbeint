@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Köln - RB Leipzig - Bundesliga - synsportviaplay
-DTSTART:20260208T142000
-DTEND:20260208T152000
-DTSTAMP:20260208T142000Z
-UID:2026-02-08T14:20:00/Köln - RB Leipzig
-DESCRIPTION:Köln - RB Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Köln - Leipzig - Bundesliga - viaplay
-DTSTART:20260208T142000
-DTEND:20260208T152000
-DTSTAMP:20260208T142000Z
-UID:2026-02-08T14:20:00/Köln - Leipzig
-DESCRIPTION:Köln - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Hoffenheim - Bundesliga - viaplay
-DTSTART:20260208T162000
-DTEND:20260208T172000
-DTSTAMP:20260208T162000Z
-UID:2026-02-08T16:20:00/Bayern München - Hoffenheim
-DESCRIPTION:Bayern München - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Hoffenheim - Bundesliga - synsportviaplay
-DTSTART:20260208T162500
-DTEND:20260208T172500
-DTSTAMP:20260208T162500Z
-UID:2026-02-08T16:25:00/Bayern München - Hoffenheim
-DESCRIPTION:Bayern München - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gummersbach - Flensburg-Handewitt - Bundesliga - viaplay
 DTSTART:20260210T185500
 DTEND:20260210T195500
@@ -58,6 +26,22 @@ UID:2026-02-13T19:20:00/Dortmund - Mainz
 DESCRIPTION:Dortmund - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Werder Bremen - Bayern München - Bundesliga - viaplay
+DTSTART:20260214T142000
+DTEND:20260214T152000
+DTSTAMP:20260214T142000Z
+UID:2026-02-14T14:20:00/Werder Bremen - Bayern München
+DESCRIPTION:Werder Bremen - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - St. Pauli - Bundesliga - viaplay
+DTSTART:20260214T142000
+DTEND:20260214T152000
+DTSTAMP:20260214T142000Z
+UID:2026-02-14T14:20:00/Leverkusen - St. Pauli
+DESCRIPTION:Leverkusen - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HSV - Union Berlin - Bundesliga - viaplay
 DTSTART:20260214T142000
 DTEND:20260214T152000
@@ -74,12 +58,12 @@ UID:2026-02-14T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - St. Pauli - Bundesliga - viaplay
+SUMMARY:Hoffenheim - Freiburg - Bundesliga - viaplay
 DTSTART:20260214T142000
 DTEND:20260214T152000
 DTSTAMP:20260214T142000Z
-UID:2026-02-14T14:20:00/Leverkusen - St. Pauli
-DESCRIPTION:Leverkusen - St. Pauli - Bundesliga
+UID:2026-02-14T14:20:00/Hoffenheim - Freiburg
+DESCRIPTION:Hoffenheim - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Mönchengladbach - Bundesliga - viaplay
@@ -88,22 +72,6 @@ DTEND:20260214T152000
 DTSTAMP:20260214T142000Z
 UID:2026-02-14T14:20:00/Frankfurt - Mönchengladbach
 DESCRIPTION:Frankfurt - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werder Bremen - Bayern München - Bundesliga - viaplay
-DTSTART:20260214T142000
-DTEND:20260214T152000
-DTSTAMP:20260214T142000Z
-UID:2026-02-14T14:20:00/Werder Bremen - Bayern München
-DESCRIPTION:Werder Bremen - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Freiburg - Bundesliga - viaplay
-DTSTART:20260214T142000
-DTEND:20260214T152000
-DTSTAMP:20260214T142000Z
-UID:2026-02-14T14:20:00/Hoffenheim - Freiburg
-DESCRIPTION:Hoffenheim - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stuttgart - Köln - Bundesliga - viaplay
@@ -120,5 +88,29 @@ DTEND:20260214T195500
 DTSTAMP:20260214T185500Z
 UID:2026-02-14T18:55:00/GWD Minden - Rhein-Neckar Löwen
 DESCRIPTION:GWD Minden - Rhein-Neckar Löwen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Heidenheim - Bundesliga - viaplay
+DTSTART:20260215T142000
+DTEND:20260215T152000
+DTSTAMP:20260215T142000Z
+UID:2026-02-15T14:20:00/Augsburg - Heidenheim
+DESCRIPTION:Augsburg - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Wolfsburg - Bundesliga - viaplay
+DTSTART:20260215T162000
+DTEND:20260215T172000
+DTSTAMP:20260215T162000Z
+UID:2026-02-15T16:20:00/Leipzig - Wolfsburg
+DESCRIPTION:Leipzig - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THW Kiel - Magdeburg - Bundesliga - viaplay
+DTSTART:20260215T165500
+DTEND:20260215T175500
+DTSTAMP:20260215T165500Z
+UID:2026-02-15T16:55:00/THW Kiel - Magdeburg
+DESCRIPTION:THW Kiel - Magdeburg - Bundesliga
 END:VEVENT
 END:VCALENDAR
