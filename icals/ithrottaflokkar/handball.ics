@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Gummersbach - Flensburg-Handewitt - Bundesliga - viaplay
-DTSTART:20260210T185500
-DTEND:20260210T195500
-DTSTAMP:20260210T185500Z
-UID:2026-02-10T18:55:00/Gummersbach - Flensburg-Handewitt
-DESCRIPTION:Gummersbach - Flensburg-Handewitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gummersbach - Flensburg - Bundesliga handbolti - synsportviaplay
-DTSTART:20260210T185500
-DTEND:20260210T195500
-DTSTAMP:20260210T185500Z
-UID:2026-02-10T18:55:00/Gummersbach - Flensburg
-DESCRIPTION:Gummersbach - Flensburg - Bundesliga handbolti
+SUMMARY:Magdeburg - Lemgo - Bundesliga handbolti - synsportviaplay
+DTSTART:20260211T185500
+DTEND:20260211T195500
+DTSTAMP:20260211T185500Z
+UID:2026-02-11T18:55:00/Magdeburg - Lemgo
+DESCRIPTION:Magdeburg - Lemgo - Bundesliga handbolti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magdeburg - Lemgo Lippe - Bundesliga - viaplay
@@ -24,14 +16,6 @@ DTEND:20260211T195500
 DTSTAMP:20260211T185500Z
 UID:2026-02-11T18:55:00/Magdeburg - Lemgo Lippe
 DESCRIPTION:Magdeburg - Lemgo Lippe - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Lemgo - Bundesliga handbolti - synsportviaplay
-DTSTART:20260211T185500
-DTEND:20260211T195500
-DTSTAMP:20260211T185500Z
-UID:2026-02-11T18:55:00/Magdeburg - Lemgo
-DESCRIPTION:Magdeburg - Lemgo - Bundesliga handbolti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Fram - Olís deild kvenna - hsi1
@@ -114,20 +98,20 @@ UID:2026-02-14T14:00:00/ÍBV - Stjarnan
 DESCRIPTION:ÍBV - Stjarnan - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Selfoss - KA/Þór - Olís deild kvenna - hsi1
-DTSTART:20260214T150000
-DTEND:20260214T160000
-DTSTAMP:20260214T150000Z
-UID:2026-02-14T15:00:00/Selfoss - KA/Þór
-DESCRIPTION:Selfoss - KA/Þór - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - KA - Olís deild karla - hsi1
 DTSTART:20260214T150000
 DTEND:20260214T160000
 DTSTAMP:20260214T150000Z
 UID:2026-02-14T15:00:00/Valur - KA
 DESCRIPTION:Valur - KA - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - KA/Þór - Olís deild kvenna - hsi1
+DTSTART:20260214T150000
+DTEND:20260214T160000
+DTSTAMP:20260214T150000Z
+UID:2026-02-14T15:00:00/Selfoss - KA/Þór
+DESCRIPTION:Selfoss - KA/Þór - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GWD Minden - Rhein-Neckar Löwen - Bundesliga - viaplay
@@ -152,5 +136,13 @@ DTEND:20260216T185500
 DTSTAMP:20260216T175500Z
 UID:2026-02-16T17:55:00/ThSV Eisenach - Bergischer
 DESCRIPTION:ThSV Eisenach - Bergischer - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handboltahöllin - Olís deildin - sjonvarpsimans
+DTSTART:20260216T200000
+DTEND:20260216T210000
+DTSTAMP:20260216T200000Z
+UID:2026-02-16T20:00:00/Handboltahöllin
+DESCRIPTION:Handboltahöllin - Olís deildin
 END:VEVENT
 END:VCALENDAR
