@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Lemgo Lippe - Bundesliga - viaplay
-DTSTART:20260211T185500
-DTEND:20260211T195500
-DTSTAMP:20260211T185500Z
-UID:2026-02-11T18:55:00/Magdeburg - Lemgo Lippe
-DESCRIPTION:Magdeburg - Lemgo Lippe - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dortmund - Mainz - Bundesliga - viaplay
 DTSTART:20260213T192000
 DTEND:20260213T202000
 DTSTAMP:20260213T192000Z
 UID:2026-02-13T19:20:00/Dortmund - Mainz
 DESCRIPTION:Dortmund - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HSV - Union Berlin - Bundesliga - viaplay
-DTSTART:20260214T142000
-DTEND:20260214T152000
-DTSTAMP:20260214T142000Z
-UID:2026-02-14T14:20:00/HSV - Union Berlin
-DESCRIPTION:HSV - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werder Bremen - Bayern München - Bundesliga - viaplay
-DTSTART:20260214T142000
-DTEND:20260214T152000
-DTSTAMP:20260214T142000Z
-UID:2026-02-14T14:20:00/Werder Bremen - Bayern München
-DESCRIPTION:Werder Bremen - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankfurt - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20260214T142000
-DTEND:20260214T152000
-DTSTAMP:20260214T142000Z
-UID:2026-02-14T14:20:00/Frankfurt - Mönchengladbach
-DESCRIPTION:Frankfurt - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - St. Pauli - Bundesliga - viaplay
@@ -50,12 +18,20 @@ UID:2026-02-14T14:20:00/Leverkusen - St. Pauli
 DESCRIPTION:Leverkusen - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Frankfurt - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20260214T142000
 DTEND:20260214T152000
 DTSTAMP:20260214T142000Z
-UID:2026-02-14T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2026-02-14T14:20:00/Frankfurt - Mönchengladbach
+DESCRIPTION:Frankfurt - Mönchengladbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Bayern München - Bundesliga - viaplay
+DTSTART:20260214T142000
+DTEND:20260214T152000
+DTSTAMP:20260214T142000Z
+UID:2026-02-14T14:20:00/Werder Bremen - Bayern München
+DESCRIPTION:Werder Bremen - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Freiburg - Bundesliga - viaplay
@@ -66,11 +42,27 @@ UID:2026-02-14T14:20:00/Hoffenheim - Freiburg
 DESCRIPTION:Hoffenheim - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSV - Union Berlin - Bundesliga - viaplay
+DTSTART:20260214T142000
+DTEND:20260214T152000
+DTSTAMP:20260214T142000Z
+UID:2026-02-14T14:20:00/HSV - Union Berlin
+DESCRIPTION:HSV - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20260214T142000
+DTEND:20260214T152000
+DTSTAMP:20260214T142000Z
+UID:2026-02-14T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stuttgart - Köln - Bundesliga - viaplay
-DTSTART:20260214T172500
-DTEND:20260214T182500
-DTSTAMP:20260214T172500Z
-UID:2026-02-14T17:25:00/Stuttgart - Köln
+DTSTART:20260214T172000
+DTEND:20260214T182000
+DTSTAMP:20260214T172000Z
+UID:2026-02-14T17:20:00/Stuttgart - Köln
 DESCRIPTION:Stuttgart - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
