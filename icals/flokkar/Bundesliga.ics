@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Dortmund - Mainz - Bundesliga - viaplay
-DTSTART:20260213T192000
-DTEND:20260213T202000
-DTSTAMP:20260213T192000Z
-UID:2026-02-13T19:20:00/Dortmund - Mainz
-DESCRIPTION:Dortmund - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Freiburg - Bundesliga - viaplay
+SUMMARY:HSV - Union Berlin - Bundesliga - viaplay
 DTSTART:20260214T142000
 DTEND:20260214T152000
 DTSTAMP:20260214T142000Z
-UID:2026-02-14T14:20:00/Hoffenheim - Freiburg
-DESCRIPTION:Hoffenheim - Freiburg - Bundesliga
+UID:2026-02-14T14:20:00/HSV - Union Berlin
+DESCRIPTION:HSV - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - St. Pauli - Bundesliga - viaplay
@@ -42,20 +34,20 @@ UID:2026-02-14T14:20:00/Werder Bremen - Bayern München
 DESCRIPTION:Werder Bremen - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hoffenheim - Freiburg - Bundesliga - viaplay
+DTSTART:20260214T142000
+DTEND:20260214T152000
+DTSTAMP:20260214T142000Z
+UID:2026-02-14T14:20:00/Hoffenheim - Freiburg
+DESCRIPTION:Hoffenheim - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20260214T142000
 DTEND:20260214T152000
 DTSTAMP:20260214T142000Z
 UID:2026-02-14T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HSV - Union Berlin - Bundesliga - viaplay
-DTSTART:20260214T142000
-DTEND:20260214T152000
-DTSTAMP:20260214T142000Z
-UID:2026-02-14T14:20:00/HSV - Union Berlin
-DESCRIPTION:HSV - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stuttgart - Köln - Bundesliga - viaplay
@@ -112,5 +104,13 @@ DTEND:20260219T185500
 DTSTAMP:20260219T175500Z
 UID:2026-02-19T17:55:00/VfL Gummersbach - ThSV Eisenach
 DESCRIPTION:VfL Gummersbach - ThSV Eisenach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mainz - HSV - Bundesliga - viaplay
+DTSTART:20260220T192000
+DTEND:20260220T202000
+DTSTAMP:20260220T192000Z
+UID:2026-02-20T19:20:00/Mainz - HSV
+DESCRIPTION:Mainz - HSV - Bundesliga
 END:VEVENT
 END:VCALENDAR
