@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Bayern München - Frauen-Bundesliga - viaplay
-DTSTART:20260216T165500
-DTEND:20260216T175500
-DTSTAMP:20260216T165500Z
-UID:2026-02-16T16:55:00/Werder Bremen - Bayern München
-DESCRIPTION:Werder Bremen - Bayern München - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Union Berlin - Köln - Frauen-Bundesliga - viaplay
 DTSTART:20260220T172500
 DTEND:20260220T182500
@@ -32,5 +24,13 @@ DTEND:20260222T161500
 DTSTAMP:20260222T151500Z
 UID:2026-02-22T15:15:00/Bayern München - Wolfsburg
 DESCRIPTION:Bayern München - Wolfsburg - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Freiburg - Frauen-Bundesliga - viaplay
+DTSTART:20260223T165500
+DTEND:20260223T175500
+DTSTAMP:20260223T165500Z
+UID:2026-02-23T16:55:00/Frankfurt - Freiburg
+DESCRIPTION:Frankfurt - Freiburg - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR

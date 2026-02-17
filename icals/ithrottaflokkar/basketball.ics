@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
-DTSTART:20260216T200000
-DTEND:20260216T210000
-DTSTAMP:20260216T200000Z
-UID:2026-02-16T20:00:00/Körfuboltakvöld Extra
-DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ármann - Tindastóll - Bónus deild kvenna - synsportisland3
-DTSTART:20260217T190500
-DTEND:20260217T200500
-DTSTAMP:20260217T190500Z
-UID:2026-02-17T19:05:00/Ármann - Tindastóll
-DESCRIPTION:Ármann - Tindastóll - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Haukar - Njarðvík - Bónus deild kvenna - synsportisland
 DTSTART:20260217T190500
 DTEND:20260217T200500
@@ -32,6 +16,14 @@ DTEND:20260217T200500
 DTSTAMP:20260217T190500Z
 UID:2026-02-17T19:05:00/Valur - Stjarnan
 DESCRIPTION:Valur - Stjarnan - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ármann - Tindastóll - Bónus deild kvenna - synsportisland3
+DTSTART:20260217T190500
+DTEND:20260217T200500
+DTSTAMP:20260217T190500Z
+UID:2026-02-17T19:05:00/Ármann - Tindastóll
+DESCRIPTION:Ármann - Tindastóll - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Grindavík - Bónus deild kvenna - synsportisland
@@ -52,10 +44,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
  sland
-DTSTART:20260218T211500
-DTEND:20260218T221500
-DTSTAMP:20260218T211500Z
-UID:2026-02-18T21:15:00/Bónus Körfuboltakvöld kvenna 
+DTSTART:20260219T173000
+DTEND:20260219T183000
+DTSTAMP:20260219T173000Z
+UID:2026-02-19T17:30:00/Bónus Körfuboltakvöld kvenna 
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
@@ -65,14 +57,6 @@ DTEND:20260219T200500
 DTSTAMP:20260219T190500Z
 UID:2026-02-19T19:05:00/ÍA - Keflavík
 DESCRIPTION:ÍA - Keflavík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Njarðvík - KR - Bónus deild karla - synsportisland2
-DTSTART:20260219T190500
-DTEND:20260219T200500
-DTSTAMP:20260219T190500Z
-UID:2026-02-19T19:05:00/Njarðvík - KR
-DESCRIPTION:Njarðvík - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Þ. - Tindastóll - Bónus deild karla - synsportisland4
@@ -89,6 +73,14 @@ DTEND:20260219T200500
 DTSTAMP:20260219T190500Z
 UID:2026-02-19T19:05:00/Grindavík - ÍR
 DESCRIPTION:Grindavík - ÍR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - KR - Bónus deild karla - synsportisland2
+DTSTART:20260219T190500
+DTEND:20260219T200500
+DTSTAMP:20260219T190500Z
+UID:2026-02-19T19:05:00/Njarðvík - KR
+DESCRIPTION:Njarðvík - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -115,6 +107,23 @@ UID:2026-02-20T18:50:00/Ármann - Stjarnan
 DESCRIPTION:Ármann - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Þór Ak. - Skallagrímur - 1. deild karla í körfubolta  - kkitv
+ 2
+DTSTART:20260220T191500
+DTEND:20260220T201500
+DTSTAMP:20260220T191500Z
+UID:2026-02-20T19:15:00/Þór Ak. - Skallagrímur
+DESCRIPTION:Þór Ak. - Skallagrímur - 1. deild karla í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Höttur - 1. deild karla í körfubolta  - kkitv1
+DTSTART:20260220T191500
+DTEND:20260220T201500
+DTSTAMP:20260220T191500Z
+UID:2026-02-20T19:15:00/Breiðablik - Höttur
+DESCRIPTION:Breiðablik - Höttur - 1. deild karla í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Álftanes - Valur - Bónus deild karla - synsportisland
 DTSTART:20260220T191500
 DTEND:20260220T201500
@@ -129,15 +138,6 @@ DTEND:20260220T201500
 DTSTAMP:20260220T191500Z
 UID:2026-02-20T19:15:00/Selfoss - Fjölnir
 DESCRIPTION:Selfoss - Fjölnir - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór Ak. - Skallagrímur - 1. deild karla í körfubolta  - kkitv
- 2
-DTSTART:20260220T191500
-DTEND:20260220T201500
-DTSTAMP:20260220T191500Z
-UID:2026-02-20T19:15:00/Þór Ak. - Skallagrímur
-DESCRIPTION:Þór Ak. - Skallagrímur - 1. deild karla í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sindri -KV - 1. deild karla í körfubolta  - kkitv5
@@ -162,14 +162,6 @@ DTEND:20260220T201500
 DTSTAMP:20260220T191500Z
 UID:2026-02-20T19:15:00/Snæfell - Haukar
 DESCRIPTION:Snæfell - Haukar - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - Höttur - 1. deild karla í körfubolta  - kkitv1
-DTSTART:20260220T191500
-DTEND:20260220T201500
-DTSTAMP:20260220T191500Z
-UID:2026-02-20T19:15:00/Breiðablik - Höttur
-DESCRIPTION:Breiðablik - Höttur - 1. deild karla í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
@@ -197,20 +189,20 @@ UID:2026-02-21T18:00:00/Þór Ak. - ÍR
 DESCRIPTION:Þór Ak. - ÍR - 1. deild kvenna í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Selfoss - Njarðvík B - 1. deild kvenna í körfubolta  - kkitv3
-DTSTART:20260221T180000
-DTEND:20260221T190000
-DTSTAMP:20260221T180000Z
-UID:2026-02-21T18:00:00/Selfoss - Njarðvík B
-DESCRIPTION:Selfoss - Njarðvík B - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KV - Fjölnir - 1. deild kvenna í körfubolta  - kkitv1
 DTSTART:20260221T180000
 DTEND:20260221T190000
 DTSTAMP:20260221T180000Z
 UID:2026-02-21T18:00:00/KV - Fjölnir
 DESCRIPTION:KV - Fjölnir - 1. deild kvenna í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - Njarðvík B - 1. deild kvenna í körfubolta  - kkitv3
+DTSTART:20260221T180000
+DTEND:20260221T190000
+DTSTAMP:20260221T180000Z
+UID:2026-02-21T18:00:00/Selfoss - Njarðvík B
+DESCRIPTION:Selfoss - Njarðvík B - 1. deild kvenna í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fylkir - Hamar - 1. deild karla í körfubolta  - kkitv4
@@ -244,5 +236,13 @@ DTEND:20260222T170000
 DTSTAMP:20260222T160000Z
 UID:2026-02-22T16:00:00/Fylkir - Valur U
 DESCRIPTION:Fylkir - Valur U - 2. deild karla í körfubolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
+DTSTART:20260223T200000
+DTEND:20260223T210000
+DTSTAMP:20260223T200000Z
+UID:2026-02-23T20:00:00/Körfuboltakvöld Extra
+DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
