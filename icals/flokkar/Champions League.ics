@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Champions League - ical
 BEGIN:VEVENT
-SUMMARY:Galatasaray - Juventus - Champions League - viaplay
-DTSTART:20260217T173500
-DTEND:20260217T183500
-DTSTAMP:20260217T173500Z
-UID:2026-02-17T17:35:00/Galatasaray - Juventus
-DESCRIPTION:Galatasaray - Juventus - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Benfica - Real Madrid - Champions League - viaplay
-DTSTART:20260217T193000
-DTEND:20260217T203000
-DTSTAMP:20260217T193000Z
-UID:2026-02-17T19:30:00/Benfica - Real Madrid
-DESCRIPTION:Benfica - Real Madrid - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Brügge - Atlético Madrid - Champions League - viaplay
 DTSTART:20260218T193000
 DTEND:20260218T203000
@@ -35,10 +19,18 @@ DESCRIPTION:Olympiacos - Leverkusen - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20260222T170000
-DTEND:20260222T180000
-DTSTAMP:20260222T170000Z
-UID:2026-02-22T17:00:00/Champions League weekly
+DTSTART:20260222T183000
+DTEND:20260222T193000
+DTSTAMP:20260222T183000Z
+UID:2026-02-22T18:30:00/Champions League weekly
 DESCRIPTION:Champions League weekly - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético Madrid - Club Brügge - Champions League - viaplay
+DTSTART:20260224T173500
+DTEND:20260224T183500
+DTSTAMP:20260224T173500Z
+UID:2026-02-24T17:35:00/Atlético Madrid - Club Brügge
+DESCRIPTION:Atlético Madrid - Club Brügge - Champions League
 END:VEVENT
 END:VCALENDAR
