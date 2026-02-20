@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:VfL Gummersbach - ThSV Eisenach - Bundesliga - viaplay
-DTSTART:20260219T175500
-DTEND:20260219T185500
-DTSTAMP:20260219T175500Z
-UID:2026-02-19T17:55:00/VfL Gummersbach - ThSV Eisenach
-DESCRIPTION:VfL Gummersbach - ThSV Eisenach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mainz - HSV - Bundesliga - viaplay
 DTSTART:20260220T192000
 DTEND:20260220T202000
 DTSTAMP:20260220T192000Z
 UID:2026-02-20T19:20:00/Mainz - HSV
 DESCRIPTION:Mainz - HSV - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Leverkusen - Bundesliga - viaplay
+DTSTART:20260221T142000
+DTEND:20260221T152000
+DTSTAMP:20260221T142000Z
+UID:2026-02-21T14:20:00/Union Berlin - Leverkusen
+DESCRIPTION:Union Berlin - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Frankfurt - Bundesliga - viaplay
@@ -50,12 +50,12 @@ UID:2026-02-21T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Leverkusen - Bundesliga - viaplay
-DTSTART:20260221T142000
-DTEND:20260221T152000
-DTSTAMP:20260221T142000Z
-UID:2026-02-21T14:20:00/Union Berlin - Leverkusen
-DESCRIPTION:Union Berlin - Leverkusen - Bundesliga
+SUMMARY:Leipzig - Dortmund - Bundesliga - viaplay
+DTSTART:20260221T172000
+DTEND:20260221T182000
+DTSTAMP:20260221T172000Z
+UID:2026-02-21T17:20:00/Leipzig - Dortmund
+DESCRIPTION:Leipzig - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RB Leipzig - Dortmund - Bundesliga - synsportviaplay
@@ -64,14 +64,6 @@ DTEND:20260221T182000
 DTSTAMP:20260221T172000Z
 UID:2026-02-21T17:20:00/RB Leipzig - Dortmund
 DESCRIPTION:RB Leipzig - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Dortmund - Bundesliga - viaplay
-DTSTART:20260221T172000
-DTEND:20260221T182000
-DTSTAMP:20260221T172000Z
-UID:2026-02-21T17:20:00/Leipzig - Dortmund
-DESCRIPTION:Leipzig - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Erlangen - Flensburg-Handewitt - Bundesliga - viaplay
