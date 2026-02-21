@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Mainz - HSV - Bundesliga - viaplay
-DTSTART:20260220T192000
-DTEND:20260220T202000
-DTSTAMP:20260220T192000Z
-UID:2026-02-20T19:20:00/Mainz - HSV
-DESCRIPTION:Mainz - HSV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Leverkusen - Bundesliga - viaplay
+SUMMARY:Köln - Hoffenheim - Bundesliga - viaplay
 DTSTART:20260221T142000
 DTEND:20260221T152000
 DTSTAMP:20260221T142000Z
-UID:2026-02-21T14:20:00/Union Berlin - Leverkusen
-DESCRIPTION:Union Berlin - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Frankfurt - Bundesliga - viaplay
-DTSTART:20260221T142000
-DTEND:20260221T152000
-DTSTAMP:20260221T142000Z
-UID:2026-02-21T14:20:00/Bayern München - Frankfurt
-DESCRIPTION:Bayern München - Frankfurt - Bundesliga
+UID:2026-02-21T14:20:00/Köln - Hoffenheim
+DESCRIPTION:Köln - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Augsburg - Bundesliga - viaplay
@@ -34,12 +18,12 @@ UID:2026-02-21T14:20:00/Wolfsburg - Augsburg
 DESCRIPTION:Wolfsburg - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köln - Hoffenheim - Bundesliga - viaplay
+SUMMARY:Bayern München - Frankfurt - Bundesliga - viaplay
 DTSTART:20260221T142000
 DTEND:20260221T152000
 DTSTAMP:20260221T142000Z
-UID:2026-02-21T14:20:00/Köln - Hoffenheim
-DESCRIPTION:Köln - Hoffenheim - Bundesliga
+UID:2026-02-21T14:20:00/Bayern München - Frankfurt
+DESCRIPTION:Bayern München - Frankfurt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -48,6 +32,14 @@ DTEND:20260221T152000
 DTSTAMP:20260221T142000Z
 UID:2026-02-21T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Leverkusen - Bundesliga - viaplay
+DTSTART:20260221T142000
+DTEND:20260221T152000
+DTSTAMP:20260221T142000Z
+UID:2026-02-21T14:20:00/Union Berlin - Leverkusen
+DESCRIPTION:Union Berlin - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Dortmund - Bundesliga - viaplay
@@ -98,6 +90,14 @@ UID:2026-02-22T16:20:00/St. Pauli - Werder Bremen
 DESCRIPTION:St. Pauli - Werder Bremen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heidenheim - Stuttgart - Bundesliga - viaplay
+DTSTART:20260222T182000
+DTEND:20260222T192000
+DTSTAMP:20260222T182000Z
+UID:2026-02-22T18:20:00/Heidenheim - Stuttgart
+DESCRIPTION:Heidenheim - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Heidenheim - Stuttgart - Bundesliga - synsportviaplay
 DTSTART:20260222T182000
 DTEND:20260222T192000
@@ -106,11 +106,19 @@ UID:2026-02-22T18:20:00/Heidenheim - Stuttgart
 DESCRIPTION:Heidenheim - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - Stuttgart - Bundesliga - viaplay
-DTSTART:20260222T182000
-DTEND:20260222T192000
-DTSTAMP:20260222T182000Z
-UID:2026-02-22T18:20:00/Heidenheim - Stuttgart
-DESCRIPTION:Heidenheim - Stuttgart - Bundesliga
+SUMMARY:Flensburg-Handewitt - Wetzlar - Bundesliga - viaplay
+DTSTART:20260227T175500
+DTEND:20260227T185500
+DTSTAMP:20260227T175500Z
+UID:2026-02-27T17:55:00/Flensburg-Handewitt - Wetzlar
+DESCRIPTION:Flensburg-Handewitt - Wetzlar - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Köln - Bundesliga - viaplay
+DTSTART:20260227T192000
+DTEND:20260227T202000
+DTSTAMP:20260227T192000Z
+UID:2026-02-27T19:20:00/Augsburg - Köln
+DESCRIPTION:Augsburg - Köln - Bundesliga
 END:VEVENT
 END:VCALENDAR
