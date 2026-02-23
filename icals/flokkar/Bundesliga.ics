@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Minden - Bundesliga - viaplay
-DTSTART:20260222T135500
-DTEND:20260222T145500
-DTSTAMP:20260222T135500Z
-UID:2026-02-22T13:55:00/Magdeburg - Minden
-DESCRIPTION:Magdeburg - Minden - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20260222T142000
-DTEND:20260222T152000
-DTSTAMP:20260222T142000Z
-UID:2026-02-22T14:20:00/Freiburg - Mönchengladbach
-DESCRIPTION:Freiburg - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St. Pauli - Werder Bremen - Bundesliga - viaplay
-DTSTART:20260222T162000
-DTEND:20260222T172000
-DTSTAMP:20260222T162000Z
-UID:2026-02-22T16:20:00/St. Pauli - Werder Bremen
-DESCRIPTION:St. Pauli - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Stuttgart - Bundesliga - viaplay
-DTSTART:20260222T182000
-DTEND:20260222T192000
-DTSTAMP:20260222T182000Z
-UID:2026-02-22T18:20:00/Heidenheim - Stuttgart
-DESCRIPTION:Heidenheim - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Stuttgart - Bundesliga - synsportviaplay
-DTSTART:20260222T182000
-DTEND:20260222T192000
-DTSTAMP:20260222T182000Z
-UID:2026-02-22T18:20:00/Heidenheim - Stuttgart
-DESCRIPTION:Heidenheim - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Wetzlar - Bundesliga - viaplay
 DTSTART:20260227T175500
 DTEND:20260227T185500
@@ -58,12 +18,12 @@ UID:2026-02-27T19:20:00/Augsburg - Köln
 DESCRIPTION:Augsburg - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Union Berlin - Bundesliga - viaplay
+SUMMARY:Werder Bremen - Heidenheim - Bundesliga - viaplay
 DTSTART:20260228T142000
 DTEND:20260228T152000
 DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Mönchengladbach - Union Berlin
-DESCRIPTION:Mönchengladbach - Union Berlin - Bundesliga
+UID:2026-02-28T14:20:00/Werder Bremen - Heidenheim
+DESCRIPTION:Werder Bremen - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Mainz - Bundesliga - viaplay
@@ -74,12 +34,20 @@ UID:2026-02-28T14:20:00/Leverkusen - Mainz
 DESCRIPTION:Leverkusen - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Heidenheim - Bundesliga - viaplay
+SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
 DTSTART:20260228T142000
 DTEND:20260228T152000
 DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Werder Bremen - Heidenheim
-DESCRIPTION:Werder Bremen - Heidenheim - Bundesliga
+UID:2026-02-28T14:20:00/Hoffenheim - St. Pauli
+DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Union Berlin - Bundesliga - viaplay
+DTSTART:20260228T142000
+DTEND:20260228T152000
+DTSTAMP:20260228T142000Z
+UID:2026-02-28T14:20:00/Mönchengladbach - Union Berlin
+DESCRIPTION:Mönchengladbach - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -88,14 +56,6 @@ DTEND:20260228T152000
 DTSTAMP:20260228T142000Z
 UID:2026-02-28T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
-DTSTART:20260228T142000
-DTEND:20260228T152000
-DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Hoffenheim - St. Pauli
-DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Bayern München (Tactical Feed) - Bundesliga - viaplay
@@ -120,5 +80,37 @@ DTEND:20260228T195500
 DTSTAMP:20260228T185500Z
 UID:2026-02-28T18:55:00/THW Kiel - Gummersbach
 DESCRIPTION:THW Kiel - Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Wolfsburg - Bundesliga - viaplay
+DTSTART:20260301T142000
+DTEND:20260301T152000
+DTSTAMP:20260301T142000Z
+UID:2026-03-01T14:20:00/Stuttgart - Wolfsburg
+DESCRIPTION:Stuttgart - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Freiburg - Bundesliga - viaplay
+DTSTART:20260301T162000
+DTEND:20260301T172000
+DTSTAMP:20260301T162000Z
+UID:2026-03-01T16:20:00/Frankfurt - Freiburg
+DESCRIPTION:Frankfurt - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Rhein-Neckar Löwen - Bundesliga - viaplay
+DTSTART:20260301T165500
+DTEND:20260301T175500
+DTSTAMP:20260301T165500Z
+UID:2026-03-01T16:55:00/Füchse Berlin - Rhein-Neckar Löwen
+DESCRIPTION:Füchse Berlin - Rhein-Neckar Löwen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV - Leipzig - Bundesliga - viaplay
+DTSTART:20260301T182000
+DTEND:20260301T192000
+DTSTAMP:20260301T182000Z
+UID:2026-03-01T18:20:00/HSV - Leipzig
+DESCRIPTION:HSV - Leipzig - Bundesliga
 END:VEVENT
 END:VCALENDAR

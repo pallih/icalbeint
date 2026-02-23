@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Minden - Bundesliga - viaplay
-DTSTART:20260222T135500
-DTEND:20260222T145500
-DTSTAMP:20260222T135500Z
-UID:2026-02-22T13:55:00/Magdeburg - Minden
-DESCRIPTION:Magdeburg - Minden - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selfoss 2 - Hvíti Riddarinn - Grill 66 deild karla - hsi1
-DTSTART:20260222T143000
-DTEND:20260222T153000
-DTSTAMP:20260222T143000Z
-UID:2026-02-22T14:30:00/Selfoss 2 - Hvíti Riddarinn
-DESCRIPTION:Selfoss 2 - Hvíti Riddarinn - Grill 66 deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KA - ÍBV - Olís deild karla - hsi1
-DTSTART:20260222T144500
-DTEND:20260222T154500
-DTSTAMP:20260222T144500Z
-UID:2026-02-22T14:45:00/KA - ÍBV
-DESCRIPTION:KA - ÍBV - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Handboltahöllin - Olís deildin - sjonvarpsimans
 DTSTART:20260223T200000
 DTEND:20260223T210000
@@ -42,14 +18,6 @@ UID:2026-02-24T20:00:00/Fjölnir - Fram 2
 DESCRIPTION:Fjölnir - Fram 2 - Grill 66 deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Fram - Powerade bikar kvenna 2026 - hsi1
-DTSTART:20260225T180000
-DTEND:20260225T190000
-DTSTAMP:20260225T180000Z
-UID:2026-02-25T18:00:00/Haukar - Fram
-DESCRIPTION:Haukar - Fram - Powerade bikar kvenna 2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Haukar - Fram - undanúrslit - Powerade-bikar kvenna í handbolta 
  - ruv2
 DTSTART:20260225T180000
@@ -58,6 +26,14 @@ DTSTAMP:20260225T180000Z
 UID:2026-02-25T18:00:00/Haukar - Fram - undanúrslit
 DESCRIPTION:Haukar - Fram - undanúrslit - Powerade-bikar kvenna í handbo
  lta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Fram - Powerade bikar kvenna 2026 - hsi1
+DTSTART:20260225T180000
+DTEND:20260225T190000
+DTSTAMP:20260225T180000Z
+UID:2026-02-25T18:00:00/Haukar - Fram
+DESCRIPTION:Haukar - Fram - Powerade bikar kvenna 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - KA/Þór - undanúrslit - Powerade-bikar kvenna í handbol
@@ -78,14 +54,6 @@ UID:2026-02-25T20:15:00/Valur - KA/Þór
 DESCRIPTION:Valur - KA/Þór - Powerade bikar kvenna 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Haukar - Powerade bikar karla 2026 - hsi1
-DTSTART:20260226T180000
-DTEND:20260226T190000
-DTSTAMP:20260226T180000Z
-UID:2026-02-26T18:00:00/FH - Haukar
-DESCRIPTION:FH - Haukar - Powerade bikar karla 2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Haukar - undanúrslit - Powerade-bikar karla i handbolta - ru
  v2
 DTSTART:20260226T180000
@@ -95,12 +63,12 @@ UID:2026-02-26T18:00:00/FH - Haukar - undanúrslit
 DESCRIPTION:FH - Haukar - undanúrslit - Powerade-bikar karla i handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - KA - Powerade bikar karla 2026 - hsi1
-DTSTART:20260226T201500
-DTEND:20260226T211500
-DTSTAMP:20260226T201500Z
-UID:2026-02-26T20:15:00/ÍR - KA
-DESCRIPTION:ÍR - KA - Powerade bikar karla 2026
+SUMMARY:FH - Haukar - Powerade bikar karla 2026 - hsi1
+DTSTART:20260226T180000
+DTEND:20260226T190000
+DTSTAMP:20260226T180000Z
+UID:2026-02-26T18:00:00/FH - Haukar
+DESCRIPTION:FH - Haukar - Powerade bikar karla 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - KA - undanúrslit - Powerade-bikar karla i handbolta - ruv2
@@ -109,6 +77,14 @@ DTEND:20260226T211500
 DTSTAMP:20260226T201500Z
 UID:2026-02-26T20:15:00/ÍR - KA - undanúrslit
 DESCRIPTION:ÍR - KA - undanúrslit - Powerade-bikar karla i handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - KA - Powerade bikar karla 2026 - hsi1
+DTSTART:20260226T201500
+DTEND:20260226T211500
+DTSTAMP:20260226T201500Z
+UID:2026-02-26T20:15:00/ÍR - KA
+DESCRIPTION:ÍR - KA - Powerade bikar karla 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Wetzlar - Bundesliga - viaplay
@@ -141,5 +117,21 @@ DTEND:20260228T195500
 DTSTAMP:20260228T185500Z
 UID:2026-02-28T18:55:00/THW Kiel - Gummersbach
 DESCRIPTION:THW Kiel - Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hvíti Riddarinn - Grótta - Grill 66 deild karla - hsi1
+DTSTART:20260301T150000
+DTEND:20260301T160000
+DTSTAMP:20260301T150000Z
+UID:2026-03-01T15:00:00/Hvíti Riddarinn - Grótta
+DESCRIPTION:Hvíti Riddarinn - Grótta - Grill 66 deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Rhein-Neckar Löwen - Bundesliga - viaplay
+DTSTART:20260301T165500
+DTEND:20260301T175500
+DTSTAMP:20260301T165500Z
+UID:2026-03-01T16:55:00/Füchse Berlin - Rhein-Neckar Löwen
+DESCRIPTION:Füchse Berlin - Rhein-Neckar Löwen - Bundesliga
 END:VEVENT
 END:VCALENDAR
