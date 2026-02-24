@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Freiburg - Frauen-Bundesliga - viaplay
-DTSTART:20260223T165500
-DTEND:20260223T175500
-DTSTAMP:20260223T165500Z
-UID:2026-02-23T16:55:00/Frankfurt - Freiburg
-DESCRIPTION:Frankfurt - Freiburg - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walsall - MK Dons - League Two - viaplay
-DTSTART:20260223T195500
-DTEND:20260223T205500
-DTSTAMP:20260223T195500Z
-UID:2026-02-23T19:55:00/Walsall - MK Dons
-DESCRIPTION:Walsall - MK Dons - League Two
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inter - Real Betis - UEFA Youth League - viaplay
 DTSTART:20260224T125500
 DTEND:20260224T135500
@@ -58,28 +42,12 @@ UID:2026-02-24T19:30:00/Newcastle - Qarabaǧ
 DESCRIPTION:Newcastle - Qarabaǧ - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Middlesbrough - Leicester - Championship - viaplay
+SUMMARY:Watford - Ipswich - Championship - viaplay
 DTSTART:20260224T194000
 DTEND:20260224T204000
 DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Middlesbrough - Leicester
-DESCRIPTION:Middlesbrough - Leicester - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackburn - Bristol City - Championship - viaplay
-DTSTART:20260224T194000
-DTEND:20260224T204000
-DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Blackburn - Bristol City
-DESCRIPTION:Blackburn - Bristol City - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wrexham - Portsmouth - Championship - viaplay
-DTSTART:20260224T194000
-DTEND:20260224T204000
-DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Wrexham - Portsmouth
-DESCRIPTION:Wrexham - Portsmouth - Championship
+UID:2026-02-24T19:40:00/Watford - Ipswich
+DESCRIPTION:Watford - Ipswich - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Brom - Charlton - Championship - viaplay
@@ -90,20 +58,28 @@ UID:2026-02-24T19:40:00/West Brom - Charlton
 DESCRIPTION:West Brom - Charlton - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Watford - Ipswich - Championship - viaplay
+SUMMARY:Blackburn - Bristol City - Championship - viaplay
 DTSTART:20260224T194000
 DTEND:20260224T204000
 DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Watford - Ipswich
-DESCRIPTION:Watford - Ipswich - Championship
+UID:2026-02-24T19:40:00/Blackburn - Bristol City
+DESCRIPTION:Blackburn - Bristol City - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Swansea - Preston - Championship - viaplay
+SUMMARY:Middlesbrough - Leicester - Championship - viaplay
 DTSTART:20260224T194000
 DTEND:20260224T204000
 DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Swansea - Preston
-DESCRIPTION:Swansea - Preston - Championship
+UID:2026-02-24T19:40:00/Middlesbrough - Leicester
+DESCRIPTION:Middlesbrough - Leicester - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrexham - Portsmouth - Championship - viaplay
+DTSTART:20260224T194000
+DTEND:20260224T204000
+DTSTAMP:20260224T194000Z
+UID:2026-02-24T19:40:00/Wrexham - Portsmouth
+DESCRIPTION:Wrexham - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hull - Derby - Championship - viaplay
@@ -112,6 +88,14 @@ DTEND:20260224T204000
 DTSTAMP:20260224T194000Z
 UID:2026-02-24T19:40:00/Hull - Derby
 DESCRIPTION:Hull - Derby - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swansea - Preston - Championship - viaplay
+DTSTART:20260224T194000
+DTEND:20260224T204000
+DTSTAMP:20260224T194000Z
+UID:2026-02-24T19:40:00/Swansea - Preston
+DESCRIPTION:Swansea - Preston - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southampton - QPR - Championship - viaplay
@@ -154,20 +138,20 @@ UID:2026-02-25T19:30:00/PSG - Monaco
 DESCRIPTION:PSG - Monaco - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield United - Coventry - Championship - viaplay
-DTSTART:20260225T194000
-DTEND:20260225T204000
-DTSTAMP:20260225T194000Z
-UID:2026-02-25T19:40:00/Sheffield United - Coventry
-DESCRIPTION:Sheffield United - Coventry - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Millwall - Birmingham - Championship - viaplay
 DTSTART:20260225T194000
 DTEND:20260225T204000
 DTSTAMP:20260225T194000Z
 UID:2026-02-25T19:40:00/Millwall - Birmingham
 DESCRIPTION:Millwall - Birmingham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Coventry - Championship - viaplay
+DTSTART:20260225T194000
+DTEND:20260225T204000
+DTSTAMP:20260225T194000Z
+UID:2026-02-25T19:40:00/Sheffield United - Coventry
+DESCRIPTION:Sheffield United - Coventry - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norwich - Sheffield Wednesday - Championship - viaplay
@@ -298,20 +282,20 @@ UID:2026-02-26T17:40:00/Ferencváros - Ludogorets
 DESCRIPTION:Ferencváros - Ludogorets - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celje - Drita - UEFA Europa Conference League - viaplay
-DTSTART:20260226T174000
-DTEND:20260226T184000
-DTSTAMP:20260226T174000Z
-UID:2026-02-26T17:40:00/Celje - Drita
-DESCRIPTION:Celje - Drita - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rijeka - Omonoia - UEFA Europa Conference League - viaplay
 DTSTART:20260226T174000
 DTEND:20260226T184000
 DTSTAMP:20260226T174000Z
 UID:2026-02-26T17:40:00/Rijeka - Omonoia
 DESCRIPTION:Rijeka - Omonoia - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celje - Drita - UEFA Europa Conference League - viaplay
+DTSTART:20260226T174000
+DTEND:20260226T184000
+DTSTAMP:20260226T174000Z
+UID:2026-02-26T17:40:00/Celje - Drita
+DESCRIPTION:Celje - Drita - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frölunda - Skellefteå - SHL - viaplay
@@ -380,28 +364,12 @@ UID:2026-02-26T19:55:00/Celta Vigo - PAOK
 DESCRIPTION:Celta Vigo - PAOK - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pittsburgh - New Jersey - NHL - viaplay
+SUMMARY:Carolina - Tampa Bay - NHL - viaplay
 DTSTART:20260227T000500
 DTEND:20260227T010500
 DTSTAMP:20260227T000500Z
-UID:2026-02-27T00:05:00/Pittsburgh - New Jersey
-DESCRIPTION:Pittsburgh - New Jersey - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florida - Toronto - NHL - viaplay
-DTSTART:20260227T000500
-DTEND:20260227T010500
-DTSTAMP:20260227T000500Z
-UID:2026-02-27T00:05:00/Florida - Toronto
-DESCRIPTION:Florida - Toronto - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ottawa - Detroit - NHL - viaplay
-DTSTART:20260227T000500
-DTEND:20260227T010500
-DTSTAMP:20260227T000500Z
-UID:2026-02-27T00:05:00/Ottawa - Detroit
-DESCRIPTION:Ottawa - Detroit - NHL
+UID:2026-02-27T00:05:00/Carolina - Tampa Bay
+DESCRIPTION:Carolina - Tampa Bay - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Montreal - NY Islanders - NHL - viaplay
@@ -412,6 +380,22 @@ UID:2026-02-27T00:05:00/Montreal - NY Islanders
 DESCRIPTION:Montreal - NY Islanders - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ottawa - Detroit - NHL - viaplay
+DTSTART:20260227T000500
+DTEND:20260227T010500
+DTSTAMP:20260227T000500Z
+UID:2026-02-27T00:05:00/Ottawa - Detroit
+DESCRIPTION:Ottawa - Detroit - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida - Toronto - NHL - viaplay
+DTSTART:20260227T000500
+DTEND:20260227T010500
+DTSTAMP:20260227T000500Z
+UID:2026-02-27T00:05:00/Florida - Toronto
+DESCRIPTION:Florida - Toronto - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Boston - Columbus - NHL - viaplay
 DTSTART:20260227T000500
 DTEND:20260227T010500
@@ -420,12 +404,12 @@ UID:2026-02-27T00:05:00/Boston - Columbus
 DESCRIPTION:Boston - Columbus - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Carolina - Tampa Bay - NHL - viaplay
+SUMMARY:Pittsburgh - New Jersey - NHL - viaplay
 DTSTART:20260227T000500
 DTEND:20260227T010500
 DTSTAMP:20260227T000500Z
-UID:2026-02-27T00:05:00/Carolina - Tampa Bay
-DESCRIPTION:Carolina - Tampa Bay - NHL
+UID:2026-02-27T00:05:00/Pittsburgh - New Jersey
+DESCRIPTION:Pittsburgh - New Jersey - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis - Seattle - NHL - viaplay
@@ -436,20 +420,20 @@ UID:2026-02-27T01:00:00/St. Louis - Seattle
 DESCRIPTION:St. Louis - Seattle - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville - Chicago - NHL - viaplay
-DTSTART:20260227T010500
-DTEND:20260227T020500
-DTSTAMP:20260227T010500Z
-UID:2026-02-27T01:05:00/Nashville - Chicago
-DESCRIPTION:Nashville - Chicago - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NY Rangers - Philadelphia - NHL - viaplay
 DTSTART:20260227T010500
 DTEND:20260227T020500
 DTSTAMP:20260227T010500Z
 UID:2026-02-27T01:05:00/NY Rangers - Philadelphia
 DESCRIPTION:NY Rangers - Philadelphia - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville - Chicago - NHL - viaplay
+DTSTART:20260227T010500
+DTEND:20260227T020500
+DTSTAMP:20260227T010500Z
+UID:2026-02-27T01:05:00/Nashville - Chicago
+DESCRIPTION:Nashville - Chicago - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taíland kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
@@ -621,20 +605,20 @@ UID:2026-02-28T00:00:00/Ford Women’s NSW Open
 DESCRIPTION:Ford Women’s NSW Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Washington - Vegas - NHL - viaplay
-DTSTART:20260228T000500
-DTEND:20260228T010500
-DTSTAMP:20260228T000500Z
-UID:2026-02-28T00:05:00/Washington - Vegas
-DESCRIPTION:Washington - Vegas - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Florida - Buffalo - NHL - viaplay
 DTSTART:20260228T000500
 DTEND:20260228T010500
 DTSTAMP:20260228T000500Z
 UID:2026-02-28T00:05:00/Florida - Buffalo
 DESCRIPTION:Florida - Buffalo - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington - Vegas - NHL - viaplay
+DTSTART:20260228T000500
+DTEND:20260228T010500
+DTSTAMP:20260228T000500Z
+UID:2026-02-28T00:05:00/Washington - Vegas
+DESCRIPTION:Washington - Vegas - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taíland kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
@@ -727,14 +711,6 @@ DESCRIPTION:Barcelona (Sport Division | Kappakstur 1) - Porsche Sprint Cha
  llenge Southern Europe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Elversberg - 2. Bundesliga - viaplay
-DTSTART:20260228T115500
-DTEND:20260228T125500
-DTSTAMP:20260228T115500Z
-UID:2026-02-28T11:55:00/Holstein Kiel - Elversberg
-DESCRIPTION:Holstein Kiel - Elversberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arminia Bielefeld - Hannover - 2. Bundesliga - viaplay
 DTSTART:20260228T115500
 DTEND:20260228T125500
@@ -749,6 +725,14 @@ DTEND:20260228T125500
 DTSTAMP:20260228T115500Z
 UID:2026-02-28T11:55:00/Kaiserslautern - Paderborn
 DESCRIPTION:Kaiserslautern - Paderborn - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Elversberg - 2. Bundesliga - viaplay
+DTSTART:20260228T115500
+DTEND:20260228T125500
+DTSTAMP:20260228T115500Z
+UID:2026-02-28T11:55:00/Holstein Kiel - Elversberg
+DESCRIPTION:Holstein Kiel - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leicester - Norwich - Championship - viaplay
@@ -803,12 +787,12 @@ DESCRIPTION:Barcelona (Sport Division | Kappakstur 2) - Porsche Sprint Cha
  llenge Southern Europe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Heidenheim - Bundesliga - viaplay
+SUMMARY:Mönchengladbach - Union Berlin - Bundesliga - viaplay
 DTSTART:20260228T142000
 DTEND:20260228T152000
 DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Werder Bremen - Heidenheim
-DESCRIPTION:Werder Bremen - Heidenheim - Bundesliga
+UID:2026-02-28T14:20:00/Mönchengladbach - Union Berlin
+DESCRIPTION:Mönchengladbach - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Mainz - Bundesliga - viaplay
@@ -819,28 +803,28 @@ UID:2026-02-28T14:20:00/Leverkusen - Mainz
 DESCRIPTION:Leverkusen - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
-DTSTART:20260228T142000
-DTEND:20260228T152000
-DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Hoffenheim - St. Pauli
-DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Union Berlin - Bundesliga - viaplay
-DTSTART:20260228T142000
-DTEND:20260228T152000
-DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Mönchengladbach - Union Berlin
-DESCRIPTION:Mönchengladbach - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20260228T142000
 DTEND:20260228T152000
 DTSTAMP:20260228T142000Z
 UID:2026-02-28T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Heidenheim - Bundesliga - viaplay
+DTSTART:20260228T142000
+DTEND:20260228T152000
+DTSTAMP:20260228T142000Z
+UID:2026-02-28T14:20:00/Werder Bremen - Heidenheim
+DESCRIPTION:Werder Bremen - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
+DTSTART:20260228T142000
+DTEND:20260228T152000
+DTSTAMP:20260228T142000Z
+UID:2026-02-28T14:20:00/Hoffenheim - St. Pauli
+DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Firestone Grand Prix of St. Petersburg (Æfing 2) - IndyCar - viap
@@ -862,36 +846,12 @@ DESCRIPTION:Barcelona (Club Division | Kappakstur 2) - Porsche Sprint Chal
  lenge Southern Europe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oxford - West Brom - Championship - viaplay
-DTSTART:20260228T145500
-DTEND:20260228T155500
-DTSTAMP:20260228T145500Z
-UID:2026-02-28T14:55:00/Oxford - West Brom
-DESCRIPTION:Oxford - West Brom - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ipswich - Swansea - Championship - viaplay
 DTSTART:20260228T145500
 DTEND:20260228T155500
 DTSTAMP:20260228T145500Z
 UID:2026-02-28T14:55:00/Ipswich - Swansea
 DESCRIPTION:Ipswich - Swansea - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield Wednesday - Southampton - Championship - viaplay
-DTSTART:20260228T145500
-DTEND:20260228T155500
-DTSTAMP:20260228T145500Z
-UID:2026-02-28T14:55:00/Sheffield Wednesday - Southampton
-DESCRIPTION:Sheffield Wednesday - Southampton - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preston - Millwall - Championship - viaplay
-DTSTART:20260228T145500
-DTEND:20260228T155500
-DTSTAMP:20260228T145500Z
-UID:2026-02-28T14:55:00/Preston - Millwall
-DESCRIPTION:Preston - Millwall - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlton - Wrexham - Championship - viaplay
@@ -902,12 +862,20 @@ UID:2026-02-28T14:55:00/Charlton - Wrexham
 DESCRIPTION:Charlton - Wrexham - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QPR - Sheffield United - Championship - viaplay
+SUMMARY:Preston - Millwall - Championship - viaplay
 DTSTART:20260228T145500
 DTEND:20260228T155500
 DTSTAMP:20260228T145500Z
-UID:2026-02-28T14:55:00/QPR - Sheffield United
-DESCRIPTION:QPR - Sheffield United - Championship
+UID:2026-02-28T14:55:00/Preston - Millwall
+DESCRIPTION:Preston - Millwall - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oxford - West Brom - Championship - viaplay
+DTSTART:20260228T145500
+DTEND:20260228T155500
+DTSTAMP:20260228T145500Z
+UID:2026-02-28T14:55:00/Oxford - West Brom
+DESCRIPTION:Oxford - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coventry - Stoke - Championship - viaplay
@@ -918,6 +886,22 @@ UID:2026-02-28T14:55:00/Coventry - Stoke
 DESCRIPTION:Coventry - Stoke - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sheffield Wednesday - Southampton - Championship - viaplay
+DTSTART:20260228T145500
+DTEND:20260228T155500
+DTSTAMP:20260228T145500Z
+UID:2026-02-28T14:55:00/Sheffield Wednesday - Southampton
+DESCRIPTION:Sheffield Wednesday - Southampton - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QPR - Sheffield United - Championship - viaplay
+DTSTART:20260228T145500
+DTEND:20260228T155500
+DTSTAMP:20260228T145500Z
+UID:2026-02-28T14:55:00/QPR - Sheffield United
+DESCRIPTION:QPR - Sheffield United - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Luleå - Skellefteå - SHL - viaplay
 DTSTART:20260228T165500
 DTEND:20260228T175500
@@ -926,20 +910,20 @@ UID:2026-02-28T16:55:00/Luleå - Skellefteå
 DESCRIPTION:Luleå - Skellefteå - SHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Bayern München (Tactical Feed) - Bundesliga - viaplay
-DTSTART:20260228T172000
-DTEND:20260228T182000
-DTSTAMP:20260228T172000Z
-UID:2026-02-28T17:20:00/Dortmund - Bayern München (Tactical Feed)
-DESCRIPTION:Dortmund - Bayern München (Tactical Feed) - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dortmund - Bayern München - Bundesliga - viaplay
 DTSTART:20260228T172000
 DTEND:20260228T182000
 DTSTAMP:20260228T172000Z
 UID:2026-02-28T17:20:00/Dortmund - Bayern München
 DESCRIPTION:Dortmund - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Bayern München (Tactical Feed) - Bundesliga - viaplay
+DTSTART:20260228T172000
+DTEND:20260228T182000
+DTSTAMP:20260228T172000Z
+UID:2026-02-28T17:20:00/Dortmund - Bayern München (Tactical Feed)
+DESCRIPTION:Dortmund - Bayern München (Tactical Feed) - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NY Rangers - Pittsburgh - NHL - viaplay
@@ -1032,28 +1016,20 @@ UID:2026-03-01T00:00:00/Ford Women’s NSW Open
 DESCRIPTION:Ford Women’s NSW Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Angeles - Calgary - NHL - viaplay
+DTSTART:20260301T000500
+DTEND:20260301T010500
+DTSTAMP:20260301T000500Z
+UID:2026-03-01T00:05:00/Los Angeles - Calgary
+DESCRIPTION:Los Angeles - Calgary - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Carolina - Detroit - NHL - viaplay
 DTSTART:20260301T000500
 DTEND:20260301T010500
 DTSTAMP:20260301T000500Z
 UID:2026-03-01T00:05:00/Carolina - Detroit
 DESCRIPTION:Carolina - Detroit - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toronto - Ottawa - NHL - viaplay
-DTSTART:20260301T000500
-DTEND:20260301T010500
-DTSTAMP:20260301T000500Z
-UID:2026-03-01T00:05:00/Toronto - Ottawa
-DESCRIPTION:Toronto - Ottawa - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Montreal - Washington - NHL - viaplay
-DTSTART:20260301T000500
-DTEND:20260301T010500
-DTSTAMP:20260301T000500Z
-UID:2026-03-01T00:05:00/Montreal - Washington
-DESCRIPTION:Montreal - Washington - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tampa Bay - Buffalo - NHL - viaplay
@@ -1064,12 +1040,20 @@ UID:2026-03-01T00:05:00/Tampa Bay - Buffalo
 DESCRIPTION:Tampa Bay - Buffalo - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles - Calgary - NHL - viaplay
+SUMMARY:Montreal - Washington - NHL - viaplay
 DTSTART:20260301T000500
 DTEND:20260301T010500
 DTSTAMP:20260301T000500Z
-UID:2026-03-01T00:05:00/Los Angeles - Calgary
-DESCRIPTION:Los Angeles - Calgary - NHL
+UID:2026-03-01T00:05:00/Montreal - Washington
+DESCRIPTION:Montreal - Washington - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto - Ottawa - NHL - viaplay
+DTSTART:20260301T000500
+DTEND:20260301T010500
+DTSTAMP:20260301T000500Z
+UID:2026-03-01T00:05:00/Toronto - Ottawa
+DESCRIPTION:Toronto - Ottawa - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moreno vs Kavanagh - UFC - viaplay
@@ -1128,12 +1112,13 @@ UID:2026-03-01T07:15:00/Taíland kappaksturinn (Kappakstur)
 DESCRIPTION:Taíland kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Karlsruher - 2. Bundesliga - viaplay
+SUMMARY:Eintracht Braunschweig - Preußen Münster - 2. Bundesliga - viapl
+ ay
 DTSTART:20260301T122500
 DTEND:20260301T132500
 DTSTAMP:20260301T122500Z
-UID:2026-03-01T12:25:00/Magdeburg - Karlsruher
-DESCRIPTION:Magdeburg - Karlsruher - 2. Bundesliga
+UID:2026-03-01T12:25:00/Eintracht Braunschweig - Preußen Münster
+DESCRIPTION:Eintracht Braunschweig - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Nürnberg - 2. Bundesliga - viaplay
@@ -1144,13 +1129,12 @@ UID:2026-03-01T12:25:00/Hertha Berlin - Nürnberg
 DESCRIPTION:Hertha Berlin - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eintracht Braunschweig - Preußen Münster - 2. Bundesliga - viapl
- ay
+SUMMARY:Magdeburg - Karlsruher - 2. Bundesliga - viaplay
 DTSTART:20260301T122500
 DTEND:20260301T132500
 DTSTAMP:20260301T122500Z
-UID:2026-03-01T12:25:00/Eintracht Braunschweig - Preußen Münster
-DESCRIPTION:Eintracht Braunschweig - Preußen Münster - 2. Bundesliga
+UID:2026-03-01T12:25:00/Magdeburg - Karlsruher
+DESCRIPTION:Magdeburg - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL On The Fly - NHL - viaplay
@@ -1228,20 +1212,20 @@ UID:2026-03-01T18:20:00/HSV - Leipzig
 DESCRIPTION:HSV - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Utah - Chicago - NHL - viaplay
-DTSTART:20260301T210500
-DTEND:20260301T220500
-DTSTAMP:20260301T210500Z
-UID:2026-03-01T21:05:00/Utah - Chicago
-DESCRIPTION:Utah - Chicago - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Jose - Winnipeg - NHL - viaplay
 DTSTART:20260301T210500
 DTEND:20260301T220500
 DTSTAMP:20260301T210500Z
 UID:2026-03-01T21:05:00/San Jose - Winnipeg
 DESCRIPTION:San Jose - Winnipeg - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah - Chicago - NHL - viaplay
+DTSTART:20260301T210500
+DTEND:20260301T220500
+DTSTAMP:20260301T210500Z
+UID:2026-03-01T21:05:00/Utah - Chicago
+DESCRIPTION:Utah - Chicago - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota - St. Louis - NHL - viaplay
@@ -1258,5 +1242,37 @@ DTEND:20260302T003500
 DTSTAMP:20260301T233500Z
 UID:2026-03-01T23:35:00/NY Islanders - Florida
 DESCRIPTION:NY Islanders - Florida - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anaheim - Calgary - NHL - viaplay
+DTSTART:20260302T010500
+DTEND:20260302T020500
+DTSTAMP:20260302T010500Z
+UID:2026-03-02T01:05:00/Anaheim - Calgary
+DESCRIPTION:Anaheim - Calgary - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL On The Fly - NHL - viaplay
+DTSTART:20260302T130000
+DTEND:20260302T140000
+DTSTAMP:20260302T130000Z
+UID:2026-03-02T13:00:00/NHL On The Fly
+DESCRIPTION:NHL On The Fly - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville - Detroit - NHL - viaplay
+DTSTART:20260302T190500
+DTEND:20260302T200500
+DTSTAMP:20260302T190500Z
+UID:2026-03-02T19:05:00/Nashville - Detroit
+DESCRIPTION:Nashville - Detroit - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birmingham - Middlesbrough - Championship - viaplay
+DTSTART:20260302T195500
+DTEND:20260302T205500
+DTSTAMP:20260302T195500Z
+UID:2026-03-02T19:55:00/Birmingham - Middlesbrough
+DESCRIPTION:Birmingham - Middlesbrough - Championship
 END:VEVENT
 END:VCALENDAR

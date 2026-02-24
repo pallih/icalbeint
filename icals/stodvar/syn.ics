@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Freiburg - Bundesliga kvenna - synsportviaplay
-DTSTART:20260223T165500
-DTEND:20260223T175500
-DTSTAMP:20260223T165500Z
-UID:2026-02-23T16:55:00/Frankfurt - Freiburg
-DESCRIPTION:Frankfurt - Freiburg - Bundesliga kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - Man. Utd. - Premier League - synsport
-DTSTART:20260223T194000
-DTEND:20260223T204000
-DTSTAMP:20260223T194000Z
-UID:2026-02-23T19:40:00/Everton - Man. Utd.
-DESCRIPTION:Everton - Man. Utd. - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
-DTSTART:20260223T200000
-DTEND:20260223T210000
-DTSTAMP:20260223T200000Z
-UID:2026-02-23T20:00:00/Körfuboltakvöld Extra
-DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inter - Real Betis - UEFA Youth League - synsport
 DTSTART:20260224T125500
 DTEND:20260224T135500
@@ -67,14 +43,6 @@ UID:2026-02-24T19:05:00/Ármann - Keflavík
 DESCRIPTION:Ármann - Keflavík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Qarabag - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20260224T193000
-DTEND:20260224T203000
-DTSTAMP:20260224T193000Z
-UID:2026-02-24T19:30:00/Newcastle - Qarabag
-DESCRIPTION:Newcastle - Qarabag - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - synsport
 DTSTART:20260224T193000
 DTEND:20260224T203000
@@ -83,12 +51,12 @@ UID:2026-02-24T19:30:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter - Bodö/Glimt - Meistaradeild Evrópu - synsport
-DTSTART:20260224T195000
-DTEND:20260224T205000
-DTSTAMP:20260224T195000Z
-UID:2026-02-24T19:50:00/Inter - Bodö/Glimt
-DESCRIPTION:Inter - Bodö/Glimt - Meistaradeild Evrópu
+SUMMARY:Newcastle - Qarabag - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260224T193000
+DTEND:20260224T203000
+DTSTAMP:20260224T193000Z
+UID:2026-02-24T19:30:00/Newcastle - Qarabag
+DESCRIPTION:Newcastle - Qarabag - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Olympiacos - Meistaradeild Evrópu - synsport2
@@ -97,6 +65,14 @@ DTEND:20260224T205000
 DTSTAMP:20260224T195000Z
 UID:2026-02-24T19:50:00/Leverkusen - Olympiacos
 DESCRIPTION:Leverkusen - Olympiacos - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter - Bodö/Glimt - Meistaradeild Evrópu - synsport
+DTSTART:20260224T195000
+DTEND:20260224T205000
+DTSTAMP:20260224T195000Z
+UID:2026-02-24T19:50:00/Inter - Bodö/Glimt
+DESCRIPTION:Inter - Bodö/Glimt - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
@@ -115,22 +91,6 @@ UID:2026-02-25T12:55:00/PSG - HJK
 DESCRIPTION:PSG - HJK - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UEFA Youth League  - UEFA Youth League - synsport2
-DTSTART:20260225T125500
-DTEND:20260225T135500
-DTSTAMP:20260225T125500Z
-UID:2026-02-25T12:55:00/UEFA Youth League 
-DESCRIPTION:UEFA Youth League  - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UEFA Youth League  - UEFA Youth League - synsport2
-DTSTART:20260225T145500
-DTEND:20260225T155500
-DTSTAMP:20260225T145500Z
-UID:2026-02-25T14:55:00/UEFA Youth League 
-DESCRIPTION:UEFA Youth League  - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Real Madrid - Chelsea - UEFA Youth League - synsport
 DTSTART:20260225T145500
 DTEND:20260225T155500
@@ -147,20 +107,20 @@ UID:2026-02-25T17:35:00/Atalanta - Dortmund
 DESCRIPTION:Atalanta - Dortmund - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - KR - Bónus deild kvenna - synsportisland
-DTSTART:20260225T190500
-DTEND:20260225T200500
-DTSTAMP:20260225T190500Z
-UID:2026-02-25T19:05:00/Valur - KR
-DESCRIPTION:Valur - KR - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grindavík - Njarðvík - Bónus deild kvenna - synsportisland2
 DTSTART:20260225T190500
 DTEND:20260225T200500
 DTSTAMP:20260225T190500Z
 UID:2026-02-25T19:05:00/Grindavík - Njarðvík
 DESCRIPTION:Grindavík - Njarðvík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - KR - Bónus deild kvenna - synsportisland
+DTSTART:20260225T190500
+DTEND:20260225T200500
+DTSTAMP:20260225T190500Z
+UID:2026-02-25T19:05:00/Valur - KR
+DESCRIPTION:Valur - KR - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSG - Monaco - Meistaradeild Evrópu - synsportviaplay
@@ -238,20 +198,20 @@ UID:2026-02-26T17:35:00/Rauða stjarnan - Lille
 DESCRIPTION:Rauða stjarnan - Lille - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fiorentina - Jagiellonia - Sambandsdeildin - synsport6
-DTSTART:20260226T173500
-DTEND:20260226T183500
-DTSTAMP:20260226T173500Z
-UID:2026-02-26T17:35:00/Fiorentina - Jagiellonia
-DESCRIPTION:Fiorentina - Jagiellonia - Sambandsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stuttgart - Celtic - Evrópudeildin  - synsportviaplay
 DTSTART:20260226T173500
 DTEND:20260226T183500
 DTSTAMP:20260226T173500Z
 UID:2026-02-26T17:35:00/Stuttgart - Celtic
 DESCRIPTION:Stuttgart - Celtic - Evrópudeildin 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiorentina - Jagiellonia - Sambandsdeildin - synsport6
+DTSTART:20260226T173500
+DTEND:20260226T183500
+DTSTAMP:20260226T173500Z
+UID:2026-02-26T17:35:00/Fiorentina - Jagiellonia
+DESCRIPTION:Fiorentina - Jagiellonia - Sambandsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamar - Selfoss - 1. deild karla í körfubolta  - kkitv1
@@ -270,14 +230,6 @@ UID:2026-02-26T19:15:00/Fylkir - Sindri
 DESCRIPTION:Fylkir - Sindri - 1. deild karla í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nott. Forest - Fenerbahce - Evrópudeildin - synsport2
-DTSTART:20260226T195000
-DTEND:20260226T205000
-DTSTAMP:20260226T195000Z
-UID:2026-02-26T19:50:00/Nott. Forest - Fenerbahce
-DESCRIPTION:Nott. Forest - Fenerbahce - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bologna - Brann - Evrópudeildin  - synsportviaplay
 DTSTART:20260226T195000
 DTEND:20260226T205000
@@ -292,6 +244,14 @@ DTEND:20260226T205000
 DTSTAMP:20260226T195000Z
 UID:2026-02-26T19:50:00/Lech Poznan - Kuopio
 DESCRIPTION:Lech Poznan - Kuopio - Sambandsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nott. Forest - Fenerbahce - Evrópudeildin - synsport2
+DTSTART:20260226T195000
+DTEND:20260226T205000
+DTSTAMP:20260226T195000Z
+UID:2026-02-26T19:50:00/Nott. Forest - Fenerbahce
+DESCRIPTION:Nott. Forest - Fenerbahce - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
@@ -321,10 +281,10 @@ DESCRIPTION:Investec South African Open Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - KV - 1. deild karla í körfubolta  - kkitv1
-DTSTART:20260227T191500
-DTEND:20260227T201500
-DTSTAMP:20260227T191500Z
-UID:2026-02-27T19:15:00/Haukar - KV
+DTSTART:20260227T170000
+DTEND:20260227T180000
+DTSTAMP:20260227T170000Z
+UID:2026-02-27T17:00:00/Haukar - KV
 DESCRIPTION:Haukar - KV - 1. deild karla í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
@@ -369,20 +329,12 @@ UID:2026-02-28T12:25:00/Leicester - Norwich
 DESCRIPTION:Leicester - Norwich - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
+SUMMARY:Liverpool - West Ham - Premier League - synsport2
 DTSTART:20260228T144000
 DTEND:20260228T154000
 DTSTAMP:20260228T144000Z
-UID:2026-02-28T14:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burnley - Brentford - Premier League - synsport4
-DTSTART:20260228T144000
-DTEND:20260228T154000
-DTSTAMP:20260228T144000Z
-UID:2026-02-28T14:40:00/Burnley - Brentford
-DESCRIPTION:Burnley - Brentford - Premier League
+UID:2026-02-28T14:40:00/Liverpool - West Ham
+DESCRIPTION:Liverpool - West Ham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Everton - Premier League - synsport3
@@ -393,12 +345,20 @@ UID:2026-02-28T14:40:00/Newcastle - Everton
 DESCRIPTION:Newcastle - Everton - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - West Ham - Premier League - synsport2
+SUMMARY:Burnley - Brentford - Premier League - synsport4
 DTSTART:20260228T144000
 DTEND:20260228T154000
 DTSTAMP:20260228T144000Z
-UID:2026-02-28T14:40:00/Liverpool - West Ham
-DESCRIPTION:Liverpool - West Ham - Premier League
+UID:2026-02-28T14:40:00/Burnley - Brentford
+DESCRIPTION:Burnley - Brentford - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20260228T144000
+DTEND:20260228T154000
+DTSTAMP:20260228T144000Z
+UID:2026-02-28T14:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - Tindastóll - Bónus deild kvenna - synsportisland
@@ -409,20 +369,20 @@ UID:2026-02-28T15:50:00/Stjarnan - Tindastóll
 DESCRIPTION:Stjarnan - Tindastóll - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fjölnir - Vestri - 1. deild kvenna í körfubolta  - kkitv1
-DTSTART:20260228T160000
-DTEND:20260228T170000
-DTSTAMP:20260228T160000Z
-UID:2026-02-28T16:00:00/Fjölnir - Vestri
-DESCRIPTION:Fjölnir - Vestri - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Njarðvík B - Snæfell - 1. deild kvenna í körfubolta  - kkitv2
 DTSTART:20260228T160000
 DTEND:20260228T170000
 DTSTAMP:20260228T160000Z
 UID:2026-02-28T16:00:00/Njarðvík B - Snæfell
 DESCRIPTION:Njarðvík B - Snæfell - 1. deild kvenna í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - Vestri - 1. deild kvenna í körfubolta  - kkitv1
+DTSTART:20260228T160000
+DTEND:20260228T170000
+DTSTAMP:20260228T160000Z
+UID:2026-02-28T16:00:00/Fjölnir - Vestri
+DESCRIPTION:Fjölnir - Vestri - 1. deild kvenna í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vestri - Keflavík U - 2. deild karla í körfubolta - kkitv4
@@ -490,23 +450,7 @@ UID:2026-03-01T09:30:00/Investec South African Open Championship
 DESCRIPTION:Investec South African Open Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brighton - Nott. Forest - Premier League - synsport3
-DTSTART:20260301T134000
-DTEND:20260301T144000
-DTSTAMP:20260301T134000Z
-UID:2026-03-01T13:40:00/Brighton - Nott. Forest
-DESCRIPTION:Brighton - Nott. Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. Utd. - Crystal Palace - Premier League - synsport
-DTSTART:20260301T134000
-DTEND:20260301T144000
-DTSTAMP:20260301T134000Z
-UID:2026-03-01T13:40:00/Man. Utd. - Crystal Palace
-DESCRIPTION:Man. Utd. - Crystal Palace - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fulham - Tottenham - Premier League - synsport2
+SUMMARY:Fulham - Tottenham - Premier League - synsport3
 DTSTART:20260301T134000
 DTEND:20260301T144000
 DTSTAMP:20260301T134000Z
@@ -514,11 +458,27 @@ UID:2026-03-01T13:40:00/Fulham - Tottenham
 DESCRIPTION:Fulham - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Man. Utd. - Crystal Palace - Premier League - synsport2
+DTSTART:20260301T134000
+DTEND:20260301T144000
+DTSTAMP:20260301T134000Z
+UID:2026-03-01T13:40:00/Man. Utd. - Crystal Palace
+DESCRIPTION:Man. Utd. - Crystal Palace - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - Nott. Forest - Premier League - synsport
+DTSTART:20260301T134000
+DTEND:20260301T144000
+DTSTAMP:20260301T134000Z
+UID:2026-03-01T13:40:00/Brighton - Nott. Forest
+DESCRIPTION:Brighton - Nott. Forest - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arsenal - Chelsea - Premier League - synsport
-DTSTART:20260301T161000
-DTEND:20260301T171000
-DTSTAMP:20260301T161000Z
-UID:2026-03-01T16:10:00/Arsenal - Chelsea
+DTSTART:20260301T160000
+DTEND:20260301T170000
+DTSTAMP:20260301T160000Z
+UID:2026-03-01T16:00:00/Arsenal - Chelsea
 DESCRIPTION:Arsenal - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT

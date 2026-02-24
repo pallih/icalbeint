@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
-DTSTART:20260223T200000
-DTEND:20260223T210000
-DTSTAMP:20260223T200000Z
-UID:2026-02-23T20:00:00/Körfuboltakvöld Extra
-DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - Hamar/Þór - Bónus deild kvenna - synsportisland
 DTSTART:20260224T180500
 DTEND:20260224T190500
@@ -26,20 +18,20 @@ UID:2026-02-24T19:05:00/Ármann - Keflavík
 DESCRIPTION:Ármann - Keflavík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - KR - Bónus deild kvenna - synsportisland
-DTSTART:20260225T190500
-DTEND:20260225T200500
-DTSTAMP:20260225T190500Z
-UID:2026-02-25T19:05:00/Valur - KR
-DESCRIPTION:Valur - KR - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grindavík - Njarðvík - Bónus deild kvenna - synsportisland2
 DTSTART:20260225T190500
 DTEND:20260225T200500
 DTSTAMP:20260225T190500Z
 UID:2026-02-25T19:05:00/Grindavík - Njarðvík
 DESCRIPTION:Grindavík - Njarðvík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - KR - Bónus deild kvenna - synsportisland
+DTSTART:20260225T190500
+DTEND:20260225T200500
+DTSTAMP:20260225T190500Z
+UID:2026-02-25T19:05:00/Valur - KR
+DESCRIPTION:Valur - KR - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Álftanes U - Breiðablik/Grindavík U - 2. deild karla í körfub
@@ -77,20 +69,20 @@ UID:2026-02-26T20:00:00/Bónus Körfuboltakvöld kvenna
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Haukar - KV - 1. deild karla í körfubolta  - kkitv1
+DTSTART:20260227T170000
+DTEND:20260227T180000
+DTSTAMP:20260227T170000Z
+UID:2026-02-27T17:00:00/Haukar - KV
+DESCRIPTION:Haukar - KV - 1. deild karla í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv2
 DTSTART:20260227T190000
 DTEND:20260227T200000
 DTSTAMP:20260227T190000Z
 UID:2026-02-27T19:00:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - KV - 1. deild karla í körfubolta  - kkitv1
-DTSTART:20260227T191500
-DTEND:20260227T201500
-DTSTAMP:20260227T191500Z
-UID:2026-02-27T19:15:00/Haukar - KV
-DESCRIPTION:Haukar - KV - 1. deild karla í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ísland - Litáen - Undankeppni HM karla í körfubolta - ruv2
@@ -117,20 +109,20 @@ UID:2026-02-28T15:50:00/Stjarnan - Tindastóll
 DESCRIPTION:Stjarnan - Tindastóll - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fjölnir - Vestri - 1. deild kvenna í körfubolta  - kkitv1
-DTSTART:20260228T160000
-DTEND:20260228T170000
-DTSTAMP:20260228T160000Z
-UID:2026-02-28T16:00:00/Fjölnir - Vestri
-DESCRIPTION:Fjölnir - Vestri - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Njarðvík B - Snæfell - 1. deild kvenna í körfubolta  - kkitv2
 DTSTART:20260228T160000
 DTEND:20260228T170000
 DTSTAMP:20260228T160000Z
 UID:2026-02-28T16:00:00/Njarðvík B - Snæfell
 DESCRIPTION:Njarðvík B - Snæfell - 1. deild kvenna í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - Vestri - 1. deild kvenna í körfubolta  - kkitv1
+DTSTART:20260228T160000
+DTEND:20260228T170000
+DTSTAMP:20260228T160000Z
+UID:2026-02-28T16:00:00/Fjölnir - Vestri
+DESCRIPTION:Fjölnir - Vestri - 1. deild kvenna í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vestri - Keflavík U - 2. deild karla í körfubolta - kkitv4
@@ -188,5 +180,13 @@ DTEND:20260301T221500
 DTSTAMP:20260301T211500Z
 UID:2026-03-01T21:15:00/Bónus Körfuboltakvöld kvenna 
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Litáen - Ísland - Undankeppni HM karla í körfubolta - ruv
+DTSTART:20260302T163000
+DTEND:20260302T173000
+DTSTAMP:20260302T163000Z
+UID:2026-03-02T16:30:00/Litáen - Ísland
+DESCRIPTION:Litáen - Ísland - Undankeppni HM karla í körfubolta
 END:VEVENT
 END:VCALENDAR
