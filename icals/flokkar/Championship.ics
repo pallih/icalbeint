@@ -2,70 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
-SUMMARY:Watford - Ipswich - Championship - viaplay
-DTSTART:20260224T194000
-DTEND:20260224T204000
-DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Watford - Ipswich
-DESCRIPTION:Watford - Ipswich - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Brom - Charlton - Championship - viaplay
-DTSTART:20260224T194000
-DTEND:20260224T204000
-DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/West Brom - Charlton
-DESCRIPTION:West Brom - Charlton - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackburn - Bristol City - Championship - viaplay
-DTSTART:20260224T194000
-DTEND:20260224T204000
-DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Blackburn - Bristol City
-DESCRIPTION:Blackburn - Bristol City - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Middlesbrough - Leicester - Championship - viaplay
-DTSTART:20260224T194000
-DTEND:20260224T204000
-DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Middlesbrough - Leicester
-DESCRIPTION:Middlesbrough - Leicester - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wrexham - Portsmouth - Championship - viaplay
-DTSTART:20260224T194000
-DTEND:20260224T204000
-DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Wrexham - Portsmouth
-DESCRIPTION:Wrexham - Portsmouth - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hull - Derby - Championship - viaplay
-DTSTART:20260224T194000
-DTEND:20260224T204000
-DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Hull - Derby
-DESCRIPTION:Hull - Derby - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swansea - Preston - Championship - viaplay
-DTSTART:20260224T194000
-DTEND:20260224T204000
-DTSTAMP:20260224T194000Z
-UID:2026-02-24T19:40:00/Swansea - Preston
-DESCRIPTION:Swansea - Preston - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - QPR - Championship - viaplay
-DTSTART:20260224T195500
-DTEND:20260224T205500
-DTSTAMP:20260224T195500Z
-UID:2026-02-24T19:55:00/Southampton - QPR
-DESCRIPTION:Southampton - QPR - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Millwall - Birmingham - Championship - viaplay
 DTSTART:20260225T194000
 DTEND:20260225T204000
@@ -106,14 +42,6 @@ UID:2026-02-27T19:50:00/Bristol City - Watford
 DESCRIPTION:Bristol City - Watford - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leicester - Norwich - Championship - viaplay
-DTSTART:20260228T122500
-DTEND:20260228T132500
-DTSTAMP:20260228T122500Z
-UID:2026-02-28T12:25:00/Leicester - Norwich
-DESCRIPTION:Leicester - Norwich - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Portsmouth - Hull - Championship - viaplay
 DTSTART:20260228T122500
 DTEND:20260228T132500
@@ -130,12 +58,12 @@ UID:2026-02-28T12:25:00/Derby - Blackburn
 DESCRIPTION:Derby - Blackburn - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Swansea - Championship - viaplay
-DTSTART:20260228T145500
-DTEND:20260228T155500
-DTSTAMP:20260228T145500Z
-UID:2026-02-28T14:55:00/Ipswich - Swansea
-DESCRIPTION:Ipswich - Swansea - Championship
+SUMMARY:Leicester - Norwich - Championship - viaplay
+DTSTART:20260228T122500
+DTEND:20260228T132500
+DTSTAMP:20260228T122500Z
+UID:2026-02-28T12:25:00/Leicester - Norwich
+DESCRIPTION:Leicester - Norwich - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlton - Wrexham - Championship - viaplay
@@ -146,12 +74,12 @@ UID:2026-02-28T14:55:00/Charlton - Wrexham
 DESCRIPTION:Charlton - Wrexham - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preston - Millwall - Championship - viaplay
+SUMMARY:QPR - Sheffield United - Championship - viaplay
 DTSTART:20260228T145500
 DTEND:20260228T155500
 DTSTAMP:20260228T145500Z
-UID:2026-02-28T14:55:00/Preston - Millwall
-DESCRIPTION:Preston - Millwall - Championship
+UID:2026-02-28T14:55:00/QPR - Sheffield United
+DESCRIPTION:QPR - Sheffield United - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oxford - West Brom - Championship - viaplay
@@ -162,12 +90,28 @@ UID:2026-02-28T14:55:00/Oxford - West Brom
 DESCRIPTION:Oxford - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ipswich - Swansea - Championship - viaplay
+DTSTART:20260228T145500
+DTEND:20260228T155500
+DTSTAMP:20260228T145500Z
+UID:2026-02-28T14:55:00/Ipswich - Swansea
+DESCRIPTION:Ipswich - Swansea - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coventry - Stoke - Championship - viaplay
 DTSTART:20260228T145500
 DTEND:20260228T155500
 DTSTAMP:20260228T145500Z
 UID:2026-02-28T14:55:00/Coventry - Stoke
 DESCRIPTION:Coventry - Stoke - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preston - Millwall - Championship - viaplay
+DTSTART:20260228T145500
+DTEND:20260228T155500
+DTSTAMP:20260228T145500Z
+UID:2026-02-28T14:55:00/Preston - Millwall
+DESCRIPTION:Preston - Millwall - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield Wednesday - Southampton - Championship - viaplay
@@ -178,19 +122,19 @@ UID:2026-02-28T14:55:00/Sheffield Wednesday - Southampton
 DESCRIPTION:Sheffield Wednesday - Southampton - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QPR - Sheffield United - Championship - viaplay
-DTSTART:20260228T145500
-DTEND:20260228T155500
-DTSTAMP:20260228T145500Z
-UID:2026-02-28T14:55:00/QPR - Sheffield United
-DESCRIPTION:QPR - Sheffield United - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Birmingham - Middlesbrough - Championship - viaplay
 DTSTART:20260302T195500
 DTEND:20260302T205500
 DTSTAMP:20260302T195500Z
 UID:2026-03-02T19:55:00/Birmingham - Middlesbrough
 DESCRIPTION:Birmingham - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ipswich - Hull - Championship - viaplay
+DTSTART:20260303T194000
+DTEND:20260303T204000
+DTSTAMP:20260303T194000Z
+UID:2026-03-03T19:40:00/Ipswich - Hull
+DESCRIPTION:Ipswich - Hull - Championship
 END:VEVENT
 END:VCALENDAR
