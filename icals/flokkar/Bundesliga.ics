@@ -18,12 +18,20 @@ UID:2026-02-27T19:20:00/Augsburg - Köln
 DESCRIPTION:Augsburg - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Union Berlin - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20260228T142000
 DTEND:20260228T152000
 DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Mönchengladbach - Union Berlin
-DESCRIPTION:Mönchengladbach - Union Berlin - Bundesliga
+UID:2026-02-28T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
+DTSTART:20260228T142000
+DTEND:20260228T152000
+DTSTAMP:20260228T142000Z
+UID:2026-02-28T14:20:00/Hoffenheim - St. Pauli
+DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Mainz - Bundesliga - viaplay
@@ -42,28 +50,12 @@ UID:2026-02-28T14:20:00/Werder Bremen - Heidenheim
 DESCRIPTION:Werder Bremen - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
+SUMMARY:Mönchengladbach - Union Berlin - Bundesliga - viaplay
 DTSTART:20260228T142000
 DTEND:20260228T152000
 DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Hoffenheim - St. Pauli
-DESCRIPTION:Hoffenheim - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20260228T142000
-DTEND:20260228T152000
-DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund - Bayern München - Bundesliga - viaplay
-DTSTART:20260228T172000
-DTEND:20260228T182000
-DTSTAMP:20260228T172000Z
-UID:2026-02-28T17:20:00/Dortmund - Bayern München
-DESCRIPTION:Dortmund - Bayern München - Bundesliga
+UID:2026-02-28T14:20:00/Mönchengladbach - Union Berlin
+DESCRIPTION:Mönchengladbach - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Bayern München (Tactical Feed) - Bundesliga - viaplay
@@ -72,6 +64,14 @@ DTEND:20260228T182000
 DTSTAMP:20260228T172000Z
 UID:2026-02-28T17:20:00/Dortmund - Bayern München (Tactical Feed)
 DESCRIPTION:Dortmund - Bayern München (Tactical Feed) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Bayern München - Bundesliga - viaplay
+DTSTART:20260228T172000
+DTEND:20260228T182000
+DTSTAMP:20260228T172000Z
+UID:2026-02-28T17:20:00/Dortmund - Bayern München
+DESCRIPTION:Dortmund - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THW Kiel - Gummersbach - Bundesliga - viaplay
@@ -112,5 +112,13 @@ DTEND:20260301T192000
 DTSTAMP:20260301T182000Z
 UID:2026-03-01T18:20:00/HSV - Leipzig
 DESCRIPTION:HSV - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV - Leverkusen - Bundesliga - viaplay
+DTSTART:20260304T192000
+DTEND:20260304T202000
+DTSTAMP:20260304T192000Z
+UID:2026-03-04T19:20:00/HSV - Leverkusen
+DESCRIPTION:HSV - Leverkusen - Bundesliga
 END:VEVENT
 END:VCALENDAR

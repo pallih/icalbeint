@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Haukar - Fram - undanúrslit - Powerade-bikar kvenna í handbolta 
- - ruv2
-DTSTART:20260225T180000
-DTEND:20260225T190000
-DTSTAMP:20260225T180000Z
-UID:2026-02-25T18:00:00/Haukar - Fram - undanúrslit
-DESCRIPTION:Haukar - Fram - undanúrslit - Powerade-bikar kvenna í handbo
- lta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - KA/Þór - undanúrslit - Powerade-bikar kvenna í handbol
- ta - ruv2
-DTSTART:20260225T201500
-DTEND:20260225T211500
-DTSTAMP:20260225T201500Z
-UID:2026-02-25T20:15:00/Valur - KA/Þór - undanúrslit
-DESCRIPTION:Valur - KA/Þór - undanúrslit - Powerade-bikar kvenna í han
- dbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Haukar - undanúrslit - Powerade-bikar karla i handbolta - ru
  v2
 DTSTART:20260226T180000
@@ -63,12 +43,12 @@ UID:2026-02-27T21:15:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bikarúrslit  - Powerade-bikar kvenna í handbolta - ruv
+SUMMARY:Haukar - Valur - Powerade-bikar kvenna í handbolta - ruv
 DTSTART:20260228T153000
 DTEND:20260228T163000
 DTSTAMP:20260228T153000Z
-UID:2026-02-28T15:30:00/Bikarúrslit 
-DESCRIPTION:Bikarúrslit  - Powerade-bikar kvenna í handbolta
+UID:2026-02-28T15:30:00/Haukar - Valur
+DESCRIPTION:Haukar - Valur - Powerade-bikar kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bikarúrslit  - Powerade-bikar karla i handbolta - ruv2
@@ -103,11 +83,36 @@ UID:2026-03-02T18:15:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stofan - Íþróttaþættir - ruv
+DTSTART:20260303T172000
+DTEND:20260303T182000
+DTSTAMP:20260303T172000Z
+UID:2026-03-03T17:20:00/Stofan
+DESCRIPTION:Stofan - Íþróttaþættir
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spánn - Ísland - Undankeppni HM kvenna í fótbolta - ruv
 DTSTART:20260303T180000
 DTEND:20260303T190000
 DTSTAMP:20260303T180000Z
 UID:2026-03-03T18:00:00/Spánn - Ísland
 DESCRIPTION:Spánn - Ísland - Undankeppni HM kvenna í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stofan - Íþróttaþættir - ruv2
+DTSTART:20260303T195500
+DTEND:20260303T205500
+DTSTAMP:20260303T195500Z
+UID:2026-03-03T19:55:00/Stofan
+DESCRIPTION:Stofan - Íþróttaþættir
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísland - Svartfjallaland - Undankeppni EM kvenna í handbolta - r
+ uv2
+DTSTART:20260304T180000
+DTEND:20260304T190000
+DTSTAMP:20260304T180000Z
+UID:2026-03-04T18:00:00/Ísland - Svartfjallaland
+DESCRIPTION:Ísland - Svartfjallaland - Undankeppni EM kvenna í handbolta
 END:VEVENT
 END:VCALENDAR
