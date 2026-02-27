@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:FH - Haukar - undanúrslit - Powerade-bikar karla i handbolta - ru
- v2
-DTSTART:20260226T180000
-DTEND:20260226T190000
-DTSTAMP:20260226T180000Z
-UID:2026-02-26T18:00:00/FH - Haukar - undanúrslit
-DESCRIPTION:FH - Haukar - undanúrslit - Powerade-bikar karla i handbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - KA - undanúrslit - Powerade-bikar karla i handbolta - ruv2
-DTSTART:20260226T201500
-DTEND:20260226T211500
-DTSTAMP:20260226T201500Z
-UID:2026-02-26T20:15:00/ÍR - KA - undanúrslit
-DESCRIPTION:ÍR - KA - undanúrslit - Powerade-bikar karla i handbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv2
 DTSTART:20260227T190000
 DTEND:20260227T200000
@@ -51,12 +34,12 @@ UID:2026-02-28T15:30:00/Haukar - Valur
 DESCRIPTION:Haukar - Valur - Powerade-bikar kvenna í handbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bikarúrslit  - Powerade-bikar karla i handbolta - ruv2
+SUMMARY:Haukar - ÍR - Powerade-bikar karla i handbolta - ruv2
 DTSTART:20260228T183000
 DTEND:20260228T193000
 DTSTAMP:20260228T183000Z
-UID:2026-02-28T18:30:00/Bikarúrslit 
-DESCRIPTION:Bikarúrslit  - Powerade-bikar karla i handbolta
+UID:2026-02-28T18:30:00/Haukar - ÍR
+DESCRIPTION:Haukar - ÍR - Powerade-bikar karla i handbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv
@@ -107,6 +90,14 @@ UID:2026-03-03T19:55:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stofan - Íþróttaþættir - ruv2
+DTSTART:20260304T173000
+DTEND:20260304T183000
+DTSTAMP:20260304T173000Z
+UID:2026-03-04T17:30:00/Stofan
+DESCRIPTION:Stofan - Íþróttaþættir
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ísland - Svartfjallaland - Undankeppni EM kvenna í handbolta - r
  uv2
 DTSTART:20260304T180000
@@ -114,5 +105,13 @@ DTEND:20260304T190000
 DTSTAMP:20260304T180000Z
 UID:2026-03-04T18:00:00/Ísland - Svartfjallaland
 DESCRIPTION:Ísland - Svartfjallaland - Undankeppni EM kvenna í handbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stofan - Íþróttaþættir - ruv2
+DTSTART:20260304T193500
+DTEND:20260304T203500
+DTSTAMP:20260304T193500Z
+UID:2026-03-04T19:35:00/Stofan
+DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 END:VCALENDAR

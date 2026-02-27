@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Hamar - Selfoss - 1. deild karla í körfubolta  - kkitv1
-DTSTART:20260226T191500
-DTEND:20260226T201500
-DTSTAMP:20260226T191500Z
-UID:2026-02-26T19:15:00/Hamar - Selfoss
-DESCRIPTION:Hamar - Selfoss - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fylkir - Sindri - 1. deild karla í körfubolta  - kkitv2
-DTSTART:20260226T191500
-DTEND:20260226T201500
-DTSTAMP:20260226T191500Z
-UID:2026-02-26T19:15:00/Fylkir - Sindri
-DESCRIPTION:Fylkir - Sindri - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
- sland
-DTSTART:20260226T200000
-DTEND:20260226T210000
-DTSTAMP:20260226T200000Z
-UID:2026-02-26T20:00:00/Bónus Körfuboltakvöld kvenna 
-DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Haukar - KV - 1. deild karla í körfubolta  - kkitv1
 DTSTART:20260227T170000
 DTEND:20260227T180000
@@ -59,20 +34,20 @@ UID:2026-02-27T21:15:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hamar/Þór - Ármann - Bónus deild kvenna - synsportisland2
+DTSTART:20260228T150500
+DTEND:20260228T160500
+DTSTAMP:20260228T150500Z
+UID:2026-02-28T15:05:00/Hamar/Þór - Ármann
+DESCRIPTION:Hamar/Þór - Ármann - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stjarnan - Tindastóll - Bónus deild kvenna - synsportisland
 DTSTART:20260228T155000
 DTEND:20260228T165000
 DTSTAMP:20260228T155000Z
 UID:2026-02-28T15:50:00/Stjarnan - Tindastóll
 DESCRIPTION:Stjarnan - Tindastóll - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fjölnir - Vestri - 1. deild kvenna í körfubolta  - kkitv1
-DTSTART:20260228T160000
-DTEND:20260228T170000
-DTSTAMP:20260228T160000Z
-UID:2026-02-28T16:00:00/Fjölnir - Vestri
-DESCRIPTION:Fjölnir - Vestri - 1. deild kvenna í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vestri - Keflavík U - 2. deild karla í körfubolta - kkitv4
@@ -91,6 +66,14 @@ UID:2026-02-28T16:00:00/Njarðvík B - Snæfell
 DESCRIPTION:Njarðvík B - Snæfell - 1. deild kvenna í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fjölnir - Vestri - 1. deild kvenna í körfubolta  - kkitv1
+DTSTART:20260228T160000
+DTEND:20260228T170000
+DTSTAMP:20260228T160000Z
+UID:2026-02-28T16:00:00/Fjölnir - Vestri
+DESCRIPTION:Fjölnir - Vestri - 1. deild kvenna í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍR - KV - 1. deild kvenna í körfubolta  - kkitv3
 DTSTART:20260228T180000
 DTEND:20260228T190000
@@ -107,12 +90,20 @@ UID:2026-02-28T18:30:00/Fjölnir - Þór Ak.
 DESCRIPTION:Fjölnir - Þór Ak. - 1. deild karla í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamar/Þór - Ármann - Bónus deild kvenna - synsportisland2
-DTSTART:20260228T190500
-DTEND:20260228T200500
-DTSTAMP:20260228T190500Z
-UID:2026-02-28T19:05:00/Hamar/Þór - Ármann
-DESCRIPTION:Hamar/Þór - Ármann - Bónus deild kvenna
+SUMMARY:Knicks - Spurs - NBA - livey
+DTSTART:20260301T180000
+DTEND:20260301T190000
+DTSTAMP:20260301T180000Z
+UID:2026-03-01T18:00:00/Knicks - Spurs
+DESCRIPTION:Knicks - Spurs - NBA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Haukar - Bónus deild kvenna - synsportisland
+DTSTART:20260301T190500
+DTEND:20260301T200500
+DTSTAMP:20260301T190500Z
+UID:2026-03-01T19:05:00/Valur - Haukar
+DESCRIPTION:Valur - Haukar - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Grindavík - Bónus deild kvenna - synsportisland2
@@ -123,12 +114,12 @@ UID:2026-03-01T19:05:00/KR - Grindavík
 DESCRIPTION:KR - Grindavík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Haukar - Bónus deild kvenna - synsportisland
-DTSTART:20260301T190500
-DTEND:20260301T200500
-DTSTAMP:20260301T190500Z
-UID:2026-03-01T19:05:00/Valur - Haukar
-DESCRIPTION:Valur - Haukar - Bónus deild kvenna
+SUMMARY:Nuggets - Timberwolves - NBA - livey
+DTSTART:20260301T203000
+DTEND:20260301T213000
+DTSTAMP:20260301T203000Z
+UID:2026-03-01T20:30:00/Nuggets - Timberwolves
+DESCRIPTION:Nuggets - Timberwolves - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
@@ -180,14 +171,6 @@ UID:2026-03-04T19:00:00/Snæfell - Skallagrímur
 DESCRIPTION:Snæfell - Skallagrímur - 1. deild karla í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Haukar - Bónus deild kvenna - synsportisland
-DTSTART:20260304T190500
-DTEND:20260304T200500
-DTSTAMP:20260304T190500Z
-UID:2026-03-04T19:05:00/Njarðvík - Haukar
-DESCRIPTION:Njarðvík - Haukar - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keflavík - Tindastóll - Bónus deild kvenna - synsportisland3
 DTSTART:20260304T190500
 DTEND:20260304T200500
@@ -202,6 +185,14 @@ DTEND:20260304T200500
 DTSTAMP:20260304T190500Z
 UID:2026-03-04T19:05:00/Grindavík - Valur
 DESCRIPTION:Grindavík - Valur - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Haukar - Bónus deild kvenna - synsportisland
+DTSTART:20260304T190500
+DTEND:20260304T200500
+DTSTAMP:20260304T190500Z
+UID:2026-03-04T19:05:00/Njarðvík - Haukar
+DESCRIPTION:Njarðvík - Haukar - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ármann - Stjarnan - Bónus deild kvenna - synsportisland4
@@ -219,5 +210,37 @@ DTEND:20260304T225000
 DTSTAMP:20260304T215000Z
 UID:2026-03-04T21:50:00/Bónus Körfuboltakvöld kvenna 
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KV - Höttur - 1. deild karla í körfubolta  - kkitv1
+DTSTART:20260305T191500
+DTEND:20260305T201500
+DTSTAMP:20260305T191500Z
+UID:2026-03-05T19:15:00/KV - Höttur
+DESCRIPTION:KV - Höttur - 1. deild karla í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Ak. - Hamar - 1. deild karla í körfubolta  - kkitv2
+DTSTART:20260305T191500
+DTEND:20260305T201500
+DTSTAMP:20260305T191500Z
+UID:2026-03-05T19:15:00/Þór Ak. - Hamar
+DESCRIPTION:Þór Ak. - Hamar - 1. deild karla í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - Fylkir - 1. deild karla í körfubolta  - kkitv3
+DTSTART:20260305T191500
+DTEND:20260305T201500
+DTSTAMP:20260305T191500Z
+UID:2026-03-05T19:15:00/Selfoss - Fylkir
+DESCRIPTION:Selfoss - Fylkir - 1. deild karla í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Fjölnir - 1. deild karla í körfubolta  - kkitv4
+DTSTART:20260305T193000
+DTEND:20260305T203000
+DTSTAMP:20260305T193000Z
+UID:2026-03-05T19:30:00/Breiðablik - Fjölnir
+DESCRIPTION:Breiðablik - Fjölnir - 1. deild karla í körfubolta 
 END:VEVENT
 END:VCALENDAR
