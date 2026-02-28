@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Flensburg-Handewitt - Wetzlar - Bundesliga - viaplay
-DTSTART:20260227T175500
-DTEND:20260227T185500
-DTSTAMP:20260227T175500Z
-UID:2026-02-27T17:55:00/Flensburg-Handewitt - Wetzlar
-DESCRIPTION:Flensburg-Handewitt - Wetzlar - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - Köln - Bundesliga - viaplay
-DTSTART:20260227T192000
-DTEND:20260227T202000
-DTSTAMP:20260227T192000Z
-UID:2026-02-27T19:20:00/Augsburg - Köln
-DESCRIPTION:Augsburg - Köln - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werder Bremen - Heidenheim - Bundesliga - viaplay
-DTSTART:20260228T142000
-DTEND:20260228T152000
-DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Werder Bremen - Heidenheim
-DESCRIPTION:Werder Bremen - Heidenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leverkusen - Mainz - Bundesliga - viaplay
-DTSTART:20260228T142000
-DTEND:20260228T152000
-DTSTAMP:20260228T142000Z
-UID:2026-02-28T14:20:00/Leverkusen - Mainz
-DESCRIPTION:Leverkusen - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hoffenheim - St. Pauli - Bundesliga - viaplay
 DTSTART:20260228T142000
 DTEND:20260228T152000
@@ -56,6 +24,30 @@ DTEND:20260228T152000
 DTSTAMP:20260228T142000Z
 UID:2026-02-28T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Heidenheim - Bundesliga - viaplay
+DTSTART:20260228T142000
+DTEND:20260228T152000
+DTSTAMP:20260228T142000Z
+UID:2026-02-28T14:20:00/Werder Bremen - Heidenheim
+DESCRIPTION:Werder Bremen - Heidenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Mainz - Bundesliga - viaplay
+DTSTART:20260228T142000
+DTEND:20260228T152000
+DTSTAMP:20260228T142000Z
+UID:2026-02-28T14:20:00/Leverkusen - Mainz
+DESCRIPTION:Leverkusen - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Bayern München - Bundesliga - synsportviaplay
+DTSTART:20260228T172000
+DTEND:20260228T182000
+DTSTAMP:20260228T172000Z
+UID:2026-02-28T17:20:00/Dortmund - Bayern München
+DESCRIPTION:Dortmund - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - Bayern München - Bundesliga - viaplay
@@ -82,7 +74,7 @@ UID:2026-02-28T18:55:00/THW Kiel - Gummersbach
 DESCRIPTION:THW Kiel - Gummersbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stuttgart - Wolfsburg - Bundesliga - viaplay
+SUMMARY:Stuttgart - Wolfsburg - Bundesliga - synsportviaplay
 DTSTART:20260301T142000
 DTEND:20260301T152000
 DTSTAMP:20260301T142000Z
@@ -90,7 +82,7 @@ UID:2026-03-01T14:20:00/Stuttgart - Wolfsburg
 DESCRIPTION:Stuttgart - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stuttgart - Wolfsburg - Bundesliga - synsportviaplay
+SUMMARY:Stuttgart - Wolfsburg - Bundesliga - viaplay
 DTSTART:20260301T142000
 DTEND:20260301T152000
 DTSTAMP:20260301T142000Z
@@ -138,14 +130,6 @@ UID:2026-03-01T18:25:00/Hamburger SV - RB Leipzig
 DESCRIPTION:Hamburger SV - RB Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HSV - Leverkusen - Bundesliga - viaplay
-DTSTART:20260304T192000
-DTEND:20260304T202000
-DTSTAMP:20260304T192000Z
-UID:2026-03-04T19:20:00/HSV - Leverkusen
-DESCRIPTION:HSV - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hamburger SV - Leverkusen - Bundesliga - synsportviaplay
 DTSTART:20260304T192000
 DTEND:20260304T202000
@@ -154,11 +138,27 @@ UID:2026-03-04T19:20:00/Hamburger SV - Leverkusen
 DESCRIPTION:Hamburger SV - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSV - Leverkusen - Bundesliga - viaplay
+DTSTART:20260304T192000
+DTEND:20260304T202000
+DTSTAMP:20260304T192000Z
+UID:2026-03-04T19:20:00/HSV - Leverkusen
+DESCRIPTION:HSV - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gummersbach - Lemgo - Bundesliga - viaplay
 DTSTART:20260305T175500
 DTEND:20260305T185500
 DTSTAMP:20260305T175500Z
 UID:2026-03-05T17:55:00/Gummersbach - Lemgo
 DESCRIPTION:Gummersbach - Lemgo - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Mönchengladbach - Bundesliga - viaplay
+DTSTART:20260306T192000
+DTEND:20260306T202000
+DTSTAMP:20260306T192000Z
+UID:2026-03-06T19:20:00/Bayern München - Mönchengladbach
+DESCRIPTION:Bayern München - Mönchengladbach - Bundesliga
 END:VEVENT
 END:VCALENDAR
