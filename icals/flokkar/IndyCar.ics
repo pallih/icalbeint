@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Firestone Grand Prix of St. Petersburg (Æfing 2) - IndyCar - viap
- lay
-DTSTART:20260228T143000
-DTEND:20260228T153000
-DTSTAMP:20260228T143000Z
-UID:2026-02-28T14:30:00/Firestone Grand Prix of St. Petersburg (Æfing 2)
-DESCRIPTION:Firestone Grand Prix of St. Petersburg (Æfing 2) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Firestone Grand Prix of St. Petersburg (Tímatökur) - IndyCar - v
- iaplay
-DTSTART:20260228T213000
-DTEND:20260228T223000
-DTSTAMP:20260228T213000Z
-UID:2026-02-28T21:30:00/Firestone Grand Prix of St. Petersburg (Tímatöku
- r)
-DESCRIPTION:Firestone Grand Prix of St. Petersburg (Tímatökur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Firestone Grand Prix of St. Petersburg (Warm-up) - IndyCar - viapl
  ay
 DTSTART:20260301T140000
@@ -70,5 +51,13 @@ DTEND:20260306T230000
 DTSTAMP:20260306T220000Z
 UID:2026-03-06T22:00:00/Good Ranchers 250 (Æfing 3)
 DESCRIPTION:Good Ranchers 250 (Æfing 3) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Ranchers 250 (Kappakstur) - IndyCar - viaplay
+DTSTART:20260307T170000
+DTEND:20260307T180000
+DTSTAMP:20260307T170000Z
+UID:2026-03-07T17:00:00/Good Ranchers 250 (Kappakstur)
+DESCRIPTION:Good Ranchers 250 (Kappakstur) - IndyCar
 END:VEVENT
 END:VCALENDAR
