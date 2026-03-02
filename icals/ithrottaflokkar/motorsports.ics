@@ -2,65 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:Taíland kappaksturinn (Warm Up) - MotoGP - viaplay
-DTSTART:20260301T033500
-DTEND:20260301T043500
-DTSTAMP:20260301T033500Z
-UID:2026-03-01T03:35:00/Taíland kappaksturinn (Warm Up)
-DESCRIPTION:Taíland kappaksturinn (Warm Up) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taíland kappaksturinn (Kappakstur) - Moto3 - viaplay
-DTSTART:20260301T044500
-DTEND:20260301T054500
-DTSTAMP:20260301T044500Z
-UID:2026-03-01T04:45:00/Taíland kappaksturinn (Kappakstur)
-DESCRIPTION:Taíland kappaksturinn (Kappakstur) - Moto3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taíland kappaksturinn (Kappakstur) - Moto2 - viaplay
-DTSTART:20260301T060000
-DTEND:20260301T070000
-DTSTAMP:20260301T060000Z
-UID:2026-03-01T06:00:00/Taíland kappaksturinn (Kappakstur)
-DESCRIPTION:Taíland kappaksturinn (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taíland kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20260301T071500
-DTEND:20260301T081500
-DTSTAMP:20260301T071500Z
-UID:2026-03-01T07:15:00/Taíland kappaksturinn (Kappakstur)
-DESCRIPTION:Taíland kappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Firestone Grand Prix of St. Petersburg (Warm-up) - IndyCar - viapl
- ay
-DTSTART:20260301T140000
-DTEND:20260301T150000
-DTSTAMP:20260301T140000Z
-UID:2026-03-01T14:00:00/Firestone Grand Prix of St. Petersburg (Warm-up)
-DESCRIPTION:Firestone Grand Prix of St. Petersburg (Warm-up) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Streets of St. Petersburg (Kappakstur) - Indy NXT - viaplay
-DTSTART:20260301T150000
-DTEND:20260301T160000
-DTSTAMP:20260301T150000Z
-UID:2026-03-01T15:00:00/Streets of St. Petersburg (Kappakstur)
-DESCRIPTION:Streets of St. Petersburg (Kappakstur) - Indy NXT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Firestone Grand Prix of St. Petersburg (Kappakstur) - IndyCar - vi
- aplay
-DTSTART:20260301T170000
-DTEND:20260301T180000
-DTSTAMP:20260301T170000Z
-UID:2026-03-01T17:00:00/Firestone Grand Prix of St. Petersburg (Kappakstur
- )
-DESCRIPTION:Firestone Grand Prix of St. Petersburg (Kappakstur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20260306T012500
 DTEND:20260306T022500
@@ -69,12 +10,21 @@ UID:2026-03-06T01:25:00/Ástralíu Kappaksturinn (Æfing 1)
 DESCRIPTION:Ástralíu Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Ástralía - Æfing 1 - Formúla 1 - synsportviaplay
+SUMMARY:Onboard - Formula 1 - viaplay
 DTSTART:20260306T013000
 DTEND:20260306T023000
 DTSTAMP:20260306T013000Z
-UID:2026-03-06T01:30:00/F1: Ástralía - Æfing 1
-DESCRIPTION:F1: Ástralía - Æfing 1 - Formúla 1
+UID:2026-03-06T01:30:00/Onboard
+DESCRIPTION:Onboard - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Ástralíu Kappaksturinn | Æfing 1) - Formula 1 - viapla
+ y
+DTSTART:20260306T013000
+DTEND:20260306T023000
+DTSTAMP:20260306T013000Z
+UID:2026-03-06T01:30:00/Pitlane (Ástralíu Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Ástralíu Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -85,12 +35,12 @@ UID:2026-03-06T01:30:00/Timing (Ástralíu Kappaksturinn | Æfing 1)
 DESCRIPTION:Timing (Ástralíu Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard - Formula 1 - viaplay
+SUMMARY:F1: Ástralía - Æfing 1 - Formúla 1 - synsportviaplay
 DTSTART:20260306T013000
 DTEND:20260306T023000
 DTSTAMP:20260306T013000Z
-UID:2026-03-06T01:30:00/Onboard
-DESCRIPTION:Onboard - Formula 1
+UID:2026-03-06T01:30:00/F1: Ástralía - Æfing 1
+DESCRIPTION:F1: Ástralía - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Ástralíu Kappaksturinn | Æfing 1) - Formula 
@@ -102,15 +52,6 @@ UID:2026-03-06T01:30:00/Track Positioning (Ástralíu Kappaksturinn | Æfi
  ng 1)
 DESCRIPTION:Track Positioning (Ástralíu Kappaksturinn | Æfing 1) - Form
  ula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Ástralíu Kappaksturinn | Æfing 1) - Formula 1 - viapla
- y
-DTSTART:20260306T013000
-DTEND:20260306T023000
-DTSTAMP:20260306T013000Z
-UID:2026-03-06T01:30:00/Pitlane (Ástralíu Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Melbourne (Tímatökur) - Formula 3 - viaplay
@@ -137,6 +78,23 @@ UID:2026-03-06T04:55:00/Ástralíu Kappaksturinn (Æfing 2)
 DESCRIPTION:Ástralíu Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viapla
+ y
+DTSTART:20260306T050000
+DTEND:20260306T060000
+DTSTAMP:20260306T050000Z
+UID:2026-03-06T05:00:00/Onboard (Ástralíu Kappaksturinn | Æfing 2)
+DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+DTSTART:20260306T050000
+DTEND:20260306T060000
+DTSTAMP:20260306T050000Z
+UID:2026-03-06T05:00:00/Timing (Ástralíu Kappaksturinn | Æfing 2)
+DESCRIPTION:Timing (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viapla
  y
 DTSTART:20260306T050000
@@ -144,6 +102,14 @@ DTEND:20260306T060000
 DTSTAMP:20260306T050000Z
 UID:2026-03-06T05:00:00/Pitlane (Ástralíu Kappaksturinn | Æfing 2)
 DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Ástralía - Æfing 1 - Formúla 1 - synsportviaplay
+DTSTART:20260306T050000
+DTEND:20260306T060000
+DTSTAMP:20260306T050000Z
+UID:2026-03-06T05:00:00/F1: Ástralía - Æfing 1
+DESCRIPTION:F1: Ástralía - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Ástralíu Kappaksturinn | Æfing 2) - Formula 
@@ -155,31 +121,6 @@ UID:2026-03-06T05:00:00/Track Positioning (Ástralíu Kappaksturinn | Æfi
  ng 2)
 DESCRIPTION:Track Positioning (Ástralíu Kappaksturinn | Æfing 2) - Form
  ula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viapla
- y
-DTSTART:20260306T050000
-DTEND:20260306T060000
-DTSTAMP:20260306T050000Z
-UID:2026-03-06T05:00:00/Onboard (Ástralíu Kappaksturinn | Æfing 2)
-DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1: Ástralía - Æfing 1 - Formúla 1 - synsportviaplay
-DTSTART:20260306T050000
-DTEND:20260306T060000
-DTSTAMP:20260306T050000Z
-UID:2026-03-06T05:00:00/F1: Ástralía - Æfing 1
-DESCRIPTION:F1: Ástralía - Æfing 1 - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viaplay
-DTSTART:20260306T050000
-DTEND:20260306T060000
-DTSTAMP:20260306T050000Z
-UID:2026-03-06T05:00:00/Timing (Ástralíu Kappaksturinn | Æfing 2)
-DESCRIPTION:Timing (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Good Ranchers 250 (Æfing 1) - IndyCar - viaplay
@@ -230,15 +171,6 @@ UID:2026-03-07T01:25:00/Ástralíu Kappaksturinn (Æfing 3)
 DESCRIPTION:Ástralíu Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viapla
- y
-DTSTART:20260307T013000
-DTEND:20260307T023000
-DTSTAMP:20260307T013000Z
-UID:2026-03-07T01:30:00/Onboard (Ástralíu Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viapla
  y
 DTSTART:20260307T013000
@@ -246,14 +178,6 @@ DTEND:20260307T023000
 DTSTAMP:20260307T013000Z
 UID:2026-03-07T01:30:00/Pitlane (Ástralíu Kappaksturinn | Æfing 3)
 DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1: Ástralía - Æfing 3 - Formúla 1 - synsportviaplay
-DTSTART:20260307T013000
-DTEND:20260307T023000
-DTSTAMP:20260307T013000Z
-UID:2026-03-07T01:30:00/F1: Ástralía - Æfing 3
-DESCRIPTION:F1: Ástralía - Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Ástralíu Kappaksturinn | Æfing 3) - Formula 
@@ -267,12 +191,29 @@ DESCRIPTION:Track Positioning (Ástralíu Kappaksturinn | Æfing 3) - Form
  ula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viapla
+ y
+DTSTART:20260307T013000
+DTEND:20260307T023000
+DTSTAMP:20260307T013000Z
+UID:2026-03-07T01:30:00/Onboard (Ástralíu Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20260307T013000
 DTEND:20260307T023000
 DTSTAMP:20260307T013000Z
 UID:2026-03-07T01:30:00/Timing (Ástralíu Kappaksturinn | Æfing 3)
 DESCRIPTION:Timing (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Ástralía - Æfing 3 - Formúla 1 - synsportviaplay
+DTSTART:20260307T013000
+DTEND:20260307T023000
+DTSTAMP:20260307T013000Z
+UID:2026-03-07T01:30:00/F1: Ástralía - Æfing 3
+DESCRIPTION:F1: Ástralía - Æfing 3 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Melbourne (Sprettkeppni) - Formula 2 - viaplay
@@ -313,5 +254,29 @@ DTEND:20260307T224500
 DTSTAMP:20260307T214500Z
 UID:2026-03-07T21:45:00/Melbourne (Kappakstur)
 DESCRIPTION:Melbourne (Kappakstur) - Formula 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne (Kappakstur) - Formula 2 - viaplay
+DTSTART:20260308T002000
+DTEND:20260308T012000
+DTSTAMP:20260308T002000Z
+UID:2026-03-08T00:20:00/Melbourne (Kappakstur)
+DESCRIPTION:Melbourne (Kappakstur) - Formula 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Formula 1 - viaplay
+DTSTART:20260308T033000
+DTEND:20260308T043000
+DTSTAMP:20260308T033000Z
+UID:2026-03-08T03:30:00/Ástralíu Kappaksturinn (Kappakstur)
+DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Ástralía - Keppni - Formúla 1 - synsportviaplay
+DTSTART:20260308T033000
+DTEND:20260308T043000
+DTSTAMP:20260308T033000Z
+UID:2026-03-08T03:30:00/F1: Ástralía - Keppni
+DESCRIPTION:F1: Ástralía - Keppni - Formúla 1
 END:VEVENT
 END:VCALENDAR
