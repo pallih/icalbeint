@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Anaheim - Calgary - NHL - viaplay
-DTSTART:20260302T010500
-DTEND:20260302T020500
-DTSTAMP:20260302T010500Z
-UID:2026-03-02T01:05:00/Anaheim - Calgary
-DESCRIPTION:Anaheim - Calgary - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL On The Fly - NHL - viaplay
-DTSTART:20260302T130000
-DTEND:20260302T140000
-DTSTAMP:20260302T130000Z
-UID:2026-03-02T13:00:00/NHL On The Fly
-DESCRIPTION:NHL On The Fly - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nashville - Detroit - NHL - viaplay
-DTSTART:20260302T190500
-DTEND:20260302T200500
-DTSTAMP:20260302T190500Z
-UID:2026-03-02T19:05:00/Nashville - Detroit
-DESCRIPTION:Nashville - Detroit - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Birmingham - Middlesbrough - Championship - viaplay
-DTSTART:20260302T195500
-DTEND:20260302T205500
-DTSTAMP:20260302T195500Z
-UID:2026-03-02T19:55:00/Birmingham - Middlesbrough
-DESCRIPTION:Birmingham - Middlesbrough - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NY Rangers - Columbus - NHL - viaplay
 DTSTART:20260303T000500
 DTEND:20260303T010500
@@ -106,28 +74,12 @@ UID:2026-03-03T19:55:00/Doncaster - Stockport
 DESCRIPTION:Doncaster - Stockport - Vertu Trophy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus - Nashville - NHL - viaplay
-DTSTART:20260304T000500
-DTEND:20260304T010500
-DTSTAMP:20260304T000500Z
-UID:2026-03-04T00:05:00/Columbus - Nashville
-DESCRIPTION:Columbus - Nashville - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New Jersey - Florida - NHL - viaplay
 DTSTART:20260304T000500
 DTEND:20260304T010500
 DTSTAMP:20260304T000500Z
 UID:2026-03-04T00:05:00/New Jersey - Florida
 DESCRIPTION:New Jersey - Florida - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Washington - Utah - NHL - viaplay
-DTSTART:20260304T000500
-DTEND:20260304T010500
-DTSTAMP:20260304T000500Z
-UID:2026-03-04T00:05:00/Washington - Utah
-DESCRIPTION:Washington - Utah - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buffalo - Vegas - NHL - viaplay
@@ -146,20 +98,28 @@ UID:2026-03-04T00:05:00/Boston - Pittsburgh
 DESCRIPTION:Boston - Pittsburgh - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Columbus - Nashville - NHL - viaplay
+DTSTART:20260304T000500
+DTEND:20260304T010500
+DTSTAMP:20260304T000500Z
+UID:2026-03-04T00:05:00/Columbus - Nashville
+DESCRIPTION:Columbus - Nashville - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington - Utah - NHL - viaplay
+DTSTART:20260304T000500
+DTEND:20260304T010500
+DTSTAMP:20260304T000500Z
+UID:2026-03-04T00:05:00/Washington - Utah
+DESCRIPTION:Washington - Utah - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winnipeg - Chicago - NHL - viaplay
 DTSTART:20260304T010500
 DTEND:20260304T020500
 DTSTAMP:20260304T010500Z
 UID:2026-03-04T01:05:00/Winnipeg - Chicago
 DESCRIPTION:Winnipeg - Chicago - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calgary - Dallas - NHL - viaplay
-DTSTART:20260304T020500
-DTEND:20260304T030500
-DTSTAMP:20260304T020500Z
-UID:2026-03-04T02:05:00/Calgary - Dallas
-DESCRIPTION:Calgary - Dallas - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton - Ottawa - NHL - viaplay
@@ -170,12 +130,28 @@ UID:2026-03-04T02:05:00/Edmonton - Ottawa
 DESCRIPTION:Edmonton - Ottawa - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calgary - Dallas - NHL - viaplay
+DTSTART:20260304T020500
+DTEND:20260304T030500
+DTSTAMP:20260304T020500Z
+UID:2026-03-04T02:05:00/Calgary - Dallas
+DESCRIPTION:Calgary - Dallas - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minnesota - Tampa Bay - NHL - viaplay
 DTSTART:20260304T023500
 DTEND:20260304T033500
 DTSTAMP:20260304T023500Z
 UID:2026-03-04T02:35:00/Minnesota - Tampa Bay
 DESCRIPTION:Minnesota - Tampa Bay - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose - Montreal - NHL - viaplay
+DTSTART:20260304T030500
+DTEND:20260304T040500
+DTSTAMP:20260304T030500Z
+UID:2026-03-04T03:05:00/San Jose - Montreal
+DESCRIPTION:San Jose - Montreal - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anaheim - Colorado - NHL - viaplay
@@ -186,12 +162,12 @@ UID:2026-03-04T03:05:00/Anaheim - Colorado
 DESCRIPTION:Anaheim - Colorado - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose - Montreal - NHL - viaplay
-DTSTART:20260304T030500
-DTEND:20260304T040500
-DTSTAMP:20260304T030500Z
-UID:2026-03-04T03:05:00/San Jose - Montreal
-DESCRIPTION:San Jose - Montreal - NHL
+SUMMARY:Tie Break Tens Indian Wells 2026 - Tie Break Tens - viaplay
+DTSTART:20260304T033000
+DTEND:20260304T043000
+DTSTAMP:20260304T033000Z
+UID:2026-03-04T03:30:00/Tie Break Tens Indian Wells 2026
+DESCRIPTION:Tie Break Tens Indian Wells 2026 - Tie Break Tens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL On The Fly - NHL - viaplay
@@ -234,20 +210,20 @@ UID:2026-03-05T00:05:00/Detroit - Vegas
 DESCRIPTION:Detroit - Vegas - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anaheim - NY Islanders - NHL - viaplay
-DTSTART:20260305T030500
-DTEND:20260305T040500
-DTSTAMP:20260305T030500Z
-UID:2026-03-05T03:05:00/Anaheim - NY Islanders
-DESCRIPTION:Anaheim - NY Islanders - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vancouver - Carolina - NHL - viaplay
 DTSTART:20260305T030500
 DTEND:20260305T040500
 DTSTAMP:20260305T030500Z
 UID:2026-03-05T03:05:00/Vancouver - Carolina
 DESCRIPTION:Vancouver - Carolina - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anaheim - NY Islanders - NHL - viaplay
+DTSTART:20260305T030500
+DTEND:20260305T040500
+DTSTAMP:20260305T030500Z
+UID:2026-03-05T03:05:00/Anaheim - NY Islanders
+DESCRIPTION:Anaheim - NY Islanders - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle - St. Louis - NHL - viaplay
@@ -298,6 +274,14 @@ UID:2026-03-05T19:00:00/Premier League Darts
 DESCRIPTION:Premier League Darts - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NY Rangers - Toronto - NHL - viaplay
+DTSTART:20260306T000500
+DTEND:20260306T010500
+DTSTAMP:20260306T000500Z
+UID:2026-03-06T00:05:00/NY Rangers - Toronto
+DESCRIPTION:NY Rangers - Toronto - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Philadelphia - Utah - NHL - viaplay
 DTSTART:20260306T000500
 DTEND:20260306T010500
@@ -314,14 +298,6 @@ UID:2026-03-06T00:05:00/Pittsburgh - Buffalo
 DESCRIPTION:Pittsburgh - Buffalo - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NY Rangers - Toronto - NHL - viaplay
-DTSTART:20260306T000500
-DTEND:20260306T010500
-DTSTAMP:20260306T000500Z
-UID:2026-03-06T00:05:00/NY Rangers - Toronto
-DESCRIPTION:NY Rangers - Toronto - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Columbus - Florida - NHL - viaplay
 DTSTART:20260306T000500
 DTEND:20260306T010500
@@ -330,20 +306,20 @@ UID:2026-03-06T00:05:00/Columbus - Florida
 DESCRIPTION:Columbus - Florida - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winnipeg - Tampa Bay - NHL - viaplay
-DTSTART:20260306T010500
-DTEND:20260306T020500
-DTSTAMP:20260306T010500Z
-UID:2026-03-06T01:05:00/Winnipeg - Tampa Bay
-DESCRIPTION:Winnipeg - Tampa Bay - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nashville - Boston - NHL - viaplay
 DTSTART:20260306T010500
 DTEND:20260306T020500
 DTSTAMP:20260306T010500Z
 UID:2026-03-06T01:05:00/Nashville - Boston
 DESCRIPTION:Nashville - Boston - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winnipeg - Tampa Bay - NHL - viaplay
+DTSTART:20260306T010500
+DTEND:20260306T020500
+DTSTAMP:20260306T010500Z
+UID:2026-03-06T01:05:00/Winnipeg - Tampa Bay
+DESCRIPTION:Winnipeg - Tampa Bay - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Æfing 1) - Formula 1 - viaplay
@@ -360,15 +336,6 @@ DTEND:20260306T023000
 DTSTAMP:20260306T013000Z
 UID:2026-03-06T01:30:00/Onboard
 DESCRIPTION:Onboard - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Ástralíu Kappaksturinn | Æfing 1) - Formula 1 - viapla
- y
-DTSTART:20260306T013000
-DTEND:20260306T023000
-DTSTAMP:20260306T013000Z
-UID:2026-03-06T01:30:00/Pitlane (Ástralíu Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Ástralíu Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -388,6 +355,15 @@ UID:2026-03-06T01:30:00/Track Positioning (Ástralíu Kappaksturinn | Æfi
  ng 1)
 DESCRIPTION:Track Positioning (Ástralíu Kappaksturinn | Æfing 1) - Form
  ula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Ástralíu Kappaksturinn | Æfing 1) - Formula 1 - viapla
+ y
+DTSTART:20260306T013000
+DTEND:20260306T023000
+DTSTAMP:20260306T013000Z
+UID:2026-03-06T01:30:00/Pitlane (Ástralíu Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary - Ottawa - NHL - viaplay
@@ -438,23 +414,6 @@ UID:2026-03-06T04:55:00/Ástralíu Kappaksturinn (Æfing 2)
 DESCRIPTION:Ástralíu Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viapla
- y
-DTSTART:20260306T050000
-DTEND:20260306T060000
-DTSTAMP:20260306T050000Z
-UID:2026-03-06T05:00:00/Onboard (Ástralíu Kappaksturinn | Æfing 2)
-DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viaplay
-DTSTART:20260306T050000
-DTEND:20260306T060000
-DTSTAMP:20260306T050000Z
-UID:2026-03-06T05:00:00/Timing (Ástralíu Kappaksturinn | Æfing 2)
-DESCRIPTION:Timing (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viapla
  y
 DTSTART:20260306T050000
@@ -462,6 +421,15 @@ DTEND:20260306T060000
 DTSTAMP:20260306T050000Z
 UID:2026-03-06T05:00:00/Pitlane (Ástralíu Kappaksturinn | Æfing 2)
 DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viapla
+ y
+DTSTART:20260306T050000
+DTEND:20260306T060000
+DTSTAMP:20260306T050000Z
+UID:2026-03-06T05:00:00/Onboard (Ástralíu Kappaksturinn | Æfing 2)
+DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Ástralíu Kappaksturinn | Æfing 2) - Formula 
@@ -473,6 +441,14 @@ UID:2026-03-06T05:00:00/Track Positioning (Ástralíu Kappaksturinn | Æfi
  ng 2)
 DESCRIPTION:Track Positioning (Ástralíu Kappaksturinn | Æfing 2) - Form
  ula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Ástralíu Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+DTSTART:20260306T050000
+DTEND:20260306T060000
+DTSTAMP:20260306T050000Z
+UID:2026-03-06T05:00:00/Timing (Ástralíu Kappaksturinn | Æfing 2)
+DESCRIPTION:Timing (Ástralíu Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UK Open - PDC Darts - viaplay
@@ -499,20 +475,20 @@ UID:2026-03-06T15:00:00/Good Ranchers 250 (Æfing 1)
 DESCRIPTION:Good Ranchers 250 (Æfing 1) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elversberg - Magdeburg - 2. Bundesliga - viaplay
-DTSTART:20260306T172500
-DTEND:20260306T182500
-DTSTAMP:20260306T172500Z
-UID:2026-03-06T17:25:00/Elversberg - Magdeburg
-DESCRIPTION:Elversberg - Magdeburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Schalke - Arminia Bielefeld - 2. Bundesliga - viaplay
 DTSTART:20260306T172500
 DTEND:20260306T182500
 DTSTAMP:20260306T172500Z
 UID:2026-03-06T17:25:00/Schalke - Arminia Bielefeld
 DESCRIPTION:Schalke - Arminia Bielefeld - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elversberg - Magdeburg - 2. Bundesliga - viaplay
+DTSTART:20260306T172500
+DTEND:20260306T182500
+DTSTAMP:20260306T172500Z
+UID:2026-03-06T17:25:00/Elversberg - Magdeburg
+DESCRIPTION:Elversberg - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skotland - Frakkland - Six Nations U20 - viaplay
@@ -555,20 +531,20 @@ UID:2026-03-06T19:20:00/Bayern München - Mönchengladbach
 DESCRIPTION:Bayern München - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolverhampton - Liverpool - FA Cup - viaplay
-DTSTART:20260306T195500
-DTEND:20260306T205500
-DTSTAMP:20260306T195500Z
-UID:2026-03-06T19:55:00/Wolverhampton - Liverpool
-DESCRIPTION:Wolverhampton - Liverpool - FA Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preston - Oxford - Championship - viaplay
 DTSTART:20260306T195500
 DTEND:20260306T205500
 DTSTAMP:20260306T195500Z
 UID:2026-03-06T19:55:00/Preston - Oxford
 DESCRIPTION:Preston - Oxford - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolverhampton - Liverpool - FA Cup - viaplay
+DTSTART:20260306T195500
+DTEND:20260306T205500
+DTSTAMP:20260306T195500Z
+UID:2026-03-06T19:55:00/Wolverhampton - Liverpool
+DESCRIPTION:Wolverhampton - Liverpool - FA Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Írland - Wales - Six Nations - viaplay
@@ -635,13 +611,21 @@ UID:2026-03-07T01:25:00/Ástralíu Kappaksturinn (Æfing 3)
 DESCRIPTION:Ástralíu Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viapla
+SUMMARY:Timing (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20260307T013000
+DTEND:20260307T023000
+DTSTAMP:20260307T013000Z
+UID:2026-03-07T01:30:00/Timing (Ástralíu Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viapla
  y
 DTSTART:20260307T013000
 DTEND:20260307T023000
 DTSTAMP:20260307T013000Z
-UID:2026-03-07T01:30:00/Pitlane (Ástralíu Kappaksturinn | Æfing 3)
-DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-03-07T01:30:00/Onboard (Ástralíu Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Ástralíu Kappaksturinn | Æfing 3) - Formula 
@@ -655,21 +639,13 @@ DESCRIPTION:Track Positioning (Ástralíu Kappaksturinn | Æfing 3) - Form
  ula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viapla
+SUMMARY:Pitlane (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viapla
  y
 DTSTART:20260307T013000
 DTEND:20260307T023000
 DTSTAMP:20260307T013000Z
-UID:2026-03-07T01:30:00/Onboard (Ástralíu Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Ástralíu Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20260307T013000
-DTEND:20260307T023000
-DTSTAMP:20260307T013000Z
-UID:2026-03-07T01:30:00/Timing (Ástralíu Kappaksturinn | Æfing 3)
-DESCRIPTION:Timing (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-03-07T01:30:00/Pitlane (Ástralíu Kappaksturinn | Æfing 3)
+DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago - Vancouver - NHL - viaplay
@@ -736,20 +712,42 @@ UID:2026-03-07T04:45:00/Ástralíu Kappaksturinn (Tímatökur)
 DESCRIPTION:Ástralíu Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paderborn - Braunschweig - 2. Bundesliga - viaplay
-DTSTART:20260307T115500
-DTEND:20260307T125500
-DTSTAMP:20260307T115500Z
-UID:2026-03-07T11:55:00/Paderborn - Braunschweig
-DESCRIPTION:Paderborn - Braunschweig - 2. Bundesliga
+SUMMARY:Onboard (Ástralíu Kappaksturinn | Tímatökur) - Formula 1 - via
+ play
+DTSTART:20260307T050000
+DTEND:20260307T060000
+DTSTAMP:20260307T050000Z
+UID:2026-03-07T05:00:00/Onboard (Ástralíu Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20260307T115500
-DTEND:20260307T125500
-DTSTAMP:20260307T115500Z
-UID:2026-03-07T11:55:00/Nürnberg - Düsseldorf
-DESCRIPTION:Nürnberg - Düsseldorf - 2. Bundesliga
+SUMMARY:Timing (Ástralíu Kappaksturinn | Tímatökur) - Formula 1 - viap
+ lay
+DTSTART:20260307T050000
+DTEND:20260307T060000
+DTSTAMP:20260307T050000Z
+UID:2026-03-07T05:00:00/Timing (Ástralíu Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Ástralíu Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Ástralíu Kappaksturinn | Tímatökur) - Formu
+ la 1 - viaplay
+DTSTART:20260307T050000
+DTEND:20260307T060000
+DTSTAMP:20260307T050000Z
+UID:2026-03-07T05:00:00/Track Positioning (Ástralíu Kappaksturinn | Tím
+ atökur)
+DESCRIPTION:Track Positioning (Ástralíu Kappaksturinn | Tímatökur) - F
+ ormula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Ástralíu Kappaksturinn | Tímatökur) - Formula 1 - via
+ play
+DTSTART:20260307T050000
+DTEND:20260307T060000
+DTSTAMP:20260307T050000Z
+UID:2026-03-07T05:00:00/Pitlane (Ástralíu Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Darmstadt - Holstein Kiel - 2. Bundesliga - viaplay
@@ -760,20 +758,28 @@ UID:2026-03-07T11:55:00/Darmstadt - Holstein Kiel
 DESCRIPTION:Darmstadt - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nürnberg - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20260307T115500
+DTEND:20260307T125500
+DTSTAMP:20260307T115500Z
+UID:2026-03-07T11:55:00/Nürnberg - Düsseldorf
+DESCRIPTION:Nürnberg - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paderborn - Braunschweig - 2. Bundesliga - viaplay
+DTSTART:20260307T115500
+DTEND:20260307T125500
+DTSTAMP:20260307T115500Z
+UID:2026-03-07T11:55:00/Paderborn - Braunschweig
+DESCRIPTION:Paderborn - Braunschweig - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mansfield - Arsenal - FA Cup - viaplay
 DTSTART:20260307T121000
 DTEND:20260307T131000
 DTSTAMP:20260307T121000Z
 UID:2026-03-07T12:10:00/Mansfield - Arsenal
 DESCRIPTION:Mansfield - Arsenal - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Watford - Wrexham - Championship - viaplay
-DTSTART:20260307T122500
-DTEND:20260307T132500
-DTSTAMP:20260307T122500Z
-UID:2026-03-07T12:25:00/Watford - Wrexham
-DESCRIPTION:Watford - Wrexham - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hull - Millwall - Championship - viaplay
@@ -816,6 +822,14 @@ UID:2026-03-07T14:00:00/Skotland - Frakkland
 DESCRIPTION:Skotland - Frakkland - Six Nations
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heidenheim - Hoffenheim - Bundesliga - viaplay
+DTSTART:20260307T142000
+DTEND:20260307T152000
+DTSTAMP:20260307T142000Z
+UID:2026-03-07T14:20:00/Heidenheim - Hoffenheim
+DESCRIPTION:Heidenheim - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wolfsburg - HSV - Bundesliga - viaplay
 DTSTART:20260307T142000
 DTEND:20260307T152000
@@ -840,28 +854,20 @@ UID:2026-03-07T14:20:00/Mainz - Stuttgart
 DESCRIPTION:Mainz - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20260307T142000
-DTEND:20260307T152000
-DTSTAMP:20260307T142000Z
-UID:2026-03-07T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Hoffenheim - Bundesliga - viaplay
-DTSTART:20260307T142000
-DTEND:20260307T152000
-DTSTAMP:20260307T142000Z
-UID:2026-03-07T14:20:00/Heidenheim - Hoffenheim
-DESCRIPTION:Heidenheim - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freiburg - Leverkusen - Bundesliga - viaplay
 DTSTART:20260307T142000
 DTEND:20260307T152000
 DTSTAMP:20260307T142000Z
 UID:2026-03-07T14:20:00/Freiburg - Leverkusen
 DESCRIPTION:Freiburg - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20260307T142000
+DTEND:20260307T152000
+DTSTAMP:20260307T142000Z
+UID:2026-03-07T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Derby - Sheffield Wednesday - Championship - viaplay
@@ -1024,20 +1030,20 @@ UID:2026-03-07T21:45:00/Melbourne (Kappakstur)
 DESCRIPTION:Melbourne (Kappakstur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pittsburgh - Philadelphia - NHL - viaplay
-DTSTART:20260307T223500
-DTEND:20260307T233500
-DTSTAMP:20260307T223500Z
-UID:2026-03-07T22:35:00/Pittsburgh - Philadelphia
-DESCRIPTION:Pittsburgh - Philadelphia - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buffalo - Nashville - NHL - viaplay
 DTSTART:20260307T223500
 DTEND:20260307T233500
 DTSTAMP:20260307T223500Z
 UID:2026-03-07T22:35:00/Buffalo - Nashville
 DESCRIPTION:Buffalo - Nashville - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh - Philadelphia - NHL - viaplay
+DTSTART:20260307T223500
+DTEND:20260307T233500
+DTSTAMP:20260307T223500Z
+UID:2026-03-07T22:35:00/Pittsburgh - Philadelphia
+DESCRIPTION:Pittsburgh - Philadelphia - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Australian Women’s Classic - Ladies European Tour - viaplay
@@ -1048,20 +1054,20 @@ UID:2026-03-08T00:00:00/Australian Women’s Classic
 DESCRIPTION:Australian Women’s Classic - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto - Tampa Bay - NHL - viaplay
-DTSTART:20260308T000500
-DTEND:20260308T010500
-DTSTAMP:20260308T000500Z
-UID:2026-03-08T00:05:00/Toronto - Tampa Bay
-DESCRIPTION:Toronto - Tampa Bay - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Columbus - Utah - NHL - viaplay
 DTSTART:20260308T000500
 DTEND:20260308T010500
 DTSTAMP:20260308T000500Z
 UID:2026-03-08T00:05:00/Columbus - Utah
 DESCRIPTION:Columbus - Utah - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto - Tampa Bay - NHL - viaplay
+DTSTART:20260308T000500
+DTEND:20260308T010500
+DTSTAMP:20260308T000500Z
+UID:2026-03-08T00:05:00/Toronto - Tampa Bay
+DESCRIPTION:Toronto - Tampa Bay - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winnipeg - Vancouver - NHL - viaplay
@@ -1096,12 +1102,74 @@ UID:2026-03-08T02:00:00/Holloway vs Oliveira II
 DESCRIPTION:Holloway vs Oliveira II - UFC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seattle - Ottawa - NHL - viaplay
+DTSTART:20260308T030500
+DTEND:20260308T040500
+DTSTAMP:20260308T030500Z
+UID:2026-03-08T03:05:00/Seattle - Ottawa
+DESCRIPTION:Seattle - Ottawa - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose - NY Islanders - NHL - viaplay
+DTSTART:20260308T030500
+DTEND:20260308T040500
+DTSTAMP:20260308T030500Z
+UID:2026-03-08T03:05:00/San Jose - NY Islanders
+DESCRIPTION:San Jose - NY Islanders - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calgary - Carolina - NHL - viaplay
+DTSTART:20260308T030500
+DTEND:20260308T040500
+DTSTAMP:20260308T030500Z
+UID:2026-03-08T03:05:00/Calgary - Carolina
+DESCRIPTION:Calgary - Carolina - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - Formula 1 - viaplay
 DTSTART:20260308T033000
 DTEND:20260308T043000
 DTSTAMP:20260308T033000Z
 UID:2026-03-08T03:30:00/Ástralíu Kappaksturinn (Kappakstur)
 DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Ástralíu Kappaksturinn | Kappakstur) - Formula 1 - viapl
+ ay
+DTSTART:20260308T040000
+DTEND:20260308T050000
+DTSTAMP:20260308T040000Z
+UID:2026-03-08T04:00:00/Timing (Ástralíu Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Ástralíu Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Ástralíu Kappaksturinn | Kappakstur) - Formula 1 - viap
+ lay
+DTSTART:20260308T040000
+DTEND:20260308T050000
+DTSTAMP:20260308T040000Z
+UID:2026-03-08T04:00:00/Pitlane (Ástralíu Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Ástralíu Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Ástralíu Kappaksturinn | Kappakstur) - Formul
+ a 1 - viaplay
+DTSTART:20260308T040000
+DTEND:20260308T050000
+DTSTAMP:20260308T040000Z
+UID:2026-03-08T04:00:00/Track Positioning (Ástralíu Kappaksturinn | Kapp
+ akstur)
+DESCRIPTION:Track Positioning (Ástralíu Kappaksturinn | Kappakstur) - Fo
+ rmula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Ástralíu Kappaksturinn | Kappakstur) - Formula 1 - viap
+ lay
+DTSTART:20260308T040000
+DTEND:20260308T050000
+DTSTAMP:20260308T040000Z
+UID:2026-03-08T04:00:00/Onboard (Ástralíu Kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Ástralíu Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIV Golf Hong Kong - LIV Golf - viaplay
@@ -1112,6 +1180,14 @@ UID:2026-03-08T04:30:00/LIV Golf Hong Kong
 DESCRIPTION:LIV Golf Hong Kong - LIV Golf
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fulham - Southampton - FA Cup - viaplay
+DTSTART:20260308T115500
+DTEND:20260308T125500
+DTSTAMP:20260308T115500Z
+UID:2026-03-08T11:55:00/Fulham - Southampton
+DESCRIPTION:Fulham - Southampton - FA Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AFC Wimbledon - Northampton - League One - viaplay
 DTSTART:20260308T115500
 DTEND:20260308T125500
@@ -1120,12 +1196,12 @@ UID:2026-03-08T11:55:00/AFC Wimbledon - Northampton
 DESCRIPTION:AFC Wimbledon - Northampton - League One
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Southampton - FA Cup - viaplay
-DTSTART:20260308T115500
-DTEND:20260308T125500
-DTSTAMP:20260308T115500Z
-UID:2026-03-08T11:55:00/Fulham - Southampton
-DESCRIPTION:Fulham - Southampton - FA Cup
+SUMMARY:Karlsruher - Dynamo Dresden - 2. Bundesliga - viaplay
+DTSTART:20260308T122500
+DTEND:20260308T132500
+DTSTAMP:20260308T122500Z
+UID:2026-03-08T12:25:00/Karlsruher - Dynamo Dresden
+DESCRIPTION:Karlsruher - Dynamo Dresden - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preußen Münster - Hertha Berlin - 2. Bundesliga - viaplay
@@ -1142,14 +1218,6 @@ DTEND:20260308T132500
 DTSTAMP:20260308T122500Z
 UID:2026-03-08T12:25:00/Hannover - Greuther Fürth
 DESCRIPTION:Hannover - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karlsruher - Dynamo Dresden - 2. Bundesliga - viaplay
-DTSTART:20260308T122500
-DTEND:20260308T132500
-DTSTAMP:20260308T122500Z
-UID:2026-03-08T12:25:00/Karlsruher - Dynamo Dresden
-DESCRIPTION:Karlsruher - Dynamo Dresden - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL On The Fly - NHL - viaplay
@@ -1240,6 +1308,14 @@ UID:2026-03-08T20:35:00/Pittsburgh - Boston
 DESCRIPTION:Pittsburgh - Boston - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Buffalo - Tampa Bay - NHL - viaplay
+DTSTART:20260308T220500
+DTEND:20260308T230500
+DTSTAMP:20260308T220500Z
+UID:2026-03-08T22:05:00/Buffalo - Tampa Bay
+DESCRIPTION:Buffalo - Tampa Bay - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dallas - Chicago - NHL - viaplay
 DTSTART:20260308T220500
 DTEND:20260308T230500
@@ -1248,11 +1324,19 @@ UID:2026-03-08T22:05:00/Dallas - Chicago
 DESCRIPTION:Dallas - Chicago - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buffalo - Tampa Bay - NHL - viaplay
-DTSTART:20260308T220500
-DTEND:20260308T230500
-DTSTAMP:20260308T220500Z
-UID:2026-03-08T22:05:00/Buffalo - Tampa Bay
-DESCRIPTION:Buffalo - Tampa Bay - NHL
+SUMMARY:Dregið - FA Cup - viaplay
+DTSTART:20260309T183000
+DTEND:20260309T193000
+DTSTAMP:20260309T183000Z
+UID:2026-03-09T18:30:00/Dregið
+DESCRIPTION:Dregið - FA Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Brentford - FA Cup - viaplay
+DTSTART:20260309T192500
+DTEND:20260309T202500
+DTSTAMP:20260309T192500Z
+UID:2026-03-09T19:25:00/West Ham - Brentford
+DESCRIPTION:West Ham - Brentford - FA Cup
 END:VEVENT
 END:VCALENDAR
