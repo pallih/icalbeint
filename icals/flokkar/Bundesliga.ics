@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Hamburger SV - Leverkusen - Bundesliga - synsportviaplay
-DTSTART:20260304T192000
-DTEND:20260304T202000
-DTSTAMP:20260304T192000Z
-UID:2026-03-04T19:20:00/Hamburger SV - Leverkusen
-DESCRIPTION:Hamburger SV - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HSV - Leverkusen - Bundesliga - viaplay
 DTSTART:20260304T192000
 DTEND:20260304T202000
 DTSTAMP:20260304T192000Z
 UID:2026-03-04T19:20:00/HSV - Leverkusen
 DESCRIPTION:HSV - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamburger SV - Leverkusen - Bundesliga - synsportviaplay
+DTSTART:20260304T192000
+DTEND:20260304T202000
+DTSTAMP:20260304T192000Z
+UID:2026-03-04T19:20:00/Hamburger SV - Leverkusen
+DESCRIPTION:Hamburger SV - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gummersbach - Lemgo - Bundesliga - viaplay
@@ -34,28 +34,12 @@ UID:2026-03-06T19:20:00/Bayern München - Mönchengladbach
 DESCRIPTION:Bayern München - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - Hoffenheim - Bundesliga - viaplay
+SUMMARY:Freiburg - Leverkusen - Bundesliga - viaplay
 DTSTART:20260307T142000
 DTEND:20260307T152000
 DTSTAMP:20260307T142000Z
-UID:2026-03-07T14:20:00/Heidenheim - Hoffenheim
-DESCRIPTION:Heidenheim - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - HSV - Bundesliga - viaplay
-DTSTART:20260307T142000
-DTEND:20260307T152000
-DTSTAMP:20260307T142000Z
-UID:2026-03-07T14:20:00/Wolfsburg - HSV
-DESCRIPTION:Wolfsburg - HSV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Augsburg - Bundesliga - viaplay
-DTSTART:20260307T142000
-DTEND:20260307T152000
-DTSTAMP:20260307T142000Z
-UID:2026-03-07T14:20:00/Leipzig - Augsburg
-DESCRIPTION:Leipzig - Augsburg - Bundesliga
+UID:2026-03-07T14:20:00/Freiburg - Leverkusen
+DESCRIPTION:Freiburg - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mainz - Stuttgart - Bundesliga - viaplay
@@ -66,20 +50,36 @@ UID:2026-03-07T14:20:00/Mainz - Stuttgart
 DESCRIPTION:Mainz - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Leverkusen - Bundesliga - viaplay
-DTSTART:20260307T142000
-DTEND:20260307T152000
-DTSTAMP:20260307T142000Z
-UID:2026-03-07T14:20:00/Freiburg - Leverkusen
-DESCRIPTION:Freiburg - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20260307T142000
 DTEND:20260307T152000
 DTSTAMP:20260307T142000Z
 UID:2026-03-07T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Augsburg - Bundesliga - viaplay
+DTSTART:20260307T142000
+DTEND:20260307T152000
+DTSTAMP:20260307T142000Z
+UID:2026-03-07T14:20:00/Leipzig - Augsburg
+DESCRIPTION:Leipzig - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - HSV - Bundesliga - viaplay
+DTSTART:20260307T142000
+DTEND:20260307T152000
+DTSTAMP:20260307T142000Z
+UID:2026-03-07T14:20:00/Wolfsburg - HSV
+DESCRIPTION:Wolfsburg - HSV - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Hoffenheim - Bundesliga - viaplay
+DTSTART:20260307T142000
+DTEND:20260307T152000
+DTSTAMP:20260307T142000Z
+UID:2026-03-07T14:20:00/Heidenheim - Hoffenheim
+DESCRIPTION:Heidenheim - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Dortmund - Bundesliga - viaplay
