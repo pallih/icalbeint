@@ -10,14 +10,6 @@ UID:2026-03-06T19:55:00/Preston - Oxford
 DESCRIPTION:Preston - Oxford - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blackburn - Portsmouth - Championship - viaplay
-DTSTART:20260307T122500
-DTEND:20260307T132500
-DTSTAMP:20260307T122500Z
-UID:2026-03-07T12:25:00/Blackburn - Portsmouth
-DESCRIPTION:Blackburn - Portsmouth - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hull - Millwall - Championship - viaplay
 DTSTART:20260307T122500
 DTEND:20260307T132500
@@ -26,12 +18,12 @@ UID:2026-03-07T12:25:00/Hull - Millwall
 DESCRIPTION:Hull - Millwall - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Derby - Sheffield Wednesday - Championship - viaplay
-DTSTART:20260307T145500
-DTEND:20260307T155500
-DTSTAMP:20260307T145500Z
-UID:2026-03-07T14:55:00/Derby - Sheffield Wednesday
-DESCRIPTION:Derby - Sheffield Wednesday - Championship
+SUMMARY:Blackburn - Portsmouth - Championship - viaplay
+DTSTART:20260307T122500
+DTEND:20260307T132500
+DTSTAMP:20260307T122500Z
+UID:2026-03-07T12:25:00/Blackburn - Portsmouth
+DESCRIPTION:Blackburn - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Stoke - Championship - viaplay
@@ -56,6 +48,14 @@ DTEND:20260307T155500
 DTSTAMP:20260307T145500Z
 UID:2026-03-07T14:55:00/Ipswich - Leicester
 DESCRIPTION:Ipswich - Leicester - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Derby - Sheffield Wednesday - Championship - viaplay
+DTSTART:20260307T145500
+DTEND:20260307T155500
+DTSTAMP:20260307T145500Z
+UID:2026-03-07T14:55:00/Derby - Sheffield Wednesday
+DESCRIPTION:Derby - Sheffield Wednesday - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlton - Birmingham - Championship - viaplay
@@ -138,22 +138,6 @@ UID:2026-03-11T19:40:00/Birmingham - QPR
 DESCRIPTION:Birmingham - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oxford United - Blackburn - Championship - viaplay
-DTSTART:20260311T194000
-DTEND:20260311T204000
-DTSTAMP:20260311T194000Z
-UID:2026-03-11T19:40:00/Oxford United - Blackburn
-DESCRIPTION:Oxford United - Blackburn - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Brom - Southampton - Championship - viaplay
-DTSTART:20260311T194000
-DTEND:20260311T204000
-DTSTAMP:20260311T194000Z
-UID:2026-03-11T19:40:00/West Brom - Southampton
-DESCRIPTION:West Brom - Southampton - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Norwich - Sheffield United - Championship - viaplay
 DTSTART:20260311T194000
 DTEND:20260311T204000
@@ -168,6 +152,22 @@ DTEND:20260311T204000
 DTSTAMP:20260311T194000Z
 UID:2026-03-11T19:40:00/Middlesbrough - Charlton
 DESCRIPTION:Middlesbrough - Charlton - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oxford United - Blackburn - Championship - viaplay
+DTSTART:20260311T194000
+DTEND:20260311T204000
+DTSTAMP:20260311T194000Z
+UID:2026-03-11T19:40:00/Oxford United - Blackburn
+DESCRIPTION:Oxford United - Blackburn - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Brom - Southampton - Championship - viaplay
+DTSTART:20260311T194000
+DTEND:20260311T204000
+DTSTAMP:20260311T194000Z
+UID:2026-03-11T19:40:00/West Brom - Southampton
+DESCRIPTION:West Brom - Southampton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coventry - Preston - Championship - viaplay
