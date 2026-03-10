@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Skallagrímur - Breiðablik - 1. deild karla í körfubolta  - kki
- tv2
-DTSTART:20260309T191500
-DTEND:20260309T201500
-DTSTAMP:20260309T191500Z
-UID:2026-03-09T19:15:00/Skallagrímur - Breiðablik
-DESCRIPTION:Skallagrímur - Breiðablik - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Ham - Brentford - FA Cup - synsportviaplay
-DTSTART:20260309T192500
-DTEND:20260309T202500
-DTSTAMP:20260309T192500Z
-UID:2026-03-09T19:25:00/West Ham - Brentford
-DESCRIPTION:West Ham - Brentford - FA Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
-DTSTART:20260309T200000
-DTEND:20260309T210000
-DTSTAMP:20260309T200000Z
-UID:2026-03-09T20:00:00/Körfuboltakvöld Extra
-DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flyers - Rangers - NHL - synsportviaplay
-DTSTART:20260309T230500
-DTEND:20260310T000500
-DTSTAMP:20260309T230500Z
-UID:2026-03-09T23:05:00/Flyers - Rangers
-DESCRIPTION:Flyers - Rangers - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Galatasaray - Liverpool - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20260310T173500
 DTEND:20260310T183500
@@ -43,29 +10,12 @@ UID:2026-03-10T17:35:00/Galatasaray - Liverpool
 DESCRIPTION:Galatasaray - Liverpool - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aþena - Stjarnan B - 1. deild kvenna í körfubolta  - kkitv1
-DTSTART:20260310T191500
-DTEND:20260310T201500
-DTSTAMP:20260310T191500Z
-UID:2026-03-10T19:15:00/Aþena - Stjarnan B
-DESCRIPTION:Aþena - Stjarnan B - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - synsport
 DTSTART:20260310T193000
 DTEND:20260310T203000
 DTSTAMP:20260310T193000Z
 UID:2026-03-10T19:30:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atalanta - Bayern München - Meistaradeild Evrópu - synsportviapl
- ay
-DTSTART:20260310T195000
-DTEND:20260310T205000
-DTSTAMP:20260310T195000Z
-UID:2026-03-10T19:50:00/Atalanta - Bayern München
-DESCRIPTION:Atalanta - Bayern München - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Barcelona - Meistaradeild Evrópu - synsport
@@ -82,6 +32,15 @@ DTEND:20260310T205000
 DTSTAMP:20260310T195000Z
 UID:2026-03-10T19:50:00/Atletico Madrid - Tottenham
 DESCRIPTION:Atletico Madrid - Tottenham - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atalanta - Bayern München - Meistaradeild Evrópu - synsportviapl
+ ay
+DTSTART:20260310T195000
+DTEND:20260310T205000
+DTSTAMP:20260310T195000Z
+UID:2026-03-10T19:50:00/Atalanta - Bayern München
+DESCRIPTION:Atalanta - Bayern München - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
@@ -116,14 +75,6 @@ UID:2026-03-11T19:30:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Madrid - Man. City - Meistaradeild Evrópu - synsport
-DTSTART:20260311T195000
-DTEND:20260311T205000
-DTSTAMP:20260311T195000Z
-UID:2026-03-11T19:50:00/Real Madrid - Man. City
-DESCRIPTION:Real Madrid - Man. City - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bodö/Glimt - Sporting - Meistaradeild Evrópu - synsport2
 DTSTART:20260311T195000
 DTEND:20260311T205000
@@ -138,6 +89,14 @@ DTEND:20260311T205000
 DTSTAMP:20260311T195000Z
 UID:2026-03-11T19:50:00/PSG - Chelsea
 DESCRIPTION:PSG - Chelsea - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid - Man. City - Meistaradeild Evrópu - synsport
+DTSTART:20260311T195000
+DTEND:20260311T205000
+DTSTAMP:20260311T195000Z
+UID:2026-03-11T19:50:00/Real Madrid - Man. City
+DESCRIPTION:Real Madrid - Man. City - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
@@ -156,20 +115,20 @@ UID:2026-03-11T23:35:00/Senators - Canadiens
 DESCRIPTION:Senators - Canadiens - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lille - Aston Villa - Evrópudeildin - synsport
-DTSTART:20260312T173500
-DTEND:20260312T183500
-DTSTAMP:20260312T173500Z
-UID:2026-03-12T17:35:00/Lille - Aston Villa
-DESCRIPTION:Lille - Aston Villa - Evrópudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lech Poznan - Shakhtar - Sambandsdeildin - synsport2
 DTSTART:20260312T173500
 DTEND:20260312T183500
 DTSTAMP:20260312T173500Z
 UID:2026-03-12T17:35:00/Lech Poznan - Shakhtar
 DESCRIPTION:Lech Poznan - Shakhtar - Sambandsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille - Aston Villa - Evrópudeildin - synsport
+DTSTART:20260312T173500
+DTEND:20260312T183500
+DTSTAMP:20260312T173500Z
+UID:2026-03-12T17:35:00/Lille - Aston Villa
+DESCRIPTION:Lille - Aston Villa - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Panathinaikos - Real Betis - Evrópudeildin  - synsportviaplay
@@ -220,6 +179,14 @@ UID:2026-03-12T19:10:00/Skiptiborðið
 DESCRIPTION:Skiptiborðið  - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nott. Forest - Midtjylland - Evrópudeildin  - synsportviaplay
+DTSTART:20260312T195000
+DTEND:20260312T205000
+DTSTAMP:20260312T195000Z
+UID:2026-03-12T19:50:00/Nott. Forest - Midtjylland
+DESCRIPTION:Nott. Forest - Midtjylland - Evrópudeildin 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Celta - Lyon - Evrópudeildin - synsport
 DTSTART:20260312T195000
 DTEND:20260312T205000
@@ -234,14 +201,6 @@ DTEND:20260312T205000
 DTSTAMP:20260312T195000Z
 UID:2026-03-12T19:50:00/Fiorentina - Rakow
 DESCRIPTION:Fiorentina - Rakow - Sambandsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nott. Forest - Midtjylland - Evrópudeildin  - synsportviaplay
-DTSTART:20260312T195000
-DTEND:20260312T205000
-DTSTAMP:20260312T195000Z
-UID:2026-03-12T19:50:00/Nott. Forest - Midtjylland
-DESCRIPTION:Nott. Forest - Midtjylland - Evrópudeildin 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tilþrifin  - Bónus deild karla - synsportisland
@@ -356,20 +315,20 @@ UID:2026-03-14T12:25:00/Coventry - Southampton
 DESCRIPTION:Coventry - Southampton - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
-DTSTART:20260314T144000
-DTEND:20260314T154000
-DTSTAMP:20260314T144000Z
-UID:2026-03-14T14:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burnley - Bournemouth - Premier League - synsport2
 DTSTART:20260314T144000
 DTEND:20260314T154000
 DTSTAMP:20260314T144000Z
 UID:2026-03-14T14:40:00/Burnley - Bournemouth
 DESCRIPTION:Burnley - Bournemouth - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20260314T144000
+DTEND:20260314T154000
+DTSTAMP:20260314T144000Z
+UID:2026-03-14T14:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Brighton - Premier League - synsport3
@@ -460,6 +419,14 @@ UID:2026-03-15T06:30:00/F1: Kína - Keppni
 DESCRIPTION:F1: Kína - Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Man. Utd. - Aston Villa - Premier League - synsport
+DTSTART:20260315T134000
+DTEND:20260315T144000
+DTSTAMP:20260315T134000Z
+UID:2026-03-15T13:40:00/Man. Utd. - Aston Villa
+DESCRIPTION:Man. Utd. - Aston Villa - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crystal Palace - Leeds - Premier League - synsport2
 DTSTART:20260315T134000
 DTEND:20260315T144000
@@ -474,14 +441,6 @@ DTEND:20260315T144000
 DTSTAMP:20260315T134000Z
 UID:2026-03-15T13:40:00/Nott. Forest - Fulham
 DESCRIPTION:Nott. Forest - Fulham - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man. Utd. - Aston Villa - Premier League - synsport
-DTSTART:20260315T134000
-DTEND:20260315T144000
-DTSTAMP:20260315T134000Z
-UID:2026-03-15T13:40:00/Man. Utd. - Aston Villa
-DESCRIPTION:Man. Utd. - Aston Villa - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werder Bremen - Mainz 05 - Bundesliga - synsportviaplay
@@ -531,5 +490,29 @@ DTEND:20260316T000500
 DTSTAMP:20260315T230500Z
 UID:2026-03-15T23:05:00/Canadiens - Ducks
 DESCRIPTION:Canadiens - Ducks - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portsmouth - Derby County - EFL Championship - synsportviaplay
+DTSTART:20260316T195000
+DTEND:20260316T205000
+DTSTAMP:20260316T195000Z
+UID:2026-03-16T19:50:00/Portsmouth - Derby County
+DESCRIPTION:Portsmouth - Derby County - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
+DTSTART:20260316T200000
+DTEND:20260316T210000
+DTSTAMP:20260316T200000Z
+UID:2026-03-16T20:00:00/Körfuboltakvöld Extra
+DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Wings - Flames - NHL - synsportviaplay
+DTSTART:20260316T230500
+DTEND:20260317T000500
+DTSTAMP:20260316T230500Z
+UID:2026-03-16T23:05:00/Red Wings - Flames
+DESCRIPTION:Red Wings - Flames - NHL
 END:VEVENT
 END:VCALENDAR
