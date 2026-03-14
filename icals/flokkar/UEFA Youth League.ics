@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - UEFA Youth League - ical
 BEGIN:VEVENT
-SUMMARY:Atlético Madrid - Club Brugge - UEFA Youth League - viaplay
-DTSTART:20260317T125500
-DTEND:20260317T135500
-DTSTAMP:20260317T125500Z
-UID:2026-03-17T12:55:00/Atlético Madrid - Club Brugge
-DESCRIPTION:Atlético Madrid - Club Brugge - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atletico Madrid - Club Brugge - UEFA Youth League - synsport
 DTSTART:20260317T125500
 DTEND:20260317T135500
 DTSTAMP:20260317T125500Z
 UID:2026-03-17T12:55:00/Atletico Madrid - Club Brugge
 DESCRIPTION:Atletico Madrid - Club Brugge - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético Madrid - Club Brugge - UEFA Youth League - viaplay
+DTSTART:20260317T125500
+DTEND:20260317T135500
+DTSTAMP:20260317T125500Z
+UID:2026-03-17T12:55:00/Atlético Madrid - Club Brugge
+DESCRIPTION:Atlético Madrid - Club Brugge - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Villarreal - PSG - UEFA Youth League - synsport
@@ -50,7 +50,7 @@ UID:2026-03-18T12:55:00/Real Madrid - Sporting
 DESCRIPTION:Real Madrid - Sporting - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter - Benfica - UEFA Youth League - viaplay
+SUMMARY:Inter - Benfica - UEFA Youth League - synsport
 DTSTART:20260318T145500
 DTEND:20260318T155500
 DTSTAMP:20260318T145500Z
@@ -58,7 +58,7 @@ UID:2026-03-18T14:55:00/Inter - Benfica
 DESCRIPTION:Inter - Benfica - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter - Benfica - UEFA Youth League - synsport
+SUMMARY:Inter - Benfica - UEFA Youth League - viaplay
 DTSTART:20260318T145500
 DTEND:20260318T155500
 DTSTAMP:20260318T145500Z
