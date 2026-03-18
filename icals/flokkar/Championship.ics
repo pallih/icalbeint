@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
-SUMMARY:Watford - Wrexham - Championship - viaplay
-DTSTART:20260317T194000
-DTEND:20260317T204000
-DTSTAMP:20260317T194000Z
-UID:2026-03-17T19:40:00/Watford - Wrexham
-DESCRIPTION:Watford - Wrexham - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Southampton - Norwich - Championship - viaplay
 DTSTART:20260318T194000
 DTEND:20260318T204000
 DTSTAMP:20260318T194000Z
 UID:2026-03-18T19:40:00/Southampton - Norwich
 DESCRIPTION:Southampton - Norwich - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preston - Stoke - Championship - viaplay
+DTSTART:20260320T195500
+DTEND:20260320T205500
+DTSTAMP:20260320T195500Z
+UID:2026-03-20T19:55:00/Preston - Stoke
+DESCRIPTION:Preston - Stoke - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ipswich - Millwall - Championship - viaplay
@@ -42,22 +42,6 @@ UID:2026-03-21T12:25:00/Blackburn - Middlesbrough
 DESCRIPTION:Blackburn - Middlesbrough - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Oxford United - Championship - viaplay
-DTSTART:20260321T145500
-DTEND:20260321T155500
-DTSTAMP:20260321T145500Z
-UID:2026-03-21T14:55:00/Southampton - Oxford United
-DESCRIPTION:Southampton - Oxford United - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield United - Wrexham - Championship - viaplay
-DTSTART:20260321T145500
-DTEND:20260321T155500
-DTSTAMP:20260321T145500Z
-UID:2026-03-21T14:55:00/Sheffield United - Wrexham
-DESCRIPTION:Sheffield United - Wrexham - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:QPR - Portsmouth - Championship - viaplay
 DTSTART:20260321T145500
 DTEND:20260321T155500
@@ -66,12 +50,20 @@ UID:2026-03-21T14:55:00/QPR - Portsmouth
 DESCRIPTION:QPR - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlton - Norwich - Championship - viaplay
+SUMMARY:Watford - Leicester - Championship - viaplay
 DTSTART:20260321T145500
 DTEND:20260321T155500
 DTSTAMP:20260321T145500Z
-UID:2026-03-21T14:55:00/Charlton - Norwich
-DESCRIPTION:Charlton - Norwich - Championship
+UID:2026-03-21T14:55:00/Watford - Leicester
+DESCRIPTION:Watford - Leicester - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southampton - Oxford United - Championship - viaplay
+DTSTART:20260321T145500
+DTEND:20260321T155500
+DTSTAMP:20260321T145500Z
+UID:2026-03-21T14:55:00/Southampton - Oxford United
+DESCRIPTION:Southampton - Oxford United - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bristol City - West Brom - Championship - viaplay
@@ -82,6 +74,14 @@ UID:2026-03-21T14:55:00/Bristol City - West Brom
 DESCRIPTION:Bristol City - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Charlton - Norwich - Championship - viaplay
+DTSTART:20260321T145500
+DTEND:20260321T155500
+DTSTAMP:20260321T145500Z
+UID:2026-03-21T14:55:00/Charlton - Norwich
+DESCRIPTION:Charlton - Norwich - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hull - Sheffield Wednesday - Championship - viaplay
 DTSTART:20260321T145500
 DTEND:20260321T155500
@@ -90,12 +90,12 @@ UID:2026-03-21T14:55:00/Hull - Sheffield Wednesday
 DESCRIPTION:Hull - Sheffield Wednesday - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Watford - Leicester - Championship - viaplay
+SUMMARY:Sheffield United - Wrexham - Championship - viaplay
 DTSTART:20260321T145500
 DTEND:20260321T155500
 DTSTAMP:20260321T145500Z
-UID:2026-03-21T14:55:00/Watford - Leicester
-DESCRIPTION:Watford - Leicester - Championship
+UID:2026-03-21T14:55:00/Sheffield United - Wrexham
+DESCRIPTION:Sheffield United - Wrexham - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Coventry - Championship - viaplay
