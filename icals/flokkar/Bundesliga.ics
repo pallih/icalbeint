@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Leipzig - Hoffenheim - Bundesliga - viaplay
-DTSTART:20260320T192000
-DTEND:20260320T202000
-DTSTAMP:20260320T192000Z
-UID:2026-03-20T19:20:00/Leipzig - Hoffenheim
-DESCRIPTION:Leipzig - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Leverkusen - Bundesliga - viaplay
+SUMMARY:Köln - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20260321T142000
 DTEND:20260321T152000
 DTSTAMP:20260321T142000Z
-UID:2026-03-21T14:20:00/Heidenheim - Leverkusen
-DESCRIPTION:Heidenheim - Leverkusen - Bundesliga
+UID:2026-03-21T14:20:00/Köln - Mönchengladbach
+DESCRIPTION:Köln - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Union Berlin - Bundesliga - viaplay
@@ -42,12 +34,12 @@ UID:2026-03-21T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Köln - Mönchengladbach - Bundesliga - viaplay
+SUMMARY:Heidenheim - Leverkusen - Bundesliga - viaplay
 DTSTART:20260321T142000
 DTEND:20260321T152000
 DTSTAMP:20260321T142000Z
-UID:2026-03-21T14:20:00/Köln - Mönchengladbach
-DESCRIPTION:Köln - Mönchengladbach - Bundesliga
+UID:2026-03-21T14:20:00/Heidenheim - Leverkusen
+DESCRIPTION:Heidenheim - Leverkusen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dortmund - HSV - Bundesliga - viaplay
@@ -80,5 +72,13 @@ DTEND:20260322T192000
 DTSTAMP:20260322T182000Z
 UID:2026-03-22T18:20:00/Augsburg - Stuttgart
 DESCRIPTION:Augsburg - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melsungen - THW Kiel - Bundesliga - viaplay
+DTSTART:20260327T175500
+DTEND:20260327T185500
+DTSTAMP:20260327T175500Z
+UID:2026-03-27T17:55:00/Melsungen - THW Kiel
+DESCRIPTION:Melsungen - THW Kiel - Bundesliga
 END:VEVENT
 END:VCALENDAR
