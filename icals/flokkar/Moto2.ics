@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Moto2 - ical
 BEGIN:VEVENT
-SUMMARY:Brasilíski Kappaksturinn (Kappakstur) - Moto2 - viaplay
-DTSTART:20260322T160000
-DTEND:20260322T170000
-DTSTAMP:20260322T160000Z
-UID:2026-03-22T16:00:00/Brasilíski Kappaksturinn (Kappakstur)
-DESCRIPTION:Brasilíski Kappaksturinn (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Frjáls æfing 1) - Moto2 - viaplay
 DTSTART:20260327T144500
 DTEND:20260327T154500
@@ -40,5 +32,13 @@ DTEND:20260328T193500
 DTSTAMP:20260328T183500Z
 UID:2026-03-28T18:35:00/Texas Kappaksturinn (Tímatökur)
 DESCRIPTION:Texas Kappaksturinn (Tímatökur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Kappaksturinn (Kappakstur) - Moto2 - viaplay
+DTSTART:20260329T180000
+DTEND:20260329T190000
+DTSTAMP:20260329T180000Z
+UID:2026-03-29T18:00:00/Texas Kappaksturinn (Kappakstur)
+DESCRIPTION:Texas Kappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 END:VCALENDAR
