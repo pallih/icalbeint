@@ -2,60 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Werder Bremen - Bundesliga kvenna - synsportviaplay
-DTSTART:20260323T165500
-DTEND:20260323T175500
-DTSTAMP:20260323T165500Z
-UID:2026-03-23T16:55:00/Union Berlin - Werder Bremen
-DESCRIPTION:Union Berlin - Werder Bremen - Bundesliga kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
-DTSTART:20260323T200000
-DTEND:20260323T210000
-DTSTAMP:20260323T200000Z
-UID:2026-03-23T20:00:00/Körfuboltakvöld Extra
-DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rangers - Senators - NHL - synsportviaplay
-DTSTART:20260323T233500
-DTEND:20260324T003500
-DTSTAMP:20260323T233500Z
-UID:2026-03-23T23:35:00/Rangers - Senators
-DESCRIPTION:Rangers - Senators - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aþena - Njarðvík B - 1. deild kvenna í körfubolta  - kkitv4
-DTSTART:20260324T191500
-DTEND:20260324T201500
-DTSTAMP:20260324T191500Z
-UID:2026-03-24T19:15:00/Aþena - Njarðvík B
-DESCRIPTION:Aþena - Njarðvík B - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór Ak. - Snæfell - 1. deild kvenna í körfubolta  - kkitv2
-DTSTART:20260324T191500
-DTEND:20260324T201500
-DTSTAMP:20260324T191500Z
-UID:2026-03-24T19:15:00/Þór Ak. - Snæfell
-DESCRIPTION:Þór Ak. - Snæfell - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KV - Selfoss - 1. deild kvenna í körfubolta  - kkitv1
-DTSTART:20260324T191500
-DTEND:20260324T201500
-DTSTAMP:20260324T191500Z
-UID:2026-03-24T19:15:00/KV - Selfoss
-DESCRIPTION:KV - Selfoss - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Stjarnan B - 1. deild kvenna í körfubolta  - kkitv3
+SUMMARY:ÍR - Stjarnan B - 1. deild kvenna í körfubolta  - kkitv2
 DTSTART:20260324T191500
 DTEND:20260324T201500
 DTSTAMP:20260324T191500Z
 UID:2026-03-24T19:15:00/ÍR - Stjarnan B
 DESCRIPTION:ÍR - Stjarnan B - 1. deild kvenna í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Ak. - Snæfell - 1. deild kvenna í körfubolta  - kkitv1
+DTSTART:20260324T191500
+DTEND:20260324T201500
+DTSTAMP:20260324T191500Z
+UID:2026-03-24T19:15:00/Þór Ak. - Snæfell
+DESCRIPTION:Þór Ak. - Snæfell - 1. deild kvenna í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bruins - Maple Leafs - NHL - synsportviaplay
@@ -74,14 +34,6 @@ UID:2026-03-25T19:05:00/Haukar - KR
 DESCRIPTION:Haukar - KR - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Valur - Bónus deild kvenna - synsportisland3
-DTSTART:20260325T190500
-DTEND:20260325T200500
-DTSTAMP:20260325T190500Z
-UID:2026-03-25T19:05:00/Njarðvík - Valur
-DESCRIPTION:Njarðvík - Valur - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keflavík - Stjarnan - Bónus deild kvenna - synsportisland4
 DTSTART:20260325T190500
 DTEND:20260325T200500
@@ -98,12 +50,20 @@ UID:2026-03-25T19:05:00/Tindastóll - Hamar/Þór
 DESCRIPTION:Tindastóll - Hamar/Þór - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skiptiborðið - Skiptiborðið - synsportisland
+SUMMARY:Njarðvík - Valur - Bónus deild kvenna - synsportisland3
+DTSTART:20260325T190500
+DTEND:20260325T200500
+DTSTAMP:20260325T190500Z
+UID:2026-03-25T19:05:00/Njarðvík - Valur
+DESCRIPTION:Njarðvík - Valur - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skiptiborðið - Bónus deild kvenna - synsportisland
 DTSTART:20260325T191000
 DTEND:20260325T201000
 DTSTAMP:20260325T191000Z
 UID:2026-03-25T19:10:00/Skiptiborðið
-DESCRIPTION:Skiptiborðið - Skiptiborðið
+DESCRIPTION:Skiptiborðið - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
@@ -156,19 +116,11 @@ DESCRIPTION:Njarðvík - Keflavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - ÍR - Bónus deild karla - synsportisland5
-DTSTART:20260326T190500
-DTEND:20260326T200500
-DTSTAMP:20260326T190500Z
-UID:2026-03-26T19:05:00/Valur - ÍR
+DTSTART:20260326T190000
+DTEND:20260326T200000
+DTSTAMP:20260326T190000Z
+UID:2026-03-26T19:00:00/Valur - ÍR
 DESCRIPTION:Valur - ÍR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grindavík - Þór Þ. - Bónus deild karla - synsportisland3
-DTSTART:20260326T190500
-DTEND:20260326T200500
-DTSTAMP:20260326T190500Z
-UID:2026-03-26T19:05:00/Grindavík - Þór Þ.
-DESCRIPTION:Grindavík - Þór Þ. - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Tindastóll - Bónus deild karla - synsportisland4
@@ -177,6 +129,14 @@ DTEND:20260326T200500
 DTSTAMP:20260326T190500Z
 UID:2026-03-26T19:05:00/KR - Tindastóll
 DESCRIPTION:KR - Tindastóll - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Þór Þ. - Bónus deild karla - synsportisland3
+DTSTART:20260326T190500
+DTEND:20260326T200500
+DTSTAMP:20260326T190500Z
+UID:2026-03-26T19:05:00/Grindavík - Þór Þ.
+DESCRIPTION:Grindavík - Þór Þ. - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið  - Bónus deild karla - synsportisland
@@ -411,5 +371,53 @@ DTEND:20260329T230000
 DTSTAMP:20260329T220000Z
 UID:2026-03-29T22:00:00/Ford Championship
 DESCRIPTION:Ford Championship - LPGA Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamburger - Leverkusen - Bundesliga kvenna - synsportviaplay
+DTSTART:20260330T155500
+DTEND:20260330T165500
+DTSTAMP:20260330T155500Z
+UID:2026-03-30T15:55:00/Hamburger - Leverkusen
+DESCRIPTION:Hamburger - Leverkusen - Bundesliga kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Ísland - Undankeppni EM U21 - synsportisland
+DTSTART:20260330T165500
+DTEND:20260330T175500
+DTSTAMP:20260330T165500Z
+UID:2026-03-30T16:55:00/Frakkland - Ísland
+DESCRIPTION:Frakkland - Ísland - Undankeppni EM U21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þýskaland - Ghana - Vináttulandsleikur - synsportviaplay
+DTSTART:20260330T183500
+DTEND:20260330T193500
+DTSTAMP:20260330T183500Z
+UID:2026-03-30T18:35:00/Þýskaland - Ghana
+DESCRIPTION:Þýskaland - Ghana - Vináttulandsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deild kvenna - Bónus deild kvenna - synsportisland2
+DTSTART:20260330T185000
+DTEND:20260330T195000
+DTSTAMP:20260330T185000Z
+UID:2026-03-30T18:50:00/Bónus deild kvenna
+DESCRIPTION:Bónus deild kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deild kvenna - Bónus deild kvenna - synsportisland
+DTSTART:20260330T192000
+DTEND:20260330T202000
+DTSTAMP:20260330T192000Z
+UID:2026-03-30T19:20:00/Bónus deild kvenna
+DESCRIPTION:Bónus deild kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Islanders - Penguins - NHL - synsportviaplay
+DTSTART:20260330T230500
+DTEND:20260331T000500
+DTSTAMP:20260330T230500Z
+UID:2026-03-30T23:05:00/Islanders - Penguins
+DESCRIPTION:Islanders - Penguins - NHL
 END:VEVENT
 END:VCALENDAR
