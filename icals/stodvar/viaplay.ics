@@ -2,84 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:NHL On The Fly - NHL - viaplay
-DTSTART:20260324T110000
-DTEND:20260324T120000
-DTSTAMP:20260324T110000Z
-UID:2026-03-24T11:00:00/NHL On The Fly
-DESCRIPTION:NHL On The Fly - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rögle - Färjestad - SHL - viaplay
-DTSTART:20260324T175500
-DTEND:20260324T185500
-DTSTAMP:20260324T175500Z
-UID:2026-03-24T17:55:00/Rögle - Färjestad
-DESCRIPTION:Rögle - Färjestad - SHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Detroit - Ottawa - NHL - viaplay
-DTSTART:20260324T230500
-DTEND:20260325T000500
-DTSTAMP:20260324T230500Z
-UID:2026-03-24T23:05:00/Detroit - Ottawa
-DESCRIPTION:Detroit - Ottawa - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Montreal - Carolina - NHL - viaplay
-DTSTART:20260324T230500
-DTEND:20260325T000500
-DTSTAMP:20260324T230500Z
-UID:2026-03-24T23:05:00/Montreal - Carolina
-DESCRIPTION:Montreal - Carolina - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boston - Toronto - NHL - viaplay
-DTSTART:20260324T230500
-DTEND:20260325T000500
-DTSTAMP:20260324T230500Z
-UID:2026-03-24T23:05:00/Boston - Toronto
-DESCRIPTION:Boston - Toronto - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pittsburgh - Colorado - NHL - viaplay
-DTSTART:20260324T230500
-DTEND:20260325T000500
-DTSTAMP:20260324T230500Z
-UID:2026-03-24T23:05:00/Pittsburgh - Colorado
-DESCRIPTION:Pittsburgh - Colorado - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philadelphia - Columbus - NHL - viaplay
-DTSTART:20260324T230500
-DTEND:20260325T000500
-DTSTAMP:20260324T230500Z
-UID:2026-03-24T23:05:00/Philadelphia - Columbus
-DESCRIPTION:Philadelphia - Columbus - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NY Islanders - Chicago - NHL - viaplay
-DTSTART:20260324T230500
-DTEND:20260325T000500
-DTSTAMP:20260324T230500Z
-UID:2026-03-24T23:05:00/NY Islanders - Chicago
-DESCRIPTION:NY Islanders - Chicago - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florida - Seattle - NHL - viaplay
-DTSTART:20260324T230500
-DTEND:20260325T000500
-DTSTAMP:20260324T230500Z
-UID:2026-03-24T23:05:00/Florida - Seattle
-DESCRIPTION:Florida - Seattle - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tampa Bay - Minnesota - NHL - viaplay
-DTSTART:20260324T233500
-DTEND:20260325T003500
-DTSTAMP:20260324T233500Z
-UID:2026-03-24T23:35:00/Tampa Bay - Minnesota
-DESCRIPTION:Tampa Bay - Minnesota - NHL
+SUMMARY:Winnipeg - Vegas - NHL - viaplay
+DTSTART:20260325T000500
+DTEND:20260325T010500
+DTSTAMP:20260325T000500Z
+UID:2026-03-25T00:05:00/Winnipeg - Vegas
+DESCRIPTION:Winnipeg - Vegas - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville - San Jose - NHL - viaplay
@@ -90,14 +18,6 @@ UID:2026-03-25T00:05:00/Nashville - San Jose
 DESCRIPTION:Nashville - San Jose - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis - Washington - NHL - viaplay
-DTSTART:20260325T000500
-DTEND:20260325T010500
-DTSTAMP:20260325T000500Z
-UID:2026-03-25T00:05:00/St. Louis - Washington
-DESCRIPTION:St. Louis - Washington - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dallas - New Jersey - NHL - viaplay
 DTSTART:20260325T000500
 DTEND:20260325T010500
@@ -106,12 +26,12 @@ UID:2026-03-25T00:05:00/Dallas - New Jersey
 DESCRIPTION:Dallas - New Jersey - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winnipeg - Vegas - NHL - viaplay
+SUMMARY:St. Louis - Washington - NHL - viaplay
 DTSTART:20260325T000500
 DTEND:20260325T010500
 DTSTAMP:20260325T000500Z
-UID:2026-03-25T00:05:00/Winnipeg - Vegas
-DESCRIPTION:Winnipeg - Vegas - NHL
+UID:2026-03-25T00:05:00/St. Louis - Washington
+DESCRIPTION:St. Louis - Washington - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary - Los Angeles - NHL - viaplay
@@ -162,6 +82,14 @@ UID:2026-03-25T17:55:00/Skellefteå - Malmö
 DESCRIPTION:Skellefteå - Malmö - SHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dortmund Legends - Benfica Legends - Fótbolti - viaplay
+DTSTART:20260325T175500
+DTEND:20260325T185500
+DTSTAMP:20260325T175500Z
+UID:2026-03-25T17:55:00/Dortmund Legends - Benfica Legends
+DESCRIPTION:Dortmund Legends - Benfica Legends - Fótbolti
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Toronto - NY Rangers - NHL - viaplay
 DTSTART:20260325T233500
 DTEND:20260326T003500
@@ -202,14 +130,6 @@ UID:2026-03-26T16:50:00/Kýpur - Hvíta-Rússland
 DESCRIPTION:Kýpur - Hvíta-Rússland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgía - Ísrael - Landsleikur - viaplay
-DTSTART:20260326T165000
-DTEND:20260326T175000
-DTSTAMP:20260326T165000Z
-UID:2026-03-26T16:50:00/Georgía - Ísrael
-DESCRIPTION:Georgía - Ísrael - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
 DTSTART:20260326T165000
 DTEND:20260326T175000
@@ -224,6 +144,14 @@ DTEND:20260326T175000
 DTSTAMP:20260326T165000Z
 UID:2026-03-26T16:50:00/Malta - Lúxemborg
 DESCRIPTION:Malta - Lúxemborg - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgía - Ísrael - Landsleikur - viaplay
+DTSTART:20260326T165000
+DTEND:20260326T175000
+DTSTAMP:20260326T165000Z
+UID:2026-03-26T16:50:00/Georgía - Ísrael
+DESCRIPTION:Georgía - Ísrael - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tyrkland - Rúmenía - Undankeppni HM - viaplay
@@ -256,22 +184,6 @@ DTEND:20260326T190000
 DTSTAMP:20260326T180000Z
 UID:2026-03-26T18:00:00/Premier League Darts
 DESCRIPTION:Premier League Darts - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wales - Bosnía og Hersegóvína - Undankeppni HM - viaplay
-DTSTART:20260326T193500
-DTEND:20260326T203500
-DTSTAMP:20260326T193500Z
-UID:2026-03-26T19:35:00/Wales - Bosnía og Hersegóvína
-DESCRIPTION:Wales - Bosnía og Hersegóvína - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danmörk - Norður-Makedónía - Undankeppni HM - viaplay
-DTSTART:20260326T193500
-DTEND:20260326T203500
-DTSTAMP:20260326T193500Z
-UID:2026-03-26T19:35:00/Danmörk - Norður-Makedónía
-DESCRIPTION:Danmörk - Norður-Makedónía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Úkraína - Svíþjóð - Undankeppni HM - viaplay
@@ -314,12 +226,36 @@ UID:2026-03-26T19:35:00/Tékkland - Írland
 DESCRIPTION:Tékkland - Írland - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wales - Bosnía og Hersegóvína - Undankeppni HM - viaplay
+DTSTART:20260326T193500
+DTEND:20260326T203500
+DTSTAMP:20260326T193500Z
+UID:2026-03-26T19:35:00/Wales - Bosnía og Hersegóvína
+DESCRIPTION:Wales - Bosnía og Hersegóvína - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Norður-Makedónía - Undankeppni HM - viaplay
+DTSTART:20260326T193500
+DTEND:20260326T203500
+DTSTAMP:20260326T193500Z
+UID:2026-03-26T19:35:00/Danmörk - Norður-Makedónía
+DESCRIPTION:Danmörk - Norður-Makedónía - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tampa Bay - Seattle - NHL - viaplay
 DTSTART:20260326T230500
 DTEND:20260327T000500
 DTSTAMP:20260326T230500Z
 UID:2026-03-26T23:05:00/Tampa Bay - Seattle
 DESCRIPTION:Tampa Bay - Seattle - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montreal - Columbus - NHL - viaplay
+DTSTART:20260326T230500
+DTEND:20260327T000500
+DTSTAMP:20260326T230500Z
+UID:2026-03-26T23:05:00/Montreal - Columbus
+DESCRIPTION:Montreal - Columbus - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ottawa - Pittsburgh - NHL - viaplay
@@ -330,12 +266,12 @@ UID:2026-03-26T23:05:00/Ottawa - Pittsburgh
 DESCRIPTION:Ottawa - Pittsburgh - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Montreal - Columbus - NHL - viaplay
+SUMMARY:Philadelphia - Chicago - NHL - viaplay
 DTSTART:20260326T230500
 DTEND:20260327T000500
 DTSTAMP:20260326T230500Z
-UID:2026-03-26T23:05:00/Montreal - Columbus
-DESCRIPTION:Montreal - Columbus - NHL
+UID:2026-03-26T23:05:00/Philadelphia - Chicago
+DESCRIPTION:Philadelphia - Chicago - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NY Islanders - Dallas - NHL - viaplay
@@ -354,20 +290,20 @@ UID:2026-03-26T23:05:00/Florida - Minnesota
 DESCRIPTION:Florida - Minnesota - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia - Chicago - NHL - viaplay
-DTSTART:20260326T230500
-DTEND:20260327T000500
-DTSTAMP:20260326T230500Z
-UID:2026-03-26T23:05:00/Philadelphia - Chicago
-DESCRIPTION:Philadelphia - Chicago - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Króatía - Kólumbía - Landsleikur - viaplay
 DTSTART:20260326T232000
 DTEND:20260327T002000
 DTSTAMP:20260326T232000Z
 UID:2026-03-26T23:20:00/Króatía - Kólumbía
 DESCRIPTION:Króatía - Kólumbía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville - New Jersey - NHL - viaplay
+DTSTART:20260327T000500
+DTEND:20260327T010500
+DTSTAMP:20260327T000500Z
+UID:2026-03-27T00:05:00/Nashville - New Jersey
+DESCRIPTION:Nashville - New Jersey - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winnipeg - Colorado - NHL - viaplay
@@ -384,14 +320,6 @@ DTEND:20260327T010500
 DTSTAMP:20260327T000500Z
 UID:2026-03-27T00:05:00/St. Louis - San Jose
 DESCRIPTION:St. Louis - San Jose - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nashville - New Jersey - NHL - viaplay
-DTSTART:20260327T000500
-DTEND:20260327T010500
-DTSTAMP:20260327T000500Z
-UID:2026-03-27T00:05:00/Nashville - New Jersey
-DESCRIPTION:Nashville - New Jersey - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary - Anaheim - NHL - viaplay
@@ -434,28 +362,20 @@ UID:2026-03-27T02:25:00/Japanski Kappaksturinn (Æfing 1)
 DESCRIPTION:Japanski Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Japanski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260327T023000
-DTEND:20260327T033000
-DTSTAMP:20260327T023000Z
-UID:2026-03-27T02:30:00/Pitlane (Japanski Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Japanski Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Japanski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260327T023000
-DTEND:20260327T033000
-DTSTAMP:20260327T023000Z
-UID:2026-03-27T02:30:00/Timing (Japanski Kappaksturinn | Æfing 1)
-DESCRIPTION:Timing (Japanski Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Japanski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20260327T023000
 DTEND:20260327T033000
 DTSTAMP:20260327T023000Z
 UID:2026-03-27T02:30:00/Onboard (Japanski Kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Japanski Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Japanski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260327T023000
+DTEND:20260327T033000
+DTSTAMP:20260327T023000Z
+UID:2026-03-27T02:30:00/Pitlane (Japanski Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Japanski Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Japanski Kappaksturinn | Æfing 1) - Formula 1 
@@ -469,12 +389,31 @@ DESCRIPTION:Track Positioning (Japanski Kappaksturinn | Æfing 1) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Japanski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260327T023000
+DTEND:20260327T033000
+DTSTAMP:20260327T023000Z
+UID:2026-03-27T02:30:00/Timing (Japanski Kappaksturinn | Æfing 1)
+DESCRIPTION:Timing (Japanski Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Japanski Kappaksturinn (Æfing 2) - Formula 1 - viaplay
 DTSTART:20260327T055500
 DTEND:20260327T065500
 DTSTAMP:20260327T055500Z
 UID:2026-03-27T05:55:00/Japanski Kappaksturinn (Æfing 2)
 DESCRIPTION:Japanski Kappaksturinn (Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Japanski Kappaksturinn | Æfing 2) - Formula 1 
+ - viaplay
+DTSTART:20260327T060000
+DTEND:20260327T070000
+DTSTAMP:20260327T060000Z
+UID:2026-03-27T06:00:00/Track Positioning (Japanski Kappaksturinn | Æfing
+  2)
+DESCRIPTION:Track Positioning (Japanski Kappaksturinn | Æfing 2) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Japanski Kappaksturinn | Æfing 2) - Formula 1 - viaplay
@@ -499,17 +438,6 @@ DTEND:20260327T070000
 DTSTAMP:20260327T060000Z
 UID:2026-03-27T06:00:00/Pitlane (Japanski Kappaksturinn | Æfing 2)
 DESCRIPTION:Pitlane (Japanski Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Japanski Kappaksturinn | Æfing 2) - Formula 1 
- - viaplay
-DTSTART:20260327T060000
-DTEND:20260327T070000
-DTSTAMP:20260327T060000Z
-UID:2026-03-27T06:00:00/Track Positioning (Japanski Kappaksturinn | Æfing
-  2)
-DESCRIPTION:Track Positioning (Japanski Kappaksturinn | Æfing 2) - Formul
- a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pirelli Portuguese Round (Frjáls æfing 1) - FIM Superbike World 
@@ -670,20 +598,20 @@ UID:2026-03-27T19:35:00/Holland - Noregur
 DESCRIPTION:Holland - Noregur - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sviss - Þýskaland - Landsleikur - viaplay
-DTSTART:20260327T193500
-DTEND:20260327T203500
-DTSTAMP:20260327T193500Z
-UID:2026-03-27T19:35:00/Sviss - Þýskaland
-DESCRIPTION:Sviss - Þýskaland - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:England - Úrúgvæ - Landsleikur - viaplay
 DTSTART:20260327T193500
 DTEND:20260327T203500
 DTSTAMP:20260327T193500Z
 UID:2026-03-27T19:35:00/England - Úrúgvæ
 DESCRIPTION:England - Úrúgvæ - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sviss - Þýskaland - Landsleikur - viaplay
+DTSTART:20260327T193500
+DTEND:20260327T203500
+DTSTAMP:20260327T193500Z
+UID:2026-03-27T19:35:00/Sviss - Þýskaland
+DESCRIPTION:Sviss - Þýskaland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - Landsleikur - viaplay
@@ -694,14 +622,6 @@ UID:2026-03-27T19:35:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spánn - Serbía - Landsleikur - viaplay
-DTSTART:20260327T195000
-DTEND:20260327T205000
-DTSTAMP:20260327T195000Z
-UID:2026-03-27T19:50:00/Spánn - Serbía
-DESCRIPTION:Spánn - Serbía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Æfing) - MotoGP - viaplay
 DTSTART:20260327T195000
 DTEND:20260327T205000
@@ -710,12 +630,12 @@ UID:2026-03-27T19:50:00/Texas Kappaksturinn (Æfing)
 DESCRIPTION:Texas Kappaksturinn (Æfing) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Buffalo - Detroit - NHL - viaplay
-DTSTART:20260327T230500
-DTEND:20260328T000500
-DTSTAMP:20260327T230500Z
-UID:2026-03-27T23:05:00/Buffalo - Detroit
-DESCRIPTION:Buffalo - Detroit - NHL
+SUMMARY:Spánn - Serbía - Landsleikur - viaplay
+DTSTART:20260327T195000
+DTEND:20260327T205000
+DTSTAMP:20260327T195000Z
+UID:2026-03-27T19:50:00/Spánn - Serbía
+DESCRIPTION:Spánn - Serbía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NY Rangers - Chicago - NHL - viaplay
@@ -724,6 +644,14 @@ DTEND:20260328T000500
 DTSTAMP:20260327T230500Z
 UID:2026-03-27T23:05:00/NY Rangers - Chicago
 DESCRIPTION:NY Rangers - Chicago - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo - Detroit - NHL - viaplay
+DTSTART:20260327T230500
+DTEND:20260328T000500
+DTSTAMP:20260327T230500Z
+UID:2026-03-27T23:05:00/Buffalo - Detroit
+DESCRIPTION:Buffalo - Detroit - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japanski Kappaksturinn (Æfing 3) - Formula 1 - viaplay
@@ -742,12 +670,12 @@ UID:2026-03-28T02:30:00/Timing (Japanski Kappaksturinn | Æfing 3)
 DESCRIPTION:Timing (Japanski Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Japanski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+SUMMARY:Pitlane (Japanski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20260328T023000
 DTEND:20260328T033000
 DTSTAMP:20260328T023000Z
-UID:2026-03-28T02:30:00/Onboard (Japanski Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Japanski Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-03-28T02:30:00/Pitlane (Japanski Kappaksturinn | Æfing 3)
+DESCRIPTION:Pitlane (Japanski Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Japanski Kappaksturinn | Æfing 3) - Formula 1 
@@ -761,12 +689,12 @@ DESCRIPTION:Track Positioning (Japanski Kappaksturinn | Æfing 3) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Japanski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+SUMMARY:Onboard (Japanski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20260328T023000
 DTEND:20260328T033000
 DTSTAMP:20260328T023000Z
-UID:2026-03-28T02:30:00/Pitlane (Japanski Kappaksturinn | Æfing 3)
-DESCRIPTION:Pitlane (Japanski Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-03-28T02:30:00/Onboard (Japanski Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Japanski Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phillip Island (Kappakstur 1) - Ferrari Challenge Australasia - vi
@@ -795,13 +723,13 @@ UID:2026-03-28T06:00:00/Timing (Japanski Kappaksturinn | Tímatökur)
 DESCRIPTION:Timing (Japanski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Japanski Kappaksturinn | Tímatökur) - Formula 1 - viapl
+SUMMARY:Pitlane (Japanski Kappaksturinn | Tímatökur) - Formula 1 - viapl
  ay
 DTSTART:20260328T060000
 DTEND:20260328T070000
 DTSTAMP:20260328T060000Z
-UID:2026-03-28T06:00:00/Onboard (Japanski Kappaksturinn | Tímatökur)
-DESCRIPTION:Onboard (Japanski Kappaksturinn | Tímatökur) - Formula 1
+UID:2026-03-28T06:00:00/Pitlane (Japanski Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Japanski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Japanski Kappaksturinn | Tímatökur) - Formula
@@ -815,13 +743,13 @@ DESCRIPTION:Track Positioning (Japanski Kappaksturinn | Tímatökur) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Japanski Kappaksturinn | Tímatökur) - Formula 1 - viapl
+SUMMARY:Onboard (Japanski Kappaksturinn | Tímatökur) - Formula 1 - viapl
  ay
 DTSTART:20260328T060000
 DTEND:20260328T070000
 DTSTAMP:20260328T060000Z
-UID:2026-03-28T06:00:00/Pitlane (Japanski Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Japanski Kappaksturinn | Tímatökur) - Formula 1
+UID:2026-03-28T06:00:00/Onboard (Japanski Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Japanski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pirelli Portuguese Round (Frjáls æfing 3) - FIM Superbike World 
@@ -850,6 +778,14 @@ DTSTAMP:20260328T111500Z
 UID:2026-03-28T11:15:00/Pirelli Portuguese Round (Tissot Superpole)
 DESCRIPTION:Pirelli Portuguese Round (Tissot Superpole) - FIM Superbike Wo
  rld Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Football Friendlies: Highlights - Landsleikur - viaplay
+DTSTART:20260328T112000
+DTEND:20260328T122000
+DTSTAMP:20260328T112000Z
+UID:2026-03-28T11:20:00/Football Friendlies: Highlights
+DESCRIPTION:Football Friendlies: Highlights - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AIK - Norrköping - OBOS Damallsvenskan - viaplay
@@ -884,20 +820,20 @@ UID:2026-03-28T13:35:00/Texas Kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Texas Kappaksturinn (Frjáls æfing 2) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Marínó - Færeyjar - Landsleikur - viaplay
-DTSTART:20260328T135000
-DTEND:20260328T145000
-DTSTAMP:20260328T135000Z
-UID:2026-03-28T13:50:00/San Marínó - Færeyjar
-DESCRIPTION:San Marínó - Færeyjar - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eskilstuna United - Vittsjö - OBOS Damallsvenskan - viaplay
 DTSTART:20260328T135000
 DTEND:20260328T145000
 DTSTAMP:20260328T135000Z
 UID:2026-03-28T13:50:00/Eskilstuna United - Vittsjö
 DESCRIPTION:Eskilstuna United - Vittsjö - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marínó - Færeyjar - Landsleikur - viaplay
+DTSTART:20260328T135000
+DTEND:20260328T145000
+DTSTAMP:20260328T135000Z
+UID:2026-03-28T13:50:00/San Marínó - Færeyjar
+DESCRIPTION:San Marínó - Færeyjar - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barber (Tímatökur) - Indy NXT - viaplay
@@ -924,13 +860,12 @@ UID:2026-03-28T14:20:00/Texas Kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Texas Kappaksturinn (Frjáls æfing 2) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Children's of Alabama Indy Grand Prix (Æfing 2) - IndyCar - viapl
- ay
+SUMMARY:Magdeburg - Füchse Berlin - Bundesliga - viaplay
 DTSTART:20260328T150000
 DTEND:20260328T160000
 DTSTAMP:20260328T150000Z
-UID:2026-03-28T15:00:00/Children's of Alabama Indy Grand Prix (Æfing 2)
-DESCRIPTION:Children's of Alabama Indy Grand Prix (Æfing 2) - IndyCar
+UID:2026-03-28T15:00:00/Magdeburg - Füchse Berlin
+DESCRIPTION:Magdeburg - Füchse Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Frjáls æfing 2) - MotoGP - viaplay
@@ -941,12 +876,13 @@ UID:2026-03-28T15:00:00/Texas Kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Texas Kappaksturinn (Frjáls æfing 2) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Füchse Berlin - Bundesliga - viaplay
+SUMMARY:Children's of Alabama Indy Grand Prix (Æfing 2) - IndyCar - viapl
+ ay
 DTSTART:20260328T150000
 DTEND:20260328T160000
 DTSTAMP:20260328T150000Z
-UID:2026-03-28T15:00:00/Magdeburg - Füchse Berlin
-DESCRIPTION:Magdeburg - Füchse Berlin - Bundesliga
+UID:2026-03-28T15:00:00/Children's of Alabama Indy Grand Prix (Æfing 2)
+DESCRIPTION:Children's of Alabama Indy Grand Prix (Æfing 2) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pirelli Portuguese Round (Kappakstur 1) - FIM Superbike World Cham
@@ -975,14 +911,6 @@ UID:2026-03-28T16:00:00/Dubai World Cup
 DESCRIPTION:Dubai World Cup - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kanada - Ísland - Landsleikur - viaplay
-DTSTART:20260328T165000
-DTEND:20260328T175000
-DTSTAMP:20260328T165000Z
-UID:2026-03-28T16:50:00/Kanada - Ísland
-DESCRIPTION:Kanada - Ísland - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skotland - Japan - Landsleikur - viaplay
 DTSTART:20260328T165000
 DTEND:20260328T175000
@@ -997,6 +925,14 @@ DTEND:20260328T175000
 DTSTAMP:20260328T165000Z
 UID:2026-03-28T16:50:00/Ungverjaland - Slóvenía
 DESCRIPTION:Ungverjaland - Slóvenía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kanada - Ísland - Landsleikur - viaplay
+DTSTART:20260328T165000
+DTEND:20260328T175000
+DTSTAMP:20260328T165000Z
+UID:2026-03-28T16:50:00/Kanada - Ísland
+DESCRIPTION:Kanada - Ísland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barber (Kappakstur 1) - Indy NXT - viaplay
@@ -1031,14 +967,6 @@ UID:2026-03-28T17:40:00/Texas Kappaksturinn (Tímatökur)
 DESCRIPTION:Texas Kappaksturinn (Tímatökur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20260328T183000
-DTEND:20260328T193000
-DTSTAMP:20260328T183000Z
-UID:2026-03-28T18:30:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Children's of Alabama Indy Grand Prix (Tímatökur) - IndyCar - vi
  aplay
 DTSTART:20260328T183000
@@ -1047,6 +975,14 @@ DTSTAMP:20260328T183000Z
 UID:2026-03-28T18:30:00/Children's of Alabama Indy Grand Prix (Tímatökur
  )
 DESCRIPTION:Children's of Alabama Indy Grand Prix (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20260328T183000
+DTEND:20260328T193000
+DTSTAMP:20260328T183000Z
+UID:2026-03-28T18:30:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Tímatökur) - Moto2 - viaplay
@@ -1073,12 +1009,12 @@ UID:2026-03-28T19:35:00/Texas Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Texas Kappaksturinn (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boston - Minnesota - NHL - viaplay
+SUMMARY:Pittsburgh - Dallas - NHL - viaplay
 DTSTART:20260328T210500
 DTEND:20260328T220500
 DTSTAMP:20260328T210500Z
-UID:2026-03-28T21:05:00/Boston - Minnesota
-DESCRIPTION:Boston - Minnesota - NHL
+UID:2026-03-28T21:05:00/Pittsburgh - Dallas
+DESCRIPTION:Pittsburgh - Dallas - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus - San Jose - NHL - viaplay
@@ -1097,12 +1033,12 @@ UID:2026-03-28T21:05:00/Carolina - New Jersey
 DESCRIPTION:Carolina - New Jersey - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pittsburgh - Dallas - NHL - viaplay
+SUMMARY:Boston - Minnesota - NHL - viaplay
 DTSTART:20260328T210500
 DTEND:20260328T220500
 DTSTAMP:20260328T210500Z
-UID:2026-03-28T21:05:00/Pittsburgh - Dallas
-DESCRIPTION:Pittsburgh - Dallas - NHL
+UID:2026-03-28T21:05:00/Boston - Minnesota
+DESCRIPTION:Boston - Minnesota - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buffalo - Seattle - NHL - viaplay
@@ -1111,6 +1047,14 @@ DTEND:20260328T223500
 DTSTAMP:20260328T213500Z
 UID:2026-03-28T21:35:00/Buffalo - Seattle
 DESCRIPTION:Buffalo - Seattle - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis - Toronto - NHL - viaplay
+DTSTART:20260328T230500
+DTEND:20260329T000500
+DTSTAMP:20260328T230500Z
+UID:2026-03-28T23:05:00/St. Louis - Toronto
+DESCRIPTION:St. Louis - Toronto - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado - Winnipeg - NHL - viaplay
@@ -1127,14 +1071,6 @@ DTEND:20260329T000500
 DTSTAMP:20260328T230500Z
 UID:2026-03-28T23:05:00/Nashville - Montreal
 DESCRIPTION:Nashville - Montreal - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St. Louis - Toronto - NHL - viaplay
-DTSTART:20260328T230500
-DTEND:20260329T000500
-DTSTAMP:20260328T230500Z
-UID:2026-03-28T23:05:00/St. Louis - Toronto
-DESCRIPTION:St. Louis - Toronto - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detroit - Philadelphia - NHL - viaplay
@@ -1194,23 +1130,13 @@ UID:2026-03-29T04:30:00/Japanski Kappaksturinn (Kappakstur)
 DESCRIPTION:Japanski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Japanski Kappaksturinn | Kappakstur) - Formula 
- 1 - viaplay
+SUMMARY:Pitlane (Japanski Kappaksturinn | Kappakstur) - Formula 1 - viapla
+ y
 DTSTART:20260329T050000
 DTEND:20260329T060000
 DTSTAMP:20260329T050000Z
-UID:2026-03-29T05:00:00/Track Positioning (Japanski Kappaksturinn | Kappak
- stur)
-DESCRIPTION:Track Positioning (Japanski Kappaksturinn | Kappakstur) - Form
- ula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Japanski Kappaksturinn | Kappakstur) - Formula 1 - viaplay
-DTSTART:20260329T050000
-DTEND:20260329T060000
-DTSTAMP:20260329T050000Z
-UID:2026-03-29T05:00:00/Timing (Japanski Kappaksturinn | Kappakstur)
-DESCRIPTION:Timing (Japanski Kappaksturinn | Kappakstur) - Formula 1
+UID:2026-03-29T05:00:00/Pitlane (Japanski Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Japanski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Japanski Kappaksturinn | Kappakstur) - Formula 1 - viapla
@@ -1222,13 +1148,23 @@ UID:2026-03-29T05:00:00/Onboard (Japanski Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Japanski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Japanski Kappaksturinn | Kappakstur) - Formula 1 - viapla
- y
+SUMMARY:Timing (Japanski Kappaksturinn | Kappakstur) - Formula 1 - viaplay
 DTSTART:20260329T050000
 DTEND:20260329T060000
 DTSTAMP:20260329T050000Z
-UID:2026-03-29T05:00:00/Pitlane (Japanski Kappaksturinn | Kappakstur)
-DESCRIPTION:Pitlane (Japanski Kappaksturinn | Kappakstur) - Formula 1
+UID:2026-03-29T05:00:00/Timing (Japanski Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Japanski Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Japanski Kappaksturinn | Kappakstur) - Formula 
+ 1 - viaplay
+DTSTART:20260329T050000
+DTEND:20260329T060000
+DTSTAMP:20260329T050000Z
+UID:2026-03-29T05:00:00/Track Positioning (Japanski Kappaksturinn | Kappak
+ stur)
+DESCRIPTION:Track Positioning (Japanski Kappaksturinn | Kappakstur) - Form
+ ula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL On The Fly - NHL - viaplay
@@ -1249,20 +1185,20 @@ DESCRIPTION:Pirelli Portuguese Round (Tissot Superpole Race) - FIM Superbi
  ke World Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Football Friendlies: Highlights - Landsleikur - viaplay
+DTSTART:20260329T105000
+DTEND:20260329T115000
+DTSTAMP:20260329T105000Z
+UID:2026-03-29T10:50:00/Football Friendlies: Highlights
+DESCRIPTION:Football Friendlies: Highlights - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Piteå - Kristianstad - OBOS Damallsvenskan - viaplay
 DTSTART:20260329T115000
 DTEND:20260329T125000
 DTSTAMP:20260329T115000Z
 UID:2026-03-29T11:50:00/Piteå - Kristianstad
 DESCRIPTION:Piteå - Kristianstad - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Litháen - Georgía - Landsleikur - viaplay
-DTSTART:20260329T125000
-DTEND:20260329T135000
-DTSTAMP:20260329T125000Z
-UID:2026-03-29T12:50:00/Litháen - Georgía
-DESCRIPTION:Litháen - Georgía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Djurgården - Växjö - OBOS Damallsvenskan - viaplay
@@ -1273,6 +1209,14 @@ UID:2026-03-29T12:50:00/Djurgården - Växjö
 DESCRIPTION:Djurgården - Växjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Litháen - Georgía - Landsleikur - viaplay
+DTSTART:20260329T125000
+DTEND:20260329T135000
+DTSTAMP:20260329T125000Z
+UID:2026-03-29T12:50:00/Litháen - Georgía
+DESCRIPTION:Litháen - Georgía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Malmö FF - Uppsala - OBOS Damallsvenskan - viaplay
 DTSTART:20260329T125000
 DTEND:20260329T135000
@@ -1281,20 +1225,20 @@ UID:2026-03-29T12:50:00/Malmö FF - Uppsala
 DESCRIPTION:Malmö FF - Uppsala - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hammarby - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20260329T135000
-DTEND:20260329T145000
-DTSTAMP:20260329T135000Z
-UID:2026-03-29T13:50:00/Hammarby - Rosengård
-DESCRIPTION:Hammarby - Rosengård - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Armenía - Hvíta-Rússland - Landsleikur - viaplay
 DTSTART:20260329T135000
 DTEND:20260329T145000
 DTSTAMP:20260329T135000Z
 UID:2026-03-29T13:50:00/Armenía - Hvíta-Rússland
 DESCRIPTION:Armenía - Hvíta-Rússland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hammarby - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20260329T135000
+DTEND:20260329T145000
+DTSTAMP:20260329T135000Z
+UID:2026-03-29T13:50:00/Hammarby - Rosengård
+DESCRIPTION:Hammarby - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Malmö - Skellefteå - SHL - viaplay
@@ -1389,20 +1333,20 @@ UID:2026-03-29T19:15:00/Texas Kappaksturinn (Kappakstur)
 DESCRIPTION:Texas Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tampa Bay - Nashville - NHL - viaplay
-DTSTART:20260329T210500
-DTEND:20260329T220500
-DTSTAMP:20260329T210500Z
-UID:2026-03-29T21:05:00/Tampa Bay - Nashville
-DESCRIPTION:Tampa Bay - Nashville - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carolina - Montreal - NHL - viaplay
 DTSTART:20260329T210500
 DTEND:20260329T220500
 DTSTAMP:20260329T210500Z
 UID:2026-03-29T21:05:00/Carolina - Montreal
 DESCRIPTION:Carolina - Montreal - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay - Nashville - NHL - viaplay
+DTSTART:20260329T210500
+DTEND:20260329T220500
+DTSTAMP:20260329T210500Z
+UID:2026-03-29T21:05:00/Tampa Bay - Nashville
+DESCRIPTION:Tampa Bay - Nashville - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus - Boston - NHL - viaplay
@@ -1413,20 +1357,20 @@ UID:2026-03-29T21:05:00/Columbus - Boston
 DESCRIPTION:Columbus - Boston - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia - Dallas - NHL - viaplay
-DTSTART:20260329T230500
-DTEND:20260330T000500
-DTSTAMP:20260329T230500Z
-UID:2026-03-29T23:05:00/Philadelphia - Dallas
-DESCRIPTION:Philadelphia - Dallas - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New Jersey - Chicago - NHL - viaplay
 DTSTART:20260329T230500
 DTEND:20260330T000500
 DTSTAMP:20260329T230500Z
 UID:2026-03-29T23:05:00/New Jersey - Chicago
 DESCRIPTION:New Jersey - Chicago - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia - Dallas - NHL - viaplay
+DTSTART:20260329T230500
+DTEND:20260330T000500
+DTSTAMP:20260329T230500Z
+UID:2026-03-29T23:05:00/Philadelphia - Dallas
+DESCRIPTION:Philadelphia - Dallas - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NHL On The Fly - NHL - viaplay
@@ -1475,5 +1419,205 @@ DTEND:20260331T000500
 DTSTAMP:20260330T230500Z
 UID:2026-03-30T23:05:00/NY Islanders - Pittsburgh
 DESCRIPTION:NY Islanders - Pittsburgh - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado - Calgary - NHL - viaplay
+DTSTART:20260331T003500
+DTEND:20260331T013500
+DTSTAMP:20260331T003500Z
+UID:2026-03-31T00:35:00/Colorado - Calgary
+DESCRIPTION:Colorado - Calgary - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose - St. Louis - NHL - viaplay
+DTSTART:20260331T020500
+DTEND:20260331T030500
+DTSTAMP:20260331T020500Z
+UID:2026-03-31T02:05:00/San Jose - St. Louis
+DESCRIPTION:San Jose - St. Louis - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anaheim - Toronto - NHL - viaplay
+DTSTART:20260331T020500
+DTEND:20260331T030500
+DTSTAMP:20260331T020500Z
+UID:2026-03-31T02:05:00/Anaheim - Toronto
+DESCRIPTION:Anaheim - Toronto - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vegas - Vancouver - NHL - viaplay
+DTSTART:20260331T020500
+DTEND:20260331T030500
+DTSTAMP:20260331T020500Z
+UID:2026-03-31T02:05:00/Vegas - Vancouver
+DESCRIPTION:Vegas - Vancouver - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL On The Fly - NHL - viaplay
+DTSTART:20260331T100000
+DTEND:20260331T110000
+DTSTAMP:20260331T100000Z
+UID:2026-03-31T10:00:00/NHL On The Fly
+DESCRIPTION:NHL On The Fly - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lúxemborg - Malta - UEFA Nations League - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Lúxemborg - Malta
+DESCRIPTION:Lúxemborg - Malta - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noregur - Sviss - Landsleikur - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Noregur - Sviss
+DESCRIPTION:Noregur - Sviss - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lettland - Gíbraltar - UEFA Nations League - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Lettland - Gíbraltar
+DESCRIPTION:Lettland - Gíbraltar - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marínó - Andorra - Landsleikur - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/San Marínó - Andorra
+DESCRIPTION:San Marínó - Andorra - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svartfjallaland - Slóvenía - Landsleikur - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Svartfjallaland - Slóvenía
+DESCRIPTION:Svartfjallaland - Slóvenía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serbía - Sádi-Arabía - Landsleikur - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Serbía - Sádi-Arabía
+DESCRIPTION:Serbía - Sádi-Arabía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haiti - Ísland - Landsleikur - viaplay
+DTSTART:20260331T161500
+DTEND:20260331T171500
+DTSTAMP:20260331T161500Z
+UID:2026-03-31T16:15:00/Haiti - Ísland
+DESCRIPTION:Haiti - Ísland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverjaland - Grikkland - Landsleikur - viaplay
+DTSTART:20260331T165000
+DTEND:20260331T175000
+DTSTAMP:20260331T165000Z
+UID:2026-03-31T16:50:00/Ungverjaland - Grikkland
+DESCRIPTION:Ungverjaland - Grikkland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Ecuador - Landsleikur - viaplay
+DTSTART:20260331T183500
+DTEND:20260331T193500
+DTSTAMP:20260331T183500Z
+UID:2026-03-31T18:35:00/Holland - Ecuador
+DESCRIPTION:Holland - Ecuador - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:England - Japan - Landsleikur - viaplay
+DTSTART:20260331T183500
+DTEND:20260331T193500
+DTSTAMP:20260331T183500Z
+UID:2026-03-31T18:35:00/England - Japan
+DESCRIPTION:England - Japan - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríki - Suður-Kórea - Landsleikur - viaplay
+DTSTART:20260331T183500
+DTEND:20260331T193500
+DTSTAMP:20260331T183500Z
+UID:2026-03-31T18:35:00/Austurríki - Suður-Kórea
+DESCRIPTION:Austurríki - Suður-Kórea - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spánn - Egyptaland - Landsleikur - viaplay
+DTSTART:20260331T185000
+DTEND:20260331T195000
+DTSTAMP:20260331T185000Z
+UID:2026-03-31T18:50:00/Spánn - Egyptaland
+DESCRIPTION:Spánn - Egyptaland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NY Rangers - New Jersey - NHL - viaplay
+DTSTART:20260331T230500
+DTEND:20260401T000500
+DTSTAMP:20260331T230500Z
+UID:2026-03-31T23:05:00/NY Rangers - New Jersey
+DESCRIPTION:NY Rangers - New Jersey - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh - Detroit - NHL - viaplay
+DTSTART:20260331T230500
+DTEND:20260401T000500
+DTSTAMP:20260331T230500Z
+UID:2026-03-31T23:05:00/Pittsburgh - Detroit
+DESCRIPTION:Pittsburgh - Detroit - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington - Philadelphia - NHL - viaplay
+DTSTART:20260331T230500
+DTEND:20260401T000500
+DTSTAMP:20260331T230500Z
+UID:2026-03-31T23:05:00/Washington - Philadelphia
+DESCRIPTION:Washington - Philadelphia - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay - Montreal - NHL - viaplay
+DTSTART:20260331T230500
+DTEND:20260401T000500
+DTSTAMP:20260331T230500Z
+UID:2026-03-31T23:05:00/Tampa Bay - Montreal
+DESCRIPTION:Tampa Bay - Montreal - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo - NY Islanders - NHL - viaplay
+DTSTART:20260331T230500
+DTEND:20260401T000500
+DTSTAMP:20260331T230500Z
+UID:2026-03-31T23:05:00/Buffalo - NY Islanders
+DESCRIPTION:Buffalo - NY Islanders - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston - Dallas - NHL - viaplay
+DTSTART:20260331T230500
+DTEND:20260401T000500
+DTSTAMP:20260331T230500Z
+UID:2026-03-31T23:05:00/Boston - Dallas
+DESCRIPTION:Boston - Dallas - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida - Ottawa - NHL - viaplay
+DTSTART:20260331T230500
+DTEND:20260401T000500
+DTSTAMP:20260331T230500Z
+UID:2026-03-31T23:05:00/Florida - Ottawa
+DESCRIPTION:Florida - Ottawa - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus - Carolina - NHL - viaplay
+DTSTART:20260331T233500
+DTEND:20260401T003500
+DTSTAMP:20260331T233500Z
+UID:2026-03-31T23:35:00/Columbus - Carolina
+DESCRIPTION:Columbus - Carolina - NHL
 END:VEVENT
 END:VCALENDAR

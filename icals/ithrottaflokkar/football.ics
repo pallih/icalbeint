@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:KÞ - Fjölnir - Mjólkurbikarinn - livey
-DTSTART:20260324T193000
-DTEND:20260324T203000
-DTSTAMP:20260324T193000Z
-UID:2026-03-24T19:30:00/KÞ - Fjölnir
-DESCRIPTION:KÞ - Fjölnir - Mjólkurbikarinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kasakstan - Namibía - Landsleikur - viaplay
 DTSTART:20260325T115000
 DTEND:20260325T125000
 DTSTAMP:20260325T115000Z
 UID:2026-03-25T11:50:00/Kasakstan - Namibía
 DESCRIPTION:Kasakstan - Namibía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund Legends - Benfica Legends - Fótbolti - viaplay
+DTSTART:20260325T175500
+DTEND:20260325T185500
+DTSTAMP:20260325T175500Z
+UID:2026-03-25T17:55:00/Dortmund Legends - Benfica Legends
+DESCRIPTION:Dortmund Legends - Benfica Legends - Fótbolti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moldóva - Litháen - Landsleikur - viaplay
@@ -42,14 +42,6 @@ UID:2026-03-26T16:50:00/Kýpur - Hvíta-Rússland
 DESCRIPTION:Kýpur - Hvíta-Rússland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgía - Ísrael - Landsleikur - viaplay
-DTSTART:20260326T165000
-DTEND:20260326T175000
-DTSTAMP:20260326T165000Z
-UID:2026-03-26T16:50:00/Georgía - Ísrael
-DESCRIPTION:Georgía - Ísrael - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Instant Highlights - Undankeppni HM - viaplay
 DTSTART:20260326T165000
 DTEND:20260326T175000
@@ -64,6 +56,14 @@ DTEND:20260326T175000
 DTSTAMP:20260326T165000Z
 UID:2026-03-26T16:50:00/Malta - Lúxemborg
 DESCRIPTION:Malta - Lúxemborg - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgía - Ísrael - Landsleikur - viaplay
+DTSTART:20260326T165000
+DTEND:20260326T175000
+DTSTAMP:20260326T165000Z
+UID:2026-03-26T16:50:00/Georgía - Ísrael
+DESCRIPTION:Georgía - Ísrael - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tyrkland - Rúmenía - Undankeppni HM - viaplay
@@ -96,22 +96,6 @@ DTEND:20260326T200000
 DTSTAMP:20260326T190000Z
 UID:2026-03-26T19:00:00/Grótta - Úlfarnir
 DESCRIPTION:Grótta - Úlfarnir - Mjólkurbikarinn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wales - Bosnía og Hersegóvína - Undankeppni HM - viaplay
-DTSTART:20260326T193500
-DTEND:20260326T203500
-DTSTAMP:20260326T193500Z
-UID:2026-03-26T19:35:00/Wales - Bosnía og Hersegóvína
-DESCRIPTION:Wales - Bosnía og Hersegóvína - Undankeppni HM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danmörk - Norður-Makedónía - Undankeppni HM - viaplay
-DTSTART:20260326T193500
-DTEND:20260326T203500
-DTSTAMP:20260326T193500Z
-UID:2026-03-26T19:35:00/Danmörk - Norður-Makedónía
-DESCRIPTION:Danmörk - Norður-Makedónía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Úkraína - Svíþjóð - Undankeppni HM - viaplay
@@ -152,6 +136,22 @@ DTEND:20260326T203500
 DTSTAMP:20260326T193500Z
 UID:2026-03-26T19:35:00/Tékkland - Írland
 DESCRIPTION:Tékkland - Írland - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wales - Bosnía og Hersegóvína - Undankeppni HM - viaplay
+DTSTART:20260326T193500
+DTEND:20260326T203500
+DTSTAMP:20260326T193500Z
+UID:2026-03-26T19:35:00/Wales - Bosnía og Hersegóvína
+DESCRIPTION:Wales - Bosnía og Hersegóvína - Undankeppni HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Norður-Makedónía - Undankeppni HM - viaplay
+DTSTART:20260326T193500
+DTEND:20260326T203500
+DTSTAMP:20260326T193500Z
+UID:2026-03-26T19:35:00/Danmörk - Norður-Makedónía
+DESCRIPTION:Danmörk - Norður-Makedónía - Undankeppni HM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Króatía - Kólumbía - Landsleikur - viaplay
@@ -235,6 +235,14 @@ UID:2026-03-27T19:35:00/Holland - Noregur
 DESCRIPTION:Holland - Noregur - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:England - Úrúgvæ - Landsleikur - viaplay
+DTSTART:20260327T193500
+DTEND:20260327T203500
+DTSTAMP:20260327T193500Z
+UID:2026-03-27T19:35:00/England - Úrúgvæ
+DESCRIPTION:England - Úrúgvæ - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:England - Úrúgvæ - Æfingaleikur - synsportviaplay
 DTSTART:20260327T193500
 DTEND:20260327T203500
@@ -249,14 +257,6 @@ DTEND:20260327T203500
 DTSTAMP:20260327T193500Z
 UID:2026-03-27T19:35:00/Sviss - Þýskaland
 DESCRIPTION:Sviss - Þýskaland - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:England - Úrúgvæ - Landsleikur - viaplay
-DTSTART:20260327T193500
-DTEND:20260327T203500
-DTSTAMP:20260327T193500Z
-UID:2026-03-27T19:35:00/England - Úrúgvæ
-DESCRIPTION:England - Úrúgvæ - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - Landsleikur - viaplay
@@ -275,6 +275,14 @@ UID:2026-03-27T19:50:00/Spánn - Serbía
 DESCRIPTION:Spánn - Serbía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Football Friendlies: Highlights - Landsleikur - viaplay
+DTSTART:20260328T112000
+DTEND:20260328T122000
+DTSTAMP:20260328T112000Z
+UID:2026-03-28T11:20:00/Football Friendlies: Highlights
+DESCRIPTION:Football Friendlies: Highlights - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIK - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20260328T115000
 DTEND:20260328T125000
@@ -291,14 +299,6 @@ UID:2026-03-28T12:25:00/Harrogate - Notts County
 DESCRIPTION:Harrogate - Notts County - League Two
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Nürnberg - Frauen-Bundesliga - viaplay
-DTSTART:20260328T125500
-DTEND:20260328T135500
-DTSTAMP:20260328T125500Z
-UID:2026-03-28T12:55:00/Bayern München - Nürnberg
-DESCRIPTION:Bayern München - Nürnberg - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - FC Nürnberg - Bundesliga kvenna - synsportviapl
  ay
 DTSTART:20260328T125500
@@ -308,20 +308,12 @@ UID:2026-03-28T12:55:00/Bayern München - FC Nürnberg
 DESCRIPTION:Bayern München - FC Nürnberg - Bundesliga kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lengjubikar kvenna - Lengjubikar kvenna - synsportisland
-DTSTART:20260328T135000
-DTEND:20260328T145000
-DTSTAMP:20260328T135000Z
-UID:2026-03-28T13:50:00/Lengjubikar kvenna
-DESCRIPTION:Lengjubikar kvenna - Lengjubikar kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Marínó - Færeyjar - Landsleikur - viaplay
-DTSTART:20260328T135000
-DTEND:20260328T145000
-DTSTAMP:20260328T135000Z
-UID:2026-03-28T13:50:00/San Marínó - Færeyjar
-DESCRIPTION:San Marínó - Færeyjar - Landsleikur
+SUMMARY:Bayern München - Nürnberg - Frauen-Bundesliga - viaplay
+DTSTART:20260328T125500
+DTEND:20260328T135500
+DTSTAMP:20260328T125500Z
+UID:2026-03-28T12:55:00/Bayern München - Nürnberg
+DESCRIPTION:Bayern München - Nürnberg - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eskilstuna United - Vittsjö - OBOS Damallsvenskan - viaplay
@@ -332,28 +324,76 @@ UID:2026-03-28T13:50:00/Eskilstuna United - Vittsjö
 DESCRIPTION:Eskilstuna United - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leiknir R. - Smári - Mjólkurbikarinn - livey
+SUMMARY:San Marínó - Færeyjar - Landsleikur - viaplay
+DTSTART:20260328T135000
+DTEND:20260328T145000
+DTSTAMP:20260328T135000Z
+UID:2026-03-28T13:50:00/San Marínó - Færeyjar
+DESCRIPTION:San Marínó - Færeyjar - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFA - Sindri - Mjólkurbikarinn - livey
 DTSTART:20260328T140000
 DTEND:20260328T150000
 DTSTAMP:20260328T140000Z
-UID:2026-03-28T14:00:00/Leiknir R. - Smári
-DESCRIPTION:Leiknir R. - Smári - Mjólkurbikarinn
+UID:2026-03-28T14:00:00/KFA - Sindri
+DESCRIPTION:KFA - Sindri - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þróttur R - Víkingur Ó - Mjólkurbikarinn - livey
+DTSTART:20260328T140000
+DTEND:20260328T150000
+DTSTAMP:20260328T140000Z
+UID:2026-03-28T14:00:00/Þróttur R - Víkingur Ó
+DESCRIPTION:Þróttur R - Víkingur Ó - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Völsungur - Kormákur/Hvöt - Mjólkurbikarinn - livey
+DTSTART:20260328T140000
+DTEND:20260328T150000
+DTSTAMP:20260328T140000Z
+UID:2026-03-28T14:00:00/Völsungur - Kormákur/Hvöt
+DESCRIPTION:Völsungur - Kormákur/Hvöt - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ægir - Reynir Sandgerði - Mjólkurbikarinn - livey
+DTSTART:20260328T140000
+DTEND:20260328T150000
+DTSTAMP:20260328T140000Z
+UID:2026-03-28T14:00:00/Ægir - Reynir Sandgerði
+DESCRIPTION:Ægir - Reynir Sandgerði - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Víkingur - Lengjubikarinn - livey
+DTSTART:20260328T143000
+DTEND:20260328T153000
+DTSTAMP:20260328T143000Z
+UID:2026-03-28T14:30:00/Breiðablik - Víkingur
+DESCRIPTION:Breiðablik - Víkingur - Lengjubikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Víkingur R. - Lengjubikar kvenna - synsportisland
+DTSTART:20260328T143000
+DTEND:20260328T153000
+DTSTAMP:20260328T143000Z
+UID:2026-03-28T14:30:00/Breiðablik - Víkingur R.
+DESCRIPTION:Breiðablik - Víkingur R. - Lengjubikar kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leiknir R - Smári - Mjólkurbikarinn - livey
+DTSTART:20260328T160000
+DTEND:20260328T170000
+DTSTAMP:20260328T160000Z
+UID:2026-03-28T16:00:00/Leiknir R - Smári
+DESCRIPTION:Leiknir R - Smári - Mjólkurbikarinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kanada - Ísland - Vináttulandsleikur - synsport
-DTSTART:20260328T164500
-DTEND:20260328T174500
-DTSTAMP:20260328T164500Z
-UID:2026-03-28T16:45:00/Kanada - Ísland
+DTSTART:20260328T163000
+DTEND:20260328T173000
+DTSTAMP:20260328T163000Z
+UID:2026-03-28T16:30:00/Kanada - Ísland
 DESCRIPTION:Kanada - Ísland - Vináttulandsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kanada - Ísland - Landsleikur - viaplay
-DTSTART:20260328T165000
-DTEND:20260328T175000
-DTSTAMP:20260328T165000Z
-UID:2026-03-28T16:50:00/Kanada - Ísland
-DESCRIPTION:Kanada - Ísland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skotland - Japan - Landsleikur - viaplay
@@ -372,6 +412,14 @@ UID:2026-03-28T16:50:00/Ungverjaland - Slóvenía
 DESCRIPTION:Ungverjaland - Slóvenía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kanada - Ísland - Landsleikur - viaplay
+DTSTART:20260328T165000
+DTEND:20260328T175000
+DTSTAMP:20260328T165000Z
+UID:2026-03-28T16:50:00/Kanada - Ísland
+DESCRIPTION:Kanada - Ísland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Champions League weekly - Champions League - viaplay
 DTSTART:20260328T183000
 DTEND:20260328T193000
@@ -380,12 +428,20 @@ UID:2026-03-28T18:30:00/Champions League weekly
 DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitea - Kristianstad - Sænska úrvalsdeildin - synsportviaplay
-DTSTART:20260329T115000
-DTEND:20260329T125000
-DTSTAMP:20260329T115000Z
-UID:2026-03-29T11:50:00/Pitea - Kristianstad
-DESCRIPTION:Pitea - Kristianstad - Sænska úrvalsdeildin
+SUMMARY:Kanada - Ísland: Uppgjör - Landsleikir - Uppgjör - synsport
+DTSTART:20260328T190000
+DTEND:20260328T200000
+DTSTAMP:20260328T190000Z
+UID:2026-03-28T19:00:00/Kanada - Ísland: Uppgjör
+DESCRIPTION:Kanada - Ísland: Uppgjör - Landsleikir - Uppgjör
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Football Friendlies: Highlights - Landsleikur - viaplay
+DTSTART:20260329T105000
+DTEND:20260329T115000
+DTSTAMP:20260329T105000Z
+UID:2026-03-29T10:50:00/Football Friendlies: Highlights
+DESCRIPTION:Football Friendlies: Highlights - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piteå - Kristianstad - OBOS Damallsvenskan - viaplay
@@ -396,12 +452,12 @@ UID:2026-03-29T11:50:00/Piteå - Kristianstad
 DESCRIPTION:Piteå - Kristianstad - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Litháen - Georgía - Landsleikur - viaplay
-DTSTART:20260329T125000
-DTEND:20260329T135000
-DTSTAMP:20260329T125000Z
-UID:2026-03-29T12:50:00/Litháen - Georgía
-DESCRIPTION:Litháen - Georgía - Landsleikur
+SUMMARY:Pitea - Kristianstad - Sænska úrvalsdeildin - synsportviaplay
+DTSTART:20260329T115000
+DTEND:20260329T125000
+DTSTAMP:20260329T115000Z
+UID:2026-03-29T11:50:00/Pitea - Kristianstad
+DESCRIPTION:Pitea - Kristianstad - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Djurgården - Växjö - OBOS Damallsvenskan - viaplay
@@ -412,6 +468,14 @@ UID:2026-03-29T12:50:00/Djurgården - Växjö
 DESCRIPTION:Djurgården - Växjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Litháen - Georgía - Landsleikur - viaplay
+DTSTART:20260329T125000
+DTEND:20260329T135000
+DTSTAMP:20260329T125000Z
+UID:2026-03-29T12:50:00/Litháen - Georgía
+DESCRIPTION:Litháen - Georgía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Malmö FF - Uppsala - OBOS Damallsvenskan - viaplay
 DTSTART:20260329T125000
 DTEND:20260329T135000
@@ -420,20 +484,20 @@ UID:2026-03-29T12:50:00/Malmö FF - Uppsala
 DESCRIPTION:Malmö FF - Uppsala - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hammarby - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20260329T135000
-DTEND:20260329T145000
-DTSTAMP:20260329T135000Z
-UID:2026-03-29T13:50:00/Hammarby - Rosengård
-DESCRIPTION:Hammarby - Rosengård - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Armenía - Hvíta-Rússland - Landsleikur - viaplay
 DTSTART:20260329T135000
 DTEND:20260329T145000
 DTSTAMP:20260329T135000Z
 UID:2026-03-29T13:50:00/Armenía - Hvíta-Rússland
 DESCRIPTION:Armenía - Hvíta-Rússland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hammarby - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20260329T135000
+DTEND:20260329T145000
+DTSTAMP:20260329T135000Z
+UID:2026-03-29T13:50:00/Hammarby - Rosengård
+DESCRIPTION:Hammarby - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Union Berlin - Frauen-Bundesliga - viaplay
@@ -452,20 +516,20 @@ UID:2026-03-29T14:00:00/Víkingur - Vestri
 DESCRIPTION:Víkingur - Vestri - Meistarakeppni karla i fótbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ÍR - Afturelding - Mjólkurbikarinn - livey
+DTSTART:20260329T200000
+DTEND:20260329T210000
+DTSTAMP:20260329T200000Z
+UID:2026-03-29T20:00:00/ÍR - Afturelding
+DESCRIPTION:ÍR - Afturelding - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kýpur - Moldóva - Landsleikur - viaplay
 DTSTART:20260330T155000
 DTEND:20260330T165000
 DTSTAMP:20260330T155000Z
 UID:2026-03-30T15:50:00/Kýpur - Moldóva
 DESCRIPTION:Kýpur - Moldóva - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HSV - Leverkusen - Frauen-Bundesliga - viaplay
-DTSTART:20260330T155500
-DTEND:20260330T165500
-DTSTAMP:20260330T155500Z
-UID:2026-03-30T15:55:00/HSV - Leverkusen
-DESCRIPTION:HSV - Leverkusen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamburger - Leverkusen - Bundesliga kvenna - synsportviaplay
@@ -476,12 +540,28 @@ UID:2026-03-30T15:55:00/Hamburger - Leverkusen
 DESCRIPTION:Hamburger - Leverkusen - Bundesliga kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSV - Leverkusen - Frauen-Bundesliga - viaplay
+DTSTART:20260330T155500
+DTEND:20260330T165500
+DTSTAMP:20260330T155500Z
+UID:2026-03-30T15:55:00/HSV - Leverkusen
+DESCRIPTION:HSV - Leverkusen - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frakkland - Ísland - Undankeppni EM U21 - synsportisland
 DTSTART:20260330T165500
 DTEND:20260330T175500
 DTSTAMP:20260330T165500Z
 UID:2026-03-30T16:55:00/Frakkland - Ísland
 DESCRIPTION:Frakkland - Ísland - Undankeppni EM U21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þýskaland - Gana - Landsleikur - viaplay
+DTSTART:20260330T183500
+DTEND:20260330T193500
+DTSTAMP:20260330T183500Z
+UID:2026-03-30T18:35:00/Þýskaland - Gana
+DESCRIPTION:Þýskaland - Gana - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þýskaland - Ghana - Vináttulandsleikur - synsportviaplay
@@ -492,11 +572,155 @@ UID:2026-03-30T18:35:00/Þýskaland - Ghana
 DESCRIPTION:Þýskaland - Ghana - Vináttulandsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Gana - Landsleikur - viaplay
-DTSTART:20260330T183500
-DTEND:20260330T193500
-DTSTAMP:20260330T183500Z
-UID:2026-03-30T18:35:00/Þýskaland - Gana
-DESCRIPTION:Þýskaland - Gana - Landsleikur
+SUMMARY:Njarðvík - Hvíti Riddarinn - Mjólkurbikarinn - livey
+DTSTART:20260330T190000
+DTEND:20260330T200000
+DTSTAMP:20260330T190000Z
+UID:2026-03-30T19:00:00/Njarðvík - Hvíti Riddarinn
+DESCRIPTION:Njarðvík - Hvíti Riddarinn - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - KFR - Mjólkurbikarinn - livey
+DTSTART:20260330T190000
+DTEND:20260330T200000
+DTSTAMP:20260330T190000Z
+UID:2026-03-30T19:00:00/Haukar - KFR
+DESCRIPTION:Haukar - KFR - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lúxemborg - Malta - UEFA Nations League - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Lúxemborg - Malta
+DESCRIPTION:Lúxemborg - Malta - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lúxemborg - Malta - Þjóðadeild UEFA - synsportviaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Lúxemborg - Malta
+DESCRIPTION:Lúxemborg - Malta - Þjóðadeild UEFA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noregur - Sviss - Landsleikur - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Noregur - Sviss
+DESCRIPTION:Noregur - Sviss - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lettland - Gíbraltar - UEFA Nations League - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Lettland - Gíbraltar
+DESCRIPTION:Lettland - Gíbraltar - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marínó - Andorra - Landsleikur - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/San Marínó - Andorra
+DESCRIPTION:San Marínó - Andorra - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svartfjallaland - Slóvenía - Landsleikur - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Svartfjallaland - Slóvenía
+DESCRIPTION:Svartfjallaland - Slóvenía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serbía - Sádi-Arabía - Landsleikur - viaplay
+DTSTART:20260331T155000
+DTEND:20260331T165000
+DTSTAMP:20260331T155000Z
+UID:2026-03-31T15:50:00/Serbía - Sádi-Arabía
+DESCRIPTION:Serbía - Sádi-Arabía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haítí - Ísland - Vináttulandsleikur - synsport
+DTSTART:20260331T160000
+DTEND:20260331T170000
+DTSTAMP:20260331T160000Z
+UID:2026-03-31T16:00:00/Haítí - Ísland
+DESCRIPTION:Haítí - Ísland - Vináttulandsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haiti - Ísland - Landsleikur - viaplay
+DTSTART:20260331T161500
+DTEND:20260331T171500
+DTSTAMP:20260331T161500Z
+UID:2026-03-31T16:15:00/Haiti - Ísland
+DESCRIPTION:Haiti - Ísland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverjaland - Grikkland - Landsleikur - viaplay
+DTSTART:20260331T165000
+DTEND:20260331T175000
+DTSTAMP:20260331T165000Z
+UID:2026-03-31T16:50:00/Ungverjaland - Grikkland
+DESCRIPTION:Ungverjaland - Grikkland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haítí - Ísland: Uppgjör - Landsleikir - Uppgjör - synsport
+DTSTART:20260331T183000
+DTEND:20260331T193000
+DTSTAMP:20260331T183000Z
+UID:2026-03-31T18:30:00/Haítí - Ísland: Uppgjör
+DESCRIPTION:Haítí - Ísland: Uppgjör - Landsleikir - Uppgjör
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Ecuador - Landsleikur - viaplay
+DTSTART:20260331T183500
+DTEND:20260331T193500
+DTSTAMP:20260331T183500Z
+UID:2026-03-31T18:35:00/Holland - Ecuador
+DESCRIPTION:Holland - Ecuador - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:England - Japan - Landsleikur - viaplay
+DTSTART:20260331T183500
+DTEND:20260331T193500
+DTSTAMP:20260331T183500Z
+UID:2026-03-31T18:35:00/England - Japan
+DESCRIPTION:England - Japan - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríki - Suður-Kórea - Landsleikur - viaplay
+DTSTART:20260331T183500
+DTEND:20260331T193500
+DTSTAMP:20260331T183500Z
+UID:2026-03-31T18:35:00/Austurríki - Suður-Kórea
+DESCRIPTION:Austurríki - Suður-Kórea - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spánn - Egyptaland - Landsleikur - viaplay
+DTSTART:20260331T185000
+DTEND:20260331T195000
+DTSTAMP:20260331T185000Z
+UID:2026-03-31T18:50:00/Spánn - Egyptaland
+DESCRIPTION:Spánn - Egyptaland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - HK - Lengjubikarinn - livey
+DTSTART:20260331T190000
+DTEND:20260331T200000
+DTSTAMP:20260331T190000Z
+UID:2026-03-31T19:00:00/Haukar - HK
+DESCRIPTION:Haukar - HK - Lengjubikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍA - KR - Lengjubikarinn - livey
+DTSTART:20260331T200000
+DTEND:20260331T210000
+DTSTAMP:20260331T200000Z
+UID:2026-03-31T20:00:00/ÍA - KR
+DESCRIPTION:ÍA - KR - Lengjubikarinn
 END:VEVENT
 END:VCALENDAR
