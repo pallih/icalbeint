@@ -2,62 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Orioles - Rangers - MLB - synsportviaplay
-DTSTART:20260401T163000
-DTEND:20260401T173000
-DTSTAMP:20260401T163000Z
-UID:2026-04-01T16:30:00/Orioles - Rangers
-DESCRIPTION:Orioles - Rangers - MLB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augusta National Women's Amateur - Augusta National - synsport4
-DTSTART:20260401T173000
-DTEND:20260401T183000
-DTSTAMP:20260401T173000Z
-UID:2026-04-01T17:30:00/Augusta National Women's Amateur
-DESCRIPTION:Augusta National Women's Amateur - Augusta National
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fjölnir - Þór Ak. - 1. deild kvenna í körfubolta  - kkitv1
-DTSTART:20260401T180000
-DTEND:20260401T190000
-DTSTAMP:20260401T180000Z
-UID:2026-04-01T18:00:00/Fjölnir - Þór Ak.
-DESCRIPTION:Fjölnir - Þór Ak. - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grindavík - Njarðvík - Bónus deild karla - synsportisland2
-DTSTART:20260401T185000
-DTEND:20260401T195000
-DTSTAMP:20260401T185000Z
-UID:2026-04-01T18:50:00/Grindavík - Njarðvík
-DESCRIPTION:Grindavík - Njarðvík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selfoss - Hamar/Þór - 1. deild kvenna í körfubolta  - kkitv2
-DTSTART:20260401T191500
-DTEND:20260401T201500
-DTSTAMP:20260401T191500Z
-UID:2026-04-01T19:15:00/Selfoss - Hamar/Þór
-DESCRIPTION:Selfoss - Hamar/Þór - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - KR - Bónus deild karla - synsportisland
-DTSTART:20260401T192000
-DTEND:20260401T202000
-DTSTAMP:20260401T192000Z
-UID:2026-04-01T19:20:00/Stjarnan - KR
-DESCRIPTION:Stjarnan - KR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Royals - Twins - MLB - synsportviaplay
-DTSTART:20260401T233000
-DTEND:20260402T003000
-DTSTAMP:20260401T233000Z
-UID:2026-04-01T23:30:00/Royals - Twins
-DESCRIPTION:Royals - Twins - MLB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bergischer - Gummersbach - Bundesliga handbolti - synsportviaplay
 DTSTART:20260402T165500
 DTEND:20260402T175500
@@ -154,20 +98,20 @@ UID:2026-04-03T18:55:00/Coventry - Derby
 DESCRIPTION:Coventry - Derby - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fjölnir - KV - 1. deild karla í körfubolta  - kkitv2
-DTSTART:20260403T191500
-DTEND:20260403T201500
-DTSTAMP:20260403T191500Z
-UID:2026-04-03T19:15:00/Fjölnir - KV
-DESCRIPTION:Fjölnir - KV - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sindri - Snæfell - 1. deild karla í körfubolta  - kkitv1
 DTSTART:20260403T191500
 DTEND:20260403T201500
 DTSTAMP:20260403T191500Z
 UID:2026-04-03T19:15:00/Sindri - Snæfell
 DESCRIPTION:Sindri - Snæfell - 1. deild karla í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - KV - 1. deild karla í körfubolta  - kkitv2
+DTSTART:20260403T191500
+DTEND:20260403T201500
+DTSTAMP:20260403T191500Z
+UID:2026-04-03T19:15:00/Fjölnir - KV
+DESCRIPTION:Fjölnir - KV - 1. deild karla í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aramco Championship - LPGA Tour - synsport4
@@ -303,14 +247,6 @@ UID:2026-04-05T21:00:00/Aramco Championship
 DESCRIPTION:Aramco Championship - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aramco Championship USA - Ladies European Tour - synsportviaplay
-DTSTART:20260405T210000
-DTEND:20260405T220000
-DTSTAMP:20260405T210000Z
-UID:2026-04-05T21:00:00/Aramco Championship USA
-DESCRIPTION:Aramco Championship USA - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Blues - Red Wings - MLB - synsportviaplay
 DTSTART:20260405T230000
 DTEND:20260406T000000
@@ -399,14 +335,6 @@ UID:2026-04-07T18:30:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting - Arsenal - Meistaradeild Evrópu - synsport
-DTSTART:20260407T185000
-DTEND:20260407T195000
-DTSTAMP:20260407T185000Z
-UID:2026-04-07T18:50:00/Sporting - Arsenal
-DESCRIPTION:Sporting - Arsenal - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Real Madrid - Bayern München - Meistaradeild Evrópu - synsportvi
  aplay
 DTSTART:20260407T185000
@@ -422,6 +350,14 @@ DTEND:20260407T195000
 DTSTAMP:20260407T185000Z
 UID:2026-04-07T18:50:00/ÍR - Tindastóll
 DESCRIPTION:ÍR - Tindastóll - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - Arsenal - Meistaradeild Evrópu - synsport
+DTSTART:20260407T185000
+DTEND:20260407T195000
+DTSTAMP:20260407T185000Z
+UID:2026-04-07T18:50:00/Sporting - Arsenal
+DESCRIPTION:Sporting - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Valur - Bónus deild karla - synsportisland
@@ -454,5 +390,95 @@ DTEND:20260408T000000
 DTSTAMP:20260407T230000Z
 UID:2026-04-07T23:00:00/Canadiens - Panthers
 DESCRIPTION:Canadiens - Panthers - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Masters 2026: Upphitunarþáttur - Masters - synsport2
+DTSTART:20260408T165000
+DTEND:20260408T175000
+DTSTAMP:20260408T165000Z
+UID:2026-04-08T16:50:00/Masters 2026: Upphitunarþáttur
+DESCRIPTION:Masters 2026: Upphitunarþáttur - Masters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Masters – Par 3 keppnin - Augusta National - synsport2
+DTSTART:20260408T180000
+DTEND:20260408T190000
+DTSTAMP:20260408T180000Z
+UID:2026-04-08T18:00:00/Masters – Par 3 keppnin
+DESCRIPTION:Masters – Par 3 keppnin - Augusta National
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - synsport
+DTSTART:20260408T183000
+DTEND:20260408T193000
+DTSTAMP:20260408T183000Z
+UID:2026-04-08T18:30:00/Meistaradeildin - upphitun
+DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Liverpool - Meistaradeild Evrópu - synsport
+DTSTART:20260408T185000
+DTEND:20260408T195000
+DTSTAMP:20260408T185000Z
+UID:2026-04-08T18:50:00/PSG - Liverpool
+DESCRIPTION:PSG - Liverpool - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona - Atletico Madrid - Meistaradeild Evrópu - synsportviap
+ lay
+DTSTART:20260408T185000
+DTEND:20260408T195000
+DTSTAMP:20260408T185000Z
+UID:2026-04-08T18:50:00/Barcelona - Atletico Madrid
+DESCRIPTION:Barcelona - Atletico Madrid - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Tindastóll - Bónus deild kvenna - synsportisland2
+DTSTART:20260408T185000
+DTEND:20260408T195000
+DTSTAMP:20260408T185000Z
+UID:2026-04-08T18:50:00/Njarðvík - Tindastóll
+DESCRIPTION:Njarðvík - Tindastóll - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Stjarnan - Bónus deild kvenna - synsportisland
+DTSTART:20260408T192000
+DTEND:20260408T202000
+DTSTAMP:20260408T192000Z
+UID:2026-04-08T19:20:00/Haukar - Stjarnan
+DESCRIPTION:Haukar - Stjarnan - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1986 - Masters - heimildarþættir - synsport2
+DTSTART:20260408T201500
+DTEND:20260408T211500
+DTSTAMP:20260408T201500Z
+UID:2026-04-08T20:15:00/1986
+DESCRIPTION:1986 - Masters - heimildarþættir
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
+DTSTART:20260408T210000
+DTEND:20260408T220000
+DTSTAMP:20260408T210000Z
+UID:2026-04-08T21:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaraverk Rory McIlroy - Masters - heimildarþættir - synsport
+ 2
+DTSTART:20260408T211500
+DTEND:20260408T221500
+DTSTAMP:20260408T211500Z
+UID:2026-04-08T21:15:00/Meistaraverk Rory McIlroy
+DESCRIPTION:Meistaraverk Rory McIlroy - Masters - heimildarþættir
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yankess - Athletics - MLB - synsportviaplay
+DTSTART:20260408T230000
+DTEND:20260409T000000
+DTSTAMP:20260408T230000Z
+UID:2026-04-08T23:00:00/Yankess - Athletics
+DESCRIPTION:Yankess - Athletics - MLB
 END:VEVENT
 END:VCALENDAR
