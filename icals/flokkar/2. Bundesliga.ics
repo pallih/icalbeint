@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20260404T105500
-DTEND:20260404T115500
-DTSTAMP:20260404T105500Z
-UID:2026-04-04T10:55:00/Kaiserslautern - Düsseldorf
-DESCRIPTION:Kaiserslautern - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Bochum - 2. Bundesliga - viaplay
-DTSTART:20260404T105500
-DTEND:20260404T115500
-DTSTAMP:20260404T105500Z
-UID:2026-04-04T10:55:00/Magdeburg - Bochum
-DESCRIPTION:Magdeburg - Bochum - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arminia Bielefeld - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20260404T105500
-DTEND:20260404T115500
-DTSTAMP:20260404T105500Z
-UID:2026-04-04T10:55:00/Arminia Bielefeld - Darmstadt
-DESCRIPTION:Arminia Bielefeld - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dynamo Dresden - Hertha Berlin - 2. Bundesliga - viaplay
-DTSTART:20260404T182500
-DTEND:20260404T192500
-DTSTAMP:20260404T182500Z
-UID:2026-04-04T18:25:00/Dynamo Dresden - Hertha Berlin
-DESCRIPTION:Dynamo Dresden - Hertha Berlin - 2. Bundesliga
+SUMMARY:Braunschweig - Nürnberg - 2. Bundesliga - viaplay
+DTSTART:20260405T112500
+DTEND:20260405T122500
+DTSTAMP:20260405T112500Z
+UID:2026-04-05T11:25:00/Braunschweig - Nürnberg
+DESCRIPTION:Braunschweig - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schalke 04 - Karlsruher SC - 2. Bundesliga - synsportviaplay
@@ -42,28 +18,12 @@ UID:2026-04-05T11:25:00/Schalke 04 - Karlsruher SC
 DESCRIPTION:Schalke 04 - Karlsruher SC - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Braunschweig - Nürnberg - 2. Bundesliga - viaplay
+SUMMARY:Holstein Kiel - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20260405T112500
 DTEND:20260405T122500
 DTSTAMP:20260405T112500Z
-UID:2026-04-05T11:25:00/Braunschweig - Nürnberg
-DESCRIPTION:Braunschweig - Nürnberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schalke - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20260405T112500
-DTEND:20260405T122500
-DTSTAMP:20260405T112500Z
-UID:2026-04-05T11:25:00/Schalke - Karlsruher
-DESCRIPTION:Schalke - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20260405T112500
-DTEND:20260405T122500
-DTSTAMP:20260405T112500Z
-UID:2026-04-05T11:25:00/Greuther Fürth - Paderborn
-DESCRIPTION:Greuther Fürth - Paderborn - 2. Bundesliga
+UID:2026-04-05T11:25:00/Holstein Kiel - Preußen Münster
+DESCRIPTION:Holstein Kiel - Preußen Münster - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover - Elversberg - 2. Bundesliga - viaplay
@@ -74,20 +34,20 @@ UID:2026-04-05T11:25:00/Hannover - Elversberg
 DESCRIPTION:Hannover - Elversberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Preußen Münster - 2. Bundesliga - viaplay
+SUMMARY:Greuther Fürth - Paderborn - 2. Bundesliga - viaplay
 DTSTART:20260405T112500
 DTEND:20260405T122500
 DTSTAMP:20260405T112500Z
-UID:2026-04-05T11:25:00/Holstein Kiel - Preußen Münster
-DESCRIPTION:Holstein Kiel - Preußen Münster - 2. Bundesliga
+UID:2026-04-05T11:25:00/Greuther Fürth - Paderborn
+DESCRIPTION:Greuther Fürth - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Arminia Bielefeld - 2. Bundesliga - viaplay
-DTSTART:20260410T162500
-DTEND:20260410T172500
-DTSTAMP:20260410T162500Z
-UID:2026-04-10T16:25:00/Karlsruher - Arminia Bielefeld
-DESCRIPTION:Karlsruher - Arminia Bielefeld - 2. Bundesliga
+SUMMARY:Schalke - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20260405T112500
+DTEND:20260405T122500
+DTSTAMP:20260405T112500Z
+UID:2026-04-05T11:25:00/Schalke - Karlsruher
+DESCRIPTION:Schalke - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Düsseldorf - Holstein Kiel - 2. Bundesliga - synsportviaplay
@@ -104,5 +64,45 @@ DTEND:20260410T172500
 DTSTAMP:20260410T162500Z
 UID:2026-04-10T16:25:00/Düsseldorf - Holstein Kiel
 DESCRIPTION:Düsseldorf - Holstein Kiel - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher - Arminia Bielefeld - 2. Bundesliga - viaplay
+DTSTART:20260410T162500
+DTEND:20260410T172500
+DTSTAMP:20260410T162500Z
+UID:2026-04-10T16:25:00/Karlsruher - Arminia Bielefeld
+DESCRIPTION:Karlsruher - Arminia Bielefeld - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Dynamo Dresden - 2. Bundesliga - viaplay
+DTSTART:20260411T105500
+DTEND:20260411T115500
+DTSTAMP:20260411T105500Z
+UID:2026-04-11T10:55:00/Nürnberg - Dynamo Dresden
+DESCRIPTION:Nürnberg - Dynamo Dresden - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hertha Berlin - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20260411T105500
+DTEND:20260411T115500
+DTSTAMP:20260411T105500Z
+UID:2026-04-11T10:55:00/Hertha Berlin - Kaiserslautern
+DESCRIPTION:Hertha Berlin - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preußen Münster - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20260411T105500
+DTEND:20260411T115500
+DTSTAMP:20260411T105500Z
+UID:2026-04-11T10:55:00/Preußen Münster - Greuther Fürth
+DESCRIPTION:Preußen Münster - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Hannover - 2. Bundesliga - viaplay
+DTSTART:20260411T182500
+DTEND:20260411T192500
+DTSTAMP:20260411T182500Z
+UID:2026-04-11T18:25:00/Darmstadt - Hannover
+DESCRIPTION:Darmstadt - Hannover - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR

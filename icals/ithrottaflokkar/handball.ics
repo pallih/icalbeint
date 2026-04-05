@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Fjölnir - Umspil | Olís karla - hsi1
-DTSTART:20260404T163000
-DTEND:20260404T173000
-DTSTAMP:20260404T163000Z
-UID:2026-04-04T16:30:00/Stjarnan - Fjölnir
-DESCRIPTION:Stjarnan - Fjölnir - Umspil | Olís karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hannover-Burgdorf - Flensburg-Handewitt - Bundesliga - viaplay
-DTSTART:20260404T175500
-DTEND:20260404T185500
-DTSTAMP:20260404T175500Z
-UID:2026-04-04T17:55:00/Hannover-Burgdorf - Flensburg-Handewitt
-DESCRIPTION:Hannover-Burgdorf - Flensburg-Handewitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Füchse Berlin - DHfK Leipzig - Bundesliga - viaplay
 DTSTART:20260405T125500
 DTEND:20260405T135500
@@ -48,6 +32,14 @@ DTEND:20260407T220000
 DTSTAMP:20260407T210000Z
 UID:2026-04-07T21:00:00/Handboltahöllin
 DESCRIPTION:Handboltahöllin - Olís deildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Hörður - Umspil | Olís karla - hsi1
+DTSTART:20260408T000000
+DTEND:20260408T010000
+DTSTAMP:20260408T000000Z
+UID:2026-04-08T00:00:00/Stjarnan - Hörður
+DESCRIPTION:Stjarnan - Hörður - Umspil | Olís karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv2
@@ -96,5 +88,21 @@ DTEND:20260410T200000
 DTSTAMP:20260410T190000Z
 UID:2026-04-10T19:00:00/Haukar - FH
 DESCRIPTION:Haukar - FH - Úrslit | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hörður - Stjarnan - Umspil | Olís karla - hsi1
+DTSTART:20260411T000000
+DTEND:20260411T010000
+DTSTAMP:20260411T000000Z
+UID:2026-04-11T00:00:00/Hörður - Stjarnan
+DESCRIPTION:Hörður - Stjarnan - Umspil | Olís karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhein-Neckar Löwen - Flensburg-Handewitt - Bundesliga - viaplay
+DTSTART:20260411T165500
+DTEND:20260411T175500
+DTSTAMP:20260411T165500Z
+UID:2026-04-11T16:55:00/Rhein-Neckar Löwen - Flensburg-Handewitt
+DESCRIPTION:Rhein-Neckar Löwen - Flensburg-Handewitt - Bundesliga
 END:VEVENT
 END:VCALENDAR
