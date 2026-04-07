@@ -2,84 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Millwall - Norwich - EFL Championship - synsportviaplay
-DTSTART:20260406T115500
-DTEND:20260406T125500
-DTSTAMP:20260406T115500Z
-UID:2026-04-06T11:55:00/Millwall - Norwich
-DESCRIPTION:Millwall - Norwich - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wrexham - Southampton - EFL Championship - synsportviaplay
-DTSTART:20260406T135500
-DTEND:20260406T145500
-DTSTAMP:20260406T135500Z
-UID:2026-04-06T13:55:00/Wrexham - Southampton
-DESCRIPTION:Wrexham - Southampton - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór Ak. - Fjölnir - 1. deild kvenna í körfubolta  - kkitv1
-DTSTART:20260406T160000
-DTEND:20260406T170000
-DTSTAMP:20260406T160000Z
-UID:2026-04-06T16:00:00/Þór Ak. - Fjölnir
-DESCRIPTION:Þór Ak. - Fjölnir - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swansea - Middlesbrough - EFL Championship - synsportviaplay
-DTSTART:20260406T162500
-DTEND:20260406T172500
-DTSTAMP:20260406T162500Z
-UID:2026-04-06T16:25:00/Swansea - Middlesbrough
-DESCRIPTION:Swansea - Middlesbrough - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamar/Þór - Selfoss - 1. deild kvenna í körfubolta  - kkitv2
-DTSTART:20260406T180000
-DTEND:20260406T190000
-DTSTAMP:20260406T180000Z
-UID:2026-04-06T18:00:00/Hamar/Þór - Selfoss
-DESCRIPTION:Hamar/Þór - Selfoss - 1. deild kvenna í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Njarðvík - Grindavík - Bónus deild karla - synsportisland2
-DTSTART:20260406T185000
-DTEND:20260406T195000
-DTSTAMP:20260406T185000Z
-UID:2026-04-06T18:50:00/Njarðvík - Grindavík
-DESCRIPTION:Njarðvík - Grindavík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hull - Coventry - EFL Championship - synsportviaplay
-DTSTART:20260406T185500
-DTEND:20260406T195500
-DTSTAMP:20260406T185500Z
-UID:2026-04-06T18:55:00/Hull - Coventry
-DESCRIPTION:Hull - Coventry - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KR - Stjarnan - Bónus deild karla - synsportisland
-DTSTART:20260406T192000
-DTEND:20260406T202000
-DTSTAMP:20260406T192000Z
-UID:2026-04-06T19:20:00/KR - Stjarnan
-DESCRIPTION:KR - Stjarnan - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sabres - Lightning - NHL - synsportviaplay
-DTSTART:20260406T230500
-DTEND:20260407T000500
-DTSTAMP:20260406T230500Z
-UID:2026-04-06T23:05:00/Sabres - Lightning
-DESCRIPTION:Sabres - Lightning - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - synsport
 DTSTART:20260407T183000
 DTEND:20260407T193000
 DTSTAMP:20260407T183000Z
 UID:2026-04-07T18:30:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - Arsenal - Meistaradeild Evrópu - synsport
+DTSTART:20260407T185000
+DTEND:20260407T195000
+DTSTAMP:20260407T185000Z
+UID:2026-04-07T18:50:00/Sporting - Arsenal
+DESCRIPTION:Sporting - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - Bayern München - Meistaradeild Evrópu - synsportvi
@@ -89,14 +25,6 @@ DTEND:20260407T195000
 DTSTAMP:20260407T185000Z
 UID:2026-04-07T18:50:00/Real Madrid - Bayern München
 DESCRIPTION:Real Madrid - Bayern München - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sporting - Arsenal - Meistaradeild Evrópu - synsport
-DTSTART:20260407T185000
-DTEND:20260407T195000
-DTSTAMP:20260407T185000Z
-UID:2026-04-07T18:50:00/Sporting - Arsenal
-DESCRIPTION:Sporting - Arsenal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Tindastóll - Bónus deild karla - synsportisland2
@@ -113,6 +41,23 @@ DTEND:20260407T200000
 DTSTAMP:20260407T190000Z
 UID:2026-04-07T19:00:00/Keflavík - Valur
 DESCRIPTION:Keflavík - Valur - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamar/Þór - Selfoss - 1. deild kvenna í körfubolta  - kkitv2
+DTSTART:20260407T191500
+DTEND:20260407T201500
+DTSTAMP:20260407T191500Z
+UID:2026-04-07T19:15:00/Hamar/Þór - Selfoss
+DESCRIPTION:Hamar/Þór - Selfoss - 1. deild kvenna í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFG - Laugdælir/Uppsveitir - 2. deild karla í körfubolta - kkit
+ v4
+DTSTART:20260407T200000
+DTEND:20260407T210000
+DTSTAMP:20260407T200000Z
+UID:2026-04-07T20:00:00/KFG - Laugdælir/Uppsveitir
+DESCRIPTION:KFG - Laugdælir/Uppsveitir - 2. deild karla í körfubolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
@@ -163,13 +108,12 @@ UID:2026-04-08T18:30:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barcelona - Atletico Madrid - Meistaradeild Evrópu - synsportviap
- lay
+SUMMARY:Njarðvík - Tindastóll - Bónus deild kvenna - synsportisland2
 DTSTART:20260408T185000
 DTEND:20260408T195000
 DTSTAMP:20260408T185000Z
-UID:2026-04-08T18:50:00/Barcelona - Atletico Madrid
-DESCRIPTION:Barcelona - Atletico Madrid - Meistaradeild Evrópu
+UID:2026-04-08T18:50:00/Njarðvík - Tindastóll
+DESCRIPTION:Njarðvík - Tindastóll - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSG - Liverpool - Meistaradeild Evrópu - synsport
@@ -180,12 +124,13 @@ UID:2026-04-08T18:50:00/PSG - Liverpool
 DESCRIPTION:PSG - Liverpool - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Tindastóll - Bónus deild kvenna - synsportisland2
+SUMMARY:Barcelona - Atletico Madrid - Meistaradeild Evrópu - synsportviap
+ lay
 DTSTART:20260408T185000
 DTEND:20260408T195000
 DTSTAMP:20260408T185000Z
-UID:2026-04-08T18:50:00/Njarðvík - Tindastóll
-DESCRIPTION:Njarðvík - Tindastóll - Bónus deild kvenna
+UID:2026-04-08T18:50:00/Barcelona - Atletico Madrid
+DESCRIPTION:Barcelona - Atletico Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Stjarnan - Bónus deild kvenna - synsportisland
@@ -261,6 +206,14 @@ UID:2026-04-09T18:50:00/Bologna - Aston Villa
 DESCRIPTION:Bologna - Aston Villa - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Porto - Nott. Forest - Evrópudeildin  - synsportviaplay
+DTSTART:20260409T185000
+DTEND:20260409T195000
+DTSTAMP:20260409T185000Z
+UID:2026-04-09T18:50:00/Porto - Nott. Forest
+DESCRIPTION:Porto - Nott. Forest - Evrópudeildin 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valur - Grindavík - Bónus deild kvenna - synsportisland2
 DTSTART:20260409T185000
 DTEND:20260409T195000
@@ -275,14 +228,6 @@ DTEND:20260409T195000
 DTSTAMP:20260409T185000Z
 UID:2026-04-09T18:50:00/Crystal Palace - Fiorentina
 DESCRIPTION:Crystal Palace - Fiorentina - Sambandsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Porto - Nott. Forest - Evrópudeildin  - synsportviaplay
-DTSTART:20260409T185000
-DTEND:20260409T195000
-DTSTAMP:20260409T185000Z
-UID:2026-04-09T18:50:00/Porto - Nott. Forest
-DESCRIPTION:Porto - Nott. Forest - Evrópudeildin 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - Keflavík - Bónus deild kvenna - synsportisland
@@ -364,16 +309,6 @@ DTEND:20260410T195500
 DTSTAMP:20260410T185500Z
 UID:2026-04-10T18:55:00/WBA - Millwall
 DESCRIPTION:WBA - Millwall - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hnefaleikaveisla í Gamla Bíó - Hnefaleikaveisla í Gamla Bíó 
- - synsport2
-DTSTART:20260410T191500
-DTEND:20260410T201500
-DTSTAMP:20260410T191500Z
-UID:2026-04-10T19:15:00/Hnefaleikaveisla í Gamla Bíó
-DESCRIPTION:Hnefaleikaveisla í Gamla Bíó - Hnefaleikaveisla í Gamla B
- íó
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - KR - Bónus deild karla - synsportisland2
@@ -472,20 +407,20 @@ UID:2026-04-11T16:15:00/Laugardagsmörkin
 DESCRIPTION:Laugardagsmörkin - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Bayern München - Bundesliga - synsportviaplay
-DTSTART:20260411T162000
-DTEND:20260411T172000
-DTSTAMP:20260411T162000Z
-UID:2026-04-11T16:20:00/St. Pauli - Bayern München
-DESCRIPTION:St. Pauli - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liverpool - Fulham - Premier League - synsport2
 DTSTART:20260411T162000
 DTEND:20260411T172000
 DTSTAMP:20260411T162000Z
 UID:2026-04-11T16:20:00/Liverpool - Fulham
 DESCRIPTION:Liverpool - Fulham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - Bayern München - Bundesliga - synsportviaplay
+DTSTART:20260411T162000
+DTEND:20260411T172000
+DTSTAMP:20260411T162000Z
+UID:2026-04-11T16:20:00/St. Pauli - Bayern München
+DESCRIPTION:St. Pauli - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tindastóll - ÍR - Bónus deild karla - synsportisland2
@@ -568,12 +503,12 @@ UID:2026-04-12T16:50:00/ÍBV - FH
 DESCRIPTION:ÍBV - FH - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KR - Keflavík - Besta deild karla - synsportisland2
+SUMMARY:KA - Stjarnan - Besta deild karla - synsportisland5
 DTSTART:20260412T165000
 DTEND:20260412T175000
 DTSTAMP:20260412T165000Z
-UID:2026-04-12T16:50:00/KR - Keflavík
-DESCRIPTION:KR - Keflavík - Besta deild karla
+UID:2026-04-12T16:50:00/KA - Stjarnan
+DESCRIPTION:KA - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Þór - Besta deild karla - synsportisland3
@@ -584,12 +519,12 @@ UID:2026-04-12T16:50:00/Valur - Þór
 DESCRIPTION:Valur - Þór - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KA - Stjarnan - Besta deild karla - synsportisland5
+SUMMARY:KR - Keflavík - Besta deild karla - synsportisland2
 DTSTART:20260412T165000
 DTEND:20260412T175000
 DTSTAMP:20260412T165000Z
-UID:2026-04-12T16:50:00/KA - Stjarnan
-DESCRIPTION:KA - Stjarnan - Besta deild karla
+UID:2026-04-12T16:50:00/KR - Keflavík
+DESCRIPTION:KR - Keflavík - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mainz 05 - Freiburg - Bundesliga - synsportviaplay
@@ -638,5 +573,29 @@ DTEND:20260412T230500
 DTSTAMP:20260412T220500Z
 UID:2026-04-12T22:05:00/Islanders - Canadiens
 DESCRIPTION:Islanders - Canadiens - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deild kvenna - Bónus deild kvenna - synsportisland2
+DTSTART:20260413T182000
+DTEND:20260413T192000
+DTSTAMP:20260413T182000Z
+UID:2026-04-13T18:20:00/Bónus deild kvenna
+DESCRIPTION:Bónus deild kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Leeds - Premier League - synsport
+DTSTART:20260413T184000
+DTEND:20260413T194000
+DTSTAMP:20260413T184000Z
+UID:2026-04-13T18:40:00/Man. Utd. - Leeds
+DESCRIPTION:Man. Utd. - Leeds - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panthers - Rangers - NHL - synsportviaplay
+DTSTART:20260413T230500
+DTEND:20260414T000500
+DTSTAMP:20260413T230500Z
+UID:2026-04-13T23:05:00/Panthers - Rangers
+DESCRIPTION:Panthers - Rangers - NHL
 END:VEVENT
 END:VCALENDAR
