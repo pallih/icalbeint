@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
-SUMMARY:Wrexham - Southampton - Championship - viaplay
-DTSTART:20260407T185500
-DTEND:20260407T195500
-DTSTAMP:20260407T185500Z
-UID:2026-04-07T18:55:00/Wrexham - Southampton
-DESCRIPTION:Wrexham - Southampton - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Brom - Millwall - Championship - viaplay
 DTSTART:20260410T185500
 DTEND:20260410T195500
@@ -26,14 +18,6 @@ UID:2026-04-11T11:25:00/QPR - Bristol City
 DESCRIPTION:QPR - Bristol City - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Norwich - Ipswich - Championship - viaplay
-DTSTART:20260411T112500
-DTEND:20260411T122500
-DTSTAMP:20260411T112500Z
-UID:2026-04-11T11:25:00/Norwich - Ipswich
-DESCRIPTION:Norwich - Ipswich - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coventry - Sheffield Wednesday - Championship - viaplay
 DTSTART:20260411T112500
 DTEND:20260411T122500
@@ -42,12 +26,20 @@ UID:2026-04-11T11:25:00/Coventry - Sheffield Wednesday
 DESCRIPTION:Coventry - Sheffield Wednesday - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oxford United - Watford - Championship - viaplay
+SUMMARY:Norwich - Ipswich - Championship - viaplay
+DTSTART:20260411T112500
+DTEND:20260411T122500
+DTSTAMP:20260411T112500Z
+UID:2026-04-11T11:25:00/Norwich - Ipswich
+DESCRIPTION:Norwich - Ipswich - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leicester - Swansea - Championship - viaplay
 DTSTART:20260411T135500
 DTEND:20260411T145500
 DTSTAMP:20260411T135500Z
-UID:2026-04-11T13:55:00/Oxford United - Watford
-DESCRIPTION:Oxford United - Watford - Championship
+UID:2026-04-11T13:55:00/Leicester - Swansea
+DESCRIPTION:Leicester - Swansea - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stoke - Blackburn - Championship - viaplay
@@ -74,20 +66,20 @@ UID:2026-04-11T13:55:00/Sheffield United - Hull
 DESCRIPTION:Sheffield United - Hull - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oxford United - Watford - Championship - viaplay
+DTSTART:20260411T135500
+DTEND:20260411T145500
+DTSTAMP:20260411T135500Z
+UID:2026-04-11T13:55:00/Oxford United - Watford
+DESCRIPTION:Oxford United - Watford - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Middlesbrough - Portsmouth - Championship - viaplay
 DTSTART:20260411T135500
 DTEND:20260411T145500
 DTSTAMP:20260411T135500Z
 UID:2026-04-11T13:55:00/Middlesbrough - Portsmouth
 DESCRIPTION:Middlesbrough - Portsmouth - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leicester - Swansea - Championship - viaplay
-DTSTART:20260411T135500
-DTEND:20260411T145500
-DTSTAMP:20260411T135500Z
-UID:2026-04-11T13:55:00/Leicester - Swansea
-DESCRIPTION:Leicester - Swansea - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlton - Preston - Championship - viaplay
@@ -104,5 +96,13 @@ DTEND:20260412T115500
 DTSTAMP:20260412T105500Z
 UID:2026-04-12T10:55:00/Birmingham - Wrexham
 DESCRIPTION:Birmingham - Wrexham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portsmouth - Ipswich - Championship - viaplay
+DTSTART:20260414T185500
+DTEND:20260414T195500
+DTSTAMP:20260414T185500Z
+UID:2026-04-14T18:55:00/Portsmouth - Ipswich
+DESCRIPTION:Portsmouth - Ipswich - Championship
 END:VEVENT
 END:VCALENDAR
