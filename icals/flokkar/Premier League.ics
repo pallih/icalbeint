@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Nott. Forest - Aston Villa - Premier League - synsport3
-DTSTART:20260412T124000
-DTEND:20260412T134000
-DTSTAMP:20260412T124000Z
-UID:2026-04-12T12:40:00/Nott. Forest - Aston Villa
-DESCRIPTION:Nott. Forest - Aston Villa - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crystal Palace - Newcastle - Premier League - synsport2
-DTSTART:20260412T124000
-DTEND:20260412T134000
-DTSTAMP:20260412T124000Z
-UID:2026-04-12T12:40:00/Crystal Palace - Newcastle
-DESCRIPTION:Crystal Palace - Newcastle - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunderland - Tottenham - Premier League - synsport
-DTSTART:20260412T124000
-DTEND:20260412T134000
-DTSTAMP:20260412T124000Z
-UID:2026-04-12T12:40:00/Sunderland - Tottenham
-DESCRIPTION:Sunderland - Tottenham - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chelsea - Man. City - Premier League - synsport2
-DTSTART:20260412T151000
-DTEND:20260412T161000
-DTSTAMP:20260412T151000Z
-UID:2026-04-12T15:10:00/Chelsea - Man. City
-DESCRIPTION:Chelsea - Man. City - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunnudagsmessan - Premier League - synsport2
-DTSTART:20260412T191000
-DTEND:20260412T201000
-DTSTAMP:20260412T191000Z
-UID:2026-04-12T19:10:00/Sunnudagsmessan
-DESCRIPTION:Sunnudagsmessan - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. Utd. - Leeds - Premier League - synsport
 DTSTART:20260413T184000
 DTEND:20260413T194000
@@ -58,12 +18,12 @@ UID:2026-04-18T11:10:00/Brentford - Fulham
 DESCRIPTION:Brentford - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
+SUMMARY:Newcastle - Bournemouth - Premier League - synsport2
 DTSTART:20260418T134000
 DTEND:20260418T144000
 DTSTAMP:20260418T134000Z
-UID:2026-04-18T13:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
+UID:2026-04-18T13:40:00/Newcastle - Bournemouth
+DESCRIPTION:Newcastle - Bournemouth - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leeds - Wolves - Premier League - synsport4
@@ -74,12 +34,12 @@ UID:2026-04-18T13:40:00/Leeds - Wolves
 DESCRIPTION:Leeds - Wolves - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Newcastle - Bournemouth - Premier League - synsport2
+SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20260418T134000
 DTEND:20260418T144000
 DTSTAMP:20260418T134000Z
-UID:2026-04-18T13:40:00/Newcastle - Bournemouth
-DESCRIPTION:Newcastle - Bournemouth - Premier League
+UID:2026-04-18T13:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tottenham - Brighton - Premier League - synsport
@@ -104,5 +64,45 @@ DTEND:20260418T220500
 DTSTAMP:20260418T210500Z
 UID:2026-04-18T21:05:00/Laugardagsmörkin
 DESCRIPTION:Laugardagsmörkin - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Liverpool - Premier League - synsport2
+DTSTART:20260419T124000
+DTEND:20260419T134000
+DTSTAMP:20260419T124000Z
+UID:2026-04-19T12:40:00/Everton - Liverpool
+DESCRIPTION:Everton - Liverpool - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nott. Forest - Burnley - Premier League - synsport4
+DTSTART:20260419T134000
+DTEND:20260419T144000
+DTSTAMP:20260419T134000Z
+UID:2026-04-19T13:40:00/Nott. Forest - Burnley
+DESCRIPTION:Nott. Forest - Burnley - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Sunderland - Premier League - synsport3
+DTSTART:20260419T134000
+DTEND:20260419T144000
+DTSTAMP:20260419T134000Z
+UID:2026-04-19T13:40:00/Aston Villa - Sunderland
+DESCRIPTION:Aston Villa - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. City - Arsenal - Premier League - synsport
+DTSTART:20260419T150000
+DTEND:20260419T160000
+DTSTAMP:20260419T150000Z
+UID:2026-04-19T15:00:00/Man. City - Arsenal
+DESCRIPTION:Man. City - Arsenal - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunnudagsmessan - Premier League - synsport
+DTSTART:20260419T173500
+DTEND:20260419T183500
+DTSTAMP:20260419T173500Z
+UID:2026-04-19T17:35:00/Sunnudagsmessan
+DESCRIPTION:Sunnudagsmessan - Premier League
 END:VEVENT
 END:VCALENDAR
