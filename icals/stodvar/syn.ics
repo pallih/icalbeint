@@ -2,53 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Leeds - Premier League - synsport
-DTSTART:20260413T184000
-DTEND:20260413T194000
-DTSTAMP:20260413T184000Z
-UID:2026-04-13T18:40:00/Man. Utd. - Leeds
-DESCRIPTION:Man. Utd. - Leeds - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - Selfoss - 1. deild karla í körfubolta  - kkitv1
-DTSTART:20260413T191500
-DTEND:20260413T201500
-DTSTAMP:20260413T191500Z
-UID:2026-04-13T19:15:00/Haukar - Selfoss
-DESCRIPTION:Haukar - Selfoss - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Keflavík - KR - Bónus deild kvenna - synsportisland
-DTSTART:20260413T192000
-DTEND:20260413T202000
-DTSTAMP:20260413T192000Z
-UID:2026-04-13T19:20:00/Keflavík - KR
-DESCRIPTION:Keflavík - KR - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
- sland
-DTSTART:20260413T211000
-DTEND:20260413T221000
-DTSTAMP:20260413T211000Z
-UID:2026-04-13T21:10:00/Bónus Körfuboltakvöld kvenna 
-DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Panthers - Rangers - NHL - synsportviaplay
-DTSTART:20260413T230500
-DTEND:20260414T000500
-DTSTAMP:20260413T230500Z
-UID:2026-04-13T23:05:00/Panthers - Rangers
-DESCRIPTION:Panthers - Rangers - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - synsport
 DTSTART:20260414T183000
 DTEND:20260414T193000
 DTSTAMP:20260414T183000Z
 UID:2026-04-14T18:30:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Grindavík - Bónus deild karla - synsportisland2
+DTSTART:20260414T185000
+DTEND:20260414T195000
+DTSTAMP:20260414T185000Z
+UID:2026-04-14T18:50:00/Njarðvík - Grindavík
+DESCRIPTION:Njarðvík - Grindavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atletico Madrid - Barcelona - Meistaradeild Evrópu - synsport
@@ -107,20 +74,20 @@ UID:2026-04-15T18:30:00/Meistaradeildin - upphitun
 DESCRIPTION:Meistaradeildin - upphitun  - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Sporting - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20260415T185000
-DTEND:20260415T195000
-DTSTAMP:20260415T185000Z
-UID:2026-04-15T18:50:00/Arsenal - Sporting
-DESCRIPTION:Arsenal - Sporting - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Real Madrid - Meistaradeild Evrópu - synsport
 DTSTART:20260415T185000
 DTEND:20260415T195000
 DTSTAMP:20260415T185000Z
 UID:2026-04-15T18:50:00/Bayern München - Real Madrid
 DESCRIPTION:Bayern München - Real Madrid - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Sporting - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260415T185000
+DTEND:20260415T195000
+DTSTAMP:20260415T185000Z
+UID:2026-04-15T18:50:00/Arsenal - Sporting
+DESCRIPTION:Arsenal - Sporting - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus deild karla  - Keflavík - Valur - synsportisland
@@ -155,12 +122,20 @@ UID:2026-04-15T23:05:00/Sabres - Stars
 DESCRIPTION:Sabres - Stars - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celta - Freiburg - Evrópudeildin - synsport3
+SUMMARY:KR - Keflavík - Bónus deild kvenna - synsportisland
+DTSTART:20260416T184500
+DTEND:20260416T194500
+DTSTAMP:20260416T184500Z
+UID:2026-04-16T18:45:00/KR - Keflavík
+DESCRIPTION:KR - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fiorentina - Crystal Palace - Sambandsdeildin - synsportviaplay
 DTSTART:20260416T185000
 DTEND:20260416T195000
 DTSTAMP:20260416T185000Z
-UID:2026-04-16T18:50:00/Celta - Freiburg
-DESCRIPTION:Celta - Freiburg - Evrópudeildin
+UID:2026-04-16T18:50:00/Fiorentina - Crystal Palace
+DESCRIPTION:Fiorentina - Crystal Palace - Sambandsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AEK - Rayo Vallecano - Sambandsdeildin - synsport2
@@ -179,12 +154,12 @@ UID:2026-04-16T18:50:00/Nott. Forest - Porto
 DESCRIPTION:Nott. Forest - Porto - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fiorentina - Crystal Palace - Sambandsdeildin - synsportviaplay
+SUMMARY:Celta - Freiburg - Evrópudeildin - synsport3
 DTSTART:20260416T185000
 DTEND:20260416T195000
 DTSTAMP:20260416T185000Z
-UID:2026-04-16T18:50:00/Fiorentina - Crystal Palace
-DESCRIPTION:Fiorentina - Crystal Palace - Sambandsdeildin
+UID:2026-04-16T18:50:00/Celta - Freiburg
+DESCRIPTION:Celta - Freiburg - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
@@ -220,12 +195,20 @@ UID:2026-04-17T12:55:00/Benfica - Club Brugge
 DESCRIPTION:Benfica - Club Brugge - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Subway messan - Besta messan - Besta deild karla - synsportisland
+SUMMARY:KR - Þór - Besta deild karla 2026 - synsportisland5
+DTSTART:20260417T172000
+DTEND:20260417T182000
+DTSTAMP:20260417T172000Z
+UID:2026-04-17T17:20:00/KR - Þór
+DESCRIPTION:KR - Þór - Besta deild karla 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Subway messan - Subway messan - Besta deild karla - synsportisland
 DTSTART:20260417T172000
 DTEND:20260417T182000
 DTSTAMP:20260417T172000Z
 UID:2026-04-17T17:20:00/Subway messan
-DESCRIPTION:Subway messan - Besta messan - Besta deild karla
+DESCRIPTION:Subway messan - Subway messan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - PSG - UEFA Youth League - synsport
@@ -236,6 +219,30 @@ UID:2026-04-17T17:40:00/Real Madrid - PSG
 DESCRIPTION:Real Madrid - PSG - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breiðablik - ÍA - Besta deild karla 2026 - synsportisland2
+DTSTART:20260417T175000
+DTEND:20260417T185000
+DTSTAMP:20260417T175000Z
+UID:2026-04-17T17:50:00/Breiðablik - ÍA
+DESCRIPTION:Breiðablik - ÍA - Besta deild karla 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - ÍBV - Besta deild karla 2026 - synsportisland3
+DTSTART:20260417T175000
+DTEND:20260417T185000
+DTSTAMP:20260417T175000Z
+UID:2026-04-17T17:50:00/Valur - ÍBV
+DESCRIPTION:Valur - ÍBV - Besta deild karla 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Keflavík - Besta deild karla 2026 - synsportisland4
+DTSTART:20260417T175000
+DTEND:20260417T185000
+DTSTAMP:20260417T175000Z
+UID:2026-04-17T17:50:00/Fram - Keflavík
+DESCRIPTION:Fram - Keflavík - Besta deild karla 2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:St. Pauli - Köln - Bundesliga - synsportviaplay
 DTSTART:20260417T182000
 DTEND:20260417T192000
@@ -244,12 +251,12 @@ UID:2026-04-17T18:20:00/St. Pauli - Köln
 DESCRIPTION:St. Pauli - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - FH - Besta deild karla - synsportisland
+SUMMARY:Stjarnan - FH - Besta deild karla 2026 - synsportisland
 DTSTART:20260417T201000
 DTEND:20260417T211000
 DTSTAMP:20260417T201000Z
 UID:2026-04-17T20:10:00/Stjarnan - FH
-DESCRIPTION:Stjarnan - FH - Besta deild karla
+DESCRIPTION:Stjarnan - FH - Besta deild karla 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIV Golf - LIV Golf - synsportviaplay
@@ -292,6 +299,14 @@ UID:2026-04-18T11:10:00/Brentford - Fulham
 DESCRIPTION:Brentford - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20260418T134000
+DTEND:20260418T144000
+DTSTAMP:20260418T134000Z
+UID:2026-04-18T13:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Newcastle - Bournemouth - Premier League - synsport2
 DTSTART:20260418T134000
 DTEND:20260418T144000
@@ -308,14 +323,6 @@ UID:2026-04-18T13:40:00/Leeds - Wolves
 DESCRIPTION:Leeds - Wolves - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
-DTSTART:20260418T134000
-DTEND:20260418T144000
-DTSTAMP:20260418T134000Z
-UID:2026-04-18T13:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wrexham - Stoke - EFL Championship - synsportviaplay
 DTSTART:20260418T135500
 DTEND:20260418T145500
@@ -324,20 +331,20 @@ UID:2026-04-18T13:55:00/Wrexham - Stoke
 DESCRIPTION:Wrexham - Stoke - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - RB Leipzig - Bundesliga - synsportviaplay
-DTSTART:20260418T162000
-DTEND:20260418T172000
-DTSTAMP:20260418T162000Z
-UID:2026-04-18T16:20:00/Frankfurt - RB Leipzig
-DESCRIPTION:Frankfurt - RB Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tottenham - Brighton - Premier League - synsport
 DTSTART:20260418T162000
 DTEND:20260418T172000
 DTSTAMP:20260418T162000Z
 UID:2026-04-18T16:20:00/Tottenham - Brighton
 DESCRIPTION:Tottenham - Brighton - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - RB Leipzig - Bundesliga - synsportviaplay
+DTSTART:20260418T162000
+DTEND:20260418T172000
+DTSTAMP:20260418T162000Z
+UID:2026-04-18T16:20:00/Frankfurt - RB Leipzig
+DESCRIPTION:Frankfurt - RB Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamar/Þór - Fjölnir - 1. deild kvenna í körfubolta  - kkitv1
@@ -364,6 +371,14 @@ UID:2026-04-18T18:40:00/Chelsea - Man. Utd.
 DESCRIPTION:Chelsea - Man. Utd. - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grindavík - Njarðvík - Bónus deild karla - synsportisland5
+DTSTART:20260418T190000
+DTEND:20260418T200000
+DTSTAMP:20260418T190000Z
+UID:2026-04-18T19:00:00/Grindavík - Njarðvík
+DESCRIPTION:Grindavík - Njarðvík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport
 DTSTART:20260418T210500
 DTEND:20260418T220500
@@ -386,6 +401,22 @@ DTEND:20260418T230000
 DTSTAMP:20260418T220000Z
 UID:2026-04-18T22:00:00/JM Eagle LA Championship
 DESCRIPTION:JM Eagle LA Championship - LPGA Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - KR - Bónus deild karla - synsportisland5
+DTSTART:20260418T232000
+DTEND:20260419T002000
+DTSTAMP:20260418T232000Z
+UID:2026-04-18T23:20:00/Stjarnan - KR
+DESCRIPTION:Stjarnan - KR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Keflavík - Bónus deild karla - synsportisland5
+DTSTART:20260419T012500
+DTEND:20260419T022500
+DTSTAMP:20260419T012500Z
+UID:2026-04-19T01:25:00/Valur - Keflavík
+DESCRIPTION:Valur - Keflavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joburg Ladies Open - Ladies European Tour - synsportviaplay
@@ -412,20 +443,20 @@ UID:2026-04-19T13:20:00/Freiburg - Heidenheim
 DESCRIPTION:Freiburg - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nott. Forest - Burnley - Premier League - synsport4
-DTSTART:20260419T134000
-DTEND:20260419T144000
-DTSTAMP:20260419T134000Z
-UID:2026-04-19T13:40:00/Nott. Forest - Burnley
-DESCRIPTION:Nott. Forest - Burnley - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Sunderland - Premier League - synsport3
 DTSTART:20260419T134000
 DTEND:20260419T144000
 DTSTAMP:20260419T134000Z
 UID:2026-04-19T13:40:00/Aston Villa - Sunderland
 DESCRIPTION:Aston Villa - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nott. Forest - Burnley - Premier League - synsport4
+DTSTART:20260419T134000
+DTEND:20260419T144000
+DTSTAMP:20260419T134000Z
+UID:2026-04-19T13:40:00/Nott. Forest - Burnley
+DESCRIPTION:Nott. Forest - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Arsenal - Premier League - synsport
@@ -460,11 +491,63 @@ UID:2026-04-19T18:00:00/LIV Golf
 DESCRIPTION:LIV Golf - LIV Golf
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bónus deild kvenna - Bónus deild kvenna - synsportisland
+DTSTART:20260419T190500
+DTEND:20260419T200500
+DTSTAMP:20260419T190500Z
+UID:2026-04-19T19:05:00/Bónus deild kvenna
+DESCRIPTION:Bónus deild kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bröndby böðullinn / Frá óvissu í sögubækurnar - Augnabliki
+ n - synsportisland
+DTSTART:20260419T210500
+DTEND:20260419T220500
+DTSTAMP:20260419T210500Z
+UID:2026-04-19T21:05:00/Bröndby böðullinn / Frá óvissu í sögubækur
+ nar
+DESCRIPTION:Bröndby böðullinn / Frá óvissu í sögubækurnar - Augnab
+ likin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JM Eagle LA Championship - LPGA Tour - synsport4
 DTSTART:20260419T220000
 DTEND:20260419T230000
 DTSTAMP:20260419T220000Z
 UID:2026-04-19T22:00:00/JM Eagle LA Championship
 DESCRIPTION:JM Eagle LA Championship - LPGA Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA Youth League  - UEFA Youth League - synsport
+DTSTART:20260420T155000
+DTEND:20260420T165000
+DTSTAMP:20260420T155000Z
+UID:2026-04-20T15:50:00/UEFA Youth League 
+DESCRIPTION:UEFA Youth League  - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - West Ham - Premier League - synsport
+DTSTART:20260420T184000
+DTEND:20260420T194000
+DTSTAMP:20260420T184000Z
+UID:2026-04-20T18:40:00/Crystal Palace - West Ham
+DESCRIPTION:Crystal Palace - West Ham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deild kvenna - Bónus deild kvenna - synsportisland
+DTSTART:20260420T190500
+DTEND:20260420T200500
+DTSTAMP:20260420T190500Z
+UID:2026-04-20T19:05:00/Bónus deild kvenna
+DESCRIPTION:Bónus deild kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
+ sland
+DTSTART:20260420T211000
+DTEND:20260420T221000
+DTSTAMP:20260420T211000Z
+UID:2026-04-20T21:10:00/Bónus Körfuboltakvöld kvenna 
+DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 END:VCALENDAR
