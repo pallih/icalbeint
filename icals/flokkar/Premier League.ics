@@ -66,20 +66,20 @@ UID:2026-04-19T12:40:00/Everton - Liverpool
 DESCRIPTION:Everton - Liverpool - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aston Villa - Sunderland - Premier League - synsport3
-DTSTART:20260419T134000
-DTEND:20260419T144000
-DTSTAMP:20260419T134000Z
-UID:2026-04-19T13:40:00/Aston Villa - Sunderland
-DESCRIPTION:Aston Villa - Sunderland - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nott. Forest - Burnley - Premier League - synsport4
 DTSTART:20260419T134000
 DTEND:20260419T144000
 DTSTAMP:20260419T134000Z
 UID:2026-04-19T13:40:00/Nott. Forest - Burnley
 DESCRIPTION:Nott. Forest - Burnley - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Sunderland - Premier League - synsport3
+DTSTART:20260419T134000
+DTEND:20260419T144000
+DTSTAMP:20260419T134000Z
+UID:2026-04-19T13:40:00/Aston Villa - Sunderland
+DESCRIPTION:Aston Villa - Sunderland - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Arsenal - Premier League - synsport
@@ -104,5 +104,13 @@ DTEND:20260420T194000
 DTSTAMP:20260420T184000Z
 UID:2026-04-20T18:40:00/Crystal Palace - West Ham
 DESCRIPTION:Crystal Palace - West Ham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - Chelsea - Premier League - synsport
+DTSTART:20260421T184000
+DTEND:20260421T194000
+DTSTAMP:20260421T184000Z
+UID:2026-04-21T18:40:00/Brighton - Chelsea
+DESCRIPTION:Brighton - Chelsea - Premier League
 END:VEVENT
 END:VCALENDAR

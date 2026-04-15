@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
+SUMMARY:St. Pauli - Köln - Bundesliga - synsportviaplay
+DTSTART:20260417T182000
+DTEND:20260417T192000
+DTSTAMP:20260417T182000Z
+UID:2026-04-17T18:20:00/St. Pauli - Köln
+DESCRIPTION:St. Pauli - Köln - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:St. Pauli - Köln - Bundesliga - viaplay
 DTSTART:20260417T182000
 DTEND:20260417T192000
@@ -10,12 +18,20 @@ UID:2026-04-17T18:20:00/St. Pauli - Köln
 DESCRIPTION:St. Pauli - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Köln - Bundesliga - synsportviaplay
-DTSTART:20260417T182000
-DTEND:20260417T192000
-DTSTAMP:20260417T182000Z
-UID:2026-04-17T18:20:00/St. Pauli - Köln
-DESCRIPTION:St. Pauli - Köln - Bundesliga
+SUMMARY:Leverkusen - Augsburg - Bundesliga - viaplay
+DTSTART:20260418T132000
+DTEND:20260418T142000
+DTSTAMP:20260418T132000Z
+UID:2026-04-18T13:20:00/Leverkusen - Augsburg
+DESCRIPTION:Leverkusen - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Wolfsburg - Bundesliga - viaplay
+DTSTART:20260418T132000
+DTEND:20260418T142000
+DTSTAMP:20260418T132000Z
+UID:2026-04-18T13:20:00/Union Berlin - Wolfsburg
+DESCRIPTION:Union Berlin - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -34,28 +50,12 @@ UID:2026-04-18T13:20:00/Hoffenheim - Dortmund
 DESCRIPTION:Hoffenheim - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Wolfsburg - Bundesliga - viaplay
-DTSTART:20260418T132000
-DTEND:20260418T142000
-DTSTAMP:20260418T132000Z
-UID:2026-04-18T13:20:00/Union Berlin - Wolfsburg
-DESCRIPTION:Union Berlin - Wolfsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Werder Bremen - HSV - Bundesliga - viaplay
 DTSTART:20260418T132000
 DTEND:20260418T142000
 DTSTAMP:20260418T132000Z
 UID:2026-04-18T13:20:00/Werder Bremen - HSV
 DESCRIPTION:Werder Bremen - HSV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leverkusen - Augsburg - Bundesliga - viaplay
-DTSTART:20260418T132000
-DTEND:20260418T142000
-DTSTAMP:20260418T132000Z
-UID:2026-04-18T13:20:00/Leverkusen - Augsburg
-DESCRIPTION:Leverkusen - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Leipzig - Bundesliga - viaplay
@@ -74,14 +74,6 @@ UID:2026-04-18T16:20:00/Frankfurt - RB Leipzig
 DESCRIPTION:Frankfurt - RB Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Heidenheim - Bundesliga - viaplay
-DTSTART:20260419T132000
-DTEND:20260419T142000
-DTSTAMP:20260419T132000Z
-UID:2026-04-19T13:20:00/Freiburg - Heidenheim
-DESCRIPTION:Freiburg - Heidenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freiburg - Heidenheim - Bundesliga - synsportviaplay
 DTSTART:20260419T132000
 DTEND:20260419T142000
@@ -90,12 +82,12 @@ UID:2026-04-19T13:20:00/Freiburg - Heidenheim
 DESCRIPTION:Freiburg - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Stuttgart - Bundesliga - viaplay
-DTSTART:20260419T152000
-DTEND:20260419T162000
-DTSTAMP:20260419T152000Z
-UID:2026-04-19T15:20:00/Bayern München - Stuttgart
-DESCRIPTION:Bayern München - Stuttgart - Bundesliga
+SUMMARY:Freiburg - Heidenheim - Bundesliga - viaplay
+DTSTART:20260419T132000
+DTEND:20260419T142000
+DTSTAMP:20260419T132000Z
+UID:2026-04-19T13:20:00/Freiburg - Heidenheim
+DESCRIPTION:Freiburg - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Stuttgart (Tactical Feed) - Bundesliga - viaplay
@@ -104,6 +96,14 @@ DTEND:20260419T162000
 DTSTAMP:20260419T152000Z
 UID:2026-04-19T15:20:00/Bayern München - Stuttgart (Tactical Feed)
 DESCRIPTION:Bayern München - Stuttgart (Tactical Feed) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Stuttgart - Bundesliga - viaplay
+DTSTART:20260419T152000
+DTEND:20260419T162000
+DTSTAMP:20260419T152000Z
+UID:2026-04-19T15:20:00/Bayern München - Stuttgart
+DESCRIPTION:Bayern München - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Stuttgart - Bundesliga - synsportviaplay
