@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Keflavík - Valur - Bónus deild karla - synsportisland
-DTSTART:20260415T190000
-DTEND:20260415T200000
-DTSTAMP:20260415T190000Z
-UID:2026-04-15T19:00:00/Keflavík - Valur
-DESCRIPTION:Keflavík - Valur - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
-DTSTART:20260415T211500
-DTEND:20260415T221500
-DTSTAMP:20260415T211500Z
-UID:2026-04-15T21:15:00/Bónus Körfuboltakvöld 
-DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KR - Keflavík - Bónus deild kvenna - synsportisland
 DTSTART:20260416T190000
 DTEND:20260416T200000
@@ -91,12 +75,28 @@ UID:2026-04-19T01:25:00/Valur - Keflavík
 DESCRIPTION:Valur - Keflavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bónus deild kvenna - Bónus deild kvenna - synsportisland
+SUMMARY:Valur - Keflavík - Bónus deild karla - synsportisland
+DTSTART:20260419T183000
+DTEND:20260419T193000
+DTSTAMP:20260419T183000Z
+UID:2026-04-19T18:30:00/Valur - Keflavík
+DESCRIPTION:Valur - Keflavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deild kvenna - Bónus deild kvenna - synsportisland2
 DTSTART:20260419T190500
 DTEND:20260419T200500
 DTSTAMP:20260419T190500Z
 UID:2026-04-19T19:05:00/Bónus deild kvenna
 DESCRIPTION:Bónus deild kvenna - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
+DTSTART:20260419T211500
+DTEND:20260419T221500
+DTSTAMP:20260419T211500Z
+UID:2026-04-19T21:15:00/Bónus Körfuboltakvöld 
+DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus deild kvenna - Bónus deild kvenna - synsportisland
@@ -109,19 +109,19 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
  sland
-DTSTART:20260420T211000
-DTEND:20260420T221000
-DTSTAMP:20260420T211000Z
-UID:2026-04-20T21:10:00/Bónus Körfuboltakvöld kvenna 
+DTSTART:20260420T211500
+DTEND:20260420T221500
+DTSTAMP:20260420T211500Z
+UID:2026-04-20T21:15:00/Bónus Körfuboltakvöld kvenna 
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bónus deild karla  - Bónus deild karla - synsportisland
+SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - synsportisland
 DTSTART:20260421T184500
 DTEND:20260421T194500
 DTSTAMP:20260421T184500Z
-UID:2026-04-21T18:45:00/Bónus deild karla 
-DESCRIPTION:Bónus deild karla  - Bónus deild karla
+UID:2026-04-21T18:45:00/Tindastóll - Stjarnan
+DESCRIPTION:Tindastóll - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
@@ -129,6 +129,22 @@ DTSTART:20260421T210000
 DTEND:20260421T220000
 DTSTAMP:20260421T210000Z
 UID:2026-04-21T21:00:00/Bónus Körfuboltakvöld 
+DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deild karla  - Bónus deild karla - synsportisland
+DTSTART:20260422T184500
+DTEND:20260422T194500
+DTSTAMP:20260422T184500Z
+UID:2026-04-22T18:45:00/Bónus deild karla 
+DESCRIPTION:Bónus deild karla  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
+DTSTART:20260422T220000
+DTEND:20260422T230000
+DTSTAMP:20260422T220000Z
+UID:2026-04-22T22:00:00/Bónus Körfuboltakvöld 
 DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
