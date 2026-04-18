@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Köln - Bundesliga - synsportviaplay
-DTSTART:20260417T182000
-DTEND:20260417T192000
-DTSTAMP:20260417T182000Z
-UID:2026-04-17T18:20:00/St. Pauli - Köln
-DESCRIPTION:St. Pauli - Köln - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St. Pauli - Köln - Bundesliga - viaplay
-DTSTART:20260417T182000
-DTEND:20260417T192000
-DTSTAMP:20260417T182000Z
-UID:2026-04-17T18:20:00/St. Pauli - Köln
-DESCRIPTION:St. Pauli - Köln - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werder Bremen - HSV - Bundesliga - viaplay
-DTSTART:20260418T132000
-DTEND:20260418T142000
-DTSTAMP:20260418T132000Z
-UID:2026-04-18T13:20:00/Werder Bremen - HSV
-DESCRIPTION:Werder Bremen - HSV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leverkusen - Augsburg - Bundesliga - viaplay
 DTSTART:20260418T132000
 DTEND:20260418T142000
@@ -58,12 +34,12 @@ UID:2026-04-18T13:20:00/Union Berlin - Wolfsburg
 DESCRIPTION:Union Berlin - Wolfsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Leipzig - Bundesliga - viaplay
-DTSTART:20260418T162000
-DTEND:20260418T172000
-DTSTAMP:20260418T162000Z
-UID:2026-04-18T16:20:00/Frankfurt - Leipzig
-DESCRIPTION:Frankfurt - Leipzig - Bundesliga
+SUMMARY:Werder Bremen - HSV - Bundesliga - viaplay
+DTSTART:20260418T132000
+DTEND:20260418T142000
+DTSTAMP:20260418T132000Z
+UID:2026-04-18T13:20:00/Werder Bremen - HSV
+DESCRIPTION:Werder Bremen - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - RB Leipzig - Bundesliga - synsportviaplay
@@ -72,6 +48,14 @@ DTEND:20260418T172000
 DTSTAMP:20260418T162000Z
 UID:2026-04-18T16:20:00/Frankfurt - RB Leipzig
 DESCRIPTION:Frankfurt - RB Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Leipzig - Bundesliga - viaplay
+DTSTART:20260418T162000
+DTEND:20260418T172000
+DTSTAMP:20260418T162000Z
+UID:2026-04-18T16:20:00/Frankfurt - Leipzig
+DESCRIPTION:Frankfurt - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freiburg - Heidenheim - Bundesliga - viaplay
@@ -90,20 +74,20 @@ UID:2026-04-19T13:20:00/Freiburg - Heidenheim
 DESCRIPTION:Freiburg - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Stuttgart (Tactical Feed) - Bundesliga - viaplay
-DTSTART:20260419T152000
-DTEND:20260419T162000
-DTSTAMP:20260419T152000Z
-UID:2026-04-19T15:20:00/Bayern München - Stuttgart (Tactical Feed)
-DESCRIPTION:Bayern München - Stuttgart (Tactical Feed) - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bayern München - Stuttgart - Bundesliga - viaplay
 DTSTART:20260419T152000
 DTEND:20260419T162000
 DTSTAMP:20260419T152000Z
 UID:2026-04-19T15:20:00/Bayern München - Stuttgart
 DESCRIPTION:Bayern München - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Stuttgart (Tactical Feed) - Bundesliga - viaplay
+DTSTART:20260419T152000
+DTEND:20260419T162000
+DTSTAMP:20260419T152000Z
+UID:2026-04-19T15:20:00/Bayern München - Stuttgart (Tactical Feed)
+DESCRIPTION:Bayern München - Stuttgart (Tactical Feed) - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Stuttgart - Bundesliga - synsportviaplay
@@ -128,5 +112,21 @@ DTEND:20260423T175500
 DTSTAMP:20260423T165500Z
 UID:2026-04-23T16:55:00/Füchse Berlin - Gummersbach
 DESCRIPTION:Füchse Berlin - Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flensburg-Handewitt - Melsungen - Bundesliga - viaplay
+DTSTART:20260424T175500
+DTEND:20260424T185500
+DTSTAMP:20260424T175500Z
+UID:2026-04-24T17:55:00/Flensburg-Handewitt - Melsungen
+DESCRIPTION:Flensburg-Handewitt - Melsungen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Union Berlin - Bundesliga - viaplay
+DTSTART:20260424T182000
+DTEND:20260424T192000
+DTSTAMP:20260424T182000Z
+UID:2026-04-24T18:20:00/Leipzig - Union Berlin
+DESCRIPTION:Leipzig - Union Berlin - Bundesliga
 END:VEVENT
 END:VCALENDAR
