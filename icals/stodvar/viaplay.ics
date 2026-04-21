@@ -2,59 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Vegas - Utah - NHL - viaplay
-DTSTART:20260420T020500
-DTEND:20260420T030500
-DTSTAMP:20260420T020500Z
-UID:2026-04-20T02:05:00/Vegas - Utah
-DESCRIPTION:Vegas - Utah - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20260420T100000
-DTEND:20260420T110000
-DTSTAMP:20260420T100000Z
-UID:2026-04-20T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Brugge - Real Madrid - UEFA Youth League - viaplay
-DTSTART:20260420T164000
-DTEND:20260420T174000
-DTSTAMP:20260420T164000Z
-UID:2026-04-20T16:40:00/Club Brugge - Real Madrid
-DESCRIPTION:Club Brugge - Real Madrid - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pittsburgh - Philadelphia - NHL - viaplay
-DTSTART:20260420T230500
-DTEND:20260421T000500
-DTSTAMP:20260420T230500Z
-UID:2026-04-20T23:05:00/Pittsburgh - Philadelphia
-DESCRIPTION:Pittsburgh - Philadelphia - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carolina - Ottawa - NHL - viaplay
-DTSTART:20260420T233500
-DTEND:20260421T003500
-DTSTAMP:20260420T233500Z
-UID:2026-04-20T23:35:00/Carolina - Ottawa
-DESCRIPTION:Carolina - Ottawa - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dallas - Minnesota - NHL - viaplay
-DTSTART:20260421T013500
-DTEND:20260421T023500
-DTSTAMP:20260421T013500Z
-UID:2026-04-21T01:35:00/Dallas - Minnesota
+DTSTART:20260421T014500
+DTEND:20260421T024500
+DTSTAMP:20260421T014500Z
+UID:2026-04-21T01:45:00/Dallas - Minnesota
 DESCRIPTION:Dallas - Minnesota - NHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton - Anaheim - NHL - viaplay
-DTSTART:20260421T020500
-DTEND:20260421T030500
-DTSTAMP:20260421T020500Z
-UID:2026-04-21T02:05:00/Edmonton - Anaheim
+DTSTART:20260421T022000
+DTEND:20260421T032000
+DTSTAMP:20260421T022000Z
+UID:2026-04-21T02:20:00/Edmonton - Anaheim
 DESCRIPTION:Edmonton - Anaheim - NHL
 END:VEVENT
 BEGIN:VEVENT
@@ -66,20 +26,12 @@ UID:2026-04-21T10:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Brom - Watford - Championship - viaplay
+SUMMARY:QPR - Swansea - Championship - viaplay
 DTSTART:20260421T184000
 DTEND:20260421T194000
 DTSTAMP:20260421T184000Z
-UID:2026-04-21T18:40:00/West Brom - Watford
-DESCRIPTION:West Brom - Watford - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oxford - Wrexham - Championship - viaplay
-DTSTART:20260421T184000
-DTEND:20260421T194000
-DTSTAMP:20260421T184000Z
-UID:2026-04-21T18:40:00/Oxford - Wrexham
-DESCRIPTION:Oxford - Wrexham - Championship
+UID:2026-04-21T18:40:00/QPR - Swansea
+DESCRIPTION:QPR - Swansea - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leicester - Hull - Championship - viaplay
@@ -98,20 +50,12 @@ UID:2026-04-21T18:40:00/Stoke - Millwall
 DESCRIPTION:Stoke - Millwall - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Bristol City - Championship - viaplay
+SUMMARY:West Brom - Watford - Championship - viaplay
 DTSTART:20260421T184000
 DTEND:20260421T194000
 DTSTAMP:20260421T184000Z
-UID:2026-04-21T18:40:00/Southampton - Bristol City
-DESCRIPTION:Southampton - Bristol City - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norwich - Derby - Championship - viaplay
-DTSTART:20260421T184000
-DTEND:20260421T194000
-DTSTAMP:20260421T184000Z
-UID:2026-04-21T18:40:00/Norwich - Derby
-DESCRIPTION:Norwich - Derby - Championship
+UID:2026-04-21T18:40:00/West Brom - Watford
+DESCRIPTION:West Brom - Watford - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coventry - Portsmouth - Championship - viaplay
@@ -122,12 +66,28 @@ UID:2026-04-21T18:40:00/Coventry - Portsmouth
 DESCRIPTION:Coventry - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QPR - Swansea - Championship - viaplay
+SUMMARY:Norwich - Derby - Championship - viaplay
 DTSTART:20260421T184000
 DTEND:20260421T194000
 DTSTAMP:20260421T184000Z
-UID:2026-04-21T18:40:00/QPR - Swansea
-DESCRIPTION:QPR - Swansea - Championship
+UID:2026-04-21T18:40:00/Norwich - Derby
+DESCRIPTION:Norwich - Derby - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southampton - Bristol City - Championship - viaplay
+DTSTART:20260421T184000
+DTEND:20260421T194000
+DTSTAMP:20260421T184000Z
+UID:2026-04-21T18:40:00/Southampton - Bristol City
+DESCRIPTION:Southampton - Bristol City - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oxford - Wrexham - Championship - viaplay
+DTSTART:20260421T184000
+DTEND:20260421T194000
+DTSTAMP:20260421T184000Z
+UID:2026-04-21T18:40:00/Oxford - Wrexham
+DESCRIPTION:Oxford - Wrexham - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tampa Bay - Montreal - NHL - viaplay
@@ -170,14 +130,6 @@ UID:2026-04-22T10:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Bayern München - Frauen-Bundesliga - viaplay
-DTSTART:20260422T155500
-DTEND:20260422T165500
-DTSTAMP:20260422T155500Z
-UID:2026-04-22T15:55:00/Union Berlin - Bayern München
-DESCRIPTION:Union Berlin - Bayern München - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Werder Bremen - Wolfsburg - Frauen-Bundesliga - viaplay
 DTSTART:20260422T155500
 DTEND:20260422T165500
@@ -186,20 +138,12 @@ UID:2026-04-22T15:55:00/Werder Bremen - Wolfsburg
 DESCRIPTION:Werder Bremen - Wolfsburg - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlton - Ipswich - Championship - viaplay
-DTSTART:20260422T184000
-DTEND:20260422T194000
-DTSTAMP:20260422T184000Z
-UID:2026-04-22T18:40:00/Charlton - Ipswich
-DESCRIPTION:Charlton - Ipswich - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield United - Blackburn - Championship - viaplay
-DTSTART:20260422T184000
-DTEND:20260422T194000
-DTSTAMP:20260422T184000Z
-UID:2026-04-22T18:40:00/Sheffield United - Blackburn
-DESCRIPTION:Sheffield United - Blackburn - Championship
+SUMMARY:Union Berlin - Bayern München - Frauen-Bundesliga - viaplay
+DTSTART:20260422T155500
+DTEND:20260422T165500
+DTSTAMP:20260422T155500Z
+UID:2026-04-22T15:55:00/Union Berlin - Bayern München
+DESCRIPTION:Union Berlin - Bayern München - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Middlesbrough - Sheffield Wednesday - Championship - viaplay
@@ -216,6 +160,22 @@ DTEND:20260422T194000
 DTSTAMP:20260422T184000Z
 UID:2026-04-22T18:40:00/Birmingham - Preston
 DESCRIPTION:Birmingham - Preston - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlton - Ipswich - Championship - viaplay
+DTSTART:20260422T184000
+DTEND:20260422T194000
+DTSTAMP:20260422T184000Z
+UID:2026-04-22T18:40:00/Charlton - Ipswich
+DESCRIPTION:Charlton - Ipswich - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Blackburn - Championship - viaplay
+DTSTART:20260422T184000
+DTEND:20260422T194000
+DTSTAMP:20260422T184000Z
+UID:2026-04-22T18:40:00/Sheffield United - Blackburn
+DESCRIPTION:Sheffield United - Blackburn - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia - Pittsburgh - NHL - viaplay
@@ -259,20 +219,20 @@ UID:2026-04-23T11:30:00/Investec South African Women's Open
 DESCRIPTION:Investec South African Women's Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Füchse Berlin - Gummersbach - Bundesliga - viaplay
-DTSTART:20260423T165500
-DTEND:20260423T175500
-DTSTAMP:20260423T165500Z
-UID:2026-04-23T16:55:00/Füchse Berlin - Gummersbach
-DESCRIPTION:Füchse Berlin - Gummersbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skellefteå - Rögle - SHL - viaplay
 DTSTART:20260423T165500
 DTEND:20260423T175500
 DTSTAMP:20260423T165500Z
 UID:2026-04-23T16:55:00/Skellefteå - Rögle
 DESCRIPTION:Skellefteå - Rögle - SHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Gummersbach - Bundesliga - viaplay
+DTSTART:20260423T165500
+DTEND:20260423T175500
+DTSTAMP:20260423T165500Z
+UID:2026-04-23T16:55:00/Füchse Berlin - Gummersbach
+DESCRIPTION:Füchse Berlin - Gummersbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Premier League Darts - PDC Darts - viaplay
@@ -557,12 +517,12 @@ UID:2026-04-25T10:40:00/Spænski Kappaksturinn (Tímatökur)
 DESCRIPTION:Spænski Kappaksturinn (Tímatökur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Hannover - 2. Bundesliga - viaplay
+SUMMARY:Hertha Berlin - Holstein Kiel - 2. Bundesliga - viaplay
 DTSTART:20260425T105500
 DTEND:20260425T115500
 DTSTAMP:20260425T105500Z
-UID:2026-04-25T10:55:00/Karlsruher - Hannover
-DESCRIPTION:Karlsruher - Hannover - 2. Bundesliga
+UID:2026-04-25T10:55:00/Hertha Berlin - Holstein Kiel
+DESCRIPTION:Hertha Berlin - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preußen Münster - Arminia Bielefeld - 2. Bundesliga - viaplay
@@ -573,12 +533,12 @@ UID:2026-04-25T10:55:00/Preußen Münster - Arminia Bielefeld
 DESCRIPTION:Preußen Münster - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Holstein Kiel - 2. Bundesliga - viaplay
+SUMMARY:Karlsruher - Hannover - 2. Bundesliga - viaplay
 DTSTART:20260425T105500
 DTEND:20260425T115500
 DTSTAMP:20260425T105500Z
-UID:2026-04-25T10:55:00/Hertha Berlin - Holstein Kiel
-DESCRIPTION:Hertha Berlin - Holstein Kiel - 2. Bundesliga
+UID:2026-04-25T10:55:00/Karlsruher - Hannover
+DESCRIPTION:Karlsruher - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Bull Ring (Kappakstur 1) - DTM - viaplay
@@ -587,14 +547,6 @@ DTEND:20260425T121500
 DTSTAMP:20260425T111500Z
 UID:2026-04-25T11:15:00/Red Bull Ring (Kappakstur 1)
 DESCRIPTION:Red Bull Ring (Kappakstur 1) - DTM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Brom - Ipswich - Championship - viaplay
-DTSTART:20260425T112500
-DTEND:20260425T122500
-DTSTAMP:20260425T112500Z
-UID:2026-04-25T11:25:00/West Brom - Ipswich
-DESCRIPTION:West Brom - Ipswich - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Middlesbrough - Watford - Championship - viaplay
@@ -613,12 +565,28 @@ UID:2026-04-25T11:25:00/Charlton - Hull
 DESCRIPTION:Charlton - Hull - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:West Brom - Ipswich - Championship - viaplay
+DTSTART:20260425T112500
+DTEND:20260425T122500
+DTSTAMP:20260425T112500Z
+UID:2026-04-25T11:25:00/West Brom - Ipswich
+DESCRIPTION:West Brom - Ipswich - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spænski Kappaksturinn (Tímatökur) - Moto2 - viaplay
 DTSTART:20260425T113500
 DTEND:20260425T123500
 DTSTAMP:20260425T113500Z
 UID:2026-04-25T11:35:00/Spænski Kappaksturinn (Tímatökur)
 DESCRIPTION:Spænski Kappaksturinn (Tímatökur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uppsala - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20260425T115000
+DTEND:20260425T125000
+DTSTAMP:20260425T115000Z
+UID:2026-04-25T11:50:00/Uppsala - Rosengård
+DESCRIPTION:Uppsala - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mugello (Coppa Shell | Kappakstur 1) - Ferrari Challenge Europe - 
@@ -629,14 +597,6 @@ DTSTAMP:20260425T115000Z
 UID:2026-04-25T11:50:00/Mugello (Coppa Shell | Kappakstur 1)
 DESCRIPTION:Mugello (Coppa Shell | Kappakstur 1) - Ferrari Challenge Europ
  e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uppsala - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20260425T115000
-DTEND:20260425T125000
-DTSTAMP:20260425T115000Z
-UID:2026-04-25T11:50:00/Uppsala - Rosengård
-DESCRIPTION:Uppsala - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Werder Bremen - Frauen-Bundesliga - viaplay
@@ -663,20 +623,20 @@ UID:2026-04-25T12:50:00/Kristianstad - Växjö
 DESCRIPTION:Kristianstad - Växjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull Ring (Kappakstur 1) - ADAC GT4 Masters - viaplay
-DTSTART:20260425T130500
-DTEND:20260425T140500
-DTSTAMP:20260425T130500Z
-UID:2026-04-25T13:05:00/Red Bull Ring (Kappakstur 1)
-DESCRIPTION:Red Bull Ring (Kappakstur 1) - ADAC GT4 Masters
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:England - Wales - Women's Six Nations - viaplay
 DTSTART:20260425T130500
 DTEND:20260425T140500
 DTSTAMP:20260425T130500Z
 UID:2026-04-25T13:05:00/England - Wales
 DESCRIPTION:England - Wales - Women's Six Nations
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Bull Ring (Kappakstur 1) - ADAC GT4 Masters - viaplay
+DTSTART:20260425T130500
+DTEND:20260425T140500
+DTSTAMP:20260425T130500Z
+UID:2026-04-25T13:05:00/Red Bull Ring (Kappakstur 1)
+DESCRIPTION:Red Bull Ring (Kappakstur 1) - ADAC GT4 Masters
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mugello (Trofeo Pirelli | Kappakstur 1) - Ferrari Challenge Europ
@@ -697,30 +657,6 @@ UID:2026-04-25T13:10:00/Skellefteå - Rögle
 DESCRIPTION:Skellefteå - Rögle - SHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - St. Pauli - Bundesliga - viaplay
-DTSTART:20260425T132000
-DTEND:20260425T142000
-DTSTAMP:20260425T132000Z
-UID:2026-04-25T13:20:00/Heidenheim - St. Pauli
-DESCRIPTION:Heidenheim - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20260425T132000
-DTEND:20260425T142000
-DTSTAMP:20260425T132000Z
-UID:2026-04-25T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Köln - Leverkusen - Bundesliga - viaplay
-DTSTART:20260425T132000
-DTEND:20260425T142000
-DTSTAMP:20260425T132000Z
-UID:2026-04-25T13:20:00/Köln - Leverkusen
-DESCRIPTION:Köln - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mainz - Bayern München - Bundesliga - viaplay
 DTSTART:20260425T132000
 DTEND:20260425T142000
@@ -737,12 +673,44 @@ UID:2026-04-25T13:20:00/Wolfsburg - Mönchengladbach
 DESCRIPTION:Wolfsburg - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Köln - Leverkusen - Bundesliga - viaplay
+DTSTART:20260425T132000
+DTEND:20260425T142000
+DTSTAMP:20260425T132000Z
+UID:2026-04-25T13:20:00/Köln - Leverkusen
+DESCRIPTION:Köln - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - St. Pauli - Bundesliga - viaplay
+DTSTART:20260425T132000
+DTEND:20260425T142000
+DTSTAMP:20260425T132000Z
+UID:2026-04-25T13:20:00/Heidenheim - St. Pauli
+DESCRIPTION:Heidenheim - St. Pauli - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Augsburg - Frankfurt - Bundesliga - viaplay
 DTSTART:20260425T132000
 DTEND:20260425T142000
 DTSTAMP:20260425T132000Z
 UID:2026-04-25T13:20:00/Augsburg - Frankfurt
 DESCRIPTION:Augsburg - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20260425T132000
+DTEND:20260425T142000
+DTSTAMP:20260425T132000Z
+UID:2026-04-25T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birmingham - Bristol City - Championship - viaplay
+DTSTART:20260425T135500
+DTEND:20260425T145500
+DTSTAMP:20260425T135500Z
+UID:2026-04-25T13:55:00/Birmingham - Bristol City
+DESCRIPTION:Birmingham - Bristol City - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QPR - Derby - Championship - viaplay
@@ -753,12 +721,12 @@ UID:2026-04-25T13:55:00/QPR - Derby
 DESCRIPTION:QPR - Derby - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oxford United - Sheffield Wednesday - Championship - viaplay
+SUMMARY:Stoke - Portsmouth - Championship - viaplay
 DTSTART:20260425T135500
 DTEND:20260425T145500
 DTSTAMP:20260425T135500Z
-UID:2026-04-25T13:55:00/Oxford United - Sheffield Wednesday
-DESCRIPTION:Oxford United - Sheffield Wednesday - Championship
+UID:2026-04-25T13:55:00/Stoke - Portsmouth
+DESCRIPTION:Stoke - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield United - Preston - Championship - viaplay
@@ -769,20 +737,12 @@ UID:2026-04-25T13:55:00/Sheffield United - Preston
 DESCRIPTION:Sheffield United - Preston - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stoke - Portsmouth - Championship - viaplay
+SUMMARY:Oxford United - Sheffield Wednesday - Championship - viaplay
 DTSTART:20260425T135500
 DTEND:20260425T145500
 DTSTAMP:20260425T135500Z
-UID:2026-04-25T13:55:00/Stoke - Portsmouth
-DESCRIPTION:Stoke - Portsmouth - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Birmingham - Bristol City - Championship - viaplay
-DTSTART:20260425T135500
-DTEND:20260425T145500
-DTSTAMP:20260425T135500Z
-UID:2026-04-25T13:55:00/Birmingham - Bristol City
-DESCRIPTION:Birmingham - Bristol City - Championship
+UID:2026-04-25T13:55:00/Oxford United - Sheffield Wednesday
+DESCRIPTION:Oxford United - Sheffield Wednesday - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norwich - Swansea - Championship - viaplay
@@ -883,6 +843,34 @@ UID:2026-04-26T00:00:00/Sterling vs Zalal
 DESCRIPTION:Sterling vs Zalal - UFC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Philadelphia - Pittsburgh - NHL - viaplay
+DTSTART:20260426T000500
+DTEND:20260426T010500
+DTSTAMP:20260426T000500Z
+UID:2026-04-26T00:05:00/Philadelphia - Pittsburgh
+DESCRIPTION:Philadelphia - Pittsburgh - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okayama (Trofeo Pirelli | Kappakstur 2) - Ferrari Challenge Japan 
+ - viaplay
+DTSTART:20260426T034500
+DTEND:20260426T044500
+DTSTAMP:20260426T034500Z
+UID:2026-04-26T03:45:00/Okayama (Trofeo Pirelli | Kappakstur 2)
+DESCRIPTION:Okayama (Trofeo Pirelli | Kappakstur 2) - Ferrari Challenge Ja
+ pan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okayama (Coppa Shell AM | Kappakstur 2) - Ferrari Challenge Japan 
+ - viaplay
+DTSTART:20260426T052500
+DTEND:20260426T062500
+DTSTAMP:20260426T052500Z
+UID:2026-04-26T05:25:00/Okayama (Coppa Shell AM | Kappakstur 2)
+DESCRIPTION:Okayama (Coppa Shell AM | Kappakstur 2) - Ferrari Challenge Ja
+ pan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Monaco Grand Prix Historique (Kappakstur) - Monaco Grand Prix
   Historique - viaplay
 DTSTART:20260426T055500
@@ -934,20 +922,20 @@ UID:2026-04-26T09:30:00/Red Bull Ring (Kappakstur 2)
 DESCRIPTION:Red Bull Ring (Kappakstur 2) - Porsche Carrera Cup Deutschland
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spænski Kappaksturinn (Kappakstur) - Moto2 - viaplay
-DTSTART:20260426T100000
-DTEND:20260426T110000
-DTSTAMP:20260426T100000Z
-UID:2026-04-26T10:00:00/Spænski Kappaksturinn (Kappakstur)
-DESCRIPTION:Spænski Kappaksturinn (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
 DTSTART:20260426T100000
 DTEND:20260426T110000
 DTSTAMP:20260426T100000Z
 UID:2026-04-26T10:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spænski Kappaksturinn (Kappakstur) - Moto2 - viaplay
+DTSTART:20260426T100000
+DTEND:20260426T110000
+DTSTAMP:20260426T100000Z
+UID:2026-04-26T10:00:00/Spænski Kappaksturinn (Kappakstur)
+DESCRIPTION:Spænski Kappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Investec South African Women's Open - Ladies European Tour - viapl
@@ -967,6 +955,14 @@ UID:2026-04-26T10:55:00/Coventry - Wrexham
 DESCRIPTION:Coventry - Wrexham - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spænski Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20260426T111500
+DTEND:20260426T121500
+DTSTAMP:20260426T111500Z
+UID:2026-04-26T11:15:00/Spænski Kappaksturinn (Kappakstur)
+DESCRIPTION:Spænski Kappaksturinn (Kappakstur) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Bull Ring (Kappakstur 2) - DTM - viaplay
 DTSTART:20260426T111500
 DTEND:20260426T121500
@@ -975,12 +971,12 @@ UID:2026-04-26T11:15:00/Red Bull Ring (Kappakstur 2)
 DESCRIPTION:Red Bull Ring (Kappakstur 2) - DTM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spænski Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20260426T111500
-DTEND:20260426T121500
-DTSTAMP:20260426T111500Z
-UID:2026-04-26T11:15:00/Spænski Kappaksturinn (Kappakstur)
-DESCRIPTION:Spænski Kappaksturinn (Kappakstur) - MotoGP
+SUMMARY:Bochum - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20260426T112500
+DTEND:20260426T122500
+DTSTAMP:20260426T112500Z
+UID:2026-04-26T11:25:00/Bochum - Greuther Fürth
+DESCRIPTION:Bochum - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürnberg - Magdeburg - 2. Bundesliga - viaplay
@@ -997,14 +993,6 @@ DTEND:20260426T122500
 DTSTAMP:20260426T112500Z
 UID:2026-04-26T11:25:00/Paderborn - Schalke
 DESCRIPTION:Paderborn - Schalke - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bochum - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20260426T112500
-DTEND:20260426T122500
-DTSTAMP:20260426T112500Z
-UID:2026-04-26T11:25:00/Bochum - Greuther Fürth
-DESCRIPTION:Bochum - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piteå - Vittsjö - OBOS Damallsvenskan - viaplay
@@ -1127,5 +1115,53 @@ DTSTAMP:20260426T171000Z
 UID:2026-04-26T17:10:00/Circuit of the Americas (Kappakstur)
 DESCRIPTION:Circuit of the Americas (Kappakstur) - GT World Challenge Amer
  ica
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston - Buffalo - NHL - viaplay
+DTSTART:20260426T180500
+DTEND:20260426T190500
+DTSTAMP:20260426T180500Z
+UID:2026-04-26T18:05:00/Boston - Buffalo
+DESCRIPTION:Boston - Buffalo - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles - Colorado - NHL - viaplay
+DTSTART:20260426T203500
+DTEND:20260426T213500
+DTSTAMP:20260426T203500Z
+UID:2026-04-26T20:35:00/Los Angeles - Colorado
+DESCRIPTION:Los Angeles - Colorado - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montreal - Tampa Bay - NHL - viaplay
+DTSTART:20260426T230500
+DTEND:20260427T000500
+DTSTAMP:20260426T230500Z
+UID:2026-04-26T23:05:00/Montreal - Tampa Bay
+DESCRIPTION:Montreal - Tampa Bay - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anaheim - Edmonton - NHL - viaplay
+DTSTART:20260427T013500
+DTEND:20260427T023500
+DTSTAMP:20260427T013500Z
+UID:2026-04-27T01:35:00/Anaheim - Edmonton
+DESCRIPTION:Anaheim - Edmonton - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20260427T100000
+DTEND:20260427T110000
+DTSTAMP:20260427T100000Z
+UID:2026-04-27T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Köln - Frauen-Bundesliga - viaplay
+DTSTART:20260427T155500
+DTEND:20260427T165500
+DTSTAMP:20260427T155500Z
+UID:2026-04-27T15:55:00/Hoffenheim - Köln
+DESCRIPTION:Hoffenheim - Köln - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR

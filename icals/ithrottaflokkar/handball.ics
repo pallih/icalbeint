@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Handboltahöllin - Olís deildin - sjonvarpsimans
-DTSTART:20260420T200000
-DTEND:20260420T210000
-DTSTAMP:20260420T200000Z
-UID:2026-04-20T20:00:00/Handboltahöllin
-DESCRIPTION:Handboltahöllin - Olís deildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - Haukar - Úrslit | Olís kvenna - hsi1
 DTSTART:20260422T183000
 DTEND:20260422T193000
@@ -42,6 +34,15 @@ UID:2026-04-23T16:00:00/Stjarnan - Grótta
 DESCRIPTION:Stjarnan - Grótta - Umspil | Olís kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Vfl Gummersbach - Bundesliga handbolti - synsport
+ viaplay
+DTSTART:20260423T165500
+DTEND:20260423T175500
+DTSTAMP:20260423T165500Z
+UID:2026-04-23T16:55:00/Füchse Berlin - Vfl Gummersbach
+DESCRIPTION:Füchse Berlin - Vfl Gummersbach - Bundesliga handbolti
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Füchse Berlin - Gummersbach - Bundesliga - viaplay
 DTSTART:20260423T165500
 DTEND:20260423T175500
@@ -58,6 +59,22 @@ UID:2026-04-24T17:55:00/Flensburg-Handewitt - Melsungen
 DESCRIPTION:Flensburg-Handewitt - Melsungen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Flensburg - Melsungen - Bundesliga handbolti - synsportviaplay
+DTSTART:20260424T175500
+DTEND:20260424T185500
+DTSTAMP:20260424T175500Z
+UID:2026-04-24T17:55:00/Flensburg - Melsungen
+DESCRIPTION:Flensburg - Melsungen - Bundesliga handbolti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - FH - Olís deild karla - sjonvarpsimans
+DTSTART:20260424T191500
+DTEND:20260424T201500
+DTSTAMP:20260424T191500Z
+UID:2026-04-24T19:15:00/Valur - FH
+DESCRIPTION:Valur - FH - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valur - FH - Úrslit | Olís karla - hsi1
 DTSTART:20260424T193000
 DTEND:20260424T203000
@@ -72,6 +89,14 @@ DTEND:20260425T010000
 DTSTAMP:20260425T000000Z
 UID:2026-04-25T00:00:00/Fram - Valur
 DESCRIPTION:Fram - Valur - Úrslit | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - ÍBV - Olís deild kvenna - sjonvarpsimans
+DTSTART:20260425T154500
+DTEND:20260425T164500
+DTSTAMP:20260425T154500Z
+UID:2026-04-25T15:45:00/Haukar - ÍBV
+DESCRIPTION:Haukar - ÍBV - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - ÍBV - Úrslit | Olís kvenna - hsi1
@@ -96,5 +121,21 @@ DTEND:20260426T170000
 DTSTAMP:20260426T160000Z
 UID:2026-04-26T16:00:00/Grótta - Stjarnan
 DESCRIPTION:Grótta - Stjarnan - Umspil | Olís kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Köln - Bundesliga handbolti - synsportviaplay
+DTSTART:20260427T155500
+DTEND:20260427T165500
+DTSTAMP:20260427T155500Z
+UID:2026-04-27T15:55:00/Hoffenheim - Köln
+DESCRIPTION:Hoffenheim - Köln - Bundesliga handbolti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Valur - Úrslit | Olís karla - hsi1
+DTSTART:20260427T193000
+DTEND:20260427T203000
+DTSTAMP:20260427T193000Z
+UID:2026-04-27T19:30:00/FH - Valur
+DESCRIPTION:FH - Valur - Úrslit | Olís karla
 END:VEVENT
 END:VCALENDAR
