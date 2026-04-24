@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Grindavík - Njarðvík - Bónus deild kvenna - synsportisland2
-DTSTART:20260423T190500
-DTEND:20260423T200500
-DTSTAMP:20260423T190500Z
-UID:2026-04-23T19:05:00/Grindavík - Njarðvík
-DESCRIPTION:Grindavík - Njarðvík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sindri - Selfoss - 1. deild karla í körfubolta  - kkitv1
-DTSTART:20260423T191500
-DTEND:20260423T201500
-DTSTAMP:20260423T191500Z
-UID:2026-04-23T19:15:00/Sindri - Selfoss
-DESCRIPTION:Sindri - Selfoss - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - KV - 1. deild karla í körfubolta - kkitv1
-DTSTART:20260423T191500
-DTEND:20260423T201500
-DTSTAMP:20260423T191500Z
-UID:2026-04-23T19:15:00/Breiðablik - KV
-DESCRIPTION:Breiðablik - KV - 1. deild karla í körfubolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keflavík - Haukar - Bónus deild kvenna - synsportisland
 DTSTART:20260424T184500
 DTEND:20260424T194500
@@ -43,12 +19,28 @@ UID:2026-04-24T21:10:00/Bónus Körfuboltakvöld kvenna
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Magic - Pistons - NBA - livey
+DTSTART:20260425T170000
+DTEND:20260425T180000
+DTSTAMP:20260425T170000Z
+UID:2026-04-25T17:00:00/Magic - Pistons
+DESCRIPTION:Magic - Pistons - NBA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stjarnan - Tindastóll - Bónus deild karla - synsportisland
 DTSTART:20260425T183000
 DTEND:20260425T193000
 DTSTAMP:20260425T183000Z
 UID:2026-04-25T18:30:00/Stjarnan - Tindastóll
 DESCRIPTION:Stjarnan - Tindastóll - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suns - Thunder - NBA - livey
+DTSTART:20260425T193000
+DTEND:20260425T203000
+DTSTAMP:20260425T193000Z
+UID:2026-04-25T19:30:00/Suns - Thunder
+DESCRIPTION:Suns - Thunder - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
@@ -59,23 +51,39 @@ UID:2026-04-25T21:00:00/Bónus Körfuboltakvöld
 DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Raptors - Cavaliers - NBA - livey
+DTSTART:20260426T170000
+DTEND:20260426T180000
+DTSTAMP:20260426T170000Z
+UID:2026-04-26T17:00:00/Raptors - Cavaliers
+DESCRIPTION:Raptors - Cavaliers - NBA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Snúið við á Suðurlandsbraut / Vítavarslan í Vesturbænum - 
  Augnablikin - synsportisland
-DTSTART:20260426T193000
-DTEND:20260426T203000
-DTSTAMP:20260426T193000Z
-UID:2026-04-26T19:30:00/Snúið við á Suðurlandsbraut / Vítavarslan í
+DTSTART:20260426T180000
+DTEND:20260426T190000
+DTSTAMP:20260426T180000Z
+UID:2026-04-26T18:00:00/Snúið við á Suðurlandsbraut / Vítavarslan í
   Vesturbænum
 DESCRIPTION:Snúið við á Suðurlandsbraut / Vítavarslan í Vesturbænu
  m - Augnablikin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Grindavík - Bónus deild karla - synsportisland
-DTSTART:20260426T193100
-DTEND:20260426T203100
-DTSTAMP:20260426T193100Z
-UID:2026-04-26T19:31:00/Valur - Grindavík
+DTSTART:20260426T183000
+DTEND:20260426T193000
+DTSTAMP:20260426T183000Z
+UID:2026-04-26T18:30:00/Valur - Grindavík
 DESCRIPTION:Valur - Grindavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trailblazers - Spurs - NBA - livey
+DTSTART:20260426T193000
+DTEND:20260426T203000
+DTSTAMP:20260426T193000Z
+UID:2026-04-26T19:30:00/Trailblazers - Spurs
+DESCRIPTION:Trailblazers - Spurs - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
@@ -92,6 +100,14 @@ DTEND:20260427T200500
 DTSTAMP:20260427T190500Z
 UID:2026-04-27T19:05:00/Njarðvík - Grindavík
 DESCRIPTION:Njarðvík - Grindavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nuggets - Timberwolves - NBA - livey
+DTSTART:20260428T023000
+DTEND:20260428T033000
+DTSTAMP:20260428T023000Z
+UID:2026-04-28T02:30:00/Nuggets - Timberwolves
+DESCRIPTION:Nuggets - Timberwolves - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Keflavík - Bónus deild kvenna - synsportisland
@@ -111,6 +127,14 @@ UID:2026-04-28T21:10:00/Bónus Körfuboltakvöld kvenna
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Celtics - 76ers - NBA - livey
+DTSTART:20260428T230000
+DTEND:20260429T000000
+DTSTAMP:20260428T230000Z
+UID:2026-04-28T23:00:00/Celtics - 76ers
+DESCRIPTION:Celtics - 76ers - NBA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - synsportisland
 DTSTART:20260429T183000
 DTEND:20260429T193000
@@ -124,6 +148,22 @@ DTSTART:20260429T210000
 DTEND:20260429T220000
 DTSTAMP:20260429T210000Z
 UID:2026-04-29T21:00:00/Bónus Körfuboltakvöld 
+DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Valur - Bónus deild karla - synsportisland
+DTSTART:20260430T183000
+DTEND:20260430T193000
+DTSTAMP:20260430T183000Z
+UID:2026-04-30T18:30:00/Grindavík - Valur
+DESCRIPTION:Grindavík - Valur - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
+DTSTART:20260430T210000
+DTEND:20260430T220000
+DTSTAMP:20260430T210000Z
+UID:2026-04-30T21:00:00/Bónus Körfuboltakvöld 
 DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 END:VCALENDAR
