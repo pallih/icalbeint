@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Flensburg-Handewitt - Melsungen - Bundesliga - viaplay
-DTSTART:20260424T175500
-DTEND:20260424T185500
-DTSTAMP:20260424T175500Z
-UID:2026-04-24T17:55:00/Flensburg-Handewitt - Melsungen
-DESCRIPTION:Flensburg-Handewitt - Melsungen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - Union Berlin - Bundesliga - viaplay
-DTSTART:20260424T182000
-DTEND:20260424T192000
-DTSTAMP:20260424T182000Z
-UID:2026-04-24T18:20:00/Leipzig - Union Berlin
-DESCRIPTION:Leipzig - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - Mönchengladbach - Bundesliga - viaplay
+SUMMARY:Mainz - Bayern München - Bundesliga - viaplay
 DTSTART:20260425T132000
 DTEND:20260425T142000
 DTSTAMP:20260425T132000Z
-UID:2026-04-25T13:20:00/Wolfsburg - Mönchengladbach
-DESCRIPTION:Wolfsburg - Mönchengladbach - Bundesliga
+UID:2026-04-25T13:20:00/Mainz - Bayern München
+DESCRIPTION:Mainz - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Frankfurt - Bundesliga - viaplay
+DTSTART:20260425T132000
+DTEND:20260425T142000
+DTSTAMP:20260425T132000Z
+UID:2026-04-25T13:20:00/Augsburg - Frankfurt
+DESCRIPTION:Augsburg - Frankfurt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Leverkusen - Bundesliga - viaplay
@@ -42,12 +34,12 @@ UID:2026-04-25T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mainz - Bayern München - Bundesliga - viaplay
+SUMMARY:Wolfsburg - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20260425T132000
 DTEND:20260425T142000
 DTSTAMP:20260425T132000Z
-UID:2026-04-25T13:20:00/Mainz - Bayern München
-DESCRIPTION:Mainz - Bayern München - Bundesliga
+UID:2026-04-25T13:20:00/Wolfsburg - Mönchengladbach
+DESCRIPTION:Wolfsburg - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heidenheim - St. Pauli - Bundesliga - viaplay
@@ -56,14 +48,6 @@ DTEND:20260425T142000
 DTSTAMP:20260425T132000Z
 UID:2026-04-25T13:20:00/Heidenheim - St. Pauli
 DESCRIPTION:Heidenheim - St. Pauli - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - Frankfurt - Bundesliga - viaplay
-DTSTART:20260425T132000
-DTEND:20260425T142000
-DTSTAMP:20260425T132000Z
-UID:2026-04-25T13:20:00/Augsburg - Frankfurt
-DESCRIPTION:Augsburg - Frankfurt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HSV - Hoffenheim - Bundesliga - viaplay
@@ -104,5 +88,13 @@ DTEND:20260430T175500
 DTSTAMP:20260430T165500Z
 UID:2026-04-30T16:55:00/Gummersbach - FRISCH AUF! Göppingen
 DESCRIPTION:Gummersbach - FRISCH AUF! Göppingen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhein-Neckar Löwen - Melsungen - Bundesliga - viaplay
+DTSTART:20260501T165500
+DTEND:20260501T175500
+DTSTAMP:20260501T165500Z
+UID:2026-05-01T16:55:00/Rhein-Neckar Löwen - Melsungen
+DESCRIPTION:Rhein-Neckar Löwen - Melsungen - Bundesliga
 END:VEVENT
 END:VCALENDAR
