@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Sunnudagsmessan - Premier League - synsport
-DTSTART:20260426T173500
-DTEND:20260426T183500
-DTSTAMP:20260426T173500Z
-UID:2026-04-26T17:35:00/Sunnudagsmessan
-DESCRIPTION:Sunnudagsmessan - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. Utd. - Brentford - Premier League - synsport
 DTSTART:20260427T184000
 DTEND:20260427T194000
@@ -26,20 +18,28 @@ UID:2026-05-01T18:40:00/Leeds - Burnley
 DESCRIPTION:Leeds - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aston Villa - Tottenham - Premier League - synsport
-DTSTART:20260502T111000
-DTEND:20260502T121000
-DTSTAMP:20260502T111000Z
-UID:2026-05-02T11:10:00/Aston Villa - Tottenham
-DESCRIPTION:Aston Villa - Tottenham - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bournemouth - Crystal Palace - Premier League - synsport2
+SUMMARY:Wolves - Sunderland - Premier League - synsport6
 DTSTART:20260502T134000
 DTEND:20260502T144000
 DTSTAMP:20260502T134000Z
-UID:2026-05-02T13:40:00/Bournemouth - Crystal Palace
-DESCRIPTION:Bournemouth - Crystal Palace - Premier League
+UID:2026-05-02T13:40:00/Wolves - Sunderland
+DESCRIPTION:Wolves - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brentford - West Ham - Premier League - synsport5
+DTSTART:20260502T134000
+DTEND:20260502T144000
+DTSTAMP:20260502T134000Z
+UID:2026-05-02T13:40:00/Brentford - West Ham
+DESCRIPTION:Brentford - West Ham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle - Brighton - Premier League - synsport3
+DTSTART:20260502T134000
+DTEND:20260502T144000
+DTSTAMP:20260502T134000Z
+UID:2026-05-02T13:40:00/Newcastle - Brighton
+DESCRIPTION:Newcastle - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -50,19 +50,51 @@ UID:2026-05-02T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laugardagsmörkin - Premier League - synsport2
-DTSTART:20260502T160500
-DTEND:20260502T170500
-DTSTAMP:20260502T160500Z
-UID:2026-05-02T16:05:00/Laugardagsmörkin
-DESCRIPTION:Laugardagsmörkin - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arsenal - Fulham - Premier League - synsport
 DTSTART:20260502T162000
 DTEND:20260502T172000
 DTSTAMP:20260502T162000Z
 UID:2026-05-02T16:20:00/Arsenal - Fulham
 DESCRIPTION:Arsenal - Fulham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laugardagsmörkin - Premier League - synsport
+DTSTART:20260502T183500
+DTEND:20260502T193500
+DTSTAMP:20260502T183500Z
+UID:2026-05-02T18:35:00/Laugardagsmörkin
+DESCRIPTION:Laugardagsmörkin - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Crystal Palace - Premier League - synsport2
+DTSTART:20260503T124000
+DTEND:20260503T134000
+DTSTAMP:20260503T124000Z
+UID:2026-05-03T12:40:00/Bournemouth - Crystal Palace
+DESCRIPTION:Bournemouth - Crystal Palace - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Liverpool - Premier League - synsport
+DTSTART:20260503T140000
+DTEND:20260503T150000
+DTSTAMP:20260503T140000Z
+UID:2026-05-03T14:00:00/Man. Utd. - Liverpool
+DESCRIPTION:Man. Utd. - Liverpool - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Tottenham - Premier League - synsport
+DTSTART:20260503T174000
+DTEND:20260503T184000
+DTSTAMP:20260503T174000Z
+UID:2026-05-03T17:40:00/Aston Villa - Tottenham
+DESCRIPTION:Aston Villa - Tottenham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunnudagsmessan - Premier League - synsport
+DTSTART:20260503T200500
+DTEND:20260503T210500
+DTSTAMP:20260503T200500Z
+UID:2026-05-03T20:05:00/Sunnudagsmessan
+DESCRIPTION:Sunnudagsmessan - Premier League
 END:VEVENT
 END:VCALENDAR
