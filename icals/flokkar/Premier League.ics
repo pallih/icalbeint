@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Brentford - Premier League - synsport
-DTSTART:20260427T184000
-DTEND:20260427T194000
-DTSTAMP:20260427T184000Z
-UID:2026-04-27T18:40:00/Man. Utd. - Brentford
-DESCRIPTION:Man. Utd. - Brentford - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leeds - Burnley - Premier League - synsport
 DTSTART:20260501T184000
 DTEND:20260501T194000
@@ -26,12 +18,12 @@ UID:2026-05-02T13:40:00/Wolves - Sunderland
 DESCRIPTION:Wolves - Sunderland - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - West Ham - Premier League - synsport5
+SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20260502T134000
 DTEND:20260502T144000
 DTSTAMP:20260502T134000Z
-UID:2026-05-02T13:40:00/Brentford - West Ham
-DESCRIPTION:Brentford - West Ham - Premier League
+UID:2026-05-02T13:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Brighton - Premier League - synsport3
@@ -42,12 +34,12 @@ UID:2026-05-02T13:40:00/Newcastle - Brighton
 DESCRIPTION:Newcastle - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
+SUMMARY:Brentford - West Ham - Premier League - synsport5
 DTSTART:20260502T134000
 DTEND:20260502T144000
 DTSTAMP:20260502T134000Z
-UID:2026-05-02T13:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
+UID:2026-05-02T13:40:00/Brentford - West Ham
+DESCRIPTION:Brentford - West Ham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Fulham - Premier League - synsport
@@ -91,10 +83,26 @@ DESCRIPTION:Aston Villa - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunnudagsmessan - Premier League - synsport
-DTSTART:20260503T200500
-DTEND:20260503T210500
-DTSTAMP:20260503T200500Z
-UID:2026-05-03T20:05:00/Sunnudagsmessan
+DTSTART:20260503T203000
+DTEND:20260503T213000
+DTSTAMP:20260503T203000Z
+UID:2026-05-03T20:30:00/Sunnudagsmessan
 DESCRIPTION:Sunnudagsmessan - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Nott. Forest - Premier League - synsport
+DTSTART:20260504T134000
+DTEND:20260504T144000
+DTSTAMP:20260504T134000Z
+UID:2026-05-04T13:40:00/Chelsea - Nott. Forest
+DESCRIPTION:Chelsea - Nott. Forest - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Man. City - Premier League - synsport
+DTSTART:20260504T184000
+DTEND:20260504T194000
+DTSTAMP:20260504T184000Z
+UID:2026-05-04T18:40:00/Everton - Man. City
+DESCRIPTION:Everton - Man. City - Premier League
 END:VEVENT
 END:VCALENDAR
