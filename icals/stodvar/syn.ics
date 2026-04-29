@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:PSG - Bayern München - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20260428T183000
-DTEND:20260428T193000
-DTSTAMP:20260428T183000Z
-UID:2026-04-28T18:30:00/PSG - Bayern München
-DESCRIPTION:PSG - Bayern München - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haukar - Keflavík - Bónus deild kvenna - synsportisland
-DTSTART:20260428T190000
-DTEND:20260428T200000
-DTSTAMP:20260428T190000Z
-UID:2026-04-28T19:00:00/Haukar - Keflavík
-DESCRIPTION:Haukar - Keflavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selfoss - Sindri - 1. deild karla í körfubolta  - kkitv1
-DTSTART:20260428T191500
-DTEND:20260428T201500
-DTSTAMP:20260428T191500Z
-UID:2026-04-28T19:15:00/Selfoss - Sindri
-DESCRIPTION:Selfoss - Sindri - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
- sland
-DTSTART:20260428T211000
-DTEND:20260428T221000
-DTSTAMP:20260428T211000Z
-UID:2026-04-28T21:10:00/Bónus Körfuboltakvöld kvenna 
-DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sabres - Bruins - NHL - synsportviaplay
-DTSTART:20260428T220500
-DTEND:20260428T230500
-DTSTAMP:20260428T220500Z
-UID:2026-04-28T22:05:00/Sabres - Bruins
-DESCRIPTION:Sabres - Bruins - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Werder Bremen - Bayern München - Bundesliga handbolti - synsportv
  iaplay
 DTSTART:20260429T155500
@@ -52,20 +11,20 @@ UID:2026-04-29T15:55:00/Werder Bremen - Bayern München
 DESCRIPTION:Werder Bremen - Bayern München - Bundesliga handbolti
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - synsport
-DTSTART:20260429T183000
-DTEND:20260429T193000
-DTSTAMP:20260429T183000Z
-UID:2026-04-29T18:30:00/Meistaradeildin - upphitun
-DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - synsportisland
 DTSTART:20260429T183000
 DTEND:20260429T193000
 DTSTAMP:20260429T183000Z
 UID:2026-04-29T18:30:00/Tindastóll - Stjarnan
 DESCRIPTION:Tindastóll - Stjarnan - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildin - upphitun - Meistaradeild Evrópu - synsport
+DTSTART:20260429T183000
+DTEND:20260429T193000
+DTSTAMP:20260429T183000Z
+UID:2026-04-29T18:30:00/Meistaradeildin - upphitun
+DESCRIPTION:Meistaradeildin - upphitun - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atletico Madrid - Arsenal - Meistaradeild Evrópu - synsport
@@ -133,20 +92,12 @@ DESCRIPTION:Mexico Riviera Maya Open - LGPA Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík/Njarðvík - Þór/KA - Besta deild kvenna - synsportis
- land4
-DTSTART:20260430T175000
-DTEND:20260430T185000
-DTSTAMP:20260430T175000Z
-UID:2026-04-30T17:50:00/Grindavík/Njarðvík - Þór/KA
+ land3
+DTSTART:20260430T172000
+DTEND:20260430T182000
+DTSTAMP:20260430T172000Z
+UID:2026-04-30T17:20:00/Grindavík/Njarðvík - Þór/KA
 DESCRIPTION:Grindavík/Njarðvík - Þór/KA - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍBV - Víkingur R. - Besta deild kvenna - synsportisland3
-DTSTART:20260430T175000
-DTEND:20260430T185000
-DTSTAMP:20260430T175000Z
-UID:2026-04-30T17:50:00/ÍBV - Víkingur R.
-DESCRIPTION:ÍBV - Víkingur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík - Valur - Bónus deild karla - synsportisland
@@ -155,14 +106,6 @@ DTEND:20260430T193000
 DTSTAMP:20260430T183000Z
 UID:2026-04-30T18:30:00/Grindavík - Valur
 DESCRIPTION:Grindavík - Valur - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Braga - Freiburg - Evrópudeildin - synsport
-DTSTART:20260430T185000
-DTEND:20260430T195000
-DTSTAMP:20260430T185000Z
-UID:2026-04-30T18:50:00/Braga - Freiburg
-DESCRIPTION:Braga - Freiburg - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rayo Vallecano - Strasbourg - Sambandsdeildin - synsport2
@@ -181,6 +124,14 @@ UID:2026-04-30T18:50:00/Nott. Forest - Aston Villa
 DESCRIPTION:Nott. Forest - Aston Villa - Evrópudeildin 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Braga - Freiburg - Evrópudeildin - synsport
+DTSTART:20260430T185000
+DTEND:20260430T195000
+DTSTAMP:20260430T185000Z
+UID:2026-04-30T18:50:00/Braga - Freiburg
+DESCRIPTION:Braga - Freiburg - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Þróttur R. - FH - Besta deild kvenna - synsportisland2
 DTSTART:20260430T190500
 DTEND:20260430T200500
@@ -189,20 +140,20 @@ UID:2026-04-30T19:05:00/Þróttur R. - FH
 DESCRIPTION:Þróttur R. - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Selfoss - Sindri - 1. deild karla í körfubolta  - kkitv1
+DTSTART:20260430T191500
+DTEND:20260430T201500
+DTSTAMP:20260430T191500Z
+UID:2026-04-30T19:15:00/Selfoss - Sindri
+DESCRIPTION:Selfoss - Sindri - 1. deild karla í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
 DTSTART:20260430T210000
 DTEND:20260430T220000
 DTSTAMP:20260430T210000Z
 UID:2026-04-30T21:00:00/Bónus Körfuboltakvöld 
 DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland2
-DTSTART:20260430T211500
-DTEND:20260430T221500
-DTSTAMP:20260430T211500Z
-UID:2026-04-30T21:15:00/Bestu mörkin
-DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bruins - Sabres - NHL - synsportviaplay
@@ -219,6 +170,14 @@ DTEND:20260501T110000
 DTSTAMP:20260501T100000Z
 UID:2026-05-01T10:00:00/Turkish Airlines Open
 DESCRIPTION:Turkish Airlines Open - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍBV - Víkingur R. - Besta deild kvenna - synsportisland
+DTSTART:20260501T125000
+DTEND:20260501T135000
+DTSTAMP:20260501T125000Z
+UID:2026-05-01T12:50:00/ÍBV - Víkingur R.
+DESCRIPTION:ÍBV - Víkingur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico Riviera Maya Open - LGPA Tour - synsport4
@@ -261,28 +220,20 @@ UID:2026-05-01T20:25:00/F1: Miami - Sprint tímataka
 DESCRIPTION:F1: Miami - Sprint tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
+DTSTART:20260501T211500
+DTEND:20260501T221500
+DTSTAMP:20260501T211500Z
+UID:2026-05-01T21:15:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Turkish Airlines Open - DP World Tour - synsport4
 DTSTART:20260502T103000
 DTEND:20260502T113000
 DTSTAMP:20260502T103000Z
 UID:2026-05-02T10:30:00/Turkish Airlines Open
 DESCRIPTION:Turkish Airlines Open - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolves - Sunderland - Premier League - synsport6
-DTSTART:20260502T134000
-DTEND:20260502T144000
-DTSTAMP:20260502T134000Z
-UID:2026-05-02T13:40:00/Wolves - Sunderland
-DESCRIPTION:Wolves - Sunderland - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
-DTSTART:20260502T134000
-DTEND:20260502T144000
-DTSTAMP:20260502T134000Z
-UID:2026-05-02T13:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Brighton - Premier League - synsport3
@@ -293,12 +244,28 @@ UID:2026-05-02T13:40:00/Newcastle - Brighton
 DESCRIPTION:Newcastle - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wolves - Sunderland - Premier League - synsport6
+DTSTART:20260502T134000
+DTEND:20260502T144000
+DTSTAMP:20260502T134000Z
+UID:2026-05-02T13:40:00/Wolves - Sunderland
+DESCRIPTION:Wolves - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brentford - West Ham - Premier League - synsport5
 DTSTART:20260502T134000
 DTEND:20260502T144000
 DTSTAMP:20260502T134000Z
 UID:2026-05-02T13:40:00/Brentford - West Ham
 DESCRIPTION:Brentford - West Ham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20260502T134000
+DTEND:20260502T144000
+DTSTAMP:20260502T134000Z
+UID:2026-05-02T13:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Ak. - KA - Besta deild karla - synsportisland2
@@ -422,20 +389,12 @@ UID:2026-05-03T17:45:00/ÍA - Stjarnan
 DESCRIPTION:ÍA - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Fram - Besta deild karla - synsportisland4
+SUMMARY:Keflavík - Víkingur R. - Besta deild karla - synsportisland5
 DTSTART:20260503T175000
 DTEND:20260503T185000
 DTSTAMP:20260503T175000Z
-UID:2026-05-03T17:50:00/FH - Fram
-DESCRIPTION:FH - Fram - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍBV - Breiðablik - Besta deild karla - synsport6
-DTSTART:20260503T175000
-DTEND:20260503T185000
-DTSTAMP:20260503T175000Z
-UID:2026-05-03T17:50:00/ÍBV - Breiðablik
-DESCRIPTION:ÍBV - Breiðablik - Besta deild karla
+UID:2026-05-03T17:50:00/Keflavík - Víkingur R.
+DESCRIPTION:Keflavík - Víkingur R. - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Subway messan - Besta deild karla - synsportisland2
@@ -446,12 +405,20 @@ UID:2026-05-03T17:50:00/Subway messan
 DESCRIPTION:Subway messan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - Víkingur R. - Besta deild karla - synsportisland5
+SUMMARY:ÍBV - Breiðablik - Besta deild karla - synsport6
 DTSTART:20260503T175000
 DTEND:20260503T185000
 DTSTAMP:20260503T175000Z
-UID:2026-05-03T17:50:00/Keflavík - Víkingur R.
-DESCRIPTION:Keflavík - Víkingur R. - Besta deild karla
+UID:2026-05-03T17:50:00/ÍBV - Breiðablik
+DESCRIPTION:ÍBV - Breiðablik - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Fram - Besta deild karla - synsportisland4
+DTSTART:20260503T175000
+DTEND:20260503T185000
+DTSTAMP:20260503T175000Z
+UID:2026-05-03T17:50:00/FH - Fram
+DESCRIPTION:FH - Fram - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stuldurinn í síkinu / Draumaþristur á Eurovision kvöldi - Aug
@@ -535,5 +502,66 @@ DTEND:20260504T223000
 DTSTAMP:20260504T213000Z
 UID:2026-05-04T21:30:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeild Evrópu - Upphitun - Meistaradeild Evrópu - Upphitu
+ n - synsportviaplay
+DTSTART:20260505T183000
+DTEND:20260505T193000
+DTSTAMP:20260505T183000Z
+UID:2026-05-05T18:30:00/Meistaradeild Evrópu - Upphitun
+DESCRIPTION:Meistaradeild Evrópu - Upphitun - Meistaradeild Evrópu - Upp
+ hitun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Grindavík - Bónus deild kvenna - synsportisland2
+DTSTART:20260505T184500
+DTEND:20260505T194500
+DTSTAMP:20260505T184500Z
+UID:2026-05-05T18:45:00/Njarðvík - Grindavík
+DESCRIPTION:Njarðvík - Grindavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Atletico Madrid - Meistaradeild Evrópu - synsportviapla
+ y
+DTSTART:20260505T185000
+DTEND:20260505T195000
+DTSTAMP:20260505T185000Z
+UID:2026-05-05T18:50:00/Arsenal - Atletico Madrid
+DESCRIPTION:Arsenal - Atletico Madrid - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Þróttur R. - Besta deild kvenna - synsportisland2
+DTSTART:20260505T190500
+DTEND:20260505T200500
+DTSTAMP:20260505T190500Z
+UID:2026-05-05T19:05:00/Fram - Þróttur R.
+DESCRIPTION:Fram - Þróttur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Keflavík - Bónus deild kvenna - synsportisland
+DTSTART:20260505T190500
+DTEND:20260505T200500
+DTSTAMP:20260505T190500Z
+UID:2026-05-05T19:05:00/Haukar - Keflavík
+DESCRIPTION:Haukar - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Viaplay - Meistaradeild Evrópu - synspor
+ tviaplay
+DTSTART:20260505T210000
+DTEND:20260505T220000
+DTSTAMP:20260505T210000Z
+UID:2026-05-05T21:00:00/Meistaradeildarmörkin - Viaplay
+DESCRIPTION:Meistaradeildarmörkin - Viaplay - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
+ sland
+DTSTART:20260505T211000
+DTEND:20260505T221000
+DTSTAMP:20260505T211000Z
+UID:2026-05-05T21:10:00/Bónus Körfuboltakvöld kvenna 
+DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
 END:VEVENT
 END:VCALENDAR
