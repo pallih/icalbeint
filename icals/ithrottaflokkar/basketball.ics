@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Stjarnan - Bónus deild karla - synsportisland
-DTSTART:20260429T183000
-DTEND:20260429T193000
-DTSTAMP:20260429T183000Z
-UID:2026-04-29T18:30:00/Tindastóll - Stjarnan
-DESCRIPTION:Tindastóll - Stjarnan - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
-DTSTART:20260429T210000
-DTEND:20260429T220000
-DTSTAMP:20260429T210000Z
-UID:2026-04-29T21:00:00/Bónus Körfuboltakvöld 
-DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cavaliers - Raptors - NBA - livey
-DTSTART:20260429T233000
-DTEND:20260430T003000
-DTSTAMP:20260429T233000Z
-UID:2026-04-29T23:30:00/Cavaliers - Raptors
-DESCRIPTION:Cavaliers - Raptors - NBA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grindavík - Valur - Bónus deild karla - synsportisland
 DTSTART:20260430T183000
 DTEND:20260430T193000
@@ -34,20 +10,20 @@ UID:2026-04-30T18:30:00/Grindavík - Valur
 DESCRIPTION:Grindavík - Valur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Selfoss - Sindri - 1. deild karla í körfubolta  - kkitv1
-DTSTART:20260430T191500
-DTEND:20260430T201500
-DTSTAMP:20260430T191500Z
-UID:2026-04-30T19:15:00/Selfoss - Sindri
-DESCRIPTION:Selfoss - Sindri - 1. deild karla í körfubolta 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
 DTSTART:20260430T210000
 DTEND:20260430T220000
 DTSTAMP:20260430T210000Z
 UID:2026-04-30T21:00:00/Bónus Körfuboltakvöld 
 DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawks - Knicks - NBA - livey
+DTSTART:20260430T230000
+DTEND:20260501T000000
+DTSTAMP:20260430T230000Z
+UID:2026-04-30T23:00:00/Hawks - Knicks
+DESCRIPTION:Hawks - Knicks - NBA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík - Njarðvík - Bónus deild kvenna - synsportisland
@@ -64,6 +40,14 @@ DTEND:20260502T194500
 DTSTAMP:20260502T184500Z
 UID:2026-05-02T18:45:00/Keflavík - Haukar
 DESCRIPTION:Keflavík - Haukar - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sindri - Breiðablik - 1. deild karla í körfubolta  - kkitv1
+DTSTART:20260502T191500
+DTEND:20260502T201500
+DTSTAMP:20260502T191500Z
+UID:2026-05-02T19:15:00/Sindri - Breiðablik
+DESCRIPTION:Sindri - Breiðablik - 1. deild karla í körfubolta 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
@@ -134,6 +118,14 @@ UID:2026-05-05T19:05:00/Haukar - Keflavík
 DESCRIPTION:Haukar - Keflavík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breiðablik - Sindri - 1. deild karla í körfubolta  - kkitv1
+DTSTART:20260505T191500
+DTEND:20260505T201500
+DTSTAMP:20260505T191500Z
+UID:2026-05-05T19:15:00/Breiðablik - Sindri
+DESCRIPTION:Breiðablik - Sindri - 1. deild karla í körfubolta 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna - synsporti
  sland
 DTSTART:20260505T211000
@@ -141,5 +133,29 @@ DTEND:20260505T221000
 DTSTAMP:20260505T211000Z
 UID:2026-05-05T21:10:00/Bónus Körfuboltakvöld kvenna 
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deild karla  - Bónus deild karla - synsportisland5
+DTSTART:20260506T085500
+DTEND:20260506T095500
+DTSTAMP:20260506T085500Z
+UID:2026-05-06T08:55:00/Bónus deild karla 
+DESCRIPTION:Bónus deild karla  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus deild karla  - Bónus deild karla - synsportisland
+DTSTART:20260506T181000
+DTEND:20260506T191000
+DTSTAMP:20260506T181000Z
+UID:2026-05-06T18:10:00/Bónus deild karla 
+DESCRIPTION:Bónus deild karla  - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
+DTSTART:20260506T210000
+DTEND:20260506T220000
+DTSTAMP:20260506T210000Z
+UID:2026-05-06T21:00:00/Bónus Körfuboltakvöld 
+DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
 END:VEVENT
 END:VCALENDAR

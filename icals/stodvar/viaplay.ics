@@ -2,78 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Dallas - Minnesota - NHL - viaplay
-DTSTART:20260429T000500
-DTEND:20260429T010500
-DTSTAMP:20260429T000500Z
-UID:2026-04-29T00:05:00/Dallas - Minnesota
-DESCRIPTION:Dallas - Minnesota - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Padres - Cubs - Major League Baseball - viaplay
-DTSTART:20260429T013000
-DTEND:20260429T023000
-DTSTAMP:20260429T013000Z
-UID:2026-04-29T01:30:00/Padres - Cubs
-DESCRIPTION:Padres - Cubs - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Edmonton - Anaheim - NHL - viaplay
-DTSTART:20260429T020500
-DTEND:20260429T030500
-DTSTAMP:20260429T020500Z
-UID:2026-04-29T02:05:00/Edmonton - Anaheim
-DESCRIPTION:Edmonton - Anaheim - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20260429T100000
-DTEND:20260429T110000
-DTSTAMP:20260429T100000Z
-UID:2026-04-29T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werder Bremen - Bayern München - Frauen-Bundesliga - viaplay
-DTSTART:20260429T155500
-DTEND:20260429T165500
-DTSTAMP:20260429T155500Z
-UID:2026-04-29T15:55:00/Werder Bremen - Bayern München
-DESCRIPTION:Werder Bremen - Bayern München - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Sox - Angels - Major League Baseball - viaplay
-DTSTART:20260429T170000
-DTEND:20260429T180000
-DTSTAMP:20260429T170000Z
-UID:2026-04-29T17:00:00/White Sox - Angels
-DESCRIPTION:White Sox - Angels - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Braves - Tigers - Major League Baseball - viaplay
-DTSTART:20260429T230000
-DTEND:20260430T000000
-DTSTAMP:20260429T230000Z
-UID:2026-04-29T23:00:00/Braves - Tigers
-DESCRIPTION:Braves - Tigers - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tampa Bay - Montreal - NHL - viaplay
-DTSTART:20260429T230500
-DTEND:20260430T000500
-DTSTAMP:20260429T230500Z
-UID:2026-04-29T23:05:00/Tampa Bay - Montreal
-DESCRIPTION:Tampa Bay - Montreal - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philadelphia - Pittsburgh - NHL - viaplay
-DTSTART:20260429T233500
-DTEND:20260430T003500
-DTSTAMP:20260429T233500Z
-UID:2026-04-29T23:35:00/Philadelphia - Pittsburgh
-DESCRIPTION:Philadelphia - Pittsburgh - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vegas - Utah - NHL - viaplay
 DTSTART:20260430T020500
 DTEND:20260430T030500
@@ -122,14 +50,6 @@ UID:2026-04-30T18:00:00/Premier League Darts
 DESCRIPTION:Premier League Darts - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nottingham Forest - Aston Villa - UEFA Europa League - viaplay
-DTSTART:20260430T185000
-DTEND:20260430T195000
-DTSTAMP:20260430T185000Z
-UID:2026-04-30T18:50:00/Nottingham Forest - Aston Villa
-DESCRIPTION:Nottingham Forest - Aston Villa - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Shakhtar Donetsk - Crystal Palace - UEFA Europa Conference League 
  - viaplay
 DTSTART:20260430T185000
@@ -138,6 +58,14 @@ DTSTAMP:20260430T185000Z
 UID:2026-04-30T18:50:00/Shakhtar Donetsk - Crystal Palace
 DESCRIPTION:Shakhtar Donetsk - Crystal Palace - UEFA Europa Conference Lea
  gue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham Forest - Aston Villa - UEFA Europa League - viaplay
+DTSTART:20260430T185000
+DTEND:20260430T195000
+DTSTAMP:20260430T185000Z
+UID:2026-04-30T18:50:00/Nottingham Forest - Aston Villa
+DESCRIPTION:Nottingham Forest - Aston Villa - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twins - Blue Jays - Major League Baseball - viaplay
@@ -174,6 +102,14 @@ DESCRIPTION:Motul Hungarian Round (Frjáls æfing 1) - FIM Superbike World
   Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20260501T100000
+DTEND:20260501T110000
+DTSTAMP:20260501T100000Z
+UID:2026-05-01T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MCB Ladies Classic - Ladies European Tour - viaplay
 DTSTART:20260501T100000
 DTEND:20260501T110000
@@ -182,12 +118,22 @@ UID:2026-05-01T10:00:00/MCB Ladies Classic
 DESCRIPTION:MCB Ladies Classic - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20260501T100000
-DTEND:20260501T110000
-DTSTAMP:20260501T100000Z
-UID:2026-05-01T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
+SUMMARY:Motul Hungarian Round (Tissot Superpole) - FIM Women's Circuit Rac
+ ing World Championship - viaplay
+DTSTART:20260501T120500
+DTEND:20260501T130500
+DTSTAMP:20260501T120500Z
+UID:2026-05-01T12:05:00/Motul Hungarian Round (Tissot Superpole)
+DESCRIPTION:Motul Hungarian Round (Tissot Superpole) - FIM Women's Circuit
+  Racing World Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV - Union Berlin - Frauen-Bundesliga - viaplay
+DTSTART:20260501T125500
+DTEND:20260501T135500
+DTSTAMP:20260501T125500Z
+UID:2026-05-01T12:55:00/HSV - Union Berlin
+DESCRIPTION:HSV - Union Berlin - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Motul Hungarian Round (Frjáls æfing 2) - FIM Superbike World Cha
@@ -200,12 +146,14 @@ DESCRIPTION:Motul Hungarian Round (Frjáls æfing 2) - FIM Superbike World
   Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HSV - Union Berlin - Frauen-Bundesliga - viaplay
-DTSTART:20260501T125500
-DTEND:20260501T135500
-DTSTAMP:20260501T125500Z
-UID:2026-05-01T12:55:00/HSV - Union Berlin
-DESCRIPTION:HSV - Union Berlin - Frauen-Bundesliga
+SUMMARY:Motul Hungarian Round (Tissot Superpole) - FIM Supersport World Ch
+ ampionship - viaplay
+DTSTART:20260501T135500
+DTEND:20260501T145500
+DTSTAMP:20260501T135500Z
+UID:2026-05-01T13:55:00/Motul Hungarian Round (Tissot Superpole)
+DESCRIPTION:Motul Hungarian Round (Tissot Superpole) - FIM Supersport Worl
+ d Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miami Kappaksturinn (Æfing 1) - Formula 1 - viaplay
@@ -214,6 +162,22 @@ DTEND:20260501T165500
 DTSTAMP:20260501T155500Z
 UID:2026-05-01T15:55:00/Miami Kappaksturinn (Æfing 1)
 DESCRIPTION:Miami Kappaksturinn (Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Miami Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260501T160000
+DTEND:20260501T170000
+DTSTAMP:20260501T160000Z
+UID:2026-05-01T16:00:00/Timing (Miami Kappaksturinn | Æfing 1)
+DESCRIPTION:Timing (Miami Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Miami Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260501T160000
+DTEND:20260501T170000
+DTSTAMP:20260501T160000Z
+UID:2026-05-01T16:00:00/Onboard (Miami Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Miami Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Miami Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -231,22 +195,6 @@ DTEND:20260501T170000
 DTSTAMP:20260501T160000Z
 UID:2026-05-01T16:00:00/Track Positioning (Miami Kappaksturinn | Æfing 1)
 DESCRIPTION:Track Positioning (Miami Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Miami Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260501T160000
-DTEND:20260501T170000
-DTSTAMP:20260501T160000Z
-UID:2026-05-01T16:00:00/Timing (Miami Kappaksturinn | Æfing 1)
-DESCRIPTION:Timing (Miami Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Miami Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260501T160000
-DTEND:20260501T170000
-DTSTAMP:20260501T160000Z
-UID:2026-05-01T16:00:00/Onboard (Miami Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Miami Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rhein-Neckar Löwen - Melsungen - Bundesliga - viaplay
@@ -281,13 +229,22 @@ UID:2026-05-01T20:25:00/Miami Kappaksturinn (Sprint Shootout)
 DESCRIPTION:Miami Kappaksturinn (Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Miami Kappaksturinn | SprintQualifier) - Formula 1 - viap
+SUMMARY:Onboard (Miami Kappaksturinn | SprintQualifier) - Formula 1 - viap
  lay
 DTSTART:20260501T203000
 DTEND:20260501T213000
 DTSTAMP:20260501T203000Z
-UID:2026-05-01T20:30:00/Pitlane (Miami Kappaksturinn | SprintQualifier)
-DESCRIPTION:Pitlane (Miami Kappaksturinn | SprintQualifier) - Formula 1
+UID:2026-05-01T20:30:00/Onboard (Miami Kappaksturinn | SprintQualifier)
+DESCRIPTION:Onboard (Miami Kappaksturinn | SprintQualifier) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Miami Kappaksturinn | SprintQualifier) - Formula 1 - viapl
+ ay
+DTSTART:20260501T203000
+DTEND:20260501T213000
+DTSTAMP:20260501T203000Z
+UID:2026-05-01T20:30:00/Timing (Miami Kappaksturinn | SprintQualifier)
+DESCRIPTION:Timing (Miami Kappaksturinn | SprintQualifier) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Miami Kappaksturinn | SprintQualifier) - Formul
@@ -301,22 +258,13 @@ DESCRIPTION:Track Positioning (Miami Kappaksturinn | SprintQualifier) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Miami Kappaksturinn | SprintQualifier) - Formula 1 - viapl
- ay
-DTSTART:20260501T203000
-DTEND:20260501T213000
-DTSTAMP:20260501T203000Z
-UID:2026-05-01T20:30:00/Timing (Miami Kappaksturinn | SprintQualifier)
-DESCRIPTION:Timing (Miami Kappaksturinn | SprintQualifier) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Miami Kappaksturinn | SprintQualifier) - Formula 1 - viap
+SUMMARY:Pitlane (Miami Kappaksturinn | SprintQualifier) - Formula 1 - viap
  lay
 DTSTART:20260501T203000
 DTEND:20260501T213000
 DTSTAMP:20260501T203000Z
-UID:2026-05-01T20:30:00/Onboard (Miami Kappaksturinn | SprintQualifier)
-DESCRIPTION:Onboard (Miami Kappaksturinn | SprintQualifier) - Formula 1
+UID:2026-05-01T20:30:00/Pitlane (Miami Kappaksturinn | SprintQualifier)
+DESCRIPTION:Pitlane (Miami Kappaksturinn | SprintQualifier) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Sox - Astros - Major League Baseball - viaplay
@@ -389,6 +337,14 @@ DESCRIPTION:Motul Hungarian Round (Tissot Superpole) - FIM Superbike World
   Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20260502T100000
+DTEND:20260502T110000
+DTSTAMP:20260502T100000Z
+UID:2026-05-02T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MCB Ladies Classic - Ladies European Tour - viaplay
 DTSTART:20260502T100000
 DTEND:20260502T110000
@@ -397,12 +353,12 @@ UID:2026-05-02T10:00:00/MCB Ladies Classic
 DESCRIPTION:MCB Ladies Classic - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20260502T100000
-DTEND:20260502T110000
-DTSTAMP:20260502T100000Z
-UID:2026-05-02T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
+SUMMARY:UEL/UECL Highlights - UEFA Europa League - viaplay
+DTSTART:20260502T102000
+DTEND:20260502T112000
+DTSTAMP:20260502T102000Z
+UID:2026-05-02T10:20:00/UEL/UECL Highlights
+DESCRIPTION:UEL/UECL Highlights - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vittsjö - AIK - OBOS Damallsvenskan - viaplay
@@ -413,28 +369,12 @@ UID:2026-05-02T10:50:00/Vittsjö - AIK
 DESCRIPTION:Vittsjö - AIK - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Braunschweig - 2. Bundesliga - viaplay
-DTSTART:20260502T105500
-DTEND:20260502T115500
-DTSTAMP:20260502T105500Z
-UID:2026-05-02T10:55:00/Holstein Kiel - Braunschweig
-DESCRIPTION:Holstein Kiel - Braunschweig - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arminia Bielefeld - Bochum - 2. Bundesliga - viaplay
 DTSTART:20260502T105500
 DTEND:20260502T115500
 DTSTAMP:20260502T105500Z
 UID:2026-05-02T10:55:00/Arminia Bielefeld - Bochum
 DESCRIPTION:Arminia Bielefeld - Bochum - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dynamo Dresden - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20260502T105500
-DTEND:20260502T115500
-DTSTAMP:20260502T105500Z
-UID:2026-05-02T10:55:00/Dynamo Dresden - Kaiserslautern
-DESCRIPTION:Dynamo Dresden - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Motul Hungarian Round (Kappakstur 1) - FIM Women's Circuit Racing 
@@ -447,28 +387,28 @@ DESCRIPTION:Motul Hungarian Round (Kappakstur 1) - FIM Women's Circuit Rac
  ing World Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dynamo Dresden - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20260502T105500
+DTEND:20260502T115500
+DTSTAMP:20260502T105500Z
+UID:2026-05-02T10:55:00/Dynamo Dresden - Kaiserslautern
+DESCRIPTION:Dynamo Dresden - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - Braunschweig - 2. Bundesliga - viaplay
+DTSTART:20260502T105500
+DTEND:20260502T115500
+DTSTAMP:20260502T105500Z
+UID:2026-05-02T10:55:00/Holstein Kiel - Braunschweig
+DESCRIPTION:Holstein Kiel - Braunschweig - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Della Maddalena vs Prates - UFC - viaplay
 DTSTART:20260502T110000
 DTEND:20260502T120000
 DTSTAMP:20260502T110000Z
 UID:2026-05-02T11:00:00/Della Maddalena vs Prates
 DESCRIPTION:Della Maddalena vs Prates - UFC
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bristol City - Stoke - Championship - viaplay
-DTSTART:20260502T112500
-DTEND:20260502T122500
-DTSTAMP:20260502T112500Z
-UID:2026-05-02T11:25:00/Bristol City - Stoke
-DESCRIPTION:Bristol City - Stoke - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Millwall - Oxford United - Championship - viaplay
-DTSTART:20260502T112500
-DTEND:20260502T122500
-DTSTAMP:20260502T112500Z
-UID:2026-05-02T11:25:00/Millwall - Oxford United
-DESCRIPTION:Millwall - Oxford United - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wrexham - Middlesbrough - Championship - viaplay
@@ -487,12 +427,12 @@ UID:2026-05-02T11:25:00/Ipswich - QPR
 DESCRIPTION:Ipswich - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blackburn - Leicester - Championship - viaplay
+SUMMARY:Millwall - Oxford United - Championship - viaplay
 DTSTART:20260502T112500
 DTEND:20260502T122500
 DTSTAMP:20260502T112500Z
-UID:2026-05-02T11:25:00/Blackburn - Leicester
-DESCRIPTION:Blackburn - Leicester - Championship
+UID:2026-05-02T11:25:00/Millwall - Oxford United
+DESCRIPTION:Millwall - Oxford United - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield Wednesday - West Brom - Championship - viaplay
@@ -551,12 +491,38 @@ UID:2026-05-02T11:25:00/Derby - Sheffield United
 DESCRIPTION:Derby - Sheffield United - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bristol City - Stoke - Championship - viaplay
+DTSTART:20260502T112500
+DTEND:20260502T122500
+DTSTAMP:20260502T112500Z
+UID:2026-05-02T11:25:00/Bristol City - Stoke
+DESCRIPTION:Bristol City - Stoke - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blackburn - Leicester - Championship - viaplay
+DTSTART:20260502T112500
+DTEND:20260502T122500
+DTSTAMP:20260502T112500Z
+UID:2026-05-02T11:25:00/Blackburn - Leicester
+DESCRIPTION:Blackburn - Leicester - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brommapojkarna - Kristianstad - OBOS Damallsvenskan - viaplay
 DTSTART:20260502T115000
 DTEND:20260502T125000
 DTSTAMP:20260502T115000Z
 UID:2026-05-02T11:50:00/Brommapojkarna - Kristianstad
 DESCRIPTION:Brommapojkarna - Kristianstad - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motul Hungarian Round (Kappakstur 1) - FIM Supersport World Champi
+ onship - viaplay
+DTSTART:20260502T115500
+DTEND:20260502T125500
+DTSTAMP:20260502T115500Z
+UID:2026-05-02T11:55:00/Motul Hungarian Round (Kappakstur 1)
+DESCRIPTION:Motul Hungarian Round (Kappakstur 1) - FIM Supersport World Ch
+ ampionship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Leipzig - Frauen-Bundesliga - viaplay
@@ -583,6 +549,22 @@ UID:2026-05-02T13:10:00/Skellefteå - Rögle
 DESCRIPTION:Skellefteå - Rögle - SHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hoffenheim - Stuttgart - Bundesliga - viaplay
+DTSTART:20260502T132000
+DTEND:20260502T142000
+DTSTAMP:20260502T132000Z
+UID:2026-05-02T13:20:00/Hoffenheim - Stuttgart
+DESCRIPTION:Hoffenheim - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - HSV - Bundesliga - viaplay
+DTSTART:20260502T132000
+DTEND:20260502T142000
+DTSTAMP:20260502T132000Z
+UID:2026-05-02T13:20:00/Frankfurt - HSV
+DESCRIPTION:Frankfurt - HSV - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Werder Bremen - Augsburg - Bundesliga - viaplay
 DTSTART:20260502T132000
 DTEND:20260502T142000
@@ -591,12 +573,12 @@ UID:2026-05-02T13:20:00/Werder Bremen - Augsburg
 DESCRIPTION:Werder Bremen - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Stuttgart - Bundesliga - viaplay
+SUMMARY:Union Berlin - Köln - Bundesliga - viaplay
 DTSTART:20260502T132000
 DTEND:20260502T142000
 DTSTAMP:20260502T132000Z
-UID:2026-05-02T13:20:00/Hoffenheim - Stuttgart
-DESCRIPTION:Hoffenheim - Stuttgart - Bundesliga
+UID:2026-05-02T13:20:00/Union Berlin - Köln
+DESCRIPTION:Union Berlin - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Heidenheim - Bundesliga - viaplay
@@ -625,30 +607,6 @@ UID:2026-05-02T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - HSV - Bundesliga - viaplay
-DTSTART:20260502T132000
-DTEND:20260502T142000
-DTSTAMP:20260502T132000Z
-UID:2026-05-02T13:20:00/Frankfurt - HSV
-DESCRIPTION:Frankfurt - HSV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Köln - Bundesliga - viaplay
-DTSTART:20260502T132000
-DTEND:20260502T142000
-DTSTAMP:20260502T132000Z
-UID:2026-05-02T13:20:00/Union Berlin - Köln
-DESCRIPTION:Union Berlin - Köln - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exeter - Bradford - League One - viaplay
-DTSTART:20260502T135500
-DTEND:20260502T145500
-DTSTAMP:20260502T135500Z
-UID:2026-05-02T13:55:00/Exeter - Bradford
-DESCRIPTION:Exeter - Bradford - League One
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Miami (Sprettkeppni) - Formula 2 - viaplay
 DTSTART:20260502T135500
 DTEND:20260502T145500
@@ -657,12 +615,12 @@ UID:2026-05-02T13:55:00/Miami (Sprettkeppni)
 DESCRIPTION:Miami (Sprettkeppni) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UEL/UECL Highlights - UEFA Europa League - viaplay
-DTSTART:20260502T150000
-DTEND:20260502T160000
-DTSTAMP:20260502T150000Z
-UID:2026-05-02T15:00:00/UEL/UECL Highlights
-DESCRIPTION:UEL/UECL Highlights - UEFA Europa League
+SUMMARY:Exeter - Bradford - League One - viaplay
+DTSTART:20260502T135500
+DTEND:20260502T145500
+DTSTAMP:20260502T135500Z
+UID:2026-05-02T13:55:00/Exeter - Bradford
+DESCRIPTION:Exeter - Bradford - League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brands Hatch (Tímatökur) - GT World Challenge Europe - viaplay
@@ -689,30 +647,6 @@ UID:2026-05-02T15:55:00/F1 Kids: Miami Kappaksturinn (Sprettkeppni)
 DESCRIPTION:F1 Kids: Miami Kappaksturinn (Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Miami Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
-DTSTART:20260502T160000
-DTEND:20260502T170000
-DTSTAMP:20260502T160000Z
-UID:2026-05-02T16:00:00/Timing (Miami Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Timing (Miami Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Miami Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
-DTSTART:20260502T160000
-DTEND:20260502T170000
-DTSTAMP:20260502T160000Z
-UID:2026-05-02T16:00:00/Onboard (Miami Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Onboard (Miami Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Miami Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
-DTSTART:20260502T160000
-DTEND:20260502T170000
-DTSTAMP:20260502T160000Z
-UID:2026-05-02T16:00:00/Pitlane (Miami Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Pitlane (Miami Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Miami Kappaksturinn | Sprettkeppni) - Formula 1
   - viaplay
 DTSTART:20260502T160000
@@ -724,12 +658,28 @@ DESCRIPTION:Track Positioning (Miami Kappaksturinn | Sprettkeppni) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Leipzig - Bundesliga - viaplay
-DTSTART:20260502T162000
-DTEND:20260502T172000
-DTSTAMP:20260502T162000Z
-UID:2026-05-02T16:20:00/Leverkusen - Leipzig
-DESCRIPTION:Leverkusen - Leipzig - Bundesliga
+SUMMARY:Pitlane (Miami Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
+DTSTART:20260502T160000
+DTEND:20260502T170000
+DTSTAMP:20260502T160000Z
+UID:2026-05-02T16:00:00/Pitlane (Miami Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Pitlane (Miami Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Miami Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
+DTSTART:20260502T160000
+DTEND:20260502T170000
+DTSTAMP:20260502T160000Z
+UID:2026-05-02T16:00:00/Onboard (Miami Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Onboard (Miami Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Miami Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
+DTSTART:20260502T160000
+DTEND:20260502T170000
+DTSTAMP:20260502T160000Z
+UID:2026-05-02T16:00:00/Timing (Miami Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Timing (Miami Kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Leipzig (Tactical Feed) - Bundesliga - viaplay
@@ -738,6 +688,14 @@ DTEND:20260502T172000
 DTSTAMP:20260502T162000Z
 UID:2026-05-02T16:20:00/Leverkusen - Leipzig (Tactical Feed)
 DESCRIPTION:Leverkusen - Leipzig (Tactical Feed) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Leipzig - Bundesliga - viaplay
+DTSTART:20260502T162000
+DTEND:20260502T172000
+DTSTAMP:20260502T162000Z
+UID:2026-05-02T16:20:00/Leverkusen - Leipzig
+DESCRIPTION:Leverkusen - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yankees - Orioles - Major League Baseball - viaplay
@@ -764,20 +722,28 @@ UID:2026-05-02T19:55:00/Miami Kappaksturinn (Tímatökur)
 DESCRIPTION:Miami Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Miami Kappaksturinn | Tímatökur) - Formula 1 - viaplay
-DTSTART:20260502T200000
-DTEND:20260502T210000
-DTSTAMP:20260502T200000Z
-UID:2026-05-02T20:00:00/Pitlane (Miami Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Miami Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Miami Kappaksturinn | Tímatökur) - Formula 1 - viaplay
 DTSTART:20260502T200000
 DTEND:20260502T210000
 DTSTAMP:20260502T200000Z
 UID:2026-05-02T20:00:00/Timing (Miami Kappaksturinn | Tímatökur)
 DESCRIPTION:Timing (Miami Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Miami Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20260502T200000
+DTEND:20260502T210000
+DTSTAMP:20260502T200000Z
+UID:2026-05-02T20:00:00/Onboard (Miami Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Miami Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Miami Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20260502T200000
+DTEND:20260502T210000
+DTSTAMP:20260502T200000Z
+UID:2026-05-02T20:00:00/Pitlane (Miami Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Miami Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Miami Kappaksturinn | Tímatökur) - Formula 1 
@@ -789,14 +755,6 @@ UID:2026-05-02T20:00:00/Track Positioning (Miami Kappaksturinn | Tímatök
  ur)
 DESCRIPTION:Track Positioning (Miami Kappaksturinn | Tímatökur) - Formul
  a 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Miami Kappaksturinn | Tímatökur) - Formula 1 - viaplay
-DTSTART:20260502T200000
-DTEND:20260502T210000
-DTSTAMP:20260502T200000Z
-UID:2026-05-02T20:00:00/Onboard (Miami Kappaksturinn | Tímatökur)
-DESCRIPTION:Onboard (Miami Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kentucky Derby - Triple Crown - viaplay
@@ -824,14 +782,6 @@ UID:2026-05-03T03:00:00/GT World Challenge Asia (Kappakstur 2)
 DESCRIPTION:GT World Challenge Asia (Kappakstur 2) - GT World Challenge
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MCB Ladies Classic - Ladies European Tour - viaplay
-DTSTART:20260503T090000
-DTEND:20260503T100000
-DTSTAMP:20260503T090000Z
-UID:2026-05-03T09:00:00/MCB Ladies Classic
-DESCRIPTION:MCB Ladies Classic - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Motul Hungarian Round (Tissot Superpole Race) - FIM Superbike Worl
  d Championship - viaplay
 DTSTART:20260503T090000
@@ -840,6 +790,14 @@ DTSTAMP:20260503T090000Z
 UID:2026-05-03T09:00:00/Motul Hungarian Round (Tissot Superpole Race)
 DESCRIPTION:Motul Hungarian Round (Tissot Superpole Race) - FIM Superbike 
  World Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MCB Ladies Classic - Ladies European Tour - viaplay
+DTSTART:20260503T090000
+DTEND:20260503T100000
+DTSTAMP:20260503T090000Z
+UID:2026-05-03T09:00:00/MCB Ladies Classic
+DESCRIPTION:MCB Ladies Classic - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GT World Challenge Europe (Sprettkeppni 1) - GT World Challenge - 
@@ -878,14 +836,6 @@ DESCRIPTION:Motul Hungarian Round (Kappakstur 2) - FIM Women's Circuit Rac
  ing World Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Hertha Berlin - 2. Bundesliga - viaplay
-DTSTART:20260503T112500
-DTEND:20260503T122500
-DTSTAMP:20260503T112500Z
-UID:2026-05-03T11:25:00/Magdeburg - Hertha Berlin
-DESCRIPTION:Magdeburg - Hertha Berlin - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20260503T112500
 DTEND:20260503T122500
@@ -894,12 +844,20 @@ UID:2026-05-03T11:25:00/Greuther Fürth - Nürnberg
 DESCRIPTION:Greuther Fürth - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Preußen Münster - 2. Bundesliga - viaplay
+SUMMARY:Karlsruher - Darmstadt - 2. Bundesliga - viaplay
 DTSTART:20260503T112500
 DTEND:20260503T122500
 DTSTAMP:20260503T112500Z
-UID:2026-05-03T11:25:00/Hannover - Preußen Münster
-DESCRIPTION:Hannover - Preußen Münster - 2. Bundesliga
+UID:2026-05-03T11:25:00/Karlsruher - Darmstadt
+DESCRIPTION:Karlsruher - Darmstadt - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Hertha Berlin - 2. Bundesliga - viaplay
+DTSTART:20260503T112500
+DTEND:20260503T122500
+DTSTAMP:20260503T112500Z
+UID:2026-05-03T11:25:00/Magdeburg - Hertha Berlin
+DESCRIPTION:Magdeburg - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Paderborn - 2. Bundesliga - viaplay
@@ -910,12 +868,22 @@ UID:2026-05-03T11:25:00/Elversberg - Paderborn
 DESCRIPTION:Elversberg - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Darmstadt - 2. Bundesliga - viaplay
+SUMMARY:Hannover - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20260503T112500
 DTEND:20260503T122500
 DTSTAMP:20260503T112500Z
-UID:2026-05-03T11:25:00/Karlsruher - Darmstadt
-DESCRIPTION:Karlsruher - Darmstadt - 2. Bundesliga
+UID:2026-05-03T11:25:00/Hannover - Preußen Münster
+DESCRIPTION:Hannover - Preußen Münster - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motul Hungarian Round (Kappakstur 2) - FIM Supersport World Champi
+ onship - viaplay
+DTSTART:20260503T115500
+DTEND:20260503T125500
+DTSTAMP:20260503T115500Z
+UID:2026-05-03T11:55:00/Motul Hungarian Round (Kappakstur 2)
+DESCRIPTION:Motul Hungarian Round (Kappakstur 2) - FIM Supersport World Ch
+ ampionship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norrköping - Eskilstuna United - OBOS Damallsvenskan - viaplay
@@ -934,14 +902,6 @@ UID:2026-05-03T12:55:00/HSV Hamburg - Stuttgart
 DESCRIPTION:HSV Hamburg - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Pauli - Mainz - Bundesliga - viaplay
-DTSTART:20260503T132000
-DTEND:20260503T142000
-DTSTAMP:20260503T132000Z
-UID:2026-05-03T13:20:00/St. Pauli - Mainz
-DESCRIPTION:St. Pauli - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Motul Hungarian Round (Kappakstur 2) - FIM Superbike World Champio
  nship - viaplay
 DTSTART:20260503T132000
@@ -950,6 +910,14 @@ DTSTAMP:20260503T132000Z
 UID:2026-05-03T13:20:00/Motul Hungarian Round (Kappakstur 2)
 DESCRIPTION:Motul Hungarian Round (Kappakstur 2) - FIM Superbike World Cha
  mpionship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - Mainz - Bundesliga - viaplay
+DTSTART:20260503T132000
+DTEND:20260503T142000
+DTSTAMP:20260503T132000Z
+UID:2026-05-03T13:20:00/St. Pauli - Mainz
+DESCRIPTION:St. Pauli - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Snetterton (Kappakstur 2) - Ferrari Challenge UK - viaplay
@@ -1042,17 +1010,6 @@ UID:2026-05-03T20:00:00/Timing (Miami Kappaksturinn | Kappakstur)
 DESCRIPTION:Timing (Miami Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Miami Kappaksturinn | Kappakstur) - Formula 1 -
-  viaplay
-DTSTART:20260503T200000
-DTEND:20260503T210000
-DTSTAMP:20260503T200000Z
-UID:2026-05-03T20:00:00/Track Positioning (Miami Kappaksturinn | Kappakstu
- r)
-DESCRIPTION:Track Positioning (Miami Kappaksturinn | Kappakstur) - Formula
-  1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Miami Kappaksturinn | Kappakstur) - Formula 1 - viaplay
 DTSTART:20260503T200000
 DTEND:20260503T210000
@@ -1067,6 +1024,17 @@ DTEND:20260503T210000
 DTSTAMP:20260503T200000Z
 UID:2026-05-03T20:00:00/Onboard (Miami Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Miami Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Miami Kappaksturinn | Kappakstur) - Formula 1 -
+  viaplay
+DTSTART:20260503T200000
+DTEND:20260503T210000
+DTSTAMP:20260503T200000Z
+UID:2026-05-03T20:00:00/Track Positioning (Miami Kappaksturinn | Kappakstu
+ r)
+DESCRIPTION:Track Positioning (Miami Kappaksturinn | Kappakstur) - Formula
+  1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Motul Course De Monterey - IMSA Sportscar Championship - viaplay
@@ -1139,5 +1107,61 @@ DTEND:20260505T233000
 DTSTAMP:20260505T223000Z
 UID:2026-05-05T22:30:00/Tigers - Red Sox
 DESCRIPTION:Tigers - Red Sox - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giants - Padres - Major League Baseball - viaplay
+DTSTART:20260506T013000
+DTEND:20260506T023000
+DTSTAMP:20260506T013000Z
+UID:2026-05-06T01:30:00/Giants - Padres
+DESCRIPTION:Giants - Padres - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20260506T100000
+DTEND:20260506T110000
+DTSTAMP:20260506T100000Z
+UID:2026-05-06T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Hoffenheim - Frauen-Bundesliga - viaplay
+DTSTART:20260506T155500
+DTEND:20260506T165500
+DTSTAMP:20260506T155500Z
+UID:2026-05-06T15:55:00/Bayern München - Hoffenheim
+DESCRIPTION:Bayern München - Hoffenheim - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Häcken - Djurgården - OBOS Damallsvenskan - viaplay
+DTSTART:20260506T162000
+DTEND:20260506T172000
+DTSTAMP:20260506T162000Z
+UID:2026-05-06T16:20:00/Häcken - Djurgården
+DESCRIPTION:Häcken - Djurgården - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hammarby - Uppsala - OBOS Damallsvenskan - viaplay
+DTSTART:20260506T165000
+DTEND:20260506T175000
+DTSTAMP:20260506T165000Z
+UID:2026-05-06T16:50:00/Hammarby - Uppsala
+DESCRIPTION:Hammarby - Uppsala - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardinals - Brewers - Major League Baseball - viaplay
+DTSTART:20260506T170000
+DTEND:20260506T180000
+DTSTAMP:20260506T170000Z
+UID:2026-05-06T17:00:00/Cardinals - Brewers
+DESCRIPTION:Cardinals - Brewers - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yankees - Rangers - Major League Baseball - viaplay
+DTSTART:20260506T230000
+DTEND:20260507T000000
+DTSTAMP:20260506T230000Z
+UID:2026-05-06T23:00:00/Yankees - Rangers
+DESCRIPTION:Yankees - Rangers - Major League Baseball
 END:VEVENT
 END:VCALENDAR
