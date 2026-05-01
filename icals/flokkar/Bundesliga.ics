@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Gummersbach - FRISCH AUF! Göppingen - Bundesliga - viaplay
-DTSTART:20260430T165500
-DTEND:20260430T175500
-DTSTAMP:20260430T165500Z
-UID:2026-04-30T16:55:00/Gummersbach - FRISCH AUF! Göppingen
-DESCRIPTION:Gummersbach - FRISCH AUF! Göppingen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rhein-Neckar Löwen - Melsungen - Bundesliga - viaplay
 DTSTART:20260501T165500
 DTEND:20260501T175500
@@ -18,36 +10,12 @@ UID:2026-05-01T16:55:00/Rhein-Neckar Löwen - Melsungen
 DESCRIPTION:Rhein-Neckar Löwen - Melsungen - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Stuttgart - Bundesliga - viaplay
-DTSTART:20260502T132000
-DTEND:20260502T142000
-DTSTAMP:20260502T132000Z
-UID:2026-05-02T13:20:00/Hoffenheim - Stuttgart
-DESCRIPTION:Hoffenheim - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankfurt - HSV - Bundesliga - viaplay
-DTSTART:20260502T132000
-DTEND:20260502T142000
-DTSTAMP:20260502T132000Z
-UID:2026-05-02T13:20:00/Frankfurt - HSV
-DESCRIPTION:Frankfurt - HSV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Werder Bremen - Augsburg - Bundesliga - viaplay
 DTSTART:20260502T132000
 DTEND:20260502T142000
 DTSTAMP:20260502T132000Z
 UID:2026-05-02T13:20:00/Werder Bremen - Augsburg
 DESCRIPTION:Werder Bremen - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Köln - Bundesliga - viaplay
-DTSTART:20260502T132000
-DTEND:20260502T142000
-DTSTAMP:20260502T132000Z
-UID:2026-05-02T13:20:00/Union Berlin - Köln
-DESCRIPTION:Union Berlin - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Heidenheim - Bundesliga - viaplay
@@ -66,6 +34,30 @@ UID:2026-05-02T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hoffenheim - Stuttgart - Bundesliga - viaplay
+DTSTART:20260502T132000
+DTEND:20260502T142000
+DTSTAMP:20260502T132000Z
+UID:2026-05-02T13:20:00/Hoffenheim - Stuttgart
+DESCRIPTION:Hoffenheim - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Köln - Bundesliga - viaplay
+DTSTART:20260502T132000
+DTEND:20260502T142000
+DTSTAMP:20260502T132000Z
+UID:2026-05-02T13:20:00/Union Berlin - Köln
+DESCRIPTION:Union Berlin - Köln - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - HSV - Bundesliga - viaplay
+DTSTART:20260502T132000
+DTEND:20260502T142000
+DTSTAMP:20260502T132000Z
+UID:2026-05-02T13:20:00/Frankfurt - HSV
+DESCRIPTION:Frankfurt - HSV - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayern München - Heidenheim - Bundesliga - synsportviaplay
 DTSTART:20260502T132500
 DTEND:20260502T142500
@@ -74,20 +66,20 @@ UID:2026-05-02T13:25:00/Bayern München - Heidenheim
 DESCRIPTION:Bayern München - Heidenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Leipzig (Tactical Feed) - Bundesliga - viaplay
-DTSTART:20260502T162000
-DTEND:20260502T172000
-DTSTAMP:20260502T162000Z
-UID:2026-05-02T16:20:00/Leverkusen - Leipzig (Tactical Feed)
-DESCRIPTION:Leverkusen - Leipzig (Tactical Feed) - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leverkusen - Leipzig - Bundesliga - viaplay
 DTSTART:20260502T162000
 DTEND:20260502T172000
 DTSTAMP:20260502T162000Z
 UID:2026-05-02T16:20:00/Leverkusen - Leipzig
 DESCRIPTION:Leverkusen - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Leipzig (Tactical Feed) - Bundesliga - viaplay
+DTSTART:20260502T162000
+DTEND:20260502T172000
+DTSTAMP:20260502T162000Z
+UID:2026-05-02T16:20:00/Leverkusen - Leipzig (Tactical Feed)
+DESCRIPTION:Leverkusen - Leipzig (Tactical Feed) - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HSV Hamburg - Stuttgart - Bundesliga - viaplay

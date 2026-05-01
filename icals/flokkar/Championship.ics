@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
+SUMMARY:Watford - Coventry - Championship - viaplay
+DTSTART:20260502T112500
+DTEND:20260502T122500
+DTSTAMP:20260502T112500Z
+UID:2026-05-02T11:25:00/Watford - Coventry
+DESCRIPTION:Watford - Coventry - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wrexham - Middlesbrough - Championship - viaplay
 DTSTART:20260502T112500
 DTEND:20260502T122500
 DTSTAMP:20260502T112500Z
 UID:2026-05-02T11:25:00/Wrexham - Middlesbrough
 DESCRIPTION:Wrexham - Middlesbrough - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ipswich - QPR - Championship - viaplay
-DTSTART:20260502T112500
-DTEND:20260502T122500
-DTSTAMP:20260502T112500Z
-UID:2026-05-02T11:25:00/Ipswich - QPR
-DESCRIPTION:Ipswich - QPR - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Millwall - Oxford United - Championship - viaplay
-DTSTART:20260502T112500
-DTEND:20260502T122500
-DTSTAMP:20260502T112500Z
-UID:2026-05-02T11:25:00/Millwall - Oxford United
-DESCRIPTION:Millwall - Oxford United - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield Wednesday - West Brom - Championship - viaplay
@@ -34,12 +26,28 @@ UID:2026-05-02T11:25:00/Sheffield Wednesday - West Brom
 DESCRIPTION:Sheffield Wednesday - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Watford - Coventry - Championship - viaplay
+SUMMARY:Millwall - Oxford United - Championship - viaplay
 DTSTART:20260502T112500
 DTEND:20260502T122500
 DTSTAMP:20260502T112500Z
-UID:2026-05-02T11:25:00/Watford - Coventry
-DESCRIPTION:Watford - Coventry - Championship
+UID:2026-05-02T11:25:00/Millwall - Oxford United
+DESCRIPTION:Millwall - Oxford United - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ipswich - QPR - Championship - viaplay
+DTSTART:20260502T112500
+DTEND:20260502T122500
+DTSTAMP:20260502T112500Z
+UID:2026-05-02T11:25:00/Ipswich - QPR
+DESCRIPTION:Ipswich - QPR - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blackburn - Leicester - Championship - viaplay
+DTSTART:20260502T112500
+DTEND:20260502T122500
+DTSTAMP:20260502T112500Z
+UID:2026-05-02T11:25:00/Blackburn - Leicester
+DESCRIPTION:Blackburn - Leicester - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Charlton - Championship - viaplay
@@ -88,13 +96,5 @@ DTEND:20260502T122500
 DTSTAMP:20260502T112500Z
 UID:2026-05-02T11:25:00/Bristol City - Stoke
 DESCRIPTION:Bristol City - Stoke - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackburn - Leicester - Championship - viaplay
-DTSTART:20260502T112500
-DTEND:20260502T122500
-DTSTAMP:20260502T112500Z
-UID:2026-05-02T11:25:00/Blackburn - Leicester
-DESCRIPTION:Blackburn - Leicester - Championship
 END:VEVENT
 END:VCALENDAR
