@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Chelsea - Nott. Forest - Premier League - synsport
-DTSTART:20260504T134000
-DTEND:20260504T144000
-DTSTAMP:20260504T134000Z
-UID:2026-05-04T13:40:00/Chelsea - Nott. Forest
-DESCRIPTION:Chelsea - Nott. Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everton - Man. City - Premier League - synsport
-DTSTART:20260504T184000
-DTEND:20260504T194000
-DTSTAMP:20260504T184000Z
-UID:2026-05-04T18:40:00/Everton - Man. City
-DESCRIPTION:Everton - Man. City - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liverpool - Chelsea - Premier League - synsport
 DTSTART:20260509T111000
 DTEND:20260509T121000
@@ -26,12 +10,12 @@ UID:2026-05-09T11:10:00/Liverpool - Chelsea
 DESCRIPTION:Liverpool - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
+SUMMARY:Fulham - Bournemouth - Premier League - synsport4
 DTSTART:20260509T134000
 DTEND:20260509T144000
 DTSTAMP:20260509T134000Z
-UID:2026-05-09T13:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
+UID:2026-05-09T13:40:00/Fulham - Bournemouth
+DESCRIPTION:Fulham - Bournemouth - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Man. Utd. - Premier League - synsport2
@@ -50,12 +34,12 @@ UID:2026-05-09T13:40:00/Brighton - Wolves
 DESCRIPTION:Brighton - Wolves - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Bournemouth - Premier League - synsport4
+SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20260509T134000
 DTEND:20260509T144000
 DTSTAMP:20260509T134000Z
-UID:2026-05-09T13:40:00/Fulham - Bournemouth
-DESCRIPTION:Fulham - Bournemouth - Premier League
+UID:2026-05-09T13:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport2
@@ -74,6 +58,14 @@ UID:2026-05-09T16:20:00/Man. City - Brentford
 DESCRIPTION:Man. City - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crystal Palace - Everton - Premier League - synsport2
+DTSTART:20260510T124000
+DTEND:20260510T134000
+DTSTAMP:20260510T124000Z
+UID:2026-05-10T12:40:00/Crystal Palace - Everton
+DESCRIPTION:Crystal Palace - Everton - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burnley - Aston Villa - Premier League - synsport3
 DTSTART:20260510T124000
 DTEND:20260510T134000
@@ -90,14 +82,6 @@ UID:2026-05-10T12:40:00/Nott. Forest - Newcastle
 DESCRIPTION:Nott. Forest - Newcastle - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Everton - Premier League - synsport2
-DTSTART:20260510T124000
-DTEND:20260510T134000
-DTSTAMP:20260510T124000Z
-UID:2026-05-10T12:40:00/Crystal Palace - Everton
-DESCRIPTION:Crystal Palace - Everton - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Ham - Arsenal - Premier League - synsport
 DTSTART:20260510T151000
 DTEND:20260510T161000
@@ -112,5 +96,13 @@ DTEND:20260510T183500
 DTSTAMP:20260510T173500Z
 UID:2026-05-10T17:35:00/Sunnudagsmessan
 DESCRIPTION:Sunnudagsmessan - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Leeds - Premier League - synsport
+DTSTART:20260511T184000
+DTEND:20260511T194000
+DTSTAMP:20260511T184000Z
+UID:2026-05-11T18:40:00/Tottenham - Leeds
+DESCRIPTION:Tottenham - Leeds - Premier League
 END:VEVENT
 END:VCALENDAR
