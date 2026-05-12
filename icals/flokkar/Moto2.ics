@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Moto2 - ical
 BEGIN:VEVENT
-SUMMARY:GP Frakklandi (Kappakstur) - Moto2 - viaplay
-DTSTART:20260510T100000
-DTEND:20260510T110000
-DTSTAMP:20260510T100000Z
-UID:2026-05-10T10:00:00/GP Frakklandi (Kappakstur)
-DESCRIPTION:GP Frakklandi (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Frjáls æfing 1) - Moto2 - viaplay
 DTSTART:20260515T074500
 DTEND:20260515T084500
@@ -40,5 +32,13 @@ DTEND:20260516T123500
 DTSTAMP:20260516T113500Z
 UID:2026-05-16T11:35:00/Katalónía Kappaksturinn (Tímatökur)
 DESCRIPTION:Katalónía Kappaksturinn (Tímatökur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katalónía Kappaksturinn (Kappakstur) - Moto2 - viaplay
+DTSTART:20260517T100000
+DTEND:20260517T110000
+DTSTAMP:20260517T100000Z
+UID:2026-05-17T10:00:00/Katalónía Kappaksturinn (Kappakstur)
+DESCRIPTION:Katalónía Kappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 END:VCALENDAR

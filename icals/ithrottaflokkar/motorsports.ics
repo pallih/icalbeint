@@ -2,62 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:The Bend (Kappakstur 2) - Ferrari Challenge Australasia - viaplay
-DTSTART:20260510T055000
-DTEND:20260510T065000
-DTSTAMP:20260510T055000Z
-UID:2026-05-10T05:50:00/The Bend (Kappakstur 2)
-DESCRIPTION:The Bend (Kappakstur 2) - Ferrari Challenge Australasia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Misano (Kappakstur 3) - Formula 4 Italian Championship - viaplay
-DTSTART:20260510T062500
-DTEND:20260510T072500
-DTSTAMP:20260510T062500Z
-UID:2026-05-10T06:25:00/Misano (Kappakstur 3)
-DESCRIPTION:Misano (Kappakstur 3) - Formula 4 Italian Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GP Frakklandi (Warm Up) - MotoGP - viaplay
-DTSTART:20260510T073500
-DTEND:20260510T083500
-DTSTAMP:20260510T073500Z
-UID:2026-05-10T07:35:00/GP Frakklandi (Warm Up)
-DESCRIPTION:GP Frakklandi (Warm Up) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GP Frakklandi (Kappakstur) - Moto3 - viaplay
-DTSTART:20260510T084500
-DTEND:20260510T094500
-DTSTAMP:20260510T084500Z
-UID:2026-05-10T08:45:00/GP Frakklandi (Kappakstur)
-DESCRIPTION:GP Frakklandi (Kappakstur) - Moto3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GP Frakklandi (Kappakstur) - Moto2 - viaplay
-DTSTART:20260510T100000
-DTEND:20260510T110000
-DTSTAMP:20260510T100000Z
-UID:2026-05-10T10:00:00/GP Frakklandi (Kappakstur)
-DESCRIPTION:GP Frakklandi (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GP Frakklandi (Kappakstur) - MotoGP - viaplay
-DTSTART:20260510T110000
-DTEND:20260510T120000
-DTSTAMP:20260510T110000Z
-UID:2026-05-10T11:00:00/GP Frakklandi (Kappakstur)
-DESCRIPTION:GP Frakklandi (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Misano (Kappakstur 4) - Formula 4 Italian Championship - viaplay
-DTSTART:20260510T114500
-DTEND:20260510T124500
-DTSTAMP:20260510T114500Z
-UID:2026-05-10T11:45:00/Misano (Kappakstur 4)
-DESCRIPTION:Misano (Kappakstur 4) - Formula 4 Italian Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:110th Running of the Indianapolis 500 (Æfing 1) - IndyCar - viapl
  ay
 DTSTART:20260512T160000
@@ -163,14 +107,6 @@ DESCRIPTION:ADAC 24h Nürburgring (Top-Qualifying 1 & 2) - Nürburgring 24
  H
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Katalónía Kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
-DTSTART:20260515T083500
-DTEND:20260515T093500
-DTSTAMP:20260515T083500Z
-UID:2026-05-15T08:35:00/Katalónía Kappaksturinn (Frjáls æfing 1)
-DESCRIPTION:Katalónía Kappaksturinn (Frjáls æfing 1) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Czech Round (Frjáls æfing 1) - FIM Superbike World Championship 
  - viaplay
 DTSTART:20260515T083500
@@ -179,6 +115,14 @@ DTSTAMP:20260515T083500Z
 UID:2026-05-15T08:35:00/Czech Round (Frjáls æfing 1)
 DESCRIPTION:Czech Round (Frjáls æfing 1) - FIM Superbike World Champions
  hip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katalónía Kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
+DTSTART:20260515T083500
+DTEND:20260515T093500
+DTSTAMP:20260515T083500Z
+UID:2026-05-15T08:35:00/Katalónía Kappaksturinn (Frjáls æfing 1)
+DESCRIPTION:Katalónía Kappaksturinn (Frjáls æfing 1) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ADAC 24h Nürburgring (Tímatökur 3) - Nürburgring 24H - viaplay
@@ -287,20 +231,20 @@ DESCRIPTION:Czech Round (Frjáls æfing 3) - FIM Superbike World Champions
  hip
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Katalónía Kappaksturinn (Frjáls æfing 2) - MotoGP - viaplay
-DTSTART:20260516T080000
-DTEND:20260516T090000
-DTSTAMP:20260516T080000Z
-UID:2026-05-16T08:00:00/Katalónía Kappaksturinn (Frjáls æfing 2)
-DESCRIPTION:Katalónía Kappaksturinn (Frjáls æfing 2) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ADAC 24h Nürburgring (Warm-up) - Nürburgring 24H - viaplay
 DTSTART:20260516T080000
 DTEND:20260516T090000
 DTSTAMP:20260516T080000Z
 UID:2026-05-16T08:00:00/ADAC 24h Nürburgring (Warm-up)
 DESCRIPTION:ADAC 24h Nürburgring (Warm-up) - Nürburgring 24H
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katalónía Kappaksturinn (Frjáls æfing 2) - MotoGP - viaplay
+DTSTART:20260516T080000
+DTEND:20260516T090000
+DTSTAMP:20260516T080000Z
+UID:2026-05-16T08:00:00/Katalónía Kappaksturinn (Frjáls æfing 2)
+DESCRIPTION:Katalónía Kappaksturinn (Frjáls æfing 2) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Tímatökur) - MotoGP - viaplay
@@ -375,15 +319,6 @@ UID:2026-05-16T12:00:00/Czech Round (Kappakstur 1)
 DESCRIPTION:Czech Round (Kappakstur 1) - FIM Superbike World Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Æfing 9) - IndyCar - viapl
- ay
-DTSTART:20260516T123000
-DTEND:20260516T133000
-DTSTAMP:20260516T123000Z
-UID:2026-05-16T12:30:00/110th Running of the Indianapolis 500 (Æfing 9)
-DESCRIPTION:110th Running of the Indianapolis 500 (Æfing 9) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ADAC 24h Nürburgring (Kappakstur 1:3) - Nürburgring 24H - viapla
  y
 DTSTART:20260516T123000
@@ -391,6 +326,15 @@ DTEND:20260516T133000
 DTSTAMP:20260516T123000Z
 UID:2026-05-16T12:30:00/ADAC 24h Nürburgring (Kappakstur 1:3)
 DESCRIPTION:ADAC 24h Nürburgring (Kappakstur 1:3) - Nürburgring 24H
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:110th Running of the Indianapolis 500 (Æfing 9) - IndyCar - viapl
+ ay
+DTSTART:20260516T123000
+DTEND:20260516T133000
+DTSTAMP:20260516T123000Z
+UID:2026-05-16T12:30:00/110th Running of the Indianapolis 500 (Æfing 9)
+DESCRIPTION:110th Running of the Indianapolis 500 (Æfing 9) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Sprettkeppni) - MotoGP - viaplay
@@ -450,6 +394,143 @@ DTSTAMP:20260516T200000Z
 UID:2026-05-16T20:00:00/110th Running of the Indianapolis 500 (Tímatökur
   3)
 DESCRIPTION:110th Running of the Indianapolis 500 (Tímatökur 3) - IndyCa
+ r
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADAC 24h Nürburgring (Kappakstur 2:3) - Nürburgring 24H - viapla
+ y
+DTSTART:20260516T224500
+DTEND:20260516T234500
+DTSTAMP:20260516T224500Z
+UID:2026-05-16T22:45:00/ADAC 24h Nürburgring (Kappakstur 2:3)
+DESCRIPTION:ADAC 24h Nürburgring (Kappakstur 2:3) - Nürburgring 24H
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADAC 24h Nürburgring (Kappakstur 3:3) - Nürburgring 24H - viapla
+ y
+DTSTART:20260517T050000
+DTEND:20260517T060000
+DTSTAMP:20260517T050000Z
+UID:2026-05-17T05:00:00/ADAC 24h Nürburgring (Kappakstur 3:3)
+DESCRIPTION:ADAC 24h Nürburgring (Kappakstur 3:3) - Nürburgring 24H
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katalónía Kappaksturinn (Warm Up) - MotoGP - viaplay
+DTSTART:20260517T073500
+DTEND:20260517T083500
+DTSTAMP:20260517T073500Z
+UID:2026-05-17T07:35:00/Katalónía Kappaksturinn (Warm Up)
+DESCRIPTION:Katalónía Kappaksturinn (Warm Up) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katalónía Kappaksturinn (Kappakstur) - Moto3 - viaplay
+DTSTART:20260517T084500
+DTEND:20260517T094500
+DTSTAMP:20260517T084500Z
+UID:2026-05-17T08:45:00/Katalónía Kappaksturinn (Kappakstur)
+DESCRIPTION:Katalónía Kappaksturinn (Kappakstur) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Czech Round (Tissot Superpole Race) - FIM Superbike World Champion
+ ship - viaplay
+DTSTART:20260517T091000
+DTEND:20260517T101000
+DTSTAMP:20260517T091000Z
+UID:2026-05-17T09:10:00/Czech Round (Tissot Superpole Race)
+DESCRIPTION:Czech Round (Tissot Superpole Race) - FIM Superbike World Cham
+ pionship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spa-Francorchamps (Kappakstur 2) - Porsche Carrera Cup Deutschland
+  - viaplay
+DTSTART:20260517T091500
+DTEND:20260517T101500
+DTSTAMP:20260517T091500Z
+UID:2026-05-17T09:15:00/Spa-Francorchamps (Kappakstur 2)
+DESCRIPTION:Spa-Francorchamps (Kappakstur 2) - Porsche Carrera Cup Deutsch
+ land
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katalónía Kappaksturinn (Kappakstur) - Moto2 - viaplay
+DTSTART:20260517T100000
+DTEND:20260517T110000
+DTSTAMP:20260517T100000Z
+UID:2026-05-17T10:00:00/Katalónía Kappaksturinn (Kappakstur)
+DESCRIPTION:Katalónía Kappaksturinn (Kappakstur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Czech Round (Kappakstur 2) - FIM Sportbike World Championship - vi
+ aplay
+DTSTART:20260517T110000
+DTEND:20260517T120000
+DTSTAMP:20260517T110000Z
+UID:2026-05-17T11:00:00/Czech Round (Kappakstur 2)
+DESCRIPTION:Czech Round (Kappakstur 2) - FIM Sportbike World Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katalónía Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20260517T111500
+DTEND:20260517T121500
+DTSTAMP:20260517T111500Z
+UID:2026-05-17T11:15:00/Katalónía Kappaksturinn (Kappakstur)
+DESCRIPTION:Katalónía Kappaksturinn (Kappakstur) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spielberg (Coppa Shell | Kappakstur 2) - Ferrari Challenge Europe 
+ - viaplay
+DTSTART:20260517T113500
+DTEND:20260517T123500
+DTSTAMP:20260517T113500Z
+UID:2026-05-17T11:35:00/Spielberg (Coppa Shell | Kappakstur 2)
+DESCRIPTION:Spielberg (Coppa Shell | Kappakstur 2) - Ferrari Challenge Eur
+ ope
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Czech Round (Kappakstur 2) - FIM Supersport World Championship - v
+ iaplay
+DTSTART:20260517T120000
+DTEND:20260517T130000
+DTSTAMP:20260517T120000Z
+UID:2026-05-17T12:00:00/Czech Round (Kappakstur 2)
+DESCRIPTION:Czech Round (Kappakstur 2) - FIM Supersport World Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spielberg (Trofeo Pirelli | Kappakstur 2) - Ferrari Challenge Euro
+ pe - viaplay
+DTSTART:20260517T124000
+DTEND:20260517T134000
+DTSTAMP:20260517T124000Z
+UID:2026-05-17T12:40:00/Spielberg (Trofeo Pirelli | Kappakstur 2)
+DESCRIPTION:Spielberg (Trofeo Pirelli | Kappakstur 2) - Ferrari Challenge 
+ Europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Czech Round (Kappakstur 2) - FIM Superbike World Championship - vi
+ aplay
+DTSTART:20260517T133000
+DTEND:20260517T143000
+DTSTAMP:20260517T133000Z
+UID:2026-05-17T13:30:00/Czech Round (Kappakstur 2)
+DESCRIPTION:Czech Round (Kappakstur 2) - FIM Superbike World Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:110th Running of the Indianapolis 500 (Æfing 10) - IndyCar - viap
+ lay
+DTSTART:20260517T170000
+DTEND:20260517T180000
+DTSTAMP:20260517T170000Z
+UID:2026-05-17T17:00:00/110th Running of the Indianapolis 500 (Æfing 10)
+DESCRIPTION:110th Running of the Indianapolis 500 (Æfing 10) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:110th Running of the Indianapolis 500 (Tímatökur 4) - IndyCar - 
+ viaplay
+DTSTART:20260517T200000
+DTEND:20260517T210000
+DTSTAMP:20260517T200000Z
+UID:2026-05-17T20:00:00/110th Running of the Indianapolis 500 (Tímatökur
+  4)
+DESCRIPTION:110th Running of the Indianapolis 500 (Tímatökur 4) - IndyCa
  r
 END:VEVENT
 END:VCALENDAR
