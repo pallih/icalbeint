@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Djurgarden - Hammarby - Sænska úrvalsdeildin - synsportviaplay
-DTSTART:20260512T165000
-DTEND:20260512T175000
-DTSTAMP:20260512T165000Z
-UID:2026-05-12T16:50:00/Djurgarden - Hammarby
-DESCRIPTION:Djurgarden - Hammarby - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tindastóll - Grindavík - Bónus deild karla - synsportisland
-DTSTART:20260512T183000
-DTEND:20260512T193000
-DTSTAMP:20260512T183000Z
-UID:2026-05-12T18:30:00/Tindastóll - Grindavík
-DESCRIPTION:Tindastóll - Grindavík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Middlesbrough - EFL Championship - synsportviaplay
-DTSTART:20260512T185500
-DTEND:20260512T195500
-DTSTAMP:20260512T185500Z
-UID:2026-05-12T18:55:00/Southampton - Middlesbrough
-DESCRIPTION:Southampton - Middlesbrough - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld  - Bónus deild karla - synsportisland
-DTSTART:20260512T210000
-DTEND:20260512T220000
-DTSTAMP:20260512T210000Z
-UID:2026-05-12T21:00:00/Bónus Körfuboltakvöld 
-DESCRIPTION:Bónus Körfuboltakvöld  - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flyers - Hurricanes - NHL - synsportviaplay
-DTSTART:20260512T220500
-DTEND:20260512T230500
-DTSTAMP:20260512T220500Z
-UID:2026-05-12T22:05:00/Flyers - Hurricanes
-DESCRIPTION:Flyers - Hurricanes - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. City - Crystal Palace - Premier League - synsport
 DTSTART:20260513T184000
 DTEND:20260513T194000
@@ -56,14 +16,6 @@ DTEND:20260513T195500
 DTSTAMP:20260513T185500Z
 UID:2026-05-13T18:55:00/Stockport - Stevenage
 DESCRIPTION:Stockport - Stevenage - EFL League One
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGA Championship - PGA Championship - synsportviaplay
-DTSTART:20260514T110000
-DTEND:20260514T120000
-DTSTAMP:20260514T110000Z
-UID:2026-05-14T11:00:00/PGA Championship
-DESCRIPTION:PGA Championship - PGA Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PGA Championship - PGA Championship - synsportviaplay
@@ -97,14 +49,6 @@ DTEND:20260514T221000
 DTSTAMP:20260514T211000Z
 UID:2026-05-14T21:10:00/Bónus Körfuboltakvöld kvenna 
 DESCRIPTION:Bónus Körfuboltakvöld kvenna  - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGA Championship - PGA Championship - synsportviaplay
-DTSTART:20260515T114500
-DTEND:20260515T124500
-DTSTAMP:20260515T114500Z
-UID:2026-05-15T11:45:00/PGA Championship
-DESCRIPTION:PGA Championship - PGA Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PGA Championship - PGA Championship - synsportviaplay
@@ -171,20 +115,20 @@ UID:2026-05-16T19:00:00/Kroger Queen City Championship
 DESCRIPTION:Kroger Queen City Championship - LPGA Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Nott. Forest - Premier League - synsport2
-DTSTART:20260517T111000
-DTEND:20260517T121000
-DTSTAMP:20260517T111000Z
-UID:2026-05-17T11:10:00/Man. Utd. - Nott. Forest
-DESCRIPTION:Man. Utd. - Nott. Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Liverpool - Premier League - synsport
 DTSTART:20260517T111000
 DTEND:20260517T121000
 DTSTAMP:20260517T111000Z
 UID:2026-05-17T11:10:00/Aston Villa - Liverpool
 DESCRIPTION:Aston Villa - Liverpool - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Nott. Forest - Premier League - synsport2
+DTSTART:20260517T111000
+DTEND:20260517T121000
+DTSTAMP:20260517T111000Z
+UID:2026-05-17T11:10:00/Man. Utd. - Nott. Forest
+DESCRIPTION:Man. Utd. - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PGA Championship - PGA Championship - synsportviaplay
@@ -195,14 +139,6 @@ UID:2026-05-17T12:00:00/PGA Championship
 DESCRIPTION:PGA Championship - PGA Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Crystal Palace - Premier League - synsport2
-DTSTART:20260517T134000
-DTEND:20260517T144000
-DTSTAMP:20260517T134000Z
-UID:2026-05-17T13:40:00/Brentford - Crystal Palace
-DESCRIPTION:Brentford - Crystal Palace - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20260517T134000
 DTEND:20260517T144000
@@ -211,12 +147,12 @@ UID:2026-05-17T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolves - Fulham - Premier League - synsport5
-DTSTART:20260517T135000
-DTEND:20260517T145000
-DTSTAMP:20260517T135000Z
-UID:2026-05-17T13:50:00/Wolves - Fulham
-DESCRIPTION:Wolves - Fulham - Premier League
+SUMMARY:Brentford - Crystal Palace - Premier League - synsport2
+DTSTART:20260517T134000
+DTEND:20260517T144000
+DTSTAMP:20260517T134000Z
+UID:2026-05-17T13:40:00/Brentford - Crystal Palace
+DESCRIPTION:Brentford - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Sunderland - Premier League - synsport3
@@ -235,12 +171,20 @@ UID:2026-05-17T13:50:00/Leeds - Brighton
 DESCRIPTION:Leeds - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - KA - Besta deild karla - synsportisland
+SUMMARY:Wolves - Fulham - Premier League - synsport5
+DTSTART:20260517T135000
+DTEND:20260517T145000
+DTSTAMP:20260517T135000Z
+UID:2026-05-17T13:50:00/Wolves - Fulham
+DESCRIPTION:Wolves - Fulham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Subway messan - Besta deild karla - synsportisland2
 DTSTART:20260517T155000
 DTEND:20260517T165000
 DTSTAMP:20260517T155000Z
-UID:2026-05-17T15:50:00/FH - KA
-DESCRIPTION:FH - KA - Besta deild karla
+UID:2026-05-17T15:50:00/Subway messan
+DESCRIPTION:Subway messan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Ak. - ÍA - Besta deild karla - synsportisland3
@@ -259,12 +203,12 @@ UID:2026-05-17T15:50:00/ÍBV - Víkingur R.
 DESCRIPTION:ÍBV - Víkingur R. - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Subway messan - Besta deild karla - synsportisland2
+SUMMARY:FH - KA - Besta deild karla - synsportisland
 DTSTART:20260517T155000
 DTEND:20260517T165000
 DTSTAMP:20260517T155000Z
-UID:2026-05-17T15:50:00/Subway messan
-DESCRIPTION:Subway messan - Besta deild karla
+UID:2026-05-17T15:50:00/FH - KA
+DESCRIPTION:FH - KA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - West Ham - Premier League - synsport
@@ -346,5 +290,37 @@ DTEND:20260518T194000
 DTSTAMP:20260518T184000Z
 UID:2026-05-18T18:40:00/Arsenal - Burnley
 DESCRIPTION:Arsenal - Burnley - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - ÍBV - Besta deild kvenna - synsportisland
+DTSTART:20260519T175000
+DTEND:20260519T185000
+DTSTAMP:20260519T175000Z
+UID:2026-05-19T17:50:00/FH - ÍBV
+DESCRIPTION:FH - ÍBV - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Man. City - Premier League - synsport2
+DTSTART:20260519T181000
+DTEND:20260519T191000
+DTSTAMP:20260519T181000Z
+UID:2026-05-19T18:10:00/Bournemouth - Man. City
+DESCRIPTION:Bournemouth - Man. City - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Tottenham - Premier League - synsport
+DTSTART:20260519T185500
+DTEND:20260519T195500
+DTSTAMP:20260519T185500Z
+UID:2026-05-19T18:55:00/Chelsea - Tottenham
+DESCRIPTION:Chelsea - Tottenham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þriðjudagsmessan - Premier League - synsport
+DTSTART:20260519T212000
+DTEND:20260519T222000
+DTSTAMP:20260519T212000Z
+UID:2026-05-19T21:20:00/Þriðjudagsmessan
+DESCRIPTION:Þriðjudagsmessan - Premier League
 END:VEVENT
 END:VCALENDAR

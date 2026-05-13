@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Djurgarden - Hammarby - Sænska úrvalsdeildin - synsportviaplay
-DTSTART:20260512T165000
-DTEND:20260512T175000
-DTSTAMP:20260512T165000Z
-UID:2026-05-12T16:50:00/Djurgarden - Hammarby
-DESCRIPTION:Djurgarden - Hammarby - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Djurgården - Hammarby - OBOS Damallsvenskan - viaplay
-DTSTART:20260512T165000
-DTEND:20260512T175000
-DTSTAMP:20260512T165000Z
-UID:2026-05-12T16:50:00/Djurgården - Hammarby
-DESCRIPTION:Djurgården - Hammarby - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Middlesbrough - Championship - viaplay
-DTSTART:20260512T185500
-DTEND:20260512T195500
-DTSTAMP:20260512T185500Z
-UID:2026-05-12T18:55:00/Southampton - Middlesbrough
-DESCRIPTION:Southampton - Middlesbrough - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Middlesbrough - EFL Championship - synsportviaplay
-DTSTART:20260512T185500
-DTEND:20260512T195500
-DTSTAMP:20260512T185500Z
-UID:2026-05-12T18:55:00/Southampton - Middlesbrough
-DESCRIPTION:Southampton - Middlesbrough - EFL Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þróttur - Breiðablik - 16-liða úrslit - Mjólkurbikar karla 
  í fótbolta - ruv2
 DTSTART:20260513T173000
@@ -76,14 +44,6 @@ UID:2026-05-13T19:00:00/Lazio - Inter Milan
 DESCRIPTION:Lazio - Inter Milan - Serie A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍA - Grindavík - Mjólkurbikarinn - livey
-DTSTART:20260513T191500
-DTEND:20260513T201500
-DTSTAMP:20260513T191500Z
-UID:2026-05-13T19:15:00/ÍA - Grindavík
-DESCRIPTION:ÍA - Grindavík - Mjólkurbikarinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HK - Víkingur - Mjólkurbikarinn - livey
 DTSTART:20260513T191500
 DTEND:20260513T201500
@@ -98,6 +58,14 @@ DTEND:20260513T201500
 DTSTAMP:20260513T191500Z
 UID:2026-05-13T19:15:00/Afturelding - Njarðvík
 DESCRIPTION:Afturelding - Njarðvík - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍA - Grindavík - Mjólkurbikarinn - livey
+DTSTART:20260513T191500
+DTEND:20260513T201500
+DTSTAMP:20260513T191500Z
+UID:2026-05-13T19:15:00/ÍA - Grindavík
+DESCRIPTION:ÍA - Grindavík - Mjólkurbikarinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - KR - 16-liða úrslit - Mjólkurbikar karla í fótbolt
@@ -168,14 +136,6 @@ UID:2026-05-15T16:20:00/Rosengård - Kristianstad
 DESCRIPTION:Rosengård - Kristianstad - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - Víkingur - Mjólkurbikarinn - livey
-DTSTART:20260515T180000
-DTEND:20260515T190000
-DTSTAMP:20260515T180000Z
-UID:2026-05-15T18:00:00/Keflavík - Víkingur
-DESCRIPTION:Keflavík - Víkingur - Mjólkurbikarinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - ÍA - Mjólkurbikarinn - livey
 DTSTART:20260515T180000
 DTEND:20260515T190000
@@ -190,6 +150,14 @@ DTEND:20260515T190000
 DTSTAMP:20260515T180000Z
 UID:2026-05-15T18:00:00/Selfoss - FH
 DESCRIPTION:Selfoss - FH - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keflavík - Víkingur - Mjólkurbikarinn - livey
+DTSTART:20260515T180000
+DTEND:20260515T190000
+DTSTAMP:20260515T180000Z
+UID:2026-05-15T18:00:00/Keflavík - Víkingur
+DESCRIPTION:Keflavík - Víkingur - Mjólkurbikarinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salford - Grimsby - League Two - viaplay
@@ -218,14 +186,6 @@ DESCRIPTION:Valur - Grindavík/Njarðvík - 16-liða úrslit - Mjólkurbik
  ar kvenna í fótbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fylkir - FHL - Mjólkurbikarinn - livey
-DTSTART:20260516T130000
-DTEND:20260516T140000
-DTSTAMP:20260516T130000Z
-UID:2026-05-16T13:00:00/Fylkir - FHL
-DESCRIPTION:Fylkir - FHL - Mjólkurbikarinn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - ÍBV - Mjólkurbikarinn - livey
 DTSTART:20260516T130000
 DTEND:20260516T140000
@@ -234,12 +194,20 @@ UID:2026-05-16T13:00:00/Tindastóll - ÍBV
 DESCRIPTION:Tindastóll - ÍBV - Mjólkurbikarinn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - HSV - Bundesliga - viaplay
+SUMMARY:Fylkir - FHL - Mjólkurbikarinn - livey
+DTSTART:20260516T130000
+DTEND:20260516T140000
+DTSTAMP:20260516T130000Z
+UID:2026-05-16T13:00:00/Fylkir - FHL
+DESCRIPTION:Fylkir - FHL - Mjólkurbikarinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Mainz - Bundesliga - viaplay
 DTSTART:20260516T132000
 DTEND:20260516T142000
 DTSTAMP:20260516T132000Z
-UID:2026-05-16T13:20:00/Leverkusen - HSV
-DESCRIPTION:Leverkusen - HSV - Bundesliga
+UID:2026-05-16T13:20:00/Heidenheim - Mainz
+DESCRIPTION:Heidenheim - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Wolfsburg - Bundesliga - viaplay
@@ -248,6 +216,38 @@ DTEND:20260516T142000
 DTSTAMP:20260516T132000Z
 UID:2026-05-16T13:20:00/St. Pauli - Wolfsburg
 DESCRIPTION:St. Pauli - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Stuttgart - Bundesliga - viaplay
+DTSTART:20260516T132000
+DTEND:20260516T142000
+DTSTAMP:20260516T132000Z
+UID:2026-05-16T13:20:00/Frankfurt - Stuttgart
+DESCRIPTION:Frankfurt - Stuttgart - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Köln - Bundesliga - viaplay
+DTSTART:20260516T132000
+DTEND:20260516T142000
+DTSTAMP:20260516T132000Z
+UID:2026-05-16T13:20:00/Bayern München - Köln
+DESCRIPTION:Bayern München - Köln - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20260516T132000
+DTEND:20260516T142000
+DTSTAMP:20260516T132000Z
+UID:2026-05-16T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - HSV - Bundesliga - viaplay
+DTSTART:20260516T132000
+DTEND:20260516T142000
+DTSTAMP:20260516T132000Z
+UID:2026-05-16T13:20:00/Leverkusen - HSV
+DESCRIPTION:Leverkusen - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Augsburg - Bundesliga - viaplay
@@ -274,44 +274,12 @@ UID:2026-05-16T13:20:00/Werder Bremen - Dortmund
 DESCRIPTION:Werder Bremen - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Stuttgart - Bundesliga - viaplay
-DTSTART:20260516T132000
-DTEND:20260516T142000
-DTSTAMP:20260516T132000Z
-UID:2026-05-16T13:20:00/Frankfurt - Stuttgart
-DESCRIPTION:Frankfurt - Stuttgart - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freiburg - Leipzig - Bundesliga - viaplay
 DTSTART:20260516T132000
 DTEND:20260516T142000
 DTSTAMP:20260516T132000Z
 UID:2026-05-16T13:20:00/Freiburg - Leipzig
 DESCRIPTION:Freiburg - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heidenheim - Mainz - Bundesliga - viaplay
-DTSTART:20260516T132000
-DTEND:20260516T142000
-DTSTAMP:20260516T132000Z
-UID:2026-05-16T13:20:00/Heidenheim - Mainz
-DESCRIPTION:Heidenheim - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20260516T132000
-DTEND:20260516T142000
-DTSTAMP:20260516T132000Z
-UID:2026-05-16T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Köln - Bundesliga - viaplay
-DTSTART:20260516T132000
-DTEND:20260516T142000
-DTSTAMP:20260516T132000Z
-UID:2026-05-16T13:20:00/Bayern München - Köln
-DESCRIPTION:Bayern München - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FA Cup - Upphitun - FA Cup - synsportviaplay
@@ -364,14 +332,6 @@ UID:2026-05-17T10:50:00/Vittsjö - Djurgården
 DESCRIPTION:Vittsjö - Djurgården - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. Utd. - Nott. Forest - Premier League - synsport2
-DTSTART:20260517T111000
-DTEND:20260517T121000
-DTSTAMP:20260517T111000Z
-UID:2026-05-17T11:10:00/Man. Utd. - Nott. Forest
-DESCRIPTION:Man. Utd. - Nott. Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Liverpool - Premier League - synsport
 DTSTART:20260517T111000
 DTEND:20260517T121000
@@ -380,20 +340,12 @@ UID:2026-05-17T11:10:00/Aston Villa - Liverpool
 DESCRIPTION:Aston Villa - Liverpool - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Essen - Freiburg - Frauen-Bundesliga - viaplay
-DTSTART:20260517T115500
-DTEND:20260517T125500
-DTSTAMP:20260517T115500Z
-UID:2026-05-17T11:55:00/Essen - Freiburg
-DESCRIPTION:Essen - Freiburg - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolfsburg - Nürnberg - Frauen-Bundesliga - viaplay
-DTSTART:20260517T115500
-DTEND:20260517T125500
-DTSTAMP:20260517T115500Z
-UID:2026-05-17T11:55:00/Wolfsburg - Nürnberg
-DESCRIPTION:Wolfsburg - Nürnberg - Frauen-Bundesliga
+SUMMARY:Man. Utd. - Nott. Forest - Premier League - synsport2
+DTSTART:20260517T111000
+DTEND:20260517T121000
+DTSTAMP:20260517T111000Z
+UID:2026-05-17T11:10:00/Man. Utd. - Nott. Forest
+DESCRIPTION:Man. Utd. - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Union Berlin - Frauen-Bundesliga - viaplay
@@ -412,6 +364,30 @@ UID:2026-05-17T11:55:00/HSV - Bayern München
 DESCRIPTION:HSV - Bayern München - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Essen - Freiburg - Frauen-Bundesliga - viaplay
+DTSTART:20260517T115500
+DTEND:20260517T125500
+DTSTAMP:20260517T115500Z
+UID:2026-05-17T11:55:00/Essen - Freiburg
+DESCRIPTION:Essen - Freiburg - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolfsburg - Nürnberg - Frauen-Bundesliga - viaplay
+DTSTART:20260517T115500
+DTEND:20260517T125500
+DTSTAMP:20260517T115500Z
+UID:2026-05-17T11:55:00/Wolfsburg - Nürnberg
+DESCRIPTION:Wolfsburg - Nürnberg - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norrköping - Brommapojkarna - OBOS Damallsvenskan - viaplay
+DTSTART:20260517T125000
+DTEND:20260517T135000
+DTSTAMP:20260517T125000Z
+UID:2026-05-17T12:50:00/Norrköping - Brommapojkarna
+DESCRIPTION:Norrköping - Brommapojkarna - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIK - Piteå - OBOS Damallsvenskan - viaplay
 DTSTART:20260517T125000
 DTEND:20260517T135000
@@ -428,12 +404,60 @@ UID:2026-05-17T12:50:00/Eskilstuna United - Uppsala
 DESCRIPTION:Eskilstuna United - Uppsala - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Norrköping - Brommapojkarna - OBOS Damallsvenskan - viaplay
-DTSTART:20260517T125000
-DTEND:20260517T135000
-DTSTAMP:20260517T125000Z
-UID:2026-05-17T12:50:00/Norrköping - Brommapojkarna
-DESCRIPTION:Norrköping - Brommapojkarna - OBOS Damallsvenskan
+SUMMARY:Karlsruher - Bochum - 2. Bundesliga - viaplay
+DTSTART:20260517T132500
+DTEND:20260517T142500
+DTSTAMP:20260517T132500Z
+UID:2026-05-17T13:25:00/Karlsruher - Bochum
+DESCRIPTION:Karlsruher - Bochum - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamo Dresden - Holstein Kiel - 2. Bundesliga - viaplay
+DTSTART:20260517T132500
+DTEND:20260517T142500
+DTSTAMP:20260517T132500Z
+UID:2026-05-17T13:25:00/Dynamo Dresden - Holstein Kiel
+DESCRIPTION:Dynamo Dresden - Holstein Kiel - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arminia Bielefeld - Hertha Berlin - 2. Bundesliga - viaplay
+DTSTART:20260517T132500
+DTEND:20260517T142500
+DTSTAMP:20260517T132500Z
+UID:2026-05-17T13:25:00/Arminia Bielefeld - Hertha Berlin
+DESCRIPTION:Arminia Bielefeld - Hertha Berlin - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schalke - Braunschweig - 2. Bundesliga - viaplay
+DTSTART:20260517T132500
+DTEND:20260517T142500
+DTSTAMP:20260517T132500Z
+UID:2026-05-17T13:25:00/Schalke - Braunschweig
+DESCRIPTION:Schalke - Braunschweig - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greuther Fürth - Düsseldorf - 2. Bundesliga - viaplay
+DTSTART:20260517T132500
+DTEND:20260517T142500
+DTSTAMP:20260517T132500Z
+UID:2026-05-17T13:25:00/Greuther Fürth - Düsseldorf
+DESCRIPTION:Greuther Fürth - Düsseldorf - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga 2 Konferenz - 2. Bundesliga - viaplay
+DTSTART:20260517T132500
+DTEND:20260517T142500
+DTSTAMP:20260517T132500Z
+UID:2026-05-17T13:25:00/Goal Arena - The Bundesliga 2 Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga 2 Konferenz - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Paderborn - 2. Bundesliga - viaplay
+DTSTART:20260517T132500
+DTEND:20260517T142500
+DTSTAMP:20260517T132500Z
+UID:2026-05-17T13:25:00/Darmstadt - Paderborn
+DESCRIPTION:Darmstadt - Paderborn - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover - Nürnberg - 2. Bundesliga - viaplay
@@ -452,68 +476,12 @@ UID:2026-05-17T13:25:00/Magdeburg - Kaiserslautern
 DESCRIPTION:Magdeburg - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Bochum - 2. Bundesliga - viaplay
-DTSTART:20260517T132500
-DTEND:20260517T142500
-DTSTAMP:20260517T132500Z
-UID:2026-05-17T13:25:00/Karlsruher - Bochum
-DESCRIPTION:Karlsruher - Bochum - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Paderborn - 2. Bundesliga - viaplay
-DTSTART:20260517T132500
-DTEND:20260517T142500
-DTSTAMP:20260517T132500Z
-UID:2026-05-17T13:25:00/Darmstadt - Paderborn
-DESCRIPTION:Darmstadt - Paderborn - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Düsseldorf - 2. Bundesliga - viaplay
-DTSTART:20260517T132500
-DTEND:20260517T142500
-DTSTAMP:20260517T132500Z
-UID:2026-05-17T13:25:00/Greuther Fürth - Düsseldorf
-DESCRIPTION:Greuther Fürth - Düsseldorf - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schalke - Braunschweig - 2. Bundesliga - viaplay
-DTSTART:20260517T132500
-DTEND:20260517T142500
-DTSTAMP:20260517T132500Z
-UID:2026-05-17T13:25:00/Schalke - Braunschweig
-DESCRIPTION:Schalke - Braunschweig - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arminia Bielefeld - Hertha Berlin - 2. Bundesliga - viaplay
-DTSTART:20260517T132500
-DTEND:20260517T142500
-DTSTAMP:20260517T132500Z
-UID:2026-05-17T13:25:00/Arminia Bielefeld - Hertha Berlin
-DESCRIPTION:Arminia Bielefeld - Hertha Berlin - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dynamo Dresden - Holstein Kiel - 2. Bundesliga - viaplay
-DTSTART:20260517T132500
-DTEND:20260517T142500
-DTSTAMP:20260517T132500Z
-UID:2026-05-17T13:25:00/Dynamo Dresden - Holstein Kiel
-DESCRIPTION:Dynamo Dresden - Holstein Kiel - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elversberg - Preußen Münster - 2. Bundesliga - viaplay
 DTSTART:20260517T132500
 DTEND:20260517T142500
 DTSTAMP:20260517T132500Z
 UID:2026-05-17T13:25:00/Elversberg - Preußen Münster
 DESCRIPTION:Elversberg - Preußen Münster - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brentford - Crystal Palace - Premier League - synsport2
-DTSTART:20260517T134000
-DTEND:20260517T144000
-DTSTAMP:20260517T134000Z
-UID:2026-05-17T13:40:00/Brentford - Crystal Palace
-DESCRIPTION:Brentford - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -524,12 +492,12 @@ UID:2026-05-17T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolves - Fulham - Premier League - synsport5
-DTSTART:20260517T135000
-DTEND:20260517T145000
-DTSTAMP:20260517T135000Z
-UID:2026-05-17T13:50:00/Wolves - Fulham
-DESCRIPTION:Wolves - Fulham - Premier League
+SUMMARY:Brentford - Crystal Palace - Premier League - synsport2
+DTSTART:20260517T134000
+DTEND:20260517T144000
+DTSTAMP:20260517T134000Z
+UID:2026-05-17T13:40:00/Brentford - Crystal Palace
+DESCRIPTION:Brentford - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Sunderland - Premier League - synsport3
@@ -548,6 +516,14 @@ UID:2026-05-17T13:50:00/Leeds - Brighton
 DESCRIPTION:Leeds - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wolves - Fulham - Premier League - synsport5
+DTSTART:20260517T135000
+DTEND:20260517T145000
+DTSTAMP:20260517T135000Z
+UID:2026-05-17T13:50:00/Wolves - Fulham
+DESCRIPTION:Wolves - Fulham - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ægir - Vestri - Lengjudeildin - livey
 DTSTART:20260517T140000
 DTEND:20260517T150000
@@ -556,12 +532,12 @@ UID:2026-05-17T14:00:00/Ægir - Vestri
 DESCRIPTION:Ægir - Vestri - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - KA - Besta deild karla - synsportisland
+SUMMARY:Subway messan - Besta deild karla - synsportisland2
 DTSTART:20260517T155000
 DTEND:20260517T165000
 DTSTAMP:20260517T155000Z
-UID:2026-05-17T15:50:00/FH - KA
-DESCRIPTION:FH - KA - Besta deild karla
+UID:2026-05-17T15:50:00/Subway messan
+DESCRIPTION:Subway messan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Ak. - ÍA - Besta deild karla - synsportisland3
@@ -580,12 +556,12 @@ UID:2026-05-17T15:50:00/ÍBV - Víkingur R.
 DESCRIPTION:ÍBV - Víkingur R. - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Subway messan - Besta deild karla - synsportisland2
+SUMMARY:FH - KA - Besta deild karla - synsportisland
 DTSTART:20260517T155000
 DTEND:20260517T165000
 DTSTAMP:20260517T155000Z
-UID:2026-05-17T15:50:00/Subway messan
-DESCRIPTION:Subway messan - Besta deild karla
+UID:2026-05-17T15:50:00/FH - KA
+DESCRIPTION:FH - KA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík - Völsungur - Lengjudeildin - livey
@@ -602,6 +578,30 @@ DTEND:20260517T171000
 DTSTAMP:20260517T161000Z
 UID:2026-05-17T16:10:00/Newcastle - West Ham
 DESCRIPTION:Newcastle - West Ham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sevilla - Real Madrid - LaLiga - livey
+DTSTART:20260517T170000
+DTEND:20260517T180000
+DTSTAMP:20260517T170000Z
+UID:2026-05-17T17:00:00/Sevilla - Real Madrid
+DESCRIPTION:Sevilla - Real Madrid - LaLiga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona - Real Betis - LaLiga - livey
+DTSTART:20260517T170000
+DTEND:20260517T180000
+DTSTAMP:20260517T170000Z
+UID:2026-05-17T17:00:00/Barcelona - Real Betis
+DESCRIPTION:Barcelona - Real Betis - LaLiga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Sociedad - Valencia - LaLiga - livey
+DTSTART:20260517T170000
+DTEND:20260517T180000
+DTSTAMP:20260517T170000Z
+UID:2026-05-17T17:00:00/Real Sociedad - Valencia
+DESCRIPTION:Real Sociedad - Valencia - LaLiga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Stjarnan - Besta deild karla - synsportisland4
@@ -660,12 +660,12 @@ UID:2026-05-18T18:40:00/Arsenal - Burnley
 DESCRIPTION:Arsenal - Burnley - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þróttur R. - Leiknir R. - Lengjudeildin - livey
+SUMMARY:Grótta - Afturelding - Lengjudeildin - livey
 DTSTART:20260518T191500
 DTEND:20260518T201500
 DTSTAMP:20260518T191500Z
-UID:2026-05-18T19:15:00/Þróttur R. - Leiknir R.
-DESCRIPTION:Þróttur R. - Leiknir R. - Lengjudeildin
+UID:2026-05-18T19:15:00/Grótta - Afturelding
+DESCRIPTION:Grótta - Afturelding - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - Njarðvík - Lengjudeildin - livey
@@ -676,12 +676,12 @@ UID:2026-05-18T19:15:00/HK - Njarðvík
 DESCRIPTION:HK - Njarðvík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grótta - Afturelding - Lengjudeildin - livey
+SUMMARY:Þróttur R. - Leiknir R. - Lengjudeildin - livey
 DTSTART:20260518T191500
 DTEND:20260518T201500
 DTSTAMP:20260518T191500Z
-UID:2026-05-18T19:15:00/Grótta - Afturelding
-DESCRIPTION:Grótta - Afturelding - Lengjudeildin
+UID:2026-05-18T19:15:00/Þróttur R. - Leiknir R.
+DESCRIPTION:Þróttur R. - Leiknir R. - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fylkir - ÍR - Lengjudeildin - livey
@@ -690,5 +690,45 @@ DTEND:20260518T201500
 DTSTAMP:20260518T191500Z
 UID:2026-05-18T19:15:00/Fylkir - ÍR
 DESCRIPTION:Fylkir - ÍR - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FHL - Grótta - Lengjudeildin - livey
+DTSTART:20260519T163000
+DTEND:20260519T173000
+DTSTAMP:20260519T163000Z
+UID:2026-05-19T16:30:00/FHL - Grótta
+DESCRIPTION:FHL - Grótta - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - ÍBV - Besta deild kvenna - synsportisland
+DTSTART:20260519T175000
+DTEND:20260519T185000
+DTSTAMP:20260519T175000Z
+UID:2026-05-19T17:50:00/FH - ÍBV
+DESCRIPTION:FH - ÍBV - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Man. City - Premier League - synsport2
+DTSTART:20260519T181000
+DTEND:20260519T191000
+DTSTAMP:20260519T181000Z
+UID:2026-05-19T18:10:00/Bournemouth - Man. City
+DESCRIPTION:Bournemouth - Man. City - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Tottenham - Premier League - synsport
+DTSTART:20260519T185500
+DTEND:20260519T195500
+DTSTAMP:20260519T185500Z
+UID:2026-05-19T18:55:00/Chelsea - Tottenham
+DESCRIPTION:Chelsea - Tottenham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þriðjudagsmessan - Premier League - synsport
+DTSTART:20260519T212000
+DTEND:20260519T222000
+DTSTAMP:20260519T212000Z
+UID:2026-05-19T21:20:00/Þriðjudagsmessan
+DESCRIPTION:Þriðjudagsmessan - Premier League
 END:VEVENT
 END:VCALENDAR
