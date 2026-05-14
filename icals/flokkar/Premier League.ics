@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Man. City - Crystal Palace - Premier League - synsport
-DTSTART:20260513T184000
-DTEND:20260513T194000
-DTSTAMP:20260513T184000Z
-UID:2026-05-13T18:40:00/Man. City - Crystal Palace
-DESCRIPTION:Man. City - Crystal Palace - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aston Villa - Liverpool - Premier League - synsport
 DTSTART:20260517T111000
 DTEND:20260517T121000
@@ -26,14 +18,6 @@ UID:2026-05-17T11:10:00/Man. Utd. - Nott. Forest
 DESCRIPTION:Man. Utd. - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
-DTSTART:20260517T134000
-DTEND:20260517T144000
-DTSTAMP:20260517T134000Z
-UID:2026-05-17T13:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brentford - Crystal Palace - Premier League - synsport2
 DTSTART:20260517T134000
 DTEND:20260517T144000
@@ -42,12 +26,12 @@ UID:2026-05-17T13:40:00/Brentford - Crystal Palace
 DESCRIPTION:Brentford - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Sunderland - Premier League - synsport3
-DTSTART:20260517T135000
-DTEND:20260517T145000
-DTSTAMP:20260517T135000Z
-UID:2026-05-17T13:50:00/Everton - Sunderland
-DESCRIPTION:Everton - Sunderland - Premier League
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20260517T134000
+DTEND:20260517T144000
+DTSTAMP:20260517T134000Z
+UID:2026-05-17T13:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leeds - Brighton - Premier League - synsport4
@@ -56,6 +40,14 @@ DTEND:20260517T145000
 DTSTAMP:20260517T135000Z
 UID:2026-05-17T13:50:00/Leeds - Brighton
 DESCRIPTION:Leeds - Brighton - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Sunderland - Premier League - synsport3
+DTSTART:20260517T135000
+DTEND:20260517T145000
+DTSTAMP:20260517T135000Z
+UID:2026-05-17T13:50:00/Everton - Sunderland
+DESCRIPTION:Everton - Sunderland - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolves - Fulham - Premier League - synsport5
