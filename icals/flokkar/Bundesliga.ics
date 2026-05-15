@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Frankfurt - Stuttgart - Bundesliga - viaplay
+SUMMARY:Union Berlin - Augsburg - Bundesliga - viaplay
 DTSTART:20260516T132000
 DTEND:20260516T142000
 DTSTAMP:20260516T132000Z
-UID:2026-05-16T13:20:00/Frankfurt - Stuttgart
-DESCRIPTION:Frankfurt - Stuttgart - Bundesliga
+UID:2026-05-16T13:20:00/Union Berlin - Augsburg
+DESCRIPTION:Union Berlin - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Wolfsburg - Bundesliga - viaplay
@@ -16,6 +16,14 @@ DTEND:20260516T142000
 DTSTAMP:20260516T132000Z
 UID:2026-05-16T13:20:00/St. Pauli - Wolfsburg
 DESCRIPTION:St. Pauli - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Stuttgart - Bundesliga - viaplay
+DTSTART:20260516T132000
+DTEND:20260516T142000
+DTSTAMP:20260516T132000Z
+UID:2026-05-16T13:20:00/Frankfurt - Stuttgart
+DESCRIPTION:Frankfurt - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Köln - Bundesliga - viaplay
@@ -50,14 +58,6 @@ UID:2026-05-16T13:20:00/Leverkusen - HSV
 DESCRIPTION:Leverkusen - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Augsburg - Bundesliga - viaplay
-DTSTART:20260516T132000
-DTEND:20260516T142000
-DTSTAMP:20260516T132000Z
-UID:2026-05-16T13:20:00/Union Berlin - Augsburg
-DESCRIPTION:Union Berlin - Augsburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Hoffenheim - Bundesliga - viaplay
 DTSTART:20260516T132000
 DTEND:20260516T142000
@@ -80,5 +80,13 @@ DTEND:20260516T142000
 DTSTAMP:20260516T132000Z
 UID:2026-05-16T13:20:00/Freiburg - Leipzig
 DESCRIPTION:Freiburg - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Füchse Berlin - Hannover-Burgdorf - Bundesliga - viaplay
+DTSTART:20260521T165500
+DTEND:20260521T175500
+DTSTAMP:20260521T165500Z
+UID:2026-05-21T16:55:00/Füchse Berlin - Hannover-Burgdorf
+DESCRIPTION:Füchse Berlin - Hannover-Burgdorf - Bundesliga
 END:VEVENT
 END:VCALENDAR

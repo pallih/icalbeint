@@ -2,40 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:ADAC 24h Nürburgring (Tímatökur 1) - Nürburgring 24H - viaplay
-DTSTART:20260514T111000
-DTEND:20260514T121000
-DTSTAMP:20260514T111000Z
-UID:2026-05-14T11:10:00/ADAC 24h Nürburgring (Tímatökur 1)
-DESCRIPTION:ADAC 24h Nürburgring (Tímatökur 1) - Nürburgring 24H
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Æfing 6) - IndyCar - viapl
- ay
-DTSTART:20260514T160000
-DTEND:20260514T170000
-DTSTAMP:20260514T160000Z
-UID:2026-05-14T16:00:00/110th Running of the Indianapolis 500 (Æfing 6)
-DESCRIPTION:110th Running of the Indianapolis 500 (Æfing 6) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ADAC 24h Nürburgring (Tímatökur 2) - Nürburgring 24H - viaplay
-DTSTART:20260514T175500
-DTEND:20260514T185500
-DTSTAMP:20260514T175500Z
-UID:2026-05-14T17:55:00/ADAC 24h Nürburgring (Tímatökur 2)
-DESCRIPTION:ADAC 24h Nürburgring (Tímatökur 2) - Nürburgring 24H
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Æfing 7) - IndyCar - viapl
- ay
-DTSTART:20260514T200000
-DTEND:20260514T210000
-DTSTAMP:20260514T200000Z
-UID:2026-05-14T20:00:00/110th Running of the Indianapolis 500 (Æfing 7)
-DESCRIPTION:110th Running of the Indianapolis 500 (Æfing 7) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Frjáls æfing 1) - Moto3 - viaplay
 DTSTART:20260515T065500
 DTEND:20260515T075500
@@ -186,20 +152,20 @@ DESCRIPTION:Czech Round (Frjáls æfing 3) - FIM Superbike World Champions
  hip
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ADAC 24h Nürburgring (Warm-up) - Nürburgring 24H - viaplay
-DTSTART:20260516T080000
-DTEND:20260516T090000
-DTSTAMP:20260516T080000Z
-UID:2026-05-16T08:00:00/ADAC 24h Nürburgring (Warm-up)
-DESCRIPTION:ADAC 24h Nürburgring (Warm-up) - Nürburgring 24H
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Frjáls æfing 2) - MotoGP - viaplay
 DTSTART:20260516T080000
 DTEND:20260516T090000
 DTSTAMP:20260516T080000Z
 UID:2026-05-16T08:00:00/Katalónía Kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Katalónía Kappaksturinn (Frjáls æfing 2) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADAC 24h Nürburgring (Warm-up) - Nürburgring 24H - viaplay
+DTSTART:20260516T080000
+DTEND:20260516T090000
+DTSTAMP:20260516T080000Z
+UID:2026-05-16T08:00:00/ADAC 24h Nürburgring (Warm-up)
+DESCRIPTION:ADAC 24h Nürburgring (Warm-up) - Nürburgring 24H
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Tímatökur) - MotoGP - viaplay
@@ -282,13 +248,14 @@ UID:2026-05-16T12:30:00/Katalónía Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Katalónía Kappaksturinn (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ADAC 24h Nürburgring (Kappakstur 1:3) - Nürburgring 24H - viapla
- y
+SUMMARY:ADAC 24h Nürburgring (Kappakstur | Hluti 1/3) - Nürburgring 24H 
+ - viaplay
 DTSTART:20260516T123000
 DTEND:20260516T133000
 DTSTAMP:20260516T123000Z
-UID:2026-05-16T12:30:00/ADAC 24h Nürburgring (Kappakstur 1:3)
-DESCRIPTION:ADAC 24h Nürburgring (Kappakstur 1:3) - Nürburgring 24H
+UID:2026-05-16T12:30:00/ADAC 24h Nürburgring (Kappakstur | Hluti 1/3)
+DESCRIPTION:ADAC 24h Nürburgring (Kappakstur | Hluti 1/3) - Nürburgring 
+ 24H
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:110th Running of the Indianapolis 500 (Æfing 9) - IndyCar - viapl
@@ -343,10 +310,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circuit of the Americas (Trofeo Pirelli | Kappakstur 1) - Ferrari 
  Challenge North America - viaplay
-DTSTART:20260516T180500
-DTEND:20260516T190500
-DTSTAMP:20260516T180500Z
-UID:2026-05-16T18:05:00/Circuit of the Americas (Trofeo Pirelli | Kappakst
+DTSTART:20260516T181000
+DTEND:20260516T191000
+DTSTAMP:20260516T181000Z
+UID:2026-05-16T18:10:00/Circuit of the Americas (Trofeo Pirelli | Kappakst
  ur 1)
 DESCRIPTION:Circuit of the Americas (Trofeo Pirelli | Kappakstur 1) - Ferr
  ari Challenge North America
@@ -374,22 +341,24 @@ DESCRIPTION:110th Running of the Indianapolis 500 (Tímatökur 3) - IndyCa
  r
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ADAC 24h Nürburgring (Kappakstur 2:3) - Nürburgring 24H - viapla
- y
+SUMMARY:ADAC 24h Nürburgring (Kappakstur | Hluti 2/3) - Nürburgring 24H 
+ - viaplay
 DTSTART:20260516T224500
 DTEND:20260516T234500
 DTSTAMP:20260516T224500Z
-UID:2026-05-16T22:45:00/ADAC 24h Nürburgring (Kappakstur 2:3)
-DESCRIPTION:ADAC 24h Nürburgring (Kappakstur 2:3) - Nürburgring 24H
+UID:2026-05-16T22:45:00/ADAC 24h Nürburgring (Kappakstur | Hluti 2/3)
+DESCRIPTION:ADAC 24h Nürburgring (Kappakstur | Hluti 2/3) - Nürburgring 
+ 24H
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ADAC 24h Nürburgring (Kappakstur 3:3) - Nürburgring 24H - viapla
- y
+SUMMARY:ADAC 24h Nürburgring (Kappakstur | Hluti 3/3) - Nürburgring 24H 
+ - viaplay
 DTSTART:20260517T050000
 DTEND:20260517T060000
 DTSTAMP:20260517T050000Z
-UID:2026-05-17T05:00:00/ADAC 24h Nürburgring (Kappakstur 3:3)
-DESCRIPTION:ADAC 24h Nürburgring (Kappakstur 3:3) - Nürburgring 24H
+UID:2026-05-17T05:00:00/ADAC 24h Nürburgring (Kappakstur | Hluti 3/3)
+DESCRIPTION:ADAC 24h Nürburgring (Kappakstur | Hluti 3/3) - Nürburgring 
+ 24H
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Warm Up) - MotoGP - viaplay
