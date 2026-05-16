@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Augsburg - Bundesliga - viaplay
+SUMMARY:Werder Bremen - Dortmund - Bundesliga - viaplay
 DTSTART:20260516T132000
 DTEND:20260516T142000
 DTSTAMP:20260516T132000Z
-UID:2026-05-16T13:20:00/Union Berlin - Augsburg
-DESCRIPTION:Union Berlin - Augsburg - Bundesliga
+UID:2026-05-16T13:20:00/Werder Bremen - Dortmund
+DESCRIPTION:Werder Bremen - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Pauli - Wolfsburg - Bundesliga - viaplay
@@ -58,20 +58,20 @@ UID:2026-05-16T13:20:00/Leverkusen - HSV
 DESCRIPTION:Leverkusen - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Union Berlin - Augsburg - Bundesliga - viaplay
+DTSTART:20260516T132000
+DTEND:20260516T142000
+DTSTAMP:20260516T132000Z
+UID:2026-05-16T13:20:00/Union Berlin - Augsburg
+DESCRIPTION:Union Berlin - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Hoffenheim - Bundesliga - viaplay
 DTSTART:20260516T132000
 DTEND:20260516T142000
 DTSTAMP:20260516T132000Z
 UID:2026-05-16T13:20:00/Mönchengladbach - Hoffenheim
 DESCRIPTION:Mönchengladbach - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werder Bremen - Dortmund - Bundesliga - viaplay
-DTSTART:20260516T132000
-DTEND:20260516T142000
-DTSTAMP:20260516T132000Z
-UID:2026-05-16T13:20:00/Werder Bremen - Dortmund
-DESCRIPTION:Werder Bremen - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freiburg - Leipzig - Bundesliga - viaplay
@@ -88,5 +88,13 @@ DTEND:20260521T175500
 DTSTAMP:20260521T165500Z
 UID:2026-05-21T16:55:00/Füchse Berlin - Hannover-Burgdorf
 DESCRIPTION:Füchse Berlin - Hannover-Burgdorf - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eisenach - Lemgo Lippe - Bundesliga - viaplay
+DTSTART:20260522T165500
+DTEND:20260522T175500
+DTSTAMP:20260522T165500Z
+UID:2026-05-22T16:55:00/Eisenach - Lemgo Lippe
+DESCRIPTION:Eisenach - Lemgo Lippe - Bundesliga
 END:VEVENT
 END:VCALENDAR
