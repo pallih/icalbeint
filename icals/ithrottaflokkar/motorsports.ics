@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Æfing 11) - IndyCar - viap
- lay
-DTSTART:20260518T170000
-DTEND:20260518T180000
-DTSTAMP:20260518T170000Z
-UID:2026-05-18T17:00:00/110th Running of the Indianapolis 500 (Æfing 11)
-DESCRIPTION:110th Running of the Indianapolis 500 (Æfing 11) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Montreal (Æfing) - F1 Academy - viaplay
 DTSTART:20260522T125500
 DTEND:20260522T135500
@@ -28,14 +19,6 @@ UID:2026-05-22T15:00:00/110th Running of the Indianapolis 500 (Æfing 12)
 DESCRIPTION:110th Running of the Indianapolis 500 (Æfing 12) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kanada Kappaksturinn (Æfing 1) - Formula 1 - viaplay
-DTSTART:20260522T162500
-DTEND:20260522T172500
-DTSTAMP:20260522T162500Z
-UID:2026-05-22T16:25:00/Kanada Kappaksturinn (Æfing 1)
-DESCRIPTION:Kanada Kappaksturinn (Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Kanada - Æfing 1 - Formúla 1 - synsportviaplay
 DTSTART:20260522T162500
 DTEND:20260522T172500
@@ -44,12 +27,55 @@ UID:2026-05-22T16:25:00/F1: Kanada - Æfing 1
 DESCRIPTION:F1: Kanada - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Montréal (Tímatökur) - Formula 2 - viaplay
+SUMMARY:Kanada Kappaksturinn (Æfing 1) - Formula 1 - viaplay
+DTSTART:20260522T162500
+DTEND:20260522T172500
+DTSTAMP:20260522T162500Z
+UID:2026-05-22T16:25:00/Kanada Kappaksturinn (Æfing 1)
+DESCRIPTION:Kanada Kappaksturinn (Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kanada Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260522T163000
+DTEND:20260522T173000
+DTSTAMP:20260522T163000Z
+UID:2026-05-22T16:30:00/Pitlane (Kanada Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Kanada Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Kanada Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260522T163000
+DTEND:20260522T173000
+DTSTAMP:20260522T163000Z
+UID:2026-05-22T16:30:00/Onboard (Kanada Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Kanada Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kanada Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260522T163000
+DTEND:20260522T173000
+DTSTAMP:20260522T163000Z
+UID:2026-05-22T16:30:00/Timing (Kanada Kappaksturinn | Æfing 1)
+DESCRIPTION:Timing (Kanada Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kanada Kappaksturinn | Æfing 1) - Formula 1 - 
+ viaplay
+DTSTART:20260522T163000
+DTEND:20260522T173000
+DTSTAMP:20260522T163000Z
+UID:2026-05-22T16:30:00/Track Positioning (Kanada Kappaksturinn | Æfing 1
+ )
+DESCRIPTION:Track Positioning (Kanada Kappaksturinn | Æfing 1) - Formula 
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montreal (Tímatökur) - Formula 2 - viaplay
 DTSTART:20260522T175500
 DTEND:20260522T185500
 DTSTAMP:20260522T175500Z
-UID:2026-05-22T17:55:00/Montréal (Tímatökur)
-DESCRIPTION:Montréal (Tímatökur) - Formula 2
+UID:2026-05-22T17:55:00/Montreal (Tímatökur)
+DESCRIPTION:Montreal (Tímatökur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:110th Running of the Indianapolis 500 (Pit Stop Contest) - IndyCar
@@ -63,6 +89,14 @@ DESCRIPTION:110th Running of the Indianapolis 500 (Pit Stop Contest) - Ind
  yCar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:F1: Kanada - Sprint tímataka - Formúla 1 - synsportviaplay
+DTSTART:20260522T202500
+DTEND:20260522T212500
+DTSTAMP:20260522T202500Z
+UID:2026-05-22T20:25:00/F1: Kanada - Sprint tímataka
+DESCRIPTION:F1: Kanada - Sprint tímataka - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kanada Kappaksturinn (Sprint Shootout) - Formula 1 - viaplay
 DTSTART:20260522T202500
 DTEND:20260522T212500
@@ -71,12 +105,42 @@ UID:2026-05-22T20:25:00/Kanada Kappaksturinn (Sprint Shootout)
 DESCRIPTION:Kanada Kappaksturinn (Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Kanada - Sprint tímataka - Formúla 1 - synsportviaplay
-DTSTART:20260522T202500
-DTEND:20260522T212500
-DTSTAMP:20260522T202500Z
-UID:2026-05-22T20:25:00/F1: Kanada - Sprint tímataka
-DESCRIPTION:F1: Kanada - Sprint tímataka - Formúla 1
+SUMMARY:Onboard (Kanada Kappaksturinn | Sprint Shootout) - Formula 1 - via
+ play
+DTSTART:20260522T203000
+DTEND:20260522T213000
+DTSTAMP:20260522T203000Z
+UID:2026-05-22T20:30:00/Onboard (Kanada Kappaksturinn | Sprint Shootout)
+DESCRIPTION:Onboard (Kanada Kappaksturinn | Sprint Shootout) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kanada Kappaksturinn | Sprint Shootout) - Formula 1 - viap
+ lay
+DTSTART:20260522T203000
+DTEND:20260522T213000
+DTSTAMP:20260522T203000Z
+UID:2026-05-22T20:30:00/Timing (Kanada Kappaksturinn | Sprint Shootout)
+DESCRIPTION:Timing (Kanada Kappaksturinn | Sprint Shootout) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kanada Kappaksturinn | Sprint Shootout) - Formula 1 - via
+ play
+DTSTART:20260522T203000
+DTEND:20260522T213000
+DTSTAMP:20260522T203000Z
+UID:2026-05-22T20:30:00/Pitlane (Kanada Kappaksturinn | Sprint Shootout)
+DESCRIPTION:Pitlane (Kanada Kappaksturinn | Sprint Shootout) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kanada Kappaksturinn | Sprint Shootout) - Formu
+ la 1 - viaplay
+DTSTART:20260522T203000
+DTEND:20260522T213000
+DTSTAMP:20260522T203000Z
+UID:2026-05-22T20:30:00/Track Positioning (Kanada Kappaksturinn | Sprint S
+ hootout)
+DESCRIPTION:Track Positioning (Kanada Kappaksturinn | Sprint Shootout) - F
+ ormula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Montreal (Tímatökur) - F1 Academy - viaplay
@@ -154,14 +218,6 @@ DESCRIPTION:Zandvoort (Kappakstur 1) - Formula Regional European Champions
  hip
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Kanada - Sprint keppni - Formúla 1 - synsportviaplay
-DTSTART:20260523T155500
-DTEND:20260523T165500
-DTSTAMP:20260523T155500Z
-UID:2026-05-23T15:55:00/F1: Kanada - Sprint keppni
-DESCRIPTION:F1: Kanada - Sprint keppni - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kanada Kappaksturinn (Sprettkeppni) - Formula 1 - viaplay
 DTSTART:20260523T155500
 DTEND:20260523T165500
@@ -179,12 +235,57 @@ UID:2026-05-23T15:55:00/Vallelunga (Kappakstur 2)
 DESCRIPTION:Vallelunga (Kappakstur 2) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Montréal (Sprettkeppni) - Formula 2 - viaplay
+SUMMARY:F1: Kanada - Sprint keppni - Formúla 1 - synsportviaplay
+DTSTART:20260523T155500
+DTEND:20260523T165500
+DTSTAMP:20260523T155500Z
+UID:2026-05-23T15:55:00/F1: Kanada - Sprint keppni
+DESCRIPTION:F1: Kanada - Sprint keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kanada Kappaksturinn | Sprettkeppni) - Formula 1 - viapla
+ y
+DTSTART:20260523T160000
+DTEND:20260523T170000
+DTSTAMP:20260523T160000Z
+UID:2026-05-23T16:00:00/Pitlane (Kanada Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Pitlane (Kanada Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kanada Kappaksturinn | Sprettkeppni) - Formula 
+ 1 - viaplay
+DTSTART:20260523T160000
+DTEND:20260523T170000
+DTSTAMP:20260523T160000Z
+UID:2026-05-23T16:00:00/Track Positioning (Kanada Kappaksturinn | Sprettke
+ ppni)
+DESCRIPTION:Track Positioning (Kanada Kappaksturinn | Sprettkeppni) - Form
+ ula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Kanada Kappaksturinn | Sprettkeppni) - Formula 1 - viapla
+ y
+DTSTART:20260523T160000
+DTEND:20260523T170000
+DTSTAMP:20260523T160000Z
+UID:2026-05-23T16:00:00/Onboard (Kanada Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Onboard (Kanada Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kanada Kappaksturinn | Sprettkeppni) - Formula 1 - viaplay
+DTSTART:20260523T160000
+DTEND:20260523T170000
+DTSTAMP:20260523T160000Z
+UID:2026-05-23T16:00:00/Timing (Kanada Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Timing (Kanada Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montreal (Sprettkeppni) - Formula 2 - viaplay
 DTSTART:20260523T180500
 DTEND:20260523T190500
 DTSTAMP:20260523T180500Z
-UID:2026-05-23T18:05:00/Montréal (Sprettkeppni)
-DESCRIPTION:Montréal (Sprettkeppni) - Formula 2
+UID:2026-05-23T18:05:00/Montreal (Sprettkeppni)
+DESCRIPTION:Montreal (Sprettkeppni) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kanada Kappaksturinn (Tímatökur) - Formula 1 - viaplay
@@ -201,6 +302,41 @@ DTEND:20260523T205500
 DTSTAMP:20260523T195500Z
 UID:2026-05-23T19:55:00/F1: Kanada - Tímataka
 DESCRIPTION:F1: Kanada - Tímataka - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kanada Kappaksturinn | Tímatökur) - Formula 1
+  - viaplay
+DTSTART:20260523T200000
+DTEND:20260523T210000
+DTSTAMP:20260523T200000Z
+UID:2026-05-23T20:00:00/Track Positioning (Kanada Kappaksturinn | Tímatö
+ kur)
+DESCRIPTION:Track Positioning (Kanada Kappaksturinn | Tímatökur) - Formu
+ la 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kanada Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20260523T200000
+DTEND:20260523T210000
+DTSTAMP:20260523T200000Z
+UID:2026-05-23T20:00:00/Pitlane (Kanada Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Kanada Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kanada Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20260523T200000
+DTEND:20260523T210000
+DTSTAMP:20260523T200000Z
+UID:2026-05-23T20:00:00/Timing (Kanada Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Kanada Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Kanada Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20260523T200000
+DTEND:20260523T210000
+DTSTAMP:20260523T200000Z
+UID:2026-05-23T20:00:00/Onboard (Kanada Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Kanada Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Montreal - F1 Academy - viaplay
@@ -297,12 +433,12 @@ DESCRIPTION:Zandvoort (Kappakstur 2) - Formula Regional European Champions
  hip
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Montréal (Kappakstur) - Formula 2 - viaplay
+SUMMARY:Montreal (Kappakstur) - Formula 2 - viaplay
 DTSTART:20260524T160000
 DTEND:20260524T170000
 DTSTAMP:20260524T160000Z
-UID:2026-05-24T16:00:00/Montréal (Kappakstur)
-DESCRIPTION:Montréal (Kappakstur) - Formula 2
+UID:2026-05-24T16:00:00/Montreal (Kappakstur)
+DESCRIPTION:Montreal (Kappakstur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:110th Running of the Indianapolis 500 (Kappakstur) - IndyCar - via
@@ -314,12 +450,13 @@ UID:2026-05-24T16:30:00/110th Running of the Indianapolis 500 (Kappakstur)
 DESCRIPTION:110th Running of the Indianapolis 500 (Kappakstur) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kanada Kappaksturinn (Kappakstur) - Formula 1 - viaplay
+SUMMARY:110th Running of the Indianapolis 500 (Post Race) - IndyCar - viap
+ lay
 DTSTART:20260524T193000
 DTEND:20260524T203000
 DTSTAMP:20260524T193000Z
-UID:2026-05-24T19:30:00/Kanada Kappaksturinn (Kappakstur)
-DESCRIPTION:Kanada Kappaksturinn (Kappakstur) - Formula 1
+UID:2026-05-24T19:30:00/110th Running of the Indianapolis 500 (Post Race)
+DESCRIPTION:110th Running of the Indianapolis 500 (Post Race) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Kanada - Keppni - Formúla 1 - synsportviaplay
@@ -328,5 +465,48 @@ DTEND:20260524T203000
 DTSTAMP:20260524T193000Z
 UID:2026-05-24T19:30:00/F1: Kanada - Keppni
 DESCRIPTION:F1: Kanada - Keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kanada Kappaksturinn (Kappakstur) - Formula 1 - viaplay
+DTSTART:20260524T193000
+DTEND:20260524T203000
+DTSTAMP:20260524T193000Z
+UID:2026-05-24T19:30:00/Kanada Kappaksturinn (Kappakstur)
+DESCRIPTION:Kanada Kappaksturinn (Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Kanada Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20260524T200000
+DTEND:20260524T210000
+DTSTAMP:20260524T200000Z
+UID:2026-05-24T20:00:00/Pitlane (Kanada Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Kanada Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Kanada Kappaksturinn | Kappakstur) - Formula 1 
+ - viaplay
+DTSTART:20260524T200000
+DTEND:20260524T210000
+DTSTAMP:20260524T200000Z
+UID:2026-05-24T20:00:00/Track Positioning (Kanada Kappaksturinn | Kappakst
+ ur)
+DESCRIPTION:Track Positioning (Kanada Kappaksturinn | Kappakstur) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Kanada Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20260524T200000
+DTEND:20260524T210000
+DTSTAMP:20260524T200000Z
+UID:2026-05-24T20:00:00/Onboard (Kanada Kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Kanada Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Kanada Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20260524T200000
+DTEND:20260524T210000
+DTSTAMP:20260524T200000Z
+UID:2026-05-24T20:00:00/Timing (Kanada Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Kanada Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 END:VCALENDAR

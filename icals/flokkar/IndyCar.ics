@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Æfing 11) - IndyCar - viap
- lay
-DTSTART:20260518T170000
-DTEND:20260518T180000
-DTSTAMP:20260518T170000Z
-UID:2026-05-18T17:00:00/110th Running of the Indianapolis 500 (Æfing 11)
-DESCRIPTION:110th Running of the Indianapolis 500 (Æfing 11) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:110th Running of the Indianapolis 500 (Æfing 12) - IndyCar - viap
  lay
 DTSTART:20260522T150000
@@ -47,5 +38,14 @@ DTEND:20260524T173000
 DTSTAMP:20260524T163000Z
 UID:2026-05-24T16:30:00/110th Running of the Indianapolis 500 (Kappakstur)
 DESCRIPTION:110th Running of the Indianapolis 500 (Kappakstur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:110th Running of the Indianapolis 500 (Post Race) - IndyCar - viap
+ lay
+DTSTART:20260524T193000
+DTEND:20260524T203000
+DTSTAMP:20260524T193000Z
+UID:2026-05-24T19:30:00/110th Running of the Indianapolis 500 (Post Race)
+DESCRIPTION:110th Running of the Indianapolis 500 (Post Race) - IndyCar
 END:VEVENT
 END:VCALENDAR

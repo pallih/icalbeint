@@ -2,60 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Arsenal - Burnley - Premier League - synsport
-DTSTART:20260518T184000
-DTEND:20260518T194000
-DTSTAMP:20260518T184000Z
-UID:2026-05-18T18:40:00/Arsenal - Burnley
-DESCRIPTION:Arsenal - Burnley - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grótta - Afturelding - Lengjudeildin - livey
-DTSTART:20260518T191500
-DTEND:20260518T201500
-DTSTAMP:20260518T191500Z
-UID:2026-05-18T19:15:00/Grótta - Afturelding
-DESCRIPTION:Grótta - Afturelding - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HK - Njarðvík - Lengjudeildin - livey
-DTSTART:20260518T191500
-DTEND:20260518T201500
-DTSTAMP:20260518T191500Z
-UID:2026-05-18T19:15:00/HK - Njarðvík
-DESCRIPTION:HK - Njarðvík - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þróttur R. - Leiknir R. - Lengjudeildin - livey
-DTSTART:20260518T191500
-DTEND:20260518T201500
-DTSTAMP:20260518T191500Z
-UID:2026-05-18T19:15:00/Þróttur R. - Leiknir R.
-DESCRIPTION:Þróttur R. - Leiknir R. - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fylkir - ÍR - Lengjudeildin - livey
-DTSTART:20260518T191500
-DTEND:20260518T201500
-DTSTAMP:20260518T191500Z
-UID:2026-05-18T19:15:00/Fylkir - ÍR
-DESCRIPTION:Fylkir - ÍR - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FHL - Grótta - Lengjudeildin - livey
 DTSTART:20260519T163000
 DTEND:20260519T173000
 DTSTAMP:20260519T163000Z
 UID:2026-05-19T16:30:00/FHL - Grótta
 DESCRIPTION:FHL - Grótta - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FH - ÍBV - Besta deild kvenna - synsportisland
-DTSTART:20260519T175000
-DTEND:20260519T185000
-DTSTAMP:20260519T175000Z
-UID:2026-05-19T17:50:00/FH - ÍBV
-DESCRIPTION:FH - ÍBV - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Man. City - Premier League - synsport2
@@ -90,6 +42,14 @@ UID:2026-05-20T16:20:00/Häcken - Växjö
 DESCRIPTION:Häcken - Växjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FH - ÍBV - Besta deild kvenna - synsportisland
+DTSTART:20260520T175000
+DTEND:20260520T185000
+DTSTAMP:20260520T175000Z
+UID:2026-05-20T17:50:00/FH - ÍBV
+DESCRIPTION:FH - ÍBV - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Þór/KA - Breiðablik - Besta deild kvenna - synsportisland3
 DTSTART:20260520T182000
 DTEND:20260520T192000
@@ -106,20 +66,20 @@ UID:2026-05-20T18:45:00/Freiburg - Aston Villa
 DESCRIPTION:Freiburg - Aston Villa - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Fram - Besta deild kvenna - synsportisland5
-DTSTART:20260520T190500
-DTEND:20260520T200500
-DTSTAMP:20260520T190500Z
-UID:2026-05-20T19:05:00/Valur - Fram
-DESCRIPTION:Valur - Fram - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Víkingur R. - Þróttur R. - Besta deild kvenna - synsportisland2
 DTSTART:20260520T190500
 DTEND:20260520T200500
 DTSTAMP:20260520T190500Z
 UID:2026-05-20T19:05:00/Víkingur R. - Þróttur R.
 DESCRIPTION:Víkingur R. - Þróttur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Fram - Besta deild kvenna - synsportisland5
+DTSTART:20260520T190500
+DTEND:20260520T200500
+DTSTAMP:20260520T190500Z
+UID:2026-05-20T19:05:00/Valur - Fram
+DESCRIPTION:Valur - Fram - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík/Njarðvík - Stjarnan - Besta deild kvenna - synsportis
@@ -131,12 +91,12 @@ UID:2026-05-20T19:05:00/Grindavík/Njarðvík - Stjarnan
 DESCRIPTION:Grindavík/Njarðvík - Stjarnan - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - Selfoss - Lengjudeildin - livey
+SUMMARY:Tindastóll - Völsungur - Lengjudeildin - livey
 DTSTART:20260520T191500
 DTEND:20260520T201500
 DTSTAMP:20260520T191500Z
-UID:2026-05-20T19:15:00/Keflavík - Selfoss
-DESCRIPTION:Keflavík - Selfoss - Lengjudeildin
+UID:2026-05-20T19:15:00/Tindastóll - Völsungur
+DESCRIPTION:Tindastóll - Völsungur - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - Haukar - Lengjudeildin - livey
@@ -155,12 +115,12 @@ UID:2026-05-20T19:15:00/KR - ÍA
 DESCRIPTION:KR - ÍA - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Völsungur - Lengjudeildin - livey
+SUMMARY:Keflavík - Selfoss - Lengjudeildin - livey
 DTSTART:20260520T191500
 DTEND:20260520T201500
 DTSTAMP:20260520T191500Z
-UID:2026-05-20T19:15:00/Tindastóll - Völsungur
-DESCRIPTION:Tindastóll - Völsungur - Lengjudeildin
+UID:2026-05-20T19:15:00/Keflavík - Selfoss
+DESCRIPTION:Keflavík - Selfoss - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland2
@@ -283,12 +243,12 @@ UID:2026-05-23T12:50:00/Kristianstad - Hammarby
 DESCRIPTION:Kristianstad - Hammarby - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eskilstuna United - Rosengård - OBOS Damallsvenskan - viaplay
+SUMMARY:Eskilstuna - Rosengård - OBOS Damallsvenskan - viaplay
 DTSTART:20260523T125000
 DTEND:20260523T135000
 DTSTAMP:20260523T125000Z
-UID:2026-05-23T12:50:00/Eskilstuna United - Rosengård
-DESCRIPTION:Eskilstuna United - Rosengård - OBOS Damallsvenskan
+UID:2026-05-23T12:50:00/Eskilstuna - Rosengård
+DESCRIPTION:Eskilstuna - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hull - Southampton - Championship - viaplay
@@ -299,20 +259,20 @@ UID:2026-05-23T15:25:00/Hull - Southampton
 DESCRIPTION:Hull - Southampton - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barcelona - Lyon - Meistaradeild kvenna í fótbolta - ruv
-DTSTART:20260523T160000
-DTEND:20260523T170000
-DTSTAMP:20260523T160000Z
-UID:2026-05-23T16:00:00/Barcelona - Lyon
-DESCRIPTION:Barcelona - Lyon - Meistaradeild kvenna í fótbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barcelona - OL Lyonnes - Meistaradeild kvenna - disney
 DTSTART:20260523T160000
 DTEND:20260523T170000
 DTSTAMP:20260523T160000Z
 UID:2026-05-23T16:00:00/Barcelona - OL Lyonnes
 DESCRIPTION:Barcelona - OL Lyonnes - Meistaradeild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona - Lyon - Meistaradeild kvenna í fótbolta - ruv
+DTSTART:20260523T160000
+DTEND:20260523T170000
+DTSTAMP:20260523T160000Z
+UID:2026-05-23T16:00:00/Barcelona - Lyon
+DESCRIPTION:Barcelona - Lyon - Meistaradeild kvenna í fótbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Bayern - Stuttgart - DFB-Pokal - livey
@@ -355,6 +315,14 @@ UID:2026-05-24T14:40:00/Man. City - Aston Villa
 DESCRIPTION:Man. City - Aston Villa - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20260524T144000
+DTEND:20260524T154000
+DTSTAMP:20260524T144000Z
+UID:2026-05-24T14:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Liverpool - Brentford - Premier League - synsport4
 DTSTART:20260524T144000
 DTEND:20260524T154000
@@ -371,20 +339,12 @@ UID:2026-05-24T14:40:00/Crystal Palace - Arsenal
 DESCRIPTION:Crystal Palace - Arsenal - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
-DTSTART:20260524T144000
-DTEND:20260524T154000
-DTSTAMP:20260524T144000Z
-UID:2026-05-24T14:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nott. Forest - Bournemouth - Premier League - synsportisland3
+SUMMARY:Burnley - Wolves - Premier League - synsportisland
 DTSTART:20260524T145000
 DTEND:20260524T155000
 DTSTAMP:20260524T145000Z
-UID:2026-05-24T14:50:00/Nott. Forest - Bournemouth
-DESCRIPTION:Nott. Forest - Bournemouth - Premier League
+UID:2026-05-24T14:50:00/Burnley - Wolves
+DESCRIPTION:Burnley - Wolves - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Leeds - Premier League - synsportisland4
@@ -395,20 +355,20 @@ UID:2026-05-24T14:50:00/West Ham - Leeds
 DESCRIPTION:West Ham - Leeds - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nott. Forest - Bournemouth - Premier League - synsportisland3
+DTSTART:20260524T145000
+DTEND:20260524T155000
+DTSTAMP:20260524T145000Z
+UID:2026-05-24T14:50:00/Nott. Forest - Bournemouth
+DESCRIPTION:Nott. Forest - Bournemouth - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fulham - Newcastle - Premier League - synsportisland2
 DTSTART:20260524T145000
 DTEND:20260524T155000
 DTSTAMP:20260524T145000Z
 UID:2026-05-24T14:50:00/Fulham - Newcastle
 DESCRIPTION:Fulham - Newcastle - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burnley - Wolves - Premier League - synsportisland
-DTSTART:20260524T145000
-DTEND:20260524T155000
-DTSTAMP:20260524T145000Z
-UID:2026-05-24T14:50:00/Burnley - Wolves
-DESCRIPTION:Burnley - Wolves - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Chelsea - Premier League - synsport6
@@ -427,11 +387,19 @@ UID:2026-05-24T14:50:00/Tottenham - Everton
 DESCRIPTION:Tottenham - Everton - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20260524T173000
+DTEND:20260524T183000
+DTSTAMP:20260524T173000Z
+UID:2026-05-24T17:30:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UEL/UECL Magazine - UEFA Europa League - viaplay
-DTSTART:20260524T163000
-DTEND:20260524T173000
-DTSTAMP:20260524T163000Z
-UID:2026-05-24T16:30:00/UEL/UECL Magazine
+DTSTART:20260524T180000
+DTEND:20260524T190000
+DTSTAMP:20260524T180000Z
+UID:2026-05-24T18:00:00/UEL/UECL Magazine
 DESCRIPTION:UEL/UECL Magazine - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
@@ -441,5 +409,78 @@ DTEND:20260524T210000
 DTSTAMP:20260524T200000Z
 UID:2026-05-24T20:00:00/Sunnudagsmessan
 DESCRIPTION:Sunnudagsmessan - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Notts County - Salford - League Two - viaplay
+DTSTART:20260525T135500
+DTEND:20260525T145500
+DTSTAMP:20260525T135500Z
+UID:2026-05-25T13:55:00/Notts County - Salford
+DESCRIPTION:Notts County - Salford - League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Þór/KA - Besta deild kvenna - synsportisland
+DTSTART:20260525T155000
+DTEND:20260525T165000
+DTSTAMP:20260525T155000Z
+UID:2026-05-25T15:50:00/Fram - Þór/KA
+DESCRIPTION:Fram - Þór/KA - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍBV - Grindavík/Njarðvík - Besta deild kvenna - synsportisland
+ 2
+DTSTART:20260525T155000
+DTEND:20260525T165000
+DTSTAMP:20260525T155000Z
+UID:2026-05-25T15:50:00/ÍBV - Grindavík/Njarðvík
+DESCRIPTION:ÍBV - Grindavík/Njarðvík - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEL/UECL Magazine - UEFA Europa League - viaplay
+DTSTART:20260525T170000
+DTEND:20260525T180000
+DTSTAMP:20260525T170000Z
+UID:2026-05-25T17:00:00/UEL/UECL Magazine
+DESCRIPTION:UEL/UECL Magazine - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paderborn - Wolfsburg - Bundesliga - viaplay
+DTSTART:20260525T182000
+DTEND:20260525T192000
+DTSTAMP:20260525T182000Z
+UID:2026-05-25T18:20:00/Paderborn - Wolfsburg
+DESCRIPTION:Paderborn - Wolfsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - Valur - Besta deild kvenna - synsportisland2
+DTSTART:20260525T190500
+DTEND:20260525T200500
+DTSTAMP:20260525T190500Z
+UID:2026-05-25T19:05:00/Víkingur R. - Valur
+DESCRIPTION:Víkingur R. - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þróttur R. - Stjarnan - Besta deild kvenna - synsportisland3
+DTSTART:20260525T190500
+DTEND:20260525T200500
+DTSTAMP:20260525T190500Z
+UID:2026-05-25T19:05:00/Þróttur R. - Stjarnan
+DESCRIPTION:Þróttur R. - Stjarnan - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - FH - Besta deild kvenna - synsportisland
+DTSTART:20260525T190500
+DTEND:20260525T200500
+DTSTAMP:20260525T190500Z
+UID:2026-05-25T19:05:00/Breiðablik - FH
+DESCRIPTION:Breiðablik - FH - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
+DTSTART:20260525T211500
+DTEND:20260525T221500
+DTSTAMP:20260525T211500Z
+UID:2026-05-25T21:15:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 END:VCALENDAR
