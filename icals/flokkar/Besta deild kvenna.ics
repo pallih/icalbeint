@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Besta deild kvenna - ical
 BEGIN:VEVENT
-SUMMARY:Fram - Þór/KA - Besta deild kvenna - synsportisland
-DTSTART:20260525T155000
-DTEND:20260525T165000
-DTSTAMP:20260525T155000Z
-UID:2026-05-25T15:50:00/Fram - Þór/KA
-DESCRIPTION:Fram - Þór/KA - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - Grindavík/Njarðvík - Besta deild kvenna - synsportisland
  2
 DTSTART:20260525T155000
@@ -19,19 +11,19 @@ UID:2026-05-25T15:50:00/ÍBV - Grindavík/Njarðvík
 DESCRIPTION:ÍBV - Grindavík/Njarðvík - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þróttur R. - Stjarnan - Besta deild kvenna - synsportisland3
-DTSTART:20260525T190500
-DTEND:20260525T200500
-DTSTAMP:20260525T190500Z
-UID:2026-05-25T19:05:00/Þróttur R. - Stjarnan
-DESCRIPTION:Þróttur R. - Stjarnan - Besta deild kvenna
+SUMMARY:Fram - Þór/KA - Besta deild kvenna - synsportisland
+DTSTART:20260525T155000
+DTEND:20260525T165000
+DTSTAMP:20260525T155000Z
+UID:2026-05-25T15:50:00/Fram - Þór/KA
+DESCRIPTION:Fram - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breiðablik - FH - Besta deild kvenna - synsportisland
-DTSTART:20260525T190500
-DTEND:20260525T200500
-DTSTAMP:20260525T190500Z
-UID:2026-05-25T19:05:00/Breiðablik - FH
+DTSTART:20260525T190000
+DTEND:20260525T200000
+DTSTAMP:20260525T190000Z
+UID:2026-05-25T19:00:00/Breiðablik - FH
 DESCRIPTION:Breiðablik - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
@@ -43,11 +35,27 @@ UID:2026-05-25T19:05:00/Víkingur R. - Valur
 DESCRIPTION:Víkingur R. - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Þróttur R. - Stjarnan - Besta deild kvenna - synsportisland3
+DTSTART:20260525T190500
+DTEND:20260525T200500
+DTSTAMP:20260525T190500Z
+UID:2026-05-25T19:05:00/Þróttur R. - Stjarnan
+DESCRIPTION:Þróttur R. - Stjarnan - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
 DTSTART:20260525T211500
 DTEND:20260525T221500
 DTSTAMP:20260525T211500Z
 UID:2026-05-25T21:15:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Þróttur R. - Besta deild kvenna - synsportisland3
+DTSTART:20260529T190500
+DTEND:20260529T200500
+DTSTAMP:20260529T190500Z
+UID:2026-05-29T19:05:00/Valur - Þróttur R.
+DESCRIPTION:Valur - Þróttur R. - Besta deild kvenna
 END:VEVENT
 END:VCALENDAR

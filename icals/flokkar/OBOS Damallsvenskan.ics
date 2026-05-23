@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - OBOS Damallsvenskan - ical
 BEGIN:VEVENT
-SUMMARY:Piteå - Djurgården - OBOS Damallsvenskan - viaplay
-DTSTART:20260522T155000
-DTEND:20260522T165000
-DTSTAMP:20260522T155000Z
-UID:2026-05-22T15:50:00/Piteå - Djurgården
-DESCRIPTION:Piteå - Djurgården - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AIK - Malmö FF - OBOS Damallsvenskan - viaplay
 DTSTART:20260523T105000
 DTEND:20260523T115000
@@ -26,20 +18,20 @@ UID:2026-05-23T11:50:00/Brommapojkarna - Uppsala
 DESCRIPTION:Brommapojkarna - Uppsala - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eskilstuna - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20260523T125000
-DTEND:20260523T135000
-DTSTAMP:20260523T125000Z
-UID:2026-05-23T12:50:00/Eskilstuna - Rosengård
-DESCRIPTION:Eskilstuna - Rosengård - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kristianstad - Hammarby - OBOS Damallsvenskan - viaplay
 DTSTART:20260523T125000
 DTEND:20260523T135000
 DTSTAMP:20260523T125000Z
 UID:2026-05-23T12:50:00/Kristianstad - Hammarby
 DESCRIPTION:Kristianstad - Hammarby - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eskilstuna - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20260523T125000
+DTEND:20260523T135000
+DTSTAMP:20260523T125000Z
+UID:2026-05-23T12:50:00/Eskilstuna - Rosengård
+DESCRIPTION:Eskilstuna - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Växjö - Vittsjö - OBOS Damallsvenskan - viaplay
@@ -50,19 +42,19 @@ UID:2026-05-24T12:50:00/Växjö - Vittsjö
 DESCRIPTION:Växjö - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eskilstuna United - Hammarby - OBOS Damallsvenskan - viaplay
-DTSTART:20260527T165000
-DTEND:20260527T175000
-DTSTAMP:20260527T165000Z
-UID:2026-05-27T16:50:00/Eskilstuna United - Hammarby
-DESCRIPTION:Eskilstuna United - Hammarby - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AIK - Häcken - OBOS Damallsvenskan - viaplay
 DTSTART:20260527T165000
 DTEND:20260527T175000
 DTSTAMP:20260527T165000Z
 UID:2026-05-27T16:50:00/AIK - Häcken
 DESCRIPTION:AIK - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eskilstuna United - Hammarby - OBOS Damallsvenskan - viaplay
+DTSTART:20260527T165000
+DTEND:20260527T175000
+DTSTAMP:20260527T165000Z
+UID:2026-05-27T16:50:00/Eskilstuna United - Hammarby
+DESCRIPTION:Eskilstuna United - Hammarby - OBOS Damallsvenskan
 END:VEVENT
 END:VCALENDAR

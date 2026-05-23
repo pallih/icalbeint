@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Æfing 12) - IndyCar - viap
- lay
-DTSTART:20260522T150000
-DTEND:20260522T160000
-DTSTAMP:20260522T150000Z
-UID:2026-05-22T15:00:00/110th Running of the Indianapolis 500 (Æfing 12)
-DESCRIPTION:110th Running of the Indianapolis 500 (Æfing 12) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Pit Stop Contest) - IndyCar
-  - viaplay
-DTSTART:20260522T183000
-DTEND:20260522T193000
-DTSTAMP:20260522T183000Z
-UID:2026-05-22T18:30:00/110th Running of the Indianapolis 500 (Pit Stop Co
- ntest)
-DESCRIPTION:110th Running of the Indianapolis 500 (Pit Stop Contest) - Ind
- yCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:110th Running of the Indianapolis 500 (Pre-Race) - IndyCar - viapl
  ay
 DTSTART:20260524T140000
@@ -47,5 +27,13 @@ DTEND:20260524T203000
 DTSTAMP:20260524T193000Z
 UID:2026-05-24T19:30:00/110th Running of the Indianapolis 500 (Post Race)
 DESCRIPTION:110th Running of the Indianapolis 500 (Post Race) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chevrolet Detroit Grand Prix (Æfing 1) - IndyCar - viaplay
+DTSTART:20260529T190000
+DTEND:20260529T200000
+DTSTAMP:20260529T190000Z
+UID:2026-05-29T19:00:00/Chevrolet Detroit Grand Prix (Æfing 1)
+DESCRIPTION:Chevrolet Detroit Grand Prix (Æfing 1) - IndyCar
 END:VEVENT
 END:VCALENDAR
