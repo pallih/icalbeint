@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Soudal Open - DP World Tour - synsport4
-DTSTART:20260523T113000
-DTEND:20260523T123000
-DTSTAMP:20260523T113000Z
-UID:2026-05-23T11:30:00/Soudal Open
-DESCRIPTION:Soudal Open - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1: Kanada - Sprint keppni - Formúla 1 - synsportviaplay
-DTSTART:20260523T155500
-DTEND:20260523T165500
-DTSTAMP:20260523T155500Z
-UID:2026-05-23T15:55:00/F1: Kanada - Sprint keppni
-DESCRIPTION:F1: Kanada - Sprint keppni - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1: Kanada - Tímataka - Formúla 1 - synsportviaplay
-DTSTART:20260523T195500
-DTEND:20260523T205500
-DTSTAMP:20260523T195500Z
-UID:2026-05-23T19:55:00/F1: Kanada - Tímataka
-DESCRIPTION:F1: Kanada - Tímataka - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stúkan - Besta deild karla - synsportisland
-DTSTART:20260523T200000
-DTEND:20260523T210000
-DTSTAMP:20260523T200000Z
-UID:2026-05-23T20:00:00/Stúkan
-DESCRIPTION:Stúkan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hurricanes - Canadiens - NHL - synsportviaplay
-DTSTART:20260523T230500
-DTEND:20260524T000500
-DTSTAMP:20260523T230500Z
-UID:2026-05-23T23:05:00/Hurricanes - Canadiens
-DESCRIPTION:Hurricanes - Canadiens - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Soudal Open - DP World Tour - synsportisland5
 DTSTART:20260524T110000
 DTEND:20260524T120000
@@ -56,14 +16,6 @@ DTEND:20260524T125500
 DTSTAMP:20260524T115500Z
 UID:2026-05-24T11:55:00/Bolton - Stockport
 DESCRIPTION:Bolton - Stockport - EFL League One
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tottenham - Everton - Premier League - synsport5
-DTSTART:20260524T144000
-DTEND:20260524T154000
-DTSTAMP:20260524T144000Z
-UID:2026-05-24T14:40:00/Tottenham - Everton
-DESCRIPTION:Tottenham - Everton - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -98,12 +50,12 @@ UID:2026-05-24T14:40:00/Liverpool - Brentford
 DESCRIPTION:Liverpool - Brentford - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Wolves - Premier League - synsportisland
-DTSTART:20260524T145000
-DTEND:20260524T155000
-DTSTAMP:20260524T145000Z
-UID:2026-05-24T14:50:00/Burnley - Wolves
-DESCRIPTION:Burnley - Wolves - Premier League
+SUMMARY:Tottenham - Everton - Premier League - synsport5
+DTSTART:20260524T144000
+DTEND:20260524T154000
+DTSTAMP:20260524T144000Z
+UID:2026-05-24T14:40:00/Tottenham - Everton
+DESCRIPTION:Tottenham - Everton - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunderland - Chelsea - Premier League - synsport6
@@ -114,12 +66,12 @@ UID:2026-05-24T14:50:00/Sunderland - Chelsea
 DESCRIPTION:Sunderland - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fulham - Newcastle - Premier League - synsportisland2
+SUMMARY:West Ham - Leeds - Premier League - synsportisland4
 DTSTART:20260524T145000
 DTEND:20260524T155000
 DTSTAMP:20260524T145000Z
-UID:2026-05-24T14:50:00/Fulham - Newcastle
-DESCRIPTION:Fulham - Newcastle - Premier League
+UID:2026-05-24T14:50:00/West Ham - Leeds
+DESCRIPTION:West Ham - Leeds - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nott. Forest - Bournemouth - Premier League - synsportisland3
@@ -130,12 +82,20 @@ UID:2026-05-24T14:50:00/Nott. Forest - Bournemouth
 DESCRIPTION:Nott. Forest - Bournemouth - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Ham - Leeds - Premier League - synsportisland4
+SUMMARY:Fulham - Newcastle - Premier League - synsportisland2
 DTSTART:20260524T145000
 DTEND:20260524T155000
 DTSTAMP:20260524T145000Z
-UID:2026-05-24T14:50:00/West Ham - Leeds
-DESCRIPTION:West Ham - Leeds - Premier League
+UID:2026-05-24T14:50:00/Fulham - Newcastle
+DESCRIPTION:Fulham - Newcastle - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Wolves - Premier League - synsportisland
+DTSTART:20260524T145000
+DTEND:20260524T155000
+DTSTAMP:20260524T145000Z
+UID:2026-05-24T14:50:00/Burnley - Wolves
+DESCRIPTION:Burnley - Wolves - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Kanada - Keppni - Formúla 1 - synsportviaplay
@@ -299,6 +259,14 @@ UID:2026-05-29T19:05:00/Valur - Þróttur R.
 DESCRIPTION:Valur - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fram - Breiðablik - Besta deild karla - synsportisland2
+DTSTART:20260529T190500
+DTEND:20260529T200500
+DTSTAMP:20260529T190500Z
+UID:2026-05-29T19:05:00/Fram - Breiðablik
+DESCRIPTION:Fram - Breiðablik - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FH - ÍA - Besta deild karla - synsportisland
 DTSTART:20260529T190500
 DTEND:20260529T200500
@@ -307,11 +275,87 @@ UID:2026-05-29T19:05:00/FH - ÍA
 DESCRIPTION:FH - ÍA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - Breiðablik - Besta deild karla - synsportisland2
-DTSTART:20260529T190500
-DTEND:20260529T200500
-DTSTAMP:20260529T190500Z
-UID:2026-05-29T19:05:00/Fram - Breiðablik
-DESCRIPTION:Fram - Breiðablik - Besta deild karla
+SUMMARY:Austrian Alpine Open - DP World Tour - synsport4
+DTSTART:20260530T110000
+DTEND:20260530T120000
+DTSTAMP:20260530T110000Z
+UID:2026-05-30T11:00:00/Austrian Alpine Open
+DESCRIPTION:Austrian Alpine Open - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór/KA - Víkingur R. - Besta deild kvenna - synsportisland
+DTSTART:20260530T135000
+DTEND:20260530T145000
+DTSTAMP:20260530T135000Z
+UID:2026-05-30T13:50:00/Þór/KA - Víkingur R.
+DESCRIPTION:Þór/KA - Víkingur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík/Njarðvík - Breiðablik - Besta deild kvenna - synspor
+ tisland2
+DTSTART:20260530T135000
+DTEND:20260530T145000
+DTSTAMP:20260530T135000Z
+UID:2026-05-30T13:50:00/Grindavík/Njarðvík - Breiðablik
+DESCRIPTION:Grindavík/Njarðvík - Breiðablik - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Fram - Besta deild kvenna - synsportisland3
+DTSTART:20260530T135000
+DTEND:20260530T145000
+DTSTAMP:20260530T135000Z
+UID:2026-05-30T13:50:00/FH - Fram
+DESCRIPTION:FH - Fram - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - ÍBV - Besta deild kvenna - synsportisland4
+DTSTART:20260530T135000
+DTEND:20260530T145000
+DTSTAMP:20260530T135000Z
+UID:2026-05-30T13:50:00/Stjarnan - ÍBV
+DESCRIPTION:Stjarnan - ÍBV - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Arsenal - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260530T151500
+DTEND:20260530T161500
+DTSTAMP:20260530T151500Z
+UID:2026-05-30T15:15:00/PSG - Arsenal
+DESCRIPTION:PSG - Arsenal - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeild Evrópu - Upphitun - Meistaradeild Evrópu - Upphitu
+ n - synsportviaplay
+DTSTART:20260530T151500
+DTEND:20260530T161500
+DTSTAMP:20260530T151500Z
+UID:2026-05-30T15:15:00/Meistaradeild Evrópu - Upphitun
+DESCRIPTION:Meistaradeild Evrópu - Upphitun - Meistaradeild Evrópu - Upp
+ hitun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Viaplay - Meistaradeild Evrópu - synspor
+ tviaplay
+DTSTART:20260530T180000
+DTEND:20260530T190000
+DTSTAMP:20260530T180000Z
+UID:2026-05-30T18:00:00/Meistaradeildarmörkin - Viaplay
+DESCRIPTION:Meistaradeildarmörkin - Viaplay - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ShopRite LPGA Classic - LPGA Tour - synsport4
+DTSTART:20260530T193000
+DTEND:20260530T203000
+DTSTAMP:20260530T193000Z
+UID:2026-05-30T19:30:00/ShopRite LPGA Classic
+DESCRIPTION:ShopRite LPGA Classic - LPGA Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
+DTSTART:20260530T200000
+DTEND:20260530T210000
+DTSTAMP:20260530T200000Z
+UID:2026-05-30T20:00:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 END:VCALENDAR
