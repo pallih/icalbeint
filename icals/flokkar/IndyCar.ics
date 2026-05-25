@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Pre-Race) - IndyCar - viapl
- ay
-DTSTART:20260524T140000
-DTEND:20260524T150000
-DTSTAMP:20260524T140000Z
-UID:2026-05-24T14:00:00/110th Running of the Indianapolis 500 (Pre-Race)
-DESCRIPTION:110th Running of the Indianapolis 500 (Pre-Race) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Kappakstur) - IndyCar - via
- play
-DTSTART:20260524T153000
-DTEND:20260524T163000
-DTSTAMP:20260524T153000Z
-UID:2026-05-24T15:30:00/110th Running of the Indianapolis 500 (Kappakstur)
-DESCRIPTION:110th Running of the Indianapolis 500 (Kappakstur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:110th Running of the Indianapolis 500 (Post Race) - IndyCar - viap
- lay
-DTSTART:20260524T193000
-DTEND:20260524T203000
-DTSTAMP:20260524T193000Z
-UID:2026-05-24T19:30:00/110th Running of the Indianapolis 500 (Post Race)
-DESCRIPTION:110th Running of the Indianapolis 500 (Post Race) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chevrolet Detroit Grand Prix (Æfing 1) - IndyCar - viaplay
 DTSTART:20260529T190000
 DTEND:20260529T200000
@@ -51,5 +24,21 @@ DTEND:20260530T180000
 DTSTAMP:20260530T170000Z
 UID:2026-05-30T17:00:00/Chevrolet Detroit Grand Prix (Tímatökur)
 DESCRIPTION:Chevrolet Detroit Grand Prix (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chevrolet Detroit Grand Prix (Warm Up) - IndyCar - viaplay
+DTSTART:20260531T133000
+DTEND:20260531T143000
+DTSTAMP:20260531T133000Z
+UID:2026-05-31T13:30:00/Chevrolet Detroit Grand Prix (Warm Up)
+DESCRIPTION:Chevrolet Detroit Grand Prix (Warm Up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chevrolet Detroit Grand Prix (Kappakstur) - IndyCar - viaplay
+DTSTART:20260531T163000
+DTEND:20260531T173000
+DTSTAMP:20260531T163000Z
+UID:2026-05-31T16:30:00/Chevrolet Detroit Grand Prix (Kappakstur)
+DESCRIPTION:Chevrolet Detroit Grand Prix (Kappakstur) - IndyCar
 END:VEVENT
 END:VCALENDAR
