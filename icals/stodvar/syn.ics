@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:AIK - Häcken - Sænska úrvalsdeildin - synsportviaplay
-DTSTART:20260527T165000
-DTEND:20260527T175000
-DTSTAMP:20260527T165000Z
-UID:2026-05-27T16:50:00/AIK - Häcken
-DESCRIPTION:AIK - Häcken - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crystal Palace - Rayo Vallecano - Sambandsdeildin - synsport
-DTSTART:20260527T185000
-DTEND:20260527T195000
-DTSTAMP:20260527T185000Z
-UID:2026-05-27T18:50:00/Crystal Palace - Rayo Vallecano
-DESCRIPTION:Crystal Palace - Rayo Vallecano - Sambandsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canadiens - Hurricanes - NHL - synsportviaplay
-DTSTART:20260528T000500
-DTEND:20260528T010500
-DTSTAMP:20260528T000500Z
-UID:2026-05-28T00:05:00/Canadiens - Hurricanes
-DESCRIPTION:Canadiens - Hurricanes - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Austrian Alpine Open - DP World Tour - synsport4
 DTSTART:20260528T110000
 DTEND:20260528T120000
@@ -66,6 +42,14 @@ UID:2026-05-29T18:20:00/Bosnía - Norður Makedónía
 DESCRIPTION:Bosnía - Norður Makedónía - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FH - ÍA - Besta deild karla - synsportisland
+DTSTART:20260529T190500
+DTEND:20260529T200500
+DTSTAMP:20260529T190500Z
+UID:2026-05-29T19:05:00/FH - ÍA
+DESCRIPTION:FH - ÍA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fram - Breiðablik - Besta deild karla - synsportisland2
 DTSTART:20260529T190500
 DTEND:20260529T200500
@@ -82,14 +66,6 @@ UID:2026-05-29T19:05:00/Valur - Þróttur R.
 DESCRIPTION:Valur - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - ÍA - Besta deild karla - synsportisland
-DTSTART:20260529T190500
-DTEND:20260529T200500
-DTSTAMP:20260529T190500Z
-UID:2026-05-29T19:05:00/FH - ÍA
-DESCRIPTION:FH - ÍA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Austrian Alpine Open - DP World Tour - synsport4
 DTSTART:20260530T110000
 DTEND:20260530T120000
@@ -98,20 +74,20 @@ UID:2026-05-30T11:00:00/Austrian Alpine Open
 DESCRIPTION:Austrian Alpine Open - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór/KA - Víkingur R. - Besta deild kvenna - synsportisland
-DTSTART:20260530T135000
-DTEND:20260530T145000
-DTSTAMP:20260530T135000Z
-UID:2026-05-30T13:50:00/Þór/KA - Víkingur R.
-DESCRIPTION:Þór/KA - Víkingur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FH - Fram - Besta deild kvenna - synsportisland3
 DTSTART:20260530T135000
 DTEND:20260530T145000
 DTSTAMP:20260530T135000Z
 UID:2026-05-30T13:50:00/FH - Fram
 DESCRIPTION:FH - Fram - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór/KA - Víkingur R. - Besta deild kvenna - synsportisland
+DTSTART:20260530T135000
+DTEND:20260530T145000
+DTSTAMP:20260530T135000Z
+UID:2026-05-30T13:50:00/Þór/KA - Víkingur R.
+DESCRIPTION:Þór/KA - Víkingur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - ÍBV - Besta deild kvenna - synsportisland4
@@ -174,20 +150,20 @@ UID:2026-05-30T20:00:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austrian Alpine Open - DP World Tour - synsport4
-DTSTART:20260531T100000
-DTEND:20260531T110000
-DTSTAMP:20260531T100000Z
-UID:2026-05-31T10:00:00/Austrian Alpine Open
-DESCRIPTION:Austrian Alpine Open - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japan - Ísland - Vináttulandsleikur - synsport
 DTSTART:20260531T100000
 DTEND:20260531T110000
 DTSTAMP:20260531T100000Z
 UID:2026-05-31T10:00:00/Japan - Ísland
 DESCRIPTION:Japan - Ísland - Vináttulandsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austrian Alpine Open - DP World Tour - synsport4
+DTSTART:20260531T100000
+DTEND:20260531T110000
+DTSTAMP:20260531T100000Z
+UID:2026-05-31T10:00:00/Austrian Alpine Open
+DESCRIPTION:Austrian Alpine Open - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japan - Ísland: Uppgjör - Landsleikir - Uppgjör - synsport
@@ -214,12 +190,12 @@ UID:2026-05-31T16:50:00/Subway messan
 DESCRIPTION:Subway messan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍBV - Keflavík - Besta deild karla - synsportisland2
+SUMMARY:Þór Ak. - Stjarnan - Besta deild karla - synsportisland4
 DTSTART:20260531T165000
 DTEND:20260531T175000
 DTSTAMP:20260531T165000Z
-UID:2026-05-31T16:50:00/ÍBV - Keflavík
-DESCRIPTION:ÍBV - Keflavík - Besta deild karla
+UID:2026-05-31T16:50:00/Þór Ak. - Stjarnan
+DESCRIPTION:Þór Ak. - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - KA - Besta deild karla - synsportisland3
@@ -230,12 +206,12 @@ UID:2026-05-31T16:50:00/KR - KA
 DESCRIPTION:KR - KA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Ak. - Stjarnan - Besta deild karla - synsportisland4
+SUMMARY:ÍBV - Keflavík - Besta deild karla - synsportisland2
 DTSTART:20260531T165000
 DTEND:20260531T175000
 DTSTAMP:20260531T165000Z
-UID:2026-05-31T16:50:00/Þór Ak. - Stjarnan
-DESCRIPTION:Þór Ak. - Stjarnan - Besta deild karla
+UID:2026-05-31T16:50:00/ÍBV - Keflavík
+DESCRIPTION:ÍBV - Keflavík - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þýskaland - Finnland - Æfingaleikur - synsportviaplay
@@ -292,5 +268,13 @@ DTEND:20260602T193500
 DTSTAMP:20260602T183500Z
 UID:2026-06-02T18:35:00/Wales - Gana
 DESCRIPTION:Wales - Gana - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danmörk - Kongó - Æfingaleikur - synsportviaplay
+DTSTART:20260603T175000
+DTEND:20260603T185000
+DTSTAMP:20260603T175000Z
+UID:2026-06-03T17:50:00/Danmörk - Kongó
+DESCRIPTION:Danmörk - Kongó - Æfingaleikur
 END:VEVENT
 END:VCALENDAR

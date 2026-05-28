@@ -18,14 +18,6 @@ UID:2026-05-29T07:45:00/Ítalíukappaksturinn (Frjáls æfing 1)
 DESCRIPTION:Ítalíukappaksturinn (Frjáls æfing 1) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ítalíukappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
-DTSTART:20260529T083500
-DTEND:20260529T093500
-DTSTAMP:20260529T083500Z
-UID:2026-05-29T08:35:00/Ítalíukappaksturinn (Frjáls æfing 1)
-DESCRIPTION:Ítalíukappaksturinn (Frjáls æfing 1) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aragon Round (Frjáls æfing 1) - FIM Superbike World Championship
   - viaplay
 DTSTART:20260529T083500
@@ -34,6 +26,14 @@ DTSTAMP:20260529T083500Z
 UID:2026-05-29T08:35:00/Aragon Round (Frjáls æfing 1)
 DESCRIPTION:Aragon Round (Frjáls æfing 1) - FIM Superbike World Champion
  ship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ítalíukappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
+DTSTART:20260529T083500
+DTEND:20260529T093500
+DTSTAMP:20260529T083500Z
+UID:2026-05-29T08:35:00/Ítalíukappaksturinn (Frjáls æfing 1)
+DESCRIPTION:Ítalíukappaksturinn (Frjáls æfing 1) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ítalíukappaksturinn (Æfing) - Moto3 - viaplay
@@ -124,10 +124,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Round (Frjáls æfing 3) - FIM Superbike World Championship
   - viaplay
-DTSTART:20260530T074000
-DTEND:20260530T084000
-DTSTAMP:20260530T074000Z
-UID:2026-05-30T07:40:00/Aragon Round (Frjáls æfing 3)
+DTSTART:20260530T073500
+DTEND:20260530T083500
+DTSTAMP:20260530T073500Z
+UID:2026-05-30T07:35:00/Aragon Round (Frjáls æfing 3)
 DESCRIPTION:Aragon Round (Frjáls æfing 3) - FIM Superbike World Champion
  ship
 END:VEVENT
@@ -160,10 +160,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Round (Tissot Superpole) - FIM Superbike World Championship
   - viaplay
-DTSTART:20260530T091500
-DTEND:20260530T101500
-DTSTAMP:20260530T091500Z
-UID:2026-05-30T09:15:00/Aragon Round (Tissot Superpole)
+DTSTART:20260530T091000
+DTEND:20260530T101000
+DTSTAMP:20260530T091000Z
+UID:2026-05-30T09:10:00/Aragon Round (Tissot Superpole)
 DESCRIPTION:Aragon Round (Tissot Superpole) - FIM Superbike World Champion
  ship
 END:VEVENT
@@ -178,10 +178,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Round (Kappakstur 1) - FIM Supersport World Championship - 
  viaplay
-DTSTART:20260530T103000
-DTEND:20260530T113000
-DTSTAMP:20260530T103000Z
-UID:2026-05-30T10:30:00/Aragon Round (Kappakstur 1)
+DTSTART:20260530T102500
+DTEND:20260530T112500
+DTSTAMP:20260530T102500Z
+UID:2026-05-30T10:25:00/Aragon Round (Kappakstur 1)
 DESCRIPTION:Aragon Round (Kappakstur 1) - FIM Supersport World Championshi
  p
 END:VEVENT
@@ -204,10 +204,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Round (Kappakstur 1) - FIM Superbike World Championship - v
  iaplay
-DTSTART:20260530T120000
-DTEND:20260530T130000
-DTSTAMP:20260530T120000Z
-UID:2026-05-30T12:00:00/Aragon Round (Kappakstur 1)
+DTSTART:20260530T115500
+DTEND:20260530T125500
+DTSTAMP:20260530T115500Z
+UID:2026-05-30T11:55:00/Aragon Round (Kappakstur 1)
 DESCRIPTION:Aragon Round (Kappakstur 1) - FIM Superbike World Championship
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +247,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Round (Kappakstur 1) - FIM Sportbike World Championship - v
  iaplay
-DTSTART:20260530T131500
-DTEND:20260530T141500
-DTSTAMP:20260530T131500Z
-UID:2026-05-30T13:15:00/Aragon Round (Kappakstur 1)
+DTSTART:20260530T131000
+DTEND:20260530T141000
+DTSTAMP:20260530T131000Z
+UID:2026-05-30T13:10:00/Aragon Round (Kappakstur 1)
 DESCRIPTION:Aragon Round (Kappakstur 1) - FIM Sportbike World Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Misano (Kappakstur 1) - FIA European Truck Racing Championship - v
+ iaplay
+DTSTART:20260530T132500
+DTEND:20260530T142500
+DTSTAMP:20260530T132500Z
+UID:2026-05-30T13:25:00/Misano (Kappakstur 1)
+DESCRIPTION:Misano (Kappakstur 1) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monza (Kappakstur 1) - GT World Challenge Europe - viaplay
@@ -260,6 +269,15 @@ DTEND:20260530T163000
 DTSTAMP:20260530T153000Z
 UID:2026-05-30T15:30:00/Monza (Kappakstur 1)
 DESCRIPTION:Monza (Kappakstur 1) - GT World Challenge Europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Misano (Kappakstur 2) - FIA European Truck Racing Championship - v
+ iaplay
+DTSTART:20260530T153500
+DTEND:20260530T163500
+DTSTAMP:20260530T153500Z
+UID:2026-05-30T15:35:00/Misano (Kappakstur 2)
+DESCRIPTION:Misano (Kappakstur 2) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detroit (Tímatökur) - Indy NXT - viaplay
@@ -312,10 +330,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Round (Tissot Superpole Race) - FIM Superbike World Champio
  nship - viaplay
-DTSTART:20260531T091000
-DTEND:20260531T101000
-DTSTAMP:20260531T091000Z
-UID:2026-05-31T09:10:00/Aragon Round (Tissot Superpole Race)
+DTSTART:20260531T090500
+DTEND:20260531T100500
+DTSTAMP:20260531T090500Z
+UID:2026-05-31T09:05:00/Aragon Round (Tissot Superpole Race)
 DESCRIPTION:Aragon Round (Tissot Superpole Race) - FIM Superbike World Cha
  mpionship
 END:VEVENT
@@ -330,11 +348,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Round (Kappakstur 2) - FIM Sportbike World Championship - v
  iaplay
+DTSTART:20260531T105500
+DTEND:20260531T115500
+DTSTAMP:20260531T105500Z
+UID:2026-05-31T10:55:00/Aragon Round (Kappakstur 2)
+DESCRIPTION:Aragon Round (Kappakstur 2) - FIM Sportbike World Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Misano (Kappakstur 3) - FIA European Truck Racing Championship - v
+ iaplay
 DTSTART:20260531T110000
 DTEND:20260531T120000
 DTSTAMP:20260531T110000Z
-UID:2026-05-31T11:00:00/Aragon Round (Kappakstur 2)
-DESCRIPTION:Aragon Round (Kappakstur 2) - FIM Sportbike World Championship
+UID:2026-05-31T11:00:00/Misano (Kappakstur 3)
+DESCRIPTION:Misano (Kappakstur 3) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ítalíukappaksturinn (Kappakstur) - MotoGP - viaplay
@@ -355,10 +382,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Round (Kappakstur 2) - FIM Supersport World Championship - 
  viaplay
-DTSTART:20260531T120000
-DTEND:20260531T130000
-DTSTAMP:20260531T120000Z
-UID:2026-05-31T12:00:00/Aragon Round (Kappakstur 2)
+DTSTART:20260531T115500
+DTEND:20260531T125500
+DTSTAMP:20260531T115500Z
+UID:2026-05-31T11:55:00/Aragon Round (Kappakstur 2)
 DESCRIPTION:Aragon Round (Kappakstur 2) - FIM Supersport World Championshi
  p
 END:VEVENT
@@ -384,10 +411,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aragon Round (Kappakstur 2) - FIM Superbike World Championship - v
  iaplay
-DTSTART:20260531T133000
-DTEND:20260531T143000
-DTSTAMP:20260531T133000Z
-UID:2026-05-31T13:30:00/Aragon Round (Kappakstur 2)
+DTSTART:20260531T132500
+DTEND:20260531T142500
+DTSTAMP:20260531T132500Z
+UID:2026-05-31T13:25:00/Aragon Round (Kappakstur 2)
 DESCRIPTION:Aragon Round (Kappakstur 2) - FIM Superbike World Championship
 END:VEVENT
 BEGIN:VEVENT
@@ -397,6 +424,15 @@ DTEND:20260531T143000
 DTSTAMP:20260531T133000Z
 UID:2026-05-31T13:30:00/Chevrolet Detroit Grand Prix (Warm Up)
 DESCRIPTION:Chevrolet Detroit Grand Prix (Warm Up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Misano (Kappakstur 4) - FIA European Truck Racing Championship - v
+ iaplay
+DTSTART:20260531T133500
+DTEND:20260531T143500
+DTSTAMP:20260531T133500Z
+UID:2026-05-31T13:35:00/Misano (Kappakstur 4)
+DESCRIPTION:Misano (Kappakstur 4) - FIA European Truck Racing Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detroit (Kappakstur) - Indy NXT - viaplay
