@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Írland - Katar - Landsleikur - viaplay
-DTSTART:20260528T183500
-DTEND:20260528T193500
-DTSTAMP:20260528T183500Z
-UID:2026-05-28T18:35:00/Írland - Katar
-DESCRIPTION:Írland - Katar - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Írland - Katar - Æfingaleikur - synsportviaplay
-DTSTART:20260528T183500
-DTEND:20260528T193500
-DTSTAMP:20260528T183500Z
-UID:2026-05-28T18:35:00/Írland - Katar
-DESCRIPTION:Írland - Katar - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UEL/UECL Highlights - UEFA Europa Conference League - viaplay
 DTSTART:20260529T165500
 DTEND:20260529T175500
 DTSTAMP:20260529T165500Z
 UID:2026-05-29T16:55:00/UEL/UECL Highlights
 DESCRIPTION:UEL/UECL Highlights - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KÞ - Augnablik - 2. deild  - livey
+DTSTART:20260529T170000
+DTEND:20260529T180000
+DTSTAMP:20260529T170000Z
+UID:2026-05-29T17:00:00/KÞ - Augnablik
+DESCRIPTION:KÞ - Augnablik - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bosnía - Norður Makedónía - Æfingaleikur - synsportviaplay
@@ -51,14 +43,6 @@ UID:2026-05-29T19:05:00/FH - ÍA
 DESCRIPTION:FH - ÍA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - Breiðablik - Besta deild karla - synsportisland2
-DTSTART:20260529T190500
-DTEND:20260529T200500
-DTSTAMP:20260529T190500Z
-UID:2026-05-29T19:05:00/Fram - Breiðablik
-DESCRIPTION:Fram - Breiðablik - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - Þróttur R. - Besta deild kvenna - synsportisland3
 DTSTART:20260529T190500
 DTEND:20260529T200500
@@ -67,12 +51,44 @@ UID:2026-05-29T19:05:00/Valur - Þróttur R.
 DESCRIPTION:Valur - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fram - Breiðablik - Besta deild karla - synsportisland2
+DTSTART:20260529T190500
+DTEND:20260529T200500
+DTSTAMP:20260529T190500Z
+UID:2026-05-29T19:05:00/Fram - Breiðablik
+DESCRIPTION:Fram - Breiðablik - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Álftanes - 2. deild  - livey
+DTSTART:20260529T191500
+DTEND:20260529T201500
+DTSTAMP:20260529T191500Z
+UID:2026-05-29T19:15:00/ÍR - Álftanes
+DESCRIPTION:ÍR - Álftanes - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afturelding - Smári - 2. deild  - livey
+DTSTART:20260529T191500
+DTEND:20260529T201500
+DTSTAMP:20260529T191500Z
+UID:2026-05-29T19:15:00/Afturelding - Smári
+DESCRIPTION:Afturelding - Smári - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skotland - Curaçao - Landsleikur - viaplay
 DTSTART:20260530T115000
 DTEND:20260530T125000
 DTSTAMP:20260530T115000Z
 UID:2026-05-30T11:50:00/Skotland - Curaçao
 DESCRIPTION:Skotland - Curaçao - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - Einherji - 2. deild  - livey
+DTSTART:20260530T123000
+DTEND:20260530T133000
+DTSTAMP:20260530T123000Z
+UID:2026-05-30T12:30:00/Fjölnir - Einherji
+DESCRIPTION:Fjölnir - Einherji - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Djurgården - Eskilstuna - OBOS Damallsvenskan - viaplay
@@ -99,28 +115,20 @@ UID:2026-05-30T12:50:00/Uppsala - AIK
 DESCRIPTION:Uppsala - AIK - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Fram - Besta deild kvenna - synsportisland3
-DTSTART:20260530T135000
-DTEND:20260530T145000
-DTSTAMP:20260530T135000Z
-UID:2026-05-30T13:50:00/FH - Fram
-DESCRIPTION:FH - Fram - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór/KA - Víkingur R. - Besta deild kvenna - synsportisland
-DTSTART:20260530T135000
-DTEND:20260530T145000
-DTSTAMP:20260530T135000Z
-UID:2026-05-30T13:50:00/Þór/KA - Víkingur R.
-DESCRIPTION:Þór/KA - Víkingur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stjarnan - ÍBV - Besta deild kvenna - synsportisland4
 DTSTART:20260530T135000
 DTEND:20260530T145000
 DTSTAMP:20260530T135000Z
 UID:2026-05-30T13:50:00/Stjarnan - ÍBV
 DESCRIPTION:Stjarnan - ÍBV - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Fram - Besta deild kvenna - synsportisland3
+DTSTART:20260530T135000
+DTEND:20260530T145000
+DTSTAMP:20260530T135000Z
+UID:2026-05-30T13:50:00/FH - Fram
+DESCRIPTION:FH - Fram - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík/Njarðvík - Breiðablik - Besta deild kvenna - synspor
@@ -132,12 +140,20 @@ UID:2026-05-30T13:50:00/Grindavík/Njarðvík - Breiðablik
 DESCRIPTION:Grindavík/Njarðvík - Breiðablik - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - ÍA - Lengjudeildin - livey
+SUMMARY:Þór/KA - Víkingur R. - Besta deild kvenna - synsportisland
+DTSTART:20260530T135000
+DTEND:20260530T145000
+DTSTAMP:20260530T135000Z
+UID:2026-05-30T13:50:00/Þór/KA - Víkingur R.
+DESCRIPTION:Þór/KA - Víkingur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fylkir - Vestri - 2. deild  - livey
 DTSTART:20260530T140000
 DTEND:20260530T150000
 DTSTAMP:20260530T140000Z
-UID:2026-05-30T14:00:00/Keflavík - ÍA
-DESCRIPTION:Keflavík - ÍA - Lengjudeildin
+UID:2026-05-30T14:00:00/Fylkir - Vestri
+DESCRIPTION:Fylkir - Vestri - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KR - HK - Lengjudeildin - livey
@@ -156,12 +172,12 @@ UID:2026-05-30T14:00:00/FHL - Haukar
 DESCRIPTION:FHL - Haukar - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PSG - Arsenal - Champions League - viaplay
-DTSTART:20260530T151500
-DTEND:20260530T161500
-DTSTAMP:20260530T151500Z
-UID:2026-05-30T15:15:00/PSG - Arsenal
-DESCRIPTION:PSG - Arsenal - Champions League
+SUMMARY:Keflavík - ÍA - Lengjudeildin - livey
+DTSTART:20260530T140000
+DTEND:20260530T150000
+DTSTAMP:20260530T140000Z
+UID:2026-05-30T14:00:00/Keflavík - ÍA
+DESCRIPTION:Keflavík - ÍA - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeild Evrópu - Upphitun - Meistaradeild Evrópu - Upphitu
@@ -174,12 +190,28 @@ DESCRIPTION:Meistaradeild Evrópu - Upphitun - Meistaradeild Evrópu - Upp
  hitun
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PSG - Arsenal - Champions League - viaplay
+DTSTART:20260530T151500
+DTEND:20260530T161500
+DTSTAMP:20260530T151500Z
+UID:2026-05-30T15:15:00/PSG - Arsenal
+DESCRIPTION:PSG - Arsenal - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PSG - Arsenal - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20260530T155000
 DTEND:20260530T165000
 DTSTAMP:20260530T155000Z
 UID:2026-05-30T15:50:00/PSG - Arsenal
 DESCRIPTION:PSG - Arsenal - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dalvík/Reynir - KFR - 2. deild  - livey
+DTSTART:20260530T160000
+DTEND:20260530T170000
+DTSTAMP:20260530T160000Z
+UID:2026-05-30T16:00:00/Dalvík/Reynir - KFR
+DESCRIPTION:Dalvík/Reynir - KFR - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Selfoss - Völsungur - Lengjudeildin - livey
@@ -215,20 +247,20 @@ UID:2026-05-30T20:00:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Japan - Ísland - Vináttulandsleikur - synsport
-DTSTART:20260531T100000
-DTEND:20260531T110000
-DTSTAMP:20260531T100000Z
-UID:2026-05-31T10:00:00/Japan - Ísland
-DESCRIPTION:Japan - Ísland - Vináttulandsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japan - Ísland - Landsleikur - viaplay
 DTSTART:20260531T100000
 DTEND:20260531T110000
 DTSTAMP:20260531T100000Z
 UID:2026-05-31T10:00:00/Japan - Ísland
 DESCRIPTION:Japan - Ísland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Japan - Ísland - Vináttulandsleikur - synsport
+DTSTART:20260531T100000
+DTEND:20260531T110000
+DTSTAMP:20260531T100000Z
+UID:2026-05-31T10:00:00/Japan - Ísland
+DESCRIPTION:Japan - Ísland - Vináttulandsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rosengård - Brommapojkarna - OBOS Damallsvenskan - viaplay
@@ -279,20 +311,20 @@ UID:2026-05-31T13:50:00/Tékkland - Kósovó
 DESCRIPTION:Tékkland - Kósovó - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Völsungur - Ægir - Lengjudeildin - livey
-DTSTART:20260531T140000
-DTEND:20260531T150000
-DTSTAMP:20260531T140000Z
-UID:2026-05-31T14:00:00/Völsungur - Ægir
-DESCRIPTION:Völsungur - Ægir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - Vestri - Lengjudeildin - livey
 DTSTART:20260531T140000
 DTEND:20260531T150000
 DTSTAMP:20260531T140000Z
 UID:2026-05-31T14:00:00/ÍR - Vestri
 DESCRIPTION:ÍR - Vestri - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Völsungur - Ægir - Lengjudeildin - livey
+DTSTART:20260531T140000
+DTEND:20260531T150000
+DTSTAMP:20260531T140000Z
+UID:2026-05-31T14:00:00/Völsungur - Ægir
+DESCRIPTION:Völsungur - Ægir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pólland - Úkraína - Landsleikur - viaplay
@@ -311,12 +343,12 @@ UID:2026-05-31T15:20:00/Pólland - Úkraína
 DESCRIPTION:Pólland - Úkraína - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Subway messan - Besta deild karla - synsportisland
+SUMMARY:KR - KA - Besta deild karla - synsportisland3
 DTSTART:20260531T165000
 DTEND:20260531T175000
 DTSTAMP:20260531T165000Z
-UID:2026-05-31T16:50:00/Subway messan
-DESCRIPTION:Subway messan - Besta deild karla
+UID:2026-05-31T16:50:00/KR - KA
+DESCRIPTION:KR - KA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Ak. - Stjarnan - Besta deild karla - synsportisland4
@@ -327,20 +359,20 @@ UID:2026-05-31T16:50:00/Þór Ak. - Stjarnan
 DESCRIPTION:Þór Ak. - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KR - KA - Besta deild karla - synsportisland3
-DTSTART:20260531T165000
-DTEND:20260531T175000
-DTSTAMP:20260531T165000Z
-UID:2026-05-31T16:50:00/KR - KA
-DESCRIPTION:KR - KA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - Keflavík - Besta deild karla - synsportisland2
 DTSTART:20260531T165000
 DTEND:20260531T175000
 DTSTAMP:20260531T165000Z
 UID:2026-05-31T16:50:00/ÍBV - Keflavík
 DESCRIPTION:ÍBV - Keflavík - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Subway messan - Besta deild karla - synsportisland
+DTSTART:20260531T165000
+DTEND:20260531T175000
+DTSTAMP:20260531T165000Z
+UID:2026-05-31T16:50:00/Subway messan
+DESCRIPTION:Subway messan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leiknir R. - HK - Lengjudeildin - livey
@@ -351,20 +383,20 @@ UID:2026-05-31T17:00:00/Leiknir R. - HK
 DESCRIPTION:Leiknir R. - HK - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Finnland - Æfingaleikur - synsportviaplay
-DTSTART:20260531T183500
-DTEND:20260531T193500
-DTSTAMP:20260531T183500Z
-UID:2026-05-31T18:35:00/Þýskaland - Finnland
-DESCRIPTION:Þýskaland - Finnland - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þýskaland - Finnland - Landsleikur - viaplay
 DTSTART:20260531T183500
 DTEND:20260531T193500
 DTSTAMP:20260531T183500Z
 UID:2026-05-31T18:35:00/Þýskaland - Finnland
 DESCRIPTION:Þýskaland - Finnland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þýskaland - Finnland - Æfingaleikur - synsportviaplay
+DTSTART:20260531T183500
+DTEND:20260531T193500
+DTSTAMP:20260531T183500Z
+UID:2026-05-31T18:35:00/Þýskaland - Finnland
+DESCRIPTION:Þýskaland - Finnland - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Víkingur R. - Besta deild karla - synsportisland
@@ -415,20 +447,20 @@ UID:2026-06-01T15:50:00/Slóvakía - Malta
 DESCRIPTION:Slóvakía - Malta - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Noregur - Svíþjóð - Landsleikur - viaplay
-DTSTART:20260601T165000
-DTEND:20260601T175000
-DTSTAMP:20260601T165000Z
-UID:2026-06-01T16:50:00/Noregur - Svíþjóð
-DESCRIPTION:Noregur - Svíþjóð - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Noregur - Svíþjóð - Æfingaleikur - synsportviaplay
 DTSTART:20260601T165000
 DTEND:20260601T175000
 DTSTAMP:20260601T165000Z
 UID:2026-06-01T16:50:00/Noregur - Svíþjóð
 DESCRIPTION:Noregur - Svíþjóð - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noregur - Svíþjóð - Landsleikur - viaplay
+DTSTART:20260601T165000
+DTEND:20260601T175000
+DTSTAMP:20260601T165000Z
+UID:2026-06-01T16:50:00/Noregur - Svíþjóð
+DESCRIPTION:Noregur - Svíþjóð - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tyrkland - Norður-Makedónía - Landsleikur - viaplay
@@ -527,6 +559,14 @@ UID:2026-06-03T17:50:00/Danmörk - Kongó
 DESCRIPTION:Danmörk - Kongó - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Albanía - Ísrael - Landsleikur - viaplay
+DTSTART:20260603T175000
+DTEND:20260603T185000
+DTSTAMP:20260603T175000Z
+UID:2026-06-03T17:50:00/Albanía - Ísrael
+DESCRIPTION:Albanía - Ísrael - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Danmörk - Lýðstjórnarlýðveldið Kongó - Landsleikur - viapl
  ay
 DTSTART:20260603T175000
@@ -534,14 +574,6 @@ DTEND:20260603T185000
 DTSTAMP:20260603T175000Z
 UID:2026-06-03T17:50:00/Danmörk - Lýðstjórnarlýðveldið Kongó
 DESCRIPTION:Danmörk - Lýðstjórnarlýðveldið Kongó - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Albanía - Ísrael - Landsleikur - viaplay
-DTSTART:20260603T175000
-DTEND:20260603T185000
-DTSTAMP:20260603T175000Z
-UID:2026-06-03T17:50:00/Albanía - Ísrael
-DESCRIPTION:Albanía - Ísrael - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lúxemborg - Ítalía - Landsleikur - viaplay
@@ -566,5 +598,77 @@ DTEND:20260603T193500
 DTSTAMP:20260603T183500Z
 UID:2026-06-03T18:35:00/Pólland - Nígería
 DESCRIPTION:Pólland - Nígería - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slóvenía - Kýpur - Landsleikur - viaplay
+DTSTART:20260604T155000
+DTEND:20260604T165000
+DTSTAMP:20260604T155000Z
+UID:2026-06-04T15:50:00/Slóvenía - Kýpur
+DESCRIPTION:Slóvenía - Kýpur - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norður-Írland - Gínea - Landsleikur - viaplay
+DTSTART:20260604T155000
+DTEND:20260604T165000
+DTSTAMP:20260604T155000Z
+UID:2026-06-04T15:50:00/Norður-Írland - Gínea
+DESCRIPTION:Norður-Írland - Gínea - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andorra - Liechtenstein - Landsleikur - viaplay
+DTSTART:20260604T165000
+DTEND:20260604T175000
+DTSTAMP:20260604T165000Z
+UID:2026-06-04T16:50:00/Andorra - Liechtenstein
+DESCRIPTION:Andorra - Liechtenstein - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svíþjóð - Grikkland - Æfingaleikur - synsportviaplay
+DTSTART:20260604T165000
+DTEND:20260604T175000
+DTSTAMP:20260604T165000Z
+UID:2026-06-04T16:50:00/Svíþjóð - Grikkland
+DESCRIPTION:Svíþjóð - Grikkland - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svíþjóð - Grikkland - Landsleikur - viaplay
+DTSTART:20260604T165000
+DTEND:20260604T175000
+DTSTAMP:20260604T165000Z
+UID:2026-06-04T16:50:00/Svíþjóð - Grikkland
+DESCRIPTION:Svíþjóð - Grikkland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spánn - Írak - Landsleikur - viaplay
+DTSTART:20260604T185000
+DTEND:20260604T195000
+DTSTAMP:20260604T185000Z
+UID:2026-06-04T18:50:00/Spánn - Írak
+DESCRIPTION:Spánn - Írak - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Fílabeinsströndin - Æfingaleikur - synsportviaplay
+DTSTART:20260604T190000
+DTEND:20260604T200000
+DTSTAMP:20260604T190000Z
+UID:2026-06-04T19:00:00/Frakkland - Fílabeinsströndin
+DESCRIPTION:Frakkland - Fílabeinsströndin - Æfingaleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Fílabeinsströndin - Landsleikur - viaplay
+DTSTART:20260604T190000
+DTEND:20260604T200000
+DTSTAMP:20260604T190000Z
+UID:2026-06-04T19:00:00/Frakkland - Fílabeinsströndin
+DESCRIPTION:Frakkland - Fílabeinsströndin - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tékkland - Gvatemala - Landsleikur - viaplay
+DTSTART:20260604T235000
+DTEND:20260605T005000
+DTSTAMP:20260604T235000Z
+UID:2026-06-04T23:50:00/Tékkland - Gvatemala
+DESCRIPTION:Tékkland - Gvatemala - Landsleikur
 END:VEVENT
 END:VCALENDAR
