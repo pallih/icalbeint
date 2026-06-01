@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - MotoGP - ical
 BEGIN:VEVENT
-SUMMARY:Ítalíukappaksturinn (Warm Up) - MotoGP - viaplay
-DTSTART:20260531T073500
-DTEND:20260531T083500
-DTSTAMP:20260531T073500Z
-UID:2026-05-31T07:35:00/Ítalíukappaksturinn (Warm Up)
-DESCRIPTION:Ítalíukappaksturinn (Warm Up) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ítalíukappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20260531T111500
-DTEND:20260531T121500
-DTSTAMP:20260531T111500Z
-UID:2026-05-31T11:15:00/Ítalíukappaksturinn (Kappakstur)
-DESCRIPTION:Ítalíukappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ungverski Kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
 DTSTART:20260605T083500
 DTEND:20260605T093500
@@ -56,5 +40,21 @@ DTEND:20260606T133500
 DTSTAMP:20260606T123500Z
 UID:2026-06-06T12:35:00/Ungverski Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Ungverski Kappaksturinn (Sprettkeppni) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverski Kappaksturinn (Warm Up) - MotoGP - viaplay
+DTSTART:20260607T073500
+DTEND:20260607T083500
+DTSTAMP:20260607T073500Z
+UID:2026-06-07T07:35:00/Ungverski Kappaksturinn (Warm Up)
+DESCRIPTION:Ungverski Kappaksturinn (Warm Up) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverski Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20260607T111500
+DTEND:20260607T121500
+DTSTAMP:20260607T111500Z
+UID:2026-06-07T11:15:00/Ungverski Kappaksturinn (Kappakstur)
+DESCRIPTION:Ungverski Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 END:VCALENDAR

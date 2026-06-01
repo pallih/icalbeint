@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Chevrolet Detroit Grand Prix (Warm Up) - IndyCar - viaplay
-DTSTART:20260531T133000
-DTEND:20260531T143000
-DTSTAMP:20260531T133000Z
-UID:2026-05-31T13:30:00/Chevrolet Detroit Grand Prix (Warm Up)
-DESCRIPTION:Chevrolet Detroit Grand Prix (Warm Up) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chevrolet Detroit Grand Prix (Kappakstur) - IndyCar - viaplay
-DTSTART:20260531T163000
-DTEND:20260531T173000
-DTSTAMP:20260531T163000Z
-UID:2026-05-31T16:30:00/Chevrolet Detroit Grand Prix (Kappakstur)
-DESCRIPTION:Chevrolet Detroit Grand Prix (Kappakstur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bommarito Automotive Group 500 (Æfing 1) - IndyCar - viaplay
 DTSTART:20260606T163000
 DTEND:20260606T173000
@@ -32,5 +16,21 @@ DTEND:20260606T213000
 DTSTAMP:20260606T203000Z
 UID:2026-06-06T20:30:00/Bommarito Automotive Group 500 (Tímatökur)
 DESCRIPTION:Bommarito Automotive Group 500 (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bommarito Automotive Group 500 (Æfing 2) - IndyCar - viaplay
+DTSTART:20260607T000000
+DTEND:20260607T010000
+DTSTAMP:20260607T000000Z
+UID:2026-06-07T00:00:00/Bommarito Automotive Group 500 (Æfing 2)
+DESCRIPTION:Bommarito Automotive Group 500 (Æfing 2) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bommarito Automotive Group 500 (Æfing 3) - IndyCar - viaplay
+DTSTART:20260607T010000
+DTEND:20260607T020000
+DTSTAMP:20260607T010000Z
+UID:2026-06-07T01:00:00/Bommarito Automotive Group 500 (Æfing 3)
+DESCRIPTION:Bommarito Automotive Group 500 (Æfing 3) - IndyCar
 END:VEVENT
 END:VCALENDAR
