@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Mariners - Mets - Major League Baseball - viaplay
-DTSTART:20260602T013000
-DTEND:20260602T023000
-DTSTAMP:20260602T013000Z
-UID:2026-06-02T01:30:00/Mariners - Mets
-DESCRIPTION:Mariners - Mets - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20260602T100000
-DTEND:20260602T110000
-DTSTAMP:20260602T100000Z
-UID:2026-06-02T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Króatía - Belgía - Landsleikur - viaplay
-DTSTART:20260602T155000
-DTEND:20260602T165000
-DTSTAMP:20260602T155000Z
-UID:2026-06-02T15:50:00/Króatía - Belgía
-DESCRIPTION:Króatía - Belgía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgía - Rúmenía - Landsleikur - viaplay
-DTSTART:20260602T165000
-DTEND:20260602T175000
-DTSTAMP:20260602T165000Z
-UID:2026-06-02T16:50:00/Georgía - Rúmenía
-DESCRIPTION:Georgía - Rúmenía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wales - Gana - Landsleikur - viaplay
-DTSTART:20260602T183500
-DTEND:20260602T193500
-DTSTAMP:20260602T183500Z
-UID:2026-06-02T18:35:00/Wales - Gana
-DESCRIPTION:Wales - Gana - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red Sox - Orioles - Major League Baseball - viaplay
-DTSTART:20260602T223000
-DTEND:20260602T233000
-DTSTAMP:20260602T223000Z
-UID:2026-06-02T22:30:00/Red Sox - Orioles
-DESCRIPTION:Red Sox - Orioles - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carolina - Vegas - NHL - viaplay
 DTSTART:20260603T000500
 DTEND:20260603T010500
@@ -90,14 +42,6 @@ UID:2026-06-03T17:00:00/Rays - Tigers
 DESCRIPTION:Rays - Tigers - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Albanía - Ísrael - Landsleikur - viaplay
-DTSTART:20260603T175000
-DTEND:20260603T185000
-DTSTAMP:20260603T175000Z
-UID:2026-06-03T17:50:00/Albanía - Ísrael
-DESCRIPTION:Albanía - Ísrael - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Danmörk - Lýðstjórnarlýðveldið Kongó - Landsleikur - viapl
  ay
 DTSTART:20260603T175000
@@ -107,20 +51,20 @@ UID:2026-06-03T17:50:00/Danmörk - Lýðstjórnarlýðveldið Kongó
 DESCRIPTION:Danmörk - Lýðstjórnarlýðveldið Kongó - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Albanía - Ísrael - Landsleikur - viaplay
+DTSTART:20260603T175000
+DTEND:20260603T185000
+DTSTAMP:20260603T175000Z
+UID:2026-06-03T17:50:00/Albanía - Ísrael
+DESCRIPTION:Albanía - Ísrael - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magdeburg - Gummersbach - Bundesliga - viaplay
 DTSTART:20260603T175500
 DTEND:20260603T185500
 DTSTAMP:20260603T175500Z
 UID:2026-06-03T17:55:00/Magdeburg - Gummersbach
 DESCRIPTION:Magdeburg - Gummersbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holland - Alsír - Landsleikur - viaplay
-DTSTART:20260603T183500
-DTEND:20260603T193500
-DTSTAMP:20260603T183500Z
-UID:2026-06-03T18:35:00/Holland - Alsír
-DESCRIPTION:Holland - Alsír - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pólland - Nígería - Landsleikur - viaplay
@@ -137,6 +81,14 @@ DTEND:20260603T193500
 DTSTAMP:20260603T183500Z
 UID:2026-06-03T18:35:00/Lúxemborg - Ítalía
 DESCRIPTION:Lúxemborg - Ítalía - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Alsír - Landsleikur - viaplay
+DTSTART:20260603T183500
+DTEND:20260603T193500
+DTSTAMP:20260603T183500Z
+UID:2026-06-03T18:35:00/Holland - Alsír
+DESCRIPTION:Holland - Alsír - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yankees - Guardians - Major League Baseball - viaplay
@@ -163,14 +115,6 @@ UID:2026-06-04T11:00:00/LIV Golf Andalucía
 DESCRIPTION:LIV Golf Andalucía - LIV Golf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slóvenía - Kýpur - Landsleikur - viaplay
-DTSTART:20260604T155000
-DTEND:20260604T165000
-DTSTAMP:20260604T155000Z
-UID:2026-06-04T15:50:00/Slóvenía - Kýpur
-DESCRIPTION:Slóvenía - Kýpur - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Norður-Írland - Gínea - Landsleikur - viaplay
 DTSTART:20260604T155000
 DTEND:20260604T165000
@@ -179,12 +123,12 @@ UID:2026-06-04T15:50:00/Norður-Írland - Gínea
 DESCRIPTION:Norður-Írland - Gínea - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andorra - Liechtenstein - Landsleikur - viaplay
-DTSTART:20260604T165000
-DTEND:20260604T175000
-DTSTAMP:20260604T165000Z
-UID:2026-06-04T16:50:00/Andorra - Liechtenstein
-DESCRIPTION:Andorra - Liechtenstein - Landsleikur
+SUMMARY:Slóvenía - Kýpur - Landsleikur - viaplay
+DTSTART:20260604T155000
+DTEND:20260604T165000
+DTSTAMP:20260604T155000Z
+UID:2026-06-04T15:50:00/Slóvenía - Kýpur
+DESCRIPTION:Slóvenía - Kýpur - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Svíþjóð - Grikkland - Landsleikur - viaplay
@@ -193,6 +137,14 @@ DTEND:20260604T175000
 DTSTAMP:20260604T165000Z
 UID:2026-06-04T16:50:00/Svíþjóð - Grikkland
 DESCRIPTION:Svíþjóð - Grikkland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andorra - Liechtenstein - Landsleikur - viaplay
+DTSTART:20260604T165000
+DTEND:20260604T175000
+DTSTAMP:20260604T165000Z
+UID:2026-06-04T16:50:00/Andorra - Liechtenstein
+DESCRIPTION:Andorra - Liechtenstein - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phillies - Padres - Major League Baseball - viaplay
@@ -315,6 +267,22 @@ UID:2026-06-05T11:25:00/Mónakó Kappaksturinn (Æfing 1)
 DESCRIPTION:Mónakó Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Mónakó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260605T113000
+DTEND:20260605T123000
+DTSTAMP:20260605T113000Z
+UID:2026-06-05T11:30:00/Pitlane (Mónakó Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Mónakó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260605T113000
+DTEND:20260605T123000
+DTSTAMP:20260605T113000Z
+UID:2026-06-05T11:30:00/Onboard (Mónakó Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Mónakó Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Mónakó Kappaksturinn | Æfing 1) - Formula 1 
  - viaplay
 DTSTART:20260605T113000
@@ -326,28 +294,12 @@ DESCRIPTION:Track Positioning (Mónakó Kappaksturinn | Æfing 1) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Mónakó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260605T113000
-DTEND:20260605T123000
-DTSTAMP:20260605T113000Z
-UID:2026-06-05T11:30:00/Pitlane (Mónakó Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Mónakó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20260605T113000
 DTEND:20260605T123000
 DTSTAMP:20260605T113000Z
 UID:2026-06-05T11:30:00/Timing (Mónakó Kappaksturinn | Æfing 1)
 DESCRIPTION:Timing (Mónakó Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Mónakó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260605T113000
-DTEND:20260605T123000
-DTSTAMP:20260605T113000Z
-UID:2026-06-05T11:30:00/Onboard (Mónakó Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Mónakó Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ungverski Kappaksturinn (Æfing) - Moto2 - viaplay
@@ -382,12 +334,12 @@ UID:2026-06-05T14:55:00/Mónakó Kappaksturinn (Æfing 2)
 DESCRIPTION:Mónakó Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Mónakó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+SUMMARY:Timing (Mónakó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20260605T150000
 DTEND:20260605T160000
 DTSTAMP:20260605T150000Z
-UID:2026-06-05T15:00:00/Onboard (Mónakó Kappaksturinn | Æfing 2)
-DESCRIPTION:Onboard (Mónakó Kappaksturinn | Æfing 2) - Formula 1
+UID:2026-06-05T15:00:00/Timing (Mónakó Kappaksturinn | Æfing 2)
+DESCRIPTION:Timing (Mónakó Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Mónakó Kappaksturinn | Æfing 2) - Formula 1 
@@ -401,6 +353,14 @@ DESCRIPTION:Track Positioning (Mónakó Kappaksturinn | Æfing 2) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Mónakó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+DTSTART:20260605T150000
+DTEND:20260605T160000
+DTSTAMP:20260605T150000Z
+UID:2026-06-05T15:00:00/Onboard (Mónakó Kappaksturinn | Æfing 2)
+DESCRIPTION:Onboard (Mónakó Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Mónakó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20260605T150000
 DTEND:20260605T160000
@@ -409,12 +369,12 @@ UID:2026-06-05T15:00:00/Pitlane (Mónakó Kappaksturinn | Æfing 2)
 DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Mónakó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
-DTSTART:20260605T150000
-DTEND:20260605T160000
-DTSTAMP:20260605T150000Z
-UID:2026-06-05T15:00:00/Timing (Mónakó Kappaksturinn | Æfing 2)
-DESCRIPTION:Timing (Mónakó Kappaksturinn | Æfing 2) - Formula 1
+SUMMARY:Hvíta-Rússland - Syria - Landsleikur - viaplay
+DTSTART:20260605T155000
+DTEND:20260605T165000
+DTSTAMP:20260605T155000Z
+UID:2026-06-05T15:50:00/Hvíta-Rússland - Syria
+DESCRIPTION:Hvíta-Rússland - Syria - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Georgía - Barein - Landsleikur - viaplay
@@ -423,14 +383,6 @@ DTEND:20260605T165000
 DTSTAMP:20260605T155000Z
 UID:2026-06-05T15:50:00/Georgía - Barein
 DESCRIPTION:Georgía - Barein - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hvíta-Rússland - Syria - Landsleikur - viaplay
-DTSTART:20260605T155000
-DTEND:20260605T165000
-DTSTAMP:20260605T155000Z
-UID:2026-06-05T15:50:00/Hvíta-Rússland - Syria
-DESCRIPTION:Hvíta-Rússland - Syria - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slóvakía - Svartfjallaland - Landsleikur - viaplay
@@ -449,20 +401,20 @@ UID:2026-06-05T16:40:00/Monaco (Tímatökur)
 DESCRIPTION:Monaco (Tímatökur) - Porsche Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Marino - Bangladesh - Landsleikur - viaplay
-DTSTART:20260605T165000
-DTEND:20260605T175000
-DTSTAMP:20260605T165000Z
-UID:2026-06-05T16:50:00/San Marino - Bangladesh
-DESCRIPTION:San Marino - Bangladesh - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Moldóva - Búlgaría - Landsleikur - viaplay
 DTSTART:20260605T165000
 DTEND:20260605T175000
 DTSTAMP:20260605T165000Z
 UID:2026-06-05T16:50:00/Moldóva - Búlgaría
 DESCRIPTION:Moldóva - Búlgaría - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marino - Bangladesh - Landsleikur - viaplay
+DTSTART:20260605T165000
+DTEND:20260605T175000
+DTSTAMP:20260605T165000Z
+UID:2026-06-05T16:50:00/San Marino - Bangladesh
+DESCRIPTION:San Marino - Bangladesh - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nordic Darts Masters - PDC Darts - viaplay
@@ -569,6 +521,33 @@ UID:2026-06-06T10:30:00/Pitlane (Mónakó Kappaksturinn | Æfing 3)
 DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Mónakó Kappaksturinn | Æfing 3) - Formula 1 
+ - viaplay
+DTSTART:20260606T103000
+DTEND:20260606T113000
+DTSTAMP:20260606T103000Z
+UID:2026-06-06T10:30:00/Track Positioning (Mónakó Kappaksturinn | Æfing
+  3)
+DESCRIPTION:Track Positioning (Mónakó Kappaksturinn | Æfing 3) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Mónakó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20260606T103000
+DTEND:20260606T113000
+DTSTAMP:20260606T103000Z
+UID:2026-06-06T10:30:00/Timing (Mónakó Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Mónakó Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Mónakó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20260606T103000
+DTEND:20260606T113000
+DTSTAMP:20260606T103000Z
+UID:2026-06-06T10:30:00/Onboard (Mónakó Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Mónakó Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ungverski Kappaksturinn (Tímatökur) - Moto3 - viaplay
 DTSTART:20260606T104000
 DTEND:20260606T114000
@@ -609,20 +588,20 @@ UID:2026-06-06T12:35:00/Ungverski Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Ungverski Kappaksturinn (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belgía - Túnis - Landsleikur - viaplay
-DTSTART:20260606T125000
-DTEND:20260606T135000
-DTSTAMP:20260606T125000Z
-UID:2026-06-06T12:50:00/Belgía - Túnis
-DESCRIPTION:Belgía - Túnis - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Litháen - Lettland - Landsleikur - viaplay
 DTSTART:20260606T125000
 DTEND:20260606T135000
 DTSTAMP:20260606T125000Z
 UID:2026-06-06T12:50:00/Litháen - Lettland
 DESCRIPTION:Litháen - Lettland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belgía - Túnis - Landsleikur - viaplay
+DTSTART:20260606T125000
+DTEND:20260606T135000
+DTSTAMP:20260606T125000Z
+UID:2026-06-06T12:50:00/Belgía - Túnis
+DESCRIPTION:Belgía - Túnis - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slovakiaring (Kappakstur 1) - FIA European Truck Racing Championsh
@@ -649,6 +628,44 @@ DTEND:20260606T145500
 DTSTAMP:20260606T135500Z
 UID:2026-06-06T13:55:00/Mónakó Kappaksturinn (Tímatökur)
 DESCRIPTION:Mónakó Kappaksturinn (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Mónakó Kappaksturinn | Tímatökur) - Formula
+  1 - viaplay
+DTSTART:20260606T140000
+DTEND:20260606T150000
+DTSTAMP:20260606T140000Z
+UID:2026-06-06T14:00:00/Track Positioning (Mónakó Kappaksturinn | Tímat
+ ökur)
+DESCRIPTION:Track Positioning (Mónakó Kappaksturinn | Tímatökur) - For
+ mula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Mónakó Kappaksturinn | Tímatökur) - Formula 1 - viapla
+ y
+DTSTART:20260606T140000
+DTEND:20260606T150000
+DTSTAMP:20260606T140000Z
+UID:2026-06-06T14:00:00/Timing (Mónakó Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Mónakó Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Mónakó Kappaksturinn | Tímatökur) - Formula 1 - viapl
+ ay
+DTSTART:20260606T140000
+DTEND:20260606T150000
+DTSTAMP:20260606T140000Z
+UID:2026-06-06T14:00:00/Onboard (Mónakó Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Mónakó Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Mónakó Kappaksturinn | Tímatökur) - Formula 1 - viapl
+ ay
+DTSTART:20260606T140000
+DTEND:20260606T150000
+DTSTAMP:20260606T140000Z
+UID:2026-06-06T14:00:00/Pitlane (Mónakó Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Betfred Derby - Crown Jewels Racing - viaplay
@@ -790,10 +807,10 @@ DESCRIPTION:Gateway (Tímatökur) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belmont Stakes - Triple Crown - viaplay
-DTSTART:20260606T223000
-DTEND:20260606T233000
-DTSTAMP:20260606T223000Z
-UID:2026-06-06T22:30:00/Belmont Stakes
+DTSTART:20260606T220000
+DTEND:20260606T230000
+DTSTAMP:20260606T220000Z
+UID:2026-06-06T22:00:00/Belmont Stakes
 DESCRIPTION:Belmont Stakes - Triple Crown
 END:VEVENT
 BEGIN:VEVENT
@@ -886,20 +903,20 @@ UID:2026-06-07T09:50:00/Monaco (Kappakstur)
 DESCRIPTION:Monaco (Kappakstur) - Porsche Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ungverski Kappaksturinn (Kappakstur) - Moto2 - viaplay
-DTSTART:20260607T100000
-DTEND:20260607T110000
-DTSTAMP:20260607T100000Z
-UID:2026-06-07T10:00:00/Ungverski Kappaksturinn (Kappakstur)
-DESCRIPTION:Ungverski Kappaksturinn (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
 DTSTART:20260607T100000
 DTEND:20260607T110000
 DTSTAMP:20260607T100000Z
 UID:2026-06-07T10:00:00/NHL Tonight
 DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverski Kappaksturinn (Kappakstur) - Moto2 - viaplay
+DTSTART:20260607T100000
+DTEND:20260607T110000
+DTSTAMP:20260607T100000Z
+UID:2026-06-07T10:00:00/Ungverski Kappaksturinn (Kappakstur)
+DESCRIPTION:Ungverski Kappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIV Golf Andalucía - LIV Golf - viaplay
@@ -944,14 +961,6 @@ UID:2026-06-07T12:50:00/Liechtenstein - Kýpur
 DESCRIPTION:Liechtenstein - Kýpur - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wetzlar - Magdeburg - Bundesliga - viaplay
-DTSTART:20260607T125500
-DTEND:20260607T135500
-DTSTAMP:20260607T125500Z
-UID:2026-06-07T12:55:00/Wetzlar - Magdeburg
-DESCRIPTION:Wetzlar - Magdeburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1 Kids: Monaco Grand Prix (Kappakstur) - Formula 1 - viaplay
 DTSTART:20260607T125500
 DTEND:20260607T135500
@@ -966,6 +975,51 @@ DTEND:20260607T135500
 DTSTAMP:20260607T125500Z
 UID:2026-06-07T12:55:00/Füchse Berlin - Flensburg-Handewitt
 DESCRIPTION:Füchse Berlin - Flensburg-Handewitt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wetzlar - Magdeburg - Bundesliga - viaplay
+DTSTART:20260607T125500
+DTEND:20260607T135500
+DTSTAMP:20260607T125500Z
+UID:2026-06-07T12:55:00/Wetzlar - Magdeburg
+DESCRIPTION:Wetzlar - Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Mónakó Kappaksturinn | Kappakstur) - Formula 1 - viapla
+ y
+DTSTART:20260607T130000
+DTEND:20260607T140000
+DTSTAMP:20260607T130000Z
+UID:2026-06-07T13:00:00/Onboard (Mónakó Kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Mónakó Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Mónakó Kappaksturinn | Kappakstur) - Formula 1 - viapla
+ y
+DTSTART:20260607T130000
+DTEND:20260607T140000
+DTSTAMP:20260607T130000Z
+UID:2026-06-07T13:00:00/Pitlane (Mónakó Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Mónakó Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20260607T130000
+DTEND:20260607T140000
+DTSTAMP:20260607T130000Z
+UID:2026-06-07T13:00:00/Timing (Mónakó Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Mónakó Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Mónakó Kappaksturinn | Kappakstur) - Formula 
+ 1 - viaplay
+DTSTART:20260607T130000
+DTEND:20260607T140000
+DTSTAMP:20260607T130000Z
+UID:2026-06-07T13:00:00/Track Positioning (Mónakó Kappaksturinn | Kappak
+ stur)
+DESCRIPTION:Track Positioning (Mónakó Kappaksturinn | Kappakstur) - Form
+ ula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slovakiaring (Kappakstur 4) - FIA European Truck Racing Championsh
@@ -1072,5 +1126,69 @@ DTEND:20260608T233000
 DTSTAMP:20260608T223000Z
 UID:2026-06-08T22:30:00/Orioles - Mariners
 DESCRIPTION:Orioles - Mariners - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perú - Spánn - Landsleikur - viaplay
+DTSTART:20260609T015000
+DTEND:20260609T025000
+DTSTAMP:20260609T015000Z
+UID:2026-06-09T01:50:00/Perú - Spánn
+DESCRIPTION:Perú - Spánn - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics - Brewers - Major League Baseball - viaplay
+DTSTART:20260609T020000
+DTEND:20260609T030000
+DTSTAMP:20260609T020000Z
+UID:2026-06-09T02:00:00/Athletics - Brewers
+DESCRIPTION:Athletics - Brewers - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20260609T100000
+DTEND:20260609T110000
+DTSTAMP:20260609T100000Z
+UID:2026-06-09T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Armenía - Moldóva - Landsleikur - viaplay
+DTSTART:20260609T155000
+DTEND:20260609T165000
+DTSTAMP:20260609T155000Z
+UID:2026-06-09T15:50:00/Armenía - Moldóva
+DESCRIPTION:Armenía - Moldóva - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hvíta-Rússland - Búrkína Fasó - Landsleikur - viaplay
+DTSTART:20260609T162000
+DTEND:20260609T172000
+DTSTAMP:20260609T162000Z
+UID:2026-06-09T16:20:00/Hvíta-Rússland - Búrkína Fasó
+DESCRIPTION:Hvíta-Rússland - Búrkína Fasó - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverjaland - Kasakstan - Landsleikur - viaplay
+DTSTART:20260609T165000
+DTEND:20260609T175000
+DTSTAMP:20260609T165000Z
+UID:2026-06-09T16:50:00/Ungverjaland - Kasakstan
+DESCRIPTION:Ungverjaland - Kasakstan - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aserbaísjan - San Marínó - Landsleikur - viaplay
+DTSTART:20260609T175000
+DTEND:20260609T185000
+DTSTAMP:20260609T175000Z
+UID:2026-06-09T17:50:00/Aserbaísjan - San Marínó
+DESCRIPTION:Aserbaísjan - San Marínó - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pirates - Dodgers - Major League Baseball - viaplay
+DTSTART:20260609T223000
+DTEND:20260609T233000
+DTSTAMP:20260609T223000Z
+UID:2026-06-09T22:30:00/Pirates - Dodgers
+DESCRIPTION:Pirates - Dodgers - Major League Baseball
 END:VEVENT
 END:VCALENDAR

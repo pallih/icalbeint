@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Landsleikur - ical
 BEGIN:VEVENT
-SUMMARY:Króatía - Belgía - Landsleikur - viaplay
-DTSTART:20260602T155000
-DTEND:20260602T165000
-DTSTAMP:20260602T155000Z
-UID:2026-06-02T15:50:00/Króatía - Belgía
-DESCRIPTION:Króatía - Belgía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgía - Rúmenía - Landsleikur - viaplay
-DTSTART:20260602T165000
-DTEND:20260602T175000
-DTSTAMP:20260602T165000Z
-UID:2026-06-02T16:50:00/Georgía - Rúmenía
-DESCRIPTION:Georgía - Rúmenía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wales - Gana - Landsleikur - viaplay
-DTSTART:20260602T183500
-DTEND:20260602T193500
-DTSTAMP:20260602T183500Z
-UID:2026-06-02T18:35:00/Wales - Gana
-DESCRIPTION:Wales - Gana - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gíbraltar - Bresku Jómfrúaeyjar - Landsleikur - viaplay
 DTSTART:20260603T165000
 DTEND:20260603T175000
 DTSTAMP:20260603T165000Z
 UID:2026-06-03T16:50:00/Gíbraltar - Bresku Jómfrúaeyjar
 DESCRIPTION:Gíbraltar - Bresku Jómfrúaeyjar - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Albanía - Ísrael - Landsleikur - viaplay
-DTSTART:20260603T175000
-DTEND:20260603T185000
-DTSTAMP:20260603T175000Z
-UID:2026-06-03T17:50:00/Albanía - Ísrael
-DESCRIPTION:Albanía - Ísrael - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danmörk - Lýðstjórnarlýðveldið Kongó - Landsleikur - viapl
@@ -51,12 +19,12 @@ UID:2026-06-03T17:50:00/Danmörk - Lýðstjórnarlýðveldið Kongó
 DESCRIPTION:Danmörk - Lýðstjórnarlýðveldið Kongó - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holland - Alsír - Landsleikur - viaplay
-DTSTART:20260603T183500
-DTEND:20260603T193500
-DTSTAMP:20260603T183500Z
-UID:2026-06-03T18:35:00/Holland - Alsír
-DESCRIPTION:Holland - Alsír - Landsleikur
+SUMMARY:Albanía - Ísrael - Landsleikur - viaplay
+DTSTART:20260603T175000
+DTEND:20260603T185000
+DTSTAMP:20260603T175000Z
+UID:2026-06-03T17:50:00/Albanía - Ísrael
+DESCRIPTION:Albanía - Ísrael - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pólland - Nígería - Landsleikur - viaplay
@@ -75,12 +43,12 @@ UID:2026-06-03T18:35:00/Lúxemborg - Ítalía
 DESCRIPTION:Lúxemborg - Ítalía - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slóvenía - Kýpur - Landsleikur - viaplay
-DTSTART:20260604T155000
-DTEND:20260604T165000
-DTSTAMP:20260604T155000Z
-UID:2026-06-04T15:50:00/Slóvenía - Kýpur
-DESCRIPTION:Slóvenía - Kýpur - Landsleikur
+SUMMARY:Holland - Alsír - Landsleikur - viaplay
+DTSTART:20260603T183500
+DTEND:20260603T193500
+DTSTAMP:20260603T183500Z
+UID:2026-06-03T18:35:00/Holland - Alsír
+DESCRIPTION:Holland - Alsír - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norður-Írland - Gínea - Landsleikur - viaplay
@@ -91,12 +59,12 @@ UID:2026-06-04T15:50:00/Norður-Írland - Gínea
 DESCRIPTION:Norður-Írland - Gínea - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andorra - Liechtenstein - Landsleikur - viaplay
-DTSTART:20260604T165000
-DTEND:20260604T175000
-DTSTAMP:20260604T165000Z
-UID:2026-06-04T16:50:00/Andorra - Liechtenstein
-DESCRIPTION:Andorra - Liechtenstein - Landsleikur
+SUMMARY:Slóvenía - Kýpur - Landsleikur - viaplay
+DTSTART:20260604T155000
+DTEND:20260604T165000
+DTSTAMP:20260604T155000Z
+UID:2026-06-04T15:50:00/Slóvenía - Kýpur
+DESCRIPTION:Slóvenía - Kýpur - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Svíþjóð - Grikkland - Landsleikur - viaplay
@@ -105,6 +73,14 @@ DTEND:20260604T175000
 DTSTAMP:20260604T165000Z
 UID:2026-06-04T16:50:00/Svíþjóð - Grikkland
 DESCRIPTION:Svíþjóð - Grikkland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andorra - Liechtenstein - Landsleikur - viaplay
+DTSTART:20260604T165000
+DTEND:20260604T175000
+DTSTAMP:20260604T165000Z
+UID:2026-06-04T16:50:00/Andorra - Liechtenstein
+DESCRIPTION:Andorra - Liechtenstein - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spánn - Írak - Landsleikur - viaplay
@@ -131,20 +107,20 @@ UID:2026-06-04T23:50:00/Tékkland - Gvatemala
 DESCRIPTION:Tékkland - Gvatemala - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgía - Barein - Landsleikur - viaplay
-DTSTART:20260605T155000
-DTEND:20260605T165000
-DTSTAMP:20260605T155000Z
-UID:2026-06-05T15:50:00/Georgía - Barein
-DESCRIPTION:Georgía - Barein - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hvíta-Rússland - Syria - Landsleikur - viaplay
 DTSTART:20260605T155000
 DTEND:20260605T165000
 DTSTAMP:20260605T155000Z
 UID:2026-06-05T15:50:00/Hvíta-Rússland - Syria
 DESCRIPTION:Hvíta-Rússland - Syria - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgía - Barein - Landsleikur - viaplay
+DTSTART:20260605T155000
+DTEND:20260605T165000
+DTSTAMP:20260605T155000Z
+UID:2026-06-05T15:50:00/Georgía - Barein
+DESCRIPTION:Georgía - Barein - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slóvakía - Svartfjallaland - Landsleikur - viaplay
@@ -155,20 +131,20 @@ UID:2026-06-05T16:20:00/Slóvakía - Svartfjallaland
 DESCRIPTION:Slóvakía - Svartfjallaland - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Marino - Bangladesh - Landsleikur - viaplay
-DTSTART:20260605T165000
-DTEND:20260605T175000
-DTSTAMP:20260605T165000Z
-UID:2026-06-05T16:50:00/San Marino - Bangladesh
-DESCRIPTION:San Marino - Bangladesh - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Moldóva - Búlgaría - Landsleikur - viaplay
 DTSTART:20260605T165000
 DTEND:20260605T175000
 DTSTAMP:20260605T165000Z
 UID:2026-06-05T16:50:00/Moldóva - Búlgaría
 DESCRIPTION:Moldóva - Búlgaría - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marino - Bangladesh - Landsleikur - viaplay
+DTSTART:20260605T165000
+DTEND:20260605T175000
+DTSTAMP:20260605T165000Z
+UID:2026-06-05T16:50:00/San Marino - Bangladesh
+DESCRIPTION:San Marino - Bangladesh - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ungverjaland - Finnland - Landsleikur - viaplay
@@ -187,20 +163,20 @@ UID:2026-06-05T17:50:00/Aserbaísjan - Malta
 DESCRIPTION:Aserbaísjan - Malta - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belgía - Túnis - Landsleikur - viaplay
-DTSTART:20260606T125000
-DTEND:20260606T135000
-DTSTAMP:20260606T125000Z
-UID:2026-06-06T12:50:00/Belgía - Túnis
-DESCRIPTION:Belgía - Túnis - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Litháen - Lettland - Landsleikur - viaplay
 DTSTART:20260606T125000
 DTEND:20260606T135000
 DTSTAMP:20260606T125000Z
 UID:2026-06-06T12:50:00/Litháen - Lettland
 DESCRIPTION:Litháen - Lettland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belgía - Túnis - Landsleikur - viaplay
+DTSTART:20260606T125000
+DTEND:20260606T135000
+DTSTAMP:20260606T125000Z
+UID:2026-06-06T12:50:00/Belgía - Túnis
+DESCRIPTION:Belgía - Túnis - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Armenía - Kasakstan - Landsleikur - viaplay
@@ -329,5 +305,45 @@ DTEND:20260608T200000
 DTSTAMP:20260608T190000Z
 UID:2026-06-08T19:00:00/Frakkland - Norður-Írland
 DESCRIPTION:Frakkland - Norður-Írland - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perú - Spánn - Landsleikur - viaplay
+DTSTART:20260609T015000
+DTEND:20260609T025000
+DTSTAMP:20260609T015000Z
+UID:2026-06-09T01:50:00/Perú - Spánn
+DESCRIPTION:Perú - Spánn - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Armenía - Moldóva - Landsleikur - viaplay
+DTSTART:20260609T155000
+DTEND:20260609T165000
+DTSTAMP:20260609T155000Z
+UID:2026-06-09T15:50:00/Armenía - Moldóva
+DESCRIPTION:Armenía - Moldóva - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hvíta-Rússland - Búrkína Fasó - Landsleikur - viaplay
+DTSTART:20260609T162000
+DTEND:20260609T172000
+DTSTAMP:20260609T162000Z
+UID:2026-06-09T16:20:00/Hvíta-Rússland - Búrkína Fasó
+DESCRIPTION:Hvíta-Rússland - Búrkína Fasó - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverjaland - Kasakstan - Landsleikur - viaplay
+DTSTART:20260609T165000
+DTEND:20260609T175000
+DTSTAMP:20260609T165000Z
+UID:2026-06-09T16:50:00/Ungverjaland - Kasakstan
+DESCRIPTION:Ungverjaland - Kasakstan - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aserbaísjan - San Marínó - Landsleikur - viaplay
+DTSTART:20260609T175000
+DTEND:20260609T185000
+DTSTAMP:20260609T175000Z
+UID:2026-06-09T17:50:00/Aserbaísjan - San Marínó
+DESCRIPTION:Aserbaísjan - San Marínó - Landsleikur
 END:VEVENT
 END:VCALENDAR
