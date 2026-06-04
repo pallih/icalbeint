@@ -26,6 +26,14 @@ UID:2026-06-05T11:30:00/Onboard (Mónakó Kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Mónakó Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Mónakó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260605T113000
+DTEND:20260605T123000
+DTSTAMP:20260605T113000Z
+UID:2026-06-05T11:30:00/Timing (Mónakó Kappaksturinn | Æfing 1)
+DESCRIPTION:Timing (Mónakó Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Mónakó Kappaksturinn | Æfing 1) - Formula 1 
  - viaplay
 DTSTART:20260605T113000
@@ -35,14 +43,6 @@ UID:2026-06-05T11:30:00/Track Positioning (Mónakó Kappaksturinn | Æfing
   1)
 DESCRIPTION:Track Positioning (Mónakó Kappaksturinn | Æfing 1) - Formul
  a 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Mónakó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260605T113000
-DTEND:20260605T123000
-DTSTAMP:20260605T113000Z
-UID:2026-06-05T11:30:00/Timing (Mónakó Kappaksturinn | Æfing 1)
-DESCRIPTION:Timing (Mónakó Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mónakó Kappaksturinn (Æfing 2) - Formula 1 - viaplay
@@ -96,12 +96,20 @@ UID:2026-06-06T10:25:00/Mónakó Kappaksturinn (Æfing 3)
 DESCRIPTION:Mónakó Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Mónakó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+SUMMARY:Onboard (Mónakó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20260606T103000
 DTEND:20260606T113000
 DTSTAMP:20260606T103000Z
-UID:2026-06-06T10:30:00/Pitlane (Mónakó Kappaksturinn | Æfing 3)
-DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-06-06T10:30:00/Onboard (Mónakó Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Mónakó Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Mónakó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20260606T103000
+DTEND:20260606T113000
+DTSTAMP:20260606T103000Z
+UID:2026-06-06T10:30:00/Timing (Mónakó Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Mónakó Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Mónakó Kappaksturinn | Æfing 3) - Formula 1 
@@ -115,20 +123,12 @@ DESCRIPTION:Track Positioning (Mónakó Kappaksturinn | Æfing 3) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Mónakó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+SUMMARY:Pitlane (Mónakó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20260606T103000
 DTEND:20260606T113000
 DTSTAMP:20260606T103000Z
-UID:2026-06-06T10:30:00/Timing (Mónakó Kappaksturinn | Æfing 3)
-DESCRIPTION:Timing (Mónakó Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Mónakó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20260606T103000
-DTEND:20260606T113000
-DTSTAMP:20260606T103000Z
-UID:2026-06-06T10:30:00/Onboard (Mónakó Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Mónakó Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-06-06T10:30:00/Pitlane (Mónakó Kappaksturinn | Æfing 3)
+DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mónakó Kappaksturinn (Tímatökur) - Formula 1 - viaplay
@@ -137,6 +137,24 @@ DTEND:20260606T145500
 DTSTAMP:20260606T135500Z
 UID:2026-06-06T13:55:00/Mónakó Kappaksturinn (Tímatökur)
 DESCRIPTION:Mónakó Kappaksturinn (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Mónakó Kappaksturinn | Tímatökur) - Formula 1 - viapl
+ ay
+DTSTART:20260606T140000
+DTEND:20260606T150000
+DTSTAMP:20260606T140000Z
+UID:2026-06-06T14:00:00/Onboard (Mónakó Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Mónakó Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Mónakó Kappaksturinn | Tímatökur) - Formula 1 - viapl
+ ay
+DTSTART:20260606T140000
+DTEND:20260606T150000
+DTSTAMP:20260606T140000Z
+UID:2026-06-06T14:00:00/Pitlane (Mónakó Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Mónakó Kappaksturinn | Tímatökur) - Formula
@@ -159,24 +177,6 @@ UID:2026-06-06T14:00:00/Timing (Mónakó Kappaksturinn | Tímatökur)
 DESCRIPTION:Timing (Mónakó Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Mónakó Kappaksturinn | Tímatökur) - Formula 1 - viapl
- ay
-DTSTART:20260606T140000
-DTEND:20260606T150000
-DTSTAMP:20260606T140000Z
-UID:2026-06-06T14:00:00/Onboard (Mónakó Kappaksturinn | Tímatökur)
-DESCRIPTION:Onboard (Mónakó Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Mónakó Kappaksturinn | Tímatökur) - Formula 1 - viapl
- ay
-DTSTART:20260606T140000
-DTEND:20260606T150000
-DTSTAMP:20260606T140000Z
-UID:2026-06-06T14:00:00/Pitlane (Mónakó Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mónakó Kappaksturinn (Kappakstur) - Formula 1 - viaplay
 DTSTART:20260607T123000
 DTEND:20260607T133000
@@ -193,15 +193,6 @@ UID:2026-06-07T12:55:00/F1 Kids: Monaco Grand Prix (Kappakstur)
 DESCRIPTION:F1 Kids: Monaco Grand Prix (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Mónakó Kappaksturinn | Kappakstur) - Formula 1 - viapla
- y
-DTSTART:20260607T130000
-DTEND:20260607T140000
-DTSTAMP:20260607T130000Z
-UID:2026-06-07T13:00:00/Onboard (Mónakó Kappaksturinn | Kappakstur)
-DESCRIPTION:Onboard (Mónakó Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Mónakó Kappaksturinn | Kappakstur) - Formula 1 - viapla
  y
 DTSTART:20260607T130000
@@ -209,14 +200,6 @@ DTEND:20260607T140000
 DTSTAMP:20260607T130000Z
 UID:2026-06-07T13:00:00/Pitlane (Mónakó Kappaksturinn | Kappakstur)
 DESCRIPTION:Pitlane (Mónakó Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Mónakó Kappaksturinn | Kappakstur) - Formula 1 - viaplay
-DTSTART:20260607T130000
-DTEND:20260607T140000
-DTSTAMP:20260607T130000Z
-UID:2026-06-07T13:00:00/Timing (Mónakó Kappaksturinn | Kappakstur)
-DESCRIPTION:Timing (Mónakó Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Mónakó Kappaksturinn | Kappakstur) - Formula 
@@ -228,5 +211,22 @@ UID:2026-06-07T13:00:00/Track Positioning (Mónakó Kappaksturinn | Kappak
  stur)
 DESCRIPTION:Track Positioning (Mónakó Kappaksturinn | Kappakstur) - Form
  ula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Mónakó Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20260607T130000
+DTEND:20260607T140000
+DTSTAMP:20260607T130000Z
+UID:2026-06-07T13:00:00/Timing (Mónakó Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Mónakó Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Mónakó Kappaksturinn | Kappakstur) - Formula 1 - viapla
+ y
+DTSTART:20260607T130000
+DTEND:20260607T140000
+DTSTAMP:20260607T130000Z
+UID:2026-06-07T13:00:00/Onboard (Mónakó Kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Mónakó Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 END:VCALENDAR
