@@ -2,62 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Liechtenstein - Kýpur - Landsleikur - viaplay
-DTSTART:20260607T125000
-DTEND:20260607T135000
-DTSTAMP:20260607T125000Z
-UID:2026-06-07T12:50:00/Liechtenstein - Kýpur
-DESCRIPTION:Liechtenstein - Kýpur - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danmörk - Úkraína - Æfingaleikur - synsportviaplay
-DTSTART:20260607T162000
-DTEND:20260607T172000
-DTSTAMP:20260607T162000Z
-UID:2026-06-07T16:20:00/Danmörk - Úkraína
-DESCRIPTION:Danmörk - Úkraína - Æfingaleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danmörk - Úkraína - Landsleikur - viaplay
-DTSTART:20260607T162000
-DTEND:20260607T172000
-DTSTAMP:20260607T162000Z
-UID:2026-06-07T16:20:00/Danmörk - Úkraína
-DESCRIPTION:Danmörk - Úkraína - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20260607T170000
-DTEND:20260607T180000
-DTSTAMP:20260607T170000Z
-UID:2026-06-07T17:00:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kósovó - Andorra - Landsleikur - viaplay
-DTSTART:20260607T175000
-DTEND:20260607T185000
-DTSTAMP:20260607T175000Z
-UID:2026-06-07T17:50:00/Kósovó - Andorra
-DESCRIPTION:Kósovó - Andorra - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Króatía - Slóvenía - Landsleikur - viaplay
-DTSTART:20260607T183500
-DTEND:20260607T193500
-DTSTAMP:20260607T183500Z
-UID:2026-06-07T18:35:00/Króatía - Slóvenía
-DESCRIPTION:Króatía - Slóvenía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grikkland - Ítalía - Landsleikur - viaplay
-DTSTART:20260607T185000
-DTEND:20260607T195000
-DTSTAMP:20260607T185000Z
-UID:2026-06-07T18:50:00/Grikkland - Ítalía
-DESCRIPTION:Grikkland - Ítalía - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holland - Úsbekistan - Landsleikur - viaplay
 DTSTART:20260608T183500
 DTEND:20260608T193500
@@ -90,12 +34,28 @@ UID:2026-06-09T01:50:00/Perú - Spánn
 DESCRIPTION:Perú - Spánn - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lettland - Færeyjar - Landsleikur - viaplay
+DTSTART:20260609T145000
+DTEND:20260609T155000
+DTSTAMP:20260609T145000Z
+UID:2026-06-09T14:50:00/Lettland - Færeyjar
+DESCRIPTION:Lettland - Færeyjar - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Armenía - Moldóva - Landsleikur - viaplay
+DTSTART:20260609T145000
+DTEND:20260609T155000
+DTSTAMP:20260609T145000Z
+UID:2026-06-09T14:50:00/Armenía - Moldóva
+DESCRIPTION:Armenía - Moldóva - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eistland - Litháen - Landsleikur - viaplay
 DTSTART:20260609T155000
 DTEND:20260609T165000
 DTSTAMP:20260609T155000Z
-UID:2026-06-09T15:50:00/Armenía - Moldóva
-DESCRIPTION:Armenía - Moldóva - Landsleikur
+UID:2026-06-09T15:50:00/Eistland - Litháen
+DESCRIPTION:Eistland - Litháen - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hvíta-Rússland - Búrkína Fasó - Landsleikur - viaplay
@@ -146,7 +106,7 @@ UID:2026-06-09T19:00:00/Ísland - Spánn
 DESCRIPTION:Ísland - Spánn - Undankeppni HM kvenna í fótbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stofan - Íþróttaþættir - ruv
+SUMMARY:Stofan - Íþróttaþættir - ruv2
 DTSTART:20260609T205500
 DTEND:20260609T215500
 DTSTAMP:20260609T205500Z
@@ -154,7 +114,7 @@ UID:2026-06-09T20:55:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stofan - Íþróttaþættir - ruv2
+SUMMARY:Stofan - Íþróttaþættir - ruv
 DTSTART:20260609T205500
 DTEND:20260609T215500
 DTSTAMP:20260609T205500Z
@@ -171,19 +131,11 @@ DESCRIPTION:Argentína - Ísland - Vináttulandsleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Argentina - Iceland - Landsleikur - viaplay
-DTSTART:20260610T010000
-DTEND:20260610T020000
-DTSTAMP:20260610T010000Z
-UID:2026-06-10T01:00:00/Argentina - Iceland
+DTSTART:20260610T005000
+DTEND:20260610T015000
+DTSTAMP:20260610T005000Z
+UID:2026-06-10T00:50:00/Argentina - Iceland
 DESCRIPTION:Argentina - Iceland - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:England - Kosta Ríka - Æfingaleikur - synsportviaplay
-DTSTART:20260610T185000
-DTEND:20260610T195000
-DTSTAMP:20260610T185000Z
-UID:2026-06-10T18:50:00/England - Kosta Ríka
-DESCRIPTION:England - Kosta Ríka - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afturelding - Stjarnan - 8-liða úrslit - Mjólkurbikar karla í 
@@ -202,6 +154,14 @@ DTEND:20260610T203500
 DTSTAMP:20260610T193500Z
 UID:2026-06-10T19:35:00/Portúgal - Nígería
 DESCRIPTION:Portúgal - Nígería - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:England - Kosta Ríka - Æfingaleikur - synsportviaplay
+DTSTART:20260610T195000
+DTEND:20260610T205000
+DTSTAMP:20260610T195000Z
+UID:2026-06-10T19:50:00/England - Kosta Ríka
+DESCRIPTION:England - Kosta Ríka - Æfingaleikur
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:England - Kosta Ríka - Landsleikur - viaplay
@@ -296,20 +256,20 @@ UID:2026-06-13T10:20:00/Piteå - Brommapojkarna
 DESCRIPTION:Piteå - Brommapojkarna - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rosengård - Norrköping - OBOS Damallsvenskan - viaplay
-DTSTART:20260613T105000
-DTEND:20260613T115000
-DTSTAMP:20260613T105000Z
-UID:2026-06-13T10:50:00/Rosengård - Norrköping
-DESCRIPTION:Rosengård - Norrköping - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AIK - Djurgården - OBOS Damallsvenskan - viaplay
 DTSTART:20260613T105000
 DTEND:20260613T115000
 DTSTAMP:20260613T105000Z
 UID:2026-06-13T10:50:00/AIK - Djurgården
 DESCRIPTION:AIK - Djurgården - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosengård - Norrköping - OBOS Damallsvenskan - viaplay
+DTSTART:20260613T105000
+DTEND:20260613T115000
+DTSTAMP:20260613T105000Z
+UID:2026-06-13T10:50:00/Rosengård - Norrköping
+DESCRIPTION:Rosengård - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eskilstuna United - Malmö FF - OBOS Damallsvenskan - viaplay
@@ -320,12 +280,12 @@ UID:2026-06-13T11:50:00/Eskilstuna United - Malmö FF
 DESCRIPTION:Eskilstuna United - Malmö FF - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Växjö - Uppsala - OBOS Damallsvenskan - viaplay
+SUMMARY:Víkingur R. - FH - Besta deild kvenna - synsportisland3
 DTSTART:20260613T135000
 DTEND:20260613T145000
 DTSTAMP:20260613T135000Z
-UID:2026-06-13T13:50:00/Växjö - Uppsala
-DESCRIPTION:Växjö - Uppsala - OBOS Damallsvenskan
+UID:2026-06-13T13:50:00/Víkingur R. - FH
+DESCRIPTION:Víkingur R. - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breiðablik - Stjarnan - Besta deild kvenna - synsportisland
@@ -336,21 +296,12 @@ UID:2026-06-13T13:50:00/Breiðablik - Stjarnan
 DESCRIPTION:Breiðablik - Stjarnan - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - Grindavík/Njarðvík - Besta deild kvenna - synsportisland
- 2
+SUMMARY:Växjö - Uppsala - OBOS Damallsvenskan - viaplay
 DTSTART:20260613T135000
 DTEND:20260613T145000
 DTSTAMP:20260613T135000Z
-UID:2026-06-13T13:50:00/Fram - Grindavík/Njarðvík
-DESCRIPTION:Fram - Grindavík/Njarðvík - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Víkingur R. - FH - Besta deild kvenna - synsportisland3
-DTSTART:20260613T135000
-DTEND:20260613T145000
-DTSTAMP:20260613T135000Z
-UID:2026-06-13T13:50:00/Víkingur R. - FH
-DESCRIPTION:Víkingur R. - FH - Besta deild kvenna
+UID:2026-06-13T13:50:00/Växjö - Uppsala
+DESCRIPTION:Växjö - Uppsala - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þróttur R. - ÍBV - Besta deild kvenna - synsportisland4
@@ -359,6 +310,15 @@ DTEND:20260613T145000
 DTSTAMP:20260613T135000Z
 UID:2026-06-13T13:50:00/Þróttur R. - ÍBV
 DESCRIPTION:Þróttur R. - ÍBV - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Grindavík/Njarðvík - Besta deild kvenna - synsportisland
+ 2
+DTSTART:20260613T135000
+DTEND:20260613T145000
+DTSTAMP:20260613T135000Z
+UID:2026-06-13T13:50:00/Fram - Grindavík/Njarðvík
+DESCRIPTION:Fram - Grindavík/Njarðvík - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grótta - Keflavík - Lengjudeildin - livey
@@ -417,5 +377,69 @@ DTEND:20260613T230000
 DTSTAMP:20260613T220000Z
 UID:2026-06-13T22:00:00/Brasilía - Marokkó
 DESCRIPTION:Brasilía - Marokkó - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haítí - Skotland - HM karla í fótbolta - ruv
+DTSTART:20260614T010000
+DTEND:20260614T020000
+DTSTAMP:20260614T010000Z
+UID:2026-06-14T01:00:00/Haítí - Skotland
+DESCRIPTION:Haítí - Skotland - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ástralía - Tyrkland - HM karla í fótbolta - ruv
+DTSTART:20260614T040000
+DTEND:20260614T050000
+DTSTAMP:20260614T040000Z
+UID:2026-06-14T04:00:00/Ástralía - Tyrkland
+DESCRIPTION:Ástralía - Tyrkland - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FHL - KR - Lengjudeildin - livey
+DTSTART:20260614T120000
+DTEND:20260614T130000
+DTSTAMP:20260614T120000Z
+UID:2026-06-14T12:00:00/FHL - KR
+DESCRIPTION:FHL - KR - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Ak. - ÍBV - Besta deild karla - synsportisland
+DTSTART:20260614T165000
+DTEND:20260614T175000
+DTSTAMP:20260614T165000Z
+UID:2026-06-14T16:50:00/Þór Ak. - ÍBV
+DESCRIPTION:Þór Ak. - ÍBV - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þýskaland - Curacao - HM karla í fótbolta - ruv2
+DTSTART:20260614T170000
+DTEND:20260614T180000
+DTSTAMP:20260614T170000Z
+UID:2026-06-14T17:00:00/Þýskaland - Curacao
+DESCRIPTION:Þýskaland - Curacao - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keflavík - FH - Besta deild karla - synsportisland
+DTSTART:20260614T190500
+DTEND:20260614T200500
+DTSTAMP:20260614T190500Z
+UID:2026-06-14T19:05:00/Keflavík - FH
+DESCRIPTION:Keflavík - FH - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Japan - HM karla í fótbolta - ruv2
+DTSTART:20260614T200000
+DTEND:20260614T210000
+DTSTAMP:20260614T200000Z
+UID:2026-06-14T20:00:00/Holland - Japan
+DESCRIPTION:Holland - Japan - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fíiabeinsströndin - Ekvador - HM karla í fótbolta - ruv
+DTSTART:20260614T230000
+DTEND:20260615T000000
+DTSTAMP:20260614T230000Z
+UID:2026-06-14T23:00:00/Fíiabeinsströndin - Ekvador
+DESCRIPTION:Fíiabeinsströndin - Ekvador - HM karla í fótbolta
 END:VEVENT
 END:VCALENDAR
