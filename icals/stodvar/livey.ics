@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:NBA Finals Leikur 3: Spurs - Knicks - NBA - livey
-DTSTART:20260609T123000
-DTEND:20260609T133000
-DTSTAMP:20260609T123000Z
-UID:2026-06-09T12:30:00/NBA Finals Leikur 3: Spurs - Knicks
-DESCRIPTION:NBA Finals Leikur 3: Spurs - Knicks - NBA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kári - Selfoss - 2. deild  - livey
 DTSTART:20260610T191500
 DTEND:20260610T201500
@@ -18,28 +10,12 @@ UID:2026-06-10T19:15:00/Kári - Selfoss
 DESCRIPTION:Kári - Selfoss - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KFG - Hvíti riddarinn - 2. deild  - livey
+SUMMARY:KFA - Fjölnir - 2. deild  - livey
 DTSTART:20260610T191500
 DTEND:20260610T201500
 DTSTAMP:20260610T191500Z
-UID:2026-06-10T19:15:00/KFG - Hvíti riddarinn
-DESCRIPTION:KFG - Hvíti riddarinn - 2. deild 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magni - Dalvík/Reynir - 2. deild  - livey
-DTSTART:20260610T191500
-DTEND:20260610T201500
-DTSTAMP:20260610T191500Z
-UID:2026-06-10T19:15:00/Magni - Dalvík/Reynir
-DESCRIPTION:Magni - Dalvík/Reynir - 2. deild 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þróttur V. - Víkingur Ó. - 2. deild  - livey
-DTSTART:20260610T191500
-DTEND:20260610T201500
-DTSTAMP:20260610T191500Z
-UID:2026-06-10T19:15:00/Þróttur V. - Víkingur Ó.
-DESCRIPTION:Þróttur V. - Víkingur Ó. - 2. deild 
+UID:2026-06-10T19:15:00/KFA - Fjölnir
+DESCRIPTION:KFA - Fjölnir - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Kormákur/Hvöt - 2. deild  - livey
@@ -50,12 +26,28 @@ UID:2026-06-10T19:15:00/Haukar - Kormákur/Hvöt
 DESCRIPTION:Haukar - Kormákur/Hvöt - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KFA - Fjölnir - 2. deild  - livey
+SUMMARY:Þróttur V. - Víkingur Ó. - 2. deild  - livey
 DTSTART:20260610T191500
 DTEND:20260610T201500
 DTSTAMP:20260610T191500Z
-UID:2026-06-10T19:15:00/KFA - Fjölnir
-DESCRIPTION:KFA - Fjölnir - 2. deild 
+UID:2026-06-10T19:15:00/Þróttur V. - Víkingur Ó.
+DESCRIPTION:Þróttur V. - Víkingur Ó. - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magni - Dalvík/Reynir - 2. deild  - livey
+DTSTART:20260610T191500
+DTEND:20260610T201500
+DTSTAMP:20260610T191500Z
+UID:2026-06-10T19:15:00/Magni - Dalvík/Reynir
+DESCRIPTION:Magni - Dalvík/Reynir - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFG - Hvíti riddarinn - 2. deild  - livey
+DTSTART:20260610T191500
+DTEND:20260610T201500
+DTSTAMP:20260610T191500Z
+UID:2026-06-10T19:15:00/KFG - Hvíti riddarinn
+DESCRIPTION:KFG - Hvíti riddarinn - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NBA Finals Leikur 4: Spurs - Knicks - NBA - livey
@@ -122,20 +114,12 @@ UID:2026-06-13T14:00:00/Grótta - Keflavík
 DESCRIPTION:Grótta - Keflavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dalvík/Reynir - Vestri - 2. deild  - livey
+SUMMARY:KFR - Augnablik - 2. deild  - livey
 DTSTART:20260613T140000
 DTEND:20260613T150000
 DTSTAMP:20260613T140000Z
-UID:2026-06-13T14:00:00/Dalvík/Reynir - Vestri
-DESCRIPTION:Dalvík/Reynir - Vestri - 2. deild 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Völsungur - Njarðvík - Lengjudeildin - livey
-DTSTART:20260613T140000
-DTEND:20260613T150000
-DTSTAMP:20260613T140000Z
-UID:2026-06-13T14:00:00/Völsungur - Njarðvík
-DESCRIPTION:Völsungur - Njarðvík - Lengjudeildin
+UID:2026-06-13T14:00:00/KFR - Augnablik
+DESCRIPTION:KFR - Augnablik - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leiknir R. - Vestri - Lengjudeildin - livey
@@ -146,12 +130,20 @@ UID:2026-06-13T14:00:00/Leiknir R. - Vestri
 DESCRIPTION:Leiknir R. - Vestri - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KFR - Augnablik - 2. deild  - livey
+SUMMARY:Völsungur - Njarðvík - Lengjudeildin - livey
 DTSTART:20260613T140000
 DTEND:20260613T150000
 DTSTAMP:20260613T140000Z
-UID:2026-06-13T14:00:00/KFR - Augnablik
-DESCRIPTION:KFR - Augnablik - 2. deild 
+UID:2026-06-13T14:00:00/Völsungur - Njarðvík
+DESCRIPTION:Völsungur - Njarðvík - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dalvík/Reynir - Vestri - 2. deild  - livey
+DTSTART:20260613T140000
+DTEND:20260613T150000
+DTSTAMP:20260613T140000Z
+UID:2026-06-13T14:00:00/Dalvík/Reynir - Vestri
+DESCRIPTION:Dalvík/Reynir - Vestri - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalborg Handbold - Barcelona - EHF - livey
@@ -194,12 +186,12 @@ UID:2026-06-14T14:00:00/Hvíti riddarinn - KFA
 DESCRIPTION:Hvíti riddarinn - KFA - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víkingur Ó. - Magni - 2. deild  - livey
+SUMMARY:Dalvík/Reynir - Haukar - 2. deild  - livey
 DTSTART:20260614T160000
 DTEND:20260614T170000
 DTSTAMP:20260614T160000Z
-UID:2026-06-14T16:00:00/Víkingur Ó. - Magni
-DESCRIPTION:Víkingur Ó. - Magni - 2. deild 
+UID:2026-06-14T16:00:00/Dalvík/Reynir - Haukar
+DESCRIPTION:Dalvík/Reynir - Haukar - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kormákur/Hvöt - KFG - 2. deild  - livey
@@ -210,12 +202,12 @@ UID:2026-06-14T16:00:00/Kormákur/Hvöt - KFG
 DESCRIPTION:Kormákur/Hvöt - KFG - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dalvík/Reynir - Haukar - 2. deild  - livey
+SUMMARY:Víkingur Ó. - Magni - 2. deild  - livey
 DTSTART:20260614T160000
 DTEND:20260614T170000
 DTSTAMP:20260614T160000Z
-UID:2026-06-14T16:00:00/Dalvík/Reynir - Haukar
-DESCRIPTION:Dalvík/Reynir - Haukar - 2. deild 
+UID:2026-06-14T16:00:00/Víkingur Ó. - Magni
+DESCRIPTION:Víkingur Ó. - Magni - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fjölnir - Kári - 2. deild  - livey
