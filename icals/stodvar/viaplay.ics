@@ -2,70 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Vegas - Carolina - NHL - viaplay
-DTSTART:20260610T000500
-DTEND:20260610T010500
-DTSTAMP:20260610T000500Z
-UID:2026-06-10T00:05:00/Vegas - Carolina
-DESCRIPTION:Vegas - Carolina - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Argentina - Iceland - Landsleikur - viaplay
-DTSTART:20260610T005000
-DTEND:20260610T015000
-DTSTAMP:20260610T005000Z
-UID:2026-06-10T00:50:00/Argentina - Iceland
-DESCRIPTION:Argentina - Iceland - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Padres - Reds - Major League Baseball - viaplay
-DTSTART:20260610T020000
-DTEND:20260610T030000
-DTSTAMP:20260610T020000Z
-UID:2026-06-10T02:00:00/Padres - Reds
-DESCRIPTION:Padres - Reds - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20260610T100000
-DTEND:20260610T110000
-DTSTAMP:20260610T100000Z
-UID:2026-06-10T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians - Yankees - Major League Baseball - viaplay
-DTSTART:20260610T170000
-DTEND:20260610T180000
-DTSTAMP:20260610T170000Z
-UID:2026-06-10T17:00:00/Guardians - Yankees
-DESCRIPTION:Guardians - Yankees - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portúgal - Nígería - Landsleikur - viaplay
-DTSTART:20260610T193500
-DTEND:20260610T203500
-DTSTAMP:20260610T193500Z
-UID:2026-06-10T19:35:00/Portúgal - Nígería
-DESCRIPTION:Portúgal - Nígería - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:England - Kosta Ríka - Landsleikur - viaplay
-DTSTART:20260610T195000
-DTEND:20260610T205000
-DTSTAMP:20260610T195000Z
-UID:2026-06-10T19:50:00/England - Kosta Ríka
-DESCRIPTION:England - Kosta Ríka - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mets - Cardinals - Major League Baseball - viaplay
-DTSTART:20260610T230000
-DTEND:20260611T000000
-DTSTAMP:20260610T230000Z
-UID:2026-06-10T23:00:00/Mets - Cardinals
-DESCRIPTION:Mets - Cardinals - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NHL Tonight - NHL - viaplay
 DTSTART:20260611T100000
 DTEND:20260611T110000
@@ -82,20 +18,20 @@ UID:2026-06-11T16:15:00/Le Mans (Kappakstur 1)
 DESCRIPTION:Le Mans (Kappakstur 1) - Ferrari Challenge Europe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tigers - Twins - Major League Baseball - viaplay
-DTSTART:20260611T170000
-DTEND:20260611T180000
-DTSTAMP:20260611T170000Z
-UID:2026-06-11T17:00:00/Tigers - Twins
-DESCRIPTION:Tigers - Twins - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Cup of Darts - PDC Darts - viaplay
 DTSTART:20260611T170000
 DTEND:20260611T180000
 DTSTAMP:20260611T170000Z
 UID:2026-06-11T17:00:00/World Cup of Darts
 DESCRIPTION:World Cup of Darts - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tigers - Twins - Major League Baseball - viaplay
+DTSTART:20260611T170000
+DTEND:20260611T180000
+DTSTAMP:20260611T170000Z
+UID:2026-06-11T17:00:00/Tigers - Twins
+DESCRIPTION:Tigers - Twins - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pirates - Dodgers - Major League Baseball - viaplay
@@ -107,10 +43,10 @@ DESCRIPTION:Pirates - Dodgers - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carolina - Vegas - NHL - viaplay
-DTSTART:20260612T000500
-DTEND:20260612T010500
-DTSTAMP:20260612T000500Z
-UID:2026-06-12T00:05:00/Carolina - Vegas
+DTSTART:20260612T001000
+DTEND:20260612T011000
+DTSTAMP:20260612T001000Z
+UID:2026-06-12T00:10:00/Carolina - Vegas
 DESCRIPTION:Carolina - Vegas - NHL
 END:VEVENT
 BEGIN:VEVENT
@@ -124,14 +60,6 @@ DESCRIPTION:Pirelli Emilia-Romagna Round (Frjáls æfing 1) - FIM Superbik
  e World Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20260612T100000
-DTEND:20260612T110000
-DTSTAMP:20260612T100000Z
-UID:2026-06-12T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Cup of Darts - PDC Darts - viaplay
 DTSTART:20260612T100000
 DTEND:20260612T110000
@@ -140,39 +68,30 @@ UID:2026-06-12T10:00:00/World Cup of Darts
 DESCRIPTION:World Cup of Darts - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20260612T100000
+DTEND:20260612T110000
+DTSTAMP:20260612T100000Z
+UID:2026-06-12T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pirelli Emilia-Romagna Round (Tissot Superpole) - FIM Women's Circ
+ uit Racing World Championship - viaplay
+DTSTART:20260612T112500
+DTEND:20260612T122500
+DTSTAMP:20260612T112500Z
+UID:2026-06-12T11:25:00/Pirelli Emilia-Romagna Round (Tissot Superpole)
+DESCRIPTION:Pirelli Emilia-Romagna Round (Tissot Superpole) - FIM Women's 
+ Circuit Racing World Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Katalónía Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20260612T112500
 DTEND:20260612T122500
 DTSTAMP:20260612T112500Z
 UID:2026-06-12T11:25:00/Katalónía Kappaksturinn (Æfing 1)
 DESCRIPTION:Katalónía Kappaksturinn (Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Katalónía Kappaksturinn | Æfing 1) - Formula 1 - viapla
- y
-DTSTART:20260612T113000
-DTEND:20260612T123000
-DTSTAMP:20260612T113000Z
-UID:2026-06-12T11:30:00/Timing (Katalónía Kappaksturinn | Æfing 1)
-DESCRIPTION:Timing (Katalónía Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Katalónía Kappaksturinn | Æfing 1) - Formula 1 - viapl
- ay
-DTSTART:20260612T113000
-DTEND:20260612T123000
-DTSTAMP:20260612T113000Z
-UID:2026-06-12T11:30:00/Pitlane (Katalónía Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Katalónía Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Katalónía Kappaksturinn | Æfing 1) - Formula 1 - viapl
- ay
-DTSTART:20260612T113000
-DTEND:20260612T123000
-DTSTAMP:20260612T113000Z
-UID:2026-06-12T11:30:00/Onboard (Katalónía Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Katalónía Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Katalónía Kappaksturinn | Æfing 1) - Formula
@@ -184,6 +103,33 @@ UID:2026-06-12T11:30:00/Track Positioning (Katalónía Kappaksturinn | Æf
  ing 1)
 DESCRIPTION:Track Positioning (Katalónía Kappaksturinn | Æfing 1) - For
  mula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Katalónía Kappaksturinn | Æfing 1) - Formula 1 - viapla
+ y
+DTSTART:20260612T113000
+DTEND:20260612T123000
+DTSTAMP:20260612T113000Z
+UID:2026-06-12T11:30:00/Timing (Katalónía Kappaksturinn | Æfing 1)
+DESCRIPTION:Timing (Katalónía Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Katalónía Kappaksturinn | Æfing 1) - Formula 1 - viapl
+ ay
+DTSTART:20260612T113000
+DTEND:20260612T123000
+DTSTAMP:20260612T113000Z
+UID:2026-06-12T11:30:00/Onboard (Katalónía Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Katalónía Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Katalónía Kappaksturinn | Æfing 1) - Formula 1 - viapl
+ ay
+DTSTART:20260612T113000
+DTEND:20260612T123000
+DTSTAMP:20260612T113000Z
+UID:2026-06-12T11:30:00/Pitlane (Katalónía Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Katalónía Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pirelli Emilia-Romagna Round (Tissot Superpole) - FIM Sportbike Wo
@@ -240,6 +186,15 @@ UID:2026-06-12T14:55:00/Katalónía Kappaksturinn (Æfing 2)
 DESCRIPTION:Katalónía Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Katalónía Kappaksturinn | Æfing 2) - Formula 1 - viapl
+ ay
+DTSTART:20260612T150000
+DTEND:20260612T160000
+DTSTAMP:20260612T150000Z
+UID:2026-06-12T15:00:00/Pitlane (Katalónía Kappaksturinn | Æfing 2)
+DESCRIPTION:Pitlane (Katalónía Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Katalónía Kappaksturinn | Æfing 2) - Formula 1 - viapl
  ay
 DTSTART:20260612T150000
@@ -247,15 +202,6 @@ DTEND:20260612T160000
 DTSTAMP:20260612T150000Z
 UID:2026-06-12T15:00:00/Onboard (Katalónía Kappaksturinn | Æfing 2)
 DESCRIPTION:Onboard (Katalónía Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Katalónía Kappaksturinn | Æfing 2) - Formula 1 - viapla
- y
-DTSTART:20260612T150000
-DTEND:20260612T160000
-DTSTAMP:20260612T150000Z
-UID:2026-06-12T15:00:00/Timing (Katalónía Kappaksturinn | Æfing 2)
-DESCRIPTION:Timing (Katalónía Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Katalónía Kappaksturinn | Æfing 2) - Formula
@@ -269,13 +215,13 @@ DESCRIPTION:Track Positioning (Katalónía Kappaksturinn | Æfing 2) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Katalónía Kappaksturinn | Æfing 2) - Formula 1 - viapl
- ay
+SUMMARY:Timing (Katalónía Kappaksturinn | Æfing 2) - Formula 1 - viapla
+ y
 DTSTART:20260612T150000
 DTEND:20260612T160000
 DTSTAMP:20260612T150000Z
-UID:2026-06-12T15:00:00/Pitlane (Katalónía Kappaksturinn | Æfing 2)
-DESCRIPTION:Pitlane (Katalónía Kappaksturinn | Æfing 2) - Formula 1
+UID:2026-06-12T15:00:00/Timing (Katalónía Kappaksturinn | Æfing 2)
+DESCRIPTION:Timing (Katalónía Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vittsjö - Kristianstad - OBOS Damallsvenskan - viaplay
@@ -303,10 +249,10 @@ DESCRIPTION:Nationals - Mariners - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UFC Freedom 250: Press Conference - UFC - viaplay
-DTSTART:20260613T000000
-DTEND:20260613T010000
-DTSTAMP:20260613T000000Z
-UID:2026-06-13T00:00:00/UFC Freedom 250: Press Conference
+DTSTART:20260613T001500
+DTEND:20260613T011500
+DTSTAMP:20260613T001500Z
+UID:2026-06-13T00:15:00/UFC Freedom 250: Press Conference
 DESCRIPTION:UFC Freedom 250: Press Conference - UFC
 END:VEVENT
 BEGIN:VEVENT
@@ -405,13 +351,15 @@ UID:2026-06-13T10:30:00/Onboard (Katalónía Kappaksturinn | Æfing 3)
 DESCRIPTION:Onboard (Katalónía Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Katalónía Kappaksturinn | Æfing 3) - Formula 1 - viapla
- y
+SUMMARY:Track Positioning (Katalónía Kappaksturinn | Æfing 3) - Formula
+  1 - viaplay
 DTSTART:20260613T103000
 DTEND:20260613T113000
 DTSTAMP:20260613T103000Z
-UID:2026-06-13T10:30:00/Timing (Katalónía Kappaksturinn | Æfing 3)
-DESCRIPTION:Timing (Katalónía Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-06-13T10:30:00/Track Positioning (Katalónía Kappaksturinn | Æf
+ ing 3)
+DESCRIPTION:Track Positioning (Katalónía Kappaksturinn | Æfing 3) - For
+ mula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Katalónía Kappaksturinn | Æfing 3) - Formula 1 - viapl
@@ -423,15 +371,13 @@ UID:2026-06-13T10:30:00/Pitlane (Katalónía Kappaksturinn | Æfing 3)
 DESCRIPTION:Pitlane (Katalónía Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Katalónía Kappaksturinn | Æfing 3) - Formula
-  1 - viaplay
+SUMMARY:Timing (Katalónía Kappaksturinn | Æfing 3) - Formula 1 - viapla
+ y
 DTSTART:20260613T103000
 DTEND:20260613T113000
 DTSTAMP:20260613T103000Z
-UID:2026-06-13T10:30:00/Track Positioning (Katalónía Kappaksturinn | Æf
- ing 3)
-DESCRIPTION:Track Positioning (Katalónía Kappaksturinn | Æfing 3) - For
- mula 1
+UID:2026-06-13T10:30:00/Timing (Katalónía Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Katalónía Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rosengård - Norrköping - OBOS Damallsvenskan - viaplay
@@ -520,6 +466,17 @@ UID:2026-06-13T13:55:00/Katalónía Kappaksturinn (Tímatökur)
 DESCRIPTION:Katalónía Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Katalónía Kappaksturinn | Tímatökur) - Form
+ ula 1 - viaplay
+DTSTART:20260613T140000
+DTEND:20260613T150000
+DTSTAMP:20260613T140000Z
+UID:2026-06-13T14:00:00/Track Positioning (Katalónía Kappaksturinn | Tí
+ matökur)
+DESCRIPTION:Track Positioning (Katalónía Kappaksturinn | Tímatökur) - 
+ Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Katalónía Kappaksturinn | Tímatökur) - Formula 1 - via
  play
 DTSTART:20260613T140000
@@ -536,17 +493,6 @@ DTEND:20260613T150000
 DTSTAMP:20260613T140000Z
 UID:2026-06-13T14:00:00/Onboard (Katalónía Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Katalónía Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Katalónía Kappaksturinn | Tímatökur) - Form
- ula 1 - viaplay
-DTSTART:20260613T140000
-DTEND:20260613T150000
-DTSTAMP:20260613T140000Z
-UID:2026-06-13T14:00:00/Track Positioning (Katalónía Kappaksturinn | Tí
- matökur)
-DESCRIPTION:Track Positioning (Katalónía Kappaksturinn | Tímatökur) - 
- Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Katalónía Kappaksturinn | Tímatökur) - Formula 1 - vi
@@ -616,10 +562,10 @@ DESCRIPTION:Barcelona (Kappakstur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barcelona (Kappakstur) - Porsche Supercup - viaplay
-DTSTART:20260614T080500
-DTEND:20260614T090500
-DTSTAMP:20260614T080500Z
-UID:2026-06-14T08:05:00/Barcelona (Kappakstur)
+DTSTART:20260614T081000
+DTEND:20260614T091000
+DTSTAMP:20260614T081000Z
+UID:2026-06-14T08:10:00/Barcelona (Kappakstur)
 DESCRIPTION:Barcelona (Kappakstur) - Porsche Supercup
 END:VEVENT
 BEGIN:VEVENT
@@ -707,6 +653,17 @@ UID:2026-06-14T12:30:00/Katalónía Kappaksturinn (Kappakstur)
 DESCRIPTION:Katalónía Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Katalónía Kappaksturinn | Kappakstur) - Formu
+ la 1 - viaplay
+DTSTART:20260614T130000
+DTEND:20260614T140000
+DTSTAMP:20260614T130000Z
+UID:2026-06-14T13:00:00/Track Positioning (Katalónía Kappaksturinn | Kap
+ pakstur)
+DESCRIPTION:Track Positioning (Katalónía Kappaksturinn | Kappakstur) - F
+ ormula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Katalónía Kappaksturinn | Kappakstur) - Formula 1 - viap
  lay
 DTSTART:20260614T130000
@@ -723,17 +680,6 @@ DTEND:20260614T140000
 DTSTAMP:20260614T130000Z
 UID:2026-06-14T13:00:00/Onboard (Katalónía Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Katalónía Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Katalónía Kappaksturinn | Kappakstur) - Formu
- la 1 - viaplay
-DTSTART:20260614T130000
-DTEND:20260614T140000
-DTSTAMP:20260614T130000Z
-UID:2026-06-14T13:00:00/Track Positioning (Katalónía Kappaksturinn | Kap
- pakstur)
-DESCRIPTION:Track Positioning (Katalónía Kappaksturinn | Kappakstur) - F
- ormula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Katalónía Kappaksturinn | Kappakstur) - Formula 1 - via
@@ -820,6 +766,14 @@ UID:2026-06-15T00:05:00/Vegas - Carolina
 DESCRIPTION:Vegas - Carolina - NHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20260615T100000
+DTEND:20260615T110000
+DTSTAMP:20260615T100000Z
+UID:2026-06-15T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nationals - Royals - Major League Baseball - viaplay
 DTSTART:20260615T223000
 DTEND:20260615T233000
@@ -836,11 +790,75 @@ UID:2026-06-16T01:30:00/Athletics - Pirates
 DESCRIPTION:Athletics - Pirates - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20260616T100000
+DTEND:20260616T110000
+DTSTAMP:20260616T100000Z
+UID:2026-06-16T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Royal Ascot - Crown Jewels Racing - viaplay
+DTSTART:20260616T123000
+DTEND:20260616T133000
+DTSTAMP:20260616T123000Z
+UID:2026-06-16T12:30:00/Royal Ascot
+DESCRIPTION:Royal Ascot - Crown Jewels Racing
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Sox - Blue Jays - Major League Baseball - viaplay
 DTSTART:20260616T223000
 DTEND:20260616T233000
 DTSTAMP:20260616T223000Z
 UID:2026-06-16T22:30:00/Red Sox - Blue Jays
+DESCRIPTION:Red Sox - Blue Jays - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mariners - Orioles - Major League Baseball - viaplay
+DTSTART:20260617T013000
+DTEND:20260617T023000
+DTSTAMP:20260617T013000Z
+UID:2026-06-17T01:30:00/Mariners - Orioles
+DESCRIPTION:Mariners - Orioles - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHL Tonight - NHL - viaplay
+DTSTART:20260617T100000
+DTEND:20260617T110000
+DTSTAMP:20260617T100000Z
+UID:2026-06-17T10:00:00/NHL Tonight
+DESCRIPTION:NHL Tonight - NHL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Royal Ascot - Crown Jewels Racing - viaplay
+DTSTART:20260617T123000
+DTEND:20260617T133000
+DTSTAMP:20260617T123000Z
+UID:2026-06-17T12:30:00/Royal Ascot
+DESCRIPTION:Royal Ascot - Crown Jewels Racing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reds - Mets - Major League Baseball - viaplay
+DTSTART:20260617T163000
+DTEND:20260617T173000
+DTSTAMP:20260617T163000Z
+UID:2026-06-17T16:30:00/Reds - Mets
+DESCRIPTION:Reds - Mets - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Djurgården - Malmö FF - OBOS Damallsvenskan - viaplay
+DTSTART:20260617T165000
+DTEND:20260617T175000
+DTSTAMP:20260617T165000Z
+UID:2026-06-17T16:50:00/Djurgården - Malmö FF
+DESCRIPTION:Djurgården - Malmö FF - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Sox - Blue Jays - Major League Baseball - viaplay
+DTSTART:20260617T223000
+DTEND:20260617T233000
+DTSTAMP:20260617T223000Z
+UID:2026-06-17T22:30:00/Red Sox - Blue Jays
 DESCRIPTION:Red Sox - Blue Jays - Major League Baseball
 END:VEVENT
 END:VCALENDAR
