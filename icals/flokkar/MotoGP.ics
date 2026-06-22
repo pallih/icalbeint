@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - MotoGP - ical
 BEGIN:VEVENT
-SUMMARY:Tékkneska kappaksturinn (Warm Up) - MotoGP - viaplay
-DTSTART:20260621T073500
-DTEND:20260621T083500
-DTSTAMP:20260621T073500Z
-UID:2026-06-21T07:35:00/Tékkneska kappaksturinn (Warm Up)
-DESCRIPTION:Tékkneska kappaksturinn (Warm Up) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tékkneska kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20260621T111500
-DTEND:20260621T121500
-DTSTAMP:20260621T111500Z
-UID:2026-06-21T11:15:00/Tékkneska kappaksturinn (Kappakstur)
-DESCRIPTION:Tékkneska kappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hollenski kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
 DTSTART:20260626T083500
 DTEND:20260626T093500
@@ -56,5 +40,21 @@ DTEND:20260627T133000
 DTSTAMP:20260627T123000Z
 UID:2026-06-27T12:30:00/Hollenski kappaksturinn (Sprettkeppni)
 DESCRIPTION:Hollenski kappaksturinn (Sprettkeppni) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hollenski kappaksturinn (Warm Up) - MotoGP - viaplay
+DTSTART:20260628T073500
+DTEND:20260628T083500
+DTSTAMP:20260628T073500Z
+UID:2026-06-28T07:35:00/Hollenski kappaksturinn (Warm Up)
+DESCRIPTION:Hollenski kappaksturinn (Warm Up) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hollenski kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20260628T111500
+DTEND:20260628T121500
+DTSTAMP:20260628T111500Z
+UID:2026-06-28T11:15:00/Hollenski kappaksturinn (Kappakstur)
+DESCRIPTION:Hollenski kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 END:VCALENDAR
