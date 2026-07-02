@@ -10,14 +10,6 @@ UID:2026-07-03T06:40:00/Silverstone (Æfing)
 DESCRIPTION:Silverstone (Æfing) - F1 Academy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silverstone Kappaksturinn (Æfing 1) - Formula 1 - viaplay
-DTSTART:20260703T112500
-DTEND:20260703T122500
-DTSTAMP:20260703T112500Z
-UID:2026-07-03T11:25:00/Silverstone Kappaksturinn (Æfing 1)
-DESCRIPTION:Silverstone Kappaksturinn (Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Bretland - Æfing 1 - Formúla 1 - synsportviaplay
 DTSTART:20260703T112500
 DTEND:20260703T122500
@@ -26,13 +18,21 @@ UID:2026-07-03T11:25:00/F1: Bretland - Æfing 1
 DESCRIPTION:F1: Bretland - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapla
- y
+SUMMARY:Silverstone Kappaksturinn (Æfing 1) - Formula 1 - viaplay
+DTSTART:20260703T112500
+DTEND:20260703T122500
+DTSTAMP:20260703T112500Z
+UID:2026-07-03T11:25:00/Silverstone Kappaksturinn (Æfing 1)
+DESCRIPTION:Silverstone Kappaksturinn (Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapl
+ ay
 DTSTART:20260703T113000
 DTEND:20260703T123000
 DTSTAMP:20260703T113000Z
-UID:2026-07-03T11:30:00/Timing (Silverstone Kappaksturinn | Æfing 1)
-DESCRIPTION:Timing (Silverstone Kappaksturinn | Æfing 1) - Formula 1
+UID:2026-07-03T11:30:00/Onboard (Silverstone Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Silverstone Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapl
@@ -44,6 +44,15 @@ UID:2026-07-03T11:30:00/Pitlane (Silverstone Kappaksturinn | Æfing 1)
 DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapla
+ y
+DTSTART:20260703T113000
+DTEND:20260703T123000
+DTSTAMP:20260703T113000Z
+UID:2026-07-03T11:30:00/Timing (Silverstone Kappaksturinn | Æfing 1)
+DESCRIPTION:Timing (Silverstone Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Silverstone Kappaksturinn | Æfing 1) - Formula
   1 - viaplay
 DTSTART:20260703T113000
@@ -53,15 +62,6 @@ UID:2026-07-03T11:30:00/Track Positioning (Silverstone Kappaksturinn | Æf
  ing 1)
 DESCRIPTION:Track Positioning (Silverstone Kappaksturinn | Æfing 1) - For
  mula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapl
- ay
-DTSTART:20260703T113000
-DTEND:20260703T123000
-DTSTAMP:20260703T113000Z
-UID:2026-07-03T11:30:00/Onboard (Silverstone Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Silverstone Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone (Tímatökur) - Formula 3 - viaplay
@@ -80,20 +80,20 @@ UID:2026-07-03T13:50:00/Silverstone (Tímatökur)
 DESCRIPTION:Silverstone (Tímatökur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silverstone Kappaksturinn (Sprint Shootout) - Formula 1 - viaplay
-DTSTART:20260703T152500
-DTEND:20260703T162500
-DTSTAMP:20260703T152500Z
-UID:2026-07-03T15:25:00/Silverstone Kappaksturinn (Sprint Shootout)
-DESCRIPTION:Silverstone Kappaksturinn (Sprint Shootout) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Bretland - Sprint tímataka - Formúla 1 - synsportviaplay
 DTSTART:20260703T152500
 DTEND:20260703T162500
 DTSTAMP:20260703T152500Z
 UID:2026-07-03T15:25:00/F1: Bretland - Sprint tímataka
 DESCRIPTION:F1: Bretland - Sprint tímataka - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Sprint Shootout) - Formula 1 - viaplay
+DTSTART:20260703T152500
+DTEND:20260703T162500
+DTSTAMP:20260703T152500Z
+UID:2026-07-03T15:25:00/Silverstone Kappaksturinn (Sprint Shootout)
+DESCRIPTION:Silverstone Kappaksturinn (Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Silverstone Kappaksturinn | Sprint Shootout) - Formula 1 
@@ -104,6 +104,17 @@ DTSTAMP:20260703T153000Z
 UID:2026-07-03T15:30:00/Onboard (Silverstone Kappaksturinn | Sprint Shooto
  ut)
 DESCRIPTION:Onboard (Silverstone Kappaksturinn | Sprint Shootout) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Silverstone Kappaksturinn | Sprint Shootout) - Formula 1 
+ - viaplay
+DTSTART:20260703T153000
+DTEND:20260703T163000
+DTSTAMP:20260703T153000Z
+UID:2026-07-03T15:30:00/Pitlane (Silverstone Kappaksturinn | Sprint Shooto
+ ut)
+DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Sprint Shootout) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
@@ -127,17 +138,6 @@ UID:2026-07-03T15:30:00/Timing (Silverstone Kappaksturinn | Sprint Shootou
  t)
 DESCRIPTION:Timing (Silverstone Kappaksturinn | Sprint Shootout) - Formula
   1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Silverstone Kappaksturinn | Sprint Shootout) - Formula 1 
- - viaplay
-DTSTART:20260703T153000
-DTEND:20260703T163000
-DTSTAMP:20260703T153000Z
-UID:2026-07-03T15:30:00/Pitlane (Silverstone Kappaksturinn | Sprint Shooto
- ut)
-DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Sprint Shootout) - Formul
- a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone (Tímatökur) - F1 Academy - viaplay
@@ -189,6 +189,14 @@ UID:2026-07-04T09:15:00/Norisring (Kappakstur 1)
 DESCRIPTION:Norisring (Kappakstur 1) - Porsche Carrera Cup Deutschland
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:F1: Bretland - Sprint keppni - Formúla 1 - synsportviaplay
+DTSTART:20260704T105500
+DTEND:20260704T115500
+DTSTAMP:20260704T105500Z
+UID:2026-07-04T10:55:00/F1: Bretland - Sprint keppni
+DESCRIPTION:F1: Bretland - Sprint keppni - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:F1 Kids: Silverstone Kappaksturinn (Sprettkeppni) - Formula 1 - vi
  aplay
 DTSTART:20260704T105500
@@ -206,12 +214,13 @@ UID:2026-07-04T10:55:00/Silverstone Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Silverstone Kappaksturinn (Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Bretland - Sprint keppni - Formúla 1 - synsportviaplay
-DTSTART:20260704T105500
-DTEND:20260704T115500
-DTSTAMP:20260704T105500Z
-UID:2026-07-04T10:55:00/F1: Bretland - Sprint keppni
-DESCRIPTION:F1: Bretland - Sprint keppni - Formúla 1
+SUMMARY:Pitlane (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - v
+ iaplay
+DTSTART:20260704T110000
+DTEND:20260704T120000
+DTSTAMP:20260704T110000Z
+UID:2026-07-04T11:00:00/Pitlane (Silverstone Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Silverstone Kappaksturinn | Sprettkeppni) - For
@@ -225,24 +234,6 @@ DESCRIPTION:Track Positioning (Silverstone Kappaksturinn | Sprettkeppni) -
   Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - vi
- aplay
-DTSTART:20260704T110000
-DTEND:20260704T120000
-DTSTAMP:20260704T110000Z
-UID:2026-07-04T11:00:00/Timing (Silverstone Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Timing (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - v
- iaplay
-DTSTART:20260704T110000
-DTEND:20260704T120000
-DTSTAMP:20260704T110000Z
-UID:2026-07-04T11:00:00/Pitlane (Silverstone Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - v
  iaplay
 DTSTART:20260704T110000
@@ -250,6 +241,15 @@ DTEND:20260704T120000
 DTSTAMP:20260704T110000Z
 UID:2026-07-04T11:00:00/Onboard (Silverstone Kappaksturinn | Sprettkeppni)
 DESCRIPTION:Onboard (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - vi
+ aplay
+DTSTART:20260704T110000
+DTEND:20260704T120000
+DTSTAMP:20260704T110000Z
+UID:2026-07-04T11:00:00/Timing (Silverstone Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Timing (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norisring (Kappakstur 1) - DTM - viaplay
@@ -301,20 +301,20 @@ UID:2026-07-04T14:00:00/Honda Indy 200 at Mid-Ohio (Æfing 2)
 DESCRIPTION:Honda Indy 200 at Mid-Ohio (Æfing 2) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Bretland - Tímataka - Formúla 1 - synsportviaplay
-DTSTART:20260704T145500
-DTEND:20260704T155500
-DTSTAMP:20260704T145500Z
-UID:2026-07-04T14:55:00/F1: Bretland - Tímataka
-DESCRIPTION:F1: Bretland - Tímataka - Formúla 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20260704T145500
 DTEND:20260704T155500
 DTSTAMP:20260704T145500Z
 UID:2026-07-04T14:55:00/Silverstone Kappaksturinn (Tímatökur)
 DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1: Bretland - Tímataka - Formúla 1 - synsportviaplay
+DTSTART:20260704T145500
+DTEND:20260704T155500
+DTSTAMP:20260704T145500Z
+UID:2026-07-04T14:55:00/F1: Bretland - Tímataka
+DESCRIPTION:F1: Bretland - Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Silverstone Kappaksturinn | Tímatökur) - Formula 1 - vi
@@ -324,15 +324,6 @@ DTEND:20260704T160000
 DTSTAMP:20260704T150000Z
 UID:2026-07-04T15:00:00/Onboard (Silverstone Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Silverstone Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Silverstone Kappaksturinn | Tímatökur) - Formula 1 - vi
- aplay
-DTSTART:20260704T150000
-DTEND:20260704T160000
-DTSTAMP:20260704T150000Z
-UID:2026-07-04T15:00:00/Pitlane (Silverstone Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Silverstone Kappaksturinn | Tímatökur) - Formula 1 - via
@@ -353,6 +344,15 @@ UID:2026-07-04T15:00:00/Track Positioning (Silverstone Kappaksturinn | Tí
  matökur)
 DESCRIPTION:Track Positioning (Silverstone Kappaksturinn | Tímatökur) - 
  Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Silverstone Kappaksturinn | Tímatökur) - Formula 1 - vi
+ aplay
+DTSTART:20260704T150000
+DTEND:20260704T160000
+DTSTAMP:20260704T150000Z
+UID:2026-07-04T15:00:00/Pitlane (Silverstone Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hungaroring (Kappakstur 1) - Formula Regional European Championshi
@@ -498,6 +498,14 @@ UID:2026-07-05T13:55:00/F1 Kids: Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:F1 Kids: Silverstone Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grand Prix at Mid-Ohio (Kappakstur 2) - Indy NXT - viaplay
+DTSTART:20260705T140000
+DTEND:20260705T150000
+DTSTAMP:20260705T140000Z
+UID:2026-07-05T14:00:00/Grand Prix at Mid-Ohio (Kappakstur 2)
+DESCRIPTION:Grand Prix at Mid-Ohio (Kappakstur 2) - Indy NXT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Silverstone Kappaksturinn | Kappakstur) - Formula 1 - viap
  lay
 DTSTART:20260705T140000
@@ -505,14 +513,6 @@ DTEND:20260705T150000
 DTSTAMP:20260705T140000Z
 UID:2026-07-05T14:00:00/Timing (Silverstone Kappaksturinn | Kappakstur)
 DESCRIPTION:Timing (Silverstone Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grand Prix at Mid-Ohio (Kappakstur 2) - Indy NXT - viaplay
-DTSTART:20260705T140000
-DTEND:20260705T150000
-DTSTAMP:20260705T140000Z
-UID:2026-07-05T14:00:00/Grand Prix at Mid-Ohio (Kappakstur 2)
-DESCRIPTION:Grand Prix at Mid-Ohio (Kappakstur 2) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Silverstone Kappaksturinn | Kappakstur) - Formula 1 - via

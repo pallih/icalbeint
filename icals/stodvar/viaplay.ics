@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Mariners - Angels - Major League Baseball - viaplay
-DTSTART:20260701T013000
-DTEND:20260701T023000
-DTSTAMP:20260701T013000Z
-UID:2026-07-01T01:30:00/Mariners - Angels
-DESCRIPTION:Mariners - Angels - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Championship League Snooker - Snóker - viaplay
-DTSTART:20260701T100000
-DTEND:20260701T110000
-DTSTAMP:20260701T100000Z
-UID:2026-07-01T10:00:00/Championship League Snooker
-DESCRIPTION:Championship League Snooker - Snóker
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NHL Tonight - NHL - viaplay
-DTSTART:20260701T100000
-DTEND:20260701T110000
-DTSTAMP:20260701T100000Z
-UID:2026-07-01T10:00:00/NHL Tonight
-DESCRIPTION:NHL Tonight - NHL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Championship League Snooker - Snóker - viaplay
-DTSTART:20260701T153000
-DTEND:20260701T163000
-DTSTAMP:20260701T153000Z
-UID:2026-07-01T15:30:00/Championship League Snooker
-DESCRIPTION:Championship League Snooker - Snóker
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians - Rangers - Major League Baseball - viaplay
-DTSTART:20260701T170000
-DTEND:20260701T180000
-DTSTAMP:20260701T170000Z
-UID:2026-07-01T17:00:00/Guardians - Rangers
-DESCRIPTION:Guardians - Rangers - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Braves - Cardinals - Major League Baseball - viaplay
-DTSTART:20260701T230000
-DTEND:20260702T000000
-DTSTAMP:20260701T230000Z
-UID:2026-07-01T23:00:00/Braves - Cardinals
-DESCRIPTION:Braves - Cardinals - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Championship League Snooker - Snóker - viaplay
 DTSTART:20260702T100000
 DTEND:20260702T110000
@@ -122,13 +74,13 @@ UID:2026-07-03T11:25:00/Silverstone Kappaksturinn (Æfing 1)
 DESCRIPTION:Silverstone Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapla
- y
+SUMMARY:Onboard (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapl
+ ay
 DTSTART:20260703T113000
 DTEND:20260703T123000
 DTSTAMP:20260703T113000Z
-UID:2026-07-03T11:30:00/Timing (Silverstone Kappaksturinn | Æfing 1)
-DESCRIPTION:Timing (Silverstone Kappaksturinn | Æfing 1) - Formula 1
+UID:2026-07-03T11:30:00/Onboard (Silverstone Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Silverstone Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapl
@@ -140,6 +92,15 @@ UID:2026-07-03T11:30:00/Pitlane (Silverstone Kappaksturinn | Æfing 1)
 DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapla
+ y
+DTSTART:20260703T113000
+DTEND:20260703T123000
+DTSTAMP:20260703T113000Z
+UID:2026-07-03T11:30:00/Timing (Silverstone Kappaksturinn | Æfing 1)
+DESCRIPTION:Timing (Silverstone Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Silverstone Kappaksturinn | Æfing 1) - Formula
   1 - viaplay
 DTSTART:20260703T113000
@@ -149,15 +110,6 @@ UID:2026-07-03T11:30:00/Track Positioning (Silverstone Kappaksturinn | Æf
  ing 1)
 DESCRIPTION:Track Positioning (Silverstone Kappaksturinn | Æfing 1) - For
  mula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Silverstone Kappaksturinn | Æfing 1) - Formula 1 - viapl
- ay
-DTSTART:20260703T113000
-DTEND:20260703T123000
-DTSTAMP:20260703T113000Z
-UID:2026-07-03T11:30:00/Onboard (Silverstone Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Silverstone Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone (Tímatökur) - Formula 3 - viaplay
@@ -203,6 +155,17 @@ DESCRIPTION:Onboard (Silverstone Kappaksturinn | Sprint Shootout) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Silverstone Kappaksturinn | Sprint Shootout) - Formula 1 
+ - viaplay
+DTSTART:20260703T153000
+DTEND:20260703T163000
+DTSTAMP:20260703T153000Z
+UID:2026-07-03T15:30:00/Pitlane (Silverstone Kappaksturinn | Sprint Shooto
+ ut)
+DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Sprint Shootout) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Championship League Snooker - Snóker - viaplay
 DTSTART:20260703T153000
 DTEND:20260703T163000
@@ -231,17 +194,6 @@ UID:2026-07-03T15:30:00/Timing (Silverstone Kappaksturinn | Sprint Shootou
  t)
 DESCRIPTION:Timing (Silverstone Kappaksturinn | Sprint Shootout) - Formula
   1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Silverstone Kappaksturinn | Sprint Shootout) - Formula 1 
- - viaplay
-DTSTART:20260703T153000
-DTEND:20260703T163000
-DTSTAMP:20260703T153000Z
-UID:2026-07-03T15:30:00/Pitlane (Silverstone Kappaksturinn | Sprint Shooto
- ut)
-DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Sprint Shootout) - Formul
- a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone (Tímatökur) - F1 Academy - viaplay
@@ -334,6 +286,15 @@ UID:2026-07-04T10:55:00/Silverstone Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Silverstone Kappaksturinn (Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - v
+ iaplay
+DTSTART:20260704T110000
+DTEND:20260704T120000
+DTSTAMP:20260704T110000Z
+UID:2026-07-04T11:00:00/Pitlane (Silverstone Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Silverstone Kappaksturinn | Sprettkeppni) - For
  mula 1 - viaplay
 DTSTART:20260704T110000
@@ -345,24 +306,6 @@ DESCRIPTION:Track Positioning (Silverstone Kappaksturinn | Sprettkeppni) -
   Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - vi
- aplay
-DTSTART:20260704T110000
-DTEND:20260704T120000
-DTSTAMP:20260704T110000Z
-UID:2026-07-04T11:00:00/Timing (Silverstone Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Timing (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - v
- iaplay
-DTSTART:20260704T110000
-DTEND:20260704T120000
-DTSTAMP:20260704T110000Z
-UID:2026-07-04T11:00:00/Pitlane (Silverstone Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - v
  iaplay
 DTSTART:20260704T110000
@@ -370,6 +313,15 @@ DTEND:20260704T120000
 DTSTAMP:20260704T110000Z
 UID:2026-07-04T11:00:00/Onboard (Silverstone Kappaksturinn | Sprettkeppni)
 DESCRIPTION:Onboard (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1 - vi
+ aplay
+DTSTART:20260704T110000
+DTEND:20260704T120000
+DTSTAMP:20260704T110000Z
+UID:2026-07-04T11:00:00/Timing (Silverstone Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Timing (Silverstone Kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norisring (Kappakstur 1) - DTM - viaplay
@@ -421,20 +373,20 @@ UID:2026-07-04T13:15:00/Durban July G1
 DESCRIPTION:Durban July G1 - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Honda Indy 200 at Mid-Ohio (Æfing 2) - IndyCar - viaplay
-DTSTART:20260704T140000
-DTEND:20260704T150000
-DTSTAMP:20260704T140000Z
-UID:2026-07-04T14:00:00/Honda Indy 200 at Mid-Ohio (Æfing 2)
-DESCRIPTION:Honda Indy 200 at Mid-Ohio (Æfing 2) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hulencourt Women’s Open - Ladies European Tour - viaplay
 DTSTART:20260704T140000
 DTEND:20260704T150000
 DTSTAMP:20260704T140000Z
 UID:2026-07-04T14:00:00/Hulencourt Women’s Open
 DESCRIPTION:Hulencourt Women’s Open - Ladies European Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honda Indy 200 at Mid-Ohio (Æfing 2) - IndyCar - viaplay
+DTSTART:20260704T140000
+DTEND:20260704T150000
+DTSTAMP:20260704T140000Z
+UID:2026-07-04T14:00:00/Honda Indy 200 at Mid-Ohio (Æfing 2)
+DESCRIPTION:Honda Indy 200 at Mid-Ohio (Æfing 2) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Tímatökur) - Formula 1 - viaplay
@@ -452,15 +404,6 @@ DTEND:20260704T160000
 DTSTAMP:20260704T150000Z
 UID:2026-07-04T15:00:00/Onboard (Silverstone Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Silverstone Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Silverstone Kappaksturinn | Tímatökur) - Formula 1 - vi
- aplay
-DTSTART:20260704T150000
-DTEND:20260704T160000
-DTSTAMP:20260704T150000Z
-UID:2026-07-04T15:00:00/Pitlane (Silverstone Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nationals - Pirates - Major League Baseball - viaplay
@@ -489,6 +432,15 @@ UID:2026-07-04T15:00:00/Track Positioning (Silverstone Kappaksturinn | Tí
  matökur)
 DESCRIPTION:Track Positioning (Silverstone Kappaksturinn | Tímatökur) - 
  Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Silverstone Kappaksturinn | Tímatökur) - Formula 1 - vi
+ aplay
+DTSTART:20260704T150000
+DTEND:20260704T160000
+DTSTAMP:20260704T150000Z
+UID:2026-07-04T15:00:00/Pitlane (Silverstone Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Silverstone Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Championship League Snooker - Snóker - viaplay
@@ -658,6 +610,14 @@ UID:2026-07-05T13:55:00/F1 Kids: Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:F1 Kids: Silverstone Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grand Prix at Mid-Ohio (Kappakstur 2) - Indy NXT - viaplay
+DTSTART:20260705T140000
+DTEND:20260705T150000
+DTSTAMP:20260705T140000Z
+UID:2026-07-05T14:00:00/Grand Prix at Mid-Ohio (Kappakstur 2)
+DESCRIPTION:Grand Prix at Mid-Ohio (Kappakstur 2) - Indy NXT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Silverstone Kappaksturinn | Kappakstur) - Formula 1 - viap
  lay
 DTSTART:20260705T140000
@@ -665,14 +625,6 @@ DTEND:20260705T150000
 DTSTAMP:20260705T140000Z
 UID:2026-07-05T14:00:00/Timing (Silverstone Kappaksturinn | Kappakstur)
 DESCRIPTION:Timing (Silverstone Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grand Prix at Mid-Ohio (Kappakstur 2) - Indy NXT - viaplay
-DTSTART:20260705T140000
-DTEND:20260705T150000
-DTSTAMP:20260705T140000Z
-UID:2026-07-05T14:00:00/Grand Prix at Mid-Ohio (Kappakstur 2)
-DESCRIPTION:Grand Prix at Mid-Ohio (Kappakstur 2) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Silverstone Kappaksturinn | Kappakstur) - Formula 1 - via
@@ -799,5 +751,45 @@ DTEND:20260707T233000
 DTSTAMP:20260707T223000Z
 UID:2026-07-07T22:30:00/Pirates - Braves
 DESCRIPTION:Pirates - Braves - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giants - Blue Jays - Major League Baseball - viaplay
+DTSTART:20260708T013000
+DTEND:20260708T023000
+DTSTAMP:20260708T013000Z
+UID:2026-07-08T01:30:00/Giants - Blue Jays
+DESCRIPTION:Giants - Blue Jays - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Championship League Snooker - Snóker - viaplay
+DTSTART:20260708T100000
+DTEND:20260708T110000
+DTSTAMP:20260708T100000Z
+UID:2026-07-08T10:00:00/Championship League Snooker
+DESCRIPTION:Championship League Snooker - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Championship League Snooker - Snóker - viaplay
+DTSTART:20260708T153000
+DTEND:20260708T163000
+DTSTAMP:20260708T153000Z
+UID:2026-07-08T15:30:00/Championship League Snooker
+DESCRIPTION:Championship League Snooker - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giants - Blue Jays - Major League Baseball - viaplay
+DTSTART:20260708T193000
+DTEND:20260708T203000
+DTSTAMP:20260708T193000Z
+UID:2026-07-08T19:30:00/Giants - Blue Jays
+DESCRIPTION:Giants - Blue Jays - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twins - Guardians - Major League Baseball - viaplay
+DTSTART:20260708T233000
+DTEND:20260709T003000
+DTSTAMP:20260708T233000Z
+UID:2026-07-08T23:30:00/Twins - Guardians
+DESCRIPTION:Twins - Guardians - Major League Baseball
 END:VEVENT
 END:VCALENDAR
