@@ -2,63 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Stofan - HM karla í fótbolta - ruv2
-DTSTART:20260704T163000
-DTEND:20260704T173000
-DTSTAMP:20260704T163000Z
-UID:2026-07-04T16:30:00/Stofan
-DESCRIPTION:Stofan - HM karla í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kanada - Marokkó - 16-liða úrslit - HM karla í fótbolta - ruv
- 2
-DTSTART:20260704T170000
-DTEND:20260704T180000
-DTSTAMP:20260704T170000Z
-UID:2026-07-04T17:00:00/Kanada - Marokkó - 16-liða úrslit
-DESCRIPTION:Kanada - Marokkó - 16-liða úrslit - HM karla í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stofan - HM karla í fótbolta - ruv2
-DTSTART:20260704T190500
-DTEND:20260704T200500
-DTSTAMP:20260704T190500Z
-UID:2026-07-04T19:05:00/Stofan
-DESCRIPTION:Stofan - HM karla í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stofan - HM karla í fótbolta - ruv
-DTSTART:20260704T203000
-DTEND:20260704T213000
-DTSTAMP:20260704T203000Z
-UID:2026-07-04T20:30:00/Stofan
-DESCRIPTION:Stofan - HM karla í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paragvæ - Frakkland - 16-liða úrslit - HM karla í fótbolta - 
- ruv
-DTSTART:20260704T210000
-DTEND:20260704T220000
-DTSTAMP:20260704T210000Z
-UID:2026-07-04T21:00:00/Paragvæ - Frakkland - 16-liða úrslit
-DESCRIPTION:Paragvæ - Frakkland - 16-liða úrslit - HM karla í fótbolt
- a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HM kvöld - HM karla í fótbolta - ruv
-DTSTART:20260704T230500
-DTEND:20260705T000500
-DTSTAMP:20260704T230500Z
-UID:2026-07-04T23:05:00/HM kvöld
-DESCRIPTION:HM kvöld - HM karla í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stofan - HM karla í fótbolta - ruv
+SUMMARY:Stofan - Íþróttaþættir - ruv
 DTSTART:20260705T133500
 DTEND:20260705T143500
 DTSTAMP:20260705T133500Z
 UID:2026-07-05T13:35:00/Stofan
-DESCRIPTION:Stofan - HM karla í fótbolta
+DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bretland - Ísland - Undankeppni HM karla í körfubolta - ruv
@@ -69,12 +18,12 @@ UID:2026-07-05T14:00:00/Bretland - Ísland
 DESCRIPTION:Bretland - Ísland - Undankeppni HM karla í körfubolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stofan - HM karla í fótbolta - ruv
+SUMMARY:Stofan - Íþróttaþættir - ruv
 DTSTART:20260705T155000
 DTEND:20260705T165000
 DTSTAMP:20260705T155000Z
 UID:2026-07-05T15:50:00/Stofan
-DESCRIPTION:Stofan - HM karla í fótbolta
+DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stofan - HM karla í fótbolta - ruv
@@ -213,12 +162,13 @@ UID:2026-07-09T19:35:00/Stofan
 DESCRIPTION:Stofan - HM karla í fótbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8-liða úrslit - HM karla í fótbolta - ruv
+SUMMARY:Frakkland - Marokkó - 8-liða úrslit - HM karla í fótbolta - r
+ uv
 DTSTART:20260709T200000
 DTEND:20260709T210000
 DTSTAMP:20260709T200000Z
-UID:2026-07-09T20:00:00/8-liða úrslit
-DESCRIPTION:8-liða úrslit - HM karla í fótbolta
+UID:2026-07-09T20:00:00/Frakkland - Marokkó - 8-liða úrslit
+DESCRIPTION:Frakkland - Marokkó - 8-liða úrslit - HM karla í fótbolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HM kvöld - HM karla í fótbolta - ruv
@@ -229,11 +179,35 @@ UID:2026-07-09T22:05:00/HM kvöld
 DESCRIPTION:HM kvöld - HM karla í fótbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stofan - HM karla í fótbolta - ruv
+DTSTART:20260710T183000
+DTEND:20260710T193000
+DTSTAMP:20260710T183000Z
+UID:2026-07-10T18:30:00/Stofan
+DESCRIPTION:Stofan - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:8-liða úrslit - HM karla í fótbolta - ruv
 DTSTART:20260710T190000
 DTEND:20260710T200000
 DTSTAMP:20260710T190000Z
 UID:2026-07-10T19:00:00/8-liða úrslit
+DESCRIPTION:8-liða úrslit - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HM kvöld - HM karla í fótbolta - ruv
+DTSTART:20260710T210500
+DTEND:20260710T220500
+DTSTAMP:20260710T210500Z
+UID:2026-07-10T21:05:00/HM kvöld
+DESCRIPTION:HM kvöld - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8-liða úrslit - HM karla í fótbolta - ruv
+DTSTART:20260711T210000
+DTEND:20260711T220000
+DTSTAMP:20260711T210000Z
+UID:2026-07-11T21:00:00/8-liða úrslit
 DESCRIPTION:8-liða úrslit - HM karla í fótbolta
 END:VEVENT
 END:VCALENDAR
