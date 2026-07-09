@@ -20,20 +20,20 @@ DESCRIPTION:Stjarnan - Víkingur Göta - Evrópuleikir íslenskra félagsl
  iða
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Þróttur R. - Besta deild kvenna - synsportisland2
-DTSTART:20260709T190500
-DTEND:20260709T200500
-DTSTAMP:20260709T190500Z
-UID:2026-07-09T19:05:00/FH - Þróttur R.
-DESCRIPTION:FH - Þróttur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - Breiðablik - Besta deild kvenna - synsportisland3
 DTSTART:20260709T190500
 DTEND:20260709T200500
 DTSTAMP:20260709T190500Z
 UID:2026-07-09T19:05:00/Fram - Breiðablik
 DESCRIPTION:Fram - Breiðablik - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Þróttur R. - Besta deild kvenna - synsportisland2
+DTSTART:20260709T190500
+DTEND:20260709T200500
+DTSTAMP:20260709T190500Z
+UID:2026-07-09T19:05:00/FH - Þróttur R.
+DESCRIPTION:FH - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Völsungur - FHL - Lengjudeildin - livey
@@ -44,13 +44,12 @@ UID:2026-07-09T19:15:00/Völsungur - FHL
 DESCRIPTION:Völsungur - FHL - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór/KA - Grindavík/Njarðvík - Besta deild kvenna - synsportis
- land4
+SUMMARY:Selfoss - KR - Lengjudeildin - livey
 DTSTART:20260709T191500
 DTEND:20260709T201500
 DTSTAMP:20260709T191500Z
-UID:2026-07-09T19:15:00/Þór/KA - Grindavík/Njarðvík
-DESCRIPTION:Þór/KA - Grindavík/Njarðvík - Besta deild kvenna
+UID:2026-07-09T19:15:00/Selfoss - KR
+DESCRIPTION:Selfoss - KR - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Grótta - Lengjudeildin - livey
@@ -61,12 +60,13 @@ UID:2026-07-09T19:15:00/Haukar - Grótta
 DESCRIPTION:Haukar - Grótta - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Selfoss - KR - Lengjudeildin - livey
+SUMMARY:Þór/KA - Grindavík/Njarðvík - Besta deild kvenna - synsportis
+ land4
 DTSTART:20260709T191500
 DTEND:20260709T201500
 DTSTAMP:20260709T191500Z
-UID:2026-07-09T19:15:00/Selfoss - KR
-DESCRIPTION:Selfoss - KR - Lengjudeildin
+UID:2026-07-09T19:15:00/Þór/KA - Grindavík/Njarðvík
+DESCRIPTION:Þór/KA - Grindavík/Njarðvík - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stofan - HM karla í fótbolta - ruv
@@ -126,20 +126,12 @@ UID:2026-07-10T19:00:00/Spánn - Belgía - 8-liða úrslit
 DESCRIPTION:Spánn - Belgía - 8-liða úrslit - HM karla í fótbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leiknir R. - Grótta - Lengjudeildin - livey
+SUMMARY:Njarðvík - Grindavík - Lengjudeildin - livey
 DTSTART:20260710T191500
 DTEND:20260710T201500
 DTSTAMP:20260710T191500Z
-UID:2026-07-10T19:15:00/Leiknir R. - Grótta
-DESCRIPTION:Leiknir R. - Grótta - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Þróttur R. - Lengjudeildin - livey
-DTSTART:20260710T191500
-DTEND:20260710T201500
-DTSTAMP:20260710T191500Z
-UID:2026-07-10T19:15:00/ÍR - Þróttur R.
-DESCRIPTION:ÍR - Þróttur R. - Lengjudeildin
+UID:2026-07-10T19:15:00/Njarðvík - Grindavík
+DESCRIPTION:Njarðvík - Grindavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ægir - HK - Lengjudeildin - livey
@@ -150,12 +142,28 @@ UID:2026-07-10T19:15:00/Ægir - HK
 DESCRIPTION:Ægir - HK - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Grindavík - Lengjudeildin - livey
+SUMMARY:ÍR - Þróttur R. - Lengjudeildin - livey
 DTSTART:20260710T191500
 DTEND:20260710T201500
 DTSTAMP:20260710T191500Z
-UID:2026-07-10T19:15:00/Njarðvík - Grindavík
-DESCRIPTION:Njarðvík - Grindavík - Lengjudeildin
+UID:2026-07-10T19:15:00/ÍR - Þróttur R.
+DESCRIPTION:ÍR - Þróttur R. - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leiknir R. - Grótta - Lengjudeildin - livey
+DTSTART:20260710T191500
+DTEND:20260710T201500
+DTSTAMP:20260710T191500Z
+UID:2026-07-10T19:15:00/Leiknir R. - Grótta
+DESCRIPTION:Leiknir R. - Grótta - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Álftanes - KFR - 2. deild  - livey
+DTSTART:20260710T191500
+DTEND:20260710T201500
+DTSTAMP:20260710T191500Z
+UID:2026-07-10T19:15:00/Álftanes - KFR
+DESCRIPTION:Álftanes - KFR - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍA - HK - Lengjudeildin - livey
@@ -182,12 +190,36 @@ UID:2026-07-10T21:05:00/HM kvöld
 DESCRIPTION:HM kvöld - HM karla í fótbolta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Einherji - Augnablik - 2. deild  - livey
+DTSTART:20260711T140000
+DTEND:20260711T150000
+DTSTAMP:20260711T140000Z
+UID:2026-07-11T14:00:00/Einherji - Augnablik
+DESCRIPTION:Einherji - Augnablik - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vestri - Afturelding - 2. deild  - livey
+DTSTART:20260711T140000
+DTEND:20260711T150000
+DTSTAMP:20260711T140000Z
+UID:2026-07-11T14:00:00/Vestri - Afturelding
+DESCRIPTION:Vestri - Afturelding - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Völsungur - Afturelding - Lengjudeildin - livey
 DTSTART:20260711T140000
 DTEND:20260711T150000
 DTSTAMP:20260711T140000Z
 UID:2026-07-11T14:00:00/Völsungur - Afturelding
 DESCRIPTION:Völsungur - Afturelding - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - Hvíti riddarinn - 2. deild  - livey
+DTSTART:20260711T160000
+DTEND:20260711T170000
+DTSTAMP:20260711T160000Z
+UID:2026-07-11T16:00:00/Selfoss - Hvíti riddarinn
+DESCRIPTION:Selfoss - Hvíti riddarinn - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Tindastóll - Lengjudeildin - livey
@@ -228,6 +260,46 @@ DTEND:20260712T020000
 DTSTAMP:20260712T010000Z
 UID:2026-07-12T01:00:00/Argentína - Sviss - 8-liða úrslit
 DESCRIPTION:Argentína - Sviss - 8-liða úrslit - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þróttur V. - KFG - 2. deild  - livey
+DTSTART:20260712T140000
+DTEND:20260712T150000
+DTSTAMP:20260712T140000Z
+UID:2026-07-12T14:00:00/Þróttur V. - KFG
+DESCRIPTION:Þróttur V. - KFG - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kári - KFA - 2. deild  - livey
+DTSTART:20260712T140000
+DTEND:20260712T150000
+DTSTAMP:20260712T140000Z
+UID:2026-07-12T14:00:00/Kári - KFA
+DESCRIPTION:Kári - KFA - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dalvík/Reynir - Fjölnir - 2. deild  - livey
+DTSTART:20260712T160000
+DTEND:20260712T170000
+DTSTAMP:20260712T160000Z
+UID:2026-07-12T16:00:00/Dalvík/Reynir - Fjölnir
+DESCRIPTION:Dalvík/Reynir - Fjölnir - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kormákur/Hvöt - Víkingur Ó. - 2. deild  - livey
+DTSTART:20260712T160000
+DTEND:20260712T170000
+DTSTAMP:20260712T160000Z
+UID:2026-07-12T16:00:00/Kormákur/Hvöt - Víkingur Ó.
+DESCRIPTION:Kormákur/Hvöt - Víkingur Ó. - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magni - Haukar - 2. deild  - livey
+DTSTART:20260712T160000
+DTEND:20260712T170000
+DTSTAMP:20260712T160000Z
+UID:2026-07-12T16:00:00/Magni - Haukar
+DESCRIPTION:Magni - Haukar - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fram - Þór Ak. - Besta deild karla - synsportisland3
@@ -294,6 +366,14 @@ UID:2026-07-13T21:25:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Győri ETO - Víkingur - UEFA Champions League - livey
+DTSTART:20260714T170000
+DTEND:20260714T180000
+DTSTAMP:20260714T170000Z
+UID:2026-07-14T17:00:00/Győri ETO - Víkingur
+DESCRIPTION:Győri ETO - Víkingur - UEFA Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HK - ÍR - Lengjudeildin - livey
 DTSTART:20260714T170000
 DTEND:20260714T180000
@@ -318,6 +398,14 @@ UID:2026-07-14T18:00:00/Grótta - Grindavík
 DESCRIPTION:Grótta - Grindavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stofan - HM karla í fótbolta - ruv
+DTSTART:20260714T183000
+DTEND:20260714T193000
+DTSTAMP:20260714T183000Z
+UID:2026-07-14T18:30:00/Stofan
+DESCRIPTION:Stofan - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Undanúrslit - HM karla í fótbolta - ruv
 DTSTART:20260714T190000
 DTEND:20260714T200000
@@ -332,5 +420,37 @@ DTEND:20260714T200500
 DTSTAMP:20260714T190500Z
 UID:2026-07-14T19:05:00/Þróttur R. - Fram
 DESCRIPTION:Þróttur R. - Fram - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HM kvöld - HM karla í fótbolta - ruv
+DTSTART:20260714T210500
+DTEND:20260714T220500
+DTSTAMP:20260714T210500Z
+UID:2026-07-14T21:05:00/HM kvöld
+DESCRIPTION:HM kvöld - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍBV - Valur - Besta deild kvenna - synsportisland2
+DTSTART:20260715T175000
+DTEND:20260715T185000
+DTSTAMP:20260715T175000Z
+UID:2026-07-15T17:50:00/ÍBV - Valur
+DESCRIPTION:ÍBV - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Undanúrslit - HM karla í fótbolta - ruv
+DTSTART:20260715T190000
+DTEND:20260715T200000
+DTSTAMP:20260715T190000Z
+UID:2026-07-15T19:00:00/Undanúrslit
+DESCRIPTION:Undanúrslit - HM karla í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Víkingur R. - Besta deild kvenna - synsportisland
+DTSTART:20260715T190500
+DTEND:20260715T200500
+DTSTAMP:20260715T190500Z
+UID:2026-07-15T19:05:00/Breiðablik - Víkingur R.
+DESCRIPTION:Breiðablik - Víkingur R. - Besta deild kvenna
 END:VEVENT
 END:VCALENDAR
