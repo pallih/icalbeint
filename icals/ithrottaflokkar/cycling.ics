@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - cycling - ical
 BEGIN:VEVENT
-SUMMARY:Men | Malemort - Ussel (155.5km) - Tour de France - eurosport1
-DTSTART:20260712T113000
-DTEND:20260712T123000
-DTSTAMP:20260712T113000Z
-UID:2026-07-12T11:30:00/Men | Malemort - Ussel (155.5km)
-DESCRIPTION:Men | Malemort - Ussel (155.5km) - Tour de France
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Aurillac - Le Lioran (166.6km) - Tour de France - eurosport1
 DTSTART:20260714T110000
 DTEND:20260714T120000
@@ -43,5 +35,15 @@ DTEND:20260717T114500
 DTSTAMP:20260717T104500Z
 UID:2026-07-17T10:45:00/Men | Dole - Belfort (205km)
 DESCRIPTION:Men | Dole - Belfort (205km) - Tour de France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Mulhouse - Le Markstein Fellering (155km) - Tour de France -
+  eurosport1
+DTSTART:20260718T110000
+DTEND:20260718T120000
+DTSTAMP:20260718T110000Z
+UID:2026-07-18T11:00:00/Men | Mulhouse - Le Markstein Fellering (155km)
+DESCRIPTION:Men | Mulhouse - Le Markstein Fellering (155km) - Tour de Fran
+ ce
 END:VEVENT
 END:VCALENDAR
