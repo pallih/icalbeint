@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Championship League Snooker - Snóker - viaplay
-DTSTART:20260713T100000
-DTEND:20260713T110000
-DTSTAMP:20260713T100000Z
-UID:2026-07-13T10:00:00/Championship League Snooker
-DESCRIPTION:Championship League Snooker - Snóker
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Championship League Snooker - Snóker - viaplay
-DTSTART:20260713T153000
-DTEND:20260713T163000
-DTSTAMP:20260713T153000Z
-UID:2026-07-13T15:30:00/Championship League Snooker
-DESCRIPTION:Championship League Snooker - Snóker
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Home Run Derby - Major League Baseball - viaplay
 DTSTART:20260714T000000
 DTEND:20260714T010000
@@ -82,6 +66,22 @@ UID:2026-07-17T11:25:00/Belgíski Kappaksturinn (Æfing 1)
 DESCRIPTION:Belgíski Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Belgíski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260717T113000
+DTEND:20260717T123000
+DTSTAMP:20260717T113000Z
+UID:2026-07-17T11:30:00/Pitlane (Belgíski Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Belgíski Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Belgíski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260717T113000
+DTEND:20260717T123000
+DTSTAMP:20260717T113000Z
+UID:2026-07-17T11:30:00/Onboard (Belgíski Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Belgíski Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Belgíski Kappaksturinn | Æfing 1) - Formula 1
   - viaplay
 DTSTART:20260717T113000
@@ -93,28 +93,12 @@ DESCRIPTION:Track Positioning (Belgíski Kappaksturinn | Æfing 1) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Belgíski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260717T113000
-DTEND:20260717T123000
-DTSTAMP:20260717T113000Z
-UID:2026-07-17T11:30:00/Onboard (Belgíski Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Belgíski Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Belgíski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20260717T113000
 DTEND:20260717T123000
 DTSTAMP:20260717T113000Z
 UID:2026-07-17T11:30:00/Timing (Belgíski Kappaksturinn | Æfing 1)
 DESCRIPTION:Timing (Belgíski Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Belgíski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260717T113000
-DTEND:20260717T123000
-DTSTAMP:20260717T113000Z
-UID:2026-07-17T11:30:00/Pitlane (Belgíski Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Belgíski Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spa-Francorchamps (Tímatökur) - Formula 3 - viaplay
@@ -141,23 +125,12 @@ UID:2026-07-17T14:55:00/Belgía Grand Prix (Æfing 2)
 DESCRIPTION:Belgía Grand Prix (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Belgíski Kappaksturinn | Æfing 2) - Formula 1
-  - viaplay
+SUMMARY:Onboard (Belgíski Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20260717T150000
 DTEND:20260717T160000
 DTSTAMP:20260717T150000Z
-UID:2026-07-17T15:00:00/Track Positioning (Belgíski Kappaksturinn | Æfin
- g 2)
-DESCRIPTION:Track Positioning (Belgíski Kappaksturinn | Æfing 2) - Formu
- la 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Belgíski Kappaksturinn | Æfing 2) - Formula 1 - viaplay
-DTSTART:20260717T150000
-DTEND:20260717T160000
-DTSTAMP:20260717T150000Z
-UID:2026-07-17T15:00:00/Pitlane (Belgíski Kappaksturinn | Æfing 2)
-DESCRIPTION:Pitlane (Belgíski Kappaksturinn | Æfing 2) - Formula 1
+UID:2026-07-17T15:00:00/Onboard (Belgíski Kappaksturinn | Æfing 2)
+DESCRIPTION:Onboard (Belgíski Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Belgíski Kappaksturinn | Æfing 2) - Formula 1 - viaplay
@@ -168,12 +141,23 @@ UID:2026-07-17T15:00:00/Timing (Belgíski Kappaksturinn | Æfing 2)
 DESCRIPTION:Timing (Belgíski Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Belgíski Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+SUMMARY:Pitlane (Belgíski Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20260717T150000
 DTEND:20260717T160000
 DTSTAMP:20260717T150000Z
-UID:2026-07-17T15:00:00/Onboard (Belgíski Kappaksturinn | Æfing 2)
-DESCRIPTION:Onboard (Belgíski Kappaksturinn | Æfing 2) - Formula 1
+UID:2026-07-17T15:00:00/Pitlane (Belgíski Kappaksturinn | Æfing 2)
+DESCRIPTION:Pitlane (Belgíski Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Belgíski Kappaksturinn | Æfing 2) - Formula 1
+  - viaplay
+DTSTART:20260717T150000
+DTEND:20260717T160000
+DTSTAMP:20260717T150000Z
+UID:2026-07-17T15:00:00/Track Positioning (Belgíski Kappaksturinn | Æfin
+ g 2)
+DESCRIPTION:Track Positioning (Belgíski Kappaksturinn | Æfing 2) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Sox - Rays - Major League Baseball - viaplay
@@ -232,12 +216,12 @@ UID:2026-07-18T10:25:00/Belgía Grand Prix (Æfing 3)
 DESCRIPTION:Belgía Grand Prix (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Belgíski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+SUMMARY:Onboard (Belgíski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20260718T103000
 DTEND:20260718T113000
 DTSTAMP:20260718T103000Z
-UID:2026-07-18T10:30:00/Timing (Belgíski Kappaksturinn | Æfing 3)
-DESCRIPTION:Timing (Belgíski Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-07-18T10:30:00/Onboard (Belgíski Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Belgíski Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Belgíski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
@@ -259,12 +243,12 @@ DESCRIPTION:Track Positioning (Belgíski Kappaksturinn | Æfing 3) - Formu
  la 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Belgíski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+SUMMARY:Timing (Belgíski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20260718T103000
 DTEND:20260718T113000
 DTSTAMP:20260718T103000Z
-UID:2026-07-18T10:30:00/Onboard (Belgíski Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Belgíski Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-07-18T10:30:00/Timing (Belgíski Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Belgíski Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Castellet (Kappakstur 1) - Formula Regional European Championsh
@@ -332,6 +316,15 @@ UID:2026-07-18T13:55:00/Belgía Grand Prix (Tímatökur)
 DESCRIPTION:Belgía Grand Prix (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Belgíski Kappaksturinn | Tímatökur) - Formula 1 - viap
+ lay
+DTSTART:20260718T140000
+DTEND:20260718T150000
+DTSTAMP:20260718T140000Z
+UID:2026-07-18T14:00:00/Onboard (Belgíski Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Belgíski Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Borchetta Bourbon Music City Grand Prix (Æfing 1) - IndyCar - via
  play
 DTSTART:20260718T140000
@@ -348,15 +341,6 @@ DTEND:20260718T150000
 DTSTAMP:20260718T140000Z
 UID:2026-07-18T14:00:00/Timing (Belgíski Kappaksturinn | Tímatökur)
 DESCRIPTION:Timing (Belgíski Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Belgíski Kappaksturinn | Tímatökur) - Formula 1 - viap
- lay
-DTSTART:20260718T140000
-DTEND:20260718T150000
-DTSTAMP:20260718T140000Z
-UID:2026-07-18T14:00:00/Onboard (Belgíski Kappaksturinn | Tímatökur)
-DESCRIPTION:Onboard (Belgíski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Belgíski Kappaksturinn | Tímatökur) - Formul
@@ -404,20 +388,20 @@ UID:2026-07-18T18:00:00/GT World Challenge Europe (Kappakstur 1)
 DESCRIPTION:GT World Challenge Europe (Kappakstur 1) - GT World Challenge
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World Matchplay - PDC Darts - viaplay
-DTSTART:20260718T180000
-DTEND:20260718T190000
-DTSTAMP:20260718T180000Z
-UID:2026-07-18T18:00:00/World Matchplay
-DESCRIPTION:World Matchplay - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cubs - Twins - Major League Baseball - viaplay
 DTSTART:20260718T180000
 DTEND:20260718T190000
 DTSTAMP:20260718T180000Z
 UID:2026-07-18T18:00:00/Cubs - Twins
 DESCRIPTION:Cubs - Twins - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Matchplay - PDC Darts - viaplay
+DTSTART:20260718T180000
+DTEND:20260718T190000
+DTSTAMP:20260718T180000Z
+UID:2026-07-18T18:00:00/World Matchplay
+DESCRIPTION:World Matchplay - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Borchetta Bourbon Music City Grand Prix (Tímatökur) - IndyCar - 
@@ -558,13 +542,12 @@ UID:2026-07-19T12:30:00/Belgía Grand Prix (Kappakstur)
 DESCRIPTION:Belgía Grand Prix (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Belgíski Kappaksturinn | Kappakstur) - Formula 1 - viapl
- ay
+SUMMARY:Track Positioning - Formula 1 - viaplay
 DTSTART:20260719T130000
 DTEND:20260719T140000
 DTSTAMP:20260719T130000Z
-UID:2026-07-19T13:00:00/Pitlane (Belgíski Kappaksturinn | Kappakstur)
-DESCRIPTION:Pitlane (Belgíski Kappaksturinn | Kappakstur) - Formula 1
+UID:2026-07-19T13:00:00/Track Positioning
+DESCRIPTION:Track Positioning - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Belgíski Kappaksturinn | Kappakstur) - Formula 1 - viapla
@@ -576,6 +559,15 @@ UID:2026-07-19T13:00:00/Timing (Belgíski Kappaksturinn | Kappakstur)
 DESCRIPTION:Timing (Belgíski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Belgíski Kappaksturinn | Kappakstur) - Formula 1 - viapl
+ ay
+DTSTART:20260719T130000
+DTEND:20260719T140000
+DTSTAMP:20260719T130000Z
+UID:2026-07-19T13:00:00/Pitlane (Belgíski Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Belgíski Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Belgíski Kappaksturinn | Kappakstur) - Formula 1 - viapl
  ay
 DTSTART:20260719T130000
@@ -583,14 +575,6 @@ DTEND:20260719T140000
 DTSTAMP:20260719T130000Z
 UID:2026-07-19T13:00:00/Onboard (Belgíski Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Belgíski Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning - Formula 1 - viaplay
-DTSTART:20260719T130000
-DTEND:20260719T140000
-DTSTAMP:20260719T130000Z
-UID:2026-07-19T13:00:00/Track Positioning
-DESCRIPTION:Track Positioning - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portimao (Trofeo Pirelli | Race 2) - Ferrari Challenge Europe - vi
@@ -644,5 +628,21 @@ DTSTAMP:20260719T213500Z
 UID:2026-07-19T21:35:00/Borchetta Bourbon Music City Grand Prix (Kappakstu
  r)
 DESCRIPTION:Borchetta Bourbon Music City Grand Prix (Kappakstur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yankees - Dodgers - Major League Baseball - viaplay
+DTSTART:20260719T230000
+DTEND:20260720T000000
+DTSTAMP:20260719T230000Z
+UID:2026-07-19T23:00:00/Yankees - Dodgers
+DESCRIPTION:Yankees - Dodgers - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Matchplay - PDC Darts - viaplay
+DTSTART:20260720T180000
+DTEND:20260720T190000
+DTSTAMP:20260720T180000Z
+UID:2026-07-20T18:00:00/World Matchplay
+DESCRIPTION:World Matchplay - PDC Darts
 END:VEVENT
 END:VCALENDAR
