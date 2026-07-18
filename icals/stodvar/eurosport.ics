@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - eurosport - ical
 BEGIN:VEVENT
-SUMMARY:Men | Dole - Belfort (205km) - Tour de France - eurosport1
-DTSTART:20260717T104500
-DTEND:20260717T114500
-DTSTAMP:20260717T104500Z
-UID:2026-07-17T10:45:00/Men | Dole - Belfort (205km)
-DESCRIPTION:Men | Dole - Belfort (205km) - Tour de France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Corales Championship - PGA - eurosport2
-DTSTART:20260717T163000
-DTEND:20260717T173000
-DTSTAMP:20260717T163000Z
-UID:2026-07-17T16:30:00/Corales Championship
-DESCRIPTION:Corales Championship - PGA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Mulhouse - Le Markstein Fellering (155km) - Tour de France -
   eurosport1
 DTSTART:20260718T110000
@@ -64,29 +48,11 @@ UID:2026-07-19T13:00:00/Great Britain - MXGP - Race 1
 DESCRIPTION:Great Britain - MXGP - Race 1 - Motocross: World Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Great Britain - MX2 - Race 2 - Motocross: World Championship - eur
- osport2
+SUMMARY:Corales Championship - PGA - eurosport2
 DTSTART:20260719T150000
 DTEND:20260719T160000
 DTSTAMP:20260719T150000Z
-UID:2026-07-19T15:00:00/Great Britain - MX2 - Race 2
-DESCRIPTION:Great Britain - MX2 - Race 2 - Motocross: World Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Great Britain - MXGP - Race 2 - Motocross: World Championship - eu
- rosport2
-DTSTART:20260719T160000
-DTEND:20260719T170000
-DTSTAMP:20260719T160000Z
-UID:2026-07-19T16:00:00/Great Britain - MXGP - Race 2
-DESCRIPTION:Great Britain - MXGP - Race 2 - Motocross: World Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Corales Championship - PGA - eurosport2
-DTSTART:20260719T200000
-DTEND:20260719T210000
-DTSTAMP:20260719T200000Z
-UID:2026-07-19T20:00:00/Corales Championship
+UID:2026-07-19T15:00:00/Corales Championship
 DESCRIPTION:Corales Championship - PGA
 END:VEVENT
 BEGIN:VEVENT
@@ -107,5 +73,22 @@ DTEND:20260722T121500
 DTSTAMP:20260722T111500Z
 UID:2026-07-22T11:15:00/Men | Chambéry - Voiron (175km)
 DESCRIPTION:Men | Chambéry - Voiron (175km) - Tour de France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Voiron - Orcières-Merlette (185km) - Tour de France - euros
+ port1
+DTSTART:20260723T103000
+DTEND:20260723T113000
+DTSTAMP:20260723T103000Z
+UID:2026-07-23T10:30:00/Men | Voiron - Orcières-Merlette (185km)
+DESCRIPTION:Men | Voiron - Orcières-Merlette (185km) - Tour de France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3m Open - PGA - eurosport2
+DTSTART:20260723T200000
+DTEND:20260723T210000
+DTSTAMP:20260723T200000Z
+UID:2026-07-23T20:00:00/3m Open
+DESCRIPTION:3m Open - PGA
 END:VEVENT
 END:VCALENDAR

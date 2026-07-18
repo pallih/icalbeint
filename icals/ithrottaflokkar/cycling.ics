@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - cycling - ical
 BEGIN:VEVENT
-SUMMARY:Men | Dole - Belfort (205km) - Tour de France - eurosport1
-DTSTART:20260717T104500
-DTEND:20260717T114500
-DTSTAMP:20260717T104500Z
-UID:2026-07-17T10:45:00/Men | Dole - Belfort (205km)
-DESCRIPTION:Men | Dole - Belfort (205km) - Tour de France
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Mulhouse - Le Markstein Fellering (155km) - Tour de France -
   eurosport1
 DTSTART:20260718T110000
@@ -47,5 +39,14 @@ DTEND:20260722T121500
 DTSTAMP:20260722T111500Z
 UID:2026-07-22T11:15:00/Men | Chambéry - Voiron (175km)
 DESCRIPTION:Men | Chambéry - Voiron (175km) - Tour de France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Voiron - Orcières-Merlette (185km) - Tour de France - euros
+ port1
+DTSTART:20260723T103000
+DTEND:20260723T113000
+DTSTAMP:20260723T103000Z
+UID:2026-07-23T10:30:00/Men | Voiron - Orcières-Merlette (185km)
+DESCRIPTION:Men | Voiron - Orcières-Merlette (185km) - Tour de France
 END:VEVENT
 END:VCALENDAR
