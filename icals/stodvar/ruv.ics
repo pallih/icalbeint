@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - ruv - ical
 BEGIN:VEVENT
-SUMMARY:Stofan - HM karla í fótbolta - ruv
-DTSTART:20260718T203000
-DTEND:20260718T213000
-DTSTAMP:20260718T203000Z
-UID:2026-07-18T20:30:00/Stofan
-DESCRIPTION:Stofan - HM karla í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frakkland - England - bronsleikur - HM karla í fótbolta - ruv
-DTSTART:20260718T210000
-DTEND:20260718T220000
-DTSTAMP:20260718T210000Z
-UID:2026-07-18T21:00:00/Frakkland - England - bronsleikur
-DESCRIPTION:Frakkland - England - bronsleikur - HM karla í fótbolta
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HM kvöld - HM karla í fótbolta - ruv
-DTSTART:20260718T230500
-DTEND:20260719T000500
-DTSTAMP:20260718T230500Z
-UID:2026-07-18T23:05:00/HM kvöld
-DESCRIPTION:HM kvöld - HM karla í fótbolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stofan - HM karla í fótbolta - ruv2
 DTSTART:20260719T175500
 DTEND:20260719T185500
@@ -42,15 +18,15 @@ UID:2026-07-19T18:30:00/Stofan
 DESCRIPTION:Stofan - HM karla í fótbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spánn - Argentína - úrslitaleikur - HM karla í fótbolta - ruv
+SUMMARY:Spánn - Argentína - HM karla í fótbolta - ruv
 DTSTART:20260719T190000
 DTEND:20260719T200000
 DTSTAMP:20260719T190000Z
-UID:2026-07-19T19:00:00/Spánn - Argentína - úrslitaleikur
-DESCRIPTION:Spánn - Argentína - úrslitaleikur - HM karla í fótbolta
+UID:2026-07-19T19:00:00/Spánn - Argentína
+DESCRIPTION:Spánn - Argentína - HM karla í fótbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HM kvöld - HM karla í fótbolta - ruv2
+SUMMARY:HM kvöld - HM karla í fótbolta - ruv
 DTSTART:20260719T212500
 DTEND:20260719T222500
 DTSTAMP:20260719T212500Z
@@ -58,7 +34,7 @@ UID:2026-07-19T21:25:00/HM kvöld
 DESCRIPTION:HM kvöld - HM karla í fótbolta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HM kvöld - HM karla í fótbolta - ruv
+SUMMARY:HM kvöld - HM karla í fótbolta - ruv2
 DTSTART:20260719T212500
 DTEND:20260719T222500
 DTSTAMP:20260719T212500Z
@@ -80,5 +56,23 @@ DTEND:20260724T190000
 DTSTAMP:20260724T180000Z
 UID:2026-07-24T18:00:00/Þróttur - ÍBV
 DESCRIPTION:Þróttur - ÍBV - Mjólkurbikar kvenna í fótbolta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaramót Íslands - Frjálsíþróttir - ruv
+DTSTART:20260725T140000
+DTEND:20260725T150000
+DTSTAMP:20260725T140000Z
+UID:2026-07-25T14:00:00/Meistaramót Íslands
+DESCRIPTION:Meistaramót Íslands - Frjálsíþróttir
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fram - Grindavík/Njarðvík - Mjólkurbikar kvenna í fótbolta -
+  ruv2
+DTSTART:20260725T170000
+DTEND:20260725T180000
+DTSTAMP:20260725T170000Z
+UID:2026-07-25T17:00:00/Fram - Grindavík/Njarðvík
+DESCRIPTION:Fram - Grindavík/Njarðvík - Mjólkurbikar kvenna í fótbol
+ ta
 END:VEVENT
 END:VCALENDAR
