@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:Ungverski Kappaksturinn (Æfing 1) - Formula 1 - viaplay
-DTSTART:20260724T112500
-DTEND:20260724T122500
-DTSTAMP:20260724T112500Z
-UID:2026-07-24T11:25:00/Ungverski Kappaksturinn (Æfing 1)
-DESCRIPTION:Ungverski Kappaksturinn (Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Ungverjaland - Æfing 1 - Formúla 1 - synsportviaplay
 DTSTART:20260724T112500
 DTEND:20260724T122500
@@ -18,12 +10,12 @@ UID:2026-07-24T11:25:00/F1: Ungverjaland - Æfing 1
 DESCRIPTION:F1: Ungverjaland - Æfing 1 - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Ungverski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260724T113000
-DTEND:20260724T123000
-DTSTAMP:20260724T113000Z
-UID:2026-07-24T11:30:00/Pitlane (Ungverski Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Ungverski Kappaksturinn | Æfing 1) - Formula 1
+SUMMARY:Ungverski Kappaksturinn (Æfing 1) - Formula 1 - viaplay
+DTSTART:20260724T112500
+DTEND:20260724T122500
+DTSTAMP:20260724T112500Z
+UID:2026-07-24T11:25:00/Ungverski Kappaksturinn (Æfing 1)
+DESCRIPTION:Ungverski Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Ungverski Kappaksturinn | Æfing 1) - Formula 1
@@ -53,6 +45,14 @@ UID:2026-07-24T11:30:00/Onboard (Ungverski Kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Ungverski Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Ungverski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260724T113000
+DTEND:20260724T123000
+DTSTAMP:20260724T113000Z
+UID:2026-07-24T11:30:00/Pitlane (Ungverski Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Ungverski Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Budapest (Tímatökur) - Formula 3 - viaplay
 DTSTART:20260724T125500
 DTEND:20260724T135500
@@ -62,19 +62,11 @@ DESCRIPTION:Budapest (Tímatökur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Budapest (Tímatökur) - Formula 2 - viaplay
-DTSTART:20260724T140000
-DTEND:20260724T150000
-DTSTAMP:20260724T140000Z
-UID:2026-07-24T14:00:00/Budapest (Tímatökur)
+DTSTART:20260724T135500
+DTEND:20260724T145500
+DTSTAMP:20260724T135500Z
+UID:2026-07-24T13:55:00/Budapest (Tímatökur)
 DESCRIPTION:Budapest (Tímatökur) - Formula 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ungverski Kappaksturinn (Æfing 2) - Formula 1 - viaplay
-DTSTART:20260724T145500
-DTEND:20260724T155500
-DTSTAMP:20260724T145500Z
-UID:2026-07-24T14:55:00/Ungverski Kappaksturinn (Æfing 2)
-DESCRIPTION:Ungverski Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Ungverjaland - Æfing 2 - Formúla 1 - synsportviaplay
@@ -83,6 +75,14 @@ DTEND:20260724T155500
 DTSTAMP:20260724T145500Z
 UID:2026-07-24T14:55:00/F1: Ungverjaland - Æfing 2
 DESCRIPTION:F1: Ungverjaland - Æfing 2 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverski Kappaksturinn (Æfing 2) - Formula 1 - viaplay
+DTSTART:20260724T145500
+DTEND:20260724T155500
+DTSTAMP:20260724T145500Z
+UID:2026-07-24T14:55:00/Ungverski Kappaksturinn (Æfing 2)
+DESCRIPTION:Ungverski Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Ungverski Kappaksturinn | Æfing 2) - Formula 1 - viaplay
@@ -171,20 +171,20 @@ UID:2026-07-25T09:20:00/Budapest (Tímatökur)
 DESCRIPTION:Budapest (Tímatökur) - Porsche Supercup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ungverski Kappaksturinn (Æfing 3) - Formula 1 - viaplay
-DTSTART:20260725T102500
-DTEND:20260725T112500
-DTSTAMP:20260725T102500Z
-UID:2026-07-25T10:25:00/Ungverski Kappaksturinn (Æfing 3)
-DESCRIPTION:Ungverski Kappaksturinn (Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Ungverjaland - Æfing 3 - Formúla 1 - synsportviaplay
 DTSTART:20260725T102500
 DTEND:20260725T112500
 DTSTAMP:20260725T102500Z
 UID:2026-07-25T10:25:00/F1: Ungverjaland - Æfing 3
 DESCRIPTION:F1: Ungverjaland - Æfing 3 - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverski Kappaksturinn (Æfing 3) - Formula 1 - viaplay
+DTSTART:20260725T102500
+DTEND:20260725T112500
+DTSTAMP:20260725T102500Z
+UID:2026-07-25T10:25:00/Ungverski Kappaksturinn (Æfing 3)
+DESCRIPTION:Ungverski Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Ungverski Kappaksturinn | Æfing 3) - Formula 1 - viaplay
@@ -254,6 +254,14 @@ UID:2026-07-25T13:15:00/Brands Hatch (Kappakstur 1)
 DESCRIPTION:Brands Hatch (Kappakstur 1) - Ferrari Challenge UK
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:F1: Ungverjaland - Tímataka - Formúla 1 - synsportviaplay
+DTSTART:20260725T135500
+DTEND:20260725T145500
+DTSTAMP:20260725T135500Z
+UID:2026-07-25T13:55:00/F1: Ungverjaland - Tímataka
+DESCRIPTION:F1: Ungverjaland - Tímataka - Formúla 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ungverski Kappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20260725T135500
 DTEND:20260725T145500
@@ -262,12 +270,13 @@ UID:2026-07-25T13:55:00/Ungverski Kappaksturinn (Tímatökur)
 DESCRIPTION:Ungverski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1: Ungverjaland - Tímataka - Formúla 1 - synsportviaplay
-DTSTART:20260725T135500
-DTEND:20260725T145500
-DTSTAMP:20260725T135500Z
-UID:2026-07-25T13:55:00/F1: Ungverjaland - Tímataka
-DESCRIPTION:F1: Ungverjaland - Tímataka - Formúla 1
+SUMMARY:Timing (Ungverski Kappaksturinn | Tímatökur) - Formula 1 - viapl
+ ay
+DTSTART:20260725T140000
+DTEND:20260725T150000
+DTSTAMP:20260725T140000Z
+UID:2026-07-25T14:00:00/Timing (Ungverski Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Ungverski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Ungverski Kappaksturinn | Tímatökur) - Formula 1 - viap
@@ -297,15 +306,6 @@ DTEND:20260725T150000
 DTSTAMP:20260725T140000Z
 UID:2026-07-25T14:00:00/Onboard (Ungverski Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Ungverski Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Ungverski Kappaksturinn | Tímatökur) - Formula 1 - viapl
- ay
-DTSTART:20260725T140000
-DTEND:20260725T150000
-DTSTAMP:20260725T140000Z
-UID:2026-07-25T14:00:00/Timing (Ungverski Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Ungverski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mugello (Kappakstur 2) - Formula 4 Italian Championship - viaplay
@@ -395,21 +395,20 @@ UID:2026-07-26T09:20:00/Budapest (Kappakstur)
 DESCRIPTION:Budapest (Kappakstur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tokyo - Race - Formula E - eurosport1
+DTSTART:20260726T105000
+DTEND:20260726T115000
+DTSTAMP:20260726T105000Z
+UID:2026-07-26T10:50:00/Tokyo - Race
+DESCRIPTION:Tokyo - Race - Formula E
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oschersleben (Kappakstur 2) - DTM - viaplay
 DTSTART:20260726T111500
 DTEND:20260726T121500
 DTSTAMP:20260726T111500Z
 UID:2026-07-26T11:15:00/Oschersleben (Kappakstur 2)
 DESCRIPTION:Oschersleben (Kappakstur 2) - DTM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Czech Republic - MXGP - Race 1 - Motocross: World Championship - e
- urosport2
-DTSTART:20260726T121500
-DTEND:20260726T131500
-DTSTAMP:20260726T121500Z
-UID:2026-07-26T12:15:00/Czech Republic - MXGP - Race 1
-DESCRIPTION:Czech Republic - MXGP - Race 1 - Motocross: World Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1: Ungverjaland - Keppni - Formúla 1 - synsportviaplay
@@ -428,6 +427,24 @@ UID:2026-07-26T12:30:00/Ungverski Kappaksturinn (Kappakstur)
 DESCRIPTION:Ungverski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapl
+ ay
+DTSTART:20260726T130000
+DTEND:20260726T140000
+DTSTAMP:20260726T130000Z
+UID:2026-07-26T13:00:00/Pitlane (Ungverski Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Ungverski Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapla
+ y
+DTSTART:20260726T130000
+DTEND:20260726T140000
+DTSTAMP:20260726T130000Z
+UID:2026-07-26T13:00:00/Timing (Ungverski Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Ungverski Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Ungverski Kappaksturinn | Kappakstur) - Formula
   1 - viaplay
 DTSTART:20260726T130000
@@ -439,15 +456,6 @@ DESCRIPTION:Track Positioning (Ungverski Kappaksturinn | Kappakstur) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapl
- ay
-DTSTART:20260726T130000
-DTEND:20260726T140000
-DTSTAMP:20260726T130000Z
-UID:2026-07-26T13:00:00/Pitlane (Ungverski Kappaksturinn | Kappakstur)
-DESCRIPTION:Pitlane (Ungverski Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapl
  ay
 DTSTART:20260726T130000
@@ -455,15 +463,6 @@ DTEND:20260726T140000
 DTSTAMP:20260726T130000Z
 UID:2026-07-26T13:00:00/Onboard (Ungverski Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Ungverski Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapla
- y
-DTSTART:20260726T130000
-DTEND:20260726T140000
-DTSTAMP:20260726T130000Z
-UID:2026-07-26T13:00:00/Timing (Ungverski Kappaksturinn | Kappakstur)
-DESCRIPTION:Timing (Ungverski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oschersleben (Kappakstur 2) - ADAC GT4 Germany - viaplay

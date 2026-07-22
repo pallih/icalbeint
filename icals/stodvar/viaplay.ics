@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Angels - Cardinals - Major League Baseball - viaplay
-DTSTART:20260721T020000
-DTEND:20260721T030000
-DTSTAMP:20260721T020000Z
-UID:2026-07-21T02:00:00/Angels - Cardinals
-DESCRIPTION:Angels - Cardinals - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Matchplay - PDC Darts - viaplay
-DTSTART:20260721T180000
-DTEND:20260721T190000
-DTSTAMP:20260721T180000Z
-UID:2026-07-21T18:00:00/World Matchplay
-DESCRIPTION:World Matchplay - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians - Twins - Major League Baseball - viaplay
-DTSTART:20260721T223000
-DTEND:20260721T233000
-DTSTAMP:20260721T223000Z
-UID:2026-07-21T22:30:00/Guardians - Twins
-DESCRIPTION:Guardians - Twins - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mariners - Reds - Major League Baseball - viaplay
 DTSTART:20260722T013000
 DTEND:20260722T023000
@@ -35,10 +11,10 @@ DESCRIPTION:Mariners - Reds - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yankees - Pirates - Major League Baseball - viaplay
-DTSTART:20260722T173000
-DTEND:20260722T183000
-DTSTAMP:20260722T173000Z
-UID:2026-07-22T17:30:00/Yankees - Pirates
+DTSTART:20260722T170000
+DTEND:20260722T180000
+DTSTAMP:20260722T170000Z
+UID:2026-07-22T17:00:00/Yankees - Pirates
 DESCRIPTION:Yankees - Pirates - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
@@ -116,14 +92,6 @@ UID:2026-07-24T11:25:00/Ungverski Kappaksturinn (Æfing 1)
 DESCRIPTION:Ungverski Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Ungverski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260724T113000
-DTEND:20260724T123000
-DTSTAMP:20260724T113000Z
-UID:2026-07-24T11:30:00/Pitlane (Ungverski Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Ungverski Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Ungverski Kappaksturinn | Æfing 1) - Formula 1
   - viaplay
 DTSTART:20260724T113000
@@ -151,6 +119,14 @@ UID:2026-07-24T11:30:00/Onboard (Ungverski Kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Ungverski Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Ungverski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260724T113000
+DTEND:20260724T123000
+DTSTAMP:20260724T113000Z
+UID:2026-07-24T11:30:00/Pitlane (Ungverski Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Ungverski Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LIV Golf United Kingdom - LIV Golf - viaplay
 DTSTART:20260724T120000
 DTEND:20260724T130000
@@ -168,10 +144,10 @@ DESCRIPTION:Budapest (Tímatökur) - Formula 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Budapest (Tímatökur) - Formula 2 - viaplay
-DTSTART:20260724T140000
-DTEND:20260724T150000
-DTSTAMP:20260724T140000Z
-UID:2026-07-24T14:00:00/Budapest (Tímatökur)
+DTSTART:20260724T135500
+DTEND:20260724T145500
+DTSTAMP:20260724T135500Z
+UID:2026-07-24T13:55:00/Budapest (Tímatökur)
 DESCRIPTION:Budapest (Tímatökur) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
@@ -361,6 +337,14 @@ UID:2026-07-25T12:00:00/LIV Golf United Kingdom
 DESCRIPTION:LIV Golf United Kingdom - LIV Golf
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IRONMAN 70.3 Boise - IRONMAN Pro Series - viaplay
+DTSTART:20260725T120000
+DTEND:20260725T130000
+DTSTAMP:20260725T120000Z
+UID:2026-07-25T12:00:00/IRONMAN 70.3 Boise
+DESCRIPTION:IRONMAN 70.3 Boise - IRONMAN Pro Series
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Budapest (Sprettkeppni) - Formula 2 - viaplay
 DTSTART:20260725T121000
 DTEND:20260725T131000
@@ -401,6 +385,15 @@ UID:2026-07-25T13:55:00/Ungverski Kappaksturinn (Tímatökur)
 DESCRIPTION:Ungverski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Ungverski Kappaksturinn | Tímatökur) - Formula 1 - viapl
+ ay
+DTSTART:20260725T140000
+DTEND:20260725T150000
+DTSTAMP:20260725T140000Z
+UID:2026-07-25T14:00:00/Timing (Ungverski Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Ungverski Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Ungverski Kappaksturinn | Tímatökur) - Formula 1 - viap
  lay
 DTSTART:20260725T140000
@@ -428,15 +421,6 @@ DTEND:20260725T150000
 DTSTAMP:20260725T140000Z
 UID:2026-07-25T14:00:00/Onboard (Ungverski Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Ungverski Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Ungverski Kappaksturinn | Tímatökur) - Formula 1 - viapl
- ay
-DTSTART:20260725T140000
-DTEND:20260725T150000
-DTSTAMP:20260725T140000Z
-UID:2026-07-25T14:00:00/Timing (Ungverski Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Ungverski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mugello (Kappakstur 2) - Formula 4 Italian Championship - viaplay
@@ -584,14 +568,6 @@ UID:2026-07-26T11:15:00/Oschersleben (Kappakstur 2)
 DESCRIPTION:Oschersleben (Kappakstur 2) - DTM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Women's World Matchplay - PDC Darts - viaplay
-DTSTART:20260726T120000
-DTEND:20260726T130000
-DTSTAMP:20260726T120000Z
-UID:2026-07-26T12:00:00/Women's World Matchplay
-DESCRIPTION:Women's World Matchplay - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LIV Golf United Kingdom - LIV Golf - viaplay
 DTSTART:20260726T120000
 DTEND:20260726T130000
@@ -600,12 +576,38 @@ UID:2026-07-26T12:00:00/LIV Golf United Kingdom
 DESCRIPTION:LIV Golf United Kingdom - LIV Golf
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Women's World Matchplay - PDC Darts - viaplay
+DTSTART:20260726T120000
+DTEND:20260726T130000
+DTSTAMP:20260726T120000Z
+UID:2026-07-26T12:00:00/Women's World Matchplay
+DESCRIPTION:Women's World Matchplay - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ungverski Kappaksturinn (Kappakstur) - Formula 1 - viaplay
 DTSTART:20260726T123000
 DTEND:20260726T133000
 DTSTAMP:20260726T123000Z
 UID:2026-07-26T12:30:00/Ungverski Kappaksturinn (Kappakstur)
 DESCRIPTION:Ungverski Kappaksturinn (Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapl
+ ay
+DTSTART:20260726T130000
+DTEND:20260726T140000
+DTSTAMP:20260726T130000Z
+UID:2026-07-26T13:00:00/Pitlane (Ungverski Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Ungverski Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapla
+ y
+DTSTART:20260726T130000
+DTEND:20260726T140000
+DTSTAMP:20260726T130000Z
+UID:2026-07-26T13:00:00/Timing (Ungverski Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Ungverski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Ungverski Kappaksturinn | Kappakstur) - Formula
@@ -619,15 +621,6 @@ DESCRIPTION:Track Positioning (Ungverski Kappaksturinn | Kappakstur) - For
  mula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapl
- ay
-DTSTART:20260726T130000
-DTEND:20260726T140000
-DTSTAMP:20260726T130000Z
-UID:2026-07-26T13:00:00/Pitlane (Ungverski Kappaksturinn | Kappakstur)
-DESCRIPTION:Pitlane (Ungverski Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapl
  ay
 DTSTART:20260726T130000
@@ -635,15 +628,6 @@ DTEND:20260726T140000
 DTSTAMP:20260726T130000Z
 UID:2026-07-26T13:00:00/Onboard (Ungverski Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Ungverski Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Ungverski Kappaksturinn | Kappakstur) - Formula 1 - viapla
- y
-DTSTART:20260726T130000
-DTEND:20260726T140000
-DTSTAMP:20260726T130000Z
-UID:2026-07-26T13:00:00/Timing (Ungverski Kappaksturinn | Kappakstur)
-DESCRIPTION:Timing (Ungverski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oschersleben (Kappakstur 2) - ADAC GT4 Germany - viaplay
@@ -744,5 +728,13 @@ DTEND:20260728T003000
 DTSTAMP:20260727T233000Z
 UID:2026-07-27T23:30:00/Cardinals - Cubs
 DESCRIPTION:Cardinals - Cubs - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rays - Rangers - Major League Baseball - viaplay
+DTSTART:20260728T223000
+DTEND:20260728T233000
+DTSTAMP:20260728T223000Z
+UID:2026-07-28T22:30:00/Rays - Rangers
+DESCRIPTION:Rays - Rangers - Major League Baseball
 END:VEVENT
 END:VCALENDAR

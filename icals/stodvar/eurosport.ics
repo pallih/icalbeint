@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - eurosport - ical
 BEGIN:VEVENT
-SUMMARY:Men | Évian-les-Bains - Thonon-les-Bains (ITT\, 26.1km) - Tour de
-  France - eurosport1
-DTSTART:20260721T104500
-DTEND:20260721T114500
-DTSTAMP:20260721T104500Z
-UID:2026-07-21T10:45:00/Men | Évian-les-Bains - Thonon-les-Bains (ITT\, 2
- 6.1km)
-DESCRIPTION:Men | Évian-les-Bains - Thonon-les-Bains (ITT\, 26.1km) - Tou
- r de France
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Chambéry - Voiron (175km) - Tour de France - eurosport1
 DTSTART:20260722T111500
 DTEND:20260722T121500
@@ -103,12 +92,12 @@ UID:2026-07-26T10:00:00/Day 2
 DESCRIPTION:Day 2 - FIE World Championships - Hong Kong
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 15 - Tokyo - Race - eurosport1
+SUMMARY:Tokyo - Race - Formula E - eurosport1
 DTSTART:20260726T105000
 DTEND:20260726T115000
 DTSTAMP:20260726T105000Z
-UID:2026-07-26T10:50:00/Round 15
-DESCRIPTION:Round 15 - Tokyo - Race
+UID:2026-07-26T10:50:00/Tokyo - Race
+DESCRIPTION:Tokyo - Race - Formula E
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Women | Janowiec - Lublin (101.4km) - Tour of Poland - eurosport1
@@ -119,13 +108,14 @@ UID:2026-07-26T12:15:00/Women | Janowiec - Lublin (101.4km)
 DESCRIPTION:Women | Janowiec - Lublin (101.4km) - Tour of Poland
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Czech Republic - MXGP - Race 1 - Motocross: World Championship - e
- urosport2
-DTSTART:20260726T121500
-DTEND:20260726T131500
-DTSTAMP:20260726T121500Z
-UID:2026-07-26T12:15:00/Czech Republic - MXGP - Race 1
-DESCRIPTION:Czech Republic - MXGP - Race 1 - Motocross: World Championship
+SUMMARY:Men | Thoiry – Paris Champs-Élysées (133km) - Tour de France -
+  eurosport1
+DTSTART:20260726T140000
+DTEND:20260726T150000
+DTSTAMP:20260726T140000Z
+UID:2026-07-26T14:00:00/Men | Thoiry – Paris Champs-Élysées (133km)
+DESCRIPTION:Men | Thoiry – Paris Champs-Élysées (133km) - Tour de Fran
+ ce
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Czech Republic - MX2 - Race 2 - Motocross: World Championship - eu
@@ -135,16 +125,6 @@ DTEND:20260726T150000
 DTSTAMP:20260726T140000Z
 UID:2026-07-26T14:00:00/Czech Republic - MX2 - Race 2
 DESCRIPTION:Czech Republic - MX2 - Race 2 - Motocross: World Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men | Thoiry – Paris Champs-Élysées (133km) - Tour de France -
-  eurosport1
-DTSTART:20260726T140000
-DTEND:20260726T150000
-DTSTAMP:20260726T140000Z
-UID:2026-07-26T14:00:00/Men | Thoiry – Paris Champs-Élysées (133km)
-DESCRIPTION:Men | Thoiry – Paris Champs-Élysées (133km) - Tour de Fran
- ce
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Czech Republic - MXGP - Race 2 - Motocross: World Championship - e
@@ -170,5 +150,37 @@ DTEND:20260726T193000
 DTSTAMP:20260726T183000Z
 UID:2026-07-26T18:30:00/Night Session | Day 3
 DESCRIPTION:Night Session | Day 3 - Swimming and Para Swimming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 1 - Shanghai Masters - eurosport1
+DTSTART:20260727T060000
+DTEND:20260727T070000
+DTSTAMP:20260727T060000Z
+UID:2026-07-27T06:00:00/Round 1
+DESCRIPTION:Round 1 - Shanghai Masters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 3 - FIE World Championship - Hong Kong - eurosport2
+DTSTART:20260727T100000
+DTEND:20260727T110000
+DTSTAMP:20260727T100000Z
+UID:2026-07-27T10:00:00/Day 3
+DESCRIPTION:Day 3 - FIE World Championship - Hong Kong
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 1 - Shanghai Masters - eurosport1
+DTSTART:20260727T113000
+DTEND:20260727T123000
+DTSTAMP:20260727T113000Z
+UID:2026-07-27T11:30:00/Round 1
+DESCRIPTION:Round 1 - Shanghai Masters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night Session | Day 4 - Athletics - eurosport1
+DTSTART:20260727T180000
+DTEND:20260727T190000
+DTSTAMP:20260727T180000Z
+UID:2026-07-27T18:00:00/Night Session | Day 4
+DESCRIPTION:Night Session | Day 4 - Athletics
 END:VEVENT
 END:VCALENDAR
