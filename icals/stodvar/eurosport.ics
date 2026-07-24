@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - eurosport - ical
 BEGIN:VEVENT
-SUMMARY:Men | Voiron - Orcières-Merlette (185km) - Tour de France - euros
- port1
-DTSTART:20260723T103000
-DTEND:20260723T113000
-DTSTAMP:20260723T103000Z
-UID:2026-07-23T10:30:00/Men | Voiron - Orcières-Merlette (185km)
-DESCRIPTION:Men | Voiron - Orcières-Merlette (185km) - Tour de France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3m Open - PGA - eurosport2
-DTSTART:20260723T200000
-DTEND:20260723T210000
-DTSTAMP:20260723T200000Z
-UID:2026-07-23T20:00:00/3m Open
-DESCRIPTION:3m Open - PGA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Gap - Alpe d'Huez (128km) - Tour de France - eurosport1
 DTSTART:20260724T114500
 DTEND:20260724T124500
@@ -27,12 +10,12 @@ UID:2026-07-24T11:45:00/Men | Gap - Alpe d'Huez (128km)
 DESCRIPTION:Men | Gap - Alpe d'Huez (128km) - Tour de France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Night Session - Swimming and Para Swimming - eurosport1
-DTSTART:20260724T180000
-DTEND:20260724T190000
-DTSTAMP:20260724T180000Z
-UID:2026-07-24T18:00:00/Night Session
-DESCRIPTION:Night Session - Swimming and Para Swimming
+SUMMARY:Swimming and Para Swimming - Commonwealth games - eurosport1
+DTSTART:20260724T175900
+DTEND:20260724T185900
+DTSTAMP:20260724T175900Z
+UID:2026-07-24T17:59:00/Swimming and Para Swimming
+DESCRIPTION:Swimming and Para Swimming - Commonwealth games
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3m Open - PGA - eurosport2
@@ -68,12 +51,12 @@ UID:2026-07-25T17:00:00/3m Open
 DESCRIPTION:3m Open - PGA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Night Session | Day 2 - Swimming and Para Swimming - eurosport1
+SUMMARY:Swimming and Para Swimming - Commonwealth games - eurosport1
 DTSTART:20260725T180000
 DTEND:20260725T190000
 DTSTAMP:20260725T180000Z
-UID:2026-07-25T18:00:00/Night Session | Day 2
-DESCRIPTION:Night Session | Day 2 - Swimming and Para Swimming
+UID:2026-07-25T18:00:00/Swimming and Para Swimming
+DESCRIPTION:Swimming and Para Swimming - Commonwealth games
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day 2 - FIE World Championships - Hong Kong - eurosport2
@@ -136,12 +119,12 @@ UID:2026-07-26T17:00:00/3m Open
 DESCRIPTION:3m Open - PGA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Night Session | Day 3 - Swimming and Para Swimming - eurosport1
+SUMMARY:Swimming and Para Swimming - Commonwealth games - eurosport1
 DTSTART:20260726T183000
 DTEND:20260726T193000
 DTSTAMP:20260726T183000Z
-UID:2026-07-26T18:30:00/Night Session | Day 3
-DESCRIPTION:Night Session | Day 3 - Swimming and Para Swimming
+UID:2026-07-26T18:30:00/Swimming and Para Swimming
+DESCRIPTION:Swimming and Para Swimming - Commonwealth games
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 1 - Shanghai Masters - eurosport1
@@ -168,12 +151,12 @@ UID:2026-07-27T11:30:00/Round 1
 DESCRIPTION:Round 1 - Shanghai Masters
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Night Session | Day 4 - Athletics - eurosport1
+SUMMARY:Athletics - Commonwealth games - eurosport1
 DTSTART:20260727T180000
 DTEND:20260727T190000
 DTSTAMP:20260727T180000Z
-UID:2026-07-27T18:00:00/Night Session | Day 4
-DESCRIPTION:Night Session | Day 4 - Athletics
+UID:2026-07-27T18:00:00/Athletics
+DESCRIPTION:Athletics - Commonwealth games
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 2 - Shanghai Masters - eurosport1
@@ -211,11 +194,60 @@ UID:2026-07-28T13:30:00/Round 2
 DESCRIPTION:Round 2 - Shanghai Masters
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Night Session | Day 5 - Athletics - eurosport1
+SUMMARY:Athletics - Commonwealth games - eurosport1
 DTSTART:20260728T180000
 DTEND:20260728T190000
 DTSTAMP:20260728T180000Z
-UID:2026-07-28T18:00:00/Night Session | Day 5
-DESCRIPTION:Night Session | Day 5 - Athletics
+UID:2026-07-28T18:00:00/Athletics
+DESCRIPTION:Athletics - Commonwealth games
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2 - Shanghai Masters - eurosport1
+DTSTART:20260729T060000
+DTEND:20260729T070000
+DTSTAMP:20260729T060000Z
+UID:2026-07-29T06:00:00/Round 2
+DESCRIPTION:Round 2 - Shanghai Masters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day 5 - FIE World Championship - Hong Kong - eurosport2
+DTSTART:20260729T083000
+DTEND:20260729T093000
+DTSTAMP:20260729T083000Z
+UID:2026-07-29T08:30:00/Day 5
+DESCRIPTION:Day 5 - FIE World Championship - Hong Kong
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2 - Shanghai Masters - eurosport2
+DTSTART:20260729T123000
+DTEND:20260729T133000
+DTSTAMP:20260729T123000Z
+UID:2026-07-29T12:30:00/Round 2
+DESCRIPTION:Round 2 - Shanghai Masters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Saint-Vulbas – Lagnieu (161.9km) - Tour de l'Ain - eurospo
+ rt1
+DTSTART:20260729T123000
+DTEND:20260729T133000
+DTSTAMP:20260729T123000Z
+UID:2026-07-29T12:30:00/Men | Saint-Vulbas – Lagnieu (161.9km)
+DESCRIPTION:Men | Saint-Vulbas – Lagnieu (161.9km) - Tour de l'Ain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Aalborg (185.1km) - Tour of Denmark - eurosport1
+DTSTART:20260729T140000
+DTEND:20260729T150000
+DTSTAMP:20260729T140000Z
+UID:2026-07-29T14:00:00/Men | Aalborg (185.1km)
+DESCRIPTION:Men | Aalborg (185.1km) - Tour of Denmark
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletics - Commonwealth games - eurosport1
+DTSTART:20260729T180000
+DTEND:20260729T190000
+DTSTAMP:20260729T180000Z
+UID:2026-07-29T18:00:00/Athletics
+DESCRIPTION:Athletics - Commonwealth games
 END:VEVENT
 END:VCALENDAR
