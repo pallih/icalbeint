@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Ægir - Njarðvík - Lengjudeildin - livey
-DTSTART:20260728T191500
-DTEND:20260728T201500
-DTSTAMP:20260728T191500Z
-UID:2026-07-28T19:15:00/Ægir - Njarðvík
-DESCRIPTION:Ægir - Njarðvík - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Haukar - ÍA - Lengjudeildin - livey
 DTSTART:20260728T191500
 DTEND:20260728T201500
@@ -18,12 +10,12 @@ UID:2026-07-28T19:15:00/Haukar - ÍA
 DESCRIPTION:Haukar - ÍA - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fylkir - Völsungur - Lengjudeildin - livey
-DTSTART:20260729T180000
-DTEND:20260729T190000
-DTSTAMP:20260729T180000Z
-UID:2026-07-29T18:00:00/Fylkir - Völsungur
-DESCRIPTION:Fylkir - Völsungur - Lengjudeildin
+SUMMARY:Ægir - Njarðvík - Lengjudeildin - livey
+DTSTART:20260728T191500
+DTEND:20260728T201500
+DTSTAMP:20260728T191500Z
+UID:2026-07-28T19:15:00/Ægir - Njarðvík
+DESCRIPTION:Ægir - Njarðvík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Selfoss - Dalvík/Reynir - 2. deild  - livey
@@ -34,12 +26,12 @@ UID:2026-07-29T18:00:00/Selfoss - Dalvík/Reynir
 DESCRIPTION:Selfoss - Dalvík/Reynir - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magni - KFA - 2. deild  - livey
+SUMMARY:Fylkir - Völsungur - Lengjudeildin - livey
 DTSTART:20260729T180000
 DTEND:20260729T190000
 DTSTAMP:20260729T180000Z
-UID:2026-07-29T18:00:00/Magni - KFA
-DESCRIPTION:Magni - KFA - 2. deild 
+UID:2026-07-29T18:00:00/Fylkir - Völsungur
+DESCRIPTION:Fylkir - Völsungur - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - Selfoss - Lengjudeildin - livey
@@ -50,28 +42,12 @@ UID:2026-07-29T18:00:00/HK - Selfoss
 DESCRIPTION:HK - Selfoss - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grindavík - Leiknir R. - Lengjudeildin - livey
-DTSTART:20260729T191500
-DTEND:20260729T201500
-DTSTAMP:20260729T191500Z
-UID:2026-07-29T19:15:00/Grindavík - Leiknir R.
-DESCRIPTION:Grindavík - Leiknir R. - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þróttur R. - Afturelding - Lengjudeildin - livey
-DTSTART:20260729T191500
-DTEND:20260729T201500
-DTSTAMP:20260729T191500Z
-UID:2026-07-29T19:15:00/Þróttur R. - Afturelding
-DESCRIPTION:Þróttur R. - Afturelding - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Víkingur Ó. - Fjölnir - 2. deild  - livey
-DTSTART:20260729T191500
-DTEND:20260729T201500
-DTSTAMP:20260729T191500Z
-UID:2026-07-29T19:15:00/Víkingur Ó. - Fjölnir
-DESCRIPTION:Víkingur Ó. - Fjölnir - 2. deild 
+SUMMARY:Magni - KFA - 2. deild  - livey
+DTSTART:20260729T180000
+DTEND:20260729T190000
+DTSTAMP:20260729T180000Z
+UID:2026-07-29T18:00:00/Magni - KFA
+DESCRIPTION:Magni - KFA - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þróttur V. - Hvíti riddarinn - 2. deild  - livey
@@ -82,6 +58,22 @@ UID:2026-07-29T19:15:00/Þróttur V. - Hvíti riddarinn
 DESCRIPTION:Þróttur V. - Hvíti riddarinn - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kári - Kormákur/Hvöt - 2. deild  - livey
+DTSTART:20260729T191500
+DTEND:20260729T201500
+DTSTAMP:20260729T191500Z
+UID:2026-07-29T19:15:00/Kári - Kormákur/Hvöt
+DESCRIPTION:Kári - Kormákur/Hvöt - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur Ó. - Fjölnir - 2. deild  - livey
+DTSTART:20260729T191500
+DTEND:20260729T201500
+DTSTAMP:20260729T191500Z
+UID:2026-07-29T19:15:00/Víkingur Ó. - Fjölnir
+DESCRIPTION:Víkingur Ó. - Fjölnir - 2. deild 
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Haukar - KFG - 2. deild  - livey
 DTSTART:20260729T191500
 DTEND:20260729T201500
@@ -90,11 +82,27 @@ UID:2026-07-29T19:15:00/Haukar - KFG
 DESCRIPTION:Haukar - KFG - 2. deild 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kári - Kormákur/Hvöt - 2. deild  - livey
+SUMMARY:Þróttur R. - Afturelding - Lengjudeildin - livey
 DTSTART:20260729T191500
 DTEND:20260729T201500
 DTSTAMP:20260729T191500Z
-UID:2026-07-29T19:15:00/Kári - Kormákur/Hvöt
-DESCRIPTION:Kári - Kormákur/Hvöt - 2. deild 
+UID:2026-07-29T19:15:00/Þróttur R. - Afturelding
+DESCRIPTION:Þróttur R. - Afturelding - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Leiknir R. - Lengjudeildin - livey
+DTSTART:20260729T191500
+DTEND:20260729T201500
+DTSTAMP:20260729T191500Z
+UID:2026-07-29T19:15:00/Grindavík - Leiknir R.
+DESCRIPTION:Grindavík - Leiknir R. - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vestri - Grótta - Lengjudeildin - livey
+DTSTART:20260803T140000
+DTEND:20260803T150000
+DTSTAMP:20260803T140000Z
+UID:2026-08-03T14:00:00/Vestri - Grótta
+DESCRIPTION:Vestri - Grótta - Lengjudeildin
 END:VEVENT
 END:VCALENDAR
