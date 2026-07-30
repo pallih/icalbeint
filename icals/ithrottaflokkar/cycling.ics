@@ -2,22 +2,30 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - cycling - ical
 BEGIN:VEVENT
-SUMMARY:Men | Saint-Vulbas – Lagnieu (161.9km) - Tour de l'Ain - eurospo
- rt1
-DTSTART:20260729T123700
-DTEND:20260729T133700
-DTSTAMP:20260729T123700Z
-UID:2026-07-29T12:37:00/Men | Saint-Vulbas – Lagnieu (161.9km)
-DESCRIPTION:Men | Saint-Vulbas – Lagnieu (161.9km) - Tour de l'Ain
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Oyonnax - Lélex Monts-Jura (131.5km) - Tour de l'Ain - euro
  sport1
-DTSTART:20260730T123000
-DTEND:20260730T133000
-DTSTAMP:20260730T123000Z
-UID:2026-07-30T12:30:00/Men | Oyonnax - Lélex Monts-Jura (131.5km)
+DTSTART:20260730T124200
+DTEND:20260730T134200
+DTSTAMP:20260730T124200Z
+UID:2026-07-30T12:42:00/Men | Oyonnax - Lélex Monts-Jura (131.5km)
 DESCRIPTION:Men | Oyonnax - Lélex Monts-Jura (131.5km) - Tour de l'Ain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Glyngøre - Skive (179.8km) - Tour of Denmark - eurosport1
+DTSTART:20260730T141200
+DTEND:20260730T151200
+DTSTAMP:20260730T141200Z
+UID:2026-07-30T14:12:00/Men | Glyngøre - Skive (179.8km)
+DESCRIPTION:Men | Glyngøre - Skive (179.8km) - Tour of Denmark
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Fredericia – Vejle (207.3km) - Tour of Denmark - eurosport
+ 1
+DTSTART:20260731T134500
+DTEND:20260731T144500
+DTSTAMP:20260731T134500Z
+UID:2026-07-31T13:45:00/Men | Fredericia – Vejle (207.3km)
+DESCRIPTION:Men | Fredericia – Vejle (207.3km) - Tour of Denmark
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lausanne (137km) - Tour de France Femmes avec Zwift - eurosport1
@@ -26,6 +34,14 @@ DTEND:20260801T144500
 DTSTAMP:20260801T134500Z
 UID:2026-08-01T13:45:00/Lausanne (137km)
 DESCRIPTION:Lausanne (137km) - Tour de France Femmes avec Zwift
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Køge - Rødovre (136.2km) - Tour of Denmark - eurosport1
+DTSTART:20260802T113000
+DTEND:20260802T123000
+DTSTAMP:20260802T113000Z
+UID:2026-08-02T11:30:00/Men | Køge - Rødovre (136.2km)
+DESCRIPTION:Men | Køge - Rødovre (136.2km) - Tour of Denmark
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aigle – Geneva (149km) - Tour de France Femmes avec Zwift - euro
@@ -38,10 +54,10 @@ DESCRIPTION:Aigle – Geneva (149km) - Tour de France Femmes avec Zwift
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Men | Gdynia – Koszalin (234km) - Tour of Poland - eurosport2
-DTSTART:20260803T082000
-DTEND:20260803T092000
-DTSTAMP:20260803T082000Z
-UID:2026-08-03T08:20:00/Men | Gdynia – Koszalin (234km)
+DTSTART:20260803T083000
+DTEND:20260803T093000
+DTSTAMP:20260803T083000Z
+UID:2026-08-03T08:30:00/Men | Gdynia – Koszalin (234km)
 DESCRIPTION:Men | Gdynia – Koszalin (234km) - Tour of Poland
 END:VEVENT
 BEGIN:VEVENT
@@ -52,5 +68,24 @@ DTEND:20260803T144500
 DTSTAMP:20260803T134500Z
 UID:2026-08-03T13:45:00/Geneva – Poligny (157km)
 DESCRIPTION:Geneva – Poligny (157km) - Tour de France Femmes avec Zwift
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Międzyzdroje - Szczecin (150.8km) - Tour of Poland - eurosp
+ ort2
+DTSTART:20260804T110500
+DTEND:20260804T120500
+DTSTAMP:20260804T110500Z
+UID:2026-08-04T11:05:00/Men | Międzyzdroje - Szczecin (150.8km)
+DESCRIPTION:Men | Międzyzdroje - Szczecin (150.8km) - Tour of Poland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gervey-Chambertin – Dijon (ITT\, 21km) - Tour de France Femmes a
+ vec Zwift - eurosport1
+DTSTART:20260804T134500
+DTEND:20260804T144500
+DTSTAMP:20260804T134500Z
+UID:2026-08-04T13:45:00/Gervey-Chambertin – Dijon (ITT\, 21km)
+DESCRIPTION:Gervey-Chambertin – Dijon (ITT\, 21km) - Tour de France Femm
+ es avec Zwift
 END:VEVENT
 END:VCALENDAR
