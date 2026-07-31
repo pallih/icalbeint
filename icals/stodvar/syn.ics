@@ -3,42 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
 SUMMARY:Women's British Open - R&A - synsport4
-DTSTART:20260730T120000
-DTEND:20260730T130000
-DTSTAMP:20260730T120000Z
-UID:2026-07-30T12:00:00/Women's British Open
-DESCRIPTION:Women's British Open - R&A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ilves - Stjarnan - Evrópuleikir íslenskra félagsliða - synspor
- tisland
-DTSTART:20260730T155000
-DTEND:20260730T165000
-DTSTAMP:20260730T155000Z
-UID:2026-07-30T15:50:00/Ilves - Stjarnan
-DESCRIPTION:Ilves - Stjarnan - Evrópuleikir íslenskra félagsliða
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vestri - RFS - Evrópuleikir íslenskra félagsliða - synsportisl
- and
-DTSTART:20260730T175000
-DTEND:20260730T185000
-DTSTAMP:20260730T175000Z
-UID:2026-07-30T17:50:00/Vestri - RFS
-DESCRIPTION:Vestri - RFS - Evrópuleikir íslenskra félagsliða
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zrinskij Mostar - Valur - Evrópuleikir íslenskra félagsliða - 
- synsportisland2
-DTSTART:20260730T182000
-DTEND:20260730T192000
-DTSTAMP:20260730T182000Z
-UID:2026-07-30T18:20:00/Zrinskij Mostar - Valur
-DESCRIPTION:Zrinskij Mostar - Valur - Evrópuleikir íslenskra félagslið
- a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women's British Open - R&A - synsport4
 DTSTART:20260731T120000
 DTEND:20260731T130000
 DTSTAMP:20260731T120000Z
@@ -134,8 +98,16 @@ UID:2026-08-03T16:50:00/Vittsjö - Rosengard
 DESCRIPTION:Vittsjö - Rosengard - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valur - Stjarnan - Besta deild karla - synsportisland
+DTSTART:20260803T190500
+DTEND:20260803T200500
+DTSTAMP:20260803T190500Z
+UID:2026-08-03T19:05:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Breiðablik - Aktobe - Evrópuleikir íslenskra félagsliða - syn
- sportisland3
+ sportisland
 DTSTART:20260804T135000
 DTEND:20260804T145000
 DTSTAMP:20260804T135000Z
@@ -143,28 +115,12 @@ UID:2026-08-04T13:50:00/Breiðablik - Aktobe
 DESCRIPTION:Breiðablik - Aktobe - Evrópuleikir íslenskra félagsliða
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Ak. - Breiðablik - Besta deild karla - synsportisland2
+SUMMARY:Þór Ak. - Breiðablik - Besta deild karla - synsportisland
 DTSTART:20260804T182000
 DTEND:20260804T192000
 DTSTAMP:20260804T182000Z
 UID:2026-08-04T18:20:00/Þór Ak. - Breiðablik
 DESCRIPTION:Þór Ak. - Breiðablik - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór Ak. - Breiðablik - Besta deild karla - synsportisland4
-DTSTART:20260804T182000
-DTEND:20260804T192000
-DTSTAMP:20260804T182000Z
-UID:2026-08-04T18:20:00/Þór Ak. - Breiðablik
-DESCRIPTION:Þór Ak. - Breiðablik - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Stjarnan - Besta deild karla - synsportisland
-DTSTART:20260804T190000
-DTEND:20260804T200000
-DTSTAMP:20260804T190000Z
-UID:2026-08-04T19:00:00/Valur - Stjarnan
-DESCRIPTION:Valur - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - KA - Besta deild karla - synsportisland2
@@ -189,5 +145,21 @@ DTEND:20260805T222500
 DTSTAMP:20260805T212500Z
 UID:2026-08-05T21:25:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Víkingur R. - Besta deild kvenna - synsportisland
+DTSTART:20260806T190500
+DTEND:20260806T200500
+DTSTAMP:20260806T190500Z
+UID:2026-08-06T19:05:00/Valur - Víkingur R.
+DESCRIPTION:Valur - Víkingur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Þróttur R. - Besta deild kvenna - synsportisland2
+DTSTART:20260806T190500
+DTEND:20260806T200500
+DTSTAMP:20260806T190500Z
+UID:2026-08-06T19:05:00/Stjarnan - Þróttur R.
+DESCRIPTION:Stjarnan - Þróttur R. - Besta deild kvenna
 END:VEVENT
 END:VCALENDAR
