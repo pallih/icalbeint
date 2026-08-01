@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:Malmö FF - Pitea - Sænska úrvalsdeildin - synsportviaplay
-DTSTART:20260731T155000
-DTEND:20260731T165000
-DTSTAMP:20260731T155000Z
-UID:2026-07-31T15:50:00/Malmö FF - Pitea
-DESCRIPTION:Malmö FF - Pitea - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Malmö FF - Piteå - OBOS Damallsvenskan - viaplay
-DTSTART:20260731T155000
-DTEND:20260731T165000
-DTSTAMP:20260731T155000Z
-UID:2026-07-31T15:50:00/Malmö FF - Piteå
-DESCRIPTION:Malmö FF - Piteå - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hammarby - Växjö - OBOS Damallsvenskan - viaplay
-DTSTART:20260731T165000
-DTEND:20260731T175000
-DTSTAMP:20260731T165000Z
-UID:2026-07-31T16:50:00/Hammarby - Växjö
-DESCRIPTION:Hammarby - Växjö - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Birmingham - Barcelona - Vináttuleikir félagsliða - livey
-DTSTART:20260731T184500
-DTEND:20260731T194500
-DTSTAMP:20260731T184500Z
-UID:2026-07-31T18:45:00/Birmingham - Barcelona
-DESCRIPTION:Birmingham - Barcelona - Vináttuleikir félagsliða
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chelsea - Tottenham - Vináttuleikir félagsliða - livey
-DTSTART:20260801T094500
-DTEND:20260801T104500
-DTSTAMP:20260801T094500Z
-UID:2026-08-01T09:45:00/Chelsea - Tottenham
-DESCRIPTION:Chelsea - Tottenham - Vináttuleikir félagsliða
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FC Tokyo - Dortmund - Æfingaleikur - viaplay
 DTSTART:20260801T095500
 DTEND:20260801T105500
@@ -56,15 +16,6 @@ DTEND:20260801T105500
 DTSTAMP:20260801T095500Z
 UID:2026-08-01T09:55:00/Tokyo - Dortmund
 DESCRIPTION:Tokyo - Dortmund - Vináttulandsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manchester City - Inter Milan - Vináttuleikir félagsliða - live
- y
-DTSTART:20260801T113000
-DTEND:20260801T123000
-DTSTAMP:20260801T113000Z
-UID:2026-08-01T11:30:00/Manchester City - Inter Milan
-DESCRIPTION:Manchester City - Inter Milan - Vináttuleikir félagsliða
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brommapojkarna - Djurgården - OBOS Damallsvenskan - viaplay
@@ -100,20 +51,20 @@ UID:2026-08-01T13:00:00/Man. United - Atletico Madrid
 DESCRIPTION:Man. United - Atletico Madrid - Vináttuleikir félagsliða
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍBV - Fram - Besta deild karla - synsportisland
-DTSTART:20260801T135000
-DTEND:20260801T145000
-DTSTAMP:20260801T135000Z
-UID:2026-08-01T13:50:00/ÍBV - Fram
-DESCRIPTION:ÍBV - Fram - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Uppsala - Norrköping - OBOS Damallsvenskan - viaplay
 DTSTART:20260801T135000
 DTEND:20260801T145000
 DTSTAMP:20260801T135000Z
 UID:2026-08-01T13:50:00/Uppsala - Norrköping
 DESCRIPTION:Uppsala - Norrköping - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍBV - Fram - Besta deild karla - synsportisland
+DTSTART:20260801T135000
+DTEND:20260801T145000
+DTSTAMP:20260801T135000Z
+UID:2026-08-01T13:50:00/ÍBV - Fram
+DESCRIPTION:ÍBV - Fram - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - Fiorentina - Vináttuleikir félagsliða - livey
@@ -172,20 +123,20 @@ UID:2026-08-03T14:00:00/Vestri - Grótta
 DESCRIPTION:Vestri - Grótta - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vittsjö - Rosengard - Sænska úrvalsdeildin - synsportviaplay
-DTSTART:20260803T165000
-DTEND:20260803T175000
-DTSTAMP:20260803T165000Z
-UID:2026-08-03T16:50:00/Vittsjö - Rosengard
-DESCRIPTION:Vittsjö - Rosengard - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vittsjö - Rosengård - OBOS Damallsvenskan - viaplay
 DTSTART:20260803T165000
 DTEND:20260803T175000
 DTSTAMP:20260803T165000Z
 UID:2026-08-03T16:50:00/Vittsjö - Rosengård
 DESCRIPTION:Vittsjö - Rosengård - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vittsjö - Rosengard - Sænska úrvalsdeildin - synsportviaplay
+DTSTART:20260803T165000
+DTEND:20260803T175000
+DTSTAMP:20260803T165000Z
+UID:2026-08-03T16:50:00/Vittsjö - Rosengard
+DESCRIPTION:Vittsjö - Rosengard - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Stjarnan - Besta deild karla - synsportisland
@@ -270,7 +221,16 @@ UID:2026-08-06T18:00:00/Tindastóll - ÍA
 DESCRIPTION:Tindastóll - ÍA - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Víkingur R. - Besta deild kvenna - synsportisland
+SUMMARY:Valur - Nordsjælland - Evrópuleikir íslenskra félagsliða - sy
+ nsportisland
+DTSTART:20260806T182000
+DTEND:20260806T192000
+DTSTAMP:20260806T182000Z
+UID:2026-08-06T18:20:00/Valur - Nordsjælland
+DESCRIPTION:Valur - Nordsjælland - Evrópuleikir íslenskra félagsliða
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Víkingur R. - Besta deild kvenna - synsportisland2
 DTSTART:20260806T190500
 DTEND:20260806T200500
 DTSTAMP:20260806T190500Z
@@ -278,7 +238,7 @@ UID:2026-08-06T19:05:00/Valur - Víkingur R.
 DESCRIPTION:Valur - Víkingur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Þróttur R. - Besta deild kvenna - synsportisland2
+SUMMARY:Stjarnan - Þróttur R. - Besta deild kvenna - synsportisland3
 DTSTART:20260806T190500
 DTEND:20260806T200500
 DTSTAMP:20260806T190500Z
@@ -292,5 +252,95 @@ DTEND:20260806T201500
 DTSTAMP:20260806T191500Z
 UID:2026-08-06T19:15:00/KR - Grótta
 DESCRIPTION:KR - Grótta - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leikur í undankeppni meistaradeildar kvenna - Evrópuleikir ísle
+ nskra félagsliða - synsportisland
+DTSTART:20260807T070000
+DTEND:20260807T080000
+DTSTAMP:20260807T070000Z
+UID:2026-08-07T07:00:00/Leikur í undankeppni meistaradeildar kvenna
+DESCRIPTION:Leikur í undankeppni meistaradeildar kvenna - Evrópuleikir 
+ íslenskra félagsliða
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern Munich - Aston Villa - Vináttuleikir félagsliða - livey
+DTSTART:20260807T120000
+DTEND:20260807T130000
+DTSTAMP:20260807T120000Z
+UID:2026-08-07T12:00:00/Bayern Munich - Aston Villa
+DESCRIPTION:Bayern Munich - Aston Villa - Vináttuleikir félagsliða
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Växjö - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20260807T165000
+DTEND:20260807T175000
+DTSTAMP:20260807T165000Z
+UID:2026-08-07T16:50:00/Växjö - Rosengård
+DESCRIPTION:Växjö - Rosengård - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIK - Brommapojkarna - OBOS Damallsvenskan - viaplay
+DTSTART:20260807T165000
+DTEND:20260807T175000
+DTSTAMP:20260807T165000Z
+UID:2026-08-07T16:50:00/AIK - Brommapojkarna
+DESCRIPTION:AIK - Brommapojkarna - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór/KA - Fram - Besta deild kvenna - synsportisland2
+DTSTART:20260807T175000
+DTEND:20260807T185000
+DTSTAMP:20260807T175000Z
+UID:2026-08-07T17:50:00/Þór/KA - Fram
+DESCRIPTION:Þór/KA - Fram - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík/Njarðvík - ÍBV - Besta deild kvenna - synsportisland
+DTSTART:20260807T175000
+DTEND:20260807T185000
+DTSTAMP:20260807T175000Z
+UID:2026-08-07T17:50:00/Grindavík/Njarðvík - ÍBV
+DESCRIPTION:Grindavík/Njarðvík - ÍBV - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum - Hertha Berlin - 2. Bundesliga - viaplay
+DTSTART:20260807T182500
+DTEND:20260807T192500
+DTSTAMP:20260807T182500Z
+UID:2026-08-07T18:25:00/Bochum - Hertha Berlin
+DESCRIPTION:Bochum - Hertha Berlin - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolverhampton - Port Vale - Carabao Cup - viaplay
+DTSTART:20260807T184000
+DTEND:20260807T194000
+DTSTAMP:20260807T184000Z
+UID:2026-08-07T18:40:00/Wolverhampton - Port Vale
+DESCRIPTION:Wolverhampton - Port Vale - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlesbrough - Wrexham - Carabao Cup - synsportviaplay
+DTSTART:20260807T185000
+DTEND:20260807T195000
+DTSTAMP:20260807T185000Z
+UID:2026-08-07T18:50:00/Middlesbrough - Wrexham
+DESCRIPTION:Middlesbrough - Wrexham - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlesbrough - Wrexham - Carabao Cup - viaplay
+DTSTART:20260807T185500
+DTEND:20260807T195500
+DTSTAMP:20260807T185500Z
+UID:2026-08-07T18:55:00/Middlesbrough - Wrexham
+DESCRIPTION:Middlesbrough - Wrexham - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
+DTSTART:20260807T200500
+DTEND:20260807T210500
+DTSTAMP:20260807T200500Z
+UID:2026-08-07T20:05:00/Bestu mörkin
+DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 END:VCALENDAR

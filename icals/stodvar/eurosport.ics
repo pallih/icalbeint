@@ -3,47 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - eurosport - ical
 BEGIN:VEVENT
 SUMMARY:Semi-Final - Shanghai Masters - eurosport1
-DTSTART:20260731T060000
-DTEND:20260731T070000
-DTSTAMP:20260731T060000Z
-UID:2026-07-31T06:00:00/Semi-Final
-DESCRIPTION:Semi-Final - Shanghai Masters
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Semi-Final - Shanghai Masters - eurosport2
-DTSTART:20260731T113000
-DTEND:20260731T123000
-DTSTAMP:20260731T113000Z
-UID:2026-07-31T11:30:00/Semi-Final
-DESCRIPTION:Semi-Final - Shanghai Masters
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men | Fredericia – Vejle (207.3km) - Tour of Denmark - eurosport
- 1
-DTSTART:20260731T134500
-DTEND:20260731T144500
-DTSTAMP:20260731T134500Z
-UID:2026-07-31T13:45:00/Men | Fredericia – Vejle (207.3km)
-DESCRIPTION:Men | Fredericia – Vejle (207.3km) - Tour of Denmark
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night Session | Day 8 - Athletics and Para Athletics - eurosport1
-DTSTART:20260731T180000
-DTEND:20260731T190000
-DTSTAMP:20260731T180000Z
-UID:2026-07-31T18:00:00/Night Session | Day 8
-DESCRIPTION:Night Session | Day 8 - Athletics and Para Athletics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rocket Classic - PGA - eurosport2
-DTSTART:20260731T190000
-DTEND:20260731T200000
-DTSTAMP:20260731T190000Z
-UID:2026-07-31T19:00:00/Rocket Classic
-DESCRIPTION:Rocket Classic - PGA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Semi-Final - Shanghai Masters - eurosport1
 DTSTART:20260801T060000
 DTEND:20260801T070000
 DTSTAMP:20260801T060000Z
@@ -59,20 +18,21 @@ UID:2026-08-01T09:45:00/Salomon Pitz Alpine Glacier Trail
 DESCRIPTION:Salomon Pitz Alpine Glacier Trail - Golden Trail
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Semi-Final - Shanghai Masters - eurosport2
-DTSTART:20260801T120000
-DTEND:20260801T130000
-DTSTAMP:20260801T120000Z
-UID:2026-08-01T12:00:00/Semi-Final
-DESCRIPTION:Semi-Final - Shanghai Masters
+SUMMARY:Lausanne (137km) - Tour de France Femmes avec Zwift - eurosport1
+DTSTART:20260801T115400
+DTEND:20260801T125400
+DTSTAMP:20260801T115400Z
+UID:2026-08-01T11:54:00/Lausanne (137km)
+DESCRIPTION:Lausanne (137km) - Tour de France Femmes avec Zwift
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne (137km) - Tour de France Femmes avec Zwift - eurosport1
+SUMMARY:Shanghai Masters | Semi-Final - Kyren Wilson - Zhao Xintong - euro
+ sport2
 DTSTART:20260801T120000
 DTEND:20260801T130000
 DTSTAMP:20260801T120000Z
-UID:2026-08-01T12:00:00/Lausanne (137km)
-DESCRIPTION:Lausanne (137km) - Tour de France Femmes avec Zwift
+UID:2026-08-01T12:00:00/Shanghai Masters | Semi-Final
+DESCRIPTION:Shanghai Masters | Semi-Final - Kyren Wilson - Zhao Xintong
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rocket Classic - PGA - eurosport2
@@ -83,12 +43,12 @@ UID:2026-08-01T17:00:00/Rocket Classic
 DESCRIPTION:Rocket Classic - PGA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Athletics - Commonwealth games - eurosport1
+SUMMARY:Night Session | Day 9 - Athletics and Para Athletics - eurosport1
 DTSTART:20260801T180000
 DTEND:20260801T190000
 DTSTAMP:20260801T180000Z
-UID:2026-08-01T18:00:00/Athletics
-DESCRIPTION:Athletics - Commonwealth games
+UID:2026-08-01T18:00:00/Night Session | Day 9
+DESCRIPTION:Night Session | Day 9 - Athletics and Para Athletics
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Final - Shanghai Masters - eurosport1
@@ -99,20 +59,20 @@ UID:2026-08-02T06:00:00/Final
 DESCRIPTION:Final - Shanghai Masters
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Final - Shanghai Masters - eurosport2
-DTSTART:20260802T113000
-DTEND:20260802T123000
-DTSTAMP:20260802T113000Z
-UID:2026-08-02T11:30:00/Final
-DESCRIPTION:Final - Shanghai Masters
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Køge - Rødovre (136.2km) - Tour of Denmark - eurosport1
 DTSTART:20260802T113000
 DTEND:20260802T123000
 DTSTAMP:20260802T113000Z
 UID:2026-08-02T11:30:00/Men | Køge - Rødovre (136.2km)
 DESCRIPTION:Men | Køge - Rødovre (136.2km) - Tour of Denmark
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final - Shanghai Masters - eurosport2
+DTSTART:20260802T113000
+DTEND:20260802T123000
+DTSTAMP:20260802T113000Z
+UID:2026-08-02T11:30:00/Final
+DESCRIPTION:Final - Shanghai Masters
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aigle – Geneva (149km) - Tour de France Femmes avec Zwift - euro
@@ -223,5 +183,30 @@ DTEND:20260806T033000
 DTSTAMP:20260806T023000Z
 UID:2026-08-06T02:30:00/Final | Day 3
 DESCRIPTION:Final | Day 3 - Poker: World Series of Poker - Las Vegas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Żagań - Karpacz (175.5km) - Tour of Poland - eurosport2
+DTSTART:20260806T101500
+DTEND:20260806T111500
+DTSTAMP:20260806T101500Z
+UID:2026-08-06T10:15:00/Men | Żagań - Karpacz (175.5km)
+DESCRIPTION:Men | Żagań - Karpacz (175.5km) - Tour of Poland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opole – Kocierz (218.5km) - Tour de France Femmes avec Zwift - e
+ urosport1
+DTSTART:20260806T133000
+DTEND:20260806T143000
+DTSTAMP:20260806T133000Z
+UID:2026-08-06T13:30:00/Opole – Kocierz (218.5km)
+DESCRIPTION:Opole – Kocierz (218.5km) - Tour de France Femmes avec Zwift
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyndham Championship - PGA - eurosport2
+DTSTART:20260806T190000
+DTEND:20260806T200000
+DTSTAMP:20260806T190000Z
+UID:2026-08-06T19:00:00/Wyndham Championship
+DESCRIPTION:Wyndham Championship - PGA
 END:VEVENT
 END:VCALENDAR
