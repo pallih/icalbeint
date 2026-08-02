@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - motorsports - ical
 BEGIN:VEVENT
-SUMMARY:Magny-Cours (Tímatökur 1) - GT World Challenge Europe - viaplay
-DTSTART:20260801T124500
-DTEND:20260801T134500
-DTSTAMP:20260801T124500Z
-UID:2026-08-01T12:45:00/Magny-Cours (Tímatökur 1)
-DESCRIPTION:Magny-Cours (Tímatökur 1) - GT World Challenge Europe
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magny-Cours (Kappakstur 1) - GT World Challenge Europe - viaplay
-DTSTART:20260801T184500
-DTEND:20260801T194500
-DTSTAMP:20260801T184500Z
-UID:2026-08-01T18:45:00/Magny-Cours (Kappakstur 1)
-DESCRIPTION:Magny-Cours (Kappakstur 1) - GT World Challenge Europe
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magny-Cours (Tímatökur 2) - GT World Challenge Europe - viaplay
 DTSTART:20260802T084000
 DTEND:20260802T094000
@@ -115,5 +99,94 @@ DTEND:20260807T223000
 DTSTAMP:20260807T213000Z
 UID:2026-08-07T21:30:00/Bitnile.com Grand Prix of Portland (Æfing)
 DESCRIPTION:Bitnile.com Grand Prix of Portland (Æfing) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
+DTSTART:20260808T083500
+DTEND:20260808T093500
+DTSTAMP:20260808T083500Z
+UID:2026-08-08T08:35:00/Silverstone Kappaksturinn (Frjáls æfing 2)
+DESCRIPTION:Silverstone Kappaksturinn (Frjáls æfing 2) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Frjáls æfing 2) - Moto2 - viaplay
+DTSTART:20260808T092000
+DTEND:20260808T102000
+DTSTAMP:20260808T092000Z
+UID:2026-08-08T09:20:00/Silverstone Kappaksturinn (Frjáls æfing 2)
+DESCRIPTION:Silverstone Kappaksturinn (Frjáls æfing 2) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Frjáls æfing 2) - MotoGP - viaplay
+DTSTART:20260808T100000
+DTEND:20260808T110000
+DTSTAMP:20260808T100000Z
+UID:2026-08-08T10:00:00/Silverstone Kappaksturinn (Frjáls æfing 2)
+DESCRIPTION:Silverstone Kappaksturinn (Frjáls æfing 2) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Tímatökur) - MotoGP - viaplay
+DTSTART:20260808T104500
+DTEND:20260808T114500
+DTSTAMP:20260808T104500Z
+UID:2026-08-08T10:45:00/Silverstone Kappaksturinn (Tímatökur)
+DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Tímatökur) - Moto3 - viaplay
+DTSTART:20260808T124000
+DTEND:20260808T134000
+DTSTAMP:20260808T124000Z
+UID:2026-08-08T12:40:00/Silverstone Kappaksturinn (Tímatökur)
+DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - Moto3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Tímatökur) - Moto2 - viaplay
+DTSTART:20260808T133500
+DTEND:20260808T143500
+DTSTAMP:20260808T133500Z
+UID:2026-08-08T13:35:00/Silverstone Kappaksturinn (Tímatökur)
+DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silverstone Kappaksturinn (Sprettkeppni) - MotoGP - viaplay
+DTSTART:20260808T143000
+DTEND:20260808T153000
+DTSTAMP:20260808T143000Z
+UID:2026-08-08T14:30:00/Silverstone Kappaksturinn (Sprettkeppni)
+DESCRIPTION:Silverstone Kappaksturinn (Sprettkeppni) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Portland (Æfing 2) - Indy NXT - viaplay
+DTSTART:20260808T160000
+DTEND:20260808T170000
+DTSTAMP:20260808T160000Z
+UID:2026-08-08T16:00:00/Grand Prix of Portland (Æfing 2)
+DESCRIPTION:Grand Prix of Portland (Æfing 2) - Indy NXT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bitnile.com Grand Prix of Portland (Æfing 2) - IndyCar - viaplay
+DTSTART:20260808T170000
+DTEND:20260808T180000
+DTSTAMP:20260808T170000Z
+UID:2026-08-08T17:00:00/Bitnile.com Grand Prix of Portland (Æfing 2)
+DESCRIPTION:Bitnile.com Grand Prix of Portland (Æfing 2) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Portland (Tímatökur) - Indy NXT - viaplay
+DTSTART:20260808T190000
+DTEND:20260808T200000
+DTSTAMP:20260808T190000Z
+UID:2026-08-08T19:00:00/Grand Prix of Portland (Tímatökur)
+DESCRIPTION:Grand Prix of Portland (Tímatökur) - Indy NXT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bitnile.com Grand Prix of Portland (Tímatökur) - Nascar - viapla
+ y
+DTSTART:20260808T230000
+DTEND:20260809T000000
+DTSTAMP:20260808T230000Z
+UID:2026-08-08T23:00:00/Bitnile.com Grand Prix of Portland (Tímatökur)
+DESCRIPTION:Bitnile.com Grand Prix of Portland (Tímatökur) - Nascar
 END:VEVENT
 END:VCALENDAR
