@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:ÍA - Víkingur R. - Besta deild karla - synsportisland
-DTSTART:20260802T135000
-DTEND:20260802T145000
-DTSTAMP:20260802T135000Z
-UID:2026-08-02T13:50:00/ÍA - Víkingur R.
-DESCRIPTION:ÍA - Víkingur R. - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunderland - Wrexham - Vináttuleikir félagsliða - livey
-DTSTART:20260802T160000
-DTEND:20260802T170000
-DTSTAMP:20260802T160000Z
-UID:2026-08-02T16:00:00/Sunderland - Wrexham
-DESCRIPTION:Sunderland - Wrexham - Vináttuleikir félagsliða
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liverpool - Leeds - Vináttuleikir félagsliða - livey
-DTSTART:20260802T190000
-DTEND:20260802T200000
-DTSTAMP:20260802T190000Z
-UID:2026-08-02T19:00:00/Liverpool - Leeds
-DESCRIPTION:Liverpool - Leeds - Vináttuleikir félagsliða
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dregið - Champions League - viaplay
 DTSTART:20260803T100000
 DTEND:20260803T110000
@@ -42,20 +18,20 @@ UID:2026-08-03T14:00:00/Vestri - Grótta
 DESCRIPTION:Vestri - Grótta - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vittsjö - Rosengard - Sænska úrvalsdeildin - synsportviaplay
-DTSTART:20260803T165000
-DTEND:20260803T175000
-DTSTAMP:20260803T165000Z
-UID:2026-08-03T16:50:00/Vittsjö - Rosengard
-DESCRIPTION:Vittsjö - Rosengard - Sænska úrvalsdeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vittsjö - Rosengård - OBOS Damallsvenskan - viaplay
 DTSTART:20260803T165000
 DTEND:20260803T175000
 DTSTAMP:20260803T165000Z
 UID:2026-08-03T16:50:00/Vittsjö - Rosengård
 DESCRIPTION:Vittsjö - Rosengård - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vittsjö - Rosengard - Sænska úrvalsdeildin - synsportviaplay
+DTSTART:20260803T165000
+DTEND:20260803T175000
+DTSTAMP:20260803T165000Z
+UID:2026-08-03T16:50:00/Vittsjö - Rosengard
+DESCRIPTION:Vittsjö - Rosengard - Sænska úrvalsdeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Stjarnan - Besta deild karla - synsportisland
@@ -191,20 +167,20 @@ UID:2026-08-07T12:00:00/Bayern Munich - Aston Villa
 DESCRIPTION:Bayern Munich - Aston Villa - Vináttuleikir félagsliða
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Växjö - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20260807T165000
-DTEND:20260807T175000
-DTSTAMP:20260807T165000Z
-UID:2026-08-07T16:50:00/Växjö - Rosengård
-DESCRIPTION:Växjö - Rosengård - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AIK - Brommapojkarna - OBOS Damallsvenskan - viaplay
 DTSTART:20260807T165000
 DTEND:20260807T175000
 DTSTAMP:20260807T165000Z
 UID:2026-08-07T16:50:00/AIK - Brommapojkarna
 DESCRIPTION:AIK - Brommapojkarna - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Växjö - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20260807T165000
+DTEND:20260807T175000
+DTSTAMP:20260807T165000Z
+UID:2026-08-07T16:50:00/Växjö - Rosengård
+DESCRIPTION:Växjö - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindavík/Njarðvík - ÍBV - Besta deild kvenna - synsportisland
@@ -239,7 +215,7 @@ UID:2026-08-07T18:40:00/Wolverhampton - Port Vale
 DESCRIPTION:Wolverhampton - Port Vale - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Middlesbrough - Wrexham - Carabao Cup - synsportviaplay
+SUMMARY:Middlesbrough - Wrexham - Carabao Cup - viaplay
 DTSTART:20260807T185000
 DTEND:20260807T195000
 DTSTAMP:20260807T185000Z
@@ -247,11 +223,11 @@ UID:2026-08-07T18:50:00/Middlesbrough - Wrexham
 DESCRIPTION:Middlesbrough - Wrexham - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Middlesbrough - Wrexham - Carabao Cup - viaplay
-DTSTART:20260807T185500
-DTEND:20260807T195500
-DTSTAMP:20260807T185500Z
-UID:2026-08-07T18:55:00/Middlesbrough - Wrexham
+SUMMARY:Middlesbrough - Wrexham - Carabao Cup - synsportviaplay
+DTSTART:20260807T185000
+DTEND:20260807T195000
+DTSTAMP:20260807T185000Z
+UID:2026-08-07T18:50:00/Middlesbrough - Wrexham
 DESCRIPTION:Middlesbrough - Wrexham - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
@@ -263,22 +239,6 @@ UID:2026-08-07T20:05:00/Bestu mörkin
 DESCRIPTION:Bestu mörkin - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Arminia Bielefeld - 2. Bundesliga - viaplay
-DTSTART:20260808T105500
-DTEND:20260808T115500
-DTSTAMP:20260808T105500Z
-UID:2026-08-08T10:55:00/Karlsruher - Arminia Bielefeld
-DESCRIPTION:Karlsruher - Arminia Bielefeld - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Braunschweig - 2. Bundesliga - viaplay
-DTSTART:20260808T105500
-DTEND:20260808T115500
-DTSTAMP:20260808T105500Z
-UID:2026-08-08T10:55:00/Magdeburg - Braunschweig
-DESCRIPTION:Magdeburg - Braunschweig - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darmstadt - Holstein Kiel - 2. Bundesliga - viaplay
 DTSTART:20260808T105500
 DTEND:20260808T115500
@@ -287,12 +247,28 @@ UID:2026-08-08T10:55:00/Darmstadt - Holstein Kiel
 DESCRIPTION:Darmstadt - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Karlsruher - Arminia Bielefeld - 2. Bundesliga - viaplay
+DTSTART:20260808T105500
+DTEND:20260808T115500
+DTSTAMP:20260808T105500Z
+UID:2026-08-08T10:55:00/Karlsruher - Arminia Bielefeld
+DESCRIPTION:Karlsruher - Arminia Bielefeld - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Heidenheim - Osnabrück - 2. Bundesliga - viaplay
 DTSTART:20260808T105500
 DTEND:20260808T115500
 DTSTAMP:20260808T105500Z
 UID:2026-08-08T10:55:00/Heidenheim - Osnabrück
 DESCRIPTION:Heidenheim - Osnabrück - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Braunschweig - 2. Bundesliga - viaplay
+DTSTART:20260808T105500
+DTEND:20260808T115500
+DTSTAMP:20260808T105500Z
+UID:2026-08-08T10:55:00/Magdeburg - Braunschweig
+DESCRIPTION:Magdeburg - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - AC Milan - Vináttuleikir félagsliða - livey
@@ -335,20 +311,20 @@ UID:2026-08-08T13:50:00/West Ham - Portsmouth
 DESCRIPTION:West Ham - Portsmouth - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Notts County - Carabao Cup - viaplay
-DTSTART:20260808T135500
-DTEND:20260808T145500
-DTSTAMP:20260808T135500Z
-UID:2026-08-08T13:55:00/Burnley - Notts County
-DESCRIPTION:Burnley - Notts County - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leicester - Northampton - Carabao Cup - viaplay
 DTSTART:20260808T135500
 DTEND:20260808T145500
 DTSTAMP:20260808T135500Z
 UID:2026-08-08T13:55:00/Leicester - Northampton
 DESCRIPTION:Leicester - Northampton - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Notts County - Carabao Cup - viaplay
+DTSTART:20260808T135500
+DTEND:20260808T145500
+DTSTAMP:20260808T135500Z
+UID:2026-08-08T13:55:00/Burnley - Notts County
+DESCRIPTION:Burnley - Notts County - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheffield Wednesday - Bolton - Carabao Cup - viaplay
@@ -359,20 +335,20 @@ UID:2026-08-08T13:55:00/Sheffield Wednesday - Bolton
 DESCRIPTION:Sheffield Wednesday - Bolton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Norwich - MK Dons - Carabao Cup - viaplay
-DTSTART:20260808T135500
-DTEND:20260808T145500
-DTSTAMP:20260808T135500Z
-UID:2026-08-08T13:55:00/Norwich - MK Dons
-DESCRIPTION:Norwich - MK Dons - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Ham - Portsmouth - Carabao Cup - viaplay
 DTSTART:20260808T135500
 DTEND:20260808T145500
 DTSTAMP:20260808T135500Z
 UID:2026-08-08T13:55:00/West Ham - Portsmouth
 DESCRIPTION:West Ham - Portsmouth - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norwich - MK Dons - Carabao Cup - viaplay
+DTSTART:20260808T135500
+DTEND:20260808T145500
+DTSTAMP:20260808T135500Z
+UID:2026-08-08T13:55:00/Norwich - MK Dons
+DESCRIPTION:Norwich - MK Dons - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain - Man. United - Vináttuleikir félagsliða - 
@@ -393,14 +369,6 @@ UID:2026-08-08T16:00:00/Keflavík - Völsungur
 DESCRIPTION:Keflavík - Völsungur - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rotherham - WBA - Carabao Cup - synsportviaplay
-DTSTART:20260808T162500
-DTEND:20260808T172500
-DTSTAMP:20260808T162500Z
-UID:2026-08-08T16:25:00/Rotherham - WBA
-DESCRIPTION:Rotherham - WBA - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rotherham - West Brom - Carabao Cup - viaplay
 DTSTART:20260808T162500
 DTEND:20260808T172500
@@ -409,11 +377,131 @@ UID:2026-08-08T16:25:00/Rotherham - West Brom
 DESCRIPTION:Rotherham - West Brom - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rotherham - WBA - Carabao Cup - synsportviaplay
+DTSTART:20260808T162500
+DTEND:20260808T172500
+DTSTAMP:20260808T162500Z
+UID:2026-08-08T16:25:00/Rotherham - WBA
+DESCRIPTION:Rotherham - WBA - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wolfsburg - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20260808T182500
 DTEND:20260808T192500
 DTSTAMP:20260808T182500Z
 UID:2026-08-08T18:25:00/Wolfsburg - Kaiserslautern
 DESCRIPTION:Wolfsburg - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20260809T112500
+DTEND:20260809T122500
+DTSTAMP:20260809T112500Z
+UID:2026-08-09T11:25:00/St. Pauli - Greuther Fürth
+DESCRIPTION:St. Pauli - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Dynamo Dresden - 2. Bundesliga - viaplay
+DTSTART:20260809T112500
+DTEND:20260809T122500
+DTSTAMP:20260809T112500Z
+UID:2026-08-09T11:25:00/Nürnberg - Dynamo Dresden
+DESCRIPTION:Nürnberg - Dynamo Dresden - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Energie Cottbus - Hannover - 2. Bundesliga - viaplay
+DTSTART:20260809T112500
+DTEND:20260809T122500
+DTSTAMP:20260809T112500Z
+UID:2026-08-09T11:25:00/Energie Cottbus - Hannover
+DESCRIPTION:Energie Cottbus - Hannover - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piteå - Häcken - OBOS Damallsvenskan - viaplay
+DTSTART:20260809T115000
+DTEND:20260809T125000
+DTSTAMP:20260809T115000Z
+UID:2026-08-09T11:50:00/Piteå - Häcken
+DESCRIPTION:Piteå - Häcken - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Monaco - Vináttuleikir félagsliða - livey
+DTSTART:20260809T133000
+DTEND:20260809T143000
+DTSTAMP:20260809T133000Z
+UID:2026-08-09T13:30:00/Liverpool - Monaco
+DESCRIPTION:Liverpool - Monaco - Vináttuleikir félagsliða
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FHL - HK - Lengjudeildin - livey
+DTSTART:20260809T140000
+DTEND:20260809T150000
+DTSTAMP:20260809T140000Z
+UID:2026-08-09T14:00:00/FHL - HK
+DESCRIPTION:FHL - HK - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mansfield - Sheffield United - Carabao Cup - viaplay
+DTSTART:20260809T145000
+DTEND:20260809T155000
+DTSTAMP:20260809T145000Z
+UID:2026-08-09T14:50:00/Mansfield - Sheffield United
+DESCRIPTION:Mansfield - Sheffield United - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mansfield - Sheffield united - Carabao Cup - synsportviaplay
+DTSTART:20260809T145000
+DTEND:20260809T155000
+DTSTAMP:20260809T145000Z
+UID:2026-08-09T14:50:00/Mansfield - Sheffield united
+DESCRIPTION:Mansfield - Sheffield united - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Keflavík - Besta deild karla - synsportisland2
+DTSTART:20260809T175000
+DTEND:20260809T185000
+DTSTAMP:20260809T175000Z
+UID:2026-08-09T17:50:00/Stjarnan - Keflavík
+DESCRIPTION:Stjarnan - Keflavík - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Subway messan - Besta deild karla - synsportisland
+DTSTART:20260809T175000
+DTEND:20260809T185000
+DTSTAMP:20260809T175000Z
+UID:2026-08-09T17:50:00/Subway messan
+DESCRIPTION:Subway messan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍA - Þór Ak. - Besta deild karla - synsportisland3
+DTSTART:20260809T175000
+DTEND:20260809T185000
+DTSTAMP:20260809T175000Z
+UID:2026-08-09T17:50:00/ÍA - Þór Ak.
+DESCRIPTION:ÍA - Þór Ak. - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - ÍBV - Besta deild karla - synsportisland4
+DTSTART:20260809T175000
+DTEND:20260809T185000
+DTSTAMP:20260809T175000Z
+UID:2026-08-09T17:50:00/Víkingur R. - ÍBV
+DESCRIPTION:Víkingur R. - ÍBV - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KA - FH - Besta deild karla - synsportisland5
+DTSTART:20260809T175000
+DTEND:20260809T185000
+DTSTAMP:20260809T175000Z
+UID:2026-08-09T17:50:00/KA - FH
+DESCRIPTION:KA - FH - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Valur - Besta deild karla - synsportisland
+DTSTART:20260809T201000
+DTEND:20260809T211000
+DTSTAMP:20260809T201000Z
+UID:2026-08-09T20:10:00/Breiðablik - Valur
+DESCRIPTION:Breiðablik - Valur - Besta deild karla
 END:VEVENT
 END:VCALENDAR
