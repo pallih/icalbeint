@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - livey - ical
 BEGIN:VEVENT
-SUMMARY:Mallorca - Paris Saint-Germain - Vináttuleikir félagsliða - liv
- ey
-DTSTART:20260805T180000
-DTEND:20260805T190000
-DTSTAMP:20260805T180000Z
-UID:2026-08-05T18:00:00/Mallorca - Paris Saint-Germain
-DESCRIPTION:Mallorca - Paris Saint-Germain - Vináttuleikir félagsliða
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - Real Betis - Vináttuleikir félagsliða - livey
-DTSTART:20260805T183000
-DTEND:20260805T193000
-DTSTAMP:20260805T183000Z
-UID:2026-08-05T18:30:00/Arsenal - Real Betis
-DESCRIPTION:Arsenal - Real Betis - Vináttuleikir félagsliða
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tindastóll - ÍA - Lengjudeildin - livey
 DTSTART:20260806T180000
 DTEND:20260806T190000
@@ -27,20 +10,20 @@ UID:2026-08-06T18:00:00/Tindastóll - ÍA
 DESCRIPTION:Tindastóll - ÍA - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Ægir - Lengjudeildin - livey
-DTSTART:20260806T191500
-DTEND:20260806T201500
-DTSTAMP:20260806T191500Z
-UID:2026-08-06T19:15:00/ÍR - Ægir
-DESCRIPTION:ÍR - Ægir - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KR - Grótta - Lengjudeildin - livey
 DTSTART:20260806T191500
 DTEND:20260806T201500
 DTSTAMP:20260806T191500Z
 UID:2026-08-06T19:15:00/KR - Grótta
 DESCRIPTION:KR - Grótta - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍR - Ægir - Lengjudeildin - livey
+DTSTART:20260806T191500
+DTEND:20260806T201500
+DTSTAMP:20260806T191500Z
+UID:2026-08-06T19:15:00/ÍR - Ægir
+DESCRIPTION:ÍR - Ægir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern Munich - Aston Villa - Vináttuleikir félagsliða - livey
@@ -75,20 +58,20 @@ UID:2026-08-08T12:00:00/Chelsea - AC Milan
 DESCRIPTION:Chelsea - AC Milan - Vináttuleikir félagsliða
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grótta - Þróttur R. - Lengjudeildin - livey
-DTSTART:20260808T140000
-DTEND:20260808T150000
-DTSTAMP:20260808T140000Z
-UID:2026-08-08T14:00:00/Grótta - Þróttur R.
-DESCRIPTION:Grótta - Þróttur R. - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Njarðvík - Vestri - Lengjudeildin - livey
 DTSTART:20260808T140000
 DTEND:20260808T150000
 DTSTAMP:20260808T140000Z
 UID:2026-08-08T14:00:00/Njarðvík - Vestri
 DESCRIPTION:Njarðvík - Vestri - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grótta - Þróttur R. - Lengjudeildin - livey
+DTSTART:20260808T140000
+DTEND:20260808T150000
+DTSTAMP:20260808T140000Z
+UID:2026-08-08T14:00:00/Grótta - Þróttur R.
+DESCRIPTION:Grótta - Þróttur R. - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris Saint-Germain - Man. United - Vináttuleikir félagsliða - 
@@ -139,5 +122,21 @@ DTEND:20260810T201500
 DTSTAMP:20260810T191500Z
 UID:2026-08-10T19:15:00/Selfoss - Haukar
 DESCRIPTION:Selfoss - Haukar - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Newcastle - Vináttuleikir félagsliða - livey
+DTSTART:20260812T161500
+DTEND:20260812T171500
+DTSTAMP:20260812T161500Z
+UID:2026-08-12T16:15:00/Everton - Newcastle
+DESCRIPTION:Everton - Newcastle - Vináttuleikir félagsliða
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. United - Leeds - Vináttuleikir félagsliða - livey
+DTSTART:20260812T183000
+DTEND:20260812T193000
+DTSTAMP:20260812T183000Z
+UID:2026-08-12T18:30:00/Man. United - Leeds
+DESCRIPTION:Man. United - Leeds - Vináttuleikir félagsliða
 END:VEVENT
 END:VCALENDAR

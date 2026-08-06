@@ -2,43 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - eurosport - ical
 BEGIN:VEVENT
-SUMMARY:Final | Day 2 - Poker: World Series of Poker - Las Vegas - eurospo
- rt1
-DTSTART:20260805T000000
-DTEND:20260805T010000
-DTSTAMP:20260805T000000Z
-UID:2026-08-05T00:00:00/Final | Day 2
-DESCRIPTION:Final | Day 2 - Poker: World Series of Poker - Las Vegas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men | Gorzów Wielkopolski - Zielona Góra (193.5km) - Tour of Pol
- and - eurosport2
-DTSTART:20260805T100500
-DTEND:20260805T110500
-DTSTAMP:20260805T100500Z
-UID:2026-08-05T10:05:00/Men | Gorzów Wielkopolski - Zielona Góra (193.5k
- m)
-DESCRIPTION:Men | Gorzów Wielkopolski - Zielona Góra (193.5km) - Tour of
-  Poland
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mâcon - Belleville-en-Beaujolais (140km) - Tour de France Femmes 
- avec Zwift - eurosport1
-DTSTART:20260805T113000
-DTEND:20260805T123000
-DTSTAMP:20260805T113000Z
-UID:2026-08-05T11:30:00/Mâcon - Belleville-en-Beaujolais (140km)
-DESCRIPTION:Mâcon - Belleville-en-Beaujolais (140km) - Tour de France Fem
- mes avec Zwift
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Final | Day 3 - Poker: World Series of Poker - Las Vegas - eurospo
- rt1
+SUMMARY:Final Table | Day 3 - Poker: World Series of Poker - Las Vegas - e
+ urosport1
 DTSTART:20260806T023000
 DTEND:20260806T033000
 DTSTAMP:20260806T023000Z
-UID:2026-08-06T02:30:00/Final | Day 3
-DESCRIPTION:Final | Day 3 - Poker: World Series of Poker - Las Vegas
+UID:2026-08-06T02:30:00/Final Table | Day 3
+DESCRIPTION:Final Table | Day 3 - Poker: World Series of Poker - Las Vegas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Men | Żagań - Karpacz (175.5km) - Tour of Poland - eurosport2
@@ -192,13 +162,14 @@ UID:2026-08-10T06:00:00/Round 1
 DESCRIPTION:Round 1 - China Open
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Birmingham | Day 1 | Morning Session - European Championship - eur
- osport1
+SUMMARY:Morning Session | Day 1 - Birmingham 2026 European Athletics Champ
+ ionships - eurosport1
 DTSTART:20260810T093000
 DTEND:20260810T103000
 DTSTAMP:20260810T093000Z
-UID:2026-08-10T09:30:00/Birmingham | Day 1 | Morning Session
-DESCRIPTION:Birmingham | Day 1 | Morning Session - European Championship
+UID:2026-08-10T09:30:00/Morning Session | Day 1
+DESCRIPTION:Morning Session | Day 1 - Birmingham 2026 European Athletics C
+ hampionships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 1 - China Open - eurosport1
@@ -209,12 +180,49 @@ UID:2026-08-10T12:30:00/Round 1
 DESCRIPTION:Round 1 - China Open
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Birmingham | Day 1 | Night Session - European Championship - euros
- port1
+SUMMARY:Evening Session | Day 1 - Birmingham 2026 European Athletics Champ
+ ionships - eurosport1
 DTSTART:20260810T180000
 DTEND:20260810T190000
 DTSTAMP:20260810T180000Z
-UID:2026-08-10T18:00:00/Birmingham | Day 1 | Night Session
-DESCRIPTION:Birmingham | Day 1 | Night Session - European Championship
+UID:2026-08-10T18:00:00/Evening Session | Day 1
+DESCRIPTION:Evening Session | Day 1 - Birmingham 2026 European Athletics C
+ hampionships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 1 - China Open - eurosport1
+DTSTART:20260811T060000
+DTEND:20260811T070000
+DTSTAMP:20260811T060000Z
+UID:2026-08-11T06:00:00/Round 1
+DESCRIPTION:Round 1 - China Open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Session | Day 2 - Birmingham 2026 European Athletics Champ
+ ionships - eurosport1
+DTSTART:20260811T093000
+DTEND:20260811T103000
+DTSTAMP:20260811T093000Z
+UID:2026-08-11T09:30:00/Morning Session | Day 2
+DESCRIPTION:Morning Session | Day 2 - Birmingham 2026 European Athletics C
+ hampionships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 1 - China Open - eurosport1
+DTSTART:20260811T120500
+DTEND:20260811T130500
+DTSTAMP:20260811T120500Z
+UID:2026-08-11T12:05:00/Round 1
+DESCRIPTION:Round 1 - China Open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Session | Day 2 - Birmingham 2026 European Athletics Champ
+ ionships - eurosport1
+DTSTART:20260811T180000
+DTEND:20260811T190000
+DTSTAMP:20260811T180000Z
+UID:2026-08-11T18:00:00/Evening Session | Day 2
+DESCRIPTION:Evening Session | Day 2 - Birmingham 2026 European Athletics C
+ hampionships
 END:VEVENT
 END:VCALENDAR

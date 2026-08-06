@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Mariners - Tigers - Major League Baseball - viaplay
-DTSTART:20260805T013000
-DTEND:20260805T023000
-DTSTAMP:20260805T013000Z
-UID:2026-08-05T01:30:00/Mariners - Tigers
-DESCRIPTION:Mariners - Tigers - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florida Open Pool Championship - Pool - viaplay
-DTSTART:20260805T150000
-DTEND:20260805T160000
-DTSTAMP:20260805T150000Z
-UID:2026-08-05T15:00:00/Florida Open Pool Championship
-DESCRIPTION:Florida Open Pool Championship - Pool
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cubs - Dodgers - Major League Baseball - viaplay
-DTSTART:20260805T180000
-DTEND:20260805T190000
-DTSTAMP:20260805T180000Z
-UID:2026-08-05T18:00:00/Cubs - Dodgers
-DESCRIPTION:Cubs - Dodgers - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yankees - Cardinals - Major League Baseball - viaplay
-DTSTART:20260805T230000
-DTEND:20260806T000000
-DTSTAMP:20260805T230000Z
-UID:2026-08-05T23:00:00/Yankees - Cardinals
-DESCRIPTION:Yankees - Cardinals - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PIF London Championship - Ladies European Tour - viaplay
 DTSTART:20260806T130000
 DTEND:20260806T140000
@@ -154,20 +122,20 @@ UID:2026-08-07T16:00:00/LIV Golf New York
 DESCRIPTION:LIV Golf New York - LIV Golf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Växjö - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20260807T165000
-DTEND:20260807T175000
-DTSTAMP:20260807T165000Z
-UID:2026-08-07T16:50:00/Växjö - Rosengård
-DESCRIPTION:Växjö - Rosengård - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AIK - Brommapojkarna - OBOS Damallsvenskan - viaplay
 DTSTART:20260807T165000
 DTEND:20260807T175000
 DTSTAMP:20260807T165000Z
 UID:2026-08-07T16:50:00/AIK - Brommapojkarna
 DESCRIPTION:AIK - Brommapojkarna - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Växjö - Rosengård - OBOS Damallsvenskan - viaplay
+DTSTART:20260807T165000
+DTEND:20260807T175000
+DTSTAMP:20260807T165000Z
+UID:2026-08-07T16:50:00/Växjö - Rosengård
+DESCRIPTION:Växjö - Rosengård - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bochum - Hertha Berlin - 2. Bundesliga - viaplay
@@ -258,22 +226,6 @@ UID:2026-08-08T10:45:00/Silverstone Kappaksturinn (Tímatökur)
 DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heidenheim - Osnabrück - 2. Bundesliga - viaplay
-DTSTART:20260808T105500
-DTEND:20260808T115500
-DTSTAMP:20260808T105500Z
-UID:2026-08-08T10:55:00/Heidenheim - Osnabrück
-DESCRIPTION:Heidenheim - Osnabrück - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Holstein Kiel - 2. Bundesliga - viaplay
-DTSTART:20260808T105500
-DTEND:20260808T115500
-DTSTAMP:20260808T105500Z
-UID:2026-08-08T10:55:00/Darmstadt - Holstein Kiel
-DESCRIPTION:Darmstadt - Holstein Kiel - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Karlsruher - Arminia Bielefeld - 2. Bundesliga - viaplay
 DTSTART:20260808T105500
 DTEND:20260808T115500
@@ -288,6 +240,22 @@ DTEND:20260808T115500
 DTSTAMP:20260808T105500Z
 UID:2026-08-08T10:55:00/Magdeburg - Braunschweig
 DESCRIPTION:Magdeburg - Braunschweig - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Holstein Kiel - 2. Bundesliga - viaplay
+DTSTART:20260808T105500
+DTEND:20260808T115500
+DTSTAMP:20260808T105500Z
+UID:2026-08-08T10:55:00/Darmstadt - Holstein Kiel
+DESCRIPTION:Darmstadt - Holstein Kiel - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Osnabrück - 2. Bundesliga - viaplay
+DTSTART:20260808T105500
+DTEND:20260808T115500
+DTSTAMP:20260808T105500Z
+UID:2026-08-08T10:55:00/Heidenheim - Osnabrück
+DESCRIPTION:Heidenheim - Osnabrück - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PIF London Championship - Ladies European Tour - viaplay
@@ -338,22 +306,6 @@ UID:2026-08-08T13:35:00/Silverstone Kappaksturinn (Tímatökur)
 DESCRIPTION:Silverstone Kappaksturinn (Tímatökur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Notts County - Carabao Cup - viaplay
-DTSTART:20260808T135500
-DTEND:20260808T145500
-DTSTAMP:20260808T135500Z
-UID:2026-08-08T13:55:00/Burnley - Notts County
-DESCRIPTION:Burnley - Notts County - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norwich - MK Dons - Carabao Cup - viaplay
-DTSTART:20260808T135500
-DTEND:20260808T145500
-DTSTAMP:20260808T135500Z
-UID:2026-08-08T13:55:00/Norwich - MK Dons
-DESCRIPTION:Norwich - MK Dons - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Ham - Portsmouth - Carabao Cup - viaplay
 DTSTART:20260808T135500
 DTEND:20260808T145500
@@ -376,6 +328,22 @@ DTEND:20260808T145500
 DTSTAMP:20260808T135500Z
 UID:2026-08-08T13:55:00/Sheffield Wednesday - Bolton
 DESCRIPTION:Sheffield Wednesday - Bolton - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Notts County - Carabao Cup - viaplay
+DTSTART:20260808T135500
+DTEND:20260808T145500
+DTSTAMP:20260808T135500Z
+UID:2026-08-08T13:55:00/Burnley - Notts County
+DESCRIPTION:Burnley - Notts County - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norwich - MK Dons - Carabao Cup - viaplay
+DTSTART:20260808T135500
+DTEND:20260808T145500
+DTSTAMP:20260808T135500Z
+UID:2026-08-08T13:55:00/Norwich - MK Dons
+DESCRIPTION:Norwich - MK Dons - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silverstone Kappaksturinn (Sprettkeppni) - MotoGP - viaplay
@@ -410,20 +378,20 @@ UID:2026-08-08T16:25:00/Rotherham - West Brom
 DESCRIPTION:Rotherham - West Brom - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Florida Open Pool Championship - Pool - viaplay
-DTSTART:20260808T170000
-DTEND:20260808T180000
-DTSTAMP:20260808T170000Z
-UID:2026-08-08T17:00:00/Florida Open Pool Championship
-DESCRIPTION:Florida Open Pool Championship - Pool
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bitnile.com Grand Prix of Portland (Æfing 2) - IndyCar - viaplay
 DTSTART:20260808T170000
 DTEND:20260808T180000
 DTSTAMP:20260808T170000Z
 UID:2026-08-08T17:00:00/Bitnile.com Grand Prix of Portland (Æfing 2)
 DESCRIPTION:Bitnile.com Grand Prix of Portland (Æfing 2) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Open Pool Championship - Pool - viaplay
+DTSTART:20260808T170000
+DTEND:20260808T180000
+DTSTAMP:20260808T170000Z
+UID:2026-08-08T17:00:00/Florida Open Pool Championship
+DESCRIPTION:Florida Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Kaiserslautern - 2. Bundesliga - viaplay
@@ -434,20 +402,20 @@ UID:2026-08-08T18:25:00/Wolfsburg - Kaiserslautern
 DESCRIPTION:Wolfsburg - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yankees - Braves - Major League Baseball - viaplay
-DTSTART:20260808T190000
-DTEND:20260808T200000
-DTSTAMP:20260808T190000Z
-UID:2026-08-08T19:00:00/Yankees - Braves
-DESCRIPTION:Yankees - Braves - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grand Prix of Portland (Tímatökur) - Indy NXT - viaplay
 DTSTART:20260808T190000
 DTEND:20260808T200000
 DTSTAMP:20260808T190000Z
 UID:2026-08-08T19:00:00/Grand Prix of Portland (Tímatökur)
 DESCRIPTION:Grand Prix of Portland (Tímatökur) - Indy NXT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yankees - Braves - Major League Baseball - viaplay
+DTSTART:20260808T190000
+DTEND:20260808T200000
+DTSTAMP:20260808T190000Z
+UID:2026-08-08T19:00:00/Yankees - Braves
+DESCRIPTION:Yankees - Braves - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Giants - Tigers - Major League Baseball - viaplay
@@ -507,20 +475,20 @@ UID:2026-08-09T11:15:00/Silverstone Kappaksturinn (Kappakstur)
 DESCRIPTION:Silverstone Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Dynamo Dresden - 2. Bundesliga - viaplay
-DTSTART:20260809T112500
-DTEND:20260809T122500
-DTSTAMP:20260809T112500Z
-UID:2026-08-09T11:25:00/Nürnberg - Dynamo Dresden
-DESCRIPTION:Nürnberg - Dynamo Dresden - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:St. Pauli - Greuther Fürth - 2. Bundesliga - viaplay
 DTSTART:20260809T112500
 DTEND:20260809T122500
 DTSTAMP:20260809T112500Z
 UID:2026-08-09T11:25:00/St. Pauli - Greuther Fürth
 DESCRIPTION:St. Pauli - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Dynamo Dresden - 2. Bundesliga - viaplay
+DTSTART:20260809T112500
+DTEND:20260809T122500
+DTSTAMP:20260809T112500Z
+UID:2026-08-09T11:25:00/Nürnberg - Dynamo Dresden
+DESCRIPTION:Nürnberg - Dynamo Dresden - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Energie Cottbus - Hannover - 2. Bundesliga - viaplay
@@ -658,5 +626,37 @@ DTEND:20260811T233000
 DTSTAMP:20260811T223000Z
 UID:2026-08-11T22:30:00/Marlins - Pirates
 DESCRIPTION:Marlins - Pirates - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Padres - Brewers - Major League Baseball - viaplay
+DTSTART:20260812T013000
+DTEND:20260812T023000
+DTSTAMP:20260812T013000Z
+UID:2026-08-12T01:30:00/Padres - Brewers
+DESCRIPTION:Padres - Brewers - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twins - Orioles - Major League Baseball - viaplay
+DTSTART:20260812T173000
+DTEND:20260812T183000
+DTSTAMP:20260812T173000Z
+UID:2026-08-12T17:30:00/Twins - Orioles
+DESCRIPTION:Twins - Orioles - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Aston Villa - UEFA Super Cup - viaplay
+DTSTART:20260812T185500
+DTEND:20260812T195500
+DTSTAMP:20260812T185500Z
+UID:2026-08-12T18:55:00/PSG - Aston Villa
+DESCRIPTION:PSG - Aston Villa - UEFA Super Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yankees - Mariners - Major League Baseball - viaplay
+DTSTART:20260812T230000
+DTEND:20260813T000000
+DTSTAMP:20260812T230000Z
+UID:2026-08-12T23:00:00/Yankees - Mariners
+DESCRIPTION:Yankees - Mariners - Major League Baseball
 END:VEVENT
 END:VCALENDAR
