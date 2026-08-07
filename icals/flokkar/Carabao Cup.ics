@@ -10,7 +10,7 @@ UID:2026-08-07T18:40:00/Wolverhampton - Port Vale
 DESCRIPTION:Wolverhampton - Port Vale - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Middlesbrough - Wrexham - Carabao Cup - viaplay
+SUMMARY:Middlesbrough - Wrexham - Carabao Cup - synsportviaplay
 DTSTART:20260807T185000
 DTEND:20260807T195000
 DTSTAMP:20260807T185000Z
@@ -18,7 +18,7 @@ UID:2026-08-07T18:50:00/Middlesbrough - Wrexham
 DESCRIPTION:Middlesbrough - Wrexham - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Middlesbrough - Wrexham - Carabao Cup - synsportviaplay
+SUMMARY:Middlesbrough - Wrexham - Carabao Cup - viaplay
 DTSTART:20260807T185000
 DTEND:20260807T195000
 DTSTAMP:20260807T185000Z
@@ -50,20 +50,20 @@ UID:2026-08-08T13:55:00/West Ham - Portsmouth
 DESCRIPTION:West Ham - Portsmouth - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Norwich - MK Dons - Carabao Cup - viaplay
+DTSTART:20260808T135500
+DTEND:20260808T145500
+DTSTAMP:20260808T135500Z
+UID:2026-08-08T13:55:00/Norwich - MK Dons
+DESCRIPTION:Norwich - MK Dons - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leicester - Northampton - Carabao Cup - viaplay
 DTSTART:20260808T135500
 DTEND:20260808T145500
 DTSTAMP:20260808T135500Z
 UID:2026-08-08T13:55:00/Leicester - Northampton
 DESCRIPTION:Leicester - Northampton - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield Wednesday - Bolton - Carabao Cup - viaplay
-DTSTART:20260808T135500
-DTEND:20260808T145500
-DTSTAMP:20260808T135500Z
-UID:2026-08-08T13:55:00/Sheffield Wednesday - Bolton
-DESCRIPTION:Sheffield Wednesday - Bolton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burnley - Notts County - Carabao Cup - viaplay
@@ -74,20 +74,12 @@ UID:2026-08-08T13:55:00/Burnley - Notts County
 DESCRIPTION:Burnley - Notts County - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Norwich - MK Dons - Carabao Cup - viaplay
+SUMMARY:Sheffield Wednesday - Bolton - Carabao Cup - viaplay
 DTSTART:20260808T135500
 DTEND:20260808T145500
 DTSTAMP:20260808T135500Z
-UID:2026-08-08T13:55:00/Norwich - MK Dons
-DESCRIPTION:Norwich - MK Dons - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rotherham - WBA - Carabao Cup - synsportviaplay
-DTSTART:20260808T162500
-DTEND:20260808T172500
-DTSTAMP:20260808T162500Z
-UID:2026-08-08T16:25:00/Rotherham - WBA
-DESCRIPTION:Rotherham - WBA - Carabao Cup
+UID:2026-08-08T13:55:00/Sheffield Wednesday - Bolton
+DESCRIPTION:Sheffield Wednesday - Bolton - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rotherham - West Brom - Carabao Cup - viaplay
@@ -98,12 +90,12 @@ UID:2026-08-08T16:25:00/Rotherham - West Brom
 DESCRIPTION:Rotherham - West Brom - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mansfield - Sheffield united - Carabao Cup - synsportviaplay
-DTSTART:20260809T145000
-DTEND:20260809T155000
-DTSTAMP:20260809T145000Z
-UID:2026-08-09T14:50:00/Mansfield - Sheffield united
-DESCRIPTION:Mansfield - Sheffield united - Carabao Cup
+SUMMARY:Rotherham - WBA - Carabao Cup - synsportviaplay
+DTSTART:20260808T162500
+DTEND:20260808T172500
+DTSTAMP:20260808T162500Z
+UID:2026-08-08T16:25:00/Rotherham - WBA
+DESCRIPTION:Rotherham - WBA - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mansfield - Sheffield United - Carabao Cup - viaplay
@@ -114,7 +106,15 @@ UID:2026-08-09T14:50:00/Mansfield - Sheffield United
 DESCRIPTION:Mansfield - Sheffield United - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plymouth - Exeter - Carabao Cup - synsportviaplay
+SUMMARY:Mansfield - Sheffield united - Carabao Cup - synsportviaplay
+DTSTART:20260809T145000
+DTEND:20260809T155000
+DTSTAMP:20260809T145000Z
+UID:2026-08-09T14:50:00/Mansfield - Sheffield united
+DESCRIPTION:Mansfield - Sheffield united - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plymouth - Exeter - Carabao Cup - viaplay
 DTSTART:20260810T185000
 DTEND:20260810T195000
 DTSTAMP:20260810T185000Z
@@ -122,7 +122,7 @@ UID:2026-08-10T18:50:00/Plymouth - Exeter
 DESCRIPTION:Plymouth - Exeter - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plymouth - Exeter - Carabao Cup - viaplay
+SUMMARY:Plymouth - Exeter - Carabao Cup - synsportviaplay
 DTSTART:20260810T185000
 DTEND:20260810T195000
 DTSTAMP:20260810T185000Z
