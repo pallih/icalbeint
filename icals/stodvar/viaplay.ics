@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Padres - Astros - Major League Baseball - viaplay
-DTSTART:20260810T000000
-DTEND:20260810T010000
-DTSTAMP:20260810T000000Z
-UID:2026-08-10T00:00:00/Padres - Astros
-DESCRIPTION:Padres - Astros - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plymouth - Exeter - Carabao Cup - viaplay
-DTSTART:20260810T185000
-DTEND:20260810T195000
-DTSTAMP:20260810T185000Z
-UID:2026-08-10T18:50:00/Plymouth - Exeter
-DESCRIPTION:Plymouth - Exeter - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Jays - Red Sox - Major League Baseball - viaplay
-DTSTART:20260810T230000
-DTEND:20260811T000000
-DTSTAMP:20260810T230000Z
-UID:2026-08-10T23:00:00/Blue Jays - Red Sox
-DESCRIPTION:Blue Jays - Red Sox - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dodgers - Royals - Major League Baseball - viaplay
 DTSTART:20260811T020000
 DTEND:20260811T030000
@@ -122,20 +98,20 @@ UID:2026-08-14T13:30:00/VP Bank Swiss Ladies Open
 DESCRIPTION:VP Bank Swiss Ladies Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - St. Pauli - 2. Bundesliga - viaplay
-DTSTART:20260814T162500
-DTEND:20260814T172500
-DTSTAMP:20260814T162500Z
-UID:2026-08-14T16:25:00/Holstein Kiel - St. Pauli
-DESCRIPTION:Holstein Kiel - St. Pauli - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Braunschweig - Bochum - 2. Bundesliga - viaplay
 DTSTART:20260814T162500
 DTEND:20260814T172500
 DTSTAMP:20260814T162500Z
 UID:2026-08-14T16:25:00/Braunschweig - Bochum
 DESCRIPTION:Braunschweig - Bochum - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel - St. Pauli - 2. Bundesliga - viaplay
+DTSTART:20260814T162500
+DTEND:20260814T172500
+DTSTAMP:20260814T162500Z
+UID:2026-08-14T16:25:00/Holstein Kiel - St. Pauli
+DESCRIPTION:Holstein Kiel - St. Pauli - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Växjö - Djurgården - OBOS Damallsvenskan - viaplay
@@ -179,6 +155,14 @@ UID:2026-08-14T22:00:00/Reds - Marlins
 DESCRIPTION:Reds - Marlins - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Athletics - Rangers - Major League Baseball - viaplay
+DTSTART:20260815T013000
+DTEND:20260815T023000
+DTSTAMP:20260815T013000Z
+UID:2026-08-15T01:30:00/Athletics - Rangers
+DESCRIPTION:Athletics - Rangers - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IRONMAN Kalmar-Sweden - IRONMAN Pro Series - viaplay
 DTSTART:20260815T041500
 DTEND:20260815T051500
@@ -220,6 +204,14 @@ UID:2026-08-15T10:50:00/AIK - Vittsjö
 DESCRIPTION:AIK - Vittsjö - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Osnabrück - Magdeburg - 2. Bundesliga - viaplay
+DTSTART:20260815T105500
+DTEND:20260815T115500
+DTSTAMP:20260815T105500Z
+UID:2026-08-15T10:55:00/Osnabrück - Magdeburg
+DESCRIPTION:Osnabrück - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Nürnberg - 2. Bundesliga - viaplay
 DTSTART:20260815T105500
 DTEND:20260815T115500
@@ -234,14 +226,6 @@ DTEND:20260815T115500
 DTSTAMP:20260815T105500Z
 UID:2026-08-15T10:55:00/Hertha Berlin - Heidenheim
 DESCRIPTION:Hertha Berlin - Heidenheim - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Osnabrück - Magdeburg - 2. Bundesliga - viaplay
-DTSTART:20260815T105500
-DTEND:20260815T115500
-DTSTAMP:20260815T105500Z
-UID:2026-08-15T10:55:00/Osnabrück - Magdeburg
-DESCRIPTION:Osnabrück - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürburgring (Kappakstur 1) - DTM - viaplay
@@ -316,14 +300,6 @@ UID:2026-08-15T13:30:00/VP Bank Swiss Ladies Open
 DESCRIPTION:VP Bank Swiss Ladies Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stoke - Swansea - Championship - viaplay
-DTSTART:20260815T135500
-DTEND:20260815T145500
-DTSTAMP:20260815T135500Z
-UID:2026-08-15T13:55:00/Stoke - Swansea
-DESCRIPTION:Stoke - Swansea - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Middlesbrough - Lincoln - Championship - viaplay
 DTSTART:20260815T135500
 DTEND:20260815T145500
@@ -340,6 +316,14 @@ UID:2026-08-15T13:55:00/Bristol City - Millwall
 DESCRIPTION:Bristol City - Millwall - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Charlton - Derby - Championship - viaplay
+DTSTART:20260815T135500
+DTEND:20260815T145500
+DTSTAMP:20260815T135500Z
+UID:2026-08-15T13:55:00/Charlton - Derby
+DESCRIPTION:Charlton - Derby - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Portsmouth - QPR - Championship - viaplay
 DTSTART:20260815T135500
 DTEND:20260815T145500
@@ -348,12 +332,12 @@ UID:2026-08-15T13:55:00/Portsmouth - QPR
 DESCRIPTION:Portsmouth - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlton - Derby - Championship - viaplay
+SUMMARY:Stoke - Swansea - Championship - viaplay
 DTSTART:20260815T135500
 DTEND:20260815T145500
 DTSTAMP:20260815T135500Z
-UID:2026-08-15T13:55:00/Charlton - Derby
-DESCRIPTION:Charlton - Derby - Championship
+UID:2026-08-15T13:55:00/Stoke - Swansea
+DESCRIPTION:Stoke - Swansea - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:York City - Bristol Rovers - League Two - viaplay
@@ -405,6 +389,14 @@ UID:2026-08-15T17:00:00/Tigers - White Sox
 DESCRIPTION:Tigers - White Sox - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20260815T182500
+DTEND:20260815T192500
+DTSTAMP:20260815T182500Z
+UID:2026-08-15T18:25:00/Kaiserslautern - Karlsruher
+DESCRIPTION:Kaiserslautern - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ontario Honda Dealers Indy at Markham (Tímatökur) - IndyCar - vi
  aplay
 DTSTART:20260815T182500
@@ -413,14 +405,6 @@ DTSTAMP:20260815T182500Z
 UID:2026-08-15T18:25:00/Ontario Honda Dealers Indy at Markham (Tímatökur
  )
 DESCRIPTION:Ontario Honda Dealers Indy at Markham (Tímatökur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20260815T182500
-DTEND:20260815T192500
-DTSTAMP:20260815T182500Z
-UID:2026-08-15T18:25:00/Kaiserslautern - Karlsruher
-DESCRIPTION:Kaiserslautern - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arizona Open Pool Championship - Pool - viaplay
@@ -480,6 +464,14 @@ UID:2026-08-16T11:15:00/Nürburgring (Kappakstur 2)
 DESCRIPTION:Nürburgring (Kappakstur 2) - DTM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hannover - Wolfsburg - 2. Bundesliga - viaplay
+DTSTART:20260816T112500
+DTEND:20260816T122500
+DTSTAMP:20260816T112500Z
+UID:2026-08-16T11:25:00/Hannover - Wolfsburg
+DESCRIPTION:Hannover - Wolfsburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arminia Bielefeld - Energie Cottbus - 2. Bundesliga - viaplay
 DTSTART:20260816T112500
 DTEND:20260816T122500
@@ -494,14 +486,6 @@ DTEND:20260816T122500
 DTSTAMP:20260816T112500Z
 UID:2026-08-16T11:25:00/Dynamo Dresden - Darmstadt
 DESCRIPTION:Dynamo Dresden - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hannover - Wolfsburg - 2. Bundesliga - viaplay
-DTSTART:20260816T112500
-DTEND:20260816T122500
-DTSTAMP:20260816T112500Z
-UID:2026-08-16T11:25:00/Hannover - Wolfsburg
-DESCRIPTION:Hannover - Wolfsburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Watford - Southampton - Championship - viaplay
@@ -584,5 +568,37 @@ DTEND:20260817T000000
 DTSTAMP:20260816T230000Z
 UID:2026-08-16T23:00:00/Astros - Mariners
 DESCRIPTION:Astros - Mariners - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Open Pool Championship - Pool - viaplay
+DTSTART:20260817T023000
+DTEND:20260817T033000
+DTSTAMP:20260817T023000Z
+UID:2026-08-17T02:30:00/Arizona Open Pool Championship
+DESCRIPTION:Arizona Open Pool Championship - Pool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reds - Cardinals - Major League Baseball - viaplay
+DTSTART:20260817T173000
+DTEND:20260817T183000
+DTSTAMP:20260817T173000Z
+UID:2026-08-17T17:30:00/Reds - Cardinals
+DESCRIPTION:Reds - Cardinals - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardiff - Wrexham - Championship - viaplay
+DTSTART:20260817T185500
+DTEND:20260817T195500
+DTSTAMP:20260817T185500Z
+UID:2026-08-17T18:55:00/Cardiff - Wrexham
+DESCRIPTION:Cardiff - Wrexham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Royals - Athletics - Major League Baseball - viaplay
+DTSTART:20260817T233000
+DTEND:20260818T003000
+DTSTAMP:20260817T233000Z
+UID:2026-08-17T23:30:00/Royals - Athletics
+DESCRIPTION:Royals - Athletics - Major League Baseball
 END:VEVENT
 END:VCALENDAR
