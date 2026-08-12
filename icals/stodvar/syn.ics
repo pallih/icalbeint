@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Einvígið á nesinu - Einvígið á nesinu - synsportisland
-DTSTART:20260811T200000
-DTEND:20260811T210000
-DTSTAMP:20260811T200000Z
-UID:2026-08-11T20:00:00/Einvígið á nesinu
-DESCRIPTION:Einvígið á nesinu - Einvígið á nesinu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PSG - Aston Villa - UEFA Super Cup - synsport
 DTSTART:20260812T184500
 DTEND:20260812T194500
@@ -26,14 +18,6 @@ UID:2026-08-12T19:05:00/Fram - FH
 DESCRIPTION:Fram - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þróttur R. - Valur - Besta deild kvenna - synsportisland
-DTSTART:20260812T190500
-DTEND:20260812T200500
-DTSTAMP:20260812T190500Z
-UID:2026-08-12T19:05:00/Þróttur R. - Valur
-DESCRIPTION:Þróttur R. - Valur - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breiðablik - Grindavík/Njarðvík - Besta deild kvenna - synspor
  tisland2
 DTSTART:20260812T190500
@@ -41,6 +25,14 @@ DTEND:20260812T200500
 DTSTAMP:20260812T190500Z
 UID:2026-08-12T19:05:00/Breiðablik - Grindavík/Njarðvík
 DESCRIPTION:Breiðablik - Grindavík/Njarðvík - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þróttur R. - Valur - Besta deild kvenna - synsportisland
+DTSTART:20260812T190500
+DTEND:20260812T200500
+DTSTAMP:20260812T190500Z
+UID:2026-08-12T19:05:00/Þróttur R. - Valur
+DESCRIPTION:Þróttur R. - Valur - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danish Golf Championship - DP World Tour - synsport4
@@ -82,14 +74,6 @@ DTEND:20260813T202000
 DTSTAMP:20260813T192000Z
 UID:2026-08-13T19:20:00/N1 mót stúlkna
 DESCRIPTION:N1 mót stúlkna - Sumarmótin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preview of the Season - Enski boltinn - synsport
-DTSTART:20260813T204000
-DTEND:20260813T214000
-DTSTAMP:20260813T204000Z
-UID:2026-08-13T20:40:00/Preview of the Season
-DESCRIPTION:Preview of the Season - Enski boltinn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danish Golf Championship - DP World Tour - synsport4
@@ -148,14 +132,6 @@ UID:2026-08-15T11:25:00/Bolton - Preston
 DESCRIPTION:Bolton - Preston - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Breiðablik - Besta deild kvenna - synsportisland
-DTSTART:20260815T134000
-DTEND:20260815T144000
-DTSTAMP:20260815T134000Z
-UID:2026-08-15T13:40:00/FH - Breiðablik
-DESCRIPTION:FH - Breiðablik - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Middlesbrough - Lincoln - EFL Championship - synsportviaplay
 DTSTART:20260815T135500
 DTEND:20260815T145500
@@ -172,7 +148,15 @@ UID:2026-08-15T16:25:00/Sheffield Utd. - Birmingham
 DESCRIPTION:Sheffield Utd. - Birmingham - EFL Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Ak. - Keflavík - Besta deild karla - synsportisland
+SUMMARY:FH - Breiðablik - Besta deild kvenna - synsportisland
+DTSTART:20260815T164500
+DTEND:20260815T174500
+DTSTAMP:20260815T164500Z
+UID:2026-08-15T16:45:00/FH - Breiðablik
+DESCRIPTION:FH - Breiðablik - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Ak. - Keflavík - Besta deild karla - synsportisland2
 DTSTART:20260815T165000
 DTEND:20260815T175000
 DTSTAMP:20260815T165000Z
@@ -276,11 +260,36 @@ UID:2026-08-17T19:00:00/Fram - Stjarnan
 DESCRIPTION:Fram - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Preview of the Season - Enski boltinn - synsport
+DTSTART:20260817T200000
+DTEND:20260817T210000
+DTSTAMP:20260817T200000Z
+UID:2026-08-17T20:00:00/Preview of the Season
+DESCRIPTION:Preview of the Season - Enski boltinn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stúkan - Besta deild karla - synsportisland
 DTSTART:20260817T212500
 DTEND:20260817T222500
 DTSTAMP:20260817T212500Z
 UID:2026-08-17T21:25:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leikur í meistaradeildinni - Meistaradeild Evrópu - synsportviap
+ lay
+DTSTART:20260818T185000
+DTEND:20260818T195000
+DTSTAMP:20260818T185000Z
+UID:2026-08-18T18:50:00/Leikur í meistaradeildinni
+DESCRIPTION:Leikur í meistaradeildinni - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leikur í meistaradeild Evrópu - Meistaradeild Evrópu - synsport
+DTSTART:20260818T185000
+DTEND:20260818T195000
+DTSTAMP:20260818T185000Z
+UID:2026-08-18T18:50:00/Leikur í meistaradeild Evrópu
+DESCRIPTION:Leikur í meistaradeild Evrópu - Meistaradeild Evrópu
 END:VEVENT
 END:VCALENDAR

@@ -2,58 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - athletics - ical
 BEGIN:VEVENT
-SUMMARY:Morning Session | Day 2 - Birmingham 2026 European Athletics Champ
- ionships - eurosport1
-DTSTART:20260811T093000
-DTEND:20260811T103000
-DTSTAMP:20260811T093000Z
-UID:2026-08-11T09:30:00/Morning Session | Day 2
-DESCRIPTION:Morning Session | Day 2 - Birmingham 2026 European Athletics C
- hampionships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv
-DTSTART:20260811T093000
-DTEND:20260811T103000
-DTSTAMP:20260811T093000Z
-UID:2026-08-11T09:30:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evening Session | Day 2 - Birmingham 2026 European Athletics Champ
- ionships - eurosport1
-DTSTART:20260811T180000
-DTEND:20260811T190000
-DTSTAMP:20260811T180000Z
-UID:2026-08-11T18:00:00/Evening Session | Day 2
-DESCRIPTION:Evening Session | Day 2 - Birmingham 2026 European Athletics C
- hampionships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv2
-DTSTART:20260811T180000
-DTEND:20260811T190000
-DTSTAMP:20260811T180000Z
-UID:2026-08-11T18:00:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Morning Session | Day 3 - Birmingham 2026 European Athletics Champ
- ionships - eurosport1
-DTSTART:20260812T093000
-DTEND:20260812T103000
-DTSTAMP:20260812T093000Z
-UID:2026-08-12T09:30:00/Morning Session | Day 3
-DESCRIPTION:Morning Session | Day 3 - Birmingham 2026 European Athletics C
- hampionships
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv
 DTSTART:20260812T093000
 DTEND:20260812T103000
 DTSTAMP:20260812T093000Z
 UID:2026-08-12T09:30:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morning Session | Day 3 - Birmingham 2026 European Athletics Champ
+ ionships - eurosport1
+DTSTART:20260812T094400
+DTEND:20260812T104400
+DTSTAMP:20260812T094400Z
+UID:2026-08-12T09:44:00/Morning Session | Day 3
+DESCRIPTION:Morning Session | Day 3 - Birmingham 2026 European Athletics C
+ hampionships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evening Session | Day 3 - Birmingham 2026 European Athletics Champ
@@ -67,18 +31,10 @@ DESCRIPTION:Evening Session | Day 3 - Birmingham 2026 European Athletics C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv2
-DTSTART:20260812T180000
-DTEND:20260812T190000
-DTSTAMP:20260812T180000Z
-UID:2026-08-12T18:00:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv
-DTSTART:20260813T093000
-DTEND:20260813T103000
-DTSTAMP:20260813T093000Z
-UID:2026-08-13T09:30:00/Frjálsíþróttir
+DTSTART:20260812T182500
+DTEND:20260812T192500
+DTSTAMP:20260812T182500Z
+UID:2026-08-12T18:25:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
 END:VEVENT
 BEGIN:VEVENT
@@ -92,11 +48,11 @@ DESCRIPTION:Morning Session | Day 4 - Birmingham 2026 European Athletics C
  hampionships
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv2
-DTSTART:20260813T173000
-DTEND:20260813T183000
-DTSTAMP:20260813T173000Z
-UID:2026-08-13T17:30:00/Frjálsíþróttir
+SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv
+DTSTART:20260813T093000
+DTEND:20260813T103000
+DTSTAMP:20260813T093000Z
+UID:2026-08-13T09:30:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
 END:VEVENT
 BEGIN:VEVENT
@@ -108,6 +64,14 @@ DTSTAMP:20260813T173000Z
 UID:2026-08-13T17:30:00/Evening Session | Day 4
 DESCRIPTION:Evening Session | Day 4 - Birmingham 2026 European Athletics C
  hampionships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv2
+DTSTART:20260813T173000
+DTEND:20260813T183000
+DTSTAMP:20260813T173000Z
+UID:2026-08-13T17:30:00/Frjálsíþróttir
+DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morning Session | Day 5 - Birmingham 2026 European Athletics Champ
@@ -128,6 +92,14 @@ UID:2026-08-14T09:30:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv2
+DTSTART:20260814T183000
+DTEND:20260814T193000
+DTSTAMP:20260814T183000Z
+UID:2026-08-14T18:30:00/Frjálsíþróttir
+DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Evening Session | Day 5 - Birmingham 2026 European Athletics Champ
  ionships - eurosport1
 DTSTART:20260814T183000
@@ -136,14 +108,6 @@ DTSTAMP:20260814T183000Z
 UID:2026-08-14T18:30:00/Evening Session | Day 5
 DESCRIPTION:Evening Session | Day 5 - Birmingham 2026 European Athletics C
  hampionships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv2
-DTSTART:20260814T183000
-DTEND:20260814T193000
-DTSTAMP:20260814T183000Z
-UID:2026-08-14T18:30:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Athletics - Rangers - Major League Baseball - viaplay
@@ -190,6 +154,14 @@ UID:2026-08-15T18:40:00/Frjálsíþróttir
 DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv2
+DTSTART:20260816T062500
+DTEND:20260816T072500
+DTSTAMP:20260816T062500Z
+UID:2026-08-16T06:25:00/Frjálsíþróttir
+DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Morning Session | Day 7 - Birmingham 2026 European Athletics Champ
  ionships - eurosport1
 DTSTART:20260816T062500
@@ -198,14 +170,6 @@ DTSTAMP:20260816T062500Z
 UID:2026-08-16T06:25:00/Morning Session | Day 7
 DESCRIPTION:Morning Session | Day 7 - Birmingham 2026 European Athletics C
  hampionships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frjálsíþróttir - EM í frjálsíþróttum - ruv2
-DTSTART:20260816T062500
-DTEND:20260816T072500
-DTSTAMP:20260816T062500Z
-UID:2026-08-16T06:25:00/Frjálsíþróttir
-DESCRIPTION:Frjálsíþróttir - EM í frjálsíþróttum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evening Session | Day 7 - Birmingham 2026 European Athletics Champ
