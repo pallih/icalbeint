@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Ontario Honda Dealers Indy at Markham (Warm Up) - IndyCar - viapla
- y
-DTSTART:20260816T123000
-DTEND:20260816T133000
-DTSTAMP:20260816T123000Z
-UID:2026-08-16T12:30:00/Ontario Honda Dealers Indy at Markham (Warm Up)
-DESCRIPTION:Ontario Honda Dealers Indy at Markham (Warm Up) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ontario Honda Dealers Indy at Markham (Kappakstur) - IndyCar - via
- play
-DTSTART:20260816T160000
-DTEND:20260816T170000
-DTSTAMP:20260816T160000Z
-UID:2026-08-16T16:00:00/Ontario Honda Dealers Indy at Markham (Kappakstur)
-DESCRIPTION:Ontario Honda Dealers Indy at Markham (Kappakstur) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freedom 250 Grand Prix of Washington (Æfing 1) - IndyCar - viapla
  y
 DTSTART:20260822T133000
@@ -45,5 +27,31 @@ DTEND:20260822T220000
 DTSTAMP:20260822T210000Z
 UID:2026-08-22T21:00:00/Freedom 250 Grand Prix of Washington (Tímatökur)
 DESCRIPTION:Freedom 250 Grand Prix of Washington (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freedom 250 Grand Prix of Washington (Warm Up) - IndyCar - viaplay
+DTSTART:20260823T130000
+DTEND:20260823T140000
+DTSTAMP:20260823T130000Z
+UID:2026-08-23T13:00:00/Freedom 250 Grand Prix of Washington (Warm Up)
+DESCRIPTION:Freedom 250 Grand Prix of Washington (Warm Up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freedom 250 Grand Prix of Washington (Pre-Race) - IndyCar - viapla
+ y
+DTSTART:20260823T153000
+DTEND:20260823T163000
+DTSTAMP:20260823T153000Z
+UID:2026-08-23T15:30:00/Freedom 250 Grand Prix of Washington (Pre-Race)
+DESCRIPTION:Freedom 250 Grand Prix of Washington (Pre-Race) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freedom 250 Grand Prix of Washington (Kappakstur) - IndyCar - viap
+ lay
+DTSTART:20260823T170000
+DTEND:20260823T180000
+DTSTAMP:20260823T170000Z
+UID:2026-08-23T17:00:00/Freedom 250 Grand Prix of Washington (Kappakstur)
+DESCRIPTION:Freedom 250 Grand Prix of Washington (Kappakstur) - IndyCar
 END:VEVENT
 END:VCALENDAR
