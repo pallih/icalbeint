@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Fenerbahce - Lyon - Meistaradeild Evrópu - synsport
-DTSTART:20260818T185000
-DTEND:20260818T195000
-DTSTAMP:20260818T185000Z
-UID:2026-08-18T18:50:00/Fenerbahce - Lyon
-DESCRIPTION:Fenerbahce - Lyon - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinamo Zagreb - Viking - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20260818T185000
-DTEND:20260818T195000
-DTSTAMP:20260818T185000Z
-UID:2026-08-18T18:50:00/Dinamo Zagreb - Viking
-DESCRIPTION:Dinamo Zagreb - Viking - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sunnudagsmessan: Upphitun - Premier League - synsport
 DTSTART:20260819T174500
 DTEND:20260819T184500
@@ -26,12 +10,12 @@ UID:2026-08-19T17:45:00/Sunnudagsmessan: Upphitun
 DESCRIPTION:Sunnudagsmessan: Upphitun - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEC - Bodö/Glimt - Meistaradeild Evrópu - synsportviaplay
+SUMMARY:Celtic - LASK - Meistaradeild Evrópu - synsport
 DTSTART:20260819T185000
 DTEND:20260819T195000
 DTSTAMP:20260819T185000Z
-UID:2026-08-19T18:50:00/NEC - Bodö/Glimt
-DESCRIPTION:NEC - Bodö/Glimt - Meistaradeild Evrópu
+UID:2026-08-19T18:50:00/Celtic - LASK
+DESCRIPTION:Celtic - LASK - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hapoel Beer-Sheva - Sabah - Meistaradeild Evrópu - synsport2
@@ -42,12 +26,12 @@ UID:2026-08-19T18:50:00/Hapoel Beer-Sheva - Sabah
 DESCRIPTION:Hapoel Beer-Sheva - Sabah - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celtic - LASK - Meistaradeild Evrópu - synsport
+SUMMARY:NEC - Bodö/Glimt - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20260819T185000
 DTEND:20260819T195000
 DTSTAMP:20260819T185000Z
-UID:2026-08-19T18:50:00/Celtic - LASK
-DESCRIPTION:Celtic - LASK - Meistaradeild Evrópu
+UID:2026-08-19T18:50:00/NEC - Bodö/Glimt
+DESCRIPTION:NEC - Bodö/Glimt - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nexo Championship - DP World Tour - synsport5
@@ -140,20 +124,20 @@ UID:2026-08-21T16:15:00/Union Berlin - Bayern München
 DESCRIPTION:Union Berlin - Bayern München - Bundesliga kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍBV - Þróttur R. - Besta deild kvenna - synsportisland2
-DTSTART:20260821T175000
-DTEND:20260821T185000
-DTSTAMP:20260821T175000Z
-UID:2026-08-21T17:50:00/ÍBV - Þróttur R.
-DESCRIPTION:ÍBV - Þróttur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór/KA - Valur - Besta deild kvenna - synsportisland
 DTSTART:20260821T175000
 DTEND:20260821T185000
 DTSTAMP:20260821T175000Z
 UID:2026-08-21T17:50:00/Þór/KA - Valur
 DESCRIPTION:Þór/KA - Valur - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍBV - Þróttur R. - Besta deild kvenna - synsportisland2
+DTSTART:20260821T175000
+DTEND:20260821T185000
+DTSTAMP:20260821T175000Z
+UID:2026-08-21T17:50:00/ÍBV - Þróttur R.
+DESCRIPTION:ÍBV - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FH - Víkingur R. - Besta deild kvenna - synsportisland3
@@ -212,12 +196,12 @@ UID:2026-08-22T11:30:00/Nexo Championship
 DESCRIPTION:Nexo Championship - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Sunderland - Premier League - synsport4
+SUMMARY:Everton - Crystal Palace - Premier League - synsport2
 DTSTART:20260822T134000
 DTEND:20260822T144000
 DTSTAMP:20260822T134000Z
-UID:2026-08-22T13:40:00/Ipswich - Sunderland
-DESCRIPTION:Ipswich - Sunderland - Premier League
+UID:2026-08-22T13:40:00/Everton - Crystal Palace
+DESCRIPTION:Everton - Crystal Palace - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -228,12 +212,12 @@ UID:2026-08-22T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Crystal Palace - Premier League - synsport2
+SUMMARY:Ipswich - Sunderland - Premier League - synsport4
 DTSTART:20260822T134000
 DTEND:20260822T144000
 DTSTAMP:20260822T134000Z
-UID:2026-08-22T13:40:00/Everton - Crystal Palace
-DESCRIPTION:Everton - Crystal Palace - Premier League
+UID:2026-08-22T13:40:00/Ipswich - Sunderland
+DESCRIPTION:Ipswich - Sunderland - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nott. Forest - Leeds - Premier League - synsport3
@@ -341,14 +325,6 @@ UID:2026-08-23T16:45:00/ÍA - FH
 DESCRIPTION:ÍA - FH - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - ÍBV - Besta deild karla - synsportisland4
-DTSTART:20260823T165000
-DTEND:20260823T175000
-DTSTAMP:20260823T165000Z
-UID:2026-08-23T16:50:00/Keflavík - ÍBV
-DESCRIPTION:Keflavík - ÍBV - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Subway messan - Besta deild karla - synsportisland
 DTSTART:20260823T165000
 DTEND:20260823T175000
@@ -365,12 +341,28 @@ UID:2026-08-23T16:50:00/KA - KR
 DESCRIPTION:KA - KR - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Keflavík - ÍBV - Besta deild karla - synsportisland4
+DTSTART:20260823T165000
+DTEND:20260823T175000
+DTSTAMP:20260823T165000Z
+UID:2026-08-23T16:50:00/Keflavík - ÍBV
+DESCRIPTION:Keflavík - ÍBV - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stjarnan - Þór Ak. - Besta deild karla - synsportisland5
 DTSTART:20260823T165000
 DTEND:20260823T175000
 DTSTAMP:20260823T165000Z
 UID:2026-08-23T16:50:00/Stjarnan - Þór Ak.
 DESCRIPTION:Stjarnan - Þór Ak. - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - Valur - Besta deild karla - synsportisland
+DTSTART:20260823T191000
+DTEND:20260823T201000
+DTSTAMP:20260823T191000Z
+UID:2026-08-23T19:10:00/Víkingur R. - Valur
+DESCRIPTION:Víkingur R. - Valur - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunnudagsmessan - Premier League - synsport
@@ -419,5 +411,38 @@ DTEND:20260824T222500
 DTSTAMP:20260824T212500Z
 UID:2026-08-24T21:25:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sabah - Hapoel Beer-Sheva - Meistaradeild Evrópu - synsport
+DTSTART:20260825T163500
+DTEND:20260825T173500
+DTSTAMP:20260825T163500Z
+UID:2026-08-25T16:35:00/Sabah - Hapoel Beer-Sheva
+DESCRIPTION:Sabah - Hapoel Beer-Sheva - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leikur í meistaradeild Evrópu - Meistaradeild Evrópu - synsport
+ 2
+DTSTART:20260825T185000
+DTEND:20260825T195000
+DTSTAMP:20260825T185000Z
+UID:2026-08-25T18:50:00/Leikur í meistaradeild Evrópu
+DESCRIPTION:Leikur í meistaradeild Evrópu - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodö/Glimt - NEC - Meistaradeild Evrópu - synsport
+DTSTART:20260825T185000
+DTEND:20260825T195000
+DTSTAMP:20260825T185000Z
+UID:2026-08-25T18:50:00/Bodö/Glimt - NEC
+DESCRIPTION:Bodö/Glimt - NEC - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LASK - Celtic - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260825T185000
+DTEND:20260825T195000
+DTSTAMP:20260825T185000Z
+UID:2026-08-25T18:50:00/LASK - Celtic
+DESCRIPTION:LASK - Celtic - Meistaradeild Evrópu
 END:VEVENT
 END:VCALENDAR
