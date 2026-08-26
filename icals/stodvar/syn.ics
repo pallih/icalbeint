@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Sabah - Hapoel Beer-Sheva - Meistaradeild Evrópu - synsport
-DTSTART:20260825T163500
-DTEND:20260825T173500
-DTSTAMP:20260825T163500Z
-UID:2026-08-25T16:35:00/Sabah - Hapoel Beer-Sheva
-DESCRIPTION:Sabah - Hapoel Beer-Sheva - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LASK - Celtic - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20260825T185000
-DTEND:20260825T195000
-DTSTAMP:20260825T185000Z
-UID:2026-08-25T18:50:00/LASK - Celtic
-DESCRIPTION:LASK - Celtic - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bodö/Glimt - NEC - Meistaradeild Evrópu - synsport
-DTSTART:20260825T185000
-DTEND:20260825T195000
-DTSTAMP:20260825T185000Z
-UID:2026-08-25T18:50:00/Bodö/Glimt - NEC
-DESCRIPTION:Bodö/Glimt - NEC - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Apollon Ladies - FH - Evrópuleikir íslenskra félagsliða - syns
  portisland
 DTSTART:20260826T145000
@@ -45,20 +21,20 @@ DESCRIPTION:Breiðablik - FK Csíkszereda - Evrópuleikir íslenskra féla
  gsliða
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AEK Aþena - Levski Sofia - Meistaradeild Evrópu - synsport2
-DTSTART:20260826T185000
-DTEND:20260826T195000
-DTSTAMP:20260826T185000Z
-UID:2026-08-26T18:50:00/AEK Aþena - Levski Sofia
-DESCRIPTION:AEK Aþena - Levski Sofia - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lyon - Fenerbahce - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20260826T185000
 DTEND:20260826T195000
 DTSTAMP:20260826T185000Z
 UID:2026-08-26T18:50:00/Lyon - Fenerbahce
 DESCRIPTION:Lyon - Fenerbahce - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEK Aþena - Levski Sofia - Meistaradeild Evrópu - synsport2
+DTSTART:20260826T185000
+DTEND:20260826T195000
+DTSTAMP:20260826T185000Z
+UID:2026-08-26T18:50:00/AEK Aþena - Levski Sofia
+DESCRIPTION:AEK Aþena - Levski Sofia - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Viking - Dinamo Zagreb - Meistaradeild Evrópu - synsport
@@ -93,6 +69,14 @@ UID:2026-08-27T18:20:00/Borac - Víkingur R.
 DESCRIPTION:Borac - Víkingur R. - Sambandsdeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chelsea - Luton - Carabao Cup - synsportviaplay
+DTSTART:20260827T185000
+DTEND:20260827T195000
+DTSTAMP:20260827T185000Z
+UID:2026-08-27T18:50:00/Chelsea - Luton
+DESCRIPTION:Chelsea - Luton - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Browns – Patriots - NFL Preseason - synsport
 DTSTART:20260828T000000
 DTEND:20260828T010000
@@ -125,6 +109,14 @@ UID:2026-08-28T18:40:00/Crystal Palace - Man. City
 DESCRIPTION:Crystal Palace - Man. City - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wrexham - Birmingham - EFL Championship - synsportviaplay
+DTSTART:20260828T185000
+DTEND:20260828T195000
+DTSTAMP:20260828T185000Z
+UID:2026-08-28T18:50:00/Wrexham - Birmingham
+DESCRIPTION:Wrexham - Birmingham - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eagles – Bengals - NFL Preseason - synsport
 DTSTART:20260829T000000
 DTEND:20260829T010000
@@ -139,6 +131,30 @@ DTEND:20260829T120000
 DTSTAMP:20260829T110000Z
 UID:2026-08-29T11:00:00/Husqvarna British Masters
 DESCRIPTION:Husqvarna British Masters - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlesbrough - WBA - EFL Championship - synsportviaplay
+DTSTART:20260829T112000
+DTEND:20260829T122000
+DTSTAMP:20260829T112000Z
+UID:2026-08-29T11:20:00/Middlesbrough - WBA
+DESCRIPTION:Middlesbrough - WBA - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Everton - Premier League - synsport5
+DTSTART:20260829T134000
+DTEND:20260829T144000
+DTSTAMP:20260829T134000Z
+UID:2026-08-29T13:40:00/Bournemouth - Everton
+DESCRIPTION:Bournemouth - Everton - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coventry - Hull - Premier League - synsport3
+DTSTART:20260829T134000
+DTEND:20260829T144000
+DTSTAMP:20260829T134000Z
+UID:2026-08-29T13:40:00/Coventry - Hull
+DESCRIPTION:Coventry - Hull - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liverpool - Nott. Forest - Premier League - synsport2
@@ -157,20 +173,12 @@ UID:2026-08-29T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coventry - Hull - Premier League - synsport3
-DTSTART:20260829T134000
-DTEND:20260829T144000
-DTSTAMP:20260829T134000Z
-UID:2026-08-29T13:40:00/Coventry - Hull
-DESCRIPTION:Coventry - Hull - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bournemouth - Everton - Premier League - synsport5
-DTSTART:20260829T134000
-DTEND:20260829T144000
-DTSTAMP:20260829T134000Z
-UID:2026-08-29T13:40:00/Bournemouth - Everton
-DESCRIPTION:Bournemouth - Everton - Premier League
+SUMMARY:Fram - Stjarnan - Besta deild kvenna - synsportisland3
+DTSTART:20260829T135000
+DTEND:20260829T145000
+DTSTAMP:20260829T135000Z
+UID:2026-08-29T13:50:00/Fram - Stjarnan
+DESCRIPTION:Fram - Stjarnan - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Víkingur R. - Grindavík/Njarðvík - Besta deild kvenna - synspo
@@ -182,12 +190,20 @@ UID:2026-08-29T13:50:00/Víkingur R. - Grindavík/Njarðvík
 DESCRIPTION:Víkingur R. - Grindavík/Njarðvík - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - Stjarnan - Besta deild kvenna - synsportisland3
-DTSTART:20260829T135000
-DTEND:20260829T145000
-DTSTAMP:20260829T135000Z
-UID:2026-08-29T13:50:00/Fram - Stjarnan
-DESCRIPTION:Fram - Stjarnan - Besta deild kvenna
+SUMMARY:Blackburn - QPR - EFL Championship - synsportviaplay
+DTSTART:20260829T135500
+DTEND:20260829T145500
+DTSTAMP:20260829T135500Z
+UID:2026-08-29T13:55:00/Blackburn - QPR
+DESCRIPTION:Blackburn - QPR - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þróttur R. - Þór/KA - Besta deild kvenna - synsportisland4
+DTSTART:20260829T155000
+DTEND:20260829T165000
+DTSTAMP:20260829T155000Z
+UID:2026-08-29T15:50:00/Þróttur R. - Þór/KA
+DESCRIPTION:Þróttur R. - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breiðablik - ÍBV - Besta deild kvenna - synsportisland2
@@ -198,12 +214,12 @@ UID:2026-08-29T15:50:00/Breiðablik - ÍBV
 DESCRIPTION:Breiðablik - ÍBV - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þróttur R. - Þór/KA - Besta deild kvenna - synsportisland4
-DTSTART:20260829T155000
-DTEND:20260829T165000
-DTSTAMP:20260829T155000Z
-UID:2026-08-29T15:50:00/Þróttur R. - Þór/KA
-DESCRIPTION:Þróttur R. - Þór/KA - Besta deild kvenna
+SUMMARY:Dortmund - Hamburger - Bundesliga - synsportviaplay
+DTSTART:20260829T162000
+DTEND:20260829T172000
+DTSTAMP:20260829T162000Z
+UID:2026-08-29T16:20:00/Dortmund - Hamburger
+DESCRIPTION:Dortmund - Hamburger - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tottenham - Newcastle - Premier League - synsport
@@ -246,6 +262,14 @@ UID:2026-08-30T11:00:00/Husqvarna British Masters
 DESCRIPTION:Husqvarna British Masters - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leeds - Brentford - Premier League - synsport2
+DTSTART:20260830T124000
+DTEND:20260830T134000
+DTSTAMP:20260830T124000Z
+UID:2026-08-30T12:40:00/Leeds - Brentford
+DESCRIPTION:Leeds - Brentford - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chelsea - Brighton - Premier League - synsport
 DTSTART:20260830T124000
 DTEND:20260830T134000
@@ -254,12 +278,12 @@ UID:2026-08-30T12:40:00/Chelsea - Brighton
 DESCRIPTION:Chelsea - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leeds - Brentford - Premier League - synsport2
-DTSTART:20260830T124000
-DTEND:20260830T134000
-DTSTAMP:20260830T124000Z
-UID:2026-08-30T12:40:00/Leeds - Brentford
-DESCRIPTION:Leeds - Brentford - Premier League
+SUMMARY:Sunderland - Fulham - Premier League - synsport3
+DTSTART:20260830T125000
+DTEND:20260830T135000
+DTSTAMP:20260830T125000Z
+UID:2026-08-30T12:50:00/Sunderland - Fulham
+DESCRIPTION:Sunderland - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - FH - Besta deild kvenna - synsportisland
@@ -270,12 +294,12 @@ UID:2026-08-30T12:50:00/Valur - FH
 DESCRIPTION:Valur - FH - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunderland - Fulham - Premier League - synsport3
-DTSTART:20260830T125000
-DTEND:20260830T135000
-DTSTAMP:20260830T125000Z
-UID:2026-08-30T12:50:00/Sunderland - Fulham
-DESCRIPTION:Sunderland - Fulham - Premier League
+SUMMARY:KPMG Womens Irish Open - Ladies European Tour - synsportviaplay
+DTSTART:20260830T130000
+DTEND:20260830T140000
+DTSTAMP:20260830T130000Z
+UID:2026-08-30T13:00:00/KPMG Womens Irish Open
+DESCRIPTION:KPMG Womens Irish Open - Ladies European Tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
@@ -348,5 +372,29 @@ DTEND:20260831T200000
 DTSTAMP:20260831T190000Z
 UID:2026-08-31T19:00:00/Breiðablik - Stjarnan
 DESCRIPTION:Breiðablik - Stjarnan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Víkingur R. - Besta deild karla - synsportisland
+DTSTART:20260901T170000
+DTEND:20260901T180000
+DTSTAMP:20260901T170000Z
+UID:2026-09-01T17:00:00/KR - Víkingur R.
+DESCRIPTION:KR - Víkingur R. - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln - Blackburn - EFL Championship - synsportviaplay
+DTSTART:20260901T184000
+DTEND:20260901T194000
+DTSTAMP:20260901T184000Z
+UID:2026-09-01T18:40:00/Lincoln - Blackburn
+DESCRIPTION:Lincoln - Blackburn - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stúkan - Besta deild karla - synsportisland
+DTSTART:20260901T192500
+DTEND:20260901T202500
+DTSTAMP:20260901T192500Z
+UID:2026-09-01T19:25:00/Stúkan
+DESCRIPTION:Stúkan - Besta deild karla
 END:VEVENT
 END:VCALENDAR
