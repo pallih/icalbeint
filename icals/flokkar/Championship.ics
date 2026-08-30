@@ -2,108 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
-SUMMARY:Derby - Swansea - Championship - viaplay
-DTSTART:20260829T112000
-DTEND:20260829T122000
-DTSTAMP:20260829T112000Z
-UID:2026-08-29T11:20:00/Derby - Swansea
-DESCRIPTION:Derby - Swansea - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolverhampton - Stoke - Championship - viaplay
-DTSTART:20260829T112000
-DTEND:20260829T122000
-DTSTAMP:20260829T112000Z
-UID:2026-08-29T11:20:00/Wolverhampton - Stoke
-DESCRIPTION:Wolverhampton - Stoke - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Middlesbrough - West Brom - Championship - viaplay
-DTSTART:20260829T112500
-DTEND:20260829T122500
-DTSTAMP:20260829T112500Z
-UID:2026-08-29T11:25:00/Middlesbrough - West Brom
-DESCRIPTION:Middlesbrough - West Brom - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norwich - Burnley - Championship - viaplay
-DTSTART:20260829T135000
-DTEND:20260829T145000
-DTSTAMP:20260829T135000Z
-UID:2026-08-29T13:50:00/Norwich - Burnley
-DESCRIPTION:Norwich - Burnley - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackburn - QPR - Championship - viaplay
-DTSTART:20260829T135000
-DTEND:20260829T145000
-DTSTAMP:20260829T135000Z
-UID:2026-08-29T13:50:00/Blackburn - QPR
-DESCRIPTION:Blackburn - QPR - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Watford - West Ham - Championship - viaplay
-DTSTART:20260829T135000
-DTEND:20260829T145000
-DTSTAMP:20260829T135000Z
-UID:2026-08-29T13:50:00/Watford - West Ham
-DESCRIPTION:Watford - West Ham - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Millwall - Championship - viaplay
-DTSTART:20260829T135000
-DTEND:20260829T145000
-DTSTAMP:20260829T135000Z
-UID:2026-08-29T13:50:00/Southampton - Millwall
-DESCRIPTION:Southampton - Millwall - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Charlton - Preston - Championship - viaplay
-DTSTART:20260829T135000
-DTEND:20260829T145000
-DTSTAMP:20260829T135000Z
-UID:2026-08-29T13:50:00/Charlton - Preston
-DESCRIPTION:Charlton - Preston - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bolton - Lincoln - Championship - viaplay
-DTSTART:20260829T135000
-DTEND:20260829T145000
-DTSTAMP:20260829T135000Z
-UID:2026-08-29T13:50:00/Bolton - Lincoln
-DESCRIPTION:Bolton - Lincoln - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bristol City - Portsmouth - Championship - viaplay
-DTSTART:20260829T135000
-DTEND:20260829T145000
-DTSTAMP:20260829T135000Z
-UID:2026-08-29T13:50:00/Bristol City - Portsmouth
-DESCRIPTION:Bristol City - Portsmouth - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cardiff - Sheffield United - Championship - viaplay
-DTSTART:20260829T135000
-DTEND:20260829T145000
-DTSTAMP:20260829T135000Z
-UID:2026-08-29T13:50:00/Cardiff - Sheffield United
-DESCRIPTION:Cardiff - Sheffield United - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield United - Bolton - Championship - viaplay
+SUMMARY:Preston - Bristol City - Championship - viaplay
 DTSTART:20260901T183500
 DTEND:20260901T193500
 DTSTAMP:20260901T183500Z
-UID:2026-09-01T18:35:00/Sheffield United - Bolton
-DESCRIPTION:Sheffield United - Bolton - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swansea - Watford - Championship - viaplay
-DTSTART:20260901T183500
-DTEND:20260901T193500
-DTSTAMP:20260901T183500Z
-UID:2026-09-01T18:35:00/Swansea - Watford
-DESCRIPTION:Swansea - Watford - Championship
+UID:2026-09-01T18:35:00/Preston - Bristol City
+DESCRIPTION:Preston - Bristol City - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Wolverhampton - Championship - viaplay
@@ -114,12 +18,12 @@ UID:2026-09-01T18:35:00/West Ham - Wolverhampton
 DESCRIPTION:West Ham - Wolverhampton - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portsmouth - Derby - Championship - viaplay
+SUMMARY:Swansea - Watford - Championship - viaplay
 DTSTART:20260901T183500
 DTEND:20260901T193500
 DTSTAMP:20260901T183500Z
-UID:2026-09-01T18:35:00/Portsmouth - Derby
-DESCRIPTION:Portsmouth - Derby - Championship
+UID:2026-09-01T18:35:00/Swansea - Watford
+DESCRIPTION:Swansea - Watford - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lincoln - Blackburn - Championship - viaplay
@@ -130,12 +34,20 @@ UID:2026-09-01T18:35:00/Lincoln - Blackburn
 DESCRIPTION:Lincoln - Blackburn - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preston - Bristol City - Championship - viaplay
+SUMMARY:Portsmouth - Derby - Championship - viaplay
 DTSTART:20260901T183500
 DTEND:20260901T193500
 DTSTAMP:20260901T183500Z
-UID:2026-09-01T18:35:00/Preston - Bristol City
-DESCRIPTION:Preston - Bristol City - Championship
+UID:2026-09-01T18:35:00/Portsmouth - Derby
+DESCRIPTION:Portsmouth - Derby - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Bolton - Championship - viaplay
+DTSTART:20260901T183500
+DTEND:20260901T193500
+DTSTAMP:20260901T183500Z
+UID:2026-09-01T18:35:00/Sheffield United - Bolton
+DESCRIPTION:Sheffield United - Bolton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Birmingham - Southampton - Championship - viaplay
@@ -184,5 +96,93 @@ DTEND:20260902T195000
 DTSTAMP:20260902T185000Z
 UID:2026-09-02T18:50:00/Burnley - Middlesbrough
 DESCRIPTION:Burnley - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stoke - Charlton - Championship - viaplay
+DTSTART:20260905T112000
+DTEND:20260905T122000
+DTSTAMP:20260905T112000Z
+UID:2026-09-05T11:20:00/Stoke - Charlton
+DESCRIPTION:Stoke - Charlton - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln - Southampton - Championship - viaplay
+DTSTART:20260905T112000
+DTEND:20260905T122000
+DTSTAMP:20260905T112000Z
+UID:2026-09-05T11:20:00/Lincoln - Southampton
+DESCRIPTION:Lincoln - Southampton - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preston - Blackburn - Championship - viaplay
+DTSTART:20260905T112000
+DTEND:20260905T122000
+DTSTAMP:20260905T112000Z
+UID:2026-09-05T11:20:00/Preston - Blackburn
+DESCRIPTION:Preston - Blackburn - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portsmouth - Cardiff - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/Portsmouth - Cardiff
+DESCRIPTION:Portsmouth - Cardiff - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millwall - Bolton - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/Millwall - Bolton
+DESCRIPTION:Millwall - Bolton - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Bristol City - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/Burnley - Bristol City
+DESCRIPTION:Burnley - Bristol City - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QPR - Middlesbrough - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/QPR - Middlesbrough
+DESCRIPTION:QPR - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Norwich City - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/Sheffield United - Norwich City
+DESCRIPTION:Sheffield United - Norwich City - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Brom - Watford - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/West Brom - Watford
+DESCRIPTION:West Brom - Watford - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Derby - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/West Ham - Derby
+DESCRIPTION:West Ham - Derby - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swansea - Wrexham - Championship - viaplay
+DTSTART:20260905T185000
+DTEND:20260905T195000
+DTSTAMP:20260905T185000Z
+UID:2026-09-05T18:50:00/Swansea - Wrexham
+DESCRIPTION:Swansea - Wrexham - Championship
 END:VEVENT
 END:VCALENDAR
