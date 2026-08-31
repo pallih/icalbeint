@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - IndyCar - ical
 BEGIN:VEVENT
-SUMMARY:Snap-On Makers and Fixers 250 (Kappakstur 1) - IndyCar - viaplay
-DTSTART:20260830T130000
-DTEND:20260830T140000
-DTSTAMP:20260830T130000Z
-UID:2026-08-30T13:00:00/Snap-On Makers and Fixers 250 (Kappakstur 1)
-DESCRIPTION:Snap-On Makers and Fixers 250 (Kappakstur 1) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Snap-On Milwaukee Mile 250 (Kappakstur 2) - IndyCar - viaplay
-DTSTART:20260830T170000
-DTEND:20260830T180000
-DTSTAMP:20260830T170000Z
-UID:2026-08-30T17:00:00/Snap-On Milwaukee Mile 250 (Kappakstur 2)
-DESCRIPTION:Snap-On Milwaukee Mile 250 (Kappakstur 2) - IndyCar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grand Prix of Monterey (Æfing 1) - IndyCar - viaplay
 DTSTART:20260904T210000
 DTEND:20260904T220000
@@ -40,5 +24,29 @@ DTEND:20260905T213000
 DTSTAMP:20260905T203000Z
 UID:2026-09-05T20:30:00/Grand Prix of Monterey (Tímatökur)
 DESCRIPTION:Grand Prix of Monterey (Tímatökur) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Monterey (Warm Up) - IndyCar - viaplay
+DTSTART:20260906T000000
+DTEND:20260906T010000
+DTSTAMP:20260906T000000Z
+UID:2026-09-06T00:00:00/Grand Prix of Monterey (Warm Up)
+DESCRIPTION:Grand Prix of Monterey (Warm Up) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Monterey (Pre-Race) - IndyCar - viaplay
+DTSTART:20260906T183000
+DTEND:20260906T193000
+DTSTAMP:20260906T183000Z
+UID:2026-09-06T18:30:00/Grand Prix of Monterey (Pre-Race)
+DESCRIPTION:Grand Prix of Monterey (Pre-Race) - IndyCar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Monterey (Kappakstur) - IndyCar - viaplay
+DTSTART:20260906T190000
+DTEND:20260906T200000
+DTSTAMP:20260906T190000Z
+UID:2026-09-06T19:00:00/Grand Prix of Monterey (Kappakstur)
+DESCRIPTION:Grand Prix of Monterey (Kappakstur) - IndyCar
 END:VEVENT
 END:VCALENDAR

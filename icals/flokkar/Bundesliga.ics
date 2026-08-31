@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Gummersbach - Magdeburg - Bundesliga - viaplay
-DTSTART:20260830T125500
-DTEND:20260830T135500
-DTSTAMP:20260830T125500Z
-UID:2026-08-30T12:55:00/Gummersbach - Magdeburg
-DESCRIPTION:Gummersbach - Magdeburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Werder Bremen - Bundesliga - viaplay
-DTSTART:20260830T132000
-DTEND:20260830T142000
-DTSTAMP:20260830T132000Z
-UID:2026-08-30T13:20:00/Freiburg - Werder Bremen
-DESCRIPTION:Freiburg - Werder Bremen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - Schalke - Bundesliga - viaplay
-DTSTART:20260830T152000
-DTEND:20260830T162000
-DTSTAMP:20260830T152000Z
-UID:2026-08-30T15:20:00/Augsburg - Schalke
-DESCRIPTION:Augsburg - Schalke - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rhein-Neckar Löwen - Gummersbach - Bundesliga - viaplay
 DTSTART:20260902T175500
 DTEND:20260902T185500
@@ -42,7 +18,7 @@ UID:2026-09-03T17:55:00/Magdeburg - Füchse Berlin
 DESCRIPTION:Magdeburg - Füchse Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stuttgart - Köln - Bundesliga - viaplay
+SUMMARY:Stuttgart - Köln - Bundesliga - synsportviaplay
 DTSTART:20260904T182000
 DTEND:20260904T192000
 DTSTAMP:20260904T182000Z
@@ -50,12 +26,12 @@ UID:2026-09-04T18:20:00/Stuttgart - Köln
 DESCRIPTION:Stuttgart - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Union Berlin - Bundesliga - viaplay
-DTSTART:20260905T132000
-DTEND:20260905T142000
-DTSTAMP:20260905T132000Z
-UID:2026-09-05T13:20:00/Leverkusen - Union Berlin
-DESCRIPTION:Leverkusen - Union Berlin - Bundesliga
+SUMMARY:Stuttgart - Köln - Bundesliga - viaplay
+DTSTART:20260904T182000
+DTEND:20260904T192000
+DTSTAMP:20260904T182000Z
+UID:2026-09-04T18:20:00/Stuttgart - Köln
+DESCRIPTION:Stuttgart - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -90,6 +66,14 @@ UID:2026-09-05T13:20:00/Mönchengladbach - Elversberg
 DESCRIPTION:Mönchengladbach - Elversberg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leverkusen - Union Berlin - Bundesliga - viaplay
+DTSTART:20260905T132000
+DTEND:20260905T142000
+DTSTAMP:20260905T132000Z
+UID:2026-09-05T13:20:00/Leverkusen - Union Berlin
+DESCRIPTION:Leverkusen - Union Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hoffenheim - Dortmund - Bundesliga - viaplay
 DTSTART:20260905T132500
 DTEND:20260905T142500
@@ -106,11 +90,43 @@ UID:2026-09-05T16:20:00/Schalke - Bayern München
 DESCRIPTION:Schalke - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Schalke 04 - Bayern München - Bundesliga - synsportviaplay
+DTSTART:20260905T162000
+DTEND:20260905T172000
+DTSTAMP:20260905T162000Z
+UID:2026-09-05T16:20:00/Schalke 04 - Bayern München
+DESCRIPTION:Schalke 04 - Bayern München - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Erlangen - Bundesliga - viaplay
 DTSTART:20260905T165500
 DTEND:20260905T175500
 DTSTAMP:20260905T165500Z
 UID:2026-09-05T16:55:00/Flensburg-Handewitt - Erlangen
 DESCRIPTION:Flensburg-Handewitt - Erlangen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRISCH AUF! Göppingen - THW Kiel - Bundesliga - viaplay
+DTSTART:20260906T125500
+DTEND:20260906T135500
+DTSTAMP:20260906T125500Z
+UID:2026-09-06T12:55:00/FRISCH AUF! Göppingen - THW Kiel
+DESCRIPTION:FRISCH AUF! Göppingen - THW Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSV - Mainz - Bundesliga - viaplay
+DTSTART:20260906T132000
+DTEND:20260906T142000
+DTSTAMP:20260906T132000Z
+UID:2026-09-06T13:20:00/HSV - Mainz
+DESCRIPTION:HSV - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - Augsburg - Bundesliga - viaplay
+DTSTART:20260906T152000
+DTEND:20260906T162000
+DTSTAMP:20260906T152000Z
+UID:2026-09-06T15:20:00/Frankfurt - Augsburg
+DESCRIPTION:Frankfurt - Augsburg - Bundesliga
 END:VEVENT
 END:VCALENDAR
