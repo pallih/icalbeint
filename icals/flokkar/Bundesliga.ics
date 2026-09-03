@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Rhein-Neckar Löwen - Gummersbach - Bundesliga - viaplay
-DTSTART:20260902T175500
-DTEND:20260902T185500
-DTSTAMP:20260902T175500Z
-UID:2026-09-02T17:55:00/Rhein-Neckar Löwen - Gummersbach
-DESCRIPTION:Rhein-Neckar Löwen - Gummersbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magdeburg - Füchse Berlin - Bundesliga - viaplay
-DTSTART:20260903T175500
-DTEND:20260903T185500
-DTSTAMP:20260903T175500Z
-UID:2026-09-03T17:55:00/Magdeburg - Füchse Berlin
+DTSTART:20260903T181000
+DTEND:20260903T191000
+DTSTAMP:20260903T181000Z
+UID:2026-09-03T18:10:00/Magdeburg - Füchse Berlin
 DESCRIPTION:Magdeburg - Füchse Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
@@ -34,12 +26,28 @@ UID:2026-09-04T18:20:00/Stuttgart - Köln
 DESCRIPTION:Stuttgart - Köln - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Werder Bremen - Leipzig - Bundesliga - viaplay
+DTSTART:20260905T132000
+DTEND:20260905T142000
+DTSTAMP:20260905T132000Z
+UID:2026-09-05T13:20:00/Werder Bremen - Leipzig
+DESCRIPTION:Werder Bremen - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Elversberg - Bundesliga - viaplay
 DTSTART:20260905T132000
 DTEND:20260905T142000
 DTSTAMP:20260905T132000Z
 UID:2026-09-05T13:20:00/Mönchengladbach - Elversberg
 DESCRIPTION:Mönchengladbach - Elversberg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Dortmund - Bundesliga - viaplay
+DTSTART:20260905T132000
+DTEND:20260905T142000
+DTSTAMP:20260905T132000Z
+UID:2026-09-05T13:20:00/Hoffenheim - Dortmund
+DESCRIPTION:Hoffenheim - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Union Berlin - Bundesliga - viaplay
@@ -50,12 +58,12 @@ UID:2026-09-05T13:20:00/Leverkusen - Union Berlin
 DESCRIPTION:Leverkusen - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Leipzig - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20260905T132000
 DTEND:20260905T142000
 DTSTAMP:20260905T132000Z
-UID:2026-09-05T13:20:00/Werder Bremen - Leipzig
-DESCRIPTION:Werder Bremen - Leipzig - Bundesliga
+UID:2026-09-05T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paderborn - Freiburg - Bundesliga - viaplay
@@ -66,20 +74,12 @@ UID:2026-09-05T13:20:00/Paderborn - Freiburg
 DESCRIPTION:Paderborn - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20260905T132000
-DTEND:20260905T142000
-DTSTAMP:20260905T132000Z
-UID:2026-09-05T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Dortmund - Bundesliga - viaplay
-DTSTART:20260905T132500
-DTEND:20260905T142500
-DTSTAMP:20260905T132500Z
-UID:2026-09-05T13:25:00/Hoffenheim - Dortmund
-DESCRIPTION:Hoffenheim - Dortmund - Bundesliga
+SUMMARY:Schalke 04 - Bayern München - Bundesliga - synsportviaplay
+DTSTART:20260905T162000
+DTEND:20260905T172000
+DTSTAMP:20260905T162000Z
+UID:2026-09-05T16:20:00/Schalke 04 - Bayern München
+DESCRIPTION:Schalke 04 - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schalke - Bayern München - Bundesliga - viaplay
@@ -88,14 +88,6 @@ DTEND:20260905T172000
 DTSTAMP:20260905T162000Z
 UID:2026-09-05T16:20:00/Schalke - Bayern München
 DESCRIPTION:Schalke - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schalke 04 - Bayern München - Bundesliga - synsportviaplay
-DTSTART:20260905T162000
-DTEND:20260905T172000
-DTSTAMP:20260905T162000Z
-UID:2026-09-05T16:20:00/Schalke 04 - Bayern München
-DESCRIPTION:Schalke 04 - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Erlangen - Bundesliga - viaplay

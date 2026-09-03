@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Carabao Cup - ical
 BEGIN:VEVENT
-SUMMARY:Leyton Orient - Bradford - Carabao Cup - viaplay
+SUMMARY:Sunderland - Hull - Carabao Cup - viaplay
 DTSTART:20260908T184000
 DTEND:20260908T194000
 DTSTAMP:20260908T184000Z
-UID:2026-09-08T18:40:00/Leyton Orient - Bradford
-DESCRIPTION:Leyton Orient - Bradford - Carabao Cup
+UID:2026-09-08T18:40:00/Sunderland - Hull
+DESCRIPTION:Sunderland - Hull - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bournemouth - Lincoln - Carabao Cup - viaplay
@@ -18,6 +18,14 @@ UID:2026-09-08T18:40:00/Bournemouth - Lincoln
 DESCRIPTION:Bournemouth - Lincoln - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leyton Orient - Bradford - Carabao Cup - viaplay
+DTSTART:20260908T184000
+DTEND:20260908T194000
+DTSTAMP:20260908T184000Z
+UID:2026-09-08T18:40:00/Leyton Orient - Bradford
+DESCRIPTION:Leyton Orient - Bradford - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crystal Palace - Middlesbrough - Carabao Cup - viaplay
 DTSTART:20260908T184000
 DTEND:20260908T194000
@@ -26,19 +34,19 @@ UID:2026-09-08T18:40:00/Crystal Palace - Middlesbrough
 DESCRIPTION:Crystal Palace - Middlesbrough - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunderland - Hull - Carabao Cup - viaplay
-DTSTART:20260908T184000
-DTEND:20260908T194000
-DTSTAMP:20260908T184000Z
-UID:2026-09-08T18:40:00/Sunderland - Hull
-DESCRIPTION:Sunderland - Hull - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Millwall - Newcastle - Carabao Cup - viaplay
 DTSTART:20260908T185500
 DTEND:20260908T195500
 DTSTAMP:20260908T185500Z
 UID:2026-09-08T18:55:00/Millwall - Newcastle
 DESCRIPTION:Millwall - Newcastle - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea - Leeds - Carabao Cup - viaplay
+DTSTART:20260909T185500
+DTEND:20260909T195500
+DTSTAMP:20260909T185500Z
+UID:2026-09-09T18:55:00/Chelsea - Leeds
+DESCRIPTION:Chelsea - Leeds - Carabao Cup
 END:VEVENT
 END:VCALENDAR
