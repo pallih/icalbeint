@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Omega European Masters - DP World Tour - synsport4
-DTSTART:20260903T113000
-DTEND:20260903T123000
-DTSTAMP:20260903T113000Z
-UID:2026-09-03T11:30:00/Omega European Masters
-DESCRIPTION:Omega European Masters - DP World Tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Füsche Berlin - Bundesliga handbolti - synsportviapla
- y
-DTSTART:20260903T175500
-DTEND:20260903T185500
-DTSTAMP:20260903T175500Z
-UID:2026-09-03T17:55:00/Magdeburg - Füsche Berlin
-DESCRIPTION:Magdeburg - Füsche Berlin - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:F1: Monza - Æfing 1 - Formúla 1 - synsportviaplay
 DTSTART:20260904T102500
 DTEND:20260904T112500
@@ -99,20 +82,20 @@ UID:2026-09-05T13:00:00/Walker Cup
 DESCRIPTION:Walker Cup - R&A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. City - Coventry - Premier League - synsport2
-DTSTART:20260905T134000
-DTEND:20260905T144000
-DTSTAMP:20260905T134000Z
-UID:2026-09-05T13:40:00/Man. City - Coventry
-DESCRIPTION:Man. City - Coventry - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20260905T134000
 DTEND:20260905T144000
 DTSTAMP:20260905T134000Z
 UID:2026-09-05T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - Leeds - Premier League - synsport5
+DTSTART:20260905T134000
+DTEND:20260905T144000
+DTSTAMP:20260905T134000Z
+UID:2026-09-05T13:40:00/Brighton - Leeds
+DESCRIPTION:Brighton - Leeds - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nott. Forest - Tottenham - Premier League - synsport3
@@ -123,12 +106,12 @@ UID:2026-09-05T13:40:00/Nott. Forest - Tottenham
 DESCRIPTION:Nott. Forest - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brighton - Leeds - Premier League - synsport5
+SUMMARY:Man. City - Coventry - Premier League - synsport2
 DTSTART:20260905T134000
 DTEND:20260905T144000
 DTSTAMP:20260905T134000Z
-UID:2026-09-05T13:40:00/Brighton - Leeds
-DESCRIPTION:Brighton - Leeds - Premier League
+UID:2026-09-05T13:40:00/Man. City - Coventry
+DESCRIPTION:Man. City - Coventry - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Crystal Palace - Premier League - synsportisland2
@@ -251,12 +234,12 @@ UID:2026-09-06T13:45:00/Víkingur R. - Fram
 DESCRIPTION:Víkingur R. - Fram - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍA - KR - Besta deild karla - synsportisland3
+SUMMARY:FH - Þór/KA - Besta deild kvenna - synsport4
 DTSTART:20260906T135000
 DTEND:20260906T145000
 DTSTAMP:20260906T135000Z
-UID:2026-09-06T13:50:00/ÍA - KR
-DESCRIPTION:ÍA - KR - Besta deild karla
+UID:2026-09-06T13:50:00/FH - Þór/KA
+DESCRIPTION:FH - Þór/KA - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - ÍBV - Besta deild karla - synsportisland5
@@ -267,14 +250,6 @@ UID:2026-09-06T13:50:00/Stjarnan - ÍBV
 DESCRIPTION:Stjarnan - ÍBV - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Subway messan - Besta deild karla - synsportisland
-DTSTART:20260906T135000
-DTEND:20260906T145000
-DTSTAMP:20260906T135000Z
-UID:2026-09-06T13:50:00/Subway messan
-DESCRIPTION:Subway messan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KA - Breiðablik - Besta deild karla - synsportisland4
 DTSTART:20260906T135000
 DTEND:20260906T145000
@@ -283,12 +258,20 @@ UID:2026-09-06T13:50:00/KA - Breiðablik
 DESCRIPTION:KA - Breiðablik - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Þór/KA - Besta deild kvenna - synsport4
+SUMMARY:ÍA - KR - Besta deild karla - synsportisland3
 DTSTART:20260906T135000
 DTEND:20260906T145000
 DTSTAMP:20260906T135000Z
-UID:2026-09-06T13:50:00/FH - Þór/KA
-DESCRIPTION:FH - Þór/KA - Besta deild kvenna
+UID:2026-09-06T13:50:00/ÍA - KR
+DESCRIPTION:ÍA - KR - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Subway messan - Besta deild karla - synsportisland
+DTSTART:20260906T135000
+DTEND:20260906T145000
+DTSTAMP:20260906T135000Z
+UID:2026-09-06T13:50:00/Subway messan
+DESCRIPTION:Subway messan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Chelsea - Premier League - synsport
@@ -332,20 +315,20 @@ UID:2026-09-07T18:50:00/Bromley - Wimbledon
 DESCRIPTION:Bromley - Wimbledon - EFL League One
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Víkingur R. - Besta deild kvenna - synsportisland2
-DTSTART:20260907T190500
-DTEND:20260907T200500
-DTSTAMP:20260907T190500Z
-UID:2026-09-07T19:05:00/Stjarnan - Víkingur R.
-DESCRIPTION:Stjarnan - Víkingur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þróttur R. - Breiðablik - Besta deild kvenna - synsportisland
 DTSTART:20260907T190500
 DTEND:20260907T200500
 DTSTAMP:20260907T190500Z
 UID:2026-09-07T19:05:00/Þróttur R. - Breiðablik
 DESCRIPTION:Þróttur R. - Breiðablik - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Víkingur R. - Besta deild kvenna - synsportisland2
+DTSTART:20260907T190500
+DTEND:20260907T200500
+DTSTAMP:20260907T190500Z
+UID:2026-09-07T19:05:00/Stjarnan - Víkingur R.
+DESCRIPTION:Stjarnan - Víkingur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bestu mörkin - Besta deild kvenna - synsportisland
@@ -372,14 +355,6 @@ UID:2026-09-08T13:55:00/Real Madrid - Inter
 DESCRIPTION:Real Madrid - Inter - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AEK - LASK - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20260908T163500
-DTEND:20260908T173500
-DTSTAMP:20260908T163500Z
-UID:2026-09-08T16:35:00/AEK - LASK
-DESCRIPTION:AEK - LASK - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Brugge - Aston Villa - Meistaradeild Evrópu - synsport2
 DTSTART:20260908T163500
 DTEND:20260908T173500
@@ -388,20 +363,20 @@ UID:2026-09-08T16:35:00/Club Brugge - Aston Villa
 DESCRIPTION:Club Brugge - Aston Villa - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AEK - LASK - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260908T163500
+DTEND:20260908T173500
+DTSTAMP:20260908T163500Z
+UID:2026-09-08T16:35:00/AEK - LASK
+DESCRIPTION:AEK - LASK - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
 DTSTART:20260908T183000
 DTEND:20260908T193000
 DTSTAMP:20260908T183000Z
 UID:2026-09-08T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lille - Real Betis - Meistaradeild Evrópu - synsport3
-DTSTART:20260908T185000
-DTEND:20260908T195000
-DTSTAMP:20260908T185000Z
-UID:2026-09-08T18:50:00/Lille - Real Betis
-DESCRIPTION:Lille - Real Betis - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - Inter - Meistaradeild Evrópu - synsportviaplay
@@ -420,6 +395,14 @@ UID:2026-09-08T18:50:00/Porto - Man. City
 DESCRIPTION:Porto - Man. City - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lille - Real Betis - Meistaradeild Evrópu - synsport3
+DTSTART:20260908T185000
+DTEND:20260908T195000
+DTSTAMP:20260908T185000Z
+UID:2026-09-08T18:50:00/Lille - Real Betis
+DESCRIPTION:Lille - Real Betis - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
 DTSTART:20260908T210000
 DTEND:20260908T220000
@@ -436,20 +419,20 @@ UID:2026-09-09T13:55:00/Liverpool - Atletico Madrid
 DESCRIPTION:Liverpool - Atletico Madrid - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barcelona - Feyenoord - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20260909T163500
-DTEND:20260909T173500
-DTSTAMP:20260909T163500Z
-UID:2026-09-09T16:35:00/Barcelona - Feyenoord
-DESCRIPTION:Barcelona - Feyenoord - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stuttgart - Viking - Meistaradeild Evrópu - synsport2
 DTSTART:20260909T163500
 DTEND:20260909T173500
 DTSTAMP:20260909T163500Z
 UID:2026-09-09T16:35:00/Stuttgart - Viking
 DESCRIPTION:Stuttgart - Viking - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona - Feyenoord - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260909T163500
+DTEND:20260909T173500
+DTSTAMP:20260909T163500Z
+UID:2026-09-09T16:35:00/Barcelona - Feyenoord
+DESCRIPTION:Barcelona - Feyenoord - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
@@ -460,20 +443,20 @@ UID:2026-09-09T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Atletico Madrid - Meistaradeild Evrópu - synsport2
-DTSTART:20260909T185000
-DTEND:20260909T195000
-DTSTAMP:20260909T185000Z
-UID:2026-09-09T18:50:00/Liverpool - Atletico Madrid
-DESCRIPTION:Liverpool - Atletico Madrid - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Napoli - Arsenal - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20260909T185000
 DTEND:20260909T195000
 DTSTAMP:20260909T185000Z
 UID:2026-09-09T18:50:00/Napoli - Arsenal
 DESCRIPTION:Napoli - Arsenal - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Atletico Madrid - Meistaradeild Evrópu - synsport2
+DTSTART:20260909T185000
+DTEND:20260909T195000
+DTSTAMP:20260909T185000Z
+UID:2026-09-09T18:50:00/Liverpool - Atletico Madrid
+DESCRIPTION:Liverpool - Atletico Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting - Galatasaray - Meistaradeild Evrópu - synsport3
@@ -498,5 +481,85 @@ DTEND:20260909T230000
 DTSTAMP:20260909T220000Z
 UID:2026-09-09T22:00:00/Lokasóknin
 DESCRIPTION:Lokasóknin - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks - Patriots - NFL - synsport
+DTSTART:20260910T002000
+DTEND:20260910T012000
+DTSTAMP:20260910T002000Z
+UID:2026-09-10T00:20:00/Seahawks - Patriots
+DESCRIPTION:Seahawks - Patriots - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amgen Irish Open - DP World Tour - synsport4
+DTSTART:20260910T123000
+DTEND:20260910T133000
+DTSTAMP:20260910T123000Z
+UID:2026-09-10T12:30:00/Amgen Irish Open
+DESCRIPTION:Amgen Irish Open - DP World Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Bodö/Glimt - UEFA Youth League - synsport
+DTSTART:20260910T135500
+DTEND:20260910T145500
+DTSTAMP:20260910T135500Z
+UID:2026-09-10T13:55:00/Bayern München - Bodö/Glimt
+DESCRIPTION:Bayern München - Bodö/Glimt - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV - Shakhtar - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260910T163500
+DTEND:20260910T173500
+DTSTAMP:20260910T163500Z
+UID:2026-09-10T16:35:00/PSV - Shakhtar
+DESCRIPTION:PSV - Shakhtar - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahce - Roma - Meistaradeild Evrópu - synsport2
+DTSTART:20260910T163500
+DTEND:20260910T173500
+DTSTAMP:20260910T163500Z
+UID:2026-09-10T16:35:00/Fenerbahce - Roma
+DESCRIPTION:Fenerbahce - Roma - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
+DTSTART:20260910T183000
+DTEND:20260910T193000
+DTSTAMP:20260910T183000Z
+UID:2026-09-10T18:30:00/Meistaradeildarmessan
+DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. Utd. - Sabah - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20260910T185000
+DTEND:20260910T195000
+DTSTAMP:20260910T185000Z
+UID:2026-09-10T18:50:00/Man. Utd. - Sabah
+DESCRIPTION:Man. Utd. - Sabah - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Bodö/Glimt - Meistaradeild Evrópu - synsport2
+DTSTART:20260910T185000
+DTEND:20260910T195000
+DTSTAMP:20260910T185000Z
+UID:2026-09-10T18:50:00/Bayern München - Bodö/Glimt
+DESCRIPTION:Bayern München - Bodö/Glimt - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como - Leipzig - Meistaradeild Evrópu - synsport3
+DTSTART:20260910T185000
+DTEND:20260910T195000
+DTSTAMP:20260910T185000Z
+UID:2026-09-10T18:50:00/Como - Leipzig
+DESCRIPTION:Como - Leipzig - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
+DTSTART:20260910T210000
+DTEND:20260910T220000
+DTSTAMP:20260910T210000Z
+UID:2026-09-10T21:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
 END:VEVENT
 END:VCALENDAR

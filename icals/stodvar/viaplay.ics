@@ -3,38 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
 SUMMARY:Dodgers - Cardinals - Major League Baseball - viaplay
-DTSTART:20260903T020000
-DTEND:20260903T030000
-DTSTAMP:20260903T020000Z
-UID:2026-09-03T02:00:00/Dodgers - Cardinals
-DESCRIPTION:Dodgers - Cardinals - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pirates - Giants - Major League Baseball - viaplay
-DTSTART:20260903T163000
-DTEND:20260903T173000
-DTSTAMP:20260903T163000Z
-UID:2026-09-03T16:30:00/Pirates - Giants
-DESCRIPTION:Pirates - Giants - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magdeburg - Füchse Berlin - Bundesliga - viaplay
-DTSTART:20260903T181000
-DTEND:20260903T191000
-DTSTAMP:20260903T181000Z
-UID:2026-09-03T18:10:00/Magdeburg - Füchse Berlin
-DESCRIPTION:Magdeburg - Füchse Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cubs - Brewers - Major League Baseball - viaplay
-DTSTART:20260903T230000
-DTEND:20260904T000000
-DTSTAMP:20260903T230000Z
-UID:2026-09-03T23:00:00/Cubs - Brewers
-DESCRIPTION:Cubs - Brewers - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dodgers - Cardinals - Major League Baseball - viaplay
 DTSTART:20260904T020000
 DTEND:20260904T030000
 DTSTAMP:20260904T020000Z
@@ -60,13 +28,12 @@ UID:2026-09-04T10:25:00/Ítalíukappaksturinn (Æfing 1)
 DESCRIPTION:Ítalíukappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Monza Kappaksturinn | Æfing 1) - Formula 1 - v
- iaplay
+SUMMARY:Onboard (Monza Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20260904T103000
 DTEND:20260904T113000
 DTSTAMP:20260904T103000Z
-UID:2026-09-04T10:30:00/Track Positioning (Monza Kappaksturinn | Æfing 1)
-DESCRIPTION:Track Positioning (Monza Kappaksturinn | Æfing 1) - Formula 1
+UID:2026-09-04T10:30:00/Onboard (Monza Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Monza Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Monza Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -77,12 +44,13 @@ UID:2026-09-04T10:30:00/Pitlane (Monza Kappaksturinn | Æfing 1)
 DESCRIPTION:Pitlane (Monza Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Monza Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Monza Kappaksturinn | Æfing 1) - Formula 1 - v
+ iaplay
 DTSTART:20260904T103000
 DTEND:20260904T113000
 DTSTAMP:20260904T103000Z
-UID:2026-09-04T10:30:00/Onboard (Monza Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Monza Kappaksturinn | Æfing 1) - Formula 1
+UID:2026-09-04T10:30:00/Track Positioning (Monza Kappaksturinn | Æfing 1)
+DESCRIPTION:Track Positioning (Monza Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Monza Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -164,12 +132,12 @@ UID:2026-09-04T14:00:00/Track Positioning (Monza Kappaksturinn | Æfing 2)
 DESCRIPTION:Track Positioning (Monza Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Monza Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+SUMMARY:Pitlane (Monza Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20260904T140000
 DTEND:20260904T150000
 DTSTAMP:20260904T140000Z
-UID:2026-09-04T14:00:00/Onboard (Monza Kappaksturinn | Æfing 2)
-DESCRIPTION:Onboard (Monza Kappaksturinn | Æfing 2) - Formula 1
+UID:2026-09-04T14:00:00/Pitlane (Monza Kappaksturinn | Æfing 2)
+DESCRIPTION:Pitlane (Monza Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Monza Kappaksturinn | Æfing 2) - Formula 1 - viaplay
@@ -180,20 +148,12 @@ UID:2026-09-04T14:00:00/Timing (Monza Kappaksturinn | Æfing 2)
 DESCRIPTION:Timing (Monza Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Monza Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+SUMMARY:Onboard (Monza Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20260904T140000
 DTEND:20260904T150000
 DTSTAMP:20260904T140000Z
-UID:2026-09-04T14:00:00/Pitlane (Monza Kappaksturinn | Æfing 2)
-DESCRIPTION:Pitlane (Monza Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Leverkusen - Frauen-Bundesliga - viaplay
-DTSTART:20260904T162500
-DTEND:20260904T172500
-DTSTAMP:20260904T162500Z
-UID:2026-09-04T16:25:00/Hoffenheim - Leverkusen
-DESCRIPTION:Hoffenheim - Leverkusen - Frauen-Bundesliga
+UID:2026-09-04T14:00:00/Onboard (Monza Kappaksturinn | Æfing 2)
+DESCRIPTION:Onboard (Monza Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannover - Karlsruher - 2. Bundesliga - viaplay
@@ -210,6 +170,14 @@ DTEND:20260904T172500
 DTSTAMP:20260904T162500Z
 UID:2026-09-04T16:25:00/Arminia Bielefeld - St. Pauli
 DESCRIPTION:Arminia Bielefeld - St. Pauli - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Leverkusen - Frauen-Bundesliga - viaplay
+DTSTART:20260904T162500
+DTEND:20260904T172500
+DTSTAMP:20260904T162500Z
+UID:2026-09-04T16:25:00/Hoffenheim - Leverkusen
+DESCRIPTION:Hoffenheim - Leverkusen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Czech Darts Open - PDC Darts - viaplay
@@ -252,20 +220,20 @@ UID:2026-09-04T21:00:00/Grand Prix of Monterey (Æfing 1)
 DESCRIPTION:Grand Prix of Monterey (Æfing 1) - IndyCar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Prix of Monterey (Æfing 2) - Indy NXT - viaplay
-DTSTART:20260904T223000
-DTEND:20260904T233000
-DTSTAMP:20260904T223000Z
-UID:2026-09-04T22:30:00/Grand Prix of Monterey (Æfing 2)
-DESCRIPTION:Grand Prix of Monterey (Æfing 2) - Indy NXT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Phillies - Braves - Major League Baseball - viaplay
 DTSTART:20260904T223000
 DTEND:20260904T233000
 DTSTAMP:20260904T223000Z
 UID:2026-09-04T22:30:00/Phillies - Braves
 DESCRIPTION:Phillies - Braves - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix of Monterey (Æfing 2) - Indy NXT - viaplay
+DTSTART:20260904T223000
+DTEND:20260904T233000
+DTSTAMP:20260904T223000Z
+UID:2026-09-04T22:30:00/Grand Prix of Monterey (Æfing 2)
+DESCRIPTION:Grand Prix of Monterey (Æfing 2) - Indy NXT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mariners - Athletics - Major League Baseball - viaplay
@@ -369,6 +337,14 @@ UID:2026-09-05T10:30:00/Pitlane (Monza Kappaksturinn | Æfing 3)
 DESCRIPTION:Pitlane (Monza Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Monza Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20260905T103000
+DTEND:20260905T113000
+DTSTAMP:20260905T103000Z
+UID:2026-09-05T10:30:00/Onboard (Monza Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Monza Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Monza Kappaksturinn | Æfing 3) - Formula 1 - v
  iaplay
 DTSTART:20260905T103000
@@ -378,12 +354,20 @@ UID:2026-09-05T10:30:00/Track Positioning (Monza Kappaksturinn | Æfing 3)
 DESCRIPTION:Track Positioning (Monza Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Monza Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20260905T103000
-DTEND:20260905T113000
-DTSTAMP:20260905T103000Z
-UID:2026-09-05T10:30:00/Onboard (Monza Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Monza Kappaksturinn | Æfing 3) - Formula 1
+SUMMARY:Holstein Kiel - Nürnberg - 2. Bundesliga - viaplay
+DTSTART:20260905T105500
+DTEND:20260905T115500
+DTSTAMP:20260905T105500Z
+UID:2026-09-05T10:55:00/Holstein Kiel - Nürnberg
+DESCRIPTION:Holstein Kiel - Nürnberg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20260905T105500
+DTEND:20260905T115500
+DTSTAMP:20260905T105500Z
+UID:2026-09-05T10:55:00/Kaiserslautern - Darmstadt
+DESCRIPTION:Kaiserslautern - Darmstadt - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Energie Cottbus - 2. Bundesliga - viaplay
@@ -404,28 +388,20 @@ DESCRIPTION:Acerbis French Round (Kappakstur 1) - FIM Sportbike World Cham
  pionship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holstein Kiel - Nürnberg - 2. Bundesliga - viaplay
-DTSTART:20260905T105500
-DTEND:20260905T115500
-DTSTAMP:20260905T105500Z
-UID:2026-09-05T10:55:00/Holstein Kiel - Nürnberg
-DESCRIPTION:Holstein Kiel - Nürnberg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20260905T105500
-DTEND:20260905T115500
-DTSTAMP:20260905T105500Z
-UID:2026-09-05T10:55:00/Kaiserslautern - Darmstadt
-DESCRIPTION:Kaiserslautern - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Czech Darts Open - PDC Darts - viaplay
 DTSTART:20260905T110000
 DTEND:20260905T120000
 DTSTAMP:20260905T110000Z
 UID:2026-09-05T11:00:00/Czech Darts Open
 DESCRIPTION:Czech Darts Open - PDC Darts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln - Southampton - Championship - viaplay
+DTSTART:20260905T112000
+DTEND:20260905T122000
+DTSTAMP:20260905T112000Z
+UID:2026-09-05T11:20:00/Lincoln - Southampton
+DESCRIPTION:Lincoln - Southampton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stoke - Charlton - Championship - viaplay
@@ -442,14 +418,6 @@ DTEND:20260905T122000
 DTSTAMP:20260905T112000Z
 UID:2026-09-05T11:20:00/Preston - Blackburn
 DESCRIPTION:Preston - Blackburn - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lincoln - Southampton - Championship - viaplay
-DTSTART:20260905T112000
-DTEND:20260905T122000
-DTSTAMP:20260905T112000Z
-UID:2026-09-05T11:20:00/Lincoln - Southampton
-DESCRIPTION:Lincoln - Southampton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spain Sail Grand Prix - Sail GP - viaplay
@@ -510,6 +478,22 @@ UID:2026-09-05T12:50:00/Hammarby - Norrköping
 DESCRIPTION:Hammarby - Norrköping - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paderborn - Freiburg - Bundesliga - viaplay
+DTSTART:20260905T132000
+DTEND:20260905T142000
+DTSTAMP:20260905T132000Z
+UID:2026-09-05T13:20:00/Paderborn - Freiburg
+DESCRIPTION:Paderborn - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Dortmund - Bundesliga - viaplay
+DTSTART:20260905T132000
+DTEND:20260905T142000
+DTSTAMP:20260905T132000Z
+UID:2026-09-05T13:20:00/Hoffenheim - Dortmund
+DESCRIPTION:Hoffenheim - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Werder Bremen - Leipzig - Bundesliga - viaplay
 DTSTART:20260905T132000
 DTEND:20260905T142000
@@ -524,14 +508,6 @@ DTEND:20260905T142000
 DTSTAMP:20260905T132000Z
 UID:2026-09-05T13:20:00/Mönchengladbach - Elversberg
 DESCRIPTION:Mönchengladbach - Elversberg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Dortmund - Bundesliga - viaplay
-DTSTART:20260905T132000
-DTEND:20260905T142000
-DTSTAMP:20260905T132000Z
-UID:2026-09-05T13:20:00/Hoffenheim - Dortmund
-DESCRIPTION:Hoffenheim - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Union Berlin - Bundesliga - viaplay
@@ -550,14 +526,6 @@ UID:2026-09-05T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paderborn - Freiburg - Bundesliga - viaplay
-DTSTART:20260905T132000
-DTEND:20260905T142000
-DTSTAMP:20260905T132000Z
-UID:2026-09-05T13:20:00/Paderborn - Freiburg
-DESCRIPTION:Paderborn - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Acerbis French Round (Kappakstur 1) - FIM Superbike World Champion
  ship - viaplay
 DTSTART:20260905T132500
@@ -566,6 +534,14 @@ DTSTAMP:20260905T132500Z
 UID:2026-09-05T13:25:00/Acerbis French Round (Kappakstur 1)
 DESCRIPTION:Acerbis French Round (Kappakstur 1) - FIM Superbike World Cham
  pionship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Bristol City - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/Burnley - Bristol City
+DESCRIPTION:Burnley - Bristol City - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Ham - Derby - Championship - viaplay
@@ -592,44 +568,12 @@ UID:2026-09-05T13:50:00/Eskilstuna - AIK
 DESCRIPTION:Eskilstuna - AIK - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Bristol City - Championship - viaplay
+SUMMARY:Sheffield United - Norwich - Championship - viaplay
 DTSTART:20260905T135000
 DTEND:20260905T145000
 DTSTAMP:20260905T135000Z
-UID:2026-09-05T13:50:00/Burnley - Bristol City
-DESCRIPTION:Burnley - Bristol City - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Millwall - Bolton - Championship - viaplay
-DTSTART:20260905T135000
-DTEND:20260905T145000
-DTSTAMP:20260905T135000Z
-UID:2026-09-05T13:50:00/Millwall - Bolton
-DESCRIPTION:Millwall - Bolton - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portsmouth - Cardiff - Championship - viaplay
-DTSTART:20260905T135000
-DTEND:20260905T145000
-DTSTAMP:20260905T135000Z
-UID:2026-09-05T13:50:00/Portsmouth - Cardiff
-DESCRIPTION:Portsmouth - Cardiff - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QPR - Middlesbrough - Championship - viaplay
-DTSTART:20260905T135000
-DTEND:20260905T145000
-DTSTAMP:20260905T135000Z
-UID:2026-09-05T13:50:00/QPR - Middlesbrough
-DESCRIPTION:QPR - Middlesbrough - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield United - Norwich City - Championship - viaplay
-DTSTART:20260905T135000
-DTEND:20260905T145000
-DTSTAMP:20260905T135000Z
-UID:2026-09-05T13:50:00/Sheffield United - Norwich City
-DESCRIPTION:Sheffield United - Norwich City - Championship
+UID:2026-09-05T13:50:00/Sheffield United - Norwich
+DESCRIPTION:Sheffield United - Norwich - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Brom - Watford - Championship - viaplay
@@ -640,29 +584,36 @@ UID:2026-09-05T13:50:00/West Brom - Watford
 DESCRIPTION:West Brom - Watford - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:QPR - Middlesbrough - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/QPR - Middlesbrough
+DESCRIPTION:QPR - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portsmouth - Cardiff - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/Portsmouth - Cardiff
+DESCRIPTION:Portsmouth - Cardiff - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millwall - Bolton - Championship - viaplay
+DTSTART:20260905T135000
+DTEND:20260905T145000
+DTSTAMP:20260905T135000Z
+UID:2026-09-05T13:50:00/Millwall - Bolton
+DESCRIPTION:Millwall - Bolton - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ítalíukappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20260905T135500
 DTEND:20260905T145500
 DTSTAMP:20260905T135500Z
 UID:2026-09-05T13:55:00/Ítalíukappaksturinn (Tímatökur)
 DESCRIPTION:Ítalíukappaksturinn (Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Monza Kappaksturinn | Tímatökur) - Formula 1 - viaplay
-DTSTART:20260905T140000
-DTEND:20260905T150000
-DTSTAMP:20260905T140000Z
-UID:2026-09-05T14:00:00/Timing (Monza Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Monza Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Monza Kappaksturinn | Tímatökur) - Formula 1 - viapla
- y
-DTSTART:20260905T140000
-DTEND:20260905T150000
-DTSTAMP:20260905T140000Z
-UID:2026-09-05T14:00:00/Pitlane (Monza Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Monza Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Monza Kappaksturinn | Tímatökur) - Formula 
@@ -676,6 +627,15 @@ DESCRIPTION:Track Positioning (Monza Kappaksturinn | Tímatökur) - Form
  ula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Monza Kappaksturinn | Tímatökur) - Formula 1 - viapla
+ y
+DTSTART:20260905T140000
+DTEND:20260905T150000
+DTSTAMP:20260905T140000Z
+UID:2026-09-05T14:00:00/Pitlane (Monza Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Monza Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Onboard (Monza Kappaksturinn | Tímatökur) - Formula 1 - viapla
  y
 DTSTART:20260905T140000
@@ -683,6 +643,14 @@ DTEND:20260905T150000
 DTSTAMP:20260905T140000Z
 UID:2026-09-05T14:00:00/Onboard (Monza Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Monza Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Monza Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20260905T140000
+DTEND:20260905T150000
+DTSTAMP:20260905T140000Z
+UID:2026-09-05T14:00:00/Timing (Monza Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Monza Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Imola (Kappakstur 2) - Formula Regional European Championship - vi
@@ -708,14 +676,6 @@ DTEND:20260905T172000
 DTSTAMP:20260905T162000Z
 UID:2026-09-05T16:20:00/Schalke - Bayern München
 DESCRIPTION:Schalke - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Champions League weekly - Champions League - viaplay
-DTSTART:20260905T163000
-DTEND:20260905T173000
-DTSTAMP:20260905T163000Z
-UID:2026-09-05T16:30:00/Champions League weekly
-DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Erlangen - Bundesliga - viaplay
@@ -748,6 +708,14 @@ DTEND:20260905T192500
 DTSTAMP:20260905T182500Z
 UID:2026-09-05T18:25:00/Dynamo Dresden - Bochum
 DESCRIPTION:Dynamo Dresden - Bochum - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champions League weekly - Champions League - viaplay
+DTSTART:20260905T183000
+DTEND:20260905T193000
+DTSTAMP:20260905T183000Z
+UID:2026-09-05T18:30:00/Champions League weekly
+DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swansea - Wrexham - Championship - viaplay
@@ -882,14 +850,6 @@ UID:2026-09-06T11:00:00/Czech Darts Open
 DESCRIPTION:Czech Darts Open - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Heidenheim - 2. Bundesliga - viaplay
-DTSTART:20260906T112500
-DTEND:20260906T122500
-DTSTAMP:20260906T112500Z
-UID:2026-09-06T11:25:00/Greuther Fürth - Heidenheim
-DESCRIPTION:Greuther Fürth - Heidenheim - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Magdeburg - 2. Bundesliga - viaplay
 DTSTART:20260906T112500
 DTEND:20260906T122500
@@ -904,6 +864,14 @@ DTEND:20260906T122500
 DTSTAMP:20260906T112500Z
 UID:2026-09-06T11:25:00/Osnabrück - Braunschweig
 DESCRIPTION:Osnabrück - Braunschweig - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greuther Fürth - Heidenheim - 2. Bundesliga - viaplay
+DTSTART:20260906T112500
+DTEND:20260906T122500
+DTSTAMP:20260906T112500Z
+UID:2026-09-06T11:25:00/Greuther Fürth - Heidenheim
+DESCRIPTION:Greuther Fürth - Heidenheim - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spain Sail Grand Prix - Sail GP - viaplay
@@ -948,6 +916,17 @@ UID:2026-09-06T12:55:00/FRISCH AUF! Göppingen - THW Kiel
 DESCRIPTION:FRISCH AUF! Göppingen - THW Kiel - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Monza Kappaksturinn | Kappakstur) - Formula 1 -
+  viaplay
+DTSTART:20260906T130000
+DTEND:20260906T140000
+DTSTAMP:20260906T130000Z
+UID:2026-09-06T13:00:00/Track Positioning (Monza Kappaksturinn | Kappakstu
+ r)
+DESCRIPTION:Track Positioning (Monza Kappaksturinn | Kappakstur) - Formula
+  1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Monza Kappaksturinn | Kappakstur) - Formula 1 - viaplay
 DTSTART:20260906T130000
 DTEND:20260906T140000
@@ -962,17 +941,6 @@ DTEND:20260906T140000
 DTSTAMP:20260906T130000Z
 UID:2026-09-06T13:00:00/Onboard (Monza Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Monza Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Monza Kappaksturinn | Kappakstur) - Formula 1 -
-  viaplay
-DTSTART:20260906T130000
-DTEND:20260906T140000
-DTSTAMP:20260906T130000Z
-UID:2026-09-06T13:00:00/Track Positioning (Monza Kappaksturinn | Kappakstu
- r)
-DESCRIPTION:Track Positioning (Monza Kappaksturinn | Kappakstur) - Formula
-  1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Monza Kappaksturinn | Kappakstur) - Formula 1 - viaplay
@@ -1018,20 +986,20 @@ UID:2026-09-06T14:20:00/Imola (Kappakstur 3)
 DESCRIPTION:Imola (Kappakstur 3) - Formula Regional European Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Imola (Kappakstur 4) - Formula 4 Italian Championship - viaplay
-DTSTART:20260906T152000
-DTEND:20260906T162000
-DTSTAMP:20260906T152000Z
-UID:2026-09-06T15:20:00/Imola (Kappakstur 4)
-DESCRIPTION:Imola (Kappakstur 4) - Formula 4 Italian Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frankfurt - Augsburg - Bundesliga - viaplay
 DTSTART:20260906T152000
 DTEND:20260906T162000
 DTSTAMP:20260906T152000Z
 UID:2026-09-06T15:20:00/Frankfurt - Augsburg
 DESCRIPTION:Frankfurt - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imola (Kappakstur 4) - Formula 4 Italian Championship - viaplay
+DTSTART:20260906T152000
+DTEND:20260906T162000
+DTSTAMP:20260906T152000Z
+UID:2026-09-06T15:20:00/Imola (Kappakstur 4)
+DESCRIPTION:Imola (Kappakstur 4) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand Prix of Monterey (Kappakstur 2) - Indy NXT - viaplay
@@ -1083,10 +1051,10 @@ DESCRIPTION:White Sox - Twins - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Frankfurt - Frauen-Bundesliga - viaplay
-DTSTART:20260907T155000
-DTEND:20260907T165000
-DTSTAMP:20260907T155000Z
-UID:2026-09-07T15:50:00/Union Berlin - Frankfurt
+DTSTART:20260907T155500
+DTEND:20260907T165500
+DTSTAMP:20260907T155500Z
+UID:2026-09-07T15:55:00/Union Berlin - Frankfurt
 DESCRIPTION:Union Berlin - Frankfurt - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
@@ -1098,12 +1066,12 @@ UID:2026-09-07T17:00:00/Phillies - Braves
 DESCRIPTION:Phillies - Braves - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bromley	- AFC Wimbledon - League One - viaplay
+SUMMARY:Bromley - AFC Wimbledon - League One - viaplay
 DTSTART:20260907T185500
 DTEND:20260907T195500
 DTSTAMP:20260907T185500Z
-UID:2026-09-07T18:55:00/Bromley	- AFC Wimbledon
-DESCRIPTION:Bromley	- AFC Wimbledon - League One
+UID:2026-09-07T18:55:00/Bromley - AFC Wimbledon
+DESCRIPTION:Bromley - AFC Wimbledon - League One
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Padres - Nationals - Major League Baseball - viaplay
@@ -1122,12 +1090,20 @@ UID:2026-09-08T01:00:00/Dodgers - Reds
 DESCRIPTION:Dodgers - Reds - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UEFA Champions League 2026/27 - Champions League - viaplay
-DTSTART:20260908T160000
-DTEND:20260908T170000
-DTSTAMP:20260908T160000Z
-UID:2026-09-08T16:00:00/UEFA Champions League 2026/27
-DESCRIPTION:UEFA Champions League 2026/27 - Champions League
+SUMMARY:Club Brugge - Aston Villa - UEFA Youth League - viaplay
+DTSTART:20260908T115500
+DTEND:20260908T125500
+DTSTAMP:20260908T115500Z
+UID:2026-09-08T11:55:00/Club Brugge - Aston Villa
+DESCRIPTION:Club Brugge - Aston Villa - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid - Inter - UEFA Youth League - viaplay
+DTSTART:20260908T135500
+DTEND:20260908T145500
+DTSTAMP:20260908T135500Z
+UID:2026-09-08T13:55:00/Real Madrid - Inter
+DESCRIPTION:Real Madrid - Inter - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AEK Athens - LASK - Champions League - viaplay
@@ -1146,52 +1122,12 @@ UID:2026-09-08T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blackburn - Sheffield United - Championship - viaplay
-DTSTART:20260908T183500
-DTEND:20260908T193500
-DTSTAMP:20260908T183500Z
-UID:2026-09-08T18:35:00/Blackburn - Sheffield United
-DESCRIPTION:Blackburn - Sheffield United - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bristol City - Lincoln - Championship - viaplay
 DTSTART:20260908T183500
 DTEND:20260908T193500
 DTSTAMP:20260908T183500Z
 UID:2026-09-08T18:35:00/Bristol City - Lincoln
 DESCRIPTION:Bristol City - Lincoln - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wrexham - Burnley - Championship - viaplay
-DTSTART:20260908T183500
-DTEND:20260908T193500
-DTSTAMP:20260908T183500Z
-UID:2026-09-08T18:35:00/Wrexham - Burnley
-DESCRIPTION:Wrexham - Burnley - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cardiff - Stoke - Championship - viaplay
-DTSTART:20260908T183500
-DTEND:20260908T193500
-DTSTAMP:20260908T183500Z
-UID:2026-09-08T18:35:00/Cardiff - Stoke
-DESCRIPTION:Cardiff - Stoke - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Middlesbrough - Millwall - Championship - viaplay
-DTSTART:20260908T183500
-DTEND:20260908T193500
-DTSTAMP:20260908T183500Z
-UID:2026-09-08T18:35:00/Middlesbrough - Millwall
-DESCRIPTION:Middlesbrough - Millwall - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southampton - Swansea - Championship - viaplay
-DTSTART:20260908T183500
-DTEND:20260908T193500
-DTSTAMP:20260908T183500Z
-UID:2026-09-08T18:35:00/Southampton - Swansea
-DESCRIPTION:Southampton - Swansea - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Watford - Preston - Championship - viaplay
@@ -1202,20 +1138,52 @@ UID:2026-09-08T18:35:00/Watford - Preston
 DESCRIPTION:Watford - Preston - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cardiff - Stoke - Championship - viaplay
+DTSTART:20260908T183500
+DTEND:20260908T193500
+DTSTAMP:20260908T183500Z
+UID:2026-09-08T18:35:00/Cardiff - Stoke
+DESCRIPTION:Cardiff - Stoke - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southampton - Swansea - Championship - viaplay
+DTSTART:20260908T183500
+DTEND:20260908T193500
+DTSTAMP:20260908T183500Z
+UID:2026-09-08T18:35:00/Southampton - Swansea
+DESCRIPTION:Southampton - Swansea - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrexham - Burnley - Championship - viaplay
+DTSTART:20260908T183500
+DTEND:20260908T193500
+DTSTAMP:20260908T183500Z
+UID:2026-09-08T18:35:00/Wrexham - Burnley
+DESCRIPTION:Wrexham - Burnley - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlesbrough - Millwall - Championship - viaplay
+DTSTART:20260908T183500
+DTEND:20260908T193500
+DTSTAMP:20260908T183500Z
+UID:2026-09-08T18:35:00/Middlesbrough - Millwall
+DESCRIPTION:Middlesbrough - Millwall - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blackburn - Sheffield United - Championship - viaplay
+DTSTART:20260908T183500
+DTEND:20260908T193500
+DTSTAMP:20260908T183500Z
+UID:2026-09-08T18:35:00/Blackburn - Sheffield United
+DESCRIPTION:Blackburn - Sheffield United - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sunderland - Hull - Carabao Cup - viaplay
 DTSTART:20260908T184000
 DTEND:20260908T194000
 DTSTAMP:20260908T184000Z
 UID:2026-09-08T18:40:00/Sunderland - Hull
 DESCRIPTION:Sunderland - Hull - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bournemouth - Lincoln - Carabao Cup - viaplay
-DTSTART:20260908T184000
-DTEND:20260908T194000
-DTSTAMP:20260908T184000Z
-UID:2026-09-08T18:40:00/Bournemouth - Lincoln
-DESCRIPTION:Bournemouth - Lincoln - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leyton Orient - Bradford - Carabao Cup - viaplay
@@ -1234,12 +1202,12 @@ UID:2026-09-08T18:40:00/Crystal Palace - Middlesbrough
 DESCRIPTION:Crystal Palace - Middlesbrough - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Villarreal - Champions League - viaplay
-DTSTART:20260908T185000
-DTEND:20260908T195000
-DTSTAMP:20260908T185000Z
-UID:2026-09-08T18:50:00/Dortmund - Villarreal
-DESCRIPTION:Dortmund - Villarreal - Champions League
+SUMMARY:Bournemouth - Lincoln - Carabao Cup - viaplay
+DTSTART:20260908T184000
+DTEND:20260908T194000
+DTSTAMP:20260908T184000Z
+UID:2026-09-08T18:40:00/Bournemouth - Lincoln
+DESCRIPTION:Bournemouth - Lincoln - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bolton - West Ham - Championship - viaplay
@@ -1256,6 +1224,14 @@ DTEND:20260908T195000
 DTSTAMP:20260908T185000Z
 UID:2026-09-08T18:50:00/Real Madrid - Inter
 DESCRIPTION:Real Madrid - Inter - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Villarreal - Champions League - viaplay
+DTSTART:20260908T185000
+DTEND:20260908T195000
+DTSTAMP:20260908T185000Z
+UID:2026-09-08T18:50:00/Dortmund - Villarreal
+DESCRIPTION:Dortmund - Villarreal - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Millwall - Newcastle - Carabao Cup - viaplay
@@ -1288,6 +1264,14 @@ DTEND:20260909T023000
 DTSTAMP:20260909T013000Z
 UID:2026-09-09T01:30:00/Mariners - Rangers
 DESCRIPTION:Mariners - Rangers - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Atlético Madrid - UEFA Youth League - viaplay
+DTSTART:20260909T135500
+DTEND:20260909T145500
+DTSTAMP:20260909T135500Z
+UID:2026-09-09T13:55:00/Liverpool - Atlético Madrid
+DESCRIPTION:Liverpool - Atlético Madrid - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barcelona - Feyenoord - Champions League - viaplay
@@ -1376,5 +1360,93 @@ DTEND:20260910T000000
 DTSTAMP:20260909T230000Z
 UID:2026-09-09T23:00:00/Braves - Rays
 DESCRIPTION:Braves - Rays - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Bodø/Glimt - UEFA Youth League - viaplay
+DTSTART:20260910T135500
+DTEND:20260910T145500
+DTSTAMP:20260910T135500Z
+UID:2026-09-10T13:55:00/Bayern München - Bodø/Glimt
+DESCRIPTION:Bayern München - Bodø/Glimt - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Ceremony - Solheim Cup - viaplay
+DTSTART:20260910T150000
+DTEND:20260910T160000
+DTSTAMP:20260910T150000Z
+UID:2026-09-10T15:00:00/Opening Ceremony
+DESCRIPTION:Opening Ceremony - Solheim Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braves - Rays - Major League Baseball - viaplay
+DTSTART:20260910T160000
+DTEND:20260910T170000
+DTSTAMP:20260910T160000Z
+UID:2026-09-10T16:00:00/Braves - Rays
+DESCRIPTION:Braves - Rays - Major League Baseball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV - Shakhtar Donetsk - Champions League - viaplay
+DTSTART:20260910T163500
+DTEND:20260910T173500
+DTSTAMP:20260910T163500Z
+UID:2026-09-10T16:35:00/PSV - Shakhtar Donetsk
+DESCRIPTION:PSV - Shakhtar Donetsk - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lemgo Lippe - Flensburg-Handewitt - Bundesliga - viaplay
+DTSTART:20260910T165500
+DTEND:20260910T175500
+DTSTAMP:20260910T165500Z
+UID:2026-09-10T16:55:00/Lemgo Lippe - Flensburg-Handewitt
+DESCRIPTION:Lemgo Lippe - Flensburg-Handewitt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - Champions League - viaplay
+DTSTART:20260910T183000
+DTEND:20260910T193000
+DTSTAMP:20260910T183000Z
+UID:2026-09-10T18:30:00/Instant Highlights
+DESCRIPTION:Instant Highlights - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prag - Lens - Champions League - viaplay
+DTSTART:20260910T185000
+DTEND:20260910T195000
+DTSTAMP:20260910T185000Z
+UID:2026-09-10T18:50:00/Slavia Prag - Lens
+DESCRIPTION:Slavia Prag - Lens - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man United - Sabah - Champions League - viaplay
+DTSTART:20260910T185000
+DTEND:20260910T195000
+DTSTAMP:20260910T185000Z
+UID:2026-09-10T18:50:00/Man United - Sabah
+DESCRIPTION:Man United - Sabah - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stevenage - Luton - League One - viaplay
+DTSTART:20260910T185500
+DTEND:20260910T195500
+DTSTAMP:20260910T185500Z
+UID:2026-09-10T18:55:00/Stevenage - Luton
+DESCRIPTION:Stevenage - Luton - League One
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goalshow - Champions League - viaplay
+DTSTART:20260910T210000
+DTEND:20260910T220000
+DTSTAMP:20260910T210000Z
+UID:2026-09-10T21:00:00/Goalshow
+DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:White Sox - Pirates - Major League Baseball - viaplay
+DTSTART:20260910T233000
+DTEND:20260911T003000
+DTSTAMP:20260910T233000Z
+UID:2026-09-10T23:30:00/White Sox - Pirates
+DESCRIPTION:White Sox - Pirates - Major League Baseball
 END:VEVENT
 END:VCALENDAR
