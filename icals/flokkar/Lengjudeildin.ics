@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Lengjudeildin - ical
 BEGIN:VEVENT
-SUMMARY:ÍA - Haukar - Lengjudeildin - livey
-DTSTART:20260905T120000
-DTEND:20260905T130000
-DTSTAMP:20260905T120000Z
-UID:2026-09-05T12:00:00/ÍA - Haukar
-DESCRIPTION:ÍA - Haukar - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grótta - Völsungur - Lengjudeildin - livey
+SUMMARY:Njarðvík - Afturelding - Lengjudeildin - livey
 DTSTART:20260905T140000
 DTEND:20260905T150000
 DTSTAMP:20260905T140000Z
-UID:2026-09-05T14:00:00/Grótta - Völsungur
-DESCRIPTION:Grótta - Völsungur - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÍR - Leiknir R. - Lengjudeildin - livey
-DTSTART:20260905T140000
-DTEND:20260905T150000
-DTSTAMP:20260905T140000Z
-UID:2026-09-05T14:00:00/ÍR - Leiknir R.
-DESCRIPTION:ÍR - Leiknir R. - Lengjudeildin
+UID:2026-09-05T14:00:00/Njarðvík - Afturelding
+DESCRIPTION:Njarðvík - Afturelding - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ægir - Grindavík - Lengjudeildin - livey
@@ -34,12 +18,12 @@ UID:2026-09-05T14:00:00/Ægir - Grindavík
 DESCRIPTION:Ægir - Grindavík - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vestri - Þróttur R. - Lengjudeildin - livey
+SUMMARY:ÍR - Leiknir R. - Lengjudeildin - livey
 DTSTART:20260905T140000
 DTEND:20260905T150000
 DTSTAMP:20260905T140000Z
-UID:2026-09-05T14:00:00/Vestri - Þróttur R.
-DESCRIPTION:Vestri - Þróttur R. - Lengjudeildin
+UID:2026-09-05T14:00:00/ÍR - Leiknir R.
+DESCRIPTION:ÍR - Leiknir R. - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HK - Fylkir - Lengjudeildin - livey
@@ -50,12 +34,20 @@ UID:2026-09-05T14:00:00/HK - Fylkir
 DESCRIPTION:HK - Fylkir - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Afturelding - Lengjudeildin - livey
+SUMMARY:Vestri - Þróttur R. - Lengjudeildin - livey
 DTSTART:20260905T140000
 DTEND:20260905T150000
 DTSTAMP:20260905T140000Z
-UID:2026-09-05T14:00:00/Njarðvík - Afturelding
-DESCRIPTION:Njarðvík - Afturelding - Lengjudeildin
+UID:2026-09-05T14:00:00/Vestri - Þróttur R.
+DESCRIPTION:Vestri - Þróttur R. - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grótta - Völsungur - Lengjudeildin - livey
+DTSTART:20260905T140000
+DTEND:20260905T150000
+DTSTAMP:20260905T140000Z
+UID:2026-09-05T14:00:00/Grótta - Völsungur
+DESCRIPTION:Grótta - Völsungur - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Völsungur - Grótta - Lengjudeildin - livey
@@ -74,19 +66,19 @@ UID:2026-09-05T16:00:00/Tindastóll - KR
 DESCRIPTION:Tindastóll - KR - Lengjudeildin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Selfoss - HK - Lengjudeildin - livey
-DTSTART:20260906T140000
-DTEND:20260906T150000
-DTSTAMP:20260906T140000Z
-UID:2026-09-06T14:00:00/Selfoss - HK
-DESCRIPTION:Selfoss - HK - Lengjudeildin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keflavík - FHL - Lengjudeildin - livey
 DTSTART:20260906T140000
 DTEND:20260906T150000
 DTSTAMP:20260906T140000Z
 UID:2026-09-06T14:00:00/Keflavík - FHL
 DESCRIPTION:Keflavík - FHL - Lengjudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - HK - Lengjudeildin - livey
+DTSTART:20260906T140000
+DTEND:20260906T150000
+DTSTAMP:20260906T140000Z
+UID:2026-09-06T14:00:00/Selfoss - HK
+DESCRIPTION:Selfoss - HK - Lengjudeildin
 END:VEVENT
 END:VCALENDAR
