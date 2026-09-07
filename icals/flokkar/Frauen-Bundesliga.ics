@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Bayern München - Freiburg - Frauen-Bundesliga - viaplay
-DTSTART:20260906T135500
-DTEND:20260906T145500
-DTSTAMP:20260906T135500Z
-UID:2026-09-06T13:55:00/Bayern München - Freiburg
-DESCRIPTION:Bayern München - Freiburg - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Union Berlin - Frankfurt - Frauen-Bundesliga - viaplay
 DTSTART:20260907T155500
 DTEND:20260907T165500
@@ -32,5 +24,13 @@ DTEND:20260912T125500
 DTSTAMP:20260912T115500Z
 UID:2026-09-12T11:55:00/Köln - Union Berlin
 DESCRIPTION:Köln - Union Berlin - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Wolfsburg - Frauen-Bundesliga - viaplay
+DTSTART:20260913T115500
+DTEND:20260913T125500
+DTSTAMP:20260913T115500Z
+UID:2026-09-13T11:55:00/Stuttgart - Wolfsburg
+DESCRIPTION:Stuttgart - Wolfsburg - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR

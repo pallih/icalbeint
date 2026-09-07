@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Greuther Fürth - Heidenheim - 2. Bundesliga - viaplay
-DTSTART:20260906T112500
-DTEND:20260906T122500
-DTSTAMP:20260906T112500Z
-UID:2026-09-06T11:25:00/Greuther Fürth - Heidenheim
-DESCRIPTION:Greuther Fürth - Heidenheim - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Magdeburg - 2. Bundesliga - viaplay
-DTSTART:20260906T112500
-DTEND:20260906T122500
-DTSTAMP:20260906T112500Z
-UID:2026-09-06T11:25:00/Hertha Berlin - Magdeburg
-DESCRIPTION:Hertha Berlin - Magdeburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Osnabrück - Braunschweig - 2. Bundesliga - viaplay
-DTSTART:20260906T112500
-DTEND:20260906T122500
-DTSTAMP:20260906T112500Z
-UID:2026-09-06T11:25:00/Osnabrück - Braunschweig
-DESCRIPTION:Osnabrück - Braunschweig - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nürnberg - Hannover - 2. Bundesliga - viaplay
 DTSTART:20260911T162000
 DTEND:20260911T172000
@@ -40,6 +16,14 @@ DTEND:20260911T172500
 DTSTAMP:20260911T162500Z
 UID:2026-09-11T16:25:00/Darmstadt - Arminia Bielefeld
 DESCRIPTION:Darmstadt - Arminia Bielefeld - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20260912T105500
+DTEND:20260912T115500
+DTSTAMP:20260912T105500Z
+UID:2026-09-12T10:55:00/Bochum - Greuther Fürth
+DESCRIPTION:Bochum - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Braunschweig - Dynamo Dresden - 2. Bundesliga - viaplay
@@ -58,19 +42,35 @@ UID:2026-09-12T10:55:00/Magdeburg - Kaiserslautern
 DESCRIPTION:Magdeburg - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20260912T105500
-DTEND:20260912T115500
-DTSTAMP:20260912T105500Z
-UID:2026-09-12T10:55:00/Bochum - Greuther Fürth
-DESCRIPTION:Bochum - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:St. Pauli - Wolfsburg - 2. Bundesliga - viaplay
 DTSTART:20260912T182500
 DTEND:20260912T192500
 DTSTAMP:20260912T182500Z
 UID:2026-09-12T18:25:00/St. Pauli - Wolfsburg
 DESCRIPTION:St. Pauli - Wolfsburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heidenheim - Holstein Kiel - 2. Bundesliga - viaplay
+DTSTART:20260913T102500
+DTEND:20260913T112500
+DTSTAMP:20260913T102500Z
+UID:2026-09-13T10:25:00/Heidenheim - Holstein Kiel
+DESCRIPTION:Heidenheim - Holstein Kiel - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher - Energie Cottbus - 2. Bundesliga - viaplay
+DTSTART:20260913T112500
+DTEND:20260913T122500
+DTSTAMP:20260913T112500Z
+UID:2026-09-13T11:25:00/Karlsruher - Energie Cottbus
+DESCRIPTION:Karlsruher - Energie Cottbus - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osnabrück - Hertha Berlin - 2. Bundesliga - viaplay
+DTSTART:20260913T112500
+DTEND:20260913T122500
+DTSTAMP:20260913T112500Z
+UID:2026-09-13T11:25:00/Osnabrück - Hertha Berlin
+DESCRIPTION:Osnabrück - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 END:VCALENDAR
