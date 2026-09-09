@@ -18,14 +18,6 @@ UID:2026-09-11T11:30:00/Timing (Spænski Kappaksturinn | Æfing 1)
 DESCRIPTION:Timing (Spænski Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Spænski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20260911T113000
-DTEND:20260911T123000
-DTSTAMP:20260911T113000Z
-UID:2026-09-11T11:30:00/Pitlane (Spænski Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Spænski Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Spænski Kappaksturinn | Æfing 1) - Formula 1 
  - viaplay
 DTSTART:20260911T113000
@@ -45,6 +37,14 @@ UID:2026-09-11T11:30:00/Onboard (Spænski Kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Spænski Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pitlane (Spænski Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20260911T113000
+DTEND:20260911T123000
+DTSTAMP:20260911T113000Z
+UID:2026-09-11T11:30:00/Pitlane (Spænski Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Spænski Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spænski Kappaksturinn (Æfing 2) - Formula 1 - viaplay
 DTSTART:20260911T145500
 DTEND:20260911T155500
@@ -61,6 +61,17 @@ UID:2026-09-11T15:00:00/Pitlane (Spænski Kappaksturinn | Æfing 2)
 DESCRIPTION:Pitlane (Spænski Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Spænski Kappaksturinn | Æfing 2) - Formula 1 
+ - viaplay
+DTSTART:20260911T150000
+DTEND:20260911T160000
+DTSTAMP:20260911T150000Z
+UID:2026-09-11T15:00:00/Track Positioning (Spænski Kappaksturinn | Æfing
+  2)
+DESCRIPTION:Track Positioning (Spænski Kappaksturinn | Æfing 2) - Formul
+ a 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Timing (Spænski Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20260911T150000
 DTEND:20260911T160000
@@ -75,17 +86,6 @@ DTEND:20260911T160000
 DTSTAMP:20260911T150000Z
 UID:2026-09-11T15:00:00/Onboard (Spænski Kappaksturinn | Æfing 2)
 DESCRIPTION:Onboard (Spænski Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Spænski Kappaksturinn | Æfing 2) - Formula 1 
- - viaplay
-DTSTART:20260911T150000
-DTEND:20260911T160000
-DTSTAMP:20260911T150000Z
-UID:2026-09-11T15:00:00/Track Positioning (Spænski Kappaksturinn | Æfing
-  2)
-DESCRIPTION:Track Positioning (Spænski Kappaksturinn | Æfing 2) - Formul
- a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spænski Kappaksturinn (Æfing 3) - Formula 1 - viaplay
@@ -139,15 +139,6 @@ UID:2026-09-12T13:55:00/Spænski Kappaksturinn (Tímatökur)
 DESCRIPTION:Spænski Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Spænski Kappaksturinn | Tímatökur) - Formula 1 - viapl
- ay
-DTSTART:20260912T140000
-DTEND:20260912T150000
-DTSTAMP:20260912T140000Z
-UID:2026-09-12T14:00:00/Pitlane (Spænski Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Spænski Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Spænski Kappaksturinn | Tímatökur) - Formula
   1 - viaplay
 DTSTART:20260912T140000
@@ -157,6 +148,15 @@ UID:2026-09-12T14:00:00/Track Positioning (Spænski Kappaksturinn | Tímat
  ökur)
 DESCRIPTION:Track Positioning (Spænski Kappaksturinn | Tímatökur) - For
  mula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Spænski Kappaksturinn | Tímatökur) - Formula 1 - viapl
+ ay
+DTSTART:20260912T140000
+DTEND:20260912T150000
+DTSTAMP:20260912T140000Z
+UID:2026-09-12T14:00:00/Pitlane (Spænski Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Spænski Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spænski Kappaksturinn (Kappakstur) - Formula 1 - viaplay
@@ -175,15 +175,6 @@ UID:2026-09-13T12:55:00/F1 Kids: Spænski Kappaksturinn (Kappakstur)
 DESCRIPTION:F1 Kids: Spænski Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Spænski Kappaksturinn | Kappakstur) - Formula 1 - viapla
- y
-DTSTART:20260913T130000
-DTEND:20260913T140000
-DTSTAMP:20260913T130000Z
-UID:2026-09-13T13:00:00/Pitlane (Spænski Kappaksturinn | Kappakstur)
-DESCRIPTION:Pitlane (Spænski Kappaksturinn | Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Spænski Kappaksturinn | Kappakstur) - Formula 
  1 - viaplay
 DTSTART:20260913T130000
@@ -195,13 +186,13 @@ DESCRIPTION:Track Positioning (Spænski Kappaksturinn | Kappakstur) - Form
  ula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Spænski Kappaksturinn | Kappakstur) - Formula 1 - viapla
+SUMMARY:Pitlane (Spænski Kappaksturinn | Kappakstur) - Formula 1 - viapla
  y
 DTSTART:20260913T130000
 DTEND:20260913T140000
 DTSTAMP:20260913T130000Z
-UID:2026-09-13T13:00:00/Onboard (Spænski Kappaksturinn | Kappakstur)
-DESCRIPTION:Onboard (Spænski Kappaksturinn | Kappakstur) - Formula 1
+UID:2026-09-13T13:00:00/Pitlane (Spænski Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Spænski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Spænski Kappaksturinn | Kappakstur) - Formula 1 - viaplay
@@ -210,5 +201,14 @@ DTEND:20260913T140000
 DTSTAMP:20260913T130000Z
 UID:2026-09-13T13:00:00/Timing (Spænski Kappaksturinn | Kappakstur)
 DESCRIPTION:Timing (Spænski Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Spænski Kappaksturinn | Kappakstur) - Formula 1 - viapla
+ y
+DTSTART:20260913T130000
+DTEND:20260913T140000
+DTSTAMP:20260913T130000Z
+UID:2026-09-13T13:00:00/Onboard (Spænski Kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Spænski Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 END:VCALENDAR
