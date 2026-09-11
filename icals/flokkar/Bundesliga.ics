@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Lemgo Lippe - Flensburg-Handewitt - Bundesliga - viaplay
-DTSTART:20260910T165500
-DTEND:20260910T175500
-DTSTAMP:20260910T165500Z
-UID:2026-09-10T16:55:00/Lemgo Lippe - Flensburg-Handewitt
-DESCRIPTION:Lemgo Lippe - Flensburg-Handewitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Union Berlin - Schalke - Bundesliga - viaplay
 DTSTART:20260911T182000
 DTEND:20260911T192000
@@ -24,6 +16,14 @@ DTEND:20260912T142000
 DTSTAMP:20260912T132000Z
 UID:2026-09-12T13:20:00/Augsburg - Leverkusen
 DESCRIPTION:Augsburg - Leverkusen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Paderborn - Bundesliga - viaplay
+DTSTART:20260912T132000
+DTEND:20260912T142000
+DTSTAMP:20260912T132000Z
+UID:2026-09-12T13:20:00/Dortmund - Paderborn
+DESCRIPTION:Dortmund - Paderborn - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoffenheim - Stuttgart - Bundesliga - viaplay
@@ -42,14 +42,6 @@ UID:2026-09-12T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20260912T132000
-DTEND:20260912T142000
-DTSTAMP:20260912T132000Z
-UID:2026-09-12T13:20:00/Freiburg - Mönchengladbach
-DESCRIPTION:Freiburg - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mainz - Frankfurt - Bundesliga - viaplay
 DTSTART:20260912T132000
 DTEND:20260912T142000
@@ -58,12 +50,12 @@ UID:2026-09-12T13:20:00/Mainz - Frankfurt
 DESCRIPTION:Mainz - Frankfurt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dortmund - Paderborn - Bundesliga - viaplay
+SUMMARY:Freiburg - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20260912T132000
 DTEND:20260912T142000
 DTSTAMP:20260912T132000Z
-UID:2026-09-12T13:20:00/Dortmund - Paderborn
-DESCRIPTION:Dortmund - Paderborn - Bundesliga
+UID:2026-09-12T13:20:00/Freiburg - Mönchengladbach
+DESCRIPTION:Freiburg - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Werder Bremen - Bundesliga - synsportviaplay
@@ -112,5 +104,14 @@ DTEND:20260913T165500
 DTSTAMP:20260913T155500Z
 UID:2026-09-13T15:55:00/Füchse Berlin - Gummersbach
 DESCRIPTION:Füchse Berlin - Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRISCH AUF! Göppingen - Rhein-Neckar Löwen - Bundesliga - viapla
+ y
+DTSTART:20260917T165500
+DTEND:20260917T175500
+DTSTAMP:20260917T165500Z
+UID:2026-09-17T16:55:00/FRISCH AUF! Göppingen - Rhein-Neckar Löwen
+DESCRIPTION:FRISCH AUF! Göppingen - Rhein-Neckar Löwen - Bundesliga
 END:VEVENT
 END:VCALENDAR
