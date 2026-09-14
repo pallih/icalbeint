@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Frauen-Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Stuttgart - Wolfsburg - Frauen-Bundesliga - viaplay
-DTSTART:20260913T115500
-DTEND:20260913T125500
-DTSTAMP:20260913T115500Z
-UID:2026-09-13T11:55:00/Stuttgart - Wolfsburg
-DESCRIPTION:Stuttgart - Wolfsburg - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leverkusen - Bayern München - Frauen-Bundesliga - viaplay
 DTSTART:20260914T155500
 DTEND:20260914T165500
@@ -32,5 +24,13 @@ DTEND:20260919T125500
 DTSTAMP:20260919T115500Z
 UID:2026-09-19T11:55:00/Bayern München - Köln
 DESCRIPTION:Bayern München - Köln - Frauen-Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Leverkusen - Frauen-Bundesliga - viaplay
+DTSTART:20260920T135500
+DTEND:20260920T145500
+DTSTAMP:20260920T135500Z
+UID:2026-09-20T13:55:00/Freiburg - Leverkusen
+DESCRIPTION:Freiburg - Leverkusen - Frauen-Bundesliga
 END:VEVENT
 END:VCALENDAR
