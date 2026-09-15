@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Bayern München - Bundesliga kvenna - synsportviaplay
-DTSTART:20260914T155000
-DTEND:20260914T165000
-DTSTAMP:20260914T155000Z
-UID:2026-09-14T15:50:00/Leverkusen - Bayern München
-DESCRIPTION:Leverkusen - Bayern München - Bundesliga kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leeds - Newcastle - Premier League - synsport
-DTSTART:20260914T184000
-DTEND:20260914T194000
-DTSTAMP:20260914T184000Z
-UID:2026-09-14T18:40:00/Leeds - Newcastle
-DESCRIPTION:Leeds - Newcastle - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Víkingur R. - Keflavík - Besta deild karla - synsportisland
-DTSTART:20260914T190000
-DTEND:20260914T200000
-DTSTAMP:20260914T190000Z
-UID:2026-09-14T19:00:00/Víkingur R. - Keflavík
-DESCRIPTION:Víkingur R. - Keflavík - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liverpool - Tottenham - Carabao Cup - synsportviaplay
 DTSTART:20260915T185000
 DTEND:20260915T195000
@@ -130,6 +106,14 @@ UID:2026-09-17T16:35:00/Levski Sofia - Salzburg
 DESCRIPTION:Levski Sofia - Salzburg - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Real Sociedad - Bournemouth - Evrópudeildin - synsport
+DTSTART:20260917T185000
+DTEND:20260917T195000
+DTSTAMP:20260917T185000Z
+UID:2026-09-17T18:50:00/Real Sociedad - Bournemouth
+DESCRIPTION:Real Sociedad - Bournemouth - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Celtic - Ferencvaros - Evrópudeildin - synsport2
 DTSTART:20260917T185000
 DTEND:20260917T195000
@@ -144,14 +128,6 @@ DTEND:20260917T195000
 DTSTAMP:20260917T185000Z
 UID:2026-09-17T18:50:00/Juventus - NEC
 DESCRIPTION:Juventus - NEC - Evrópudeildin 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Sociedad - Bournemouth - Evrópudeildin - synsport
-DTSTART:20260917T185000
-DTEND:20260917T195000
-DTSTAMP:20260917T185000Z
-UID:2026-09-17T18:50:00/Real Sociedad - Bournemouth
-DESCRIPTION:Real Sociedad - Bournemouth - Evrópudeildin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breiðablik - Grindavík/Njarðvík - Besta deild kvenna - synspor
@@ -179,20 +155,20 @@ UID:2026-09-18T16:20:00/FH - Stjarnan
 DESCRIPTION:FH - Stjarnan - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍBV - Þróttur R. - Besta deild kvenna - synsportisland2
-DTSTART:20260918T175000
-DTEND:20260918T185000
-DTSTAMP:20260918T175000Z
-UID:2026-09-18T17:50:00/ÍBV - Þróttur R.
-DESCRIPTION:ÍBV - Þróttur R. - Besta deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fram - Víkingur R. - Besta deild kvenna - synsportisland3
 DTSTART:20260918T175000
 DTEND:20260918T185000
 DTSTAMP:20260918T175000Z
 UID:2026-09-18T17:50:00/Fram - Víkingur R.
 DESCRIPTION:Fram - Víkingur R. - Besta deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍBV - Þróttur R. - Besta deild kvenna - synsportisland2
+DTSTART:20260918T175000
+DTEND:20260918T185000
+DTSTAMP:20260918T175000Z
+UID:2026-09-18T17:50:00/ÍBV - Þróttur R.
+DESCRIPTION:ÍBV - Þróttur R. - Besta deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brentford - Chelsea - Premier League - synsport
@@ -219,14 +195,6 @@ UID:2026-09-19T11:10:00/Tottenham - Aston Villa
 DESCRIPTION:Tottenham - Aston Villa - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brighton - Arsenal - Premier League - synsport2
-DTSTART:20260919T134000
-DTEND:20260919T144000
-DTSTAMP:20260919T134000Z
-UID:2026-09-19T13:40:00/Brighton - Arsenal
-DESCRIPTION:Brighton - Arsenal - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20260919T134000
 DTEND:20260919T144000
@@ -251,6 +219,14 @@ UID:2026-09-19T13:40:00/Man. City - Sunderland
 DESCRIPTION:Man. City - Sunderland - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brighton - Arsenal - Premier League - synsport2
+DTSTART:20260919T134000
+DTEND:20260919T144000
+DTSTAMP:20260919T134000Z
+UID:2026-09-19T13:40:00/Brighton - Arsenal
+DESCRIPTION:Brighton - Arsenal - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KR - Víkingur R. - Besta deild karla - synsportisland
 DTSTART:20260919T134500
 DTEND:20260919T144500
@@ -259,20 +235,20 @@ UID:2026-09-19T13:45:00/KR - Víkingur R.
 DESCRIPTION:KR - Víkingur R. - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Ipswich - Premier League - synsport5
-DTSTART:20260919T135000
-DTEND:20260919T145000
-DTSTAMP:20260919T135000Z
-UID:2026-09-19T13:50:00/Everton - Ipswich
-DESCRIPTION:Everton - Ipswich - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Newcastle - Hull - Premier League - synsportisland4
 DTSTART:20260919T135000
 DTEND:20260919T145000
 DTSTAMP:20260919T135000Z
 UID:2026-09-19T13:50:00/Newcastle - Hull
 DESCRIPTION:Newcastle - Hull - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Ipswich - Premier League - synsport5
+DTSTART:20260919T135000
+DTEND:20260919T145000
+DTSTAMP:20260919T135000Z
+UID:2026-09-19T13:50:00/Everton - Ipswich
+DESCRIPTION:Everton - Ipswich - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - Þór/KA - Besta deild kvenna - synsportisland2
@@ -339,14 +315,6 @@ UID:2026-09-20T15:10:00/Fulham - Man. Utd.
 DESCRIPTION:Fulham - Man. Utd. - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Subway messan - Besta deild karla - synsportisland
-DTSTART:20260920T155000
-DTEND:20260920T165000
-DTSTAMP:20260920T155000Z
-UID:2026-09-20T15:50:00/Subway messan
-DESCRIPTION:Subway messan - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍBV - Valur - Besta deild karla - synsportisland5
 DTSTART:20260920T155000
 DTEND:20260920T165000
@@ -355,12 +323,12 @@ UID:2026-09-20T15:50:00/ÍBV - Valur
 DESCRIPTION:ÍBV - Valur - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keflavík - Fram - Besta deild karla - synsportisland4
+SUMMARY:Subway messan - Besta deild karla - synsportisland
 DTSTART:20260920T155000
 DTEND:20260920T165000
 DTSTAMP:20260920T155000Z
-UID:2026-09-20T15:50:00/Keflavík - Fram
-DESCRIPTION:Keflavík - Fram - Besta deild karla
+UID:2026-09-20T15:50:00/Subway messan
+DESCRIPTION:Subway messan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FH - Stjarnan - Besta deild karla - synsportisland3
@@ -371,12 +339,12 @@ UID:2026-09-20T15:50:00/FH - Stjarnan
 DESCRIPTION:FH - Stjarnan - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Patriots - Steelers - NFL - synsport2
-DTSTART:20260920T165500
-DTEND:20260920T175500
-DTSTAMP:20260920T165500Z
-UID:2026-09-20T16:55:00/Patriots - Steelers
-DESCRIPTION:Patriots - Steelers - NFL
+SUMMARY:Keflavík - Fram - Besta deild karla - synsportisland4
+DTSTART:20260920T155000
+DTEND:20260920T165000
+DTSTAMP:20260920T155000Z
+UID:2026-09-20T15:50:00/Keflavík - Fram
+DESCRIPTION:Keflavík - Fram - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NFL Red Zone - NFL - synsport3
@@ -385,6 +353,22 @@ DTEND:20260920T175500
 DTSTAMP:20260920T165500Z
 UID:2026-09-20T16:55:00/NFL Red Zone
 DESCRIPTION:NFL Red Zone - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patriots - Steelers - NFL - synsport2
+DTSTART:20260920T165500
+DTEND:20260920T175500
+DTSTAMP:20260920T165500Z
+UID:2026-09-20T16:55:00/Patriots - Steelers
+DESCRIPTION:Patriots - Steelers - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÍA - Breiðablik - Besta deild karla - synsportisland2
+DTSTART:20260920T172000
+DTEND:20260920T182000
+DTSTAMP:20260920T172000Z
+UID:2026-09-20T17:20:00/ÍA - Breiðablik
+DESCRIPTION:ÍA - Breiðablik - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunnudagsmessan - Premier League - synsport
@@ -409,5 +393,13 @@ DTEND:20260920T212000
 DTSTAMP:20260920T202000Z
 UID:2026-09-20T20:20:00/Cowboys - Commanders
 DESCRIPTION:Cowboys - Commanders - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kappahl-mótið - Sumarmótin - synsportisland
+DTSTART:20260921T134000
+DTEND:20260921T144000
+DTSTAMP:20260921T134000Z
+UID:2026-09-21T13:40:00/Kappahl-mótið
+DESCRIPTION:Kappahl-mótið - Sumarmótin
 END:VEVENT
 END:VCALENDAR
