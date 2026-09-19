@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Brentford - Chelsea - Premier League - synsport
-DTSTART:20260918T184000
-DTEND:20260918T194000
-DTSTAMP:20260918T184000Z
-UID:2026-09-18T18:40:00/Brentford - Chelsea
-DESCRIPTION:Brentford - Chelsea - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tottenham - Aston Villa - Premier League - synsport
 DTSTART:20260919T111000
 DTEND:20260919T121000
@@ -34,20 +26,20 @@ UID:2026-09-19T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everton - Ipswich - Premier League - synsport5
-DTSTART:20260919T135000
-DTEND:20260919T145000
-DTSTAMP:20260919T135000Z
-UID:2026-09-19T13:50:00/Everton - Ipswich
-DESCRIPTION:Everton - Ipswich - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Newcastle - Hull - Premier League - synsport3
 DTSTART:20260919T135000
 DTEND:20260919T145000
 DTSTAMP:20260919T135000Z
 UID:2026-09-19T13:50:00/Newcastle - Hull
 DESCRIPTION:Newcastle - Hull - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everton - Ipswich - Premier League - synsport5
+DTSTART:20260919T135000
+DTEND:20260919T145000
+DTSTAMP:20260919T135000Z
+UID:2026-09-19T13:50:00/Everton - Ipswich
+DESCRIPTION:Everton - Ipswich - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nott. Forest - Coventry - Premier League - synsport
@@ -66,14 +58,6 @@ UID:2026-09-19T18:35:00/Laugardagsmörkin
 DESCRIPTION:Laugardagsmörkin - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Liverpool - Premier League - synsport
-DTSTART:20260920T124000
-DTEND:20260920T134000
-DTSTAMP:20260920T124000Z
-UID:2026-09-20T12:40:00/Bournemouth - Liverpool
-DESCRIPTION:Bournemouth - Liverpool - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leeds - Crystal Palace - Premier League - synsport3
 DTSTART:20260920T124000
 DTEND:20260920T134000
@@ -88,6 +72,14 @@ DTEND:20260920T134000
 DTSTAMP:20260920T124000Z
 UID:2026-09-20T12:40:00/Man. City - Sunderland
 DESCRIPTION:Man. City - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bournemouth - Liverpool - Premier League - synsport
+DTSTART:20260920T124000
+DTEND:20260920T134000
+DTSTAMP:20260920T124000Z
+UID:2026-09-20T12:40:00/Bournemouth - Liverpool
+DESCRIPTION:Bournemouth - Liverpool - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Man. Utd. - Premier League - synsport
