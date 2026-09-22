@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - eurosport - ical
 BEGIN:VEVENT
-SUMMARY:Women U23 ITT | Montreal (39.2km) - UCI Road World Championships -
-  eurosport1
-DTSTART:20260921T125000
-DTEND:20260921T135000
-DTSTAMP:20260921T125000Z
-UID:2026-09-21T12:50:00/Women U23 ITT | Montreal (39.2km)
-DESCRIPTION:Women U23 ITT | Montreal (39.2km) - UCI Road World Championshi
- ps
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men U23 ITT | Montreal (39.2km) - UCI Road World Championships - e
- urosport1
-DTSTART:20260921T155300
-DTEND:20260921T165300
-DTSTAMP:20260921T155300Z
-UID:2026-09-21T15:53:00/Men U23 ITT | Montreal (39.2km)
-DESCRIPTION:Men U23 ITT | Montreal (39.2km) - UCI Road World Championships
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Seget - Split (171.8km) - Cro Race - eurosport1
 DTSTART:20260922T120000
 DTEND:20260922T130000
@@ -86,12 +67,12 @@ DESCRIPTION:U23 Women's Road Race | Montreal (134km) - UCI Road World Cham
  pionships
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidents Cup | Day 1 - Presidents Cup - eurosport2
+SUMMARY:Day 1 Presidents Cup - Presidents Cup - eurosport2
 DTSTART:20260924T163000
 DTEND:20260924T173000
 DTSTAMP:20260924T163000Z
-UID:2026-09-24T16:30:00/Presidents Cup | Day 1
-DESCRIPTION:Presidents Cup | Day 1 - Presidents Cup
+UID:2026-09-24T16:30:00/Day 1 Presidents Cup
+DESCRIPTION:Day 1 Presidents Cup - Presidents Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Junior Men's Road Race | Montreal (134km) - UCI Road World Champio
@@ -120,14 +101,6 @@ UID:2026-09-25T12:00:00/Men | Pula – Rijeka (167.7km)
 DESCRIPTION:Men | Pula – Rijeka (167.7km) - Cro Race
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laver Cup | Match 2 | Day 1 - Tennis - eurosport2
-DTSTART:20260925T140000
-DTEND:20260925T150000
-DTSTAMP:20260925T140000Z
-UID:2026-09-25T14:00:00/Laver Cup | Match 2 | Day 1
-DESCRIPTION:Laver Cup | Match 2 | Day 1 - Tennis
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men's U23 Road Race | Montreal (174.2km) - UCI Road World Champion
  ships - eurosport1
 DTSTART:20260925T140000
@@ -136,6 +109,14 @@ DTSTAMP:20260925T140000Z
 UID:2026-09-25T14:00:00/Men's U23 Road Race | Montreal (174.2km)
 DESCRIPTION:Men's U23 Road Race | Montreal (174.2km) - UCI Road World Cham
  pionships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laver Cup | Match 2 | Day 1 - Tennis - eurosport2
+DTSTART:20260925T140000
+DTEND:20260925T150000
+DTSTAMP:20260925T140000Z
+UID:2026-09-25T14:00:00/Laver Cup | Match 2 | Day 1
+DESCRIPTION:Laver Cup | Match 2 | Day 1 - Tennis
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laver Cup | Match 3 | Day 1 - Tennis - eurosport1
@@ -219,5 +200,91 @@ DTEND:20260926T210000
 DTSTAMP:20260926T200000Z
 UID:2026-09-26T20:00:00/Laver Cup | Match 4 | Day 2
 DESCRIPTION:Laver Cup | Match 4 | Day 2 - Tennis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jinshanling Great Wall Trail - Golden Trail - eurosport2
+DTSTART:20260927T061500
+DTEND:20260927T071500
+DTSTAMP:20260927T061500Z
+UID:2026-09-27T06:15:00/Jinshanling Great Wall Trail
+DESCRIPTION:Jinshanling Great Wall Trail - Golden Trail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Samobor – Zagreb (165.2km) - Cro Race - eurosport1
+DTSTART:20260927T110000
+DTEND:20260927T120000
+DTSTAMP:20260927T110000Z
+UID:2026-09-27T11:00:00/Men | Samobor – Zagreb (165.2km)
+DESCRIPTION:Men | Samobor – Zagreb (165.2km) - Cro Race
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laver Cup | Match 1 | Day 3 - Tennis - eurosport2
+DTSTART:20260927T110000
+DTEND:20260927T120000
+DTSTAMP:20260927T110000Z
+UID:2026-09-27T11:00:00/Laver Cup | Match 1 | Day 3
+DESCRIPTION:Laver Cup | Match 1 | Day 3 - Tennis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men's Elite Road Race | Brossard - Montreal (273.7km) - UCI Road W
+ orld Championships - eurosport1
+DTSTART:20260927T130000
+DTEND:20260927T140000
+DTSTAMP:20260927T130000Z
+UID:2026-09-27T13:00:00/Men's Elite Road Race | Brossard - Montreal (273.7
+ km)
+DESCRIPTION:Men's Elite Road Race | Brossard - Montreal (273.7km) - UCI Ro
+ ad World Championships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laver Cup | Match 2 | Day 3 - Tennis - eurosport2
+DTSTART:20260927T130000
+DTEND:20260927T140000
+DTSTAMP:20260927T130000Z
+UID:2026-09-27T13:00:00/Laver Cup | Match 2 | Day 3
+DESCRIPTION:Laver Cup | Match 2 | Day 3 - Tennis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laver Cup | Match 3 | Day 3 - Tennis - eurosport2
+DTSTART:20260927T150000
+DTEND:20260927T160000
+DTSTAMP:20260927T150000Z
+UID:2026-09-27T15:00:00/Laver Cup | Match 3 | Day 3
+DESCRIPTION:Laver Cup | Match 3 | Day 3 - Tennis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laver Cup | Match 4 | Day 3 - Tennis - eurosport2
+DTSTART:20260927T170000
+DTEND:20260927T180000
+DTSTAMP:20260927T170000Z
+UID:2026-09-27T17:00:00/Laver Cup | Match 4 | Day 3
+DESCRIPTION:Laver Cup | Match 4 | Day 3 - Tennis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presidents Cup | Day 4 - Presidents Cup - eurosport2
+DTSTART:20260927T190000
+DTEND:20260927T200000
+DTSTAMP:20260927T190000Z
+UID:2026-09-27T19:00:00/Presidents Cup | Day 4
+DESCRIPTION:Presidents Cup | Day 4 - Presidents Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women Elite Downhill - Whistler - UCI Mountain Bike World Series -
+  eurosport1
+DTSTART:20260927T200000
+DTEND:20260927T210000
+DTSTAMP:20260927T200000Z
+UID:2026-09-27T20:00:00/Women Elite Downhill - Whistler
+DESCRIPTION:Women Elite Downhill - Whistler - UCI Mountain Bike World Seri
+ es
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men Elite Downhill - Whistler - UCI Mountain Bike World Series - e
+ urosport1
+DTSTART:20260927T210000
+DTEND:20260927T220000
+DTSTAMP:20260927T210000Z
+UID:2026-09-27T21:00:00/Men Elite Downhill - Whistler
+DESCRIPTION:Men Elite Downhill - Whistler - UCI Mountain Bike World Series
 END:VEVENT
 END:VCALENDAR

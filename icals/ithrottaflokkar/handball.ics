@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - handball - ical
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Stuttgart - Bundesliga handbolti - synsportviaplay
-DTSTART:20260921T155500
-DTEND:20260921T165500
-DTSTAMP:20260921T155500Z
-UID:2026-09-21T15:55:00/Werder Bremen - Stuttgart
-DESCRIPTION:Werder Bremen - Stuttgart - Bundesliga handbolti
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fjölnir - ÍR - Powerade bikar karla 2027 - hsi1
 DTSTART:20260922T200000
 DTEND:20260922T210000
@@ -50,14 +42,6 @@ UID:2026-09-24T18:30:00/Stjarnan - Fram
 DESCRIPTION:Stjarnan - Fram - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afturelding - Selfoss - Olís deild karla - hsi1
-DTSTART:20260924T184500
-DTEND:20260924T194500
-DTSTAMP:20260924T184500Z
-UID:2026-09-24T18:45:00/Afturelding - Selfoss
-DESCRIPTION:Afturelding - Selfoss - Olís deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Afturelding - Selfoss - Olís deild karla - livey
 DTSTART:20260924T184500
 DTEND:20260924T194500
@@ -66,7 +50,15 @@ UID:2026-09-24T18:45:00/Afturelding - Selfoss
 DESCRIPTION:Afturelding - Selfoss - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Haukar - Olís deild karla - hsi1
+SUMMARY:Afturelding - Selfoss - Olís deild karla - hsi1
+DTSTART:20260924T184500
+DTEND:20260924T194500
+DTSTAMP:20260924T184500Z
+UID:2026-09-24T18:45:00/Afturelding - Selfoss
+DESCRIPTION:Afturelding - Selfoss - Olís deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FH - Haukar - Olís deild karla - livey
 DTSTART:20260924T193000
 DTEND:20260924T203000
 DTSTAMP:20260924T193000Z
@@ -74,7 +66,7 @@ UID:2026-09-24T19:30:00/FH - Haukar
 DESCRIPTION:FH - Haukar - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FH - Haukar - Olís deild karla - livey
+SUMMARY:FH - Haukar - Olís deild karla - hsi1
 DTSTART:20260924T193000
 DTEND:20260924T203000
 DTSTAMP:20260924T193000Z
@@ -98,7 +90,7 @@ UID:2026-09-25T19:00:00/Víkingur - Þór
 DESCRIPTION:Víkingur - Þór - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Selfoss 2 - Grill 66 deild karla - livey
+SUMMARY:ÍR - Selfoss 2 - Grill 66 deild karla - hsi1
 DTSTART:20260925T193000
 DTEND:20260925T203000
 DTSTAMP:20260925T193000Z
@@ -106,12 +98,12 @@ UID:2026-09-25T19:30:00/ÍR - Selfoss 2
 DESCRIPTION:ÍR - Selfoss 2 - Grill 66 deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - KA - Olís deild karla - livey
+SUMMARY:ÍR - Selfoss 2 - Grill 66 deild karla - livey
 DTSTART:20260925T193000
 DTEND:20260925T203000
 DTSTAMP:20260925T193000Z
-UID:2026-09-25T19:30:00/Valur - KA
-DESCRIPTION:Valur - KA - Olís deild karla
+UID:2026-09-25T19:30:00/ÍR - Selfoss 2
+DESCRIPTION:ÍR - Selfoss 2 - Grill 66 deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Valur - KA - Olís deild karla - hsi1
@@ -122,12 +114,12 @@ UID:2026-09-25T19:30:00/Valur - KA
 DESCRIPTION:Valur - KA - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ÍR - Selfoss 2 - Grill 66 deild karla - hsi1
+SUMMARY:Valur - KA - Olís deild karla - livey
 DTSTART:20260925T193000
 DTEND:20260925T203000
 DTSTAMP:20260925T193000Z
-UID:2026-09-25T19:30:00/ÍR - Selfoss 2
-DESCRIPTION:ÍR - Selfoss 2 - Grill 66 deild karla
+UID:2026-09-25T19:30:00/Valur - KA
+DESCRIPTION:Valur - KA - Olís deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fjölnir - Grótta - Grill 66 deild karla - livey
@@ -170,14 +162,6 @@ UID:2026-09-26T15:55:00/THW Kiel - Flensburg-Handewitt
 DESCRIPTION:THW Kiel - Flensburg-Handewitt - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar 2 - Víkingur 2 - Grill 66 deild karla - livey
-DTSTART:20260926T160000
-DTEND:20260926T170000
-DTSTAMP:20260926T160000Z
-UID:2026-09-26T16:00:00/Haukar 2 - Víkingur 2
-DESCRIPTION:Haukar 2 - Víkingur 2 - Grill 66 deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Haukar 2 - Víkingur 2 - Grill 66 deild karla - hsi1
 DTSTART:20260926T160000
 DTEND:20260926T170000
@@ -186,7 +170,15 @@ UID:2026-09-26T16:00:00/Haukar 2 - Víkingur 2
 DESCRIPTION:Haukar 2 - Víkingur 2 - Grill 66 deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hörður - Valur 2 - Grill 66 deild karla - hsi1
+SUMMARY:Haukar 2 - Víkingur 2 - Grill 66 deild karla - livey
+DTSTART:20260926T160000
+DTEND:20260926T170000
+DTSTAMP:20260926T160000Z
+UID:2026-09-26T16:00:00/Haukar 2 - Víkingur 2
+DESCRIPTION:Haukar 2 - Víkingur 2 - Grill 66 deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hörður - Valur 2 - Grill 66 deild karla - livey
 DTSTART:20260926T170000
 DTEND:20260926T180000
 DTSTAMP:20260926T170000Z
@@ -194,7 +186,7 @@ UID:2026-09-26T17:00:00/Hörður - Valur 2
 DESCRIPTION:Hörður - Valur 2 - Grill 66 deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hörður - Valur 2 - Grill 66 deild karla - livey
+SUMMARY:Hörður - Valur 2 - Grill 66 deild karla - hsi1
 DTSTART:20260926T170000
 DTEND:20260926T180000
 DTSTAMP:20260926T170000Z
@@ -210,7 +202,7 @@ UID:2026-09-27T14:25:00/Gummersbach - Bergischer
 DESCRIPTION:Gummersbach - Bergischer - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HK 2 - Víðir - Grill 66 deild karla - hsi1
+SUMMARY:HK 2 - Víðir - Grill 66 deild karla - livey
 DTSTART:20260927T180000
 DTEND:20260927T190000
 DTSTAMP:20260927T180000Z
@@ -218,7 +210,7 @@ UID:2026-09-27T18:00:00/HK 2 - Víðir
 DESCRIPTION:HK 2 - Víðir - Grill 66 deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HK 2 - Víðir - Grill 66 deild karla - livey
+SUMMARY:HK 2 - Víðir - Grill 66 deild karla - hsi1
 DTSTART:20260927T180000
 DTEND:20260927T190000
 DTSTAMP:20260927T180000Z
