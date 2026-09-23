@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - eurosport - ical
 BEGIN:VEVENT
-SUMMARY:Men | Seget - Split (171.8km) - Cro Race - eurosport1
-DTSTART:20260922T120000
-DTEND:20260922T130000
-DTSTAMP:20260922T120000Z
-UID:2026-09-22T12:00:00/Men | Seget - Split (171.8km)
-DESCRIPTION:Men | Seget - Split (171.8km) - Cro Race
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mixed TTT Relay | Montreal (40.6km) - UCI Road World Championships
-  - eurosport1
-DTSTART:20260922T140000
-DTEND:20260922T150000
-DTSTAMP:20260922T140000Z
-UID:2026-09-22T14:00:00/Mixed TTT Relay | Montreal (40.6km)
-DESCRIPTION:Mixed TTT Relay | Montreal (40.6km) - UCI Road World Champions
- hips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men Junior ITT | Montreal (20.3km) - UCI Road World Championships 
- - eurosport1
-DTSTART:20260922T160500
-DTEND:20260922T170500
-DTSTAMP:20260922T160500Z
-UID:2026-09-22T16:05:00/Men Junior ITT | Montreal (20.3km)
-DESCRIPTION:Men Junior ITT | Montreal (20.3km) - UCI Road World Championsh
- ips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women Junior ITT | Montreal (10.7km) - UCI Road World Championship
- s - eurosport1
-DTSTART:20260922T190500
-DTEND:20260922T200500
-DTSTAMP:20260922T190500Z
-UID:2026-09-22T19:05:00/Women Junior ITT | Montreal (10.7km)
-DESCRIPTION:Women Junior ITT | Montreal (10.7km) - UCI Road World Champion
- ships
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Biograd Na Moru – Novalja (119.5km) - Cro Race - eurosport
  1
 DTSTART:20260923T120000
@@ -127,12 +89,12 @@ UID:2026-09-25T18:00:00/Laver Cup | Match 3 | Day 1
 DESCRIPTION:Laver Cup | Match 3 | Day 1 - Tennis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidents Cup | Day 2 - Presidents Cup - eurosport2
+SUMMARY:Day 2 Presidents Cup - Presidents Cup - eurosport2
 DTSTART:20260925T180000
 DTEND:20260925T190000
 DTSTAMP:20260925T180000Z
-UID:2026-09-25T18:00:00/Presidents Cup | Day 2
-DESCRIPTION:Presidents Cup | Day 2 - Presidents Cup
+UID:2026-09-25T18:00:00/Day 2 Presidents Cup
+DESCRIPTION:Day 2 Presidents Cup - Presidents Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laver Cup | Match 4 | Day 1 - Tennis - eurosport1
@@ -178,12 +140,12 @@ UID:2026-09-26T14:00:00/Laver Cup | Match 2 | Day 2
 DESCRIPTION:Laver Cup | Match 2 | Day 2 - Tennis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidents Cup | Day 3 - Presidents Cup - eurosport2
+SUMMARY:Day 3 Presidents Cup - Presidents Cup - eurosport2
 DTSTART:20260926T160000
 DTEND:20260926T170000
 DTSTAMP:20260926T160000Z
-UID:2026-09-26T16:00:00/Presidents Cup | Day 3
-DESCRIPTION:Presidents Cup | Day 3 - Presidents Cup
+UID:2026-09-26T16:00:00/Day 3 Presidents Cup
+DESCRIPTION:Day 3 Presidents Cup - Presidents Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laver Cup | Match 3 | Day 2 - Tennis - eurosport1
@@ -226,6 +188,14 @@ UID:2026-09-27T11:00:00/Laver Cup | Match 1 | Day 3
 DESCRIPTION:Laver Cup | Match 1 | Day 3 - Tennis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Laver Cup | Match 2 | Day 3 - Tennis - eurosport2
+DTSTART:20260927T130000
+DTEND:20260927T140000
+DTSTAMP:20260927T130000Z
+UID:2026-09-27T13:00:00/Laver Cup | Match 2 | Day 3
+DESCRIPTION:Laver Cup | Match 2 | Day 3 - Tennis
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Men's Elite Road Race | Brossard - Montreal (273.7km) - UCI Road W
  orld Championships - eurosport1
 DTSTART:20260927T130000
@@ -235,14 +205,6 @@ UID:2026-09-27T13:00:00/Men's Elite Road Race | Brossard - Montreal (273.7
  km)
 DESCRIPTION:Men's Elite Road Race | Brossard - Montreal (273.7km) - UCI Ro
  ad World Championships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Laver Cup | Match 2 | Day 3 - Tennis - eurosport2
-DTSTART:20260927T130000
-DTEND:20260927T140000
-DTSTAMP:20260927T130000Z
-UID:2026-09-27T13:00:00/Laver Cup | Match 2 | Day 3
-DESCRIPTION:Laver Cup | Match 2 | Day 3 - Tennis
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laver Cup | Match 3 | Day 3 - Tennis - eurosport2
@@ -261,12 +223,12 @@ UID:2026-09-27T17:00:00/Laver Cup | Match 4 | Day 3
 DESCRIPTION:Laver Cup | Match 4 | Day 3 - Tennis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidents Cup | Day 4 - Presidents Cup - eurosport2
+SUMMARY:Day 4 Presidents Cup - Presidents Cup - eurosport2
 DTSTART:20260927T190000
 DTEND:20260927T200000
 DTSTAMP:20260927T190000Z
-UID:2026-09-27T19:00:00/Presidents Cup | Day 4
-DESCRIPTION:Presidents Cup | Day 4 - Presidents Cup
+UID:2026-09-27T19:00:00/Day 4 Presidents Cup
+DESCRIPTION:Day 4 Presidents Cup - Presidents Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Women Elite Downhill - Whistler - UCI Mountain Bike World Series -
@@ -286,5 +248,30 @@ DTEND:20260927T220000
 DTSTAMP:20260927T210000Z
 UID:2026-09-27T21:00:00/Men Elite Downhill - Whistler
 DESCRIPTION:Men Elite Downhill - Whistler - UCI Mountain Bike World Series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Taiping - Gunung Jerai (145.6km) - Tour of Langkawi - eurosp
+ ort2
+DTSTART:20260928T060000
+DTEND:20260928T070000
+DTSTAMP:20260928T060000Z
+UID:2026-09-28T06:00:00/Men | Taiping - Gunung Jerai (145.6km)
+DESCRIPTION:Men | Taiping - Gunung Jerai (145.6km) - Tour of Langkawi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shenzhen Open | Round 1 - Snooker - eurosport1
+DTSTART:20260928T060000
+DTEND:20260928T070000
+DTSTAMP:20260928T060000Z
+UID:2026-09-28T06:00:00/Shenzhen Open | Round 1
+DESCRIPTION:Shenzhen Open | Round 1 - Snooker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shenzhen Open | Round 2 - Snooker - eurosport1
+DTSTART:20260928T113000
+DTEND:20260928T123000
+DTSTAMP:20260928T113000Z
+UID:2026-09-28T11:30:00/Shenzhen Open | Round 2
+DESCRIPTION:Shenzhen Open | Round 2 - Snooker
 END:VEVENT
 END:VCALENDAR
