@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Dodgers - Padres - Major League Baseball - viaplay
-DTSTART:20260923T020000
-DTEND:20260923T030000
-DTSTAMP:20260923T020000Z
-UID:2026-09-23T02:00:00/Dodgers - Padres
-DESCRIPTION:Dodgers - Padres - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gíbraltar - São Tomé og Príncipe - Landsleikur - viaplay
-DTSTART:20260923T155000
-DTEND:20260923T165000
-DTSTAMP:20260923T155000Z
-UID:2026-09-23T15:50:00/Gíbraltar - São Tomé og Príncipe
-DESCRIPTION:Gíbraltar - São Tomé og Príncipe - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aserbaísjan - Tadsjikistan - Landsleikur - viaplay
-DTSTART:20260923T155000
-DTEND:20260923T165000
-DTSTAMP:20260923T155000Z
-UID:2026-09-23T15:50:00/Aserbaísjan - Tadsjikistan
-DESCRIPTION:Aserbaísjan - Tadsjikistan - Landsleikur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tigers - Nationals - Major League Baseball - viaplay
-DTSTART:20260923T170000
-DTEND:20260923T180000
-DTSTAMP:20260923T170000Z
-UID:2026-09-23T17:00:00/Tigers - Nationals
-DESCRIPTION:Tigers - Nationals - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phillies - Brewers - Major League Baseball - viaplay
-DTSTART:20260923T223000
-DTEND:20260923T233000
-DTSTAMP:20260923T223000Z
-UID:2026-09-23T22:30:00/Phillies - Brewers
-DESCRIPTION:Phillies - Brewers - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aserbaísjan Kappaksturinn (Æfing 1) - Formula 1 - viaplay
 DTSTART:20260924T082000
 DTEND:20260924T092000
@@ -50,15 +10,13 @@ UID:2026-09-24T08:20:00/Aserbaísjan Kappaksturinn (Æfing 1)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Aserbaísjan Kappaksturinn | Æfing 1) - Formul
- a 1 - viaplay
+SUMMARY:Onboard (Aserbaísjan Kappaksturinn | Æfing 1) - Formula 1 - viap
+ lay
 DTSTART:20260924T083000
 DTEND:20260924T093000
 DTSTAMP:20260924T083000Z
-UID:2026-09-24T08:30:00/Track Positioning (Aserbaísjan Kappaksturinn | Æ
- fing 1)
-DESCRIPTION:Track Positioning (Aserbaísjan Kappaksturinn | Æfing 1) - Fo
- rmula 1
+UID:2026-09-24T08:30:00/Onboard (Aserbaísjan Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Aserbaísjan Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Aserbaísjan Kappaksturinn | Æfing 1) - Formula 1 - viap
@@ -70,13 +28,15 @@ UID:2026-09-24T08:30:00/Pitlane (Aserbaísjan Kappaksturinn | Æfing 1)
 DESCRIPTION:Pitlane (Aserbaísjan Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Aserbaísjan Kappaksturinn | Æfing 1) - Formula 1 - viap
- lay
+SUMMARY:Track Positioning (Aserbaísjan Kappaksturinn | Æfing 1) - Formul
+ a 1 - viaplay
 DTSTART:20260924T083000
 DTEND:20260924T093000
 DTSTAMP:20260924T083000Z
-UID:2026-09-24T08:30:00/Onboard (Aserbaísjan Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Aserbaísjan Kappaksturinn | Æfing 1) - Formula 1
+UID:2026-09-24T08:30:00/Track Positioning (Aserbaísjan Kappaksturinn | Æ
+ fing 1)
+DESCRIPTION:Track Positioning (Aserbaísjan Kappaksturinn | Æfing 1) - Fo
+ rmula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Aserbaísjan Kappaksturinn | Æfing 1) - Formula 1 - viapl
@@ -121,15 +81,6 @@ UID:2026-09-24T12:00:00/Pitlane (Aserbaísjan Kappaksturinn | Æfing 2)
 DESCRIPTION:Pitlane (Aserbaísjan Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Aserbaísjan Kappaksturinn | Æfing 2) - Formula 1 - viapl
- ay
-DTSTART:20260924T120000
-DTEND:20260924T130000
-DTSTAMP:20260924T120000Z
-UID:2026-09-24T12:00:00/Timing (Aserbaísjan Kappaksturinn | Æfing 2)
-DESCRIPTION:Timing (Aserbaísjan Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Aserbaísjan Kappaksturinn | Æfing 2) - Formul
  a 1 - viaplay
 DTSTART:20260924T120000
@@ -139,6 +90,15 @@ UID:2026-09-24T12:00:00/Track Positioning (Aserbaísjan Kappaksturinn | Æ
  fing 2)
 DESCRIPTION:Track Positioning (Aserbaísjan Kappaksturinn | Æfing 2) - Fo
  rmula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Aserbaísjan Kappaksturinn | Æfing 2) - Formula 1 - viapl
+ ay
+DTSTART:20260924T120000
+DTEND:20260924T130000
+DTSTAMP:20260924T120000Z
+UID:2026-09-24T12:00:00/Timing (Aserbaísjan Kappaksturinn | Æfing 2)
+DESCRIPTION:Timing (Aserbaísjan Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andorra - Malta - UEFA Nations League - viaplay
@@ -165,14 +125,6 @@ UID:2026-09-24T18:00:00/Cubs - Marlins
 DESCRIPTION:Cubs - Marlins - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Instant Highlights - UEFA Nations League - viaplay
-DTSTART:20260924T183000
-DTEND:20260924T193000
-DTSTAMP:20260924T183000Z
-UID:2026-09-24T18:30:00/Instant Highlights
-DESCRIPTION:Instant Highlights - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Noregur - Danmörk - UEFA Nations League - viaplay
 DTSTART:20260924T183000
 DTEND:20260924T193000
@@ -181,20 +133,20 @@ UID:2026-09-24T18:30:00/Noregur - Danmörk
 DESCRIPTION:Noregur - Danmörk - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Instant Highlights - UEFA Nations League - viaplay
+DTSTART:20260924T183000
+DTEND:20260924T193000
+DTSTAMP:20260924T183000Z
+UID:2026-09-24T18:30:00/Instant Highlights
+DESCRIPTION:Instant Highlights - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Liechtenstein - Litháen - UEFA Nations League - viaplay
 DTSTART:20260924T183500
 DTEND:20260924T193500
 DTSTAMP:20260924T183500Z
 UID:2026-09-24T18:35:00/Liechtenstein - Litháen
 DESCRIPTION:Liechtenstein - Litháen - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holland - Þýskaland - UEFA Nations League - viaplay
-DTSTART:20260924T183500
-DTEND:20260924T193500
-DTSTAMP:20260924T183500Z
-UID:2026-09-24T18:35:00/Holland - Þýskaland
-DESCRIPTION:Holland - Þýskaland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kósovó - Írland - UEFA Nations League - viaplay
@@ -227,6 +179,14 @@ DTEND:20260924T193500
 DTSTAMP:20260924T183500Z
 UID:2026-09-24T18:35:00/Serbía - Grikkland
 DESCRIPTION:Serbía - Grikkland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holland - Þýskaland - UEFA Nations League - viaplay
+DTSTART:20260924T183500
+DTEND:20260924T193500
+DTSTAMP:20260924T183500Z
+UID:2026-09-24T18:35:00/Holland - Þýskaland
+DESCRIPTION:Holland - Þýskaland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Sox - Guardians - Major League Baseball - viaplay
@@ -263,6 +223,15 @@ UID:2026-09-25T08:25:00/Aserbaísjan Kappaksturinn (Æfing 3)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1 - viap
+ lay
+DTSTART:20260925T083000
+DTEND:20260925T093000
+DTSTAMP:20260925T083000Z
+UID:2026-09-25T08:30:00/Onboard (Aserbaísjan Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Aserbaísjan Kappaksturinn | Æfing 3) - Formul
  a 1 - viaplay
 DTSTART:20260925T083000
@@ -274,13 +243,13 @@ DESCRIPTION:Track Positioning (Aserbaísjan Kappaksturinn | Æfing 3) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1 - viap
- lay
+SUMMARY:Timing (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1 - viapl
+ ay
 DTSTART:20260925T083000
 DTEND:20260925T093000
 DTSTAMP:20260925T083000Z
-UID:2026-09-25T08:30:00/Onboard (Aserbaísjan Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1
+UID:2026-09-25T08:30:00/Timing (Aserbaísjan Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1 - viap
@@ -292,15 +261,6 @@ UID:2026-09-25T08:30:00/Pitlane (Aserbaísjan Kappaksturinn | Æfing 3)
 DESCRIPTION:Pitlane (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1 - viapl
- ay
-DTSTART:20260925T083000
-DTEND:20260925T093000
-DTSTAMP:20260925T083000Z
-UID:2026-09-25T08:30:00/Timing (Aserbaísjan Kappaksturinn | Æfing 3)
-DESCRIPTION:Timing (Aserbaísjan Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Baku (Kappakstur 1) - Formula 2 - viaplay
 DTSTART:20260925T101000
 DTEND:20260925T111000
@@ -310,10 +270,10 @@ DESCRIPTION:Baku (Kappakstur 1) - Formula 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aserbaísjan Kappaksturinn (Tímatökur) - Formula 1 - viaplay
-DTSTART:20260925T115500
-DTEND:20260925T125500
-DTSTAMP:20260925T115500Z
-UID:2026-09-25T11:55:00/Aserbaísjan Kappaksturinn (Tímatökur)
+DTSTART:20260925T114500
+DTEND:20260925T124500
+DTSTAMP:20260925T114500Z
+UID:2026-09-25T11:45:00/Aserbaísjan Kappaksturinn (Tímatökur)
 DESCRIPTION:Aserbaísjan Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
@@ -337,13 +297,13 @@ UID:2026-09-25T12:00:00/Onboard (Aserbaísjan Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Aserbaísjan Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Aserbaísjan Kappaksturinn | Tímatökur) - Formula 1 - vi
- aplay
+SUMMARY:Pitlane (Aserbaísjan Kappaksturinn | Tímatökur) - Formula 1 - v
+ iaplay
 DTSTART:20260925T120000
 DTEND:20260925T130000
 DTSTAMP:20260925T120000Z
-UID:2026-09-25T12:00:00/Timing (Aserbaísjan Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Aserbaísjan Kappaksturinn | Tímatökur) - Formula 1
+UID:2026-09-25T12:00:00/Pitlane (Aserbaísjan Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Aserbaísjan Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
@@ -354,13 +314,13 @@ UID:2026-09-25T12:00:00/UEFA Nations League: Highlights
 DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Aserbaísjan Kappaksturinn | Tímatökur) - Formula 1 - v
- iaplay
+SUMMARY:Timing (Aserbaísjan Kappaksturinn | Tímatökur) - Formula 1 - vi
+ aplay
 DTSTART:20260925T120000
 DTEND:20260925T130000
 DTSTAMP:20260925T120000Z
-UID:2026-09-25T12:00:00/Pitlane (Aserbaísjan Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Aserbaísjan Kappaksturinn | Tímatökur) - Formula 1
+UID:2026-09-25T12:00:00/Timing (Aserbaísjan Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Aserbaísjan Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Italian Round (Tissot Superpole) - FIM Sportbike World Championshi
@@ -393,20 +353,20 @@ DESCRIPTION:Italian Round (Tissot Superpole) - FIM Supersport World Champi
  onship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Armenía - Lettland - UEFA Nations League - viaplay
-DTSTART:20260925T155000
-DTEND:20260925T165000
-DTSTAMP:20260925T155000Z
-UID:2026-09-25T15:50:00/Armenía - Lettland
-DESCRIPTION:Armenía - Lettland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Georgía - Norður-Írland - UEFA Nations League - viaplay
 DTSTART:20260925T155000
 DTEND:20260925T165000
 DTSTAMP:20260925T155000Z
 UID:2026-09-25T15:50:00/Georgía - Norður-Írland
 DESCRIPTION:Georgía - Norður-Írland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Armenía - Lettland - UEFA Nations League - viaplay
+DTSTART:20260925T155000
+DTEND:20260925T165000
+DTSTAMP:20260925T155000Z
+UID:2026-09-25T15:50:00/Armenía - Lettland
+DESCRIPTION:Armenía - Lettland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - UEFA Nations League - viaplay
@@ -417,12 +377,37 @@ UID:2026-09-25T18:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ítalía - Belgía - UEFA Nations League - viaplay
+DTSTART:20260925T183500
+DTEND:20260925T193500
+DTSTAMP:20260925T183500Z
+UID:2026-09-25T18:35:00/Ítalía - Belgía
+DESCRIPTION:Ítalía - Belgía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tyrkland - Frakkland - UEFA Nations League - viaplay
+DTSTART:20260925T183500
+DTEND:20260925T193500
+DTSTAMP:20260925T183500Z
+UID:2026-09-25T18:35:00/Tyrkland - Frakkland
+DESCRIPTION:Tyrkland - Frakkland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ungverjaland - Úkraína - UEFA Nations League - viaplay
 DTSTART:20260925T183500
 DTEND:20260925T193500
 DTSTAMP:20260925T183500Z
 UID:2026-09-25T18:35:00/Ungverjaland - Úkraína
 DESCRIPTION:Ungverjaland - Úkraína - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pólland - Bosnía og Hersegóvína - UEFA Nations League - viapla
+ y
+DTSTART:20260925T183500
+DTEND:20260925T193500
+DTSTAMP:20260925T183500Z
+UID:2026-09-25T18:35:00/Pólland - Bosnía og Hersegóvína
+DESCRIPTION:Pólland - Bosnía og Hersegóvína - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Svíþjóð - Rúmenía - UEFA Nations League - viaplay
@@ -439,31 +424,6 @@ DTEND:20260925T193500
 DTSTAMP:20260925T183500Z
 UID:2026-09-25T18:35:00/Svartfjallaland - Kýpur
 DESCRIPTION:Svartfjallaland - Kýpur - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pólland - Bosnía og Hersegóvína - UEFA Nations League - viapla
- y
-DTSTART:20260925T183500
-DTEND:20260925T193500
-DTSTAMP:20260925T183500Z
-UID:2026-09-25T18:35:00/Pólland - Bosnía og Hersegóvína
-DESCRIPTION:Pólland - Bosnía og Hersegóvína - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tyrkland - Frakkland - UEFA Nations League - viaplay
-DTSTART:20260925T183500
-DTEND:20260925T193500
-DTSTAMP:20260925T183500Z
-UID:2026-09-25T18:35:00/Tyrkland - Frakkland
-DESCRIPTION:Tyrkland - Frakkland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ítalía - Belgía - UEFA Nations League - viaplay
-DTSTART:20260925T183500
-DTEND:20260925T193500
-DTSTAMP:20260925T183500Z
-UID:2026-09-25T18:35:00/Ítalía - Belgía
-DESCRIPTION:Ítalía - Belgía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phillies - Rays - Major League Baseball - viaplay
@@ -536,13 +496,15 @@ DESCRIPTION:Italian Round (Kappakstur 1) - FIM Sportbike World Championshi
  p
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Aserbaísjan Kappaksturinn | Kappakstur) - Formula 1 - vi
- aplay
+SUMMARY:Track Positioning (Aserbaísjan Kappaksturinn | Kappakstur) - Form
+ ula 1 - viaplay
 DTSTART:20260926T110000
 DTEND:20260926T120000
 DTSTAMP:20260926T110000Z
-UID:2026-09-26T11:00:00/Pitlane (Aserbaísjan Kappaksturinn | Kappakstur)
-DESCRIPTION:Pitlane (Aserbaísjan Kappaksturinn | Kappakstur) - Formula 1
+UID:2026-09-26T11:00:00/Track Positioning (Aserbaísjan Kappaksturinn | Ka
+ ppakstur)
+DESCRIPTION:Track Positioning (Aserbaísjan Kappaksturinn | Kappakstur) - 
+ Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Aserbaísjan Kappaksturinn | Kappakstur) - Formula 1 - via
@@ -563,15 +525,13 @@ UID:2026-09-26T11:00:00/Onboard (Aserbaísjan Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Aserbaísjan Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Aserbaísjan Kappaksturinn | Kappakstur) - Form
- ula 1 - viaplay
+SUMMARY:Pitlane (Aserbaísjan Kappaksturinn | Kappakstur) - Formula 1 - vi
+ aplay
 DTSTART:20260926T110000
 DTEND:20260926T120000
 DTSTAMP:20260926T110000Z
-UID:2026-09-26T11:00:00/Track Positioning (Aserbaísjan Kappaksturinn | Ka
- ppakstur)
-DESCRIPTION:Track Positioning (Aserbaísjan Kappaksturinn | Kappakstur) - 
- Formula 1
+UID:2026-09-26T11:00:00/Pitlane (Aserbaísjan Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Aserbaísjan Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
@@ -582,16 +542,6 @@ UID:2026-09-26T11:30:00/UEFA Nations League: Highlights
 DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Italian Round (Kappakstur 1) - FIM Supersport World Championship -
-  viaplay
-DTSTART:20260926T115500
-DTEND:20260926T125500
-DTSTAMP:20260926T115500Z
-UID:2026-09-26T11:55:00/Italian Round (Kappakstur 1)
-DESCRIPTION:Italian Round (Kappakstur 1) - FIM Supersport World Championsh
- ip
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le Mans (Kappakstur 1) - FIA European Truck Racing Championship - 
  viaplay
 DTSTART:20260926T115500
@@ -600,6 +550,16 @@ DTSTAMP:20260926T115500Z
 UID:2026-09-26T11:55:00/Le Mans (Kappakstur 1)
 DESCRIPTION:Le Mans (Kappakstur 1) - FIA European Truck Racing Championshi
  p
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Italian Round (Kappakstur 1) - FIM Supersport World Championship -
+  viaplay
+DTSTART:20260926T115500
+DTEND:20260926T125500
+DTSTAMP:20260926T115500Z
+UID:2026-09-26T11:55:00/Italian Round (Kappakstur 1)
+DESCRIPTION:Italian Round (Kappakstur 1) - FIM Supersport World Championsh
+ ip
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slóvenía - Skotland - UEFA Nations League - viaplay
@@ -686,20 +646,20 @@ UID:2026-09-26T15:50:00/Færeyjar - Kasakstan
 DESCRIPTION:Færeyjar - Kasakstan - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Búlgaría - Lúxemborg - UEFA Nations League - viaplay
-DTSTART:20260926T155000
-DTEND:20260926T165000
-DTSTAMP:20260926T155000Z
-UID:2026-09-26T15:50:00/Búlgaría - Lúxemborg
-DESCRIPTION:Búlgaría - Lúxemborg - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Marínó - Finnland - UEFA Nations League - viaplay
 DTSTART:20260926T155000
 DTEND:20260926T165000
 DTSTAMP:20260926T155000Z
 UID:2026-09-26T15:50:00/San Marínó - Finnland
 DESCRIPTION:San Marínó - Finnland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Búlgaría - Lúxemborg - UEFA Nations League - viaplay
+DTSTART:20260926T155000
+DTEND:20260926T165000
+DTSTAMP:20260926T155000Z
+UID:2026-09-26T15:50:00/Búlgaría - Lúxemborg
+DESCRIPTION:Búlgaría - Lúxemborg - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Växjö - HV71 - SHL - viaplay
@@ -734,6 +694,22 @@ UID:2026-09-26T18:00:00/Champions League weekly
 DESCRIPTION:Champions League weekly - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tékkland - Króatía - UEFA Nations League - viaplay
+DTSTART:20260926T183500
+DTEND:20260926T193500
+DTSTAMP:20260926T183500Z
+UID:2026-09-26T18:35:00/Tékkland - Króatía
+DESCRIPTION:Tékkland - Króatía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slóvakía - Moldóva - UEFA Nations League - viaplay
+DTSTART:20260926T183500
+DTEND:20260926T193500
+DTSTAMP:20260926T183500Z
+UID:2026-09-26T18:35:00/Slóvakía - Moldóva
+DESCRIPTION:Slóvakía - Moldóva - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:England - Spánn - UEFA Nations League - viaplay
 DTSTART:20260926T183500
 DTEND:20260926T193500
@@ -756,22 +732,6 @@ DTEND:20260926T193500
 DTSTAMP:20260926T183500Z
 UID:2026-09-26T18:35:00/Albanía - Hvíta-Rússland
 DESCRIPTION:Albanía - Hvíta-Rússland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tékkland - Króatía - UEFA Nations League - viaplay
-DTSTART:20260926T183500
-DTEND:20260926T193500
-DTSTAMP:20260926T183500Z
-UID:2026-09-26T18:35:00/Tékkland - Króatía
-DESCRIPTION:Tékkland - Króatía - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slóvakía - Moldóva - UEFA Nations League - viaplay
-DTSTART:20260926T183500
-DTEND:20260926T193500
-DTSTAMP:20260926T183500Z
-UID:2026-09-26T18:35:00/Slóvakía - Moldóva
-DESCRIPTION:Slóvakía - Moldóva - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marlins - Braves - Major League Baseball - viaplay
@@ -844,10 +804,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Italian Round (Kappakstur 2) - FIM Sportbike World Championship - 
  viaplay
-DTSTART:20260927T110000
-DTEND:20260927T120000
-DTSTAMP:20260927T110000Z
-UID:2026-09-27T11:00:00/Italian Round (Kappakstur 2)
+DTSTART:20260927T105500
+DTEND:20260927T115500
+DTSTAMP:20260927T105500Z
+UID:2026-09-27T10:55:00/Italian Round (Kappakstur 2)
 DESCRIPTION:Italian Round (Kappakstur 2) - FIM Sportbike World Championshi
  p
 END:VEVENT
@@ -864,20 +824,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Italian Round (Kappakstur 2) - FIM Supersport World Championship -
   viaplay
-DTSTART:20260927T120000
-DTEND:20260927T130000
-DTSTAMP:20260927T120000Z
-UID:2026-09-27T12:00:00/Italian Round (Kappakstur 2)
+DTSTART:20260927T115500
+DTEND:20260927T125500
+DTSTAMP:20260927T115500Z
+UID:2026-09-27T11:55:00/Italian Round (Kappakstur 2)
 DESCRIPTION:Italian Round (Kappakstur 2) - FIM Supersport World Championsh
  ip
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach  - Bayern München - DFB-Pokal Frauen - viaplay
-DTSTART:20260927T125000
-DTEND:20260927T135000
-DTSTAMP:20260927T125000Z
-UID:2026-09-27T12:50:00/Mönchengladbach  - Bayern München
-DESCRIPTION:Mönchengladbach  - Bayern München - DFB-Pokal Frauen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Litháen - Aserbaísjan - UEFA Nations League - viaplay
@@ -888,12 +840,20 @@ UID:2026-09-27T12:50:00/Litháen - Aserbaísjan
 DESCRIPTION:Litháen - Aserbaísjan - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mönchengladbach  - Bayern München - DFB-Pokal Frauen - viaplay
+DTSTART:20260927T125500
+DTEND:20260927T135500
+DTSTAMP:20260927T125500Z
+UID:2026-09-27T12:55:00/Mönchengladbach  - Bayern München
+DESCRIPTION:Mönchengladbach  - Bayern München - DFB-Pokal Frauen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Italian Round (Kappakstur 2) - FIM Superbike World Championship - 
  viaplay
-DTSTART:20260927T133000
-DTEND:20260927T143000
-DTSTAMP:20260927T133000Z
-UID:2026-09-27T13:30:00/Italian Round (Kappakstur 2)
+DTSTART:20260927T132500
+DTEND:20260927T142500
+DTSTAMP:20260927T132500Z
+UID:2026-09-27T13:25:00/Italian Round (Kappakstur 2)
 DESCRIPTION:Italian Round (Kappakstur 2) - FIM Superbike World Championshi
  p
 END:VEVENT
@@ -924,14 +884,6 @@ UID:2026-09-27T15:45:00/Instant Highlights
 DESCRIPTION:Instant Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austurríki - Kósovó - UEFA Nations League - viaplay
-DTSTART:20260927T155000
-DTEND:20260927T165000
-DTSTAMP:20260927T155000Z
-UID:2026-09-27T15:50:00/Austurríki - Kósovó
-DESCRIPTION:Austurríki - Kósovó - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Danmörk - Wales - UEFA Nations League - viaplay
 DTSTART:20260927T155000
 DTEND:20260927T165000
@@ -940,12 +892,12 @@ UID:2026-09-27T15:50:00/Danmörk - Wales
 DESCRIPTION:Danmörk - Wales - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Serbía - Holland - UEFA Nations League - viaplay
+SUMMARY:Austurríki - Kósovó - UEFA Nations League - viaplay
 DTSTART:20260927T155000
 DTEND:20260927T165000
 DTSTAMP:20260927T155000Z
-UID:2026-09-27T15:50:00/Serbía - Holland
-DESCRIPTION:Serbía - Holland - UEFA Nations League
+UID:2026-09-27T15:50:00/Austurríki - Kósovó
+DESCRIPTION:Austurríki - Kósovó - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gíbraltar - Andorra - UEFA Nations League - viaplay
@@ -954,6 +906,14 @@ DTEND:20260927T165000
 DTSTAMP:20260927T155000Z
 UID:2026-09-27T15:50:00/Gíbraltar - Andorra
 DESCRIPTION:Gíbraltar - Andorra - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serbía - Holland - UEFA Nations League - viaplay
+DTSTART:20260927T155000
+DTEND:20260927T165000
+DTSTAMP:20260927T155000Z
+UID:2026-09-27T15:50:00/Serbía - Holland
+DESCRIPTION:Serbía - Holland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barber Motorsports Park (Kappakstur) - GT World Challenge America 
@@ -974,6 +934,14 @@ UID:2026-09-27T16:20:00/Malta - Liechtenstein
 DESCRIPTION:Malta - Liechtenstein - Landsleikur
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Noregur - Portúgal - UEFA Nations League - viaplay
+DTSTART:20260927T183500
+DTEND:20260927T193500
+DTSTAMP:20260927T183500Z
+UID:2026-09-27T18:35:00/Noregur - Portúgal
+DESCRIPTION:Noregur - Portúgal - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ísrael - Írland - UEFA Nations League - viaplay
 DTSTART:20260927T183500
 DTEND:20260927T193500
@@ -988,14 +956,6 @@ DTEND:20260927T193500
 DTSTAMP:20260927T183500Z
 UID:2026-09-27T18:35:00/Þýskaland - Grikkland
 DESCRIPTION:Þýskaland - Grikkland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noregur - Portúgal - UEFA Nations League - viaplay
-DTSTART:20260927T183500
-DTEND:20260927T193500
-DTSTAMP:20260927T183500Z
-UID:2026-09-27T18:35:00/Noregur - Portúgal
-DESCRIPTION:Noregur - Portúgal - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Sox - Cubs - Major League Baseball - viaplay
@@ -1022,12 +982,12 @@ UID:2026-09-28T15:45:00/Instant Highlights
 DESCRIPTION:Instant Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgía - Úkraína - UEFA Nations League - viaplay
+SUMMARY:Lettland - Kýpur - UEFA Nations League - viaplay
 DTSTART:20260928T155000
 DTEND:20260928T165000
 DTSTAMP:20260928T155000Z
-UID:2026-09-28T15:50:00/Georgía - Úkraína
-DESCRIPTION:Georgía - Úkraína - UEFA Nations League
+UID:2026-09-28T15:50:00/Lettland - Kýpur
+DESCRIPTION:Lettland - Kýpur - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Armenía - Svartfjallaland - UEFA Nations League - viaplay
@@ -1038,12 +998,12 @@ UID:2026-09-28T15:50:00/Armenía - Svartfjallaland
 DESCRIPTION:Armenía - Svartfjallaland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lettland - Kýpur - UEFA Nations League - viaplay
+SUMMARY:Georgía - Úkraína - UEFA Nations League - viaplay
 DTSTART:20260928T155000
 DTEND:20260928T165000
 DTSTAMP:20260928T155000Z
-UID:2026-09-28T15:50:00/Lettland - Kýpur
-DESCRIPTION:Lettland - Kýpur - UEFA Nations League
+UID:2026-09-28T15:50:00/Georgía - Úkraína
+DESCRIPTION:Georgía - Úkraína - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Grand Prix of Darts 2026 - PDC Darts - viaplay
@@ -1079,20 +1039,20 @@ UID:2026-09-28T18:35:00/Tyrkland - Ítalía
 DESCRIPTION:Tyrkland - Ítalía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belgía - Frakkland - UEFA Nations League - viaplay
-DTSTART:20260928T183500
-DTEND:20260928T193500
-DTSTAMP:20260928T183500Z
-UID:2026-09-28T18:35:00/Belgía - Frakkland
-DESCRIPTION:Belgía - Frakkland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Svíþjóð - Pólland - UEFA Nations League - viaplay
 DTSTART:20260928T183500
 DTEND:20260928T193500
 DTSTAMP:20260928T183500Z
 UID:2026-09-28T18:35:00/Svíþjóð - Pólland
 DESCRIPTION:Svíþjóð - Pólland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belgía - Frakkland - UEFA Nations League - viaplay
+DTSTART:20260928T183500
+DTEND:20260928T193500
+DTSTAMP:20260928T183500Z
+UID:2026-09-28T18:35:00/Belgía - Frakkland
+DESCRIPTION:Belgía - Frakkland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
@@ -1103,20 +1063,20 @@ UID:2026-09-29T12:00:00/UEFA Nations League: Highlights
 DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Finnland - Hvíta-Rússland - UEFA Nations League - viaplay
-DTSTART:20260929T155000
-DTEND:20260929T165000
-DTSTAMP:20260929T155000Z
-UID:2026-09-29T15:50:00/Finnland - Hvíta-Rússland
-DESCRIPTION:Finnland - Hvíta-Rússland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Moldóva - Færeyjar - UEFA Nations League - viaplay
 DTSTART:20260929T155000
 DTEND:20260929T165000
 DTSTAMP:20260929T155000Z
 UID:2026-09-29T15:50:00/Moldóva - Færeyjar
 DESCRIPTION:Moldóva - Færeyjar - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finnland - Hvíta-Rússland - UEFA Nations League - viaplay
+DTSTART:20260929T155000
+DTEND:20260929T165000
+DTSTAMP:20260929T155000Z
+UID:2026-09-29T15:50:00/Finnland - Hvíta-Rússland
+DESCRIPTION:Finnland - Hvíta-Rússland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skellefteå - Luleå - SHL - viaplay
@@ -1167,14 +1127,6 @@ UID:2026-09-29T18:35:00/Slóvakía - Kasakstan
 DESCRIPTION:Slóvakía - Kasakstan - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Búlgaría - Eistland - UEFA Nations League - viaplay
-DTSTART:20260929T183500
-DTEND:20260929T193500
-DTSTAMP:20260929T183500Z
-UID:2026-09-29T18:35:00/Búlgaría - Eistland
-DESCRIPTION:Búlgaría - Eistland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tékkland - England - UEFA Nations League - viaplay
 DTSTART:20260929T183500
 DTEND:20260929T193500
@@ -1183,12 +1135,12 @@ UID:2026-09-29T18:35:00/Tékkland - England
 DESCRIPTION:Tékkland - England - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spánn - Króatía - UEFA Nations League - viaplay
+SUMMARY:Slóvenía - Norður-Makedónía - UEFA Nations League - viaplay
 DTSTART:20260929T183500
 DTEND:20260929T193500
 DTSTAMP:20260929T183500Z
-UID:2026-09-29T18:35:00/Spánn - Króatía
-DESCRIPTION:Spánn - Króatía - UEFA Nations League
+UID:2026-09-29T18:35:00/Slóvenía - Norður-Makedónía
+DESCRIPTION:Slóvenía - Norður-Makedónía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skotland - Sviss - UEFA Nations League - viaplay
@@ -1199,11 +1151,51 @@ UID:2026-09-29T18:35:00/Skotland - Sviss
 DESCRIPTION:Skotland - Sviss - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slóvenía - Norður-Makedónía - UEFA Nations League - viaplay
+SUMMARY:Spánn - Króatía - UEFA Nations League - viaplay
 DTSTART:20260929T183500
 DTEND:20260929T193500
 DTSTAMP:20260929T183500Z
-UID:2026-09-29T18:35:00/Slóvenía - Norður-Makedónía
-DESCRIPTION:Slóvenía - Norður-Makedónía - UEFA Nations League
+UID:2026-09-29T18:35:00/Spánn - Króatía
+DESCRIPTION:Spánn - Króatía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Búlgaría - Eistland - UEFA Nations League - viaplay
+DTSTART:20260929T183500
+DTEND:20260929T193500
+DTSTAMP:20260929T183500Z
+UID:2026-09-29T18:35:00/Búlgaría - Eistland
+DESCRIPTION:Búlgaría - Eistland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
+DTSTART:20260930T120000
+DTEND:20260930T130000
+DTSTAMP:20260930T120000Z
+UID:2026-09-30T12:00:00/UEFA Nations League: Highlights
+DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Litháen - Andorra - Landsleikur - viaplay
+DTSTART:20260930T155000
+DTEND:20260930T165000
+DTSTAMP:20260930T155000Z
+UID:2026-09-30T15:50:00/Litháen - Andorra
+DESCRIPTION:Litháen - Andorra - Landsleikur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - THW Kiel - Bundesliga - viaplay
+DTSTART:20260930T165500
+DTEND:20260930T175500
+DTSTAMP:20260930T165500Z
+UID:2026-09-30T16:55:00/Magdeburg - THW Kiel
+DESCRIPTION:Magdeburg - THW Kiel - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Grand Prix of Darts 2026 - PDC Darts - viaplay
+DTSTART:20260930T180000
+DTEND:20260930T190000
+DTSTAMP:20260930T180000Z
+UID:2026-09-30T18:00:00/World Grand Prix of Darts 2026
+DESCRIPTION:World Grand Prix of Darts 2026 - PDC Darts
 END:VEVENT
 END:VCALENDAR
