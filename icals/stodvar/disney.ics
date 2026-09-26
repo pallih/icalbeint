@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - disney - ical
 BEGIN:VEVENT
-SUMMARY:BK Häcken - Juventus - Meistaradeild kvenna - disney
-DTSTART:20260930T164500
-DTEND:20260930T174500
-DTSTAMP:20260930T164500Z
-UID:2026-09-30T16:45:00/BK Häcken - Juventus
-DESCRIPTION:BK Häcken - Juventus - Meistaradeild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paris FC - Arsenal - Meistaradeild kvenna - disney
 DTSTART:20260930T164500
 DTEND:20260930T174500
 DTSTAMP:20260930T164500Z
 UID:2026-09-30T16:45:00/Paris FC - Arsenal
 DESCRIPTION:Paris FC - Arsenal - Meistaradeild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK Häcken - Juventus - Meistaradeild kvenna - disney
+DTSTART:20260930T164500
+DTEND:20260930T174500
+DTSTAMP:20260930T164500Z
+UID:2026-09-30T16:45:00/BK Häcken - Juventus
+DESCRIPTION:BK Häcken - Juventus - Meistaradeild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roma - Barcelona - Meistaradeild kvenna - disney
@@ -26,14 +26,6 @@ UID:2026-09-30T16:45:00/Roma - Barcelona
 DESCRIPTION:Roma - Barcelona - Meistaradeild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OL Lyonnes - Chelsea - Meistaradeild kvenna - disney
-DTSTART:20260930T190000
-DTEND:20260930T200000
-DTSTAMP:20260930T190000Z
-UID:2026-09-30T19:00:00/OL Lyonnes - Chelsea
-DESCRIPTION:OL Lyonnes - Chelsea - Meistaradeild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Benfica - Bayern Munich - Meistaradeild kvenna - disney
 DTSTART:20260930T190000
 DTEND:20260930T200000
@@ -42,12 +34,12 @@ UID:2026-09-30T19:00:00/Benfica - Bayern Munich
 DESCRIPTION:Benfica - Bayern Munich - Meistaradeild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HB Køge - Servette - Meistaradeild kvenna - disney
-DTSTART:20261001T164500
-DTEND:20261001T174500
-DTSTAMP:20261001T164500Z
-UID:2026-10-01T16:45:00/HB Køge - Servette
-DESCRIPTION:HB Køge - Servette - Meistaradeild kvenna
+SUMMARY:OL Lyonnes - Chelsea - Meistaradeild kvenna - disney
+DTSTART:20260930T190000
+DTEND:20260930T200000
+DTSTAMP:20260930T190000Z
+UID:2026-09-30T19:00:00/OL Lyonnes - Chelsea
+DESCRIPTION:OL Lyonnes - Chelsea - Meistaradeild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austria Vienna - Internazionale - Meistaradeild kvenna - disney
@@ -56,6 +48,14 @@ DTEND:20261001T174500
 DTSTAMP:20261001T164500Z
 UID:2026-10-01T16:45:00/Austria Vienna - Internazionale
 DESCRIPTION:Austria Vienna - Internazionale - Meistaradeild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HB Køge - Servette - Meistaradeild kvenna - disney
+DTSTART:20261001T164500
+DTEND:20261001T174500
+DTSTAMP:20261001T164500Z
+UID:2026-10-01T16:45:00/HB Køge - Servette
+DESCRIPTION:HB Køge - Servette - Meistaradeild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manchester City - Real Madrid - Meistaradeild kvenna - disney
