@@ -2,13 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - other - ical
 BEGIN:VEVENT
-SUMMARY:Men | Taiping - Gunung Jerai (145.6km) - Tour of Langkawi - eurosp
- ort2
+SUMMARY:Shenzhen Open | Round 1 - Judd Trump - Huang Jiahao - eurosport1
 DTSTART:20260928T060000
 DTEND:20260928T070000
 DTSTAMP:20260928T060000Z
-UID:2026-09-28T06:00:00/Men | Taiping - Gunung Jerai (145.6km)
-DESCRIPTION:Men | Taiping - Gunung Jerai (145.6km) - Tour of Langkawi
+UID:2026-09-28T06:00:00/Shenzhen Open | Round 1
+DESCRIPTION:Shenzhen Open | Round 1 - Judd Trump - Huang Jiahao
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shenzhen Open | Round 2 - Ronnie O'Sullivan - Jiang Jun - eurospor
+ t1
+DTSTART:20260928T113000
+DTEND:20260928T123000
+DTSTAMP:20260928T113000Z
+UID:2026-09-28T11:30:00/Shenzhen Open | Round 2
+DESCRIPTION:Shenzhen Open | Round 2 - Ronnie O'Sullivan - Jiang Jun
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shenzhen Open | Quarter-Final - Shenzhen Open - eurosport1
@@ -37,6 +45,14 @@ DESCRIPTION:Skeet Duet | Medal Matches - European Championships Shotgun -
  Malakasa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shenzhen Open | Semi-Final - Shenzhen Open - eurosport1
+DTSTART:20261003T060000
+DTEND:20261003T070000
+DTSTAMP:20261003T060000Z
+UID:2026-10-03T06:00:00/Shenzhen Open | Semi-Final
+DESCRIPTION:Shenzhen Open | Semi-Final - Shenzhen Open
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Singapore - Gran Turismo World Series - viaplay
 DTSTART:20261003T090000
 DTEND:20261003T100000
@@ -45,11 +61,37 @@ UID:2026-10-03T09:00:00/Singapore
 DESCRIPTION:Singapore - Gran Turismo World Series
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shenzhen Open | Semi-Final - Shenzhen Open - eurosport2
+DTSTART:20261003T113000
+DTEND:20261003T123000
+DTSTAMP:20261003T113000Z
+UID:2026-10-03T11:30:00/Shenzhen Open | Semi-Final
+DESCRIPTION:Shenzhen Open | Semi-Final - Shenzhen Open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men - Giro dell'Emilia - eurosport1
+DTSTART:20261003T120000
+DTEND:20261003T130000
+DTSTAMP:20261003T120000Z
+UID:2026-10-03T12:00:00/Men
+DESCRIPTION:Men - Giro dell'Emilia
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Singapore - Gran Turismo World Series - viaplay
 DTSTART:20261003T120000
 DTEND:20261003T130000
 DTSTAMP:20261003T120000Z
 UID:2026-10-03T12:00:00/Singapore
 DESCRIPTION:Singapore - Gran Turismo World Series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Borken - Münster (204.5km) - Sparkassen Munsterland Giro - 
+ eurosport1
+DTSTART:20261003T151500
+DTEND:20261003T161500
+DTSTAMP:20261003T151500Z
+UID:2026-10-03T15:15:00/Men | Borken - Münster (204.5km)
+DESCRIPTION:Men | Borken - Münster (204.5km) - Sparkassen Munsterland Gir
+ o
 END:VEVENT
 END:VCALENDAR

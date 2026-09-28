@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - UCI Mountain Bike World Series - ical
 BEGIN:VEVENT
-SUMMARY:Women Elite Downhill - Whistler - UCI Mountain Bike World Series -
-  eurosport1
-DTSTART:20260927T200000
-DTEND:20260927T210000
-DTSTAMP:20260927T200000Z
-UID:2026-09-27T20:00:00/Women Elite Downhill - Whistler
-DESCRIPTION:Women Elite Downhill - Whistler - UCI Mountain Bike World Seri
- es
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men Elite Downhill - Whistler - UCI Mountain Bike World Series - e
- urosport1
-DTSTART:20260927T210000
-DTEND:20260927T220000
-DTSTAMP:20260927T210000Z
-UID:2026-09-27T21:00:00/Men Elite Downhill - Whistler
-DESCRIPTION:Men Elite Downhill - Whistler - UCI Mountain Bike World Series
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Women Elite Cross-country Short Track - Lake Placid - UCI Mountain
   Bike World Series - eurosport1
 DTSTART:20261002T153000
@@ -40,5 +21,25 @@ DTSTAMP:20261002T162500Z
 UID:2026-10-02T16:25:00/Men Elite Cross-country Short Track - Lake Placid
 DESCRIPTION:Men Elite Cross-country Short Track - Lake Placid - UCI Mounta
  in Bike World Series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women Elite Cross-country Olympic - Lake Placid - UCI Mountain Bik
+ e World Series - eurosport1
+DTSTART:20261003T174500
+DTEND:20261003T184500
+DTSTAMP:20261003T174500Z
+UID:2026-10-03T17:45:00/Women Elite Cross-country Olympic - Lake Placid
+DESCRIPTION:Women Elite Cross-country Olympic - Lake Placid - UCI Mountain
+  Bike World Series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men Elite Cross-country Olympic - Lake Placid - UCI Mountain Bike 
+ World Series - eurosport1
+DTSTART:20261003T194500
+DTEND:20261003T204500
+DTSTAMP:20261003T194500Z
+UID:2026-10-03T19:45:00/Men Elite Cross-country Olympic - Lake Placid
+DESCRIPTION:Men Elite Cross-country Olympic - Lake Placid - UCI Mountain B
+ ike World Series
 END:VEVENT
 END:VCALENDAR
