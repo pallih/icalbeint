@@ -2,23 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Upphitunarþáttur - Bónus körfuboltakvöld kvenna - synsportisl
- and
-DTSTART:20260928T200000
-DTEND:20260928T210000
-DTSTAMP:20260928T200000Z
-UID:2026-09-28T20:00:00/Upphitunarþáttur
-DESCRIPTION:Upphitunarþáttur - Bónus körfuboltakvöld kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tindastóll - Keflavík - Bónus deild kvenna - synsportisland3
-DTSTART:20260929T190500
-DTEND:20260929T200500
-DTSTAMP:20260929T190500Z
-UID:2026-09-29T19:05:00/Tindastóll - Keflavík
-DESCRIPTION:Tindastóll - Keflavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ármann - Grindavík - Bónus deild kvenna - synsportisland2
 DTSTART:20260929T190500
 DTEND:20260929T200500
@@ -35,6 +18,14 @@ UID:2026-09-29T19:05:00/KR - Stjarnan
 DESCRIPTION:KR - Stjarnan - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tindastóll - Keflavík - Bónus deild kvenna - synsportisland3
+DTSTART:20260929T190500
+DTEND:20260929T200500
+DTSTAMP:20260929T190500Z
+UID:2026-09-29T19:05:00/Tindastóll - Keflavík
+DESCRIPTION:Tindastóll - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fever - Aces - WNBA - amazon
 DTSTART:20260929T223000
 DTEND:20260929T233000
@@ -43,20 +34,20 @@ UID:2026-09-29T22:30:00/Fever - Aces
 DESCRIPTION:Fever - Aces - WNBA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Njarðvík - Bónus deild kvenna - synsportisland
-DTSTART:20260930T190500
-DTEND:20260930T200500
-DTSTAMP:20260930T190500Z
-UID:2026-09-30T19:05:00/Valur - Njarðvík
-DESCRIPTION:Valur - Njarðvík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Haukar - Fjölnir - Bónus deild kvenna - synsportisland2
 DTSTART:20260930T190500
 DTEND:20260930T200500
 DTSTAMP:20260930T190500Z
 UID:2026-09-30T19:05:00/Haukar - Fjölnir
 DESCRIPTION:Haukar - Fjölnir - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Njarðvík - Bónus deild kvenna - synsportisland
+DTSTART:20260930T190500
+DTEND:20260930T200500
+DTSTAMP:20260930T190500Z
+UID:2026-09-30T19:05:00/Valur - Njarðvík
+DESCRIPTION:Valur - Njarðvík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kvenna 
@@ -75,5 +66,15 @@ DTEND:20261003T201500
 DTSTAMP:20261003T191500Z
 UID:2026-10-03T19:15:00/Grindavík - KR
 DESCRIPTION:Grindavík - KR - Meistarakeppni KKÍ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus Körfuboltakvöld - Upphitunarþáttur - Bónus körfubolta
+ kvöld - synsportisland
+DTSTART:20261005T200000
+DTEND:20261005T210000
+DTSTAMP:20261005T200000Z
+UID:2026-10-05T20:00:00/Bónus Körfuboltakvöld - Upphitunarþáttur
+DESCRIPTION:Bónus Körfuboltakvöld - Upphitunarþáttur - Bónus körfub
+ oltakvöld
 END:VEVENT
 END:VCALENDAR

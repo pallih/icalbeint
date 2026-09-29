@@ -2,37 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - eurosport - ical
 BEGIN:VEVENT
-SUMMARY:Shenzhen Open | Round 1 - Judd Trump - Huang Jiahao - eurosport1
-DTSTART:20260928T060000
-DTEND:20260928T070000
-DTSTAMP:20260928T060000Z
-UID:2026-09-28T06:00:00/Shenzhen Open | Round 1
-DESCRIPTION:Shenzhen Open | Round 1 - Judd Trump - Huang Jiahao
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shenzhen Open | Round 2 - Ronnie O'Sullivan - Jiang Jun - eurospor
- t1
-DTSTART:20260928T113000
-DTEND:20260928T123000
-DTSTAMP:20260928T113000Z
-UID:2026-09-28T11:30:00/Shenzhen Open | Round 2
-DESCRIPTION:Shenzhen Open | Round 2 - Ronnie O'Sullivan - Jiang Jun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shenzhen Open | Round 2 - Snooker - eurosport1
+SUMMARY:Shenzhen Open | Round 2 - Ding Junhui - Ricky Walden - eurosport1
 DTSTART:20260929T060000
 DTEND:20260929T070000
 DTSTAMP:20260929T060000Z
 UID:2026-09-29T06:00:00/Shenzhen Open | Round 2
-DESCRIPTION:Shenzhen Open | Round 2 - Snooker
+DESCRIPTION:Shenzhen Open | Round 2 - Ding Junhui - Ricky Walden
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shenzhen Open | Round 3 - Snooker - eurosport1
+SUMMARY:Round 3 - Lei Peifan - Neil Robertson - eurosport1
 DTSTART:20260929T113000
 DTEND:20260929T123000
 DTSTAMP:20260929T113000Z
-UID:2026-09-29T11:30:00/Shenzhen Open | Round 3
-DESCRIPTION:Shenzhen Open | Round 3 - Snooker
+UID:2026-09-29T11:30:00/Round 3
+DESCRIPTION:Round 3 - Lei Peifan - Neil Robertson
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shenzhen Open | Round 3 - Snooker - eurosport1
@@ -101,25 +84,26 @@ DESCRIPTION:Skeet Duet | Medal Matches - European Championships Shotgun -
  Malakasa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Women Elite Cross-country Short Track - Lake Placid - UCI Mountain
-  Bike World Series - eurosport1
+SUMMARY:UCI Cross-country Short Track World Cup - Women Elite - Lake Placi
+ d - UCI Mountain Bike World Series - eurosport1
 DTSTART:20261002T153000
 DTEND:20261002T163000
 DTSTAMP:20261002T153000Z
-UID:2026-10-02T15:30:00/Women Elite Cross-country Short Track - Lake Placi
- d
-DESCRIPTION:Women Elite Cross-country Short Track - Lake Placid - UCI Moun
- tain Bike World Series
+UID:2026-10-02T15:30:00/UCI Cross-country Short Track World Cup - Women El
+ ite - Lake Placid
+DESCRIPTION:UCI Cross-country Short Track World Cup - Women Elite - Lake P
+ lacid - UCI Mountain Bike World Series
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Men Elite Cross-country Short Track - Lake Placid - UCI Mountain B
- ike World Series - eurosport1
+SUMMARY:UCI Cross-country Short Track World Cup - Men Elite - Lake Placid 
+ - UCI Mountain Bike World Series - eurosport1
 DTSTART:20261002T162500
 DTEND:20261002T172500
 DTSTAMP:20261002T162500Z
-UID:2026-10-02T16:25:00/Men Elite Cross-country Short Track - Lake Placid
-DESCRIPTION:Men Elite Cross-country Short Track - Lake Placid - UCI Mounta
- in Bike World Series
+UID:2026-10-02T16:25:00/UCI Cross-country Short Track World Cup - Men Elit
+ e - Lake Placid
+DESCRIPTION:UCI Cross-country Short Track World Cup - Men Elite - Lake Pla
+ cid - UCI Mountain Bike World Series
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bank of Utah Championship - PGA - eurosport2
@@ -199,6 +183,61 @@ DTSTART:20261003T210000
 DTEND:20261003T220000
 DTSTAMP:20261003T210000Z
 UID:2026-10-03T21:00:00/Bank of Utah Championship
+DESCRIPTION:Bank of Utah Championship - PGA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shenzhen Open | Final - Shenzhen Open - eurosport1
+DTSTART:20261004T060000
+DTEND:20261004T070000
+DTSTAMP:20261004T060000Z
+UID:2026-10-04T06:00:00/Shenzhen Open | Final
+DESCRIPTION:Shenzhen Open | Final - Shenzhen Open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men's Elite Road Race | Ljubljana - Šenčur (196.3 km) - UEC Road
+  European Championships - eurosport1
+DTSTART:20261004T102000
+DTEND:20261004T112000
+DTSTAMP:20261004T102000Z
+UID:2026-10-04T10:20:00/Men's Elite Road Race | Ljubljana - Šenčur (196.
+ 3 km)
+DESCRIPTION:Men's Elite Road Race | Ljubljana - Šenčur (196.3 km) - UEC 
+ Road European Championships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shenzhen Open | Final - Shenzhen Open - eurosport2
+DTSTART:20261004T113000
+DTEND:20261004T123000
+DTSTAMP:20261004T113000Z
+UID:2026-10-04T11:30:00/Shenzhen Open | Final
+DESCRIPTION:Shenzhen Open | Final - Shenzhen Open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women Elite Downhill - Lake Placid - UCI Mountain Bike World Serie
+ s - eurosport1
+DTSTART:20261004T164500
+DTEND:20261004T174500
+DTSTAMP:20261004T164500Z
+UID:2026-10-04T16:45:00/Women Elite Downhill - Lake Placid
+DESCRIPTION:Women Elite Downhill - Lake Placid - UCI Mountain Bike World S
+ eries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men Elite Downhill - Lake Placid - UCI Mountain Bike World Series 
+ - eurosport1
+DTSTART:20261004T180000
+DTEND:20261004T190000
+DTSTAMP:20261004T180000Z
+UID:2026-10-04T18:00:00/Men Elite Downhill - Lake Placid
+DESCRIPTION:Men Elite Downhill - Lake Placid - UCI Mountain Bike World Ser
+ ies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bank of Utah Championship - PGA - eurosport2
+DTSTART:20261004T210000
+DTEND:20261004T220000
+DTSTAMP:20261004T210000Z
+UID:2026-10-04T21:00:00/Bank of Utah Championship
 DESCRIPTION:Bank of Utah Championship - PGA
 END:VEVENT
 END:VCALENDAR
