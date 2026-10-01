@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Haukar - Fjölnir - Bónus deild kvenna - synsportisland2
-DTSTART:20260930T190500
-DTEND:20260930T200500
-DTSTAMP:20260930T190500Z
-UID:2026-09-30T19:05:00/Haukar - Fjölnir
-DESCRIPTION:Haukar - Fjölnir - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valur - Njarðvík - Bónus deild kvenna - synsportisland
-DTSTART:20260930T190500
-DTEND:20260930T200500
-DTSTAMP:20260930T190500Z
-UID:2026-09-30T19:05:00/Valur - Njarðvík
-DESCRIPTION:Valur - Njarðvík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kvenna 
- - synsportisland
-DTSTART:20260930T211500
-DTEND:20260930T221500
-DTSTAMP:20260930T211500Z
-UID:2026-09-30T21:15:00/Bónus körfuboltakvöld kvenna
-DESCRIPTION:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kve
- nna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KV - Skallagrímur - 1. deild karla - ap_kkitv_004_prod
 DTSTART:20261001T190500
 DTEND:20261001T200500
@@ -44,20 +18,20 @@ UID:2026-10-02T19:05:00/Haukar - Breiðablik
 DESCRIPTION:Haukar - Breiðablik - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fjölnir - Hamar - 1. deild karla - ap_kkitv_003_prod
-DTSTART:20261002T190500
-DTEND:20261002T200500
-DTSTAMP:20261002T190500Z
-UID:2026-10-02T19:05:00/Fjölnir - Hamar
-DESCRIPTION:Fjölnir - Hamar - 1. deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍA - Selfoss - 1. deild karla - ap_kkitv_005_prod
 DTSTART:20261002T190500
 DTEND:20261002T200500
 DTSTAMP:20261002T190500Z
 UID:2026-10-02T19:05:00/ÍA - Selfoss
 DESCRIPTION:ÍA - Selfoss - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - Hamar - 1. deild karla - ap_kkitv_003_prod
+DTSTART:20261002T190500
+DTEND:20261002T200500
+DTSTAMP:20261002T190500Z
+UID:2026-10-02T19:05:00/Fjölnir - Hamar
+DESCRIPTION:Fjölnir - Hamar - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KFG - Snæfell - 1. deild karla - ap_kkitv_002_prod
@@ -108,5 +82,31 @@ DTEND:20261006T200500
 DTSTAMP:20261006T190500Z
 UID:2026-10-06T19:05:00/Valur - KR
 DESCRIPTION:Valur - KR - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fjölnir - Tindastóll - Bónus deild kvenna - synsportisland2
+DTSTART:20261007T190500
+DTEND:20261007T200500
+DTSTAMP:20261007T190500Z
+UID:2026-10-07T19:05:00/Fjölnir - Tindastóll
+DESCRIPTION:Fjölnir - Tindastóll - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Keflavík - Bónus deild kvenna - synsportisland
+DTSTART:20261007T190500
+DTEND:20261007T200500
+DTSTAMP:20261007T190500Z
+UID:2026-10-07T19:05:00/Njarðvík - Keflavík
+DESCRIPTION:Njarðvík - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kvenna 
+ - synsportisland
+DTSTART:20261007T211500
+DTEND:20261007T221500
+DTSTAMP:20261007T211500Z
+UID:2026-10-07T21:15:00/Bónus körfuboltakvöld kvenna
+DESCRIPTION:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kve
+ nna
 END:VEVENT
 END:VCALENDAR
