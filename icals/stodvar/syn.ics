@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Kýpur - Lettland - Þjóðadeild Evrópu - synsportviaplay
-DTSTART:20261005T155000
-DTEND:20261005T165000
-DTSTAMP:20261005T155000Z
-UID:2026-10-05T15:50:00/Kýpur - Lettland
-DESCRIPTION:Kýpur - Lettland - Þjóðadeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frakkland - Belgía - Þjóðadeild Evrópu - synsportviaplay
-DTSTART:20261005T183500
-DTEND:20261005T193500
-DTSTAMP:20261005T183500Z
-UID:2026-10-05T18:35:00/Frakkland - Belgía
-DESCRIPTION:Frakkland - Belgía - Þjóðadeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus Körfuboltakvöld - Upphitunarþáttur - Bónus körfubolta
- kvöld - synsportisland
-DTSTART:20261005T200000
-DTEND:20261005T210000
-DTSTAMP:20261005T200000Z
-UID:2026-10-05T20:00:00/Bónus Körfuboltakvöld - Upphitunarþáttur
-DESCRIPTION:Bónus Körfuboltakvöld - Upphitunarþáttur - Bónus körfub
- oltakvöld
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kazakhstan - Færeyjar - Þjóðadeild Evrópu - synsportviaplay
 DTSTART:20261006T135000
 DTEND:20261006T145000
@@ -68,20 +42,20 @@ UID:2026-10-06T18:35:00/England - Tékkland
 DESCRIPTION:England - Tékkland - Þjóðadeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grindavík - Haukar - Bónus deild kvenna - synsportisland
-DTSTART:20261006T190500
-DTEND:20261006T200500
-DTSTAMP:20261006T190500Z
-UID:2026-10-06T19:05:00/Grindavík - Haukar
-DESCRIPTION:Grindavík - Haukar - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - KR - Bónus deild kvenna - synsportisland2
 DTSTART:20261006T190500
 DTEND:20261006T200500
 DTSTAMP:20261006T190500Z
 UID:2026-10-06T19:05:00/Valur - KR
 DESCRIPTION:Valur - KR - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grindavík - Haukar - Bónus deild kvenna - synsportisland
+DTSTART:20261006T190500
+DTEND:20261006T200500
+DTSTAMP:20261006T190500Z
+UID:2026-10-06T19:05:00/Grindavík - Haukar
+DESCRIPTION:Grindavík - Haukar - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eistland - Ísland: Uppgjör - Þjóðadeild Evrópu - synsport
@@ -134,12 +108,12 @@ UID:2026-10-08T12:00:00/Open de España
 DESCRIPTION:Open de España - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sindri - ÍR - Bónus deild karla - synsportisland4
+SUMMARY:Valur - Stjarnan - Bónus deild karla - synsportisland2
 DTSTART:20261008T190500
 DTEND:20261008T200500
 DTSTAMP:20261008T190500Z
-UID:2026-10-08T19:05:00/Sindri - ÍR
-DESCRIPTION:Sindri - ÍR - Bónus deild karla
+UID:2026-10-08T19:05:00/Valur - Stjarnan
+DESCRIPTION:Valur - Stjarnan - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Álftanes - Höttur - Bónus deild karla - synsportisland5
@@ -150,12 +124,12 @@ UID:2026-10-08T19:05:00/Álftanes - Höttur
 DESCRIPTION:Álftanes - Höttur - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valur - Stjarnan - Bónus deild karla - synsportisland2
+SUMMARY:Sindri - ÍR - Bónus deild karla - synsportisland4
 DTSTART:20261008T190500
 DTEND:20261008T200500
 DTSTAMP:20261008T190500Z
-UID:2026-10-08T19:05:00/Valur - Stjarnan
-DESCRIPTION:Valur - Stjarnan - Bónus deild karla
+UID:2026-10-08T19:05:00/Sindri - ÍR
+DESCRIPTION:Sindri - ÍR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ármann - Keflavík - Bónus deild karla - synsportisland3
@@ -263,14 +237,6 @@ UID:2026-10-10T12:55:00/F1: Singapore - Tímataka
 DESCRIPTION:F1: Singapore - Tímataka - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea - Bournemouth - Premier League - synsport2
-DTSTART:20261010T134000
-DTEND:20261010T144000
-DTSTAMP:20261010T134000Z
-UID:2026-10-10T13:40:00/Chelsea - Bournemouth
-DESCRIPTION:Chelsea - Bournemouth - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20261010T134000
 DTEND:20261010T144000
@@ -279,20 +245,20 @@ UID:2026-10-10T13:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chelsea - Bournemouth - Premier League - synsport2
+DTSTART:20261010T134000
+DTEND:20261010T144000
+DTSTAMP:20261010T134000Z
+UID:2026-10-10T13:40:00/Chelsea - Bournemouth
+DESCRIPTION:Chelsea - Bournemouth - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aston Villa - Brentford - Premier League - synsport3
 DTSTART:20261010T134000
 DTEND:20261010T144000
 DTSTAMP:20261010T134000Z
 UID:2026-10-10T13:40:00/Aston Villa - Brentford
 DESCRIPTION:Aston Villa - Brentford - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ipswich - Fulham - Premier League - synsport4
-DTSTART:20261010T135000
-DTEND:20261010T145000
-DTSTAMP:20261010T135000Z
-UID:2026-10-10T13:50:00/Ipswich - Fulham
-DESCRIPTION:Ipswich - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Ak. - ÍBV - Besta deild karla - synsportisland3
@@ -327,6 +293,14 @@ UID:2026-10-10T13:50:00/Sunderland - Brighton
 DESCRIPTION:Sunderland - Brighton - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ipswich - Fulham - Premier League - synsport4
+DTSTART:20261010T135000
+DTEND:20261010T145000
+DTSTAMP:20261010T135000Z
+UID:2026-10-10T13:50:00/Ipswich - Fulham
+DESCRIPTION:Ipswich - Fulham - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport2
 DTSTART:20261010T160500
 DTEND:20261010T170500
@@ -359,20 +333,20 @@ UID:2026-10-11T11:00:00/Open de España
 DESCRIPTION:Open de España - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Nott. Forest - Premier League - synsport
-DTSTART:20261011T124000
-DTEND:20261011T134000
-DTSTAMP:20261011T124000Z
-UID:2026-10-11T12:40:00/Crystal Palace - Nott. Forest
-DESCRIPTION:Crystal Palace - Nott. Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hull - Everton - Premier League - synsport3
 DTSTART:20261011T124000
 DTEND:20261011T134000
 DTSTAMP:20261011T124000Z
 UID:2026-10-11T12:40:00/Hull - Everton
 DESCRIPTION:Hull - Everton - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Nott. Forest - Premier League - synsport
+DTSTART:20261011T124000
+DTEND:20261011T134000
+DTSTAMP:20261011T124000Z
+UID:2026-10-11T12:40:00/Crystal Palace - Nott. Forest
+DESCRIPTION:Crystal Palace - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jaguars - Eagles - NFL - synsport2
@@ -415,20 +389,20 @@ UID:2026-10-11T17:35:00/Sunnudagsmessan
 DESCRIPTION:Sunnudagsmessan - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breiðablik - Keflavík - Besta deild karla - synsportisland
-DTSTART:20261011T190000
-DTEND:20261011T200000
-DTSTAMP:20261011T190000Z
-UID:2026-10-11T19:00:00/Breiðablik - Keflavík
-DESCRIPTION:Breiðablik - Keflavík - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Víkingur R. - ÍA - Besta deild karla - synsportisland2
 DTSTART:20261011T190000
 DTEND:20261011T200000
 DTSTAMP:20261011T190000Z
 UID:2026-10-11T19:00:00/Víkingur R. - ÍA
 DESCRIPTION:Víkingur R. - ÍA - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breiðablik - Keflavík - Besta deild karla - synsportisland
+DTSTART:20261011T190000
+DTEND:20261011T200000
+DTSTAMP:20261011T190000Z
+UID:2026-10-11T19:00:00/Breiðablik - Keflavík
+DESCRIPTION:Breiðablik - Keflavík - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seahawks - 49ers - NFL - synsport2
@@ -445,5 +419,45 @@ DTEND:20261011T221500
 DTSTAMP:20261011T211500Z
 UID:2026-10-11T21:15:00/Stúkan
 DESCRIPTION:Stúkan - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coventry - Newcastle - Premier League - synsport
+DTSTART:20261012T184000
+DTEND:20261012T194000
+DTSTAMP:20261012T184000Z
+UID:2026-10-12T18:40:00/Coventry - Newcastle
+DESCRIPTION:Coventry - Newcastle - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Stjarnan - Bónus deild kvenna - synsportisland2
+DTSTART:20261012T190500
+DTEND:20261012T200500
+DTSTAMP:20261012T190500Z
+UID:2026-10-12T19:05:00/Haukar - Stjarnan
+DESCRIPTION:Haukar - Stjarnan - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keflavík - Fjölnir - Bónus deild kvenna - synsportisland3
+DTSTART:20261012T190500
+DTEND:20261012T200500
+DTSTAMP:20261012T190500Z
+UID:2026-10-12T19:05:00/Keflavík - Fjölnir
+DESCRIPTION:Keflavík - Fjölnir - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Grindavík - Bónus deild kvenna - synsportisland4
+DTSTART:20261012T190500
+DTEND:20261012T200500
+DTSTAMP:20261012T190500Z
+UID:2026-10-12T19:05:00/Tindastóll - Grindavík
+DESCRIPTION:Tindastóll - Grindavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Njarðvík - Bónus deild kvenna - synsportisland
+DTSTART:20261012T190500
+DTEND:20261012T200500
+DTSTAMP:20261012T190500Z
+UID:2026-10-12T19:05:00/KR - Njarðvík
+DESCRIPTION:KR - Njarðvík - Bónus deild kvenna
 END:VEVENT
 END:VCALENDAR

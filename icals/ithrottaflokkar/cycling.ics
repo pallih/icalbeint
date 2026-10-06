@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - cycling - ical
 BEGIN:VEVENT
-SUMMARY:Men | Legnano (174km) - Coppa Bernocchi - eurosport1
-DTSTART:20261005T130000
-DTEND:20261005T140000
-DTSTAMP:20261005T130000Z
-UID:2026-10-05T13:00:00/Men | Legnano (174km)
-DESCRIPTION:Men | Legnano (174km) - Coppa Bernocchi
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Women | Chimay – Binche (125km) - Binche-Chimay-Binche - eurospo
  rt1
 DTSTART:20261006T113500
@@ -30,10 +22,10 @@ DESCRIPTION:Elite Mixed TTT | Šenčur (ITT\, 44.3 km) - UEC Road European
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Women | - Tre Valli Varesine - eurosport2
-DTSTART:20261006T140000
-DTEND:20261006T150000
-DTSTAMP:20261006T140000Z
-UID:2026-10-06T14:00:00/Women |
+DTSTART:20261006T141500
+DTEND:20261006T151500
+DTSTAMP:20261006T141500Z
+UID:2026-10-06T14:15:00/Women |
 DESCRIPTION:Women | - Tre Valli Varesine
 END:VEVENT
 BEGIN:VEVENT
@@ -55,5 +47,15 @@ DTSTAMP:20261007T140500Z
 UID:2026-10-07T14:05:00/Men Elite | Šenčur (ITT\, 22.1 km)
 DESCRIPTION:Men Elite | Šenčur (ITT\, 22.1 km) - UEC Road European Champ
  ionships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris-Tours\, Men | Chartres - Tours (216.2km) - Cycling: Olympic 
+ Games 2024\, Paris - eurosport1
+DTSTART:20261011T130000
+DTEND:20261011T140000
+DTSTAMP:20261011T130000Z
+UID:2026-10-11T13:00:00/Paris-Tours\, Men | Chartres - Tours (216.2km)
+DESCRIPTION:Paris-Tours\, Men | Chartres - Tours (216.2km) - Cycling: Olym
+ pic Games 2024\, Paris
 END:VEVENT
 END:VCALENDAR
