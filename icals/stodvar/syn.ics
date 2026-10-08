@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Keflavík - Bónus deild kvenna - synsportisland
-DTSTART:20261007T190500
-DTEND:20261007T200500
-DTSTAMP:20261007T190500Z
-UID:2026-10-07T19:05:00/Njarðvík - Keflavík
-DESCRIPTION:Njarðvík - Keflavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fjölnir - Tindastóll - Bónus deild kvenna - synsportisland2
-DTSTART:20261007T190500
-DTEND:20261007T200500
-DTSTAMP:20261007T190500Z
-UID:2026-10-07T19:05:00/Fjölnir - Tindastóll
-DESCRIPTION:Fjölnir - Tindastóll - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kvenna 
- - synsportisland
-DTSTART:20261007T211500
-DTEND:20261007T221500
-DTSTAMP:20261007T211500Z
-UID:2026-10-07T21:15:00/Bónus körfuboltakvöld kvenna
-DESCRIPTION:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kve
- nna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open de España - DP World Tour - synsport4
 DTSTART:20261008T120000
 DTEND:20261008T130000
@@ -44,12 +18,28 @@ UID:2026-10-08T16:55:00/AIK - BK
 DESCRIPTION:AIK - BK - SHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Álftanes - Höttur - Bónus deild karla - synsportisland5
+DTSTART:20261008T190500
+DTEND:20261008T200500
+DTSTAMP:20261008T190500Z
+UID:2026-10-08T19:05:00/Álftanes - Höttur
+DESCRIPTION:Álftanes - Höttur - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valur - Stjarnan - Bónus deild karla - synsportisland2
 DTSTART:20261008T190500
 DTEND:20261008T200500
 DTSTAMP:20261008T190500Z
 UID:2026-10-08T19:05:00/Valur - Stjarnan
 DESCRIPTION:Valur - Stjarnan - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - Haukar - 1. deild karla - ap_kkitv_001_prod
+DTSTART:20261008T190500
+DTEND:20261008T200500
+DTSTAMP:20261008T190500Z
+UID:2026-10-08T19:05:00/Selfoss - Haukar
+DESCRIPTION:Selfoss - Haukar - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sindri - ÍR - Bónus deild karla - synsportisland4
@@ -66,22 +56,6 @@ DTEND:20261008T200500
 DTSTAMP:20261008T190500Z
 UID:2026-10-08T19:05:00/Ármann - Keflavík
 DESCRIPTION:Ármann - Keflavík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Álftanes - Höttur - Bónus deild karla - synsportisland5
-DTSTART:20261008T190500
-DTEND:20261008T200500
-DTSTAMP:20261008T190500Z
-UID:2026-10-08T19:05:00/Álftanes - Höttur
-DESCRIPTION:Álftanes - Höttur - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selfoss - Haukar - 1. deild karla - ap_kkitv_001_prod
-DTSTART:20261008T190500
-DTEND:20261008T200500
-DTSTAMP:20261008T190500Z
-UID:2026-10-08T19:05:00/Selfoss - Haukar
-DESCRIPTION:Selfoss - Haukar - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið - Bónus deild karla - synsportisland
@@ -213,6 +187,14 @@ UID:2026-10-10T11:30:00/Open de España
 DESCRIPTION:Open de España - DP World Tour
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Reykdælir - Reynir S. - 2. deild karla - ap_kkitv_003_prod
+DTSTART:20261010T115000
+DTEND:20261010T125000
+DTSTAMP:20261010T115000Z
+UID:2026-10-10T11:50:00/Reykdælir - Reynir S.
+DESCRIPTION:Reykdælir - Reynir S. - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:F1: Singapore - Tímataka - Formúla 1 - synsportviaplay
 DTSTART:20261010T125500
 DTEND:20261010T135500
@@ -245,20 +227,20 @@ UID:2026-10-10T13:40:00/Chelsea - Bournemouth
 DESCRIPTION:Chelsea - Bournemouth - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Ak. - ÍBV - Besta deild karla - synsportisland3
-DTSTART:20261010T135000
-DTEND:20261010T145000
-DTSTAMP:20261010T135000Z
-UID:2026-10-10T13:50:00/Þór Ak. - ÍBV
-DESCRIPTION:Þór Ak. - ÍBV - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Valur - FH - Besta deild karla - synsportisland2
 DTSTART:20261010T135000
 DTEND:20261010T145000
 DTSTAMP:20261010T135000Z
 UID:2026-10-10T13:50:00/Valur - FH
 DESCRIPTION:Valur - FH - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Ak. - ÍBV - Besta deild karla - synsportisland3
+DTSTART:20261010T135000
+DTEND:20261010T145000
+DTSTAMP:20261010T135000Z
+UID:2026-10-10T13:50:00/Þór Ak. - ÍBV
+DESCRIPTION:Þór Ak. - ÍBV - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stjarnan - KA - Besta deild karla - synsportisland
@@ -285,6 +267,30 @@ UID:2026-10-10T13:50:00/Ipswich - Fulham
 DESCRIPTION:Ipswich - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Afturelding - KR b - 2. deild karla - ap_kkitv_013_prod
+DTSTART:20261010T145000
+DTEND:20261010T155000
+DTSTAMP:20261010T145000Z
+UID:2026-10-10T14:50:00/Afturelding - KR b
+DESCRIPTION:Afturelding - KR b - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snæfell - KV - 1. deild karla - ap_kkitv_014_prod
+DTSTART:20261010T145000
+DTEND:20261010T155000
+DTSTAMP:20261010T145000Z
+UID:2026-10-10T14:50:00/Snæfell - KV
+DESCRIPTION:Snæfell - KV - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vestri - Smári V. - 2. deild karla - ap_kkitv_016_prod
+DTSTART:20261010T155000
+DTEND:20261010T165000
+DTSTAMP:20261010T155000Z
+UID:2026-10-10T15:50:00/Vestri - Smári V.
+DESCRIPTION:Vestri - Smári V. - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laugardagsmörkin - Premier League - synsport2
 DTSTART:20261010T160500
 DTEND:20261010T170500
@@ -307,6 +313,14 @@ DTEND:20261010T172000
 DTSTAMP:20261010T162000Z
 UID:2026-10-10T16:20:00/RB Leipzig - Frankfurt
 DESCRIPTION:RB Leipzig - Frankfurt - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KV - Njardvik b - 1. deild kvenna - ap_kkitv_006_prod
+DTSTART:20261010T175000
+DTEND:20261010T185000
+DTSTAMP:20261010T175000Z
+UID:2026-10-10T17:50:00/KV - Njardvik b
+DESCRIPTION:KV - Njardvik b - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nürnberg - Wolfsburg - 2. Bundesliga - synsportviaplay
@@ -341,20 +355,20 @@ UID:2026-10-11T11:30:00/F1: Singapore - Keppni
 DESCRIPTION:F1: Singapore - Keppni - Formúla 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crystal Palace - Nott. Forest - Premier League - synsport
-DTSTART:20261011T124000
-DTEND:20261011T134000
-DTSTAMP:20261011T124000Z
-UID:2026-10-11T12:40:00/Crystal Palace - Nott. Forest
-DESCRIPTION:Crystal Palace - Nott. Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hull - Everton - Premier League - synsport3
 DTSTART:20261011T124000
 DTEND:20261011T134000
 DTSTAMP:20261011T124000Z
 UID:2026-10-11T12:40:00/Hull - Everton
 DESCRIPTION:Hull - Everton - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Nott. Forest - Premier League - synsport
+DTSTART:20261011T124000
+DTEND:20261011T134000
+DTSTAMP:20261011T124000Z
+UID:2026-10-11T12:40:00/Crystal Palace - Nott. Forest
+DESCRIPTION:Crystal Palace - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jaguars - Eagles - NFL - synsport2
@@ -405,20 +419,20 @@ UID:2026-10-11T17:35:00/Sunnudagsmessan
 DESCRIPTION:Sunnudagsmessan - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víkingur R. - ÍA - Besta deild karla - synsportisland2
-DTSTART:20261011T190000
-DTEND:20261011T200000
-DTSTAMP:20261011T190000Z
-UID:2026-10-11T19:00:00/Víkingur R. - ÍA
-DESCRIPTION:Víkingur R. - ÍA - Besta deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breiðablik - Keflavík - Besta deild karla - synsportisland
 DTSTART:20261011T190000
 DTEND:20261011T200000
 DTSTAMP:20261011T190000Z
 UID:2026-10-11T19:00:00/Breiðablik - Keflavík
 DESCRIPTION:Breiðablik - Keflavík - Besta deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víkingur R. - ÍA - Besta deild karla - synsportisland2
+DTSTART:20261011T190500
+DTEND:20261011T200500
+DTSTAMP:20261011T190500Z
+UID:2026-10-11T19:05:00/Víkingur R. - ÍA
+DESCRIPTION:Víkingur R. - ÍA - Besta deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seahawks - 49ers - NFL - synsport2
@@ -445,14 +459,6 @@ UID:2026-10-12T18:40:00/Coventry - Newcastle
 DESCRIPTION:Coventry - Newcastle - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tindastóll - Grindavík - Bónus deild kvenna - synsportisland4
-DTSTART:20261012T190500
-DTEND:20261012T200500
-DTSTAMP:20261012T190500Z
-UID:2026-10-12T19:05:00/Tindastóll - Grindavík
-DESCRIPTION:Tindastóll - Grindavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KR - Njarðvík - Bónus deild kvenna - synsportisland
 DTSTART:20261012T190500
 DTEND:20261012T200500
@@ -461,20 +467,28 @@ UID:2026-10-12T19:05:00/KR - Njarðvík
 DESCRIPTION:KR - Njarðvík - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Stjarnan - Bónus deild kvenna - synsportisland2
-DTSTART:20261012T190500
-DTEND:20261012T200500
-DTSTAMP:20261012T190500Z
-UID:2026-10-12T19:05:00/Haukar - Stjarnan
-DESCRIPTION:Haukar - Stjarnan - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Keflavík - Fjölnir - Bónus deild kvenna - synsportisland3
 DTSTART:20261012T190500
 DTEND:20261012T200500
 DTSTAMP:20261012T190500Z
 UID:2026-10-12T19:05:00/Keflavík - Fjölnir
 DESCRIPTION:Keflavík - Fjölnir - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindastóll - Grindavík - Bónus deild kvenna - synsportisland4
+DTSTART:20261012T190500
+DTEND:20261012T200500
+DTSTAMP:20261012T190500Z
+UID:2026-10-12T19:05:00/Tindastóll - Grindavík
+DESCRIPTION:Tindastóll - Grindavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Stjarnan - Bónus deild kvenna - synsportisland2
+DTSTART:20261012T190500
+DTEND:20261012T200500
+DTSTAMP:20261012T190500Z
+UID:2026-10-12T19:05:00/Haukar - Stjarnan
+DESCRIPTION:Haukar - Stjarnan - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - PSV - UEFA Youth League - synsport
@@ -517,6 +531,14 @@ UID:2026-10-13T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leipzig - PSV - Meistaradeild Evrópu - synsport5
+DTSTART:20261013T185000
+DTEND:20261013T195000
+DTSTAMP:20261013T185000Z
+UID:2026-10-13T18:50:00/Leipzig - PSV
+DESCRIPTION:Leipzig - PSV - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atletico Madrid - Man. Utd. - Meistaradeild Evrópu - synsportviap
  lay
 DTSTART:20261013T185000
@@ -524,14 +546,6 @@ DTEND:20261013T195000
 DTSTAMP:20261013T185000Z
 UID:2026-10-13T18:50:00/Atletico Madrid - Man. Utd.
 DESCRIPTION:Atletico Madrid - Man. Utd. - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leipzig - PSV - Meistaradeild Evrópu - synsport5
-DTSTART:20261013T185000
-DTEND:20261013T195000
-DTSTAMP:20261013T185000Z
-UID:2026-10-13T18:50:00/Leipzig - PSV
-DESCRIPTION:Leipzig - PSV - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter - Club Brugge - Meistaradeild Evrópu - synsport4
@@ -558,6 +572,14 @@ UID:2026-10-13T18:50:00/Arsenal - Lille
 DESCRIPTION:Arsenal - Lille - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ármann - Valur - Bónus deild kvenna - synsportisland
+DTSTART:20261013T190500
+DTEND:20261013T200500
+DTSTAMP:20261013T190500Z
+UID:2026-10-13T19:05:00/Ármann - Valur
+DESCRIPTION:Ármann - Valur - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
 DTSTART:20261013T210000
 DTEND:20261013T220000
@@ -566,11 +588,101 @@ UID:2026-10-13T21:00:00/Meistaradeildarmörkin
 DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kvenna 
+ - synsportisland
+DTSTART:20261013T213500
+DTEND:20261013T223500
+DTSTAMP:20261013T213500Z
+UID:2026-10-13T21:35:00/Bónus körfuboltakvöld kvenna
+DESCRIPTION:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kve
+ nna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lokasóknin - NFL - synsport
 DTSTART:20261013T215000
 DTEND:20261013T225000
 DTSTAMP:20261013T215000Z
 UID:2026-10-13T21:50:00/Lokasóknin
 DESCRIPTION:Lokasóknin - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roma - Real Madrid - UEFA Youth League - synsport
+DTSTART:20261014T115500
+DTEND:20261014T125500
+DTSTAMP:20261014T115500Z
+UID:2026-10-14T11:55:00/Roma - Real Madrid
+DESCRIPTION:Roma - Real Madrid - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. City - PSG - UEFA Youth League - synsport
+DTSTART:20261014T135500
+DTEND:20261014T145500
+DTSTAMP:20261014T135500Z
+UID:2026-10-14T13:55:00/Man. City - PSG
+DESCRIPTION:Man. City - PSG - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feyenoord - Como - Meistaradeild Evrópu - synsport
+DTSTART:20261014T163500
+DTEND:20261014T173500
+DTSTAMP:20261014T163500Z
+UID:2026-10-14T16:35:00/Feyenoord - Como
+DESCRIPTION:Feyenoord - Como - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LASK - Liverpool - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20261014T163500
+DTEND:20261014T173500
+DTSTAMP:20261014T163500Z
+UID:2026-10-14T16:35:00/LASK - Liverpool
+DESCRIPTION:LASK - Liverpool - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
+DTSTART:20261014T183000
+DTEND:20261014T193000
+DTSTAMP:20261014T183000Z
+UID:2026-10-14T18:30:00/Meistaradeildarmessan
+DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man. City - PSG - Meistaradeild Evrópu - synsport2
+DTSTART:20261014T185000
+DTEND:20261014T195000
+DTSTAMP:20261014T185000Z
+UID:2026-10-14T18:50:00/Man. City - PSG
+DESCRIPTION:Man. City - PSG - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa - Fenerbahce - Meistaradeild Evrópu - synsport3
+DTSTART:20261014T185000
+DTEND:20261014T195000
+DTSTAMP:20261014T185000Z
+UID:2026-10-14T18:50:00/Aston Villa - Fenerbahce
+DESCRIPTION:Aston Villa - Fenerbahce - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis - Porto - Meistaradeild Evrópu - synsport4
+DTSTART:20261014T185000
+DTEND:20261014T195000
+DTSTAMP:20261014T185000Z
+UID:2026-10-14T18:50:00/Real Betis - Porto
+DESCRIPTION:Real Betis - Porto - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roma - Real Madrid - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20261014T185000
+DTEND:20261014T195000
+DTSTAMP:20261014T185000Z
+UID:2026-10-14T18:50:00/Roma - Real Madrid
+DESCRIPTION:Roma - Real Madrid - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
+DTSTART:20261014T210000
+DTEND:20261014T220000
+DTSTAMP:20261014T210000Z
+UID:2026-10-14T21:00:00/Meistaradeildarmörkin
+DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
 END:VEVENT
 END:VCALENDAR
