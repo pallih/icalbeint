@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - other - ical
 BEGIN:VEVENT
-SUMMARY:Men | Asti – Bra (185km) - Gran Piemonte - eurosport1
-DTSTART:20261008T125000
-DTEND:20261008T135000
-DTSTAMP:20261008T125000Z
-UID:2026-10-08T12:50:00/Men | Asti – Bra (185km)
-DESCRIPTION:Men | Asti – Bra (185km) - Gran Piemonte
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Bergamo – Como (239km) - Il Lombardia - eurosport1
 DTSTART:20261010T083500
 DTEND:20261010T093500
@@ -26,13 +18,13 @@ UID:2026-10-11T11:50:00/Global Champions Tour
 DESCRIPTION:Global Champions Tour - Jumping - Rome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trap Solo | Men - European Championships Shotgun - Malakasa - euro
+SUMMARY:Men | Trap Solo - European Championships Shotgun - Malakasa - euro
  sport2
 DTSTART:20261011T141500
 DTEND:20261011T151500
 DTSTAMP:20261011T141500Z
-UID:2026-10-11T14:15:00/Trap Solo | Men
-DESCRIPTION:Trap Solo | Men - European Championships Shotgun - Malakasa
+UID:2026-10-11T14:15:00/Men | Trap Solo
+DESCRIPTION:Men | Trap Solo - European Championships Shotgun - Malakasa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mixed | The Hague (3.1km\, ITT) - Eneco Tour - Prologue - eurospor
@@ -42,5 +34,29 @@ DTEND:20261013T165000
 DTSTAMP:20261013T155000Z
 UID:2026-10-13T15:50:00/Mixed | The Hague (3.1km\, ITT)
 DESCRIPTION:Mixed | The Hague (3.1km\, ITT) - Eneco Tour - Prologue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women | Ede (79.5km) - Eneco Tour - eurosport1
+DTSTART:20261014T083500
+DTEND:20261014T093500
+DTSTAMP:20261014T083500Z
+UID:2026-10-14T08:35:00/Women | Ede (79.5km)
+DESCRIPTION:Women | Ede (79.5km) - Eneco Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Ede (120km) - Eneco Tour - eurosport1
+DTSTART:20261014T122000
+DTEND:20261014T132000
+DTSTAMP:20261014T122000Z
+UID:2026-10-14T12:20:00/Men | Ede (120km)
+DESCRIPTION:Men | Ede (120km) - Eneco Tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Verona - Vicenza (176km) - Giro del Veneto - eurosport1
+DTSTART:20261014T140000
+DTEND:20261014T150000
+DTSTAMP:20261014T140000Z
+UID:2026-10-14T14:00:00/Men | Verona - Vicenza (176km)
+DESCRIPTION:Men | Verona - Vicenza (176km) - Giro del Veneto
 END:VEVENT
 END:VCALENDAR

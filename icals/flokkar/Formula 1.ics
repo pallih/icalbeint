@@ -18,14 +18,6 @@ UID:2026-10-09T08:30:00/Timing (Singapúr Kappaksturinn | Æfing 1)
 DESCRIPTION:Timing (Singapúr Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20261009T083000
-DTEND:20261009T093000
-DTSTAMP:20261009T083000Z
-UID:2026-10-09T08:30:00/Onboard (Singapúr Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Singapúr Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Singapúr Kappaksturinn | Æfing 1) - Formula 1
   - viaplay
 DTSTART:20261009T083000
@@ -35,6 +27,14 @@ UID:2026-10-09T08:30:00/Track Positioning (Singapúr Kappaksturinn | Æfin
  g 1)
 DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Æfing 1) - Formu
  la 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20261009T083000
+DTEND:20261009T093000
+DTSTAMP:20261009T083000Z
+UID:2026-10-09T08:30:00/Onboard (Singapúr Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Singapúr Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Singapúr Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -53,15 +53,6 @@ UID:2026-10-09T12:20:00/Singapúr Kappaksturinn (Sprint Shootout)
 DESCRIPTION:Singapúr Kappaksturinn (Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Singapúr Kappaksturinn | Sprint Shootout) - Formula 1 - v
- iaplay
-DTSTART:20261009T123000
-DTEND:20261009T133000
-DTSTAMP:20261009T123000Z
-UID:2026-10-09T12:30:00/Timing (Singapúr Kappaksturinn | Sprint Shootout)
-DESCRIPTION:Timing (Singapúr Kappaksturinn | Sprint Shootout) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Singapúr Kappaksturinn | Sprint Shootout) - Fo
  rmula 1 - viaplay
 DTSTART:20261009T123000
@@ -73,15 +64,13 @@ DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Sprint Shootout)
  - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Singapúr Kappaksturinn | Sprint Shootout) - Formula 1 - 
- viaplay
+SUMMARY:Timing (Singapúr Kappaksturinn | Sprint Shootout) - Formula 1 - v
+ iaplay
 DTSTART:20261009T123000
 DTEND:20261009T133000
 DTSTAMP:20261009T123000Z
-UID:2026-10-09T12:30:00/Pitlane (Singapúr Kappaksturinn | Sprint Shootout
- )
-DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Sprint Shootout) - Formula 
- 1
+UID:2026-10-09T12:30:00/Timing (Singapúr Kappaksturinn | Sprint Shootout)
+DESCRIPTION:Timing (Singapúr Kappaksturinn | Sprint Shootout) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Singapúr Kappaksturinn | Sprint Shootout) - Formula 1 - 
@@ -95,12 +84,15 @@ DESCRIPTION:Onboard (Singapúr Kappaksturinn | Sprint Shootout) - Formula
  1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Singapúr Kappaksturinn (Sprettkeppni) - Formula 1 - viaplay
-DTSTART:20261010T085500
-DTEND:20261010T095500
-DTSTAMP:20261010T085500Z
-UID:2026-10-10T08:55:00/Singapúr Kappaksturinn (Sprettkeppni)
-DESCRIPTION:Singapúr Kappaksturinn (Sprettkeppni) - Formula 1
+SUMMARY:Pitlane (Singapúr Kappaksturinn | Sprint Shootout) - Formula 1 - 
+ viaplay
+DTSTART:20261009T123000
+DTEND:20261009T133000
+DTSTAMP:20261009T123000Z
+UID:2026-10-09T12:30:00/Pitlane (Singapúr Kappaksturinn | Sprint Shootout
+ )
+DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Sprint Shootout) - Formula 
+ 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F1 Kids: Singapore Grand Prix (Sprettkeppni) - Formula 1 - viaplay
@@ -109,6 +101,23 @@ DTEND:20261010T095500
 DTSTAMP:20261010T085500Z
 UID:2026-10-10T08:55:00/F1 Kids: Singapore Grand Prix (Sprettkeppni)
 DESCRIPTION:F1 Kids: Singapore Grand Prix (Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singapúr Kappaksturinn (Sprettkeppni) - Formula 1 - viaplay
+DTSTART:20261010T085500
+DTEND:20261010T095500
+DTSTAMP:20261010T085500Z
+UID:2026-10-10T08:55:00/Singapúr Kappaksturinn (Sprettkeppni)
+DESCRIPTION:Singapúr Kappaksturinn (Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1 - via
+ play
+DTSTART:20261010T090000
+DTEND:20261010T100000
+DTSTAMP:20261010T090000Z
+UID:2026-10-10T09:00:00/Onboard (Singapúr Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Onboard (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Singapúr Kappaksturinn | Sprettkeppni) - Formu
@@ -122,24 +131,6 @@ DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Sprettkeppni) - F
  ormula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1 - via
- play
-DTSTART:20261010T090000
-DTEND:20261010T100000
-DTSTAMP:20261010T090000Z
-UID:2026-10-10T09:00:00/Pitlane (Singapúr Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1 - via
- play
-DTSTART:20261010T090000
-DTEND:20261010T100000
-DTSTAMP:20261010T090000Z
-UID:2026-10-10T09:00:00/Onboard (Singapúr Kappaksturinn | Sprettkeppni)
-DESCRIPTION:Onboard (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1 - viap
  lay
 DTSTART:20261010T090000
@@ -147,6 +138,15 @@ DTEND:20261010T100000
 DTSTAMP:20261010T090000Z
 UID:2026-10-10T09:00:00/Timing (Singapúr Kappaksturinn | Sprettkeppni)
 DESCRIPTION:Timing (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1 - via
+ play
+DTSTART:20261010T090000
+DTEND:20261010T100000
+DTSTAMP:20261010T090000Z
+UID:2026-10-10T09:00:00/Pitlane (Singapúr Kappaksturinn | Sprettkeppni)
+DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Sprettkeppni) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Singapúr Kappaksturinn (Tímatökur) - Formula 1 - viaplay
@@ -168,13 +168,13 @@ DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Tímatökur) - Fo
  rmula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viapl
- ay
+SUMMARY:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
+ lay
 DTSTART:20261010T130000
 DTEND:20261010T140000
 DTSTAMP:20261010T130000Z
-UID:2026-10-10T13:00:00/Timing (Singapúr Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1
+UID:2026-10-10T13:00:00/Pitlane (Singapúr Kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
@@ -186,13 +186,13 @@ UID:2026-10-10T13:00:00/Onboard (Singapúr Kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Singapúr Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viap
- lay
+SUMMARY:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1 - viapl
+ ay
 DTSTART:20261010T130000
 DTEND:20261010T140000
 DTSTAMP:20261010T130000Z
-UID:2026-10-10T13:00:00/Pitlane (Singapúr Kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Tímatökur) - Formula 1
+UID:2026-10-10T13:00:00/Timing (Singapúr Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Singapúr Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Singapúr Kappaksturinn (Kappakstur) - Formula 1 - viaplay
@@ -211,15 +211,13 @@ UID:2026-10-11T11:55:00/F1 Kids: Singapore Grand Prix (Kappakstur)
 DESCRIPTION:F1 Kids: Singapore Grand Prix (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - Formula
-  1 - viaplay
+SUMMARY:Onboard (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapl
+ ay
 DTSTART:20261011T120000
 DTEND:20261011T130000
 DTSTAMP:20261011T120000Z
-UID:2026-10-11T12:00:00/Track Positioning (Singapúr Kappaksturinn | Kappa
- kstur)
-DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - For
- mula 1
+UID:2026-10-11T12:00:00/Onboard (Singapúr Kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Singapúr Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapl
@@ -231,13 +229,15 @@ UID:2026-10-11T12:00:00/Pitlane (Singapúr Kappaksturinn | Kappakstur)
 DESCRIPTION:Pitlane (Singapúr Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapl
- ay
+SUMMARY:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - Formula
+  1 - viaplay
 DTSTART:20261011T120000
 DTEND:20261011T130000
 DTSTAMP:20261011T120000Z
-UID:2026-10-11T12:00:00/Onboard (Singapúr Kappaksturinn | Kappakstur)
-DESCRIPTION:Onboard (Singapúr Kappaksturinn | Kappakstur) - Formula 1
+UID:2026-10-11T12:00:00/Track Positioning (Singapúr Kappaksturinn | Kappa
+ kstur)
+DESCRIPTION:Track Positioning (Singapúr Kappaksturinn | Kappakstur) - For
+ mula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Singapúr Kappaksturinn | Kappakstur) - Formula 1 - viapla
