@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Meistaradeild Evrópu - ical
 BEGIN:VEVENT
-SUMMARY:Lens - Sporting - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20261013T163500
-DTEND:20261013T173500
-DTSTAMP:20261013T163500Z
-UID:2026-10-13T16:35:00/Lens - Sporting
-DESCRIPTION:Lens - Sporting - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sabah - Slavia Prag - Meistaradeild Evrópu - synsport2
 DTSTART:20261013T163500
 DTEND:20261013T173500
 DTSTAMP:20261013T163500Z
 UID:2026-10-13T16:35:00/Sabah - Slavia Prag
 DESCRIPTION:Sabah - Slavia Prag - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens - Sporting - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20261013T163500
+DTEND:20261013T173500
+DTSTAMP:20261013T163500Z
+UID:2026-10-13T16:35:00/Lens - Sporting
+DESCRIPTION:Lens - Sporting - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
@@ -99,20 +99,12 @@ UID:2026-10-14T18:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roma - Real Madrid - Meistaradeild Evrópu - synsportviaplay
+SUMMARY:Man. City - PSG - Meistaradeild Evrópu - synsport2
 DTSTART:20261014T185000
 DTEND:20261014T195000
 DTSTAMP:20261014T185000Z
-UID:2026-10-14T18:50:00/Roma - Real Madrid
-DESCRIPTION:Roma - Real Madrid - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Betis - Porto - Meistaradeild Evrópu - synsport4
-DTSTART:20261014T185000
-DTEND:20261014T195000
-DTSTAMP:20261014T185000Z
-UID:2026-10-14T18:50:00/Real Betis - Porto
-DESCRIPTION:Real Betis - Porto - Meistaradeild Evrópu
+UID:2026-10-14T18:50:00/Man. City - PSG
+DESCRIPTION:Man. City - PSG - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aston Villa - Fenerbahce - Meistaradeild Evrópu - synsport3
@@ -123,12 +115,20 @@ UID:2026-10-14T18:50:00/Aston Villa - Fenerbahce
 DESCRIPTION:Aston Villa - Fenerbahce - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Man. City - PSG - Meistaradeild Evrópu - synsport2
+SUMMARY:Real Betis - Porto - Meistaradeild Evrópu - synsport4
 DTSTART:20261014T185000
 DTEND:20261014T195000
 DTSTAMP:20261014T185000Z
-UID:2026-10-14T18:50:00/Man. City - PSG
-DESCRIPTION:Man. City - PSG - Meistaradeild Evrópu
+UID:2026-10-14T18:50:00/Real Betis - Porto
+DESCRIPTION:Real Betis - Porto - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roma - Real Madrid - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20261014T185000
+DTEND:20261014T195000
+DTSTAMP:20261014T185000Z
+UID:2026-10-14T18:50:00/Roma - Real Madrid
+DESCRIPTION:Roma - Real Madrid - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
