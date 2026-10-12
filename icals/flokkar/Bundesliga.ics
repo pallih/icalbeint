@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:THW Kiel - Hamburger - Bundesliga - viaplay
-DTSTART:20261011T125500
-DTEND:20261011T135500
-DTSTAMP:20261011T125500Z
-UID:2026-10-11T12:55:00/THW Kiel - Hamburger
-DESCRIPTION:THW Kiel - Hamburger - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Köln - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20261011T132000
-DTEND:20261011T142000
-DTSTAMP:20261011T132000Z
-UID:2026-10-11T13:20:00/Köln - Mönchengladbach
-DESCRIPTION:Köln - Mönchengladbach - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Schalke - Bundesliga - viaplay
-DTSTART:20261011T152000
-DTEND:20261011T162000
-DTSTAMP:20261011T152000Z
-UID:2026-10-11T15:20:00/Freiburg - Schalke
-DESCRIPTION:Freiburg - Schalke - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Füchse Berlin - Lemgo Lippe - Bundesliga - viaplay
-DTSTART:20261011T155500
-DTEND:20261011T165500
-DTSTAMP:20261011T155500Z
-UID:2026-10-11T15:55:00/Füchse Berlin - Lemgo Lippe
-DESCRIPTION:Füchse Berlin - Lemgo Lippe - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THW Kiel - Rhein-Neckar Löwen - Bundesliga - viaplay
 DTSTART:20261015T165500
 DTEND:20261015T175500
@@ -58,12 +26,12 @@ UID:2026-10-17T13:20:00/Werder Bremen - Paderborn
 DESCRIPTION:Werder Bremen - Paderborn - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Dortmund - Bundesliga - viaplay
+SUMMARY:Schalke - Mainz - Bundesliga - viaplay
 DTSTART:20261017T132000
 DTEND:20261017T142000
 DTSTAMP:20261017T132000Z
-UID:2026-10-17T13:20:00/Union Berlin - Dortmund
-DESCRIPTION:Union Berlin - Dortmund - Bundesliga
+UID:2026-10-17T13:20:00/Schalke - Mainz
+DESCRIPTION:Schalke - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elversberg - Augsburg - Bundesliga - viaplay
@@ -74,12 +42,12 @@ UID:2026-10-17T13:20:00/Elversberg - Augsburg
 DESCRIPTION:Elversberg - Augsburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HSV - Stuttgart - Bundesliga - viaplay
+SUMMARY:Union Berlin - Dortmund - Bundesliga - viaplay
 DTSTART:20261017T132000
 DTEND:20261017T142000
 DTSTAMP:20261017T132000Z
-UID:2026-10-17T13:20:00/HSV - Stuttgart
-DESCRIPTION:HSV - Stuttgart - Bundesliga
+UID:2026-10-17T13:20:00/Union Berlin - Dortmund
+DESCRIPTION:Union Berlin - Dortmund - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -90,12 +58,12 @@ UID:2026-10-17T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schalke - Mainz - Bundesliga - viaplay
+SUMMARY:HSV - Stuttgart - Bundesliga - viaplay
 DTSTART:20261017T132000
 DTEND:20261017T142000
 DTSTAMP:20261017T132000Z
-UID:2026-10-17T13:20:00/Schalke - Mainz
-DESCRIPTION:Schalke - Mainz - Bundesliga
+UID:2026-10-17T13:20:00/HSV - Stuttgart
+DESCRIPTION:HSV - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Leipzig - Bundesliga - viaplay
@@ -104,5 +72,45 @@ DTEND:20261017T172000
 DTSTAMP:20261017T162000Z
 UID:2026-10-17T16:20:00/Bayern München - Leipzig
 DESCRIPTION:Bayern München - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - RB Leipzig - Bundesliga - synsportviaplay
+DTSTART:20261017T162000
+DTEND:20261017T172000
+DTSTAMP:20261017T162000Z
+UID:2026-10-17T16:20:00/Bayern München - RB Leipzig
+DESCRIPTION:Bayern München - RB Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flensburg-Handewitt - Füchse Berlin - Bundesliga - viaplay
+DTSTART:20261018T125500
+DTEND:20261018T135500
+DTSTAMP:20261018T125500Z
+UID:2026-10-18T12:55:00/Flensburg-Handewitt - Füchse Berlin
+DESCRIPTION:Flensburg-Handewitt - Füchse Berlin - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Freiburg - Bundesliga - viaplay
+DTSTART:20261018T132000
+DTEND:20261018T142000
+DTSTAMP:20261018T132000Z
+UID:2026-10-18T13:20:00/Leverkusen - Freiburg
+DESCRIPTION:Leverkusen - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Hoffenheim - Bundesliga - viaplay
+DTSTART:20261018T152000
+DTEND:20261018T162000
+DTSTAMP:20261018T152000Z
+UID:2026-10-18T15:20:00/Mönchengladbach - Hoffenheim
+DESCRIPTION:Mönchengladbach - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:M´gladbach - Hoffenheim - Bundesliga - synsportviaplay
+DTSTART:20261018T152000
+DTEND:20261018T162000
+DTSTAMP:20261018T152000Z
+UID:2026-10-18T15:20:00/M´gladbach - Hoffenheim
+DESCRIPTION:M´gladbach - Hoffenheim - Bundesliga
 END:VEVENT
 END:VCALENDAR
