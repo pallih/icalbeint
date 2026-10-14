@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - UEFA Europa Conference League - ical
 BEGIN:VEVENT
-SUMMARY:Hajduk Split - Ajax - UEFA Europa Conference League - viaplay
-DTSTART:20261015T164000
-DTEND:20261015T174000
-DTSTAMP:20261015T164000Z
-UID:2026-10-15T16:40:00/Hajduk Split - Ajax
-DESCRIPTION:Hajduk Split - Ajax - UEFA Europa Conference League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lugano - Rauða Stjarnan - UEFA Europa Conference League - viaplay
 DTSTART:20261015T164000
 DTEND:20261015T174000
@@ -81,6 +73,14 @@ DESCRIPTION:Egnatia Rrogozhinë - Midtjylland - UEFA Europa Conference Lea
  gue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hajduk Split - Ajax - UEFA Europa Conference League - viaplay
+DTSTART:20261015T164000
+DTEND:20261015T174000
+DTSTAMP:20261015T164000Z
+UID:2026-10-15T16:40:00/Hajduk Split - Ajax
+DESCRIPTION:Hajduk Split - Ajax - UEFA Europa Conference League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:F.C. København - Braga - UEFA Europa Conference League - viaplay
 DTSTART:20261015T185000
 DTEND:20261015T195000
@@ -114,13 +114,12 @@ UID:2026-10-15T18:55:00/Twente - Thun
 DESCRIPTION:Twente - Thun - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brighton - Kauno Žalgiris - UEFA Europa Conference League - viapl
- ay
+SUMMARY:Freiburg - Jablonec - UEFA Europa Conference League - viaplay
 DTSTART:20261015T185500
 DTEND:20261015T195500
 DTSTAMP:20261015T185500Z
-UID:2026-10-15T18:55:00/Brighton - Kauno Žalgiris
-DESCRIPTION:Brighton - Kauno Žalgiris - UEFA Europa Conference League
+UID:2026-10-15T18:55:00/Freiburg - Jablonec
+DESCRIPTION:Freiburg - Jablonec - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atalanta - Pafos - UEFA Europa Conference League - viaplay
@@ -131,11 +130,12 @@ UID:2026-10-15T18:55:00/Atalanta - Pafos
 DESCRIPTION:Atalanta - Pafos - UEFA Europa Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg - Jablonec - UEFA Europa Conference League - viaplay
+SUMMARY:Brighton - Kauno Žalgiris - UEFA Europa Conference League - viapl
+ ay
 DTSTART:20261015T185500
 DTEND:20261015T195500
 DTSTAMP:20261015T185500Z
-UID:2026-10-15T18:55:00/Freiburg - Jablonec
-DESCRIPTION:Freiburg - Jablonec - UEFA Europa Conference League
+UID:2026-10-15T18:55:00/Brighton - Kauno Žalgiris
+DESCRIPTION:Brighton - Kauno Žalgiris - UEFA Europa Conference League
 END:VEVENT
 END:VCALENDAR
