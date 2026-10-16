@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:THW Kiel - Rhein-Neckar Löwen - Bundesliga - viaplay
-DTSTART:20261015T165500
-DTEND:20261015T175500
-DTSTAMP:20261015T165500Z
-UID:2026-10-15T16:55:00/THW Kiel - Rhein-Neckar Löwen
-DESCRIPTION:THW Kiel - Rhein-Neckar Löwen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frankfurt - Köln - Bundesliga - viaplay
 DTSTART:20261016T182000
 DTEND:20261016T192000
@@ -66,6 +58,14 @@ UID:2026-10-17T13:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bayern München - Leipzig (Tactical Feed) - Bundesliga - viaplay
+DTSTART:20261017T162000
+DTEND:20261017T172000
+DTSTAMP:20261017T162000Z
+UID:2026-10-17T16:20:00/Bayern München - Leipzig (Tactical Feed)
+DESCRIPTION:Bayern München - Leipzig (Tactical Feed) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayern München - Leipzig - Bundesliga - viaplay
 DTSTART:20261017T162000
 DTEND:20261017T172000
@@ -80,14 +80,6 @@ DTEND:20261017T172000
 DTSTAMP:20261017T162000Z
 UID:2026-10-17T16:20:00/Bayern München - RB Leipzig
 DESCRIPTION:Bayern München - RB Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bayern München - Leipzig (Tactical Feed) - Bundesliga - viaplay
-DTSTART:20261017T162000
-DTEND:20261017T172000
-DTSTAMP:20261017T162000Z
-UID:2026-10-17T16:20:00/Bayern München - Leipzig (Tactical Feed)
-DESCRIPTION:Bayern München - Leipzig (Tactical Feed) - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flensburg-Handewitt - Füchse Berlin - Bundesliga - viaplay
@@ -128,5 +120,13 @@ DTEND:20261019T175500
 DTSTAMP:20261019T165500Z
 UID:2026-10-19T16:55:00/Balingen-Weilstetten - Hannover-Burgdorf
 DESCRIPTION:Balingen-Weilstetten - Hannover-Burgdorf - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuttgart - Bietigheim - Bundesliga - viaplay
+DTSTART:20261022T165500
+DTEND:20261022T175500
+DTSTAMP:20261022T165500Z
+UID:2026-10-22T16:55:00/Stuttgart - Bietigheim
+DESCRIPTION:Stuttgart - Bietigheim - Bundesliga
 END:VEVENT
 END:VCALENDAR
