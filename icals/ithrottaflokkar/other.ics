@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - other - ical
 BEGIN:VEVENT
-SUMMARY:Day 3 - UCI Track World Championships - Shanghai - eurosport2
-DTSTART:20261016T085500
-DTEND:20261016T095500
-DTSTAMP:20261016T085500Z
-UID:2026-10-16T08:55:00/Day 3
-DESCRIPTION:Day 3 - UCI Track World Championships - Shanghai
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:British Champions Stakes - Crown Jewels Racing - viaplay
 DTSTART:20261017T140000
 DTEND:20261017T150000
@@ -29,10 +21,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Northern Ireland Open | Round 1 - Northern Ireland Open - eurospor
  t1
-DTSTART:20261018T144500
-DTEND:20261018T154500
-DTSTAMP:20261018T144500Z
-UID:2026-10-18T14:45:00/Northern Ireland Open | Round 1
+DTSTART:20261018T150000
+DTEND:20261018T160000
+DTSTAMP:20261018T150000Z
+UID:2026-10-18T15:00:00/Northern Ireland Open | Round 1
 DESCRIPTION:Northern Ireland Open | Round 1 - Northern Ireland Open
 END:VEVENT
 BEGIN:VEVENT
@@ -97,5 +89,23 @@ DTEND:20261021T190000
 DTSTAMP:20261021T180000Z
 UID:2026-10-21T18:00:00/Northern Ireland Open | Round 2
 DESCRIPTION:Northern Ireland Open | Round 2 - Northern Ireland Open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Ireland Open | Round 3 - Northern Ireland Open - eurospor
+ t1
+DTSTART:20261022T120000
+DTEND:20261022T130000
+DTSTAMP:20261022T120000Z
+UID:2026-10-22T12:00:00/Northern Ireland Open | Round 3
+DESCRIPTION:Northern Ireland Open | Round 3 - Northern Ireland Open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Ireland Open | Round 3 - Northern Ireland Open - eurospor
+ t1
+DTSTART:20261022T180000
+DTEND:20261022T190000
+DTSTAMP:20261022T180000Z
+UID:2026-10-22T18:00:00/Northern Ireland Open | Round 3
+DESCRIPTION:Northern Ireland Open | Round 3 - Northern Ireland Open
 END:VEVENT
 END:VCALENDAR
