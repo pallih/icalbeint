@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:Bayern München - Stuttgart - Frauen-Bundesliga - viaplay
-DTSTART:20261019T155500
-DTEND:20261019T165500
-DTSTAMP:20261019T155500Z
-UID:2026-10-19T15:55:00/Bayern München - Stuttgart
-DESCRIPTION:Bayern München - Stuttgart - Frauen-Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Balingen-Weilstetten - Hannover-Burgdorf - Bundesliga - viaplay
-DTSTART:20261019T165500
-DTEND:20261019T175500
-DTSTAMP:20261019T165500Z
-UID:2026-10-19T16:55:00/Balingen-Weilstetten - Hannover-Burgdorf
-DESCRIPTION:Balingen-Weilstetten - Hannover-Burgdorf - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dregið - FA Cup - viaplay
-DTSTART:20261019T173000
-DTEND:20261019T183000
-DTSTAMP:20261019T173000Z
-UID:2026-10-19T17:30:00/Dregið
-DESCRIPTION:Dregið - FA Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rays - Guardians - Major League Baseball - viaplay
 DTSTART:20261020T000000
 DTEND:20261020T010000
@@ -90,14 +66,6 @@ UID:2026-10-20T18:35:00/Wolverhampton - Portsmouth
 DESCRIPTION:Wolverhampton - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roma - Slovan Bratislava - Champions League - viaplay
-DTSTART:20261020T185000
-DTEND:20261020T195000
-DTSTAMP:20261020T185000Z
-UID:2026-10-20T18:50:00/Roma - Slovan Bratislava
-DESCRIPTION:Roma - Slovan Bratislava - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liverpool - Villarreal - Champions League - viaplay
 DTSTART:20261020T185000
 DTEND:20261020T195000
@@ -112,6 +80,14 @@ DTEND:20261020T195000
 DTSTAMP:20261020T185000Z
 UID:2026-10-20T18:50:00/Stuttgart - Atlético Madrid
 DESCRIPTION:Stuttgart - Atlético Madrid - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roma - Slovan Bratislava - Champions League - viaplay
+DTSTART:20261020T185000
+DTEND:20261020T195000
+DTSTAMP:20261020T185000Z
+UID:2026-10-20T18:50:00/Roma - Slovan Bratislava
+DESCRIPTION:Roma - Slovan Bratislava - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gillingham - Port Vale - League Two - viaplay
@@ -162,6 +138,14 @@ UID:2026-10-21T16:35:00/Lille - Galatasaray
 DESCRIPTION:Lille - Galatasaray - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sporting - LASK - Champions League - viaplay
+DTSTART:20261021T185000
+DTEND:20261021T195000
+DTSTAMP:20261021T185000Z
+UID:2026-10-21T18:50:00/Sporting - LASK
+DESCRIPTION:Sporting - LASK - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club Brugge - Lens - Champions League - viaplay
 DTSTART:20261021T185000
 DTEND:20261021T195000
@@ -184,14 +168,6 @@ DTEND:20261021T195000
 DTSTAMP:20261021T185000Z
 UID:2026-10-21T18:50:00/Aston Villa - Viking
 DESCRIPTION:Aston Villa - Viking - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sporting - LASK - Champions League - viaplay
-DTSTART:20261021T185000
-DTEND:20261021T195000
-DTSTAMP:20261021T185000Z
-UID:2026-10-21T18:50:00/Sporting - LASK
-DESCRIPTION:Sporting - LASK - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reading - Leyton Orient - League One - viaplay
@@ -218,14 +194,6 @@ UID:2026-10-22T14:25:00/Kairat - Panathinaikos
 DESCRIPTION:Kairat - Panathinaikos - UEFA Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kauno Žalgiris - Brann - UEFA Conference League - viaplay
-DTSTART:20261022T160000
-DTEND:20261022T170000
-DTSTAMP:20261022T160000Z
-UID:2026-10-22T16:00:00/Kauno Žalgiris - Brann
-DESCRIPTION:Kauno Žalgiris - Brann - UEFA Conference League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lech Poznań - Sunderland - UEFA Europa League - viaplay
 DTSTART:20261022T163500
 DTEND:20261022T173500
@@ -242,77 +210,12 @@ UID:2026-10-22T16:40:00/Pafos - Riga
 DESCRIPTION:Pafos - Riga - UEFA Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Getafe - Lugano - UEFA Conference League - viaplay
-DTSTART:20261022T164000
-DTEND:20261022T174000
-DTSTAMP:20261022T164000Z
-UID:2026-10-22T16:40:00/Getafe - Lugano
-DESCRIPTION:Getafe - Lugano - UEFA Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iberia 1999 - Mjällby - UEFA Conference League - viaplay
-DTSTART:20261022T164000
-DTEND:20261022T174000
-DTSTAMP:20261022T164000Z
-UID:2026-10-22T16:40:00/Iberia 1999 - Mjällby
-DESCRIPTION:Iberia 1999 - Mjällby - UEFA Conference League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trabzonspor - Hearts - UEFA Conference League - viaplay
 DTSTART:20261022T164000
 DTEND:20261022T174000
 DTSTAMP:20261022T164000Z
 UID:2026-10-22T16:40:00/Trabzonspor - Hearts
 DESCRIPTION:Trabzonspor - Hearts - UEFA Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ararat-Armenia - AZ - UEFA Europa League - viaplay
-DTSTART:20261022T164000
-DTEND:20261022T174000
-DTSTAMP:20261022T164000Z
-UID:2026-10-22T16:40:00/Ararat-Armenia - AZ
-DESCRIPTION:Ararat-Armenia - AZ - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sturm Graz - Marseille - UEFA Europa League - viaplay
-DTSTART:20261022T164000
-DTEND:20261022T174000
-DTSTAMP:20261022T164000Z
-UID:2026-10-22T16:40:00/Sturm Graz - Marseille
-DESCRIPTION:Sturm Graz - Marseille - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Saint-Gilloise - Hapoel Be'er Sheva - UEFA Europa League - v
- iaplay
-DTSTART:20261022T164000
-DTEND:20261022T174000
-DTSTAMP:20261022T164000Z
-UID:2026-10-22T16:40:00/Union Saint-Gilloise - Hapoel Be'er Sheva
-DESCRIPTION:Union Saint-Gilloise - Hapoel Be'er Sheva - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinamo Zagreb - NEC - UEFA Europa League - viaplay
-DTSTART:20261022T164000
-DTEND:20261022T174000
-DTSTAMP:20261022T164000Z
-UID:2026-10-22T16:40:00/Dinamo Zagreb - NEC
-DESCRIPTION:Dinamo Zagreb - NEC - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nordsjælland - CSKA Sofia - UEFA Conference League - viaplay
-DTSTART:20261022T164000
-DTEND:20261022T174000
-DTSTAMP:20261022T164000Z
-UID:2026-10-22T16:40:00/Nordsjælland - CSKA Sofia
-DESCRIPTION:Nordsjælland - CSKA Sofia - UEFA Conference League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jablonec - Brighton - UEFA Conference League - viaplay
-DTSTART:20261022T164000
-DTEND:20261022T174000
-DTSTAMP:20261022T164000Z
-UID:2026-10-22T16:40:00/Jablonec - Brighton
-DESCRIPTION:Jablonec - Brighton - UEFA Conference League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Club d'Escaldes - Universitatea Craiova - UEFA Conference Le
@@ -325,12 +228,77 @@ DESCRIPTION:Inter Club d'Escaldes - Universitatea Craiova - UEFA Conferenc
  e League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OFI - Leverkusen - UEFA Europa League - viaplay
+SUMMARY:Getafe - Lugano - UEFA Conference League - viaplay
 DTSTART:20261022T164000
 DTEND:20261022T174000
 DTSTAMP:20261022T164000Z
-UID:2026-10-22T16:40:00/OFI - Leverkusen
-DESCRIPTION:OFI - Leverkusen - UEFA Europa League
+UID:2026-10-22T16:40:00/Getafe - Lugano
+DESCRIPTION:Getafe - Lugano - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kauno Žalgiris - Brann - UEFA Conference League - viaplay
+DTSTART:20261022T164000
+DTEND:20261022T174000
+DTSTAMP:20261022T164000Z
+UID:2026-10-22T16:40:00/Kauno Žalgiris - Brann
+DESCRIPTION:Kauno Žalgiris - Brann - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jablonec - Brighton - UEFA Conference League - viaplay
+DTSTART:20261022T164000
+DTEND:20261022T174000
+DTSTAMP:20261022T164000Z
+UID:2026-10-22T16:40:00/Jablonec - Brighton
+DESCRIPTION:Jablonec - Brighton - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordsjælland - CSKA Sofia - UEFA Conference League - viaplay
+DTSTART:20261022T164000
+DTEND:20261022T174000
+DTSTAMP:20261022T164000Z
+UID:2026-10-22T16:40:00/Nordsjælland - CSKA Sofia
+DESCRIPTION:Nordsjælland - CSKA Sofia - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iberia 1999 - Mjällby - UEFA Conference League - viaplay
+DTSTART:20261022T164000
+DTEND:20261022T174000
+DTSTAMP:20261022T164000Z
+UID:2026-10-22T16:40:00/Iberia 1999 - Mjällby
+DESCRIPTION:Iberia 1999 - Mjällby - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinamo Zagreb - NEC - UEFA Europa League - viaplay
+DTSTART:20261022T164000
+DTEND:20261022T174000
+DTSTAMP:20261022T164000Z
+UID:2026-10-22T16:40:00/Dinamo Zagreb - NEC
+DESCRIPTION:Dinamo Zagreb - NEC - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Saint-Gilloise - Hapoel Be'er Sheva - UEFA Europa League - v
+ iaplay
+DTSTART:20261022T164000
+DTEND:20261022T174000
+DTSTAMP:20261022T164000Z
+UID:2026-10-22T16:40:00/Union Saint-Gilloise - Hapoel Be'er Sheva
+DESCRIPTION:Union Saint-Gilloise - Hapoel Be'er Sheva - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sturm Graz - Marseille - UEFA Europa League - viaplay
+DTSTART:20261022T164000
+DTEND:20261022T174000
+DTSTAMP:20261022T164000Z
+UID:2026-10-22T16:40:00/Sturm Graz - Marseille
+DESCRIPTION:Sturm Graz - Marseille - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ararat-Armenia - AZ - UEFA Europa League - viaplay
+DTSTART:20261022T164000
+DTEND:20261022T174000
+DTSTAMP:20261022T164000Z
+UID:2026-10-22T16:40:00/Ararat-Armenia - AZ
+DESCRIPTION:Ararat-Armenia - AZ - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ferencváros - Torreense - UEFA Europa League - viaplay
@@ -341,12 +309,12 @@ UID:2026-10-22T16:40:00/Ferencváros - Torreense
 DESCRIPTION:Ferencváros - Torreense - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Örebro - Brynäs - SHL - viaplay
-DTSTART:20261022T165500
-DTEND:20261022T175500
-DTSTAMP:20261022T165500Z
-UID:2026-10-22T16:55:00/Örebro - Brynäs
-DESCRIPTION:Örebro - Brynäs - SHL
+SUMMARY:OFI - Leverkusen - UEFA Europa League - viaplay
+DTSTART:20261022T164000
+DTEND:20261022T174000
+DTSTAMP:20261022T164000Z
+UID:2026-10-22T16:40:00/OFI - Leverkusen
+DESCRIPTION:OFI - Leverkusen - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stuttgart - Bietigheim - Bundesliga - viaplay
@@ -355,6 +323,14 @@ DTEND:20261022T175500
 DTSTAMP:20261022T165500Z
 UID:2026-10-22T16:55:00/Stuttgart - Bietigheim
 DESCRIPTION:Stuttgart - Bietigheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Örebro - Brynäs - SHL - viaplay
+DTSTART:20261022T165500
+DTEND:20261022T175500
+DTSTAMP:20261022T165500Z
+UID:2026-10-22T16:55:00/Örebro - Brynäs
+DESCRIPTION:Örebro - Brynäs - SHL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:European Championship - PDC Darts - viaplay
@@ -381,14 +357,6 @@ UID:2026-10-22T18:50:00/Bournemouth - Milan
 DESCRIPTION:Bournemouth - Milan - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Omonia Nicosia - Benfica - UEFA Europa League - viaplay
-DTSTART:20261022T185500
-DTEND:20261022T195500
-DTSTAMP:20261022T185500Z
-UID:2026-10-22T18:55:00/Omonia Nicosia - Benfica
-DESCRIPTION:Omonia Nicosia - Benfica - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Celtic - Celta Vigo - UEFA Europa League - viaplay
 DTSTART:20261022T185500
 DTEND:20261022T195500
@@ -397,20 +365,20 @@ UID:2026-10-22T18:55:00/Celtic - Celta Vigo
 DESCRIPTION:Celtic - Celta Vigo - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hoffenheim - Lyon - UEFA Europa League - viaplay
+SUMMARY:Celje - Salzburg - UEFA Europa League - viaplay
 DTSTART:20261022T185500
 DTEND:20261022T195500
 DTSTAMP:20261022T185500Z
-UID:2026-10-22T18:55:00/Hoffenheim - Lyon
-DESCRIPTION:Hoffenheim - Lyon - UEFA Europa League
+UID:2026-10-22T18:55:00/Celje - Salzburg
+DESCRIPTION:Celje - Salzburg - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Olympiakos - Sparta Prag - UEFA Europa League - viaplay
+SUMMARY:Viktoria Plzeň - Levski Sofia - UEFA Europa League - viaplay
 DTSTART:20261022T185500
 DTEND:20261022T195500
 DTSTAMP:20261022T185500Z
-UID:2026-10-22T18:55:00/Olympiakos - Sparta Prag
-DESCRIPTION:Olympiakos - Sparta Prag - UEFA Europa League
+UID:2026-10-22T18:55:00/Viktoria Plzeň - Levski Sofia
+DESCRIPTION:Viktoria Plzeň - Levski Sofia - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ajax - Atalanta - UEFA Conference League - viaplay
@@ -469,20 +437,20 @@ UID:2026-10-22T18:55:00/Braga - Gent
 DESCRIPTION:Braga - Gent - UEFA Conference League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viktoria Plzeň - Levski Sofia - UEFA Europa League - viaplay
+SUMMARY:Olympiakos - Sparta Prag - UEFA Europa League - viaplay
 DTSTART:20261022T185500
 DTEND:20261022T195500
 DTSTAMP:20261022T185500Z
-UID:2026-10-22T18:55:00/Viktoria Plzeň - Levski Sofia
-DESCRIPTION:Viktoria Plzeň - Levski Sofia - UEFA Europa League
+UID:2026-10-22T18:55:00/Olympiakos - Sparta Prag
+DESCRIPTION:Olympiakos - Sparta Prag - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celje - Salzburg - UEFA Europa League - viaplay
+SUMMARY:Omonia Nicosia - Benfica - UEFA Europa League - viaplay
 DTSTART:20261022T185500
 DTEND:20261022T195500
 DTSTAMP:20261022T185500Z
-UID:2026-10-22T18:55:00/Celje - Salzburg
-DESCRIPTION:Celje - Salzburg - UEFA Europa League
+UID:2026-10-22T18:55:00/Omonia Nicosia - Benfica
+DESCRIPTION:Omonia Nicosia - Benfica - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jagiellonia Białystok - Anderlecht - UEFA Europa League - viaplay
@@ -491,6 +459,14 @@ DTEND:20261022T195500
 DTSTAMP:20261022T185500Z
 UID:2026-10-22T18:55:00/Jagiellonia Białystok - Anderlecht
 DESCRIPTION:Jagiellonia Białystok - Anderlecht - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Lyon - UEFA Europa League - viaplay
+DTSTART:20261022T185500
+DTEND:20261022T195500
+DTSTAMP:20261022T185500Z
+UID:2026-10-22T18:55:00/Hoffenheim - Lyon
+DESCRIPTION:Hoffenheim - Lyon - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beşiktaş - Crystal Palace - UEFA Europa League - viaplay
@@ -557,12 +533,12 @@ UID:2026-10-23T04:00:00/Philippines Open Pool Championship
 DESCRIPTION:Philippines Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Darmstadt - St. Pauli - 2. Bundesliga - viaplay
+SUMMARY:Leipzig - Bayern München - Frauen-Bundesliga - viaplay
 DTSTART:20261023T162500
 DTEND:20261023T172500
 DTSTAMP:20261023T162500Z
-UID:2026-10-23T16:25:00/Darmstadt - St. Pauli
-DESCRIPTION:Darmstadt - St. Pauli - 2. Bundesliga
+UID:2026-10-23T16:25:00/Leipzig - Bayern München
+DESCRIPTION:Leipzig - Bayern München - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bochum - Wolfsburg - 2. Bundesliga - viaplay
@@ -573,12 +549,12 @@ UID:2026-10-23T16:25:00/Bochum - Wolfsburg
 DESCRIPTION:Bochum - Wolfsburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leipzig - Bayern München - Frauen-Bundesliga - viaplay
+SUMMARY:Darmstadt - St. Pauli - 2. Bundesliga - viaplay
 DTSTART:20261023T162500
 DTEND:20261023T172500
 DTSTAMP:20261023T162500Z
-UID:2026-10-23T16:25:00/Leipzig - Bayern München
-DESCRIPTION:Leipzig - Bayern München - Frauen-Bundesliga
+UID:2026-10-23T16:25:00/Darmstadt - St. Pauli
+DESCRIPTION:Darmstadt - St. Pauli - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Växjö - Häcken - OBOS Damallsvenskan - viaplay
@@ -613,14 +589,6 @@ UID:2026-10-23T17:30:00/Timing (Texas Kappaksturinn | Æfing 1)
 DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20261023T173000
-DTEND:20261023T183000
-DTSTAMP:20261023T173000Z
-UID:2026-10-23T17:30:00/Pitlane (Texas Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 1) - Formula 1 - v
  iaplay
 DTSTART:20261023T173000
@@ -628,6 +596,14 @@ DTEND:20261023T183000
 DTSTAMP:20261023T173000Z
 UID:2026-10-23T17:30:00/Track Positioning (Texas Kappaksturinn | Æfing 1)
 DESCRIPTION:Track Positioning (Texas Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20261023T173000
+DTEND:20261023T183000
+DTSTAMP:20261023T173000Z
+UID:2026-10-23T17:30:00/Pitlane (Texas Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -662,20 +638,21 @@ UID:2026-10-23T20:55:00/Texas Kappaksturinn (Æfing 2)
 DESCRIPTION:Texas Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 2) - Formula 1 - viaplay
-DTSTART:20261023T210000
-DTEND:20261023T220000
-DTSTAMP:20261023T210000Z
-UID:2026-10-23T21:00:00/Pitlane (Texas Kappaksturinn | Æfing 2)
-DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Timing (Texas Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20261023T210000
 DTEND:20261023T220000
 DTSTAMP:20261023T210000Z
 UID:2026-10-23T21:00:00/Timing (Texas Kappaksturinn | Æfing 2)
 DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 2) - Formula 1 - v
+ iaplay
+DTSTART:20261023T210000
+DTEND:20261023T220000
+DTSTAMP:20261023T210000Z
+UID:2026-10-23T21:00:00/Track Positioning (Texas Kappaksturinn | Æfing 2)
+DESCRIPTION:Track Positioning (Texas Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Texas Kappaksturinn | Æfing 2) - Formula 1 - viaplay
@@ -686,13 +663,12 @@ UID:2026-10-23T21:00:00/Onboard (Texas Kappaksturinn | Æfing 2)
 DESCRIPTION:Onboard (Texas Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 2) - Formula 1 - v
- iaplay
+SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20261023T210000
 DTEND:20261023T220000
 DTSTAMP:20261023T210000Z
-UID:2026-10-23T21:00:00/Track Positioning (Texas Kappaksturinn | Æfing 2)
-DESCRIPTION:Track Positioning (Texas Kappaksturinn | Æfing 2) - Formula 1
+UID:2026-10-23T21:00:00/Pitlane (Texas Kappaksturinn | Æfing 2)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
@@ -725,6 +701,14 @@ DTEND:20261024T000000
 DTSTAMP:20261023T230000Z
 UID:2026-10-23T23:00:00/Ástralíu Kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Ástralíu Kappaksturinn (Frjáls æfing 2) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brewers - Rays - Major League Baseball - viaplay
+DTSTART:20261023T233000
+DTEND:20261024T003000
+DTSTAMP:20261023T233000Z
+UID:2026-10-23T23:30:00/Brewers - Rays
+DESCRIPTION:Brewers - Rays - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Tímatökur) - MotoGP - viaplay
@@ -783,6 +767,14 @@ UID:2026-10-24T10:00:00/Philippines Open Pool Championship
 DESCRIPTION:Philippines Open Pool Championship - Pool
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Magdeburg - Karlsruher - 2. Bundesliga - viaplay
+DTSTART:20261024T105500
+DTEND:20261024T115500
+DTSTAMP:20261024T105500Z
+UID:2026-10-24T10:55:00/Magdeburg - Karlsruher
+DESCRIPTION:Magdeburg - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Arminia Bielefeld - 2. Bundesliga - viaplay
 DTSTART:20261024T105500
 DTEND:20261024T115500
@@ -799,14 +791,6 @@ UID:2026-10-24T10:55:00/Heidenheim - Energie Cottbus
 DESCRIPTION:Heidenheim - Energie Cottbus - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Karlsruher - 2. Bundesliga - viaplay
-DTSTART:20261024T105500
-DTEND:20261024T115500
-DTSTAMP:20261024T105500Z
-UID:2026-10-24T10:55:00/Magdeburg - Karlsruher
-DESCRIPTION:Magdeburg - Karlsruher - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:European Championship - PDC Darts - viaplay
 DTSTART:20261024T110000
 DTEND:20261024T120000
@@ -815,20 +799,20 @@ UID:2026-10-24T11:00:00/European Championship
 DESCRIPTION:European Championship - PDC Darts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield United - Derby - Championship - viaplay
-DTSTART:20261024T112000
-DTEND:20261024T122000
-DTSTAMP:20261024T112000Z
-UID:2026-10-24T11:20:00/Sheffield United - Derby
-DESCRIPTION:Sheffield United - Derby - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Charlton - Norwich - Championship - viaplay
 DTSTART:20261024T112000
 DTEND:20261024T122000
 DTSTAMP:20261024T112000Z
 UID:2026-10-24T11:20:00/Charlton - Norwich
 DESCRIPTION:Charlton - Norwich - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Derby - Championship - viaplay
+DTSTART:20261024T112000
+DTEND:20261024T122000
+DTSTAMP:20261024T112000Z
+UID:2026-10-24T11:20:00/Sheffield United - Derby
+DESCRIPTION:Sheffield United - Derby - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portsmouth - Millwall - Championship - viaplay
@@ -863,12 +847,12 @@ UID:2026-10-24T13:20:00/Paderborn - HSV
 DESCRIPTION:Paderborn - HSV - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Augsburg - Union Berlin - Bundesliga - viaplay
 DTSTART:20261024T132000
 DTEND:20261024T142000
 DTSTAMP:20261024T132000Z
-UID:2026-10-24T13:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2026-10-24T13:20:00/Augsburg - Union Berlin
+DESCRIPTION:Augsburg - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Elversberg - Bundesliga - viaplay
@@ -879,20 +863,12 @@ UID:2026-10-24T13:20:00/Leipzig - Elversberg
 DESCRIPTION:Leipzig - Elversberg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Union Berlin - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20261024T132000
 DTEND:20261024T142000
 DTSTAMP:20261024T132000Z
-UID:2026-10-24T13:20:00/Augsburg - Union Berlin
-DESCRIPTION:Augsburg - Union Berlin - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Ham - Southampton - Championship - viaplay
-DTSTART:20261024T135000
-DTEND:20261024T145000
-DTSTAMP:20261024T135000Z
-UID:2026-10-24T13:50:00/West Ham - Southampton
-DESCRIPTION:West Ham - Southampton - Championship
+UID:2026-10-24T13:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norrköping - Uppsala - OBOS Damallsvenskan - viaplay
@@ -917,6 +893,14 @@ DTEND:20261024T145000
 DTSTAMP:20261024T135000Z
 UID:2026-10-24T13:50:00/Wolverhampton - Watford
 DESCRIPTION:Wolverhampton - Watford - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Southampton - Championship - viaplay
+DTSTART:20261024T135000
+DTEND:20261024T145000
+DTSTAMP:20261024T135000Z
+UID:2026-10-24T13:50:00/West Ham - Southampton
+DESCRIPTION:West Ham - Southampton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stoke - Bristol City - Championship - viaplay
@@ -1007,20 +991,20 @@ UID:2026-10-24T17:25:00/Texas Kappaksturinn (Æfing 3)
 DESCRIPTION:Texas Kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Texas Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20261024T173000
+DTEND:20261024T183000
+DTSTAMP:20261024T173000Z
+UID:2026-10-24T17:30:00/Timing (Texas Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Champions League weekly - Champions League - viaplay
 DTSTART:20261024T173000
 DTEND:20261024T183000
 DTSTAMP:20261024T173000Z
 UID:2026-10-24T17:30:00/Champions League weekly
 DESCRIPTION:Champions League weekly - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Texas Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20261024T173000
-DTEND:20261024T183000
-DTSTAMP:20261024T173000Z
-UID:2026-10-24T17:30:00/Onboard (Texas Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Texas Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 3) - Formula 1 - viaplay
@@ -1031,14 +1015,6 @@ UID:2026-10-24T17:30:00/Pitlane (Texas Kappaksturinn | Æfing 3)
 DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Texas Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20261024T173000
-DTEND:20261024T183000
-DTSTAMP:20261024T173000Z
-UID:2026-10-24T17:30:00/Timing (Texas Kappaksturinn | Æfing 3)
-DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 3) - Formula 1 - v
  iaplay
 DTSTART:20261024T173000
@@ -1046,6 +1022,14 @@ DTEND:20261024T183000
 DTSTAMP:20261024T173000Z
 UID:2026-10-24T17:30:00/Track Positioning (Texas Kappaksturinn | Æfing 3)
 DESCRIPTION:Track Positioning (Texas Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Texas Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20261024T173000
+DTEND:20261024T183000
+DTSTAMP:20261024T173000Z
+UID:2026-10-24T17:30:00/Onboard (Texas Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Texas Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Volkanovski vs Evloev - UFC - viaplay
@@ -1072,22 +1056,6 @@ UID:2026-10-24T20:55:00/Texas Kappaksturinn (Tímatökur)
 DESCRIPTION:Texas Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
-DTSTART:20261024T210000
-DTEND:20261024T220000
-DTSTAMP:20261024T210000Z
-UID:2026-10-24T21:00:00/Timing (Texas Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
-DTSTART:20261024T210000
-DTEND:20261024T220000
-DTSTAMP:20261024T210000Z
-UID:2026-10-24T21:00:00/Onboard (Texas Kappaksturinn | Tímatökur)
-DESCRIPTION:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Tímatökur) - Formula 1 
  - viaplay
 DTSTART:20261024T210000
@@ -1105,6 +1073,22 @@ DTEND:20261024T220000
 DTSTAMP:20261024T210000Z
 UID:2026-10-24T21:00:00/Pitlane (Texas Kappaksturinn | Tímatökur)
 DESCRIPTION:Pitlane (Texas Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20261024T210000
+DTEND:20261024T220000
+DTSTAMP:20261024T210000Z
+UID:2026-10-24T21:00:00/Timing (Texas Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20261024T210000
+DTEND:20261024T220000
+DTSTAMP:20261024T210000Z
+UID:2026-10-24T21:00:00/Onboard (Texas Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Warm Up) - MotoGP - viaplay
@@ -1137,6 +1121,14 @@ DTEND:20261025T010000
 DTSTAMP:20261025T000000Z
 UID:2026-10-25T00:00:00/Ástralíu Kappaksturinn (Kappakstur)
 DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brewers - Rays - Major League Baseball - viaplay
+DTSTART:20261025T000000
+DTEND:20261025T010000
+DTSTAMP:20261025T000000Z
+UID:2026-10-25T00:00:00/Brewers - Rays
+DESCRIPTION:Brewers - Rays - Major League Baseball
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - MotoGP - viaplay
@@ -1251,12 +1243,15 @@ UID:2026-10-25T19:30:00/Texas Kappaksturinn (Kappakstur)
 DESCRIPTION:Texas Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula 1 -
+  viaplay
 DTSTART:20261025T200000
 DTEND:20261025T210000
 DTSTAMP:20261025T200000Z
-UID:2026-10-25T20:00:00/Timing (Texas Kappaksturinn | Kappakstur)
-DESCRIPTION:Timing (Texas Kappaksturinn | Kappakstur) - Formula 1
+UID:2026-10-25T20:00:00/Track Positioning (Texas Kappaksturinn | Kappakstu
+ r)
+DESCRIPTION:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula
+  1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
@@ -1267,14 +1262,27 @@ UID:2026-10-25T20:00:00/Onboard (Texas Kappaksturinn | Kappakstur)
 DESCRIPTION:Onboard (Texas Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula 1 -
-  viaplay
+SUMMARY:Timing (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
 DTSTART:20261025T200000
 DTEND:20261025T210000
 DTSTAMP:20261025T200000Z
-UID:2026-10-25T20:00:00/Track Positioning (Texas Kappaksturinn | Kappakstu
- r)
-DESCRIPTION:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula
-  1
+UID:2026-10-25T20:00:00/Timing (Texas Kappaksturinn | Kappakstur)
+DESCRIPTION:Timing (Texas Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walsall - Salford - League Two - viaplay
+DTSTART:20261026T195500
+DTEND:20261026T205500
+DTSTAMP:20261026T195500Z
+UID:2026-10-26T19:55:00/Walsall - Salford
+DESCRIPTION:Walsall - Salford - League Two
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rays - Brewers - Major League Baseball - viaplay
+DTSTART:20261026T233000
+DTEND:20261027T003000
+DTSTAMP:20261026T233000Z
+UID:2026-10-26T23:30:00/Rays - Brewers
+DESCRIPTION:Rays - Brewers - Major League Baseball
 END:VEVENT
 END:VCALENDAR
