@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
-SUMMARY:Wolverhampton - Portsmouth - Championship - viaplay
-DTSTART:20261020T183500
-DTEND:20261020T193500
-DTSTAMP:20261020T183500Z
-UID:2026-10-20T18:35:00/Wolverhampton - Portsmouth
-DESCRIPTION:Wolverhampton - Portsmouth - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bolton - Middlesbrough - Championship - viaplay
 DTSTART:20261023T185000
 DTEND:20261023T195000
@@ -26,20 +18,20 @@ UID:2026-10-24T11:20:00/Charlton - Norwich
 DESCRIPTION:Charlton - Norwich - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheffield United - Derby - Championship - viaplay
-DTSTART:20261024T112000
-DTEND:20261024T122000
-DTSTAMP:20261024T112000Z
-UID:2026-10-24T11:20:00/Sheffield United - Derby
-DESCRIPTION:Sheffield United - Derby - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Portsmouth - Millwall - Championship - viaplay
 DTSTART:20261024T112000
 DTEND:20261024T122000
 DTSTAMP:20261024T112000Z
 UID:2026-10-24T11:20:00/Portsmouth - Millwall
 DESCRIPTION:Portsmouth - Millwall - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Derby - Championship - viaplay
+DTSTART:20261024T112000
+DTEND:20261024T122000
+DTSTAMP:20261024T112000Z
+UID:2026-10-24T11:20:00/Sheffield United - Derby
+DESCRIPTION:Sheffield United - Derby - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolverhampton - Watford - Championship - viaplay
