@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Bochum - Wolfsburg - 2. Bundesliga - viaplay
-DTSTART:20261023T162500
-DTEND:20261023T172500
-DTSTAMP:20261023T162500Z
-UID:2026-10-23T16:25:00/Bochum - Wolfsburg
-DESCRIPTION:Bochum - Wolfsburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Darmstadt - St. Pauli - 2. Bundesliga - viaplay
 DTSTART:20261023T162500
 DTEND:20261023T172500
@@ -18,12 +10,12 @@ UID:2026-10-23T16:25:00/Darmstadt - St. Pauli
 DESCRIPTION:Darmstadt - St. Pauli - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hertha Berlin - Arminia Bielefeld - 2. Bundesliga - viaplay
-DTSTART:20261024T105500
-DTEND:20261024T115500
-DTSTAMP:20261024T105500Z
-UID:2026-10-24T10:55:00/Hertha Berlin - Arminia Bielefeld
-DESCRIPTION:Hertha Berlin - Arminia Bielefeld - 2. Bundesliga
+SUMMARY:Bochum - Wolfsburg - 2. Bundesliga - viaplay
+DTSTART:20261023T162500
+DTEND:20261023T172500
+DTSTAMP:20261023T162500Z
+UID:2026-10-23T16:25:00/Bochum - Wolfsburg
+DESCRIPTION:Bochum - Wolfsburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heidenheim - Energie Cottbus - 2. Bundesliga - viaplay
@@ -42,6 +34,14 @@ UID:2026-10-24T10:55:00/Magdeburg - Karlsruher
 DESCRIPTION:Magdeburg - Karlsruher - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hertha Berlin - Arminia Bielefeld - 2. Bundesliga - viaplay
+DTSTART:20261024T105500
+DTEND:20261024T115500
+DTSTAMP:20261024T105500Z
+UID:2026-10-24T10:55:00/Hertha Berlin - Arminia Bielefeld
+DESCRIPTION:Hertha Berlin - Arminia Bielefeld - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nürnberg - Kaiserslautern - 2. Bundesliga - viaplay
 DTSTART:20261024T182500
 DTEND:20261024T192500
@@ -50,11 +50,19 @@ UID:2026-10-24T18:25:00/Nürnberg - Kaiserslautern
 DESCRIPTION:Nürnberg - Kaiserslautern - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Osnabrück - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20261025T122500
+DTEND:20261025T132500
+DTSTAMP:20261025T122500Z
+UID:2026-10-25T12:25:00/Osnabrück - Greuther Fürth
+DESCRIPTION:Osnabrück - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Braunschweig - Hannover - 2. Bundesliga - viaplay
-DTSTART:20261025T122000
-DTEND:20261025T132000
-DTSTAMP:20261025T122000Z
-UID:2026-10-25T12:20:00/Braunschweig - Hannover
+DTSTART:20261025T122500
+DTEND:20261025T132500
+DTSTAMP:20261025T122500Z
+UID:2026-10-25T12:25:00/Braunschweig - Hannover
 DESCRIPTION:Braunschweig - Hannover - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT

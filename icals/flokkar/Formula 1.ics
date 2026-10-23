@@ -10,6 +10,14 @@ UID:2026-10-23T17:25:00/Texas Kappaksturinn (Æfing 1)
 DESCRIPTION:Texas Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+DTSTART:20261023T173000
+DTEND:20261023T183000
+DTSTAMP:20261023T173000Z
+UID:2026-10-23T17:30:00/Onboard (Texas Kappaksturinn | Æfing 1)
+DESCRIPTION:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 1) - Formula 1 - v
  iaplay
 DTSTART:20261023T173000
@@ -25,14 +33,6 @@ DTEND:20261023T183000
 DTSTAMP:20261023T173000Z
 UID:2026-10-23T17:30:00/Timing (Texas Kappaksturinn | Æfing 1)
 DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 1) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20261023T173000
-DTEND:20261023T183000
-DTSTAMP:20261023T173000Z
-UID:2026-10-23T17:30:00/Onboard (Texas Kappaksturinn | Æfing 1)
-DESCRIPTION:Onboard (Texas Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -51,12 +51,12 @@ UID:2026-10-23T20:55:00/Texas Kappaksturinn (Æfing 2)
 DESCRIPTION:Texas Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timing (Texas Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20261023T210000
 DTEND:20261023T220000
 DTSTAMP:20261023T210000Z
-UID:2026-10-23T21:00:00/Timing (Texas Kappaksturinn | Æfing 2)
-DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 2) - Formula 1
+UID:2026-10-23T21:00:00/Pitlane (Texas Kappaksturinn | Æfing 2)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 2) - Formula 1 - v
@@ -76,12 +76,12 @@ UID:2026-10-23T21:00:00/Onboard (Texas Kappaksturinn | Æfing 2)
 DESCRIPTION:Onboard (Texas Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Texas Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+SUMMARY:Timing (Texas Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20261023T210000
 DTEND:20261023T220000
 DTSTAMP:20261023T210000Z
-UID:2026-10-23T21:00:00/Pitlane (Texas Kappaksturinn | Æfing 2)
-DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 2) - Formula 1
+UID:2026-10-23T21:00:00/Timing (Texas Kappaksturinn | Æfing 2)
+DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Æfing 3) - Formula 1 - viaplay
@@ -90,23 +90,6 @@ DTEND:20261024T182500
 DTSTAMP:20261024T172500Z
 UID:2026-10-24T17:25:00/Texas Kappaksturinn (Æfing 3)
 DESCRIPTION:Texas Kappaksturinn (Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Texas Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20261024T173000
-DTEND:20261024T183000
-DTSTAMP:20261024T173000Z
-UID:2026-10-24T17:30:00/Timing (Texas Kappaksturinn | Æfing 3)
-DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 3) - Formula 1 - v
- iaplay
-DTSTART:20261024T173000
-DTEND:20261024T183000
-DTSTAMP:20261024T173000Z
-UID:2026-10-24T17:30:00/Track Positioning (Texas Kappaksturinn | Æfing 3)
-DESCRIPTION:Track Positioning (Texas Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Texas Kappaksturinn | Æfing 3) - Formula 1 - viaplay
@@ -125,20 +108,29 @@ UID:2026-10-24T17:30:00/Pitlane (Texas Kappaksturinn | Æfing 3)
 DESCRIPTION:Pitlane (Texas Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Track Positioning (Texas Kappaksturinn | Æfing 3) - Formula 1 - v
+ iaplay
+DTSTART:20261024T173000
+DTEND:20261024T183000
+DTSTAMP:20261024T173000Z
+UID:2026-10-24T17:30:00/Track Positioning (Texas Kappaksturinn | Æfing 3)
+DESCRIPTION:Track Positioning (Texas Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Texas Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20261024T173000
+DTEND:20261024T183000
+DTSTAMP:20261024T173000Z
+UID:2026-10-24T17:30:00/Timing (Texas Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Texas Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Tímatökur) - Formula 1 - viaplay
 DTSTART:20261024T204500
 DTEND:20261024T214500
 DTSTAMP:20261024T204500Z
 UID:2026-10-24T20:45:00/Texas Kappaksturinn (Tímatökur)
 DESCRIPTION:Texas Kappaksturinn (Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
-DTSTART:20261024T210000
-DTEND:20261024T220000
-DTSTAMP:20261024T210000Z
-UID:2026-10-24T21:00:00/Timing (Texas Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Texas Kappaksturinn | Tímatökur) - Formula 1 
@@ -152,12 +144,12 @@ DESCRIPTION:Track Positioning (Texas Kappaksturinn | Tímatökur) - Formul
  a 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+SUMMARY:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
 DTSTART:20261024T210000
 DTEND:20261024T220000
 DTSTAMP:20261024T210000Z
-UID:2026-10-24T21:00:00/Onboard (Texas Kappaksturinn | Tímatökur)
-DESCRIPTION:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1
+UID:2026-10-24T21:00:00/Timing (Texas Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Texas Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
@@ -168,23 +160,20 @@ UID:2026-10-24T21:00:00/Pitlane (Texas Kappaksturinn | Tímatökur)
 DESCRIPTION:Pitlane (Texas Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1 - viaplay
+DTSTART:20261024T210000
+DTEND:20261024T220000
+DTSTAMP:20261024T210000Z
+UID:2026-10-24T21:00:00/Onboard (Texas Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Texas Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Texas Kappaksturinn (Kappakstur) - Formula 1 - viaplay
 DTSTART:20261025T193000
 DTEND:20261025T203000
 DTSTAMP:20261025T193000Z
 UID:2026-10-25T19:30:00/Texas Kappaksturinn (Kappakstur)
 DESCRIPTION:Texas Kappaksturinn (Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula 1 -
-  viaplay
-DTSTART:20261025T200000
-DTEND:20261025T210000
-DTSTAMP:20261025T200000Z
-UID:2026-10-25T20:00:00/Track Positioning (Texas Kappaksturinn | Kappakstu
- r)
-DESCRIPTION:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula
-  1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
@@ -201,5 +190,24 @@ DTEND:20261025T210000
 DTSTAMP:20261025T200000Z
 UID:2026-10-25T20:00:00/Timing (Texas Kappaksturinn | Kappakstur)
 DESCRIPTION:Timing (Texas Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula 1 -
+  viaplay
+DTSTART:20261025T200000
+DTEND:20261025T210000
+DTSTAMP:20261025T200000Z
+UID:2026-10-25T20:00:00/Track Positioning (Texas Kappaksturinn | Kappakstu
+ r)
+DESCRIPTION:Track Positioning (Texas Kappaksturinn | Kappakstur) - Formula
+  1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Texas Kappaksturinn | Kappakstur) - Formula 1 - viaplay
+DTSTART:20261025T200000
+DTEND:20261025T210000
+DTSTAMP:20261025T200000Z
+UID:2026-10-25T20:00:00/Pitlane (Texas Kappaksturinn | Kappakstur)
+DESCRIPTION:Pitlane (Texas Kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 END:VCALENDAR
