@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - other - ical
 BEGIN:VEVENT
-SUMMARY:Grand Prix | France - Ice Dancing - Rhythm Dance - eurosport2
-DTSTART:20261023T160000
-DTEND:20261023T170000
-DTSTAMP:20261023T160000Z
-UID:2026-10-23T16:00:00/Grand Prix | France
-DESCRIPTION:Grand Prix | France - Ice Dancing - Rhythm Dance
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grand Prix | France - Men - Short Program - eurosport2
 DTSTART:20261024T103000
 DTEND:20261024T113000
@@ -75,5 +67,14 @@ DTSTAMP:20261028T180000Z
 UID:2026-10-28T18:00:00/Men | Round Robin | European Championship
 DESCRIPTION:Men | Round Robin | European Championship - Germany - Netherla
  nds
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Round Robin | European Championship - Germany - Scotland - e
+ urosport1
+DTSTART:20261029T130000
+DTEND:20261029T140000
+DTSTAMP:20261029T130000Z
+UID:2026-10-29T13:00:00/Men | Round Robin | European Championship
+DESCRIPTION:Men | Round Robin | European Championship - Germany - Scotland
 END:VEVENT
 END:VCALENDAR

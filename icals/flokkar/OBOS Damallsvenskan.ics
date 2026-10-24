@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - OBOS Damallsvenskan - ical
 BEGIN:VEVENT
-SUMMARY:Växjö - Häcken - OBOS Damallsvenskan - viaplay
-DTSTART:20261023T165000
-DTEND:20261023T175000
-DTSTAMP:20261023T165000Z
-UID:2026-10-23T16:50:00/Växjö - Häcken
-DESCRIPTION:Växjö - Häcken - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kristianstad - Malmö FF - OBOS Damallsvenskan - viaplay
 DTSTART:20261024T125000
 DTEND:20261024T135000
@@ -18,20 +10,20 @@ UID:2026-10-24T12:50:00/Kristianstad - Malmö FF
 DESCRIPTION:Kristianstad - Malmö FF - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eskilstuna - Brommapojkarna - OBOS Damallsvenskan - viaplay
-DTSTART:20261024T135000
-DTEND:20261024T145000
-DTSTAMP:20261024T135000Z
-UID:2026-10-24T13:50:00/Eskilstuna - Brommapojkarna
-DESCRIPTION:Eskilstuna - Brommapojkarna - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Norrköping - Uppsala - OBOS Damallsvenskan - viaplay
 DTSTART:20261024T135000
 DTEND:20261024T145000
 DTSTAMP:20261024T135000Z
 UID:2026-10-24T13:50:00/Norrköping - Uppsala
 DESCRIPTION:Norrköping - Uppsala - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eskilstuna - Brommapojkarna - OBOS Damallsvenskan - viaplay
+DTSTART:20261024T135000
+DTEND:20261024T145000
+DTSTAMP:20261024T135000Z
+UID:2026-10-24T13:50:00/Eskilstuna - Brommapojkarna
+DESCRIPTION:Eskilstuna - Brommapojkarna - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AIK - Rosengård - OBOS Damallsvenskan - viaplay
