@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - other - ical
 BEGIN:VEVENT
-SUMMARY:Grand Prix | France - Men - Short Program - eurosport2
-DTSTART:20261024T103000
-DTEND:20261024T113000
-DTSTAMP:20261024T103000Z
-UID:2026-10-24T10:30:00/Grand Prix | France
-DESCRIPTION:Grand Prix | France - Men - Short Program
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grand Prix | France - Ice Dancing - Free Dance - eurosport2
-DTSTART:20261024T122000
-DTEND:20261024T132000
-DTSTAMP:20261024T122000Z
-UID:2026-10-24T12:20:00/Grand Prix | France
-DESCRIPTION:Grand Prix | France - Ice Dancing - Free Dance
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grand Prix | France - Pairs - Short Program - eurosport2
-DTSTART:20261024T160000
-DTEND:20261024T170000
-DTSTAMP:20261024T160000Z
-UID:2026-10-24T16:00:00/Grand Prix | France
-DESCRIPTION:Grand Prix | France - Pairs - Short Program
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grand Prix | France - Pairs - Free Program - eurosport2
 DTSTART:20261025T103000
 DTEND:20261025T113000
@@ -43,10 +19,10 @@ DESCRIPTION:Grand Prix | France - Men - Free Program
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Men - Superprestige - Overijse - eurosport2
-DTSTART:20261025T140500
-DTEND:20261025T150500
-DTSTAMP:20261025T140500Z
-UID:2026-10-25T14:05:00/Men
+DTSTART:20261025T140700
+DTEND:20261025T150700
+DTSTAMP:20261025T140700Z
+UID:2026-10-25T14:07:00/Men
 DESCRIPTION:Men - Superprestige - Overijse
 END:VEVENT
 BEGIN:VEVENT
@@ -76,5 +52,34 @@ DTEND:20261029T140000
 DTSTAMP:20261029T130000Z
 UID:2026-10-29T13:00:00/Men | Round Robin | European Championship
 DESCRIPTION:Men | Round Robin | European Championship - Germany - Scotland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women | Round Robin | European Championship - Czech Republic - Ger
+ many - eurosport1
+DTSTART:20261030T083000
+DTEND:20261030T093000
+DTSTAMP:20261030T083000Z
+UID:2026-10-30T08:30:00/Women | Round Robin | European Championship
+DESCRIPTION:Women | Round Robin | European Championship - Czech Republic -
+  Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Round Robin | European Championships - Czech Republic - Swed
+ en - eurosport1
+DTSTART:20261030T130000
+DTEND:20261030T140000
+DTSTAMP:20261030T130000Z
+UID:2026-10-30T13:00:00/Men | Round Robin | European Championships
+DESCRIPTION:Men | Round Robin | European Championships - Czech Republic - 
+ Sweden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women | Round Robin | European Championships - Italy - Germany - e
+ urosport1
+DTSTART:20261030T173000
+DTEND:20261030T183000
+DTSTAMP:20261030T173000Z
+UID:2026-10-30T17:30:00/Women | Round Robin | European Championships
+DESCRIPTION:Women | Round Robin | European Championships - Italy - Germany
 END:VEVENT
 END:VCALENDAR
