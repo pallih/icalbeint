@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - MotoGP - ical
 BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Warm Up) - MotoGP - viaplay
-DTSTART:20261025T000000
-DTEND:20261025T010000
-DTSTAMP:20261025T000000Z
-UID:2026-10-25T00:00:00/Ástralíu Kappaksturinn (Warm Up)
-DESCRIPTION:Ástralíu Kappaksturinn (Warm Up) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ástralíu Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20261025T043000
-DTEND:20261025T053000
-DTSTAMP:20261025T043000Z
-UID:2026-10-25T04:30:00/Ástralíu Kappaksturinn (Kappakstur)
-DESCRIPTION:Ástralíu Kappaksturinn (Kappakstur) - MotoGP
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Malasíu Kappaksturinn (Frjáls æfing 1) - MotoGP - viaplay
 DTSTART:20261030T023500
 DTEND:20261030T033500
@@ -56,5 +40,21 @@ DTEND:20261031T073500
 DTSTAMP:20261031T063500Z
 UID:2026-10-31T06:35:00/Malasíu Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Malasíu Kappaksturinn (Sprettkeppni) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malasíu Kappaksturinn (Warm Up) - MotoGP - viaplay
+DTSTART:20261101T023500
+DTEND:20261101T033500
+DTSTAMP:20261101T023500Z
+UID:2026-11-01T02:35:00/Malasíu Kappaksturinn (Warm Up)
+DESCRIPTION:Malasíu Kappaksturinn (Warm Up) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malasíu Kappaksturinn (Kappakstur) - MotoGP - viaplay
+DTSTART:20261101T061500
+DTEND:20261101T071500
+DTSTAMP:20261101T061500Z
+UID:2026-11-01T06:15:00/Malasíu Kappaksturinn (Kappakstur)
+DESCRIPTION:Malasíu Kappaksturinn (Kappakstur) - MotoGP
 END:VEVENT
 END:VCALENDAR

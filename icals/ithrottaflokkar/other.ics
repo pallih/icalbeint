@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - other - ical
 BEGIN:VEVENT
-SUMMARY:Grand Prix | France - Pairs - Free Program - eurosport2
-DTSTART:20261025T103000
-DTEND:20261025T113000
-DTSTAMP:20261025T103000Z
-UID:2026-10-25T10:30:00/Grand Prix | France
-DESCRIPTION:Grand Prix | France - Pairs - Free Program
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grand Prix | France - Men - Free Program - eurosport2
-DTSTART:20261025T121000
-DTEND:20261025T131000
-DTSTAMP:20261025T121000Z
-UID:2026-10-25T12:10:00/Grand Prix | France
-DESCRIPTION:Grand Prix | France - Men - Free Program
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men - Superprestige - Overijse - eurosport2
-DTSTART:20261025T140700
-DTEND:20261025T150700
-DTSTAMP:20261025T140700Z
-UID:2026-10-25T14:07:00/Men
-DESCRIPTION:Men - Superprestige - Overijse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Round Robin | European Championship - Italy - Germany - euro
  sport1
 DTSTART:20261028T073000
@@ -81,5 +57,58 @@ DTEND:20261030T183000
 DTSTAMP:20261030T173000Z
 UID:2026-10-30T17:30:00/Women | Round Robin | European Championships
 DESCRIPTION:Women | Round Robin | European Championships - Italy - Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Championship | Round 1 - International Championship 
+ - eurosport1
+DTSTART:20261031T060000
+DTEND:20261031T070000
+DTSTAMP:20261031T060000Z
+UID:2026-10-31T06:00:00/International Championship | Round 1
+DESCRIPTION:International Championship | Round 1 - International Champions
+ hip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Round Robin | European Championships - Scotland - Italy - eu
+ rosport2
+DTSTART:20261031T083000
+DTEND:20261031T093000
+DTSTAMP:20261031T083000Z
+UID:2026-10-31T08:30:00/Men | Round Robin | European Championships
+DESCRIPTION:Men | Round Robin | European Championships - Scotland - Italy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Championship | Round 1 - International Championship 
+ - eurosport1
+DTSTART:20261031T113000
+DTEND:20261031T123000
+DTSTAMP:20261031T113000Z
+UID:2026-10-31T11:30:00/International Championship | Round 1
+DESCRIPTION:International Championship | Round 1 - International Champions
+ hip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women | Semi-Final | European Championships - Curling - eurosport2
+DTSTART:20261031T130000
+DTEND:20261031T140000
+DTSTAMP:20261031T130000Z
+UID:2026-10-31T13:00:00/Women | Semi-Final | European Championships
+DESCRIPTION:Women | Semi-Final | European Championships - Curling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Semi-Final | European Championships - Curling - eurosport1
+DTSTART:20261031T173000
+DTEND:20261031T183000
+DTSTAMP:20261031T173000Z
+UID:2026-10-31T17:30:00/Men | Semi-Final | European Championships
+DESCRIPTION:Men | Semi-Final | European Championships - Curling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix | Canada - Ice Dance - Rhythm Dance - eurosport1
+DTSTART:20261031T211500
+DTEND:20261031T221500
+DTSTAMP:20261031T211500Z
+UID:2026-10-31T21:15:00/Grand Prix | Canada
+DESCRIPTION:Grand Prix | Canada - Ice Dance - Rhythm Dance
 END:VEVENT
 END:VCALENDAR

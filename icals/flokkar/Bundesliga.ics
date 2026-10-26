@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Rhein-Neckar Löwen - Magdeburg - Bundesliga - viaplay
-DTSTART:20261025T135500
-DTEND:20261025T145500
-DTSTAMP:20261025T135500Z
-UID:2026-10-25T13:55:00/Rhein-Neckar Löwen - Magdeburg
-DESCRIPTION:Rhein-Neckar Löwen - Magdeburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffenheim - Leverkusen - Bundesliga - viaplay
-DTSTART:20261025T142000
-DTEND:20261025T152000
-DTSTAMP:20261025T142000Z
-UID:2026-10-25T14:20:00/Hoffenheim - Leverkusen
-DESCRIPTION:Hoffenheim - Leverkusen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg - Bayern München - Bundesliga - viaplay
-DTSTART:20261025T162000
-DTEND:20261025T172000
-DTSTAMP:20261025T162000Z
-UID:2026-10-25T16:20:00/Freiburg - Bayern München
-DESCRIPTION:Freiburg - Bayern München - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SG Flensburg-Handewitt - HBW Balingen-Weilstetten - Bundesliga - v
  iaplay
 DTSTART:20261029T175500
@@ -43,12 +19,12 @@ UID:2026-10-30T19:20:00/Elversberg - Mainz
 DESCRIPTION:Elversberg - Mainz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+SUMMARY:Augsburg - Freiburg - Bundesliga - viaplay
 DTSTART:20261031T142000
 DTEND:20261031T152000
 DTSTAMP:20261031T142000Z
-UID:2026-10-31T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
+UID:2026-10-31T14:20:00/Augsburg - Freiburg
+DESCRIPTION:Augsburg - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Stuttgart - Bundesliga - viaplay
@@ -67,20 +43,12 @@ UID:2026-10-31T14:20:00/Schalke - Leipzig
 DESCRIPTION:Schalke - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Hoffenheim - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20261031T142000
 DTEND:20261031T152000
 DTSTAMP:20261031T142000Z
-UID:2026-10-31T14:20:00/Werder Bremen - Hoffenheim
-DESCRIPTION:Werder Bremen - Hoffenheim - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Augsburg - Freiburg - Bundesliga - viaplay
-DTSTART:20261031T142000
-DTEND:20261031T152000
-DTSTAMP:20261031T142000Z
-UID:2026-10-31T14:20:00/Augsburg - Freiburg
-DESCRIPTION:Augsburg - Freiburg - Bundesliga
+UID:2026-10-31T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Paderborn - Bundesliga - viaplay
@@ -89,6 +57,14 @@ DTEND:20261031T152000
 DTSTAMP:20261031T142000Z
 UID:2026-10-31T14:20:00/Mönchengladbach - Paderborn
 DESCRIPTION:Mönchengladbach - Paderborn - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - Hoffenheim - Bundesliga - viaplay
+DTSTART:20261031T142000
+DTEND:20261031T152000
+DTSTAMP:20261031T142000Z
+UID:2026-10-31T14:20:00/Werder Bremen - Hoffenheim
+DESCRIPTION:Werder Bremen - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Dortmund - Bundesliga - viaplay
@@ -105,5 +81,29 @@ DTEND:20261031T195500
 DTSTAMP:20261031T185500Z
 UID:2026-10-31T18:55:00/Lemgo Lippe - Magdeburg
 DESCRIPTION:Lemgo Lippe - Magdeburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wetzlar - Melsungen - Bundesliga - viaplay
+DTSTART:20261101T135500
+DTEND:20261101T145500
+DTSTAMP:20261101T135500Z
+UID:2026-11-01T13:55:00/Wetzlar - Melsungen
+DESCRIPTION:Wetzlar - Melsungen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Köln - Bundesliga - viaplay
+DTSTART:20261101T142000
+DTEND:20261101T152000
+DTSTAMP:20261101T142000Z
+UID:2026-11-01T14:20:00/Union Berlin - Köln
+DESCRIPTION:Union Berlin - Köln - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt - HSV - Bundesliga - viaplay
+DTSTART:20261101T162000
+DTEND:20261101T172000
+DTSTAMP:20261101T162000Z
+UID:2026-11-01T16:20:00/Frankfurt - HSV
+DESCRIPTION:Frankfurt - HSV - Bundesliga
 END:VEVENT
 END:VCALENDAR
