@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Olís deild kvenna - ical
 BEGIN:VEVENT
-SUMMARY:ÍR - Selfoss - Olís deild kvenna - livey
-DTSTART:20261029T193000
-DTEND:20261029T203000
-DTSTAMP:20261029T193000Z
-UID:2026-10-29T19:30:00/ÍR - Selfoss
-DESCRIPTION:ÍR - Selfoss - Olís deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ÍR - Selfoss - Olís deild kvenna - hsi1
 DTSTART:20261029T193000
 DTEND:20261029T203000
@@ -18,12 +10,12 @@ UID:2026-10-29T19:30:00/ÍR - Selfoss
 DESCRIPTION:ÍR - Selfoss - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fram - Haukar - Olís deild kvenna - hsi1
-DTSTART:20261029T200000
-DTEND:20261029T210000
-DTSTAMP:20261029T200000Z
-UID:2026-10-29T20:00:00/Fram - Haukar
-DESCRIPTION:Fram - Haukar - Olís deild kvenna
+SUMMARY:ÍR - Selfoss - Olís deild kvenna - livey
+DTSTART:20261029T193000
+DTEND:20261029T203000
+DTSTAMP:20261029T193000Z
+UID:2026-10-29T19:30:00/ÍR - Selfoss
+DESCRIPTION:ÍR - Selfoss - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fram - Haukar - Olís deild kvenna - livey
@@ -34,7 +26,15 @@ UID:2026-10-29T20:00:00/Fram - Haukar
 DESCRIPTION:Fram - Haukar - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Valur - Olís deild kvenna - hsi1
+SUMMARY:Fram - Haukar - Olís deild kvenna - hsi1
+DTSTART:20261029T200000
+DTEND:20261029T210000
+DTSTAMP:20261029T200000Z
+UID:2026-10-29T20:00:00/Fram - Haukar
+DESCRIPTION:Fram - Haukar - Olís deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stjarnan - Valur - Olís deild kvenna - livey
 DTSTART:20261030T183000
 DTEND:20261030T193000
 DTSTAMP:20261030T183000Z
@@ -42,7 +42,7 @@ UID:2026-10-30T18:30:00/Stjarnan - Valur
 DESCRIPTION:Stjarnan - Valur - Olís deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stjarnan - Valur - Olís deild kvenna - livey
+SUMMARY:Stjarnan - Valur - Olís deild kvenna - hsi1
 DTSTART:20261030T183000
 DTEND:20261030T193000
 DTSTAMP:20261030T183000Z

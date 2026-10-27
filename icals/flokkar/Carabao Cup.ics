@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Carabao Cup - ical
 BEGIN:VEVENT
-SUMMARY:Fleetwood - Arsenal - Carabao Cup - synsportviaplay
-DTSTART:20261027T185000
-DTEND:20261027T195000
-DTSTAMP:20261027T185000Z
-UID:2026-10-27T18:50:00/Fleetwood - Arsenal
-DESCRIPTION:Fleetwood - Arsenal - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bradford - Peterborough - Carabao Cup - viaplay
 DTSTART:20261027T194000
 DTEND:20261027T204000
@@ -18,7 +10,7 @@ UID:2026-10-27T19:40:00/Bradford - Peterborough
 DESCRIPTION:Bradford - Peterborough - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fleetwood - Arsenal - Carabao Cup - viaplay
+SUMMARY:Fleetwood - Arsenal - Carabao Cup - synsportviaplay
 DTSTART:20261027T195000
 DTEND:20261027T205000
 DTSTAMP:20261027T195000Z
@@ -26,12 +18,12 @@ UID:2026-10-27T19:50:00/Fleetwood - Arsenal
 DESCRIPTION:Fleetwood - Arsenal - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Chelsea - Carabao Cup - synsportviaplay
-DTSTART:20261028T185000
-DTEND:20261028T195000
-DTSTAMP:20261028T185000Z
-UID:2026-10-28T18:50:00/Liverpool - Chelsea
-DESCRIPTION:Liverpool - Chelsea - Carabao Cup
+SUMMARY:Fleetwood - Arsenal - Carabao Cup - viaplay
+DTSTART:20261027T195000
+DTEND:20261027T205000
+DTSTAMP:20261027T195000Z
+UID:2026-10-27T19:50:00/Fleetwood - Arsenal
+DESCRIPTION:Fleetwood - Arsenal - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man City - Brighton - Carabao Cup - viaplay
@@ -66,6 +58,14 @@ UID:2026-10-28T19:40:00/Sunderland - Brentford
 DESCRIPTION:Sunderland - Brentford - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Liverpool - Chelsea - Carabao Cup - synsportviaplay
+DTSTART:20261028T195000
+DTEND:20261028T205000
+DTSTAMP:20261028T195000Z
+UID:2026-10-28T19:50:00/Liverpool - Chelsea
+DESCRIPTION:Liverpool - Chelsea - Carabao Cup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Liverpool - Chelsea - Carabao Cup - viaplay
 DTSTART:20261028T195000
 DTEND:20261028T205000
@@ -75,10 +75,10 @@ DESCRIPTION:Liverpool - Chelsea - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everton - Newcastle - Carabao Cup - synsportviaplay
-DTSTART:20261029T183500
-DTEND:20261029T193500
-DTSTAMP:20261029T183500Z
-UID:2026-10-29T18:35:00/Everton - Newcastle
+DTSTART:20261029T193500
+DTEND:20261029T203500
+DTSTAMP:20261029T193500Z
+UID:2026-10-29T19:35:00/Everton - Newcastle
 DESCRIPTION:Everton - Newcastle - Carabao Cup
 END:VEVENT
 BEGIN:VEVENT
