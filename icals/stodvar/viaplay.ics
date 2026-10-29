@@ -3,54 +3,6 @@ VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
 SUMMARY:Rays - Brewers - Major League Baseball - viaplay
-DTSTART:20261028T000000
-DTEND:20261028T010000
-DTSTAMP:20261028T000000Z
-UID:2026-10-28T00:00:00/Rays - Brewers
-DESCRIPTION:Rays - Brewers - Major League Baseball
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man City - Brighton - Carabao Cup - viaplay
-DTSTART:20261028T192500
-DTEND:20261028T202500
-DTSTAMP:20261028T192500Z
-UID:2026-10-28T19:25:00/Man City - Brighton
-DESCRIPTION:Man City - Brighton - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bournemouth - Aston Villa - Carabao Cup - viaplay
-DTSTART:20261028T194000
-DTEND:20261028T204000
-DTSTAMP:20261028T194000Z
-UID:2026-10-28T19:40:00/Bournemouth - Aston Villa
-DESCRIPTION:Bournemouth - Aston Villa - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fulham - Crystal Palace - Carabao Cup - viaplay
-DTSTART:20261028T194000
-DTEND:20261028T204000
-DTSTAMP:20261028T194000Z
-UID:2026-10-28T19:40:00/Fulham - Crystal Palace
-DESCRIPTION:Fulham - Crystal Palace - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunderland - Brentford - Carabao Cup - viaplay
-DTSTART:20261028T194000
-DTEND:20261028T204000
-DTSTAMP:20261028T194000Z
-UID:2026-10-28T19:40:00/Sunderland - Brentford
-DESCRIPTION:Sunderland - Brentford - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liverpool - Chelsea - Carabao Cup - viaplay
-DTSTART:20261028T195000
-DTEND:20261028T205000
-DTSTAMP:20261028T195000Z
-UID:2026-10-28T19:50:00/Liverpool - Chelsea
-DESCRIPTION:Liverpool - Chelsea - Carabao Cup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rays - Brewers - Major League Baseball - viaplay
 DTSTART:20261029T000000
 DTEND:20261029T010000
 DTSTAMP:20261029T000000Z
@@ -122,14 +74,6 @@ UID:2026-10-30T05:10:00/Malasíu Kappaksturinn (Æfing)
 DESCRIPTION:Malasíu Kappaksturinn (Æfing) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wistron Ladies Open - Ladies European Tour - viaplay
-DTSTART:20261030T060000
-DTEND:20261030T070000
-DTSTAMP:20261030T060000Z
-UID:2026-10-30T06:00:00/Wistron Ladies Open
-DESCRIPTION:Wistron Ladies Open - Ladies European Tour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Malasíu Kappaksturinn (Æfing) - Moto2 - viaplay
 DTSTART:20261030T060000
 DTEND:20261030T070000
@@ -138,12 +82,28 @@ UID:2026-10-30T06:00:00/Malasíu Kappaksturinn (Æfing)
 DESCRIPTION:Malasíu Kappaksturinn (Æfing) - Moto2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wistron Ladies Open - Ladies European Tour - viaplay
+DTSTART:20261030T060000
+DTEND:20261030T070000
+DTSTAMP:20261030T060000Z
+UID:2026-10-30T06:00:00/Wistron Ladies Open
+DESCRIPTION:Wistron Ladies Open - Ladies European Tour
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Malasíu Kappaksturinn (Æfing) - MotoGP - viaplay
 DTSTART:20261030T065000
 DTEND:20261030T075000
 DTSTAMP:20261030T065000Z
 UID:2026-10-30T06:50:00/Malasíu Kappaksturinn (Æfing)
 DESCRIPTION:Malasíu Kappaksturinn (Æfing) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breeders' Cup World Championships - Crown Jewels Racing - viaplay
+DTSTART:20261030T170000
+DTEND:20261030T180000
+DTSTAMP:20261030T170000Z
+UID:2026-10-30T17:00:00/Breeders' Cup World Championships
+DESCRIPTION:Breeders' Cup World Championships - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Energie Cottbus - Bochum - 2. Bundesliga - viaplay
@@ -170,12 +130,15 @@ UID:2026-10-30T18:25:00/Mexíkó Kappaksturinn (Æfing 1)
 DESCRIPTION:Mexíkó Kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Mexíkó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Mexíkó Kappaksturinn | Æfing 1) - Formula 1 
+ - viaplay
 DTSTART:20261030T183000
 DTEND:20261030T193000
 DTSTAMP:20261030T183000Z
-UID:2026-10-30T18:30:00/Pitlane (Mexíkó Kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Mexíkó Kappaksturinn | Æfing 1) - Formula 1
+UID:2026-10-30T18:30:00/Track Positioning (Mexíkó Kappaksturinn | Æfing
+  1)
+DESCRIPTION:Track Positioning (Mexíkó Kappaksturinn | Æfing 1) - Formul
+ a 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Mexíkó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -186,15 +149,12 @@ UID:2026-10-30T18:30:00/Onboard (Mexíkó Kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Mexíkó Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Mexíkó Kappaksturinn | Æfing 1) - Formula 1 
- - viaplay
+SUMMARY:Pitlane (Mexíkó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20261030T183000
 DTEND:20261030T193000
 DTSTAMP:20261030T183000Z
-UID:2026-10-30T18:30:00/Track Positioning (Mexíkó Kappaksturinn | Æfing
-  1)
-DESCRIPTION:Track Positioning (Mexíkó Kappaksturinn | Æfing 1) - Formul
- a 1
+UID:2026-10-30T18:30:00/Pitlane (Mexíkó Kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Mexíkó Kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Mexíkó Kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -229,12 +189,28 @@ UID:2026-10-30T21:55:00/Mexíkó Kappaksturinn (Æfing 2)
 DESCRIPTION:Mexíkó Kappaksturinn (Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Mexíkó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+DTSTART:20261030T220000
+DTEND:20261030T230000
+DTSTAMP:20261030T220000Z
+UID:2026-10-30T22:00:00/Timing (Mexíkó Kappaksturinn | Æfing 2)
+DESCRIPTION:Timing (Mexíkó Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Mexíkó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20261030T220000
 DTEND:20261030T230000
 DTSTAMP:20261030T220000Z
 UID:2026-10-30T22:00:00/Pitlane (Mexíkó Kappaksturinn | Æfing 2)
 DESCRIPTION:Pitlane (Mexíkó Kappaksturinn | Æfing 2) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Mexíkó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
+DTSTART:20261030T220000
+DTEND:20261030T230000
+DTSTAMP:20261030T220000Z
+UID:2026-10-30T22:00:00/Onboard (Mexíkó Kappaksturinn | Æfing 2)
+DESCRIPTION:Onboard (Mexíkó Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Mexíkó Kappaksturinn | Æfing 2) - Formula 1 
@@ -246,22 +222,6 @@ UID:2026-10-30T22:00:00/Track Positioning (Mexíkó Kappaksturinn | Æfing
   2)
 DESCRIPTION:Track Positioning (Mexíkó Kappaksturinn | Æfing 2) - Formul
  a 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Mexíkó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
-DTSTART:20261030T220000
-DTEND:20261030T230000
-DTSTAMP:20261030T220000Z
-UID:2026-10-30T22:00:00/Timing (Mexíkó Kappaksturinn | Æfing 2)
-DESCRIPTION:Timing (Mexíkó Kappaksturinn | Æfing 2) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Mexíkó Kappaksturinn | Æfing 2) - Formula 1 - viaplay
-DTSTART:20261030T220000
-DTEND:20261030T230000
-DTSTAMP:20261030T220000Z
-UID:2026-10-30T22:00:00/Onboard (Mexíkó Kappaksturinn | Æfing 2)
-DESCRIPTION:Onboard (Mexíkó Kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Malasíu Kappaksturinn (Frjáls æfing 2) - Moto3 - viaplay
@@ -280,6 +240,14 @@ UID:2026-10-31T01:20:00/Malasíu Kappaksturinn (Frjáls æfing 2)
 DESCRIPTION:Malasíu Kappaksturinn (Frjáls æfing 2) - Moto2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shanghai (Tímatökur) - GT World Challenge Asia - viaplay
+DTSTART:20261031T013000
+DTEND:20261031T023000
+DTSTAMP:20261031T013000Z
+UID:2026-10-31T01:30:00/Shanghai (Tímatökur)
+DESCRIPTION:Shanghai (Tímatökur) - GT World Challenge Asia
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Malasíu Kappaksturinn (Frjáls æfing 2) - MotoGP - viaplay
 DTSTART:20261031T020000
 DTEND:20261031T030000
@@ -294,6 +262,14 @@ DTEND:20261031T034500
 DTSTAMP:20261031T024500Z
 UID:2026-10-31T02:45:00/Malasíu Kappaksturinn (Tímatökur)
 DESCRIPTION:Malasíu Kappaksturinn (Tímatökur) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shanghai (Race 1) - GT World Challenge Asia - viaplay
+DTSTART:20261031T042500
+DTEND:20261031T052500
+DTSTAMP:20261031T042500Z
+UID:2026-10-31T04:25:00/Shanghai (Race 1)
+DESCRIPTION:Shanghai (Race 1) - GT World Challenge Asia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Malasíu Kappaksturinn (Tímatökur) - Moto3 - viaplay
@@ -328,12 +304,28 @@ UID:2026-10-31T06:50:00/Malasíu Kappaksturinn (Sprettkeppni)
 DESCRIPTION:Malasíu Kappaksturinn (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mugello (Kappakstur 1) - Formula 4 Italian Championship - viaplay
+DTSTART:20261031T085500
+DTEND:20261031T095500
+DTSTAMP:20261031T085500Z
+UID:2026-10-31T08:55:00/Mugello (Kappakstur 1)
+DESCRIPTION:Mugello (Kappakstur 1) - Formula 4 Italian Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Piteå - Eskilstuna - OBOS Damallsvenskan - viaplay
 DTSTART:20261031T115000
 DTEND:20261031T125000
 DTSTAMP:20261031T115000Z
 UID:2026-10-31T11:50:00/Piteå - Eskilstuna
 DESCRIPTION:Piteå - Eskilstuna - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darmstadt - Magdeburg - 2. Bundesliga - viaplay
+DTSTART:20261031T115500
+DTEND:20261031T125500
+DTSTAMP:20261031T115500Z
+UID:2026-10-31T11:55:00/Darmstadt - Magdeburg
+DESCRIPTION:Darmstadt - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wolfsburg - Osnabrück - 2. Bundesliga - viaplay
@@ -350,14 +342,6 @@ DTEND:20261031T125500
 DTSTAMP:20261031T115500Z
 UID:2026-10-31T11:55:00/Kaiserslautern - Hertha Berlin
 DESCRIPTION:Kaiserslautern - Hertha Berlin - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darmstadt - Magdeburg - 2. Bundesliga - viaplay
-DTSTART:20261031T115500
-DTEND:20261031T125500
-DTSTAMP:20261031T115500Z
-UID:2026-10-31T11:55:00/Darmstadt - Magdeburg
-DESCRIPTION:Darmstadt - Magdeburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norwich - Watford - Championship - viaplay
@@ -384,6 +368,14 @@ UID:2026-10-31T12:20:00/Lincoln - Birmingham
 DESCRIPTION:Lincoln - Birmingham - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Djurgården - Vittsjö - OBOS Damallsvenskan - viaplay
+DTSTART:20261031T125000
+DTEND:20261031T135000
+DTSTAMP:20261031T125000Z
+UID:2026-10-31T12:50:00/Djurgården - Vittsjö
+DESCRIPTION:Djurgården - Vittsjö - OBOS Damallsvenskan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brommapojkarna - AIK - OBOS Damallsvenskan - viaplay
 DTSTART:20261031T125000
 DTEND:20261031T135000
@@ -392,12 +384,12 @@ UID:2026-10-31T12:50:00/Brommapojkarna - AIK
 DESCRIPTION:Brommapojkarna - AIK - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Djurgården - Vittsjö - OBOS Damallsvenskan - viaplay
-DTSTART:20261031T125000
-DTEND:20261031T135000
-DTSTAMP:20261031T125000Z
-UID:2026-10-31T12:50:00/Djurgården - Vittsjö
-DESCRIPTION:Djurgården - Vittsjö - OBOS Damallsvenskan
+SUMMARY:Mugello (Kappakstur 2) - Formula 4 Italian Championship - viaplay
+DTSTART:20261031T133000
+DTEND:20261031T143000
+DTSTAMP:20261031T133000Z
+UID:2026-10-31T13:30:00/Mugello (Kappakstur 2)
+DESCRIPTION:Mugello (Kappakstur 2) - Formula 4 Italian Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rosengård - Växjö - OBOS Damallsvenskan - viaplay
@@ -416,6 +408,14 @@ UID:2026-10-31T14:10:00/Skellefteå - Björklöven
 DESCRIPTION:Skellefteå - Björklöven - SHL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Augsburg - Freiburg - Bundesliga - viaplay
+DTSTART:20261031T142000
+DTEND:20261031T152000
+DTSTAMP:20261031T142000Z
+UID:2026-10-31T14:20:00/Augsburg - Freiburg
+DESCRIPTION:Augsburg - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20261031T142000
 DTEND:20261031T152000
@@ -432,20 +432,12 @@ UID:2026-10-31T14:20:00/Schalke - Leipzig
 DESCRIPTION:Schalke - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augsburg - Freiburg - Bundesliga - viaplay
+SUMMARY:Werder Bremen - Hoffenheim - Bundesliga - viaplay
 DTSTART:20261031T142000
 DTEND:20261031T152000
 DTSTAMP:20261031T142000Z
-UID:2026-10-31T14:20:00/Augsburg - Freiburg
-DESCRIPTION:Augsburg - Freiburg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Paderborn - Bundesliga - viaplay
-DTSTART:20261031T142000
-DTEND:20261031T152000
-DTSTAMP:20261031T142000Z
-UID:2026-10-31T14:20:00/Mönchengladbach - Paderborn
-DESCRIPTION:Mönchengladbach - Paderborn - Bundesliga
+UID:2026-10-31T14:20:00/Werder Bremen - Hoffenheim
+DESCRIPTION:Werder Bremen - Hoffenheim - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leverkusen - Stuttgart - Bundesliga - viaplay
@@ -456,20 +448,36 @@ UID:2026-10-31T14:20:00/Leverkusen - Stuttgart
 DESCRIPTION:Leverkusen - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Hoffenheim - Bundesliga - viaplay
+SUMMARY:Mönchengladbach - Paderborn - Bundesliga - viaplay
 DTSTART:20261031T142000
 DTEND:20261031T152000
 DTSTAMP:20261031T142000Z
-UID:2026-10-31T14:20:00/Werder Bremen - Hoffenheim
-DESCRIPTION:Werder Bremen - Hoffenheim - Bundesliga
+UID:2026-10-31T14:20:00/Mönchengladbach - Paderborn
+DESCRIPTION:Mönchengladbach - Paderborn - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolverhampton - Cardiff - Championship - viaplay
+SUMMARY:Millwall - Derby - Championship - viaplay
 DTSTART:20261031T145000
 DTEND:20261031T155000
 DTSTAMP:20261031T145000Z
-UID:2026-10-31T14:50:00/Wolverhampton - Cardiff
-DESCRIPTION:Wolverhampton - Cardiff - Championship
+UID:2026-10-31T14:50:00/Millwall - Derby
+DESCRIPTION:Millwall - Derby - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlesbrough - Charlton - Championship - viaplay
+DTSTART:20261031T145000
+DTEND:20261031T155000
+DTSTAMP:20261031T145000Z
+UID:2026-10-31T14:50:00/Middlesbrough - Charlton
+DESCRIPTION:Middlesbrough - Charlton - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Portsmouth - Championship - viaplay
+DTSTART:20261031T145000
+DTEND:20261031T155000
+DTSTAMP:20261031T145000Z
+UID:2026-10-31T14:50:00/Burnley - Portsmouth
+DESCRIPTION:Burnley - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bolton - Bristol City - Championship - viaplay
@@ -488,20 +496,12 @@ UID:2026-10-31T14:50:00/West Ham - West Brom
 DESCRIPTION:West Ham - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Middlesbrough - Charlton - Championship - viaplay
+SUMMARY:Wolverhampton - Cardiff - Championship - viaplay
 DTSTART:20261031T145000
 DTEND:20261031T155000
 DTSTAMP:20261031T145000Z
-UID:2026-10-31T14:50:00/Middlesbrough - Charlton
-DESCRIPTION:Middlesbrough - Charlton - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Millwall - Derby - Championship - viaplay
-DTSTART:20261031T145000
-DTEND:20261031T155000
-DTSTAMP:20261031T145000Z
-UID:2026-10-31T14:50:00/Millwall - Derby
-DESCRIPTION:Millwall - Derby - Championship
+UID:2026-10-31T14:50:00/Wolverhampton - Cardiff
+DESCRIPTION:Wolverhampton - Cardiff - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southampton - QPR - Championship - viaplay
@@ -512,14 +512,6 @@ UID:2026-10-31T14:50:00/Southampton - QPR
 DESCRIPTION:Southampton - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Portsmouth - Championship - viaplay
-DTSTART:20261031T145000
-DTEND:20261031T155000
-DTSTAMP:20261031T145000Z
-UID:2026-10-31T14:50:00/Burnley - Portsmouth
-DESCRIPTION:Burnley - Portsmouth - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Swansea - Blackburn - Championship - viaplay
 DTSTART:20261031T145000
 DTEND:20261031T155000
@@ -528,12 +520,12 @@ UID:2026-10-31T14:50:00/Swansea - Blackburn
 DESCRIPTION:Swansea - Blackburn - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bayern München - Dortmund - Bundesliga - viaplay
-DTSTART:20261031T172000
-DTEND:20261031T182000
-DTSTAMP:20261031T172000Z
-UID:2026-10-31T17:20:00/Bayern München - Dortmund
-DESCRIPTION:Bayern München - Dortmund - Bundesliga
+SUMMARY:Breeders' Cup World Championships - Crown Jewels Racing - viaplay
+DTSTART:20261031T170000
+DTEND:20261031T180000
+DTSTAMP:20261031T170000Z
+UID:2026-10-31T17:00:00/Breeders' Cup World Championships
+DESCRIPTION:Breeders' Cup World Championships - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bayern München - Dortmund (Tactical Feed) - Bundesliga - viaplay
@@ -544,36 +536,29 @@ UID:2026-10-31T17:20:00/Bayern München - Dortmund (Tactical Feed)
 DESCRIPTION:Bayern München - Dortmund (Tactical Feed) - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bayern München - Dortmund - Bundesliga - viaplay
+DTSTART:20261031T172000
+DTEND:20261031T182000
+DTSTAMP:20261031T172000Z
+UID:2026-10-31T17:20:00/Bayern München - Dortmund
+DESCRIPTION:Bayern München - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Dortmund (Themed Broadcast) - Bundesliga - viapl
+ ay
+DTSTART:20261031T172000
+DTEND:20261031T182000
+DTSTAMP:20261031T172000Z
+UID:2026-10-31T17:20:00/Bayern München - Dortmund (Themed Broadcast)
+DESCRIPTION:Bayern München - Dortmund (Themed Broadcast) - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mexíkó Kappaksturinn (Æfing 3) - Formula 1 - viaplay
 DTSTART:20261031T172500
 DTEND:20261031T182500
 DTSTAMP:20261031T172500Z
 UID:2026-10-31T17:25:00/Mexíkó Kappaksturinn (Æfing 3)
 DESCRIPTION:Mexíkó Kappaksturinn (Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Mexíkó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20261031T173000
-DTEND:20261031T183000
-DTSTAMP:20261031T173000Z
-UID:2026-10-31T17:30:00/Pitlane (Mexíkó Kappaksturinn | Æfing 3)
-DESCRIPTION:Pitlane (Mexíkó Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Mexíkó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20261031T173000
-DTEND:20261031T183000
-DTSTAMP:20261031T173000Z
-UID:2026-10-31T17:30:00/Onboard (Mexíkó Kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Mexíkó Kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Mexíkó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20261031T173000
-DTEND:20261031T183000
-DTSTAMP:20261031T173000Z
-UID:2026-10-31T17:30:00/Timing (Mexíkó Kappaksturinn | Æfing 3)
-DESCRIPTION:Timing (Mexíkó Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Mexíkó Kappaksturinn | Æfing 3) - Formula 1 
@@ -585,6 +570,30 @@ UID:2026-10-31T17:30:00/Track Positioning (Mexíkó Kappaksturinn | Æfing
   3)
 DESCRIPTION:Track Positioning (Mexíkó Kappaksturinn | Æfing 3) - Formul
  a 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timing (Mexíkó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20261031T173000
+DTEND:20261031T183000
+DTSTAMP:20261031T173000Z
+UID:2026-10-31T17:30:00/Timing (Mexíkó Kappaksturinn | Æfing 3)
+DESCRIPTION:Timing (Mexíkó Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Mexíkó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20261031T173000
+DTEND:20261031T183000
+DTSTAMP:20261031T173000Z
+UID:2026-10-31T17:30:00/Onboard (Mexíkó Kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Mexíkó Kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Mexíkó Kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20261031T173000
+DTEND:20261031T183000
+DTSTAMP:20261031T173000Z
+UID:2026-10-31T17:30:00/Pitlane (Mexíkó Kappaksturinn | Æfing 3)
+DESCRIPTION:Pitlane (Mexíkó Kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lemgo Lippe - Magdeburg - Bundesliga - viaplay
@@ -611,6 +620,15 @@ UID:2026-10-31T20:45:00/Mexíkó Kappaksturinn (Tímatökur)
 DESCRIPTION:Mexíkó Kappaksturinn (Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Timing (Mexíkó Kappaksturinn | Tímatökur) - Formula 1 - viap
+ lay
+DTSTART:20261031T210000
+DTEND:20261031T220000
+DTSTAMP:20261031T210000Z
+UID:2026-10-31T21:00:00/Timing (Mexíkó Kappaksturinn | Tímatökur)
+DESCRIPTION:Timing (Mexíkó Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pitlane (Mexíkó Kappaksturinn | Tímatökur) - Formula 1 - via
  play
 DTSTART:20261031T210000
@@ -618,6 +636,15 @@ DTEND:20261031T220000
 DTSTAMP:20261031T210000Z
 UID:2026-10-31T21:00:00/Pitlane (Mexíkó Kappaksturinn | Tímatökur)
 DESCRIPTION:Pitlane (Mexíkó Kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Mexíkó Kappaksturinn | Tímatökur) - Formula 1 - via
+ play
+DTSTART:20261031T210000
+DTEND:20261031T220000
+DTSTAMP:20261031T210000Z
+UID:2026-10-31T21:00:00/Onboard (Mexíkó Kappaksturinn | Tímatökur)
+DESCRIPTION:Onboard (Mexíkó Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Track Positioning (Mexíkó Kappaksturinn | Tímatökur) - Formu
@@ -629,24 +656,6 @@ UID:2026-10-31T21:00:00/Track Positioning (Mexíkó Kappaksturinn | Tím
  atökur)
 DESCRIPTION:Track Positioning (Mexíkó Kappaksturinn | Tímatökur) - F
  ormula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Mexíkó Kappaksturinn | Tímatökur) - Formula 1 - viap
- lay
-DTSTART:20261031T210000
-DTEND:20261031T220000
-DTSTAMP:20261031T210000Z
-UID:2026-10-31T21:00:00/Timing (Mexíkó Kappaksturinn | Tímatökur)
-DESCRIPTION:Timing (Mexíkó Kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Mexíkó Kappaksturinn | Tímatökur) - Formula 1 - via
- play
-DTSTART:20261031T210000
-DTEND:20261031T220000
-DTSTAMP:20261031T210000Z
-UID:2026-10-31T21:00:00/Onboard (Mexíkó Kappaksturinn | Tímatökur)
-DESCRIPTION:Onboard (Mexíkó Kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moicano vs Nolan - UFC - viaplay
@@ -663,6 +672,14 @@ DTEND:20261101T033500
 DTSTAMP:20261101T023500Z
 UID:2026-11-01T02:35:00/Malasíu Kappaksturinn (Warm Up)
 DESCRIPTION:Malasíu Kappaksturinn (Warm Up) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malasíu Kappaksturinn (Kappakstur) - Moto3 - viaplay
+DTSTART:20261101T034500
+DTEND:20261101T044500
+DTSTAMP:20261101T034500Z
+UID:2026-11-01T03:45:00/Malasíu Kappaksturinn (Kappakstur)
+DESCRIPTION:Malasíu Kappaksturinn (Kappakstur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wistron Ladies Open - Ladies European Tour - viaplay
@@ -682,11 +699,35 @@ DESCRIPTION:Malasíu Kappaksturinn (Kappakstur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Malasíu Kappaksturinn (Kappakstur) - MotoGP - viaplay
-DTSTART:20261101T061500
-DTEND:20261101T071500
-DTSTAMP:20261101T061500Z
-UID:2026-11-01T06:15:00/Malasíu Kappaksturinn (Kappakstur)
+DTSTART:20261101T065000
+DTEND:20261101T075000
+DTSTAMP:20261101T065000Z
+UID:2026-11-01T06:50:00/Malasíu Kappaksturinn (Kappakstur)
 DESCRIPTION:Malasíu Kappaksturinn (Kappakstur) - MotoGP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mugello (Kappakstur 3) - Formula 4 Italian Championship - viaplay
+DTSTART:20261101T073000
+DTEND:20261101T083000
+DTSTAMP:20261101T073000Z
+UID:2026-11-01T07:30:00/Mugello (Kappakstur 3)
+DESCRIPTION:Mugello (Kappakstur 3) - Formula 4 Italian Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mugello (Kappakstur 4) - Formula 4 Italian Championship - viaplay
+DTSTART:20261101T110500
+DTEND:20261101T120500
+DTSTAMP:20261101T110500Z
+UID:2026-11-01T11:05:00/Mugello (Kappakstur 4)
+DESCRIPTION:Mugello (Kappakstur 4) - Formula 4 Italian Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Pauli - Nürnberg - 2. Bundesliga - viaplay
+DTSTART:20261101T122500
+DTEND:20261101T132500
+DTSTAMP:20261101T122500Z
+UID:2026-11-01T12:25:00/St. Pauli - Nürnberg
+DESCRIPTION:St. Pauli - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Greuther Fürth - Holstein Kiel - 2. Bundesliga - viaplay
@@ -703,14 +744,6 @@ DTEND:20261101T132500
 DTSTAMP:20261101T122500Z
 UID:2026-11-01T12:25:00/Hannover - Dynamo Dresden
 DESCRIPTION:Hannover - Dynamo Dresden - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St. Pauli - Nürnberg - 2. Bundesliga - viaplay
-DTSTART:20261101T122500
-DTEND:20261101T132500
-DTSTAMP:20261101T122500Z
-UID:2026-11-01T12:25:00/St. Pauli - Nürnberg
-DESCRIPTION:St. Pauli - Nürnberg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uppsala - Hammarby - OBOS Damallsvenskan - viaplay
@@ -777,17 +810,6 @@ UID:2026-11-01T19:30:00/Mexíkó Kappaksturinn (Kappakstur)
 DESCRIPTION:Mexíkó Kappaksturinn (Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Mexíkó Kappaksturinn | Kappakstur) - Formula 
- 1 - viaplay
-DTSTART:20261101T200000
-DTEND:20261101T210000
-DTSTAMP:20261101T200000Z
-UID:2026-11-01T20:00:00/Track Positioning (Mexíkó Kappaksturinn | Kappak
- stur)
-DESCRIPTION:Track Positioning (Mexíkó Kappaksturinn | Kappakstur) - Form
- ula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Onboard (Mexíkó Kappaksturinn | Kappakstur) - Formula 1 - viapla
  y
 DTSTART:20261101T200000
@@ -804,6 +826,17 @@ DTEND:20261101T210000
 DTSTAMP:20261101T200000Z
 UID:2026-11-01T20:00:00/Pitlane (Mexíkó Kappaksturinn | Kappakstur)
 DESCRIPTION:Pitlane (Mexíkó Kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Mexíkó Kappaksturinn | Kappakstur) - Formula 
+ 1 - viaplay
+DTSTART:20261101T200000
+DTEND:20261101T210000
+DTSTAMP:20261101T200000Z
+UID:2026-11-01T20:00:00/Track Positioning (Mexíkó Kappaksturinn | Kappak
+ stur)
+DESCRIPTION:Track Positioning (Mexíkó Kappaksturinn | Kappakstur) - Form
+ ula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Mexíkó Kappaksturinn | Kappakstur) - Formula 1 - viaplay
@@ -828,6 +861,14 @@ DTEND:20261102T175500
 DTSTAMP:20261102T165500Z
 UID:2026-11-02T16:55:00/Wolfsburg - Hoffenheim
 DESCRIPTION:Wolfsburg - Hoffenheim - DFB-Pokal Frauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lexus Melbourne Cup - Crown Jewels Racing - viaplay
+DTSTART:20261103T023000
+DTEND:20261103T033000
+DTSTAMP:20261103T023000Z
+UID:2026-11-03T02:30:00/Lexus Melbourne Cup
+DESCRIPTION:Lexus Melbourne Cup - Crown Jewels Racing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man United - Roma - UEFA Youth League - viaplay
@@ -870,38 +911,6 @@ UID:2026-11-03T19:35:00/Charlton - Bolton
 DESCRIPTION:Charlton - Bolton - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QPR - Burnley - Championship - viaplay
-DTSTART:20261103T193500
-DTEND:20261103T203500
-DTSTAMP:20261103T193500Z
-UID:2026-11-03T19:35:00/QPR - Burnley
-DESCRIPTION:QPR - Burnley - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Watford - Lincoln - Championship - viaplay
-DTSTART:20261103T193500
-DTEND:20261103T203500
-DTSTAMP:20261103T193500Z
-UID:2026-11-03T19:35:00/Watford - Lincoln
-DESCRIPTION:Watford - Lincoln - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preston - Sheffield United - Championship - viaplay
-DTSTART:20261103T193500
-DTEND:20261103T203500
-DTSTAMP:20261103T193500Z
-UID:2026-11-03T19:35:00/Preston - Sheffield United
-DESCRIPTION:Preston - Sheffield United - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portsmouth - Swansea - Championship - viaplay
-DTSTART:20261103T193500
-DTEND:20261103T203500
-DTSTAMP:20261103T193500Z
-UID:2026-11-03T19:35:00/Portsmouth - Swansea
-DESCRIPTION:Portsmouth - Swansea - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Derby - Norwich - Championship - viaplay
 DTSTART:20261103T193500
 DTEND:20261103T203500
@@ -924,6 +933,38 @@ DTEND:20261103T203500
 DTSTAMP:20261103T193500Z
 UID:2026-11-03T19:35:00/Birmingham - Millwall
 DESCRIPTION:Birmingham - Millwall - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watford - Lincoln - Championship - viaplay
+DTSTART:20261103T193500
+DTEND:20261103T203500
+DTSTAMP:20261103T193500Z
+UID:2026-11-03T19:35:00/Watford - Lincoln
+DESCRIPTION:Watford - Lincoln - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QPR - Burnley - Championship - viaplay
+DTSTART:20261103T193500
+DTEND:20261103T203500
+DTSTAMP:20261103T193500Z
+UID:2026-11-03T19:35:00/QPR - Burnley
+DESCRIPTION:QPR - Burnley - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preston - Sheffield United - Championship - viaplay
+DTSTART:20261103T193500
+DTEND:20261103T203500
+DTSTAMP:20261103T193500Z
+UID:2026-11-03T19:35:00/Preston - Sheffield United
+DESCRIPTION:Preston - Sheffield United - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portsmouth - Swansea - Championship - viaplay
+DTSTART:20261103T193500
+DTEND:20261103T203500
+DTSTAMP:20261103T193500Z
+UID:2026-11-03T19:35:00/Portsmouth - Swansea
+DESCRIPTION:Portsmouth - Swansea - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man United - Roma - Champions League - viaplay
@@ -963,6 +1004,94 @@ DTSTART:20261103T220000
 DTEND:20261103T230000
 DTSTAMP:20261103T220000Z
 UID:2026-11-03T22:00:00/Goalshow
+DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens - Como - UEFA Youth League - viaplay
+DTSTART:20261104T125500
+DTEND:20261104T135500
+DTSTAMP:20261104T125500Z
+UID:2026-11-04T12:55:00/Lens - Como
+DESCRIPTION:Lens - Como - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Real Betis - UEFA Youth League - viaplay
+DTSTART:20261104T145500
+DTEND:20261104T155500
+DTSTAMP:20261104T145500Z
+UID:2026-11-04T14:55:00/Dortmund - Real Betis
+DESCRIPTION:Dortmund - Real Betis - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEK Athens - Real Madrid - Champions League - viaplay
+DTSTART:20261104T173500
+DTEND:20261104T183500
+DTSTAMP:20261104T173500Z
+UID:2026-11-04T17:35:00/AEK Athens - Real Madrid
+DESCRIPTION:AEK Athens - Real Madrid - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrexham - Middlesbrough - Championship - viaplay
+DTSTART:20261104T193500
+DTEND:20261104T203500
+DTSTAMP:20261104T193500Z
+UID:2026-11-04T19:35:00/Wrexham - Middlesbrough
+DESCRIPTION:Wrexham - Middlesbrough - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardiff - West Ham - Championship - viaplay
+DTSTART:20261104T193500
+DTEND:20261104T203500
+DTSTAMP:20261104T193500Z
+UID:2026-11-04T19:35:00/Cardiff - West Ham
+DESCRIPTION:Cardiff - West Ham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol City - Wolverhampton - Championship - viaplay
+DTSTART:20261104T195000
+DTEND:20261104T205000
+DTSTAMP:20261104T195000Z
+UID:2026-11-04T19:50:00/Bristol City - Wolverhampton
+DESCRIPTION:Bristol City - Wolverhampton - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Real Betis - Champions League - viaplay
+DTSTART:20261104T195000
+DTEND:20261104T205000
+DTSTAMP:20261104T195000Z
+UID:2026-11-04T19:50:00/Dortmund - Real Betis
+DESCRIPTION:Dortmund - Real Betis - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens - Como - Champions League - viaplay
+DTSTART:20261104T195000
+DTEND:20261104T205000
+DTSTAMP:20261104T195000Z
+UID:2026-11-04T19:50:00/Lens - Como
+DESCRIPTION:Lens - Como - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leipzig - Man City - Champions League - viaplay
+DTSTART:20261104T195000
+DTEND:20261104T205000
+DTSTAMP:20261104T195000Z
+UID:2026-11-04T19:50:00/Leipzig - Man City
+DESCRIPTION:Leipzig - Man City - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV - Club Brugge - Champions League - viaplay
+DTSTART:20261104T195000
+DTEND:20261104T205000
+DTSTAMP:20261104T195000Z
+UID:2026-11-04T19:50:00/PSV - Club Brugge
+DESCRIPTION:PSV - Club Brugge - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goalshow - Champions League - viaplay
+DTSTART:20261104T220000
+DTEND:20261104T230000
+DTSTAMP:20261104T220000Z
+UID:2026-11-04T22:00:00/Goalshow
 DESCRIPTION:Goalshow - Champions League
 END:VEVENT
 END:VCALENDAR
