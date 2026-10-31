@@ -2,21 +2,37 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Curling European Championship - ical
 BEGIN:VEVENT
-SUMMARY:Women | Italy - Germany - Curling European Championship - eurospor
- t1
-DTSTART:20261030T172700
-DTEND:20261030T182700
-DTSTAMP:20261030T172700Z
-UID:2026-10-30T17:27:00/Women | Italy - Germany
-DESCRIPTION:Women | Italy - Germany - Curling European Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Men | Scotland - Italy - Curling European Championship - eurosport
  2
-DTSTART:20261031T083000
-DTEND:20261031T093000
-DTSTAMP:20261031T083000Z
-UID:2026-10-31T08:30:00/Men | Scotland - Italy
+DTSTART:20261031T082700
+DTEND:20261031T092700
+DTSTAMP:20261031T082700Z
+UID:2026-10-31T08:27:00/Men | Scotland - Italy
 DESCRIPTION:Men | Scotland - Italy - Curling European Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women | Switzerland - Scotland - Curling European Championship - e
+ urosport2
+DTSTART:20261031T125800
+DTEND:20261031T135800
+DTSTAMP:20261031T125800Z
+UID:2026-10-31T12:58:00/Women | Switzerland - Scotland
+DESCRIPTION:Women | Switzerland - Scotland - Curling European Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men | Semi-Final - Curling European Championship - eurosport1
+DTSTART:20261031T172000
+DTEND:20261031T182000
+DTSTAMP:20261031T172000Z
+UID:2026-10-31T17:20:00/Men | Semi-Final
+DESCRIPTION:Men | Semi-Final - Curling European Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women | Final - Curling European Championship - eurosport2
+DTSTART:20261101T090000
+DTEND:20261101T100000
+DTSTAMP:20261101T090000Z
+UID:2026-11-01T09:00:00/Women | Final
+DESCRIPTION:Women | Final - Curling European Championship
 END:VEVENT
 END:VCALENDAR
