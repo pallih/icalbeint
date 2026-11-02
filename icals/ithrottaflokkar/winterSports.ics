@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - winterSports - ical
 BEGIN:VEVENT
-SUMMARY:Women | Switzerland - Sweden - Curling European Championship - eur
- osport2
-DTSTART:20261101T085700
-DTEND:20261101T095700
-DTSTAMP:20261101T085700Z
-UID:2026-11-01T08:57:00/Women | Switzerland - Sweden
-DESCRIPTION:Women | Switzerland - Sweden - Curling European Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women - Free Program - Grand Prix | Canada - eurosport1
-DTSTART:20261101T200000
-DTEND:20261101T210000
-DTSTAMP:20261101T200000Z
-UID:2026-11-01T20:00:00/Women - Free Program
-DESCRIPTION:Women - Free Program - Grand Prix | Canada
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ice Dancing - Free Dance - Grand Prix | Canada - eurosport1
-DTSTART:20261101T221500
-DTEND:20261101T231500
-DTSTAMP:20261101T221500Z
-UID:2026-11-01T22:15:00/Ice Dancing - Free Dance
-DESCRIPTION:Ice Dancing - Free Dance - Grand Prix | Canada
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grand Prix | China - Mixed Ice Dancing - Short Program - eurosport
  2
 DTSTART:20261106T064500
@@ -50,5 +25,29 @@ DTEND:20261106T120000
 DTSTAMP:20261106T110000Z
 UID:2026-11-06T11:00:00/Grand Prix | China
 DESCRIPTION:Grand Prix | China - Mixed Pairs - Short Program
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix | China - Mixed Ice Dancing - Free Program - eurosport2
+DTSTART:20261107T063000
+DTEND:20261107T073000
+DTSTAMP:20261107T063000Z
+UID:2026-11-07T06:30:00/Grand Prix | China
+DESCRIPTION:Grand Prix | China - Mixed Ice Dancing - Free Program
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix | China - Women - Free Program - eurosport2
+DTSTART:20261107T083000
+DTEND:20261107T093000
+DTSTAMP:20261107T083000Z
+UID:2026-11-07T08:30:00/Grand Prix | China
+DESCRIPTION:Grand Prix | China - Women - Free Program
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Prix | China - Pairs - Free Program - eurosport2
+DTSTART:20261107T104000
+DTEND:20261107T114000
+DTSTAMP:20261107T104000Z
+UID:2026-11-07T10:40:00/Grand Prix | China
+DESCRIPTION:Grand Prix | China - Pairs - Free Program
 END:VEVENT
 END:VCALENDAR
