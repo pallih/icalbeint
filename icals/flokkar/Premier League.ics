@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Premier League - ical
 BEGIN:VEVENT
-SUMMARY:Newcastle - Everton - Premier League - synsport
-DTSTART:20261102T194000
-DTEND:20261102T204000
-DTSTAMP:20261102T194000Z
-UID:2026-11-02T19:40:00/Newcastle - Everton
-DESCRIPTION:Newcastle - Everton - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Everton - Coventry - Premier League - synsport2
 DTSTART:20261106T194000
 DTEND:20261106T204000
@@ -26,20 +18,20 @@ UID:2026-11-07T12:10:00/Leeds - Tottenham
 DESCRIPTION:Leeds - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
-DTSTART:20261107T144000
-DTEND:20261107T154000
-DTSTAMP:20261107T144000Z
-UID:2026-11-07T14:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arsenal - Hull - Premier League - synsport2
 DTSTART:20261107T144000
 DTEND:20261107T154000
 DTSTAMP:20261107T144000Z
 UID:2026-11-07T14:40:00/Arsenal - Hull
 DESCRIPTION:Arsenal - Hull - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20261107T144000
+DTEND:20261107T154000
+DTSTAMP:20261107T144000Z
+UID:2026-11-07T14:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fulham - Newcastle - Premier League - synsport3
@@ -66,14 +58,6 @@ UID:2026-11-07T19:35:00/Laugardagsmörkin
 DESCRIPTION:Laugardagsmörkin - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunderland - Chelsea - Premier League - synsport3
-DTSTART:20261108T134000
-DTEND:20261108T144000
-DTSTAMP:20261108T134000Z
-UID:2026-11-08T13:40:00/Sunderland - Chelsea
-DESCRIPTION:Sunderland - Chelsea - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crystal Palace - Liverpool - Premier League - synsport
 DTSTART:20261108T134000
 DTEND:20261108T144000
@@ -82,12 +66,12 @@ UID:2026-11-08T13:40:00/Crystal Palace - Liverpool
 DESCRIPTION:Crystal Palace - Liverpool - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ipswich - Bournemouth - Premier League - synsport5
-DTSTART:20261108T135000
-DTEND:20261108T145000
-DTSTAMP:20261108T135000Z
-UID:2026-11-08T13:50:00/Ipswich - Bournemouth
-DESCRIPTION:Ipswich - Bournemouth - Premier League
+SUMMARY:Sunderland - Chelsea - Premier League - synsport3
+DTSTART:20261108T134000
+DTEND:20261108T144000
+DTSTAMP:20261108T134000Z
+UID:2026-11-08T13:40:00/Sunderland - Chelsea
+DESCRIPTION:Sunderland - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brighton - Brentford - Premier League - synsportisland2
@@ -96,6 +80,14 @@ DTEND:20261108T145000
 DTSTAMP:20261108T135000Z
 UID:2026-11-08T13:50:00/Brighton - Brentford
 DESCRIPTION:Brighton - Brentford - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ipswich - Bournemouth - Premier League - synsport5
+DTSTART:20261108T135000
+DTEND:20261108T145000
+DTSTAMP:20261108T135000Z
+UID:2026-11-08T13:50:00/Ipswich - Bournemouth
+DESCRIPTION:Ipswich - Bournemouth - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. Utd. - Aston Villa - Premier League - synsport
