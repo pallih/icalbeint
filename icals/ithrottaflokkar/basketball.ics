@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Njarðvík - Grindavík - Bónus deild kvenna - synsportisland
-DTSTART:20261103T190500
-DTEND:20261103T200500
-DTSTAMP:20261103T190500Z
-UID:2026-11-03T19:05:00/Njarðvík - Grindavík
-DESCRIPTION:Njarðvík - Grindavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland2
-DTSTART:20261103T200000
-DTEND:20261103T210000
-DTSTAMP:20261103T200000Z
-UID:2026-11-03T20:00:00/Körfuboltakvöld Extra
-DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kvenna 
- - synsportisland
-DTSTART:20261103T223500
-DTEND:20261103T233500
-DTSTAMP:20261103T223500Z
-UID:2026-11-03T22:35:00/Bónus körfuboltakvöld kvenna
-DESCRIPTION:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kve
- nna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Detroit Pistons - Philadelphia 76ers - NBA - disney
 DTSTART:20261105T000000
 DTEND:20261105T010000
@@ -44,6 +18,14 @@ UID:2026-11-05T02:30:00/San Antonio Spurs - Dallas Mavericks
 DESCRIPTION:San Antonio Spurs - Dallas Mavericks - NBA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Álftanes - KR - Bónus deild karla - synsportisland2
+DTSTART:20261105T190500
+DTEND:20261105T200500
+DTSTAMP:20261105T190500Z
+UID:2026-11-05T19:05:00/Álftanes - KR
+DESCRIPTION:Álftanes - KR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍR - Keflavík - Bónus deild karla - synsportisland3
 DTSTART:20261105T190500
 DTEND:20261105T200500
@@ -58,14 +40,6 @@ DTEND:20261105T200500
 DTSTAMP:20261105T190500Z
 UID:2026-11-05T19:05:00/Höttur - Tindastóll
 DESCRIPTION:Höttur - Tindastóll - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Álftanes - KR - Bónus deild karla - synsportisland2
-DTSTART:20261105T190500
-DTEND:20261105T200500
-DTSTAMP:20261105T190500Z
-UID:2026-11-05T19:05:00/Álftanes - KR
-DESCRIPTION:Álftanes - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ármann - Grindavík - Bónus deild karla - synsportisland4
@@ -92,6 +66,23 @@ UID:2026-11-05T21:15:00/Tilþrifin
 DESCRIPTION:Tilþrifin - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hamar - Selfoss - 1. deild karla - ap_kkitv_004_prod
+DTSTART:20261106T190500
+DTEND:20261106T200500
+DTSTAMP:20261106T190500Z
+UID:2026-11-06T19:05:00/Hamar - Selfoss
+DESCRIPTION:Hamar - Selfoss - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Þorlákshöfn - Skallagrímur - 1. deild karla - ap_kkitv_0
+ 02_prod
+DTSTART:20261106T190500
+DTEND:20261106T200500
+DTSTAMP:20261106T190500Z
+UID:2026-11-06T19:05:00/Þór Þorlákshöfn - Skallagrímur
+DESCRIPTION:Þór Þorlákshöfn - Skallagrímur - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sindri - Valur - Bónus deild karla - synsportisland
 DTSTART:20261106T190500
 DTEND:20261106T200500
@@ -106,23 +97,6 @@ DTEND:20261106T200500
 DTSTAMP:20261106T190500Z
 UID:2026-11-06T19:05:00/Breiðablik - ÍA
 DESCRIPTION:Breiðablik - ÍA - 1. deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Þór Þorlákshöfn - Skallagrímur - 1. deild karla - ap_kkitv_0
- 02_prod
-DTSTART:20261106T190500
-DTEND:20261106T200500
-DTSTAMP:20261106T190500Z
-UID:2026-11-06T19:05:00/Þór Þorlákshöfn - Skallagrímur
-DESCRIPTION:Þór Þorlákshöfn - Skallagrímur - 1. deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamar - Selfoss - 1. deild karla - ap_kkitv_004_prod
-DTSTART:20261106T190500
-DTEND:20261106T200500
-DTSTAMP:20261106T190500Z
-UID:2026-11-06T19:05:00/Hamar - Selfoss
-DESCRIPTION:Hamar - Selfoss - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fjölnir - KV - 1. deild karla - ap_kkitv_001_prod
@@ -149,11 +123,19 @@ UID:2026-11-07T03:00:00/Lakers - Trail Blazers
 DESCRIPTION:Lakers - Trail Blazers - NBA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skallagrímur - Breiðablik - 1. deild kvenna - ap_kkitv_003_prod
-DTSTART:20261107T125000
-DTEND:20261107T135000
-DTSTAMP:20261107T125000Z
-UID:2026-11-07T12:50:00/Skallagrímur - Breiðablik
+SUMMARY:Njarðvík - Þór Akureyri - 1. deild kvenna - ap_kkitv_002_prod
+DTSTART:20261107T155000
+DTEND:20261107T165000
+DTSTAMP:20261107T155000Z
+UID:2026-11-07T15:50:00/Njarðvík - Þór Akureyri
+DESCRIPTION:Njarðvík - Þór Akureyri - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skallagrímur - Breiðablik - 1. deild kvenna - ap_kkitv_005_prod
+DTSTART:20261107T155000
+DTEND:20261107T165000
+DTSTAMP:20261107T155000Z
+UID:2026-11-07T15:50:00/Skallagrímur - Breiðablik
 DESCRIPTION:Skallagrímur - Breiðablik - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
@@ -163,14 +145,6 @@ DTEND:20261107T165000
 DTSTAMP:20261107T155000Z
 UID:2026-11-07T15:50:00/Vestri - Þór Þorlákshöfn
 DESCRIPTION:Vestri - Þór Þorlákshöfn - 2. deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Njarðvík - Þór Akureyri - 1. deild kvenna - ap_kkitv_002_prod
-DTSTART:20261107T155000
-DTEND:20261107T165000
-DTSTAMP:20261107T155000Z
-UID:2026-11-07T15:50:00/Njarðvík - Þór Akureyri
-DESCRIPTION:Njarðvík - Þór Akureyri - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Þór Þorlákshöfn - 1. deild kvenna - ap_kkitv_003_
@@ -262,5 +236,21 @@ DTEND:20261109T200500
 DTSTAMP:20261109T190500Z
 UID:2026-11-09T19:05:00/Tindastóll - ÍR
 DESCRIPTION:Tindastóll - ÍR - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KV - Aþena - 1. deild kvenna - ap_kkitv_001_prod
+DTSTART:20261110T182000
+DTEND:20261110T192000
+DTSTAMP:20261110T182000Z
+UID:2026-11-10T18:20:00/KV - Aþena
+DESCRIPTION:KV - Aþena - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland
+DTSTART:20261110T200000
+DTEND:20261110T210000
+DTSTAMP:20261110T200000Z
+UID:2026-11-10T20:00:00/Körfuboltakvöld Extra
+DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
 END:VEVENT
 END:VCALENDAR

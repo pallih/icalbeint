@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 1. deild kvenna - ical
 BEGIN:VEVENT
-SUMMARY:Skallagrímur - Breiðablik - 1. deild kvenna - ap_kkitv_003_prod
-DTSTART:20261107T125000
-DTEND:20261107T135000
-DTSTAMP:20261107T125000Z
-UID:2026-11-07T12:50:00/Skallagrímur - Breiðablik
-DESCRIPTION:Skallagrímur - Breiðablik - 1. deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Njarðvík - Þór Akureyri - 1. deild kvenna - ap_kkitv_002_prod
 DTSTART:20261107T155000
 DTEND:20261107T165000
 DTSTAMP:20261107T155000Z
 UID:2026-11-07T15:50:00/Njarðvík - Þór Akureyri
 DESCRIPTION:Njarðvík - Þór Akureyri - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skallagrímur - Breiðablik - 1. deild kvenna - ap_kkitv_005_prod
+DTSTART:20261107T155000
+DTEND:20261107T165000
+DTSTAMP:20261107T155000Z
+UID:2026-11-07T15:50:00/Skallagrímur - Breiðablik
+DESCRIPTION:Skallagrímur - Breiðablik - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Þór Þorlákshöfn - 1. deild kvenna - ap_kkitv_003_
@@ -33,5 +33,13 @@ DTEND:20261108T185000
 DTSTAMP:20261108T175000Z
 UID:2026-11-08T17:50:00/ÍR - Haukar
 DESCRIPTION:ÍR - Haukar - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KV - Aþena - 1. deild kvenna - ap_kkitv_001_prod
+DTSTART:20261110T182000
+DTEND:20261110T192000
+DTSTAMP:20261110T182000Z
+UID:2026-11-10T18:20:00/KV - Aþena
+DESCRIPTION:KV - Aþena - 1. deild kvenna
 END:VEVENT
 END:VCALENDAR

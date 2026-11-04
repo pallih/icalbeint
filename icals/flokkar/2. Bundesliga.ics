@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 2. Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Dynamo Dresden - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20261106T172500
-DTEND:20261106T182500
-DTSTAMP:20261106T172500Z
-UID:2026-11-06T17:25:00/Dynamo Dresden - Greuther Fürth
-DESCRIPTION:Dynamo Dresden - Greuther Fürth - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Braunschweig - Energie Cottbus - 2. Bundesliga - viaplay
 DTSTART:20261106T172500
 DTEND:20261106T182500
@@ -18,20 +10,12 @@ UID:2026-11-06T17:25:00/Braunschweig - Energie Cottbus
 DESCRIPTION:Braunschweig - Energie Cottbus - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nürnberg - Darmstadt - 2. Bundesliga - viaplay
-DTSTART:20261107T115500
-DTEND:20261107T125500
-DTSTAMP:20261107T115500Z
-UID:2026-11-07T11:55:00/Nürnberg - Darmstadt
-DESCRIPTION:Nürnberg - Darmstadt - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Osnabrück - Kaiserslautern - 2. Bundesliga - viaplay
-DTSTART:20261107T115500
-DTEND:20261107T125500
-DTSTAMP:20261107T115500Z
-UID:2026-11-07T11:55:00/Osnabrück - Kaiserslautern
-DESCRIPTION:Osnabrück - Kaiserslautern - 2. Bundesliga
+SUMMARY:Dynamo Dresden - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20261106T172500
+DTEND:20261106T182500
+DTSTAMP:20261106T172500Z
+UID:2026-11-06T17:25:00/Dynamo Dresden - Greuther Fürth
+DESCRIPTION:Dynamo Dresden - Greuther Fürth - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holstein Kiel - Arminia Bielefeld - 2. Bundesliga - viaplay
@@ -42,6 +26,22 @@ UID:2026-11-07T11:55:00/Holstein Kiel - Arminia Bielefeld
 DESCRIPTION:Holstein Kiel - Arminia Bielefeld - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Osnabrück - Kaiserslautern - 2. Bundesliga - viaplay
+DTSTART:20261107T115500
+DTEND:20261107T125500
+DTSTAMP:20261107T115500Z
+UID:2026-11-07T11:55:00/Osnabrück - Kaiserslautern
+DESCRIPTION:Osnabrück - Kaiserslautern - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nürnberg - Darmstadt - 2. Bundesliga - viaplay
+DTSTART:20261107T115500
+DTEND:20261107T125500
+DTSTAMP:20261107T115500Z
+UID:2026-11-07T11:55:00/Nürnberg - Darmstadt
+DESCRIPTION:Nürnberg - Darmstadt - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hertha Berlin - Wolfsburg - 2. Bundesliga - viaplay
 DTSTART:20261107T192500
 DTEND:20261107T202500
@@ -50,20 +50,20 @@ UID:2026-11-07T19:25:00/Hertha Berlin - Wolfsburg
 DESCRIPTION:Hertha Berlin - Wolfsburg - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Magdeburg - St. Pauli - 2. Bundesliga - viaplay
-DTSTART:20261108T122500
-DTEND:20261108T132500
-DTSTAMP:20261108T122500Z
-UID:2026-11-08T12:25:00/Magdeburg - St. Pauli
-DESCRIPTION:Magdeburg - St. Pauli - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bochum - Karlsruher - 2. Bundesliga - viaplay
 DTSTART:20261108T122500
 DTEND:20261108T132500
 DTSTAMP:20261108T122500Z
 UID:2026-11-08T12:25:00/Bochum - Karlsruher
 DESCRIPTION:Bochum - Karlsruher - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - St. Pauli - 2. Bundesliga - viaplay
+DTSTART:20261108T122500
+DTEND:20261108T132500
+DTSTAMP:20261108T122500Z
+UID:2026-11-08T12:25:00/Magdeburg - St. Pauli
+DESCRIPTION:Magdeburg - St. Pauli - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heidenheim - Hannover - 2. Bundesliga - viaplay
