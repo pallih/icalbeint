@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - snooker - ical
 BEGIN:VEVENT
-SUMMARY:Ding Junhui - Kyren Wilson - International Championship - eurospor
- t1
-DTSTART:20261104T060000
-DTEND:20261104T070000
-DTSTAMP:20261104T060000Z
-UID:2026-11-04T06:00:00/Ding Junhui - Kyren Wilson
-DESCRIPTION:Ding Junhui - Kyren Wilson - International Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chang Bingyu - Zhao Xintong - International Championship - eurospo
- rt1
-DTSTART:20261104T111300
-DTEND:20261104T121300
-DTSTAMP:20261104T111300Z
-UID:2026-11-04T11:13:00/Chang Bingyu - Zhao Xintong
-DESCRIPTION:Chang Bingyu - Zhao Xintong - International Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Semi-Final - International Championship - eurosport1
 DTSTART:20261105T060000
 DTEND:20261105T070000
@@ -110,6 +92,15 @@ UID:2026-11-10T12:45:00/Champion of Champions - Dagur 2
 DESCRIPTION:Champion of Champions - Dagur 2 - Matchroom Snooker
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Champion of Champions - Kvöld 2 - Matchroom Snooker - synsportvia
+ play
+DTSTART:20261110T184500
+DTEND:20261110T194500
+DTSTAMP:20261110T184500Z
+UID:2026-11-10T18:45:00/Champion of Champions - Kvöld 2
+DESCRIPTION:Champion of Champions - Kvöld 2 - Matchroom Snooker
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Champion of Champions - Snóker - viaplay
 DTSTART:20261110T184500
 DTEND:20261110T194500
@@ -118,12 +109,37 @@ UID:2026-11-10T18:45:00/Champion of Champions
 DESCRIPTION:Champion of Champions - Snóker
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Champion of Champions - Kvöld 2 - Matchroom Snooker - synsportvia
+SUMMARY:Champion of Champions - Snóker - viaplay
+DTSTART:20261111T124500
+DTEND:20261111T134500
+DTSTAMP:20261111T124500Z
+UID:2026-11-11T12:45:00/Champion of Champions
+DESCRIPTION:Champion of Champions - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champion of Champions - Dagur 3 - Matchroom Snooker - synsportviap
+ lay
+DTSTART:20261111T124500
+DTEND:20261111T134500
+DTSTAMP:20261111T124500Z
+UID:2026-11-11T12:45:00/Champion of Champions - Dagur 3
+DESCRIPTION:Champion of Champions - Dagur 3 - Matchroom Snooker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champion of Champions - Snóker - viaplay
+DTSTART:20261111T184500
+DTEND:20261111T194500
+DTSTAMP:20261111T184500Z
+UID:2026-11-11T18:45:00/Champion of Champions
+DESCRIPTION:Champion of Champions - Snóker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Champion of Champions - Kvöld 3 - Matchroom Snooker - synsportvia
  play
-DTSTART:20261110T184500
-DTEND:20261110T194500
-DTSTAMP:20261110T184500Z
-UID:2026-11-10T18:45:00/Champion of Champions - Kvöld 2
-DESCRIPTION:Champion of Champions - Kvöld 2 - Matchroom Snooker
+DTSTART:20261111T184500
+DTEND:20261111T194500
+DTSTAMP:20261111T184500Z
+UID:2026-11-11T18:45:00/Champion of Champions - Kvöld 3
+DESCRIPTION:Champion of Champions - Kvöld 3 - Matchroom Snooker
 END:VEVENT
 END:VCALENDAR

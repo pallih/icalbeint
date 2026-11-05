@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Championship - ical
 BEGIN:VEVENT
-SUMMARY:Wrexham - Middlesbrough - Championship - viaplay
-DTSTART:20261104T193500
-DTEND:20261104T203500
-DTSTAMP:20261104T193500Z
-UID:2026-11-04T19:35:00/Wrexham - Middlesbrough
-DESCRIPTION:Wrexham - Middlesbrough - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cardiff - West Ham - Championship - viaplay
-DTSTART:20261104T193500
-DTEND:20261104T203500
-DTSTAMP:20261104T193500Z
-UID:2026-11-04T19:35:00/Cardiff - West Ham
-DESCRIPTION:Cardiff - West Ham - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bristol City - Wolverhampton - Championship - viaplay
-DTSTART:20261104T195000
-DTEND:20261104T205000
-DTSTAMP:20261104T195000Z
-UID:2026-11-04T19:50:00/Bristol City - Wolverhampton
-DESCRIPTION:Bristol City - Wolverhampton - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Derby - Bolton - Championship - viaplay
 DTSTART:20261106T195000
 DTEND:20261106T205000
@@ -42,14 +18,6 @@ UID:2026-11-07T12:20:00/Bristol City - Norwich
 DESCRIPTION:Bristol City - Norwich - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wrexham - Wolverhampton - Championship - viaplay
-DTSTART:20261107T122000
-DTEND:20261107T132000
-DTSTAMP:20261107T122000Z
-UID:2026-11-07T12:20:00/Wrexham - Wolverhampton
-DESCRIPTION:Wrexham - Wolverhampton - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Portsmouth - Stoke - Championship - viaplay
 DTSTART:20261107T122000
 DTEND:20261107T132000
@@ -58,12 +26,12 @@ UID:2026-11-07T12:20:00/Portsmouth - Stoke
 DESCRIPTION:Portsmouth - Stoke - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Watford - Middlesbrough - Championship - viaplay
-DTSTART:20261107T145000
-DTEND:20261107T155000
-DTSTAMP:20261107T145000Z
-UID:2026-11-07T14:50:00/Watford - Middlesbrough
-DESCRIPTION:Watford - Middlesbrough - Championship
+SUMMARY:Wrexham - Wolverhampton - Championship - viaplay
+DTSTART:20261107T122000
+DTEND:20261107T132000
+DTSTAMP:20261107T122000Z
+UID:2026-11-07T12:20:00/Wrexham - Wolverhampton
+DESCRIPTION:Wrexham - Wolverhampton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QPR - Lincoln - Championship - viaplay
@@ -72,14 +40,6 @@ DTEND:20261107T155000
 DTSTAMP:20261107T145000Z
 UID:2026-11-07T14:50:00/QPR - Lincoln
 DESCRIPTION:QPR - Lincoln - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cardiff - Burnley - Championship - viaplay
-DTSTART:20261107T145000
-DTEND:20261107T155000
-DTSTAMP:20261107T145000Z
-UID:2026-11-07T14:50:00/Cardiff - Burnley
-DESCRIPTION:Cardiff - Burnley - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Birmingham - Swansea - Championship - viaplay
@@ -96,6 +56,14 @@ DTEND:20261107T155000
 DTSTAMP:20261107T145000Z
 UID:2026-11-07T14:50:00/Blackburn - West Ham
 DESCRIPTION:Blackburn - West Ham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardiff - Burnley - Championship - viaplay
+DTSTART:20261107T145000
+DTEND:20261107T155000
+DTSTAMP:20261107T145000Z
+UID:2026-11-07T14:50:00/Cardiff - Burnley
+DESCRIPTION:Cardiff - Burnley - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlton - Sheffield United - Championship - viaplay
@@ -120,5 +88,13 @@ DTEND:20261107T155000
 DTSTAMP:20261107T145000Z
 UID:2026-11-07T14:50:00/West Brom - Millwall
 DESCRIPTION:West Brom - Millwall - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watford - Middlesbrough - Championship - viaplay
+DTSTART:20261107T145000
+DTEND:20261107T155000
+DTSTAMP:20261107T145000Z
+UID:2026-11-07T14:50:00/Watford - Middlesbrough
+DESCRIPTION:Watford - Middlesbrough - Championship
 END:VEVENT
 END:VCALENDAR
