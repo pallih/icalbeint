@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Tindastóll - ÍR - Bónus deild karla - synsportisland
-DTSTART:20261109T190500
-DTEND:20261109T200500
-DTSTAMP:20261109T190500Z
-UID:2026-11-09T19:05:00/Tindastóll - ÍR
-DESCRIPTION:Tindastóll - ÍR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KV - Aþena - 1. deild kvenna - ap_kkitv_001_prod
 DTSTART:20261110T182000
 DTEND:20261110T192000
@@ -50,6 +42,14 @@ UID:2026-11-12T02:30:00/Houston Rockets - Golden State Warriors
 DESCRIPTION:Houston Rockets - Golden State Warriors - NBA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stjarnan - Keflavík - Bónus deild karla - synsportisland3
+DTSTART:20261112T190500
+DTEND:20261112T200500
+DTSTAMP:20261112T190500Z
+UID:2026-11-12T19:05:00/Stjarnan - Keflavík
+DESCRIPTION:Stjarnan - Keflavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Njarðvík - Ármann - Bónus deild karla - synsportisland4
 DTSTART:20261112T190500
 DTEND:20261112T200500
@@ -64,14 +64,6 @@ DTEND:20261112T200500
 DTSTAMP:20261112T190500Z
 UID:2026-11-12T19:05:00/KR - Höttur
 DESCRIPTION:KR - Höttur - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - Keflavík - Bónus deild karla - synsportisland3
-DTSTART:20261112T190500
-DTEND:20261112T200500
-DTSTAMP:20261112T190500Z
-UID:2026-11-12T19:05:00/Stjarnan - Keflavík
-DESCRIPTION:Stjarnan - Keflavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið - Bónus deild karla - synsportisland
@@ -114,15 +106,6 @@ UID:2026-11-13T19:05:00/ÍA - Fjölnir
 DESCRIPTION:ÍA - Fjölnir - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snæfell - Þór Þorlákshöfn - 1. deild karla - ap_kkitv_004_pr
- od
-DTSTART:20261113T190500
-DTEND:20261113T200500
-DTSTAMP:20261113T190500Z
-UID:2026-11-13T19:05:00/Snæfell - Þór Þorlákshöfn
-DESCRIPTION:Snæfell - Þór Þorlákshöfn - 1. deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skallagrímur - Hamar - 1. deild karla - ap_kkitv_001_prod
 DTSTART:20261113T190500
 DTEND:20261113T200500
@@ -145,6 +128,15 @@ DTEND:20261113T200500
 DTSTAMP:20261113T190500Z
 UID:2026-11-13T19:05:00/KV - Þór Akureyri
 DESCRIPTION:KV - Þór Akureyri - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snæfell - Þór Þorlákshöfn - 1. deild karla - ap_kkitv_004_pr
+ od
+DTSTART:20261113T190500
+DTEND:20261113T200500
+DTSTAMP:20261113T190500Z
+UID:2026-11-13T19:05:00/Snæfell - Þór Þorlákshöfn
+DESCRIPTION:Snæfell - Þór Þorlákshöfn - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KFG - Haukar - 1. deild karla - ap_kkitv_006_prod
@@ -204,14 +196,6 @@ UID:2026-11-14T16:20:00/KR - Máni
 DESCRIPTION:KR - Máni - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vestri - Haukar - 2. deild karla - ap_kkitv_007_prod
-DTSTART:20261115T155000
-DTEND:20261115T165000
-DTSTAMP:20261115T155000Z
-UID:2026-11-15T15:50:00/Vestri - Haukar
-DESCRIPTION:Vestri - Haukar - 2. deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór Þorlákshöfn - Skallagrímur - 1. deild kvenna - ap_kkitv_
  006_prod
 DTSTART:20261115T155000
@@ -221,12 +205,28 @@ UID:2026-11-15T15:50:00/Þór Þorlákshöfn - Skallagrímur
 DESCRIPTION:Þór Þorlákshöfn - Skallagrímur - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vestri - Haukar - 2. deild karla - ap_kkitv_007_prod
+DTSTART:20261115T155000
+DTEND:20261115T165000
+DTSTAMP:20261115T155000Z
+UID:2026-11-15T15:50:00/Vestri - Haukar
+DESCRIPTION:Vestri - Haukar - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Breiðablik - KV - 1. deild kvenna - ap_kkitv_001_prod
 DTSTART:20261115T170500
 DTEND:20261115T180500
 DTSTAMP:20261115T170500Z
 UID:2026-11-15T17:05:00/Breiðablik - KV
 DESCRIPTION:Breiðablik - KV - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laugdælir - Njarðvík - 2. deild karla - ap_kkitv_004_prod
+DTSTART:20261115T175000
+DTEND:20261115T185000
+DTSTAMP:20261115T175000Z
+UID:2026-11-15T17:50:00/Laugdælir - Njarðvík
+DESCRIPTION:Laugdælir - Njarðvík - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Selfoss - Njarðvík - 1. deild kvenna - ap_kkitv_002_prod
@@ -243,13 +243,5 @@ DTEND:20261115T185000
 DTSTAMP:20261115T175000Z
 UID:2026-11-15T17:50:00/Léttir - Smári
 DESCRIPTION:Léttir - Smári - 2. deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Laugdælir - Njarðvík - 2. deild karla - ap_kkitv_004_prod
-DTSTART:20261115T175000
-DTEND:20261115T185000
-DTSTAMP:20261115T175000Z
-UID:2026-11-15T17:50:00/Laugdælir - Njarðvík
-DESCRIPTION:Laugdælir - Njarðvík - 2. deild karla
 END:VEVENT
 END:VCALENDAR

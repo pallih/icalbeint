@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - syn - ical
 BEGIN:VEVENT
-SUMMARY:Champion of Champions - Dagur 1 - Matchroom Snooker - synsportviap
- lay
-DTSTART:20261109T124500
-DTEND:20261109T134500
-DTSTAMP:20261109T124500Z
-UID:2026-11-09T12:45:00/Champion of Champions - Dagur 1
-DESCRIPTION:Champion of Champions - Dagur 1 - Matchroom Snooker
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tindastóll - ÍR - Bónus deild karla - synsportisland
-DTSTART:20261109T190500
-DTEND:20261109T200500
-DTSTAMP:20261109T190500Z
-UID:2026-11-09T19:05:00/Tindastóll - ÍR
-DESCRIPTION:Tindastóll - ÍR - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plymouth - Berkhamsted - FA Cup - synsportviaplay
-DTSTART:20261109T192000
-DTEND:20261109T202000
-DTSTAMP:20261109T192000Z
-UID:2026-11-09T19:20:00/Plymouth - Berkhamsted
-DESCRIPTION:Plymouth - Berkhamsted - FA Cup
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Champion of Champions - Dagur 2 - Matchroom Snooker - synsportviap
  lay
 DTSTART:20261110T124500
@@ -119,6 +94,14 @@ UID:2026-11-12T16:50:00/Tyrkland - Belgía
 DESCRIPTION:Tyrkland - Belgía - Þjóðadeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stjarnan - Keflavík - Bónus deild karla - synsportisland3
+DTSTART:20261112T190500
+DTEND:20261112T200500
+DTSTAMP:20261112T190500Z
+UID:2026-11-12T19:05:00/Stjarnan - Keflavík
+DESCRIPTION:Stjarnan - Keflavík - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Njarðvík - Ármann - Bónus deild karla - synsportisland4
 DTSTART:20261112T190500
 DTEND:20261112T200500
@@ -133,14 +116,6 @@ DTEND:20261112T200500
 DTSTAMP:20261112T190500Z
 UID:2026-11-12T19:05:00/KR - Höttur
 DESCRIPTION:KR - Höttur - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stjarnan - Keflavík - Bónus deild karla - synsportisland3
-DTSTART:20261112T190500
-DTEND:20261112T200500
-DTSTAMP:20261112T190500Z
-UID:2026-11-12T19:05:00/Stjarnan - Keflavík
-DESCRIPTION:Stjarnan - Keflavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið - Bónus deild karla - synsportisland
@@ -223,15 +198,6 @@ UID:2026-11-13T19:05:00/ÍA - Fjölnir
 DESCRIPTION:ÍA - Fjölnir - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snæfell - Þór Þorlákshöfn - 1. deild karla - ap_kkitv_004_pr
- od
-DTSTART:20261113T190500
-DTEND:20261113T200500
-DTSTAMP:20261113T190500Z
-UID:2026-11-13T19:05:00/Snæfell - Þór Þorlákshöfn
-DESCRIPTION:Snæfell - Þór Þorlákshöfn - 1. deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skallagrímur - Hamar - 1. deild karla - ap_kkitv_001_prod
 DTSTART:20261113T190500
 DTEND:20261113T200500
@@ -254,6 +220,15 @@ DTEND:20261113T200500
 DTSTAMP:20261113T190500Z
 UID:2026-11-13T19:05:00/KV - Þór Akureyri
 DESCRIPTION:KV - Þór Akureyri - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snæfell - Þór Þorlákshöfn - 1. deild karla - ap_kkitv_004_pr
+ od
+DTSTART:20261113T190500
+DTEND:20261113T200500
+DTSTAMP:20261113T190500Z
+UID:2026-11-13T19:05:00/Snæfell - Þór Þorlákshöfn
+DESCRIPTION:Snæfell - Þór Þorlákshöfn - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KFG - Haukar - 1. deild karla - ap_kkitv_006_prod
@@ -378,14 +353,6 @@ UID:2026-11-15T14:30:00/Lions - Patriots
 DESCRIPTION:Lions - Patriots - NFL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vestri - Haukar - 2. deild karla - ap_kkitv_007_prod
-DTSTART:20261115T155000
-DTEND:20261115T165000
-DTSTAMP:20261115T155000Z
-UID:2026-11-15T15:50:00/Vestri - Haukar
-DESCRIPTION:Vestri - Haukar - 2. deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór Þorlákshöfn - Skallagrímur - 1. deild kvenna - ap_kkitv_
  006_prod
 DTSTART:20261115T155000
@@ -393,6 +360,14 @@ DTEND:20261115T165000
 DTSTAMP:20261115T155000Z
 UID:2026-11-15T15:50:00/Þór Þorlákshöfn - Skallagrímur
 DESCRIPTION:Þór Þorlákshöfn - Skallagrímur - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vestri - Haukar - 2. deild karla - ap_kkitv_007_prod
+DTSTART:20261115T155000
+DTEND:20261115T165000
+DTSTAMP:20261115T155000Z
+UID:2026-11-15T15:50:00/Vestri - Haukar
+DESCRIPTION:Vestri - Haukar - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Finnland - San Marínó - Þjóðadeild Evrópu - synsportviaplay
@@ -411,6 +386,14 @@ UID:2026-11-15T17:05:00/Breiðablik - KV
 DESCRIPTION:Breiðablik - KV - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Laugdælir - Njarðvík - 2. deild karla - ap_kkitv_004_prod
+DTSTART:20261115T175000
+DTEND:20261115T185000
+DTSTAMP:20261115T175000Z
+UID:2026-11-15T17:50:00/Laugdælir - Njarðvík
+DESCRIPTION:Laugdælir - Njarðvík - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Selfoss - Njarðvík - 1. deild kvenna - ap_kkitv_002_prod
 DTSTART:20261115T175000
 DTEND:20261115T185000
@@ -427,12 +410,12 @@ UID:2026-11-15T17:50:00/Léttir - Smári
 DESCRIPTION:Léttir - Smári - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laugdælir - Njarðvík - 2. deild karla - ap_kkitv_004_prod
-DTSTART:20261115T175000
-DTEND:20261115T185000
-DTSTAMP:20261115T175000Z
-UID:2026-11-15T17:50:00/Laugdælir - Njarðvík
-DESCRIPTION:Laugdælir - Njarðvík - 2. deild karla
+SUMMARY:Packers - Vikings - NFL - synsport2
+DTSTART:20261115T175500
+DTEND:20261115T185500
+DTSTAMP:20261115T175500Z
+UID:2026-11-15T17:55:00/Packers - Vikings
+DESCRIPTION:Packers - Vikings - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NFL Red Zone - NFL - synsport3
@@ -441,14 +424,6 @@ DTEND:20261115T185500
 DTSTAMP:20261115T175500Z
 UID:2026-11-15T17:55:00/NFL Red Zone
 DESCRIPTION:NFL Red Zone - NFL
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Packers - Vikings - NFL - synsport2
-DTSTART:20261115T175500
-DTEND:20261115T185500
-DTSTAMP:20261115T175500Z
-UID:2026-11-15T17:55:00/Packers - Vikings
-DESCRIPTION:Packers - Vikings - NFL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The ANNIKA driven by Gainbridge at Pelican - LPGA Tour - synsport5
@@ -473,5 +448,53 @@ DTEND:20261115T222000
 DTSTAMP:20261115T212000Z
 UID:2026-11-15T21:20:00/Cowboys - 49ers
 DESCRIPTION:Cowboys - 49ers - NFL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Færeyjar - Moldóva - Þjóðadeild Evrópu - synsportviaplay
+DTSTART:20261116T145000
+DTEND:20261116T155000
+DTSTAMP:20261116T145000Z
+UID:2026-11-16T14:50:00/Færeyjar - Moldóva
+DESCRIPTION:Færeyjar - Moldóva - Þjóðadeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísland - Lúxemborg - Þjóðadeild Evrópu - synsport
+DTSTART:20261116T161500
+DTEND:20261116T171500
+DTSTAMP:20261116T161500Z
+UID:2026-11-16T16:15:00/Ísland - Lúxemborg
+DESCRIPTION:Ísland - Lúxemborg - Þjóðadeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eistland - Búlgaría - Þjóðadeild Evrópu - synsportviaplay
+DTSTART:20261116T165000
+DTEND:20261116T175000
+DTSTAMP:20261116T165000Z
+UID:2026-11-16T16:50:00/Eistland - Búlgaría
+DESCRIPTION:Eistland - Búlgaría - Þjóðadeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grikkland - Ísland - Undankeppni EM U21 - synsport2
+DTSTART:20261116T165000
+DTEND:20261116T175000
+DTSTAMP:20261116T165000Z
+UID:2026-11-16T16:50:00/Grikkland - Ísland
+DESCRIPTION:Grikkland - Ísland - Undankeppni EM U21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ísland - Lúxemborg: Uppgjör - Þjóðadeild Evrópu - synsport
+DTSTART:20261116T190000
+DTEND:20261116T200000
+DTSTAMP:20261116T190000Z
+UID:2026-11-16T19:00:00/Ísland - Lúxemborg: Uppgjör
+DESCRIPTION:Ísland - Lúxemborg: Uppgjör - Þjóðadeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þýskaland - Holland - Þjóðadeild Evrópu - synsportviaplay
+DTSTART:20261116T193500
+DTEND:20261116T203500
+DTSTAMP:20261116T193500Z
+UID:2026-11-16T19:35:00/Þýskaland - Holland
+DESCRIPTION:Þýskaland - Holland - Þjóðadeild Evrópu
 END:VEVENT
 END:VCALENDAR
