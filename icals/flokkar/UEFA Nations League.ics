@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - UEFA Nations League - ical
 BEGIN:VEVENT
-SUMMARY:Armenía - Kýpur - UEFA Nations League - viaplay
-DTSTART:20261112T165000
-DTEND:20261112T175000
-DTSTAMP:20261112T165000Z
-UID:2026-11-12T16:50:00/Armenía - Kýpur
-DESCRIPTION:Armenía - Kýpur - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tyrkland - Belgía - UEFA Nations League - viaplay
 DTSTART:20261112T165000
 DTEND:20261112T175000
 DTSTAMP:20261112T165000Z
 UID:2026-11-12T16:50:00/Tyrkland - Belgía
 DESCRIPTION:Tyrkland - Belgía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Armenía - Kýpur - UEFA Nations League - viaplay
+DTSTART:20261112T165000
+DTEND:20261112T175000
+DTSTAMP:20261112T165000Z
+UID:2026-11-12T16:50:00/Armenía - Kýpur
+DESCRIPTION:Armenía - Kýpur - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UEFA Nations League: Preview - UEFA Nations League - viaplay
@@ -34,36 +34,20 @@ UID:2026-11-12T19:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Albanía - Finnland - UEFA Nations League - viaplay
+DTSTART:20261112T193500
+DTEND:20261112T203500
+DTSTAMP:20261112T193500Z
+UID:2026-11-12T19:35:00/Albanía - Finnland
+DESCRIPTION:Albanía - Finnland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Marínó - Hvíta-Rússland - UEFA Nations League - viaplay
 DTSTART:20261112T193500
 DTEND:20261112T203500
 DTSTAMP:20261112T193500Z
 UID:2026-11-12T19:35:00/San Marínó - Hvíta-Rússland
 DESCRIPTION:San Marínó - Hvíta-Rússland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:England - Króatía - UEFA Nations League - viaplay
-DTSTART:20261112T193500
-DTEND:20261112T203500
-DTSTAMP:20261112T193500Z
-UID:2026-11-12T19:35:00/England - Króatía
-DESCRIPTION:England - Króatía - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tékkland - Spánn - UEFA Nations League - viaplay
-DTSTART:20261112T193500
-DTEND:20261112T203500
-DTSTAMP:20261112T193500Z
-UID:2026-11-12T19:35:00/Tékkland - Spánn
-DESCRIPTION:Tékkland - Spánn - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ítalía - Frakkland - UEFA Nations League - viaplay
-DTSTART:20261112T193500
-DTEND:20261112T203500
-DTSTAMP:20261112T193500Z
-UID:2026-11-12T19:35:00/Ítalía - Frakkland
-DESCRIPTION:Ítalía - Frakkland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Svartfjallaland - Lettland - UEFA Nations League - viaplay
@@ -74,12 +58,28 @@ UID:2026-11-12T19:35:00/Svartfjallaland - Lettland
 DESCRIPTION:Svartfjallaland - Lettland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Albanía - Finnland - UEFA Nations League - viaplay
+SUMMARY:Ítalía - Frakkland - UEFA Nations League - viaplay
 DTSTART:20261112T193500
 DTEND:20261112T203500
 DTSTAMP:20261112T193500Z
-UID:2026-11-12T19:35:00/Albanía - Finnland
-DESCRIPTION:Albanía - Finnland - UEFA Nations League
+UID:2026-11-12T19:35:00/Ítalía - Frakkland
+DESCRIPTION:Ítalía - Frakkland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tékkland - Spánn - UEFA Nations League - viaplay
+DTSTART:20261112T193500
+DTEND:20261112T203500
+DTSTAMP:20261112T193500Z
+UID:2026-11-12T19:35:00/Tékkland - Spánn
+DESCRIPTION:Tékkland - Spánn - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:England - Króatía - UEFA Nations League - viaplay
+DTSTART:20261112T193500
+DTEND:20261112T203500
+DTSTAMP:20261112T193500Z
+UID:2026-11-12T19:35:00/England - Króatía
+DESCRIPTION:England - Króatía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
@@ -98,6 +98,14 @@ UID:2026-11-13T16:50:00/Moldóva - Kasakstan
 DESCRIPTION:Moldóva - Kasakstan - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Búlgaría - Ísland - UEFA Nations League - viaplay
+DTSTART:20261113T190000
+DTEND:20261113T200000
+DTSTAMP:20261113T190000Z
+UID:2026-11-13T19:00:00/Búlgaría - Ísland
+DESCRIPTION:Búlgaría - Ísland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Instant Highlights - UEFA Nations League - viaplay
 DTSTART:20261113T193000
 DTEND:20261113T203000
@@ -106,12 +114,12 @@ UID:2026-11-13T19:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Serbía - Þýskaland - UEFA Nations League - viaplay
+SUMMARY:Slóvenía - Sviss - UEFA Nations League - viaplay
 DTSTART:20261113T193500
 DTEND:20261113T203500
 DTSTAMP:20261113T193500Z
-UID:2026-11-13T19:35:00/Serbía - Þýskaland
-DESCRIPTION:Serbía - Þýskaland - UEFA Nations League
+UID:2026-11-13T19:35:00/Slóvenía - Sviss
+DESCRIPTION:Slóvenía - Sviss - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skotland - Norður-Makedónía - UEFA Nations League - viaplay
@@ -122,12 +130,12 @@ UID:2026-11-13T19:35:00/Skotland - Norður-Makedónía
 DESCRIPTION:Skotland - Norður-Makedónía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slóvenía - Sviss - UEFA Nations League - viaplay
+SUMMARY:Serbía - Þýskaland - UEFA Nations League - viaplay
 DTSTART:20261113T193500
 DTEND:20261113T203500
 DTSTAMP:20261113T193500Z
-UID:2026-11-13T19:35:00/Slóvenía - Sviss
-DESCRIPTION:Slóvenía - Sviss - UEFA Nations League
+UID:2026-11-13T19:35:00/Serbía - Þýskaland
+DESCRIPTION:Serbía - Þýskaland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holland - Grikkland - UEFA Nations League - viaplay
@@ -144,14 +152,6 @@ DTEND:20261113T203500
 DTSTAMP:20261113T193500Z
 UID:2026-11-13T19:35:00/Lúxemborg - Eistland
 DESCRIPTION:Lúxemborg - Eistland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Búlgaría - Ísland - UEFA Nations League - viaplay
-DTSTART:20261113T193500
-DTEND:20261113T203500
-DTSTAMP:20261113T193500Z
-UID:2026-11-13T19:35:00/Búlgaría - Ísland
-DESCRIPTION:Búlgaría - Ísland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slóvakía - Færeyjar - UEFA Nations League - viaplay
@@ -179,10 +179,10 @@ DESCRIPTION:Andorra - Gíbraltar - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
-DTSTART:20261114T133000
-DTEND:20261114T143000
-DTSTAMP:20261114T133000Z
-UID:2026-11-14T13:30:00/UEFA Nations League: Highlights
+DTSTART:20261114T134000
+DTEND:20261114T144000
+DTSTAMP:20261114T134000Z
+UID:2026-11-14T13:40:00/UEFA Nations League: Highlights
 DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
@@ -194,20 +194,20 @@ UID:2026-11-14T13:50:00/Kósovó - Ísrael
 DESCRIPTION:Kósovó - Ísrael - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Noregur - Wales - UEFA Nations League - viaplay
-DTSTART:20261114T165000
-DTEND:20261114T175000
-DTSTAMP:20261114T165000Z
-UID:2026-11-14T16:50:00/Noregur - Wales
-DESCRIPTION:Noregur - Wales - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Georgía - Ungverjaland - UEFA Nations League - viaplay
 DTSTART:20261114T165000
 DTEND:20261114T175000
 DTSTAMP:20261114T165000Z
 UID:2026-11-14T16:50:00/Georgía - Ungverjaland
 DESCRIPTION:Georgía - Ungverjaland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noregur - Wales - UEFA Nations League - viaplay
+DTSTART:20261114T165000
+DTEND:20261114T175000
+DTSTAMP:20261114T165000Z
+UID:2026-11-14T16:50:00/Noregur - Wales
+DESCRIPTION:Noregur - Wales - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - UEFA Nations League - viaplay
@@ -218,20 +218,12 @@ UID:2026-11-14T19:30:00/Instant Highlights
 DESCRIPTION:Instant Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austurríki - Írland - UEFA Nations League - viaplay
+SUMMARY:Norður-Írland - Úkraína - UEFA Nations League - viaplay
 DTSTART:20261114T193500
 DTEND:20261114T203500
 DTSTAMP:20261114T193500Z
-UID:2026-11-14T19:35:00/Austurríki - Írland
-DESCRIPTION:Austurríki - Írland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portúgal - Danmörk - UEFA Nations League - viaplay
-DTSTART:20261114T193500
-DTEND:20261114T203500
-DTSTAMP:20261114T193500Z
-UID:2026-11-14T19:35:00/Portúgal - Danmörk
-DESCRIPTION:Portúgal - Danmörk - UEFA Nations League
+UID:2026-11-14T19:35:00/Norður-Írland - Úkraína
+DESCRIPTION:Norður-Írland - Úkraína - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rúmenía - Pólland - UEFA Nations League - viaplay
@@ -240,14 +232,6 @@ DTEND:20261114T203500
 DTSTAMP:20261114T193500Z
 UID:2026-11-14T19:35:00/Rúmenía - Pólland
 DESCRIPTION:Rúmenía - Pólland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norður-Írland - Úkraína - UEFA Nations League - viaplay
-DTSTART:20261114T193500
-DTEND:20261114T203500
-DTSTAMP:20261114T193500Z
-UID:2026-11-14T19:35:00/Norður-Írland - Úkraína
-DESCRIPTION:Norður-Írland - Úkraína - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Svíþjóð - Bosnía og Hersegóvína - UEFA Nations League - via
@@ -259,20 +243,28 @@ UID:2026-11-14T19:35:00/Svíþjóð - Bosnía og Hersegóvína
 DESCRIPTION:Svíþjóð - Bosnía og Hersegóvína - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Portúgal - Danmörk - UEFA Nations League - viaplay
+DTSTART:20261114T193500
+DTEND:20261114T203500
+DTSTAMP:20261114T193500Z
+UID:2026-11-14T19:35:00/Portúgal - Danmörk
+DESCRIPTION:Portúgal - Danmörk - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austurríki - Írland - UEFA Nations League - viaplay
+DTSTART:20261114T193500
+DTEND:20261114T203500
+DTSTAMP:20261114T193500Z
+UID:2026-11-14T19:35:00/Austurríki - Írland
+DESCRIPTION:Austurríki - Írland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
 DTSTART:20261115T133000
 DTEND:20261115T143000
 DTSTAMP:20261115T133000Z
 UID:2026-11-15T13:30:00/UEFA Nations League: Highlights
 DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kýpur - Svartfjallaland - UEFA Nations League - viaplay
-DTSTART:20261115T135000
-DTEND:20261115T145000
-DTSTAMP:20261115T135000Z
-UID:2026-11-15T13:50:00/Kýpur - Svartfjallaland
-DESCRIPTION:Kýpur - Svartfjallaland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lettland - Armenía - UEFA Nations League - viaplay
@@ -283,12 +275,12 @@ UID:2026-11-15T13:50:00/Lettland - Armenía
 DESCRIPTION:Lettland - Armenía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hvíta-Rússland - Albanía - UEFA Nations League - viaplay
-DTSTART:20261115T165000
-DTEND:20261115T175000
-DTSTAMP:20261115T165000Z
-UID:2026-11-15T16:50:00/Hvíta-Rússland - Albanía
-DESCRIPTION:Hvíta-Rússland - Albanía - UEFA Nations League
+SUMMARY:Kýpur - Svartfjallaland - UEFA Nations League - viaplay
+DTSTART:20261115T135000
+DTEND:20261115T145000
+DTSTAMP:20261115T135000Z
+UID:2026-11-15T13:50:00/Kýpur - Svartfjallaland
+DESCRIPTION:Kýpur - Svartfjallaland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Finnland - San Marínó - UEFA Nations League - viaplay
@@ -297,6 +289,14 @@ DTEND:20261115T175000
 DTSTAMP:20261115T165000Z
 UID:2026-11-15T16:50:00/Finnland - San Marínó
 DESCRIPTION:Finnland - San Marínó - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hvíta-Rússland - Albanía - UEFA Nations League - viaplay
+DTSTART:20261115T165000
+DTEND:20261115T175000
+DTSTAMP:20261115T165000Z
+UID:2026-11-15T16:50:00/Hvíta-Rússland - Albanía
+DESCRIPTION:Hvíta-Rússland - Albanía - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Instant Highlights - UEFA Nations League - viaplay
@@ -315,20 +315,20 @@ UID:2026-11-15T19:35:00/Króatía - Tékkland
 DESCRIPTION:Króatía - Tékkland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frakkland - Tyrkland - UEFA Nations League - viaplay
-DTSTART:20261115T193500
-DTEND:20261115T203500
-DTSTAMP:20261115T193500Z
-UID:2026-11-15T19:35:00/Frakkland - Tyrkland
-DESCRIPTION:Frakkland - Tyrkland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spánn - England - UEFA Nations League - viaplay
 DTSTART:20261115T193500
 DTEND:20261115T203500
 DTSTAMP:20261115T193500Z
 UID:2026-11-15T19:35:00/Spánn - England
 DESCRIPTION:Spánn - England - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frakkland - Tyrkland - UEFA Nations League - viaplay
+DTSTART:20261115T193500
+DTEND:20261115T203500
+DTSTAMP:20261115T193500Z
+UID:2026-11-15T19:35:00/Frakkland - Tyrkland
+DESCRIPTION:Frakkland - Tyrkland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belgía - Ítalía - UEFA Nations League - viaplay
@@ -371,12 +371,12 @@ UID:2026-11-16T16:15:00/Ísland - Lúxemborg
 DESCRIPTION:Ísland - Lúxemborg - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eistland - Búlgaría - UEFA Nations League - viaplay
-DTSTART:20261116T165000
-DTEND:20261116T175000
-DTSTAMP:20261116T165000Z
-UID:2026-11-16T16:50:00/Eistland - Búlgaría
-DESCRIPTION:Eistland - Búlgaría - UEFA Nations League
+SUMMARY:Instant Highlights - UEFA Nations League - viaplay
+DTSTART:20261116T164500
+DTEND:20261116T174500
+DTSTAMP:20261116T164500Z
+UID:2026-11-16T16:45:00/Instant Highlights
+DESCRIPTION:Instant Highlights - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Litháen - Liechtenstein - UEFA Nations League - viaplay
@@ -387,28 +387,12 @@ UID:2026-11-16T16:50:00/Litháen - Liechtenstein
 DESCRIPTION:Litháen - Liechtenstein - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þýskaland - Holland - UEFA Nations League - viaplay
-DTSTART:20261116T193500
-DTEND:20261116T203500
-DTSTAMP:20261116T193500Z
-UID:2026-11-16T19:35:00/Þýskaland - Holland
-DESCRIPTION:Þýskaland - Holland - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norður-Makedónía - Slóvenía - UEFA Nations League - viaplay
-DTSTART:20261116T193500
-DTEND:20261116T203500
-DTSTAMP:20261116T193500Z
-UID:2026-11-16T19:35:00/Norður-Makedónía - Slóvenía
-DESCRIPTION:Norður-Makedónía - Slóvenía - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grikkland - Serbía - UEFA Nations League - viaplay
-DTSTART:20261116T193500
-DTEND:20261116T203500
-DTSTAMP:20261116T193500Z
-UID:2026-11-16T19:35:00/Grikkland - Serbía
-DESCRIPTION:Grikkland - Serbía - UEFA Nations League
+SUMMARY:Eistland - Búlgaría - UEFA Nations League - viaplay
+DTSTART:20261116T165000
+DTEND:20261116T175000
+DTSTAMP:20261116T165000Z
+UID:2026-11-16T16:50:00/Eistland - Búlgaría
+DESCRIPTION:Eistland - Búlgaría - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sviss - Skotland - UEFA Nations League - viaplay
@@ -419,6 +403,22 @@ UID:2026-11-16T19:35:00/Sviss - Skotland
 DESCRIPTION:Sviss - Skotland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grikkland - Serbía - UEFA Nations League - viaplay
+DTSTART:20261116T193500
+DTEND:20261116T203500
+DTSTAMP:20261116T193500Z
+UID:2026-11-16T19:35:00/Grikkland - Serbía
+DESCRIPTION:Grikkland - Serbía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norður-Makedónía - Slóvenía - UEFA Nations League - viaplay
+DTSTART:20261116T193500
+DTEND:20261116T203500
+DTSTAMP:20261116T193500Z
+UID:2026-11-16T19:35:00/Norður-Makedónía - Slóvenía
+DESCRIPTION:Norður-Makedónía - Slóvenía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gíbraltar - Malta - UEFA Nations League - viaplay
 DTSTART:20261116T193500
 DTEND:20261116T203500
@@ -427,12 +427,69 @@ UID:2026-11-16T19:35:00/Gíbraltar - Malta
 DESCRIPTION:Gíbraltar - Malta - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Þýskaland - Holland - UEFA Nations League - viaplay
+DTSTART:20261116T193500
+DTEND:20261116T203500
+DTSTAMP:20261116T193500Z
+UID:2026-11-16T19:35:00/Þýskaland - Holland
+DESCRIPTION:Þýskaland - Holland - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
+DTSTART:20261117T130000
+DTEND:20261117T140000
+DTSTAMP:20261117T130000Z
+UID:2026-11-17T13:00:00/UEFA Nations League: Highlights
+DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instant Highlights - UEFA Nations League - viaplay
+DTSTART:20261117T193000
+DTEND:20261117T203000
+DTSTAMP:20261117T193000Z
+UID:2026-11-17T19:30:00/Instant Highlights
+DESCRIPTION:Instant Highlights - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Úkraína - Georgía - UEFA Nations League - viaplay
+DTSTART:20261117T193500
+DTEND:20261117T203500
+DTSTAMP:20261117T193500Z
+UID:2026-11-17T19:35:00/Úkraína - Georgía
+DESCRIPTION:Úkraína - Georgía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ísrael - Austurríki - UEFA Nations League - viaplay
 DTSTART:20261117T193500
 DTEND:20261117T203500
 DTSTAMP:20261117T193500Z
 UID:2026-11-17T19:35:00/Ísrael - Austurríki
 DESCRIPTION:Ísrael - Austurríki - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bosnía og Hersegóvína - Rúmenía - UEFA Nations League - viapl
+ ay
+DTSTART:20261117T193500
+DTEND:20261117T203500
+DTSTAMP:20261117T193500Z
+UID:2026-11-17T19:35:00/Bosnía og Hersegóvína - Rúmenía
+DESCRIPTION:Bosnía og Hersegóvína - Rúmenía - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Írland - Kósovó - UEFA Nations League - viaplay
+DTSTART:20261117T193500
+DTEND:20261117T203500
+DTSTAMP:20261117T193500Z
+UID:2026-11-17T19:35:00/Írland - Kósovó
+DESCRIPTION:Írland - Kósovó - UEFA Nations League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ungverjaland - Norður-Írland - UEFA Nations League - viaplay
+DTSTART:20261117T193500
+DTEND:20261117T203500
+DTSTAMP:20261117T193500Z
+UID:2026-11-17T19:35:00/Ungverjaland - Norður-Írland
+DESCRIPTION:Ungverjaland - Norður-Írland - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wales - Portúgal - UEFA Nations League - viaplay
@@ -459,36 +516,11 @@ UID:2026-11-17T19:35:00/Pólland - Svíþjóð
 DESCRIPTION:Pólland - Svíþjóð - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bosnía og Hersegóvína - Rúmenía - UEFA Nations League - viapl
- ay
-DTSTART:20261117T193500
-DTEND:20261117T203500
-DTSTAMP:20261117T193500Z
-UID:2026-11-17T19:35:00/Bosnía og Hersegóvína - Rúmenía
-DESCRIPTION:Bosnía og Hersegóvína - Rúmenía - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Írland - Kósovó - UEFA Nations League - viaplay
-DTSTART:20261117T193500
-DTEND:20261117T203500
-DTSTAMP:20261117T193500Z
-UID:2026-11-17T19:35:00/Írland - Kósovó
-DESCRIPTION:Írland - Kósovó - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Úkraína - Georgía - UEFA Nations League - viaplay
-DTSTART:20261117T193500
-DTEND:20261117T203500
-DTSTAMP:20261117T193500Z
-UID:2026-11-17T19:35:00/Úkraína - Georgía
-DESCRIPTION:Úkraína - Georgía - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ungverjaland - Norður-Írland - UEFA Nations League - viaplay
-DTSTART:20261117T193500
-DTEND:20261117T203500
-DTSTAMP:20261117T193500Z
-UID:2026-11-17T19:35:00/Ungverjaland - Norður-Írland
-DESCRIPTION:Ungverjaland - Norður-Írland - UEFA Nations League
+SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
+DTSTART:20261118T130000
+DTEND:20261118T140000
+DTSTAMP:20261118T130000Z
+UID:2026-11-18T13:00:00/UEFA Nations League: Highlights
+DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
 END:VEVENT
 END:VCALENDAR
