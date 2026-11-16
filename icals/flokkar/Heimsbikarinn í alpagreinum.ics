@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Heimsbikarinn í alpagreinum - ical
 BEGIN:VEVENT
-SUMMARY:Levi - Men's Slalom - | Run 1 - Heimsbikarinn í alpagreinum - eur
- osport1
-DTSTART:20261115T084400
-DTEND:20261115T094400
-DTSTAMP:20261115T084400Z
-UID:2026-11-15T08:44:00/Levi - Men's Slalom - | Run 1
-DESCRIPTION:Levi - Men's Slalom - | Run 1 - Heimsbikarinn í alpagreinum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Levi - Men's Slalom - | Run 2 - Heimsbikarinn í alpagreinum - eur
- osport1
-DTSTART:20261115T114400
-DTEND:20261115T124400
-DTSTAMP:20261115T114400Z
-UID:2026-11-15T11:44:00/Levi - Men's Slalom - | Run 2
-DESCRIPTION:Levi - Men's Slalom - | Run 2 - Heimsbikarinn í alpagreinum
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gurgl - Women's Slalom - | Run 1 - Heimsbikarinn í alpagreinum - 
  eurosport1
 DTSTART:20261121T091500
@@ -38,5 +20,23 @@ DTSTAMP:20261121T121500Z
 UID:2026-11-21T12:15:00/Gurgl - Women's Slalom - | Run 2
 DESCRIPTION:Gurgl - Women's Slalom - | Run 2 - Heimsbikarinn í alpagreinu
  m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gurgl - Men's Slalom - | Run 1 - Heimsbikarinn í alpagreinum - eu
+ rosport1
+DTSTART:20261122T091500
+DTEND:20261122T101500
+DTSTAMP:20261122T091500Z
+UID:2026-11-22T09:15:00/Gurgl - Men's Slalom - | Run 1
+DESCRIPTION:Gurgl - Men's Slalom - | Run 1 - Heimsbikarinn í alpagreinum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gurgl - Men's Slalom - | Run 2 - Heimsbikarinn í alpagreinum - eu
+ rosport1
+DTSTART:20261122T123000
+DTEND:20261122T133000
+DTSTAMP:20261122T123000Z
+UID:2026-11-22T12:30:00/Gurgl - Men's Slalom - | Run 2
+DESCRIPTION:Gurgl - Men's Slalom - | Run 2 - Heimsbikarinn í alpagreinum
 END:VEVENT
 END:VCALENDAR

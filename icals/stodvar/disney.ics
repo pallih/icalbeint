@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - disney - ical
 BEGIN:VEVENT
-SUMMARY:Real Madrid - Internazionale - Meistaradeild kvenna - disney
-DTSTART:20261118T174500
-DTEND:20261118T184500
-DTSTAMP:20261118T174500Z
-UID:2026-11-18T17:45:00/Real Madrid - Internazionale
-DESCRIPTION:Real Madrid - Internazionale - Meistaradeild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BK Häcken - Manchester City - Meistaradeild kvenna - disney
 DTSTART:20261118T174500
 DTEND:20261118T184500
 DTSTAMP:20261118T174500Z
 UID:2026-11-18T17:45:00/BK Häcken - Manchester City
 DESCRIPTION:BK Häcken - Manchester City - Meistaradeild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid - Internazionale - Meistaradeild kvenna - disney
+DTSTART:20261118T174500
+DTEND:20261118T184500
+DTSTAMP:20261118T174500Z
+UID:2026-11-18T17:45:00/Real Madrid - Internazionale
+DESCRIPTION:Real Madrid - Internazionale - Meistaradeild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juventus - Oud-Heverlee Leuven - Meistaradeild kvenna - disney
@@ -50,14 +50,6 @@ UID:2026-11-19T02:30:00/Denver Nuggets - Boston Celtics
 DESCRIPTION:Denver Nuggets - Boston Celtics - NBA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paris FC - HB Køge - Meistaradeild kvenna - disney
-DTSTART:20261119T174500
-DTEND:20261119T184500
-DTSTAMP:20261119T174500Z
-UID:2026-11-19T17:45:00/Paris FC - HB Køge
-DESCRIPTION:Paris FC - HB Køge - Meistaradeild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Austria Vienna - Bayern Munich - Meistaradeild kvenna - disney
 DTSTART:20261119T174500
 DTEND:20261119T184500
@@ -66,12 +58,12 @@ UID:2026-11-19T17:45:00/Austria Vienna - Bayern Munich
 DESCRIPTION:Austria Vienna - Bayern Munich - Meistaradeild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barcelona - Servette - Meistaradeild kvenna - disney
-DTSTART:20261119T200000
-DTEND:20261119T210000
-DTSTAMP:20261119T200000Z
-UID:2026-11-19T20:00:00/Barcelona - Servette
-DESCRIPTION:Barcelona - Servette - Meistaradeild kvenna
+SUMMARY:Paris FC - HB Køge - Meistaradeild kvenna - disney
+DTSTART:20261119T174500
+DTEND:20261119T184500
+DTSTAMP:20261119T174500Z
+UID:2026-11-19T17:45:00/Paris FC - HB Køge
+DESCRIPTION:Paris FC - HB Køge - Meistaradeild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - OL Lyonnes - Meistaradeild kvenna - disney
@@ -80,6 +72,14 @@ DTEND:20261119T210000
 DTSTAMP:20261119T200000Z
 UID:2026-11-19T20:00:00/Arsenal - OL Lyonnes
 DESCRIPTION:Arsenal - OL Lyonnes - Meistaradeild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona - Servette - Meistaradeild kvenna - disney
+DTSTART:20261119T200000
+DTEND:20261119T210000
+DTSTAMP:20261119T200000Z
+UID:2026-11-19T20:00:00/Barcelona - Servette
+DESCRIPTION:Barcelona - Servette - Meistaradeild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Benfica - Roma - Meistaradeild kvenna - disney
@@ -128,5 +128,37 @@ DTEND:20261121T210000
 DTSTAMP:20261121T200000Z
 UID:2026-11-21T20:00:00/Real Madrid - Celta Vigo
 DESCRIPTION:Real Madrid - Celta Vigo - LaLiga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona - Villarreal - LaLiga - disney
+DTSTART:20261122T130000
+DTEND:20261122T140000
+DTSTAMP:20261122T130000Z
+UID:2026-11-22T13:00:00/Barcelona - Villarreal
+DESCRIPTION:Barcelona - Villarreal - LaLiga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing Santander - Real Sociedad - LaLiga - disney
+DTSTART:20261122T151500
+DTEND:20261122T161500
+DTSTAMP:20261122T151500Z
+UID:2026-11-22T15:15:00/Racing Santander - Real Sociedad
+DESCRIPTION:Racing Santander - Real Sociedad - LaLiga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osasuna - Málaga - LaLiga - disney
+DTSTART:20261122T173000
+DTEND:20261122T183000
+DTSTAMP:20261122T173000Z
+UID:2026-11-22T17:30:00/Osasuna - Málaga
+DESCRIPTION:Osasuna - Málaga - LaLiga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getafe - Atlético Madrid - LaLiga - disney
+DTSTART:20261122T200000
+DTEND:20261122T210000
+DTSTAMP:20261122T200000Z
+UID:2026-11-22T20:00:00/Getafe - Atlético Madrid
+DESCRIPTION:Getafe - Atlético Madrid - LaLiga
 END:VEVENT
 END:VCALENDAR

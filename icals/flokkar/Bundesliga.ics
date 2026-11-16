@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Magdeburg - Flensburg-Handewitt - Bundesliga - viaplay
-DTSTART:20261115T135500
-DTEND:20261115T145500
-DTSTAMP:20261115T135500Z
-UID:2026-11-15T13:55:00/Magdeburg - Flensburg-Handewitt
-DESCRIPTION:Magdeburg - Flensburg-Handewitt - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hannover-Burgdorf - Stuttgart - Bundesliga - viaplay
 DTSTART:20261120T175500
 DTEND:20261120T185500
@@ -24,22 +16,6 @@ DTEND:20261120T202000
 DTSTAMP:20261120T192000Z
 UID:2026-11-20T19:20:00/Bayern München - Köln
 DESCRIPTION:Bayern München - Köln - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20261121T142000
-DTEND:20261121T152000
-DTSTAMP:20261121T142000Z
-UID:2026-11-21T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union Berlin - Leipzig - Bundesliga - viaplay
-DTSTART:20261121T142000
-DTEND:20261121T152000
-DTSTAMP:20261121T142000Z
-UID:2026-11-21T14:20:00/Union Berlin - Leipzig
-DESCRIPTION:Union Berlin - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Dortmund - Bundesliga - viaplay
@@ -58,12 +34,12 @@ UID:2026-11-21T14:20:00/Elversberg - Freiburg
 DESCRIPTION:Elversberg - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Paderborn - Bundesliga - viaplay
+SUMMARY:Union Berlin - Leipzig - Bundesliga - viaplay
 DTSTART:20261121T142000
 DTEND:20261121T152000
 DTSTAMP:20261121T142000Z
-UID:2026-11-21T14:20:00/Leverkusen - Paderborn
-DESCRIPTION:Leverkusen - Paderborn - Bundesliga
+UID:2026-11-21T14:20:00/Union Berlin - Leipzig
+DESCRIPTION:Union Berlin - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Hoffenheim - Bundesliga - viaplay
@@ -72,6 +48,22 @@ DTEND:20261121T152000
 DTSTAMP:20261121T142000Z
 UID:2026-11-21T14:20:00/Frankfurt - Hoffenheim
 DESCRIPTION:Frankfurt - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Paderborn - Bundesliga - viaplay
+DTSTART:20261121T142000
+DTEND:20261121T152000
+DTSTAMP:20261121T142000Z
+UID:2026-11-21T14:20:00/Leverkusen - Paderborn
+DESCRIPTION:Leverkusen - Paderborn - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
+DTSTART:20261121T142000
+DTEND:20261121T152000
+DTSTAMP:20261121T142000Z
+UID:2026-11-21T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schalke - Stuttgart - Bundesliga - viaplay
@@ -96,5 +88,29 @@ DTEND:20261121T195500
 DTSTAMP:20261121T185500Z
 UID:2026-11-21T18:55:00/Lemgo Lippe - Gummersbach
 DESCRIPTION:Lemgo Lippe - Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augsburg - Mainz - Bundesliga - viaplay
+DTSTART:20261122T142000
+DTEND:20261122T152000
+DTSTAMP:20261122T142000Z
+UID:2026-11-22T14:20:00/Augsburg - Mainz
+DESCRIPTION:Augsburg - Mainz - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flensburg-Handewitt - Rhein-Neckar Löwen - Bundesliga - viaplay
+DTSTART:20261122T152500
+DTEND:20261122T162500
+DTSTAMP:20261122T152500Z
+UID:2026-11-22T15:25:00/Flensburg-Handewitt - Rhein-Neckar Löwen
+DESCRIPTION:Flensburg-Handewitt - Rhein-Neckar Löwen - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werder Bremen - HSV - Bundesliga - viaplay
+DTSTART:20261122T162000
+DTEND:20261122T172000
+DTSTAMP:20261122T162000Z
+UID:2026-11-22T16:20:00/Werder Bremen - HSV
+DESCRIPTION:Werder Bremen - HSV - Bundesliga
 END:VEVENT
 END:VCALENDAR

@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - 1. deild kvenna - ical
 BEGIN:VEVENT
-SUMMARY:Breiðablik - KV - 1. deild kvenna - ap_kkitv_001_prod
-DTSTART:20261115T170500
-DTEND:20261115T180500
-DTSTAMP:20261115T170500Z
-UID:2026-11-15T17:05:00/Breiðablik - KV
-DESCRIPTION:Breiðablik - KV - 1. deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selfoss - Njarðvík - 1. deild kvenna - ap_kkitv_002_prod
-DTSTART:20261115T175000
-DTEND:20261115T185000
-DTSTAMP:20261115T175000Z
-UID:2026-11-15T17:50:00/Selfoss - Njarðvík
-DESCRIPTION:Selfoss - Njarðvík - 1. deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór Akureyri - Keflavík - 1. deild kvenna - ap_kkitv_003_prod
 DTSTART:20261117T192000
 DTEND:20261117T202000
 DTSTAMP:20261117T192000Z
 UID:2026-11-17T19:20:00/Þór Akureyri - Keflavík
 DESCRIPTION:Þór Akureyri - Keflavík - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Þór Akureyri - Selfoss - 1. deild kvenna - ap_kkitv_008_prod
+DTSTART:20261121T175000
+DTEND:20261121T185000
+DTSTAMP:20261121T175000Z
+UID:2026-11-21T17:50:00/Þór Akureyri - Selfoss
+DESCRIPTION:Þór Akureyri - Selfoss - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍR - Breiðablik - 1. deild kvenna - ap_kkitv_006_prod
@@ -34,11 +26,11 @@ UID:2026-11-21T17:50:00/ÍR - Breiðablik
 DESCRIPTION:ÍR - Breiðablik - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Akureyri - Selfoss - 1. deild kvenna - ap_kkitv_008_prod
-DTSTART:20261121T175000
-DTEND:20261121T185000
-DTSTAMP:20261121T175000Z
-UID:2026-11-21T17:50:00/Þór Akureyri - Selfoss
-DESCRIPTION:Þór Akureyri - Selfoss - 1. deild kvenna
+SUMMARY:KV - Þór Þorlákshöfn - 1. deild kvenna - ap_kkitv_003_prod
+DTSTART:20261122T175000
+DTEND:20261122T185000
+DTSTAMP:20261122T175000Z
+UID:2026-11-22T17:50:00/KV - Þór Þorlákshöfn
+DESCRIPTION:KV - Þór Þorlákshöfn - 1. deild kvenna
 END:VEVENT
 END:VCALENDAR

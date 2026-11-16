@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Breiðablik - KV - 1. deild kvenna - ap_kkitv_001_prod
-DTSTART:20261115T170500
-DTEND:20261115T180500
-DTSTAMP:20261115T170500Z
-UID:2026-11-15T17:05:00/Breiðablik - KV
-DESCRIPTION:Breiðablik - KV - 1. deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Laugdælir - Njarðvík - 2. deild karla - ap_kkitv_004_prod
-DTSTART:20261115T175000
-DTEND:20261115T185000
-DTSTAMP:20261115T175000Z
-UID:2026-11-15T17:50:00/Laugdælir - Njarðvík
-DESCRIPTION:Laugdælir - Njarðvík - 2. deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selfoss - Njarðvík - 1. deild kvenna - ap_kkitv_002_prod
-DTSTART:20261115T175000
-DTEND:20261115T185000
-DTSTAMP:20261115T175000Z
-UID:2026-11-15T17:50:00/Selfoss - Njarðvík
-DESCRIPTION:Selfoss - Njarðvík - 1. deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ísland - Aserbaísjan - Forkeppni EM kvenna í körfubolta - ruv2
 DTSTART:20261117T191500
 DTEND:20261117T201500
@@ -82,20 +58,20 @@ UID:2026-11-19T19:05:00/ÍR - KR
 DESCRIPTION:ÍR - KR - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Álftanes - Grindavík - Bónus deild karla - synsportisland2
-DTSTART:20261119T190500
-DTEND:20261119T200500
-DTSTAMP:20261119T190500Z
-UID:2026-11-19T19:05:00/Álftanes - Grindavík
-DESCRIPTION:Álftanes - Grindavík - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ármann - Stjarnan - Bónus deild karla - synsportisland3
 DTSTART:20261119T190500
 DTEND:20261119T200500
 DTSTAMP:20261119T190500Z
 UID:2026-11-19T19:05:00/Ármann - Stjarnan
 DESCRIPTION:Ármann - Stjarnan - Bónus deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Álftanes - Grindavík - Bónus deild karla - synsportisland2
+DTSTART:20261119T190500
+DTEND:20261119T200500
+DTSTAMP:20261119T190500Z
+UID:2026-11-19T19:05:00/Álftanes - Grindavík
+DESCRIPTION:Álftanes - Grindavík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiptiborðið - Bónus deild karla - synsportisland
@@ -122,12 +98,12 @@ UID:2026-11-20T18:50:00/Sindri - Njarðvík
 DESCRIPTION:Sindri - Njarðvík - Bónus deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Þór Þorlákshöfn - 1. deild karla - ap_kkitv_004_prod
+SUMMARY:Breiðablik - Skallagrímur - 1. deild karla - ap_kkitv_003_prod
 DTSTART:20261120T190500
 DTEND:20261120T200500
 DTSTAMP:20261120T190500Z
-UID:2026-11-20T19:05:00/Haukar - Þór Þorlákshöfn
-DESCRIPTION:Haukar - Þór Þorlákshöfn - 1. deild karla
+UID:2026-11-20T19:05:00/Breiðablik - Skallagrímur
+DESCRIPTION:Breiðablik - Skallagrímur - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fjölnir - Selfoss - 1. deild karla - ap_kkitv_001_prod
@@ -138,20 +114,20 @@ UID:2026-11-20T19:05:00/Fjölnir - Selfoss
 DESCRIPTION:Fjölnir - Selfoss - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Haukar - Þór Þorlákshöfn - 1. deild karla - ap_kkitv_004_prod
+DTSTART:20261120T190500
+DTEND:20261120T200500
+DTSTAMP:20261120T190500Z
+UID:2026-11-20T19:05:00/Haukar - Þór Þorlákshöfn
+DESCRIPTION:Haukar - Þór Þorlákshöfn - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hamar - Snæfell - 1. deild karla - ap_kkitv_002_prod
 DTSTART:20261120T190500
 DTEND:20261120T200500
 DTSTAMP:20261120T190500Z
 UID:2026-11-20T19:05:00/Hamar - Snæfell
 DESCRIPTION:Hamar - Snæfell - 1. deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breiðablik - Skallagrímur - 1. deild karla - ap_kkitv_003_prod
-DTSTART:20261120T190500
-DTEND:20261120T200500
-DTSTAMP:20261120T190500Z
-UID:2026-11-20T19:05:00/Breiðablik - Skallagrímur
-DESCRIPTION:Breiðablik - Skallagrímur - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keflavík - Tindastóll - Bónus deild karla - synsportisland
@@ -203,6 +179,14 @@ UID:2026-11-21T15:50:00/Reykdælir - Aþena
 DESCRIPTION:Reykdælir - Aþena - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Þór Akureyri - Selfoss - 1. deild kvenna - ap_kkitv_008_prod
+DTSTART:20261121T175000
+DTEND:20261121T185000
+DTSTAMP:20261121T175000Z
+UID:2026-11-21T17:50:00/Þór Akureyri - Selfoss
+DESCRIPTION:Þór Akureyri - Selfoss - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ÍR - Breiðablik - 1. deild kvenna - ap_kkitv_006_prod
 DTSTART:20261121T175000
 DTEND:20261121T185000
@@ -211,11 +195,44 @@ UID:2026-11-21T17:50:00/ÍR - Breiðablik
 DESCRIPTION:ÍR - Breiðablik - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Akureyri - Selfoss - 1. deild kvenna - ap_kkitv_008_prod
-DTSTART:20261121T175000
-DTEND:20261121T185000
-DTSTAMP:20261121T175000Z
-UID:2026-11-21T17:50:00/Þór Akureyri - Selfoss
-DESCRIPTION:Þór Akureyri - Selfoss - 1. deild kvenna
+SUMMARY:Þór Þorlákshöfn - Augnablik - 2. deild karla - ap_kkitv_005_p
+ rod
+DTSTART:20261122T155000
+DTEND:20261122T165000
+DTSTAMP:20261122T155000Z
+UID:2026-11-22T15:50:00/Þór Þorlákshöfn - Augnablik
+DESCRIPTION:Þór Þorlákshöfn - Augnablik - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vængir Júpíters - Léttir - 2. deild karla - ap_kkitv_001_prod
+DTSTART:20261122T162000
+DTEND:20261122T172000
+DTSTAMP:20261122T162000Z
+UID:2026-11-22T16:20:00/Vængir Júpíters - Léttir
+DESCRIPTION:Vængir Júpíters - Léttir - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smári - Laugdælir - 2. deild karla - ap_kkitv_007_prod
+DTSTART:20261122T165000
+DTEND:20261122T175000
+DTSTAMP:20261122T165000Z
+UID:2026-11-22T16:50:00/Smári - Laugdælir
+DESCRIPTION:Smári - Laugdælir - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KV - Þór Þorlákshöfn - 1. deild kvenna - ap_kkitv_003_prod
+DTSTART:20261122T175000
+DTEND:20261122T185000
+DTSTAMP:20261122T175000Z
+UID:2026-11-22T17:50:00/KV - Þór Þorlákshöfn
+DESCRIPTION:KV - Þór Þorlákshöfn - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selfoss - Fylkir - 2. deild karla - ap_kkitv_002_prod
+DTSTART:20261122T175000
+DTEND:20261122T185000
+DTSTAMP:20261122T175000Z
+UID:2026-11-22T17:50:00/Selfoss - Fylkir
+DESCRIPTION:Selfoss - Fylkir - 2. deild karla
 END:VEVENT
 END:VCALENDAR
