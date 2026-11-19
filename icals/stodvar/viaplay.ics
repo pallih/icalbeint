@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - viaplay - ical
 BEGIN:VEVENT
-SUMMARY:UEFA Nations League: Highlights - UEFA Nations League - viaplay
-DTSTART:20261118T130000
-DTEND:20261118T140000
-DTSTAMP:20261118T130000Z
-UID:2026-11-18T13:00:00/UEFA Nations League: Highlights
-DESCRIPTION:UEFA Nations League: Highlights - UEFA Nations League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grand Slam of Darts - PDC Darts - viaplay
-DTSTART:20261118T190000
-DTEND:20261118T200000
-DTSTAMP:20261118T190000Z
-UID:2026-11-18T19:00:00/Grand Slam of Darts
-DESCRIPTION:Grand Slam of Darts - PDC Darts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barcelona (Finali Mondiali | Kappakstur 1) - Ferrari Challenge Nor
  th America - viaplay
 DTSTART:20261119T091500
@@ -82,23 +66,12 @@ UID:2026-11-20T00:25:00/Las Vegas kappaksturinn (Æfing 1)
 DESCRIPTION:Las Vegas kappaksturinn (Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Las Vegas kappaksturinn | Æfing 1) - Formula 1
-  - viaplay
+SUMMARY:Pitlane (Las Vegas kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20261120T003000
 DTEND:20261120T013000
 DTSTAMP:20261120T003000Z
-UID:2026-11-20T00:30:00/Track Positioning (Las Vegas kappaksturinn | Æfin
- g 1)
-DESCRIPTION:Track Positioning (Las Vegas kappaksturinn | Æfing 1) - Formu
- la 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timing (Las Vegas kappaksturinn | Æfing 1) - Formula 1 - viaplay
-DTSTART:20261120T003000
-DTEND:20261120T013000
-DTSTAMP:20261120T003000Z
-UID:2026-11-20T00:30:00/Timing (Las Vegas kappaksturinn | Æfing 1)
-DESCRIPTION:Timing (Las Vegas kappaksturinn | Æfing 1) - Formula 1
+UID:2026-11-20T00:30:00/Pitlane (Las Vegas kappaksturinn | Æfing 1)
+DESCRIPTION:Pitlane (Las Vegas kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onboard (Las Vegas kappaksturinn | Æfing 1) - Formula 1 - viaplay
@@ -109,12 +82,23 @@ UID:2026-11-20T00:30:00/Onboard (Las Vegas kappaksturinn | Æfing 1)
 DESCRIPTION:Onboard (Las Vegas kappaksturinn | Æfing 1) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Las Vegas kappaksturinn | Æfing 1) - Formula 1 - viaplay
+SUMMARY:Timing (Las Vegas kappaksturinn | Æfing 1) - Formula 1 - viaplay
 DTSTART:20261120T003000
 DTEND:20261120T013000
 DTSTAMP:20261120T003000Z
-UID:2026-11-20T00:30:00/Pitlane (Las Vegas kappaksturinn | Æfing 1)
-DESCRIPTION:Pitlane (Las Vegas kappaksturinn | Æfing 1) - Formula 1
+UID:2026-11-20T00:30:00/Timing (Las Vegas kappaksturinn | Æfing 1)
+DESCRIPTION:Timing (Las Vegas kappaksturinn | Æfing 1) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Las Vegas kappaksturinn | Æfing 1) - Formula 1
+  - viaplay
+DTSTART:20261120T003000
+DTEND:20261120T013000
+DTSTAMP:20261120T003000Z
+UID:2026-11-20T00:30:00/Track Positioning (Las Vegas kappaksturinn | Æfin
+ g 1)
+DESCRIPTION:Track Positioning (Las Vegas kappaksturinn | Æfing 1) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las Vegas (Æfing) - F1 Academy - viaplay
@@ -141,15 +125,12 @@ UID:2026-11-20T04:00:00/Onboard (Las Vegas kappaksturinn | Æfing 2)
 DESCRIPTION:Onboard (Las Vegas kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Track Positioning (Las Vegas kappaksturinn | Æfing 2) - Formula 1
-  - viaplay
+SUMMARY:Pitlane (Las Vegas kappaksturinn | Æfing 2) - Formula 1 - viaplay
 DTSTART:20261120T040000
 DTEND:20261120T050000
 DTSTAMP:20261120T040000Z
-UID:2026-11-20T04:00:00/Track Positioning (Las Vegas kappaksturinn | Æfin
- g 2)
-DESCRIPTION:Track Positioning (Las Vegas kappaksturinn | Æfing 2) - Formu
- la 1
+UID:2026-11-20T04:00:00/Pitlane (Las Vegas kappaksturinn | Æfing 2)
+DESCRIPTION:Pitlane (Las Vegas kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Las Vegas kappaksturinn | Æfing 2) - Formula 1 - viaplay
@@ -160,12 +141,15 @@ UID:2026-11-20T04:00:00/Timing (Las Vegas kappaksturinn | Æfing 2)
 DESCRIPTION:Timing (Las Vegas kappaksturinn | Æfing 2) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pitlane (Las Vegas kappaksturinn | Æfing 2) - Formula 1 - viaplay
+SUMMARY:Track Positioning (Las Vegas kappaksturinn | Æfing 2) - Formula 1
+  - viaplay
 DTSTART:20261120T040000
 DTEND:20261120T050000
 DTSTAMP:20261120T040000Z
-UID:2026-11-20T04:00:00/Pitlane (Las Vegas kappaksturinn | Æfing 2)
-DESCRIPTION:Pitlane (Las Vegas kappaksturinn | Æfing 2) - Formula 1
+UID:2026-11-20T04:00:00/Track Positioning (Las Vegas kappaksturinn | Æfin
+ g 2)
+DESCRIPTION:Track Positioning (Las Vegas kappaksturinn | Æfing 2) - Formu
+ la 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las Vegas (Tímatökur) - F1 Academy - viaplay
@@ -328,14 +312,6 @@ UID:2026-11-21T00:25:00/Las Vegas kappaksturinn (Æfing 3)
 DESCRIPTION:Las Vegas kappaksturinn (Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Onboard (Las Vegas kappaksturinn | Æfing 3) - Formula 1 - viaplay
-DTSTART:20261121T003000
-DTEND:20261121T013000
-DTSTAMP:20261121T003000Z
-UID:2026-11-21T00:30:00/Onboard (Las Vegas kappaksturinn | Æfing 3)
-DESCRIPTION:Onboard (Las Vegas kappaksturinn | Æfing 3) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pitlane (Las Vegas kappaksturinn | Æfing 3) - Formula 1 - viaplay
 DTSTART:20261121T003000
 DTEND:20261121T013000
@@ -363,6 +339,14 @@ UID:2026-11-21T00:30:00/Timing (Las Vegas kappaksturinn | Æfing 3)
 DESCRIPTION:Timing (Las Vegas kappaksturinn | Æfing 3) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Onboard (Las Vegas kappaksturinn | Æfing 3) - Formula 1 - viaplay
+DTSTART:20261121T003000
+DTEND:20261121T013000
+DTSTAMP:20261121T003000Z
+UID:2026-11-21T00:30:00/Onboard (Las Vegas kappaksturinn | Æfing 3)
+DESCRIPTION:Onboard (Las Vegas kappaksturinn | Æfing 3) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Las Vegas (Kappakstur 1) - F1 Academy - viaplay
 DTSTART:20261121T021000
 DTEND:20261121T031000
@@ -372,11 +356,31 @@ DESCRIPTION:Las Vegas (Kappakstur 1) - F1 Academy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las Vegas kappaksturinn (Tímatökur) - Formula 1 - viaplay
-DTSTART:20261121T035500
-DTEND:20261121T045500
-DTSTAMP:20261121T035500Z
-UID:2026-11-21T03:55:00/Las Vegas kappaksturinn (Tímatökur)
+DTSTART:20261121T033000
+DTEND:20261121T043000
+DTSTAMP:20261121T033000Z
+UID:2026-11-21T03:30:00/Las Vegas kappaksturinn (Tímatökur)
 DESCRIPTION:Las Vegas kappaksturinn (Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pitlane (Las Vegas kappaksturinn | Tímatökur) - Formula 1 - viap
+ lay
+DTSTART:20261121T040000
+DTEND:20261121T050000
+DTSTAMP:20261121T040000Z
+UID:2026-11-21T04:00:00/Pitlane (Las Vegas kappaksturinn | Tímatökur)
+DESCRIPTION:Pitlane (Las Vegas kappaksturinn | Tímatökur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track Positioning (Las Vegas kappaksturinn | Tímatökur) - Formul
+ a 1 - viaplay
+DTSTART:20261121T040000
+DTEND:20261121T050000
+DTSTAMP:20261121T040000Z
+UID:2026-11-21T04:00:00/Track Positioning (Las Vegas kappaksturinn | Tíma
+ tökur)
+DESCRIPTION:Track Positioning (Las Vegas kappaksturinn | Tímatökur) - Fo
+ rmula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Las Vegas kappaksturinn | Tímatökur) - Formula 1 - viapl
@@ -395,26 +399,6 @@ DTEND:20261121T050000
 DTSTAMP:20261121T040000Z
 UID:2026-11-21T04:00:00/Onboard (Las Vegas kappaksturinn | Tímatökur)
 DESCRIPTION:Onboard (Las Vegas kappaksturinn | Tímatökur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track Positioning (Las Vegas kappaksturinn | Tímatökur) - Formul
- a 1 - viaplay
-DTSTART:20261121T040000
-DTEND:20261121T050000
-DTSTAMP:20261121T040000Z
-UID:2026-11-21T04:00:00/Track Positioning (Las Vegas kappaksturinn | Tíma
- tökur)
-DESCRIPTION:Track Positioning (Las Vegas kappaksturinn | Tímatökur) - Fo
- rmula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pitlane (Las Vegas kappaksturinn | Tímatökur) - Formula 1 - viap
- lay
-DTSTART:20261121T040000
-DTEND:20261121T050000
-DTSTAMP:20261121T040000Z
-UID:2026-11-21T04:00:00/Pitlane (Las Vegas kappaksturinn | Tímatökur)
-DESCRIPTION:Pitlane (Las Vegas kappaksturinn | Tímatökur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portúgal Grand Prix (Frjáls æfing 2) - Moto3 - viaplay
@@ -473,6 +457,14 @@ UID:2026-11-21T11:55:00/Nürnberg - Braunschweig
 DESCRIPTION:Nürnberg - Braunschweig - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hannover - Greuther Fürth - 2. Bundesliga - viaplay
+DTSTART:20261121T115500
+DTEND:20261121T125500
+DTSTAMP:20261121T115500Z
+UID:2026-11-21T11:55:00/Hannover - Greuther Fürth
+DESCRIPTION:Hannover - Greuther Fürth - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wolfsburg - Holstein Kiel - 2. Bundesliga - viaplay
 DTSTART:20261121T115500
 DTEND:20261121T125500
@@ -481,12 +473,12 @@ UID:2026-11-21T11:55:00/Wolfsburg - Holstein Kiel
 DESCRIPTION:Wolfsburg - Holstein Kiel - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannover - Greuther Fürth - 2. Bundesliga - viaplay
-DTSTART:20261121T115500
-DTEND:20261121T125500
-DTSTAMP:20261121T115500Z
-UID:2026-11-21T11:55:00/Hannover - Greuther Fürth
-DESCRIPTION:Hannover - Greuther Fürth - 2. Bundesliga
+SUMMARY:Southampton - Derby - Championship - viaplay
+DTSTART:20261121T122000
+DTEND:20261121T132000
+DTSTAMP:20261121T122000Z
+UID:2026-11-21T12:20:00/Southampton - Derby
+DESCRIPTION:Southampton - Derby - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norwich - Cardiff - Championship - viaplay
@@ -505,14 +497,6 @@ UID:2026-11-21T12:20:00/Millwall - QPR
 DESCRIPTION:Millwall - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southampton - Derby - Championship - viaplay
-DTSTART:20261121T122000
-DTEND:20261121T132000
-DTSTAMP:20261121T122000Z
-UID:2026-11-21T12:20:00/Southampton - Derby
-DESCRIPTION:Southampton - Derby - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Portúgal Grand Prix (Tímatökur) - Moto3 - viaplay
 DTSTART:20261121T123000
 DTEND:20261121T133000
@@ -529,20 +513,12 @@ UID:2026-11-21T13:35:00/Portúgal Grand Prix (Tímatökur)
 DESCRIPTION:Portúgal Grand Prix (Tímatökur) - Moto2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leverkusen - Paderborn - Bundesliga - viaplay
+SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
 DTSTART:20261121T142000
 DTEND:20261121T152000
 DTSTAMP:20261121T142000Z
-UID:2026-11-21T14:20:00/Leverkusen - Paderborn
-DESCRIPTION:Leverkusen - Paderborn - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankfurt - Hoffenheim - Bundesliga - viaplay
-DTSTART:20261121T142000
-DTEND:20261121T152000
-DTSTAMP:20261121T142000Z
-UID:2026-11-21T14:20:00/Frankfurt - Hoffenheim
-DESCRIPTION:Frankfurt - Hoffenheim - Bundesliga
+UID:2026-11-21T14:20:00/Goal Arena - The Bundesliga Konferenz
+DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Union Berlin - Leipzig - Bundesliga - viaplay
@@ -561,20 +537,28 @@ UID:2026-11-21T14:20:00/Elversberg - Freiburg
 DESCRIPTION:Elversberg - Freiburg - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frankfurt - Hoffenheim - Bundesliga - viaplay
+DTSTART:20261121T142000
+DTEND:20261121T152000
+DTSTAMP:20261121T142000Z
+UID:2026-11-21T14:20:00/Frankfurt - Hoffenheim
+DESCRIPTION:Frankfurt - Hoffenheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen - Paderborn - Bundesliga - viaplay
+DTSTART:20261121T142000
+DTEND:20261121T152000
+DTSTAMP:20261121T142000Z
+UID:2026-11-21T14:20:00/Leverkusen - Paderborn
+DESCRIPTION:Leverkusen - Paderborn - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mönchengladbach - Dortmund - Bundesliga - viaplay
 DTSTART:20261121T142000
 DTEND:20261121T152000
 DTSTAMP:20261121T142000Z
 UID:2026-11-21T14:20:00/Mönchengladbach - Dortmund
 DESCRIPTION:Mönchengladbach - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
-DTSTART:20261121T142000
-DTEND:20261121T152000
-DTSTAMP:20261121T142000Z
-UID:2026-11-21T14:20:00/Goal Arena - The Bundesliga Konferenz
-DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portúgal Grand Prix (Sprettkeppni) - MotoGP - viaplay
@@ -585,44 +569,12 @@ UID:2026-11-21T14:35:00/Portúgal Grand Prix (Sprettkeppni)
 DESCRIPTION:Portúgal Grand Prix (Sprettkeppni) - MotoGP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolverhampton - Charlton - Championship - viaplay
+SUMMARY:Lincoln - Wrexham - Championship - viaplay
 DTSTART:20261121T145000
 DTEND:20261121T155000
 DTSTAMP:20261121T145000Z
-UID:2026-11-21T14:50:00/Wolverhampton - Charlton
-DESCRIPTION:Wolverhampton - Charlton - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Ham - Preston - Championship - viaplay
-DTSTART:20261121T145000
-DTEND:20261121T155000
-DTSTAMP:20261121T145000Z
-UID:2026-11-21T14:50:00/West Ham - Preston
-DESCRIPTION:West Ham - Preston - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swansea - West Brom - Championship - viaplay
-DTSTART:20261121T145000
-DTEND:20261121T155000
-DTSTAMP:20261121T145000Z
-UID:2026-11-21T14:50:00/Swansea - West Brom
-DESCRIPTION:Swansea - West Brom - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stoke - Birmingham - Championship - viaplay
-DTSTART:20261121T145000
-DTEND:20261121T155000
-DTSTAMP:20261121T145000Z
-UID:2026-11-21T14:50:00/Stoke - Birmingham
-DESCRIPTION:Stoke - Birmingham - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield United - Watford - Championship - viaplay
-DTSTART:20261121T145000
-DTEND:20261121T155000
-DTSTAMP:20261121T145000Z
-UID:2026-11-21T14:50:00/Sheffield United - Watford
-DESCRIPTION:Sheffield United - Watford - Championship
+UID:2026-11-21T14:50:00/Lincoln - Wrexham
+DESCRIPTION:Lincoln - Wrexham - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Middlesbrough - Bristol City - Championship - viaplay
@@ -633,12 +585,44 @@ UID:2026-11-21T14:50:00/Middlesbrough - Bristol City
 DESCRIPTION:Middlesbrough - Bristol City - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lincoln - Wrexham - Championship - viaplay
+SUMMARY:Sheffield United - Watford - Championship - viaplay
 DTSTART:20261121T145000
 DTEND:20261121T155000
 DTSTAMP:20261121T145000Z
-UID:2026-11-21T14:50:00/Lincoln - Wrexham
-DESCRIPTION:Lincoln - Wrexham - Championship
+UID:2026-11-21T14:50:00/Sheffield United - Watford
+DESCRIPTION:Sheffield United - Watford - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stoke - Birmingham - Championship - viaplay
+DTSTART:20261121T145000
+DTEND:20261121T155000
+DTSTAMP:20261121T145000Z
+UID:2026-11-21T14:50:00/Stoke - Birmingham
+DESCRIPTION:Stoke - Birmingham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swansea - West Brom - Championship - viaplay
+DTSTART:20261121T145000
+DTEND:20261121T155000
+DTSTAMP:20261121T145000Z
+UID:2026-11-21T14:50:00/Swansea - West Brom
+DESCRIPTION:Swansea - West Brom - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Ham - Preston - Championship - viaplay
+DTSTART:20261121T145000
+DTEND:20261121T155000
+DTSTAMP:20261121T145000Z
+UID:2026-11-21T14:50:00/West Ham - Preston
+DESCRIPTION:West Ham - Preston - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolverhampton - Charlton - Championship - viaplay
+DTSTART:20261121T145000
+DTEND:20261121T155000
+DTSTAMP:20261121T145000Z
+UID:2026-11-21T14:50:00/Wolverhampton - Charlton
+DESCRIPTION:Wolverhampton - Charlton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bolton - Portsmouth - Championship - viaplay
@@ -706,20 +690,11 @@ DESCRIPTION:Las Vegas (Kappakstur 2) - F1 Academy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las Vegas kappaksturinn (Kappakstur) - Formula 1 - viaplay
-DTSTART:20261122T033000
-DTEND:20261122T043000
-DTSTAMP:20261122T033000Z
-UID:2026-11-22T03:30:00/Las Vegas kappaksturinn (Kappakstur)
+DTSTART:20261122T035500
+DTEND:20261122T045500
+DTSTAMP:20261122T035500Z
+UID:2026-11-22T03:55:00/Las Vegas kappaksturinn (Kappakstur)
 DESCRIPTION:Las Vegas kappaksturinn (Kappakstur) - Formula 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onboard (Las Vegas kappaksturinn | Kappakstur) - Formula 1 - viapl
- ay
-DTSTART:20261122T040000
-DTEND:20261122T050000
-DTSTAMP:20261122T040000Z
-UID:2026-11-22T04:00:00/Onboard (Las Vegas kappaksturinn | Kappakstur)
-DESCRIPTION:Onboard (Las Vegas kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Timing (Las Vegas kappaksturinn | Kappakstur) - Formula 1 - viapla
@@ -729,6 +704,15 @@ DTEND:20261122T050000
 DTSTAMP:20261122T040000Z
 UID:2026-11-22T04:00:00/Timing (Las Vegas kappaksturinn | Kappakstur)
 DESCRIPTION:Timing (Las Vegas kappaksturinn | Kappakstur) - Formula 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onboard (Las Vegas kappaksturinn | Kappakstur) - Formula 1 - viapl
+ ay
+DTSTART:20261122T040000
+DTEND:20261122T050000
+DTSTAMP:20261122T040000Z
+UID:2026-11-22T04:00:00/Onboard (Las Vegas kappaksturinn | Kappakstur)
+DESCRIPTION:Onboard (Las Vegas kappaksturinn | Kappakstur) - Formula 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pitlane (Las Vegas kappaksturinn | Kappakstur) - Formula 1 - viapl
@@ -785,14 +769,6 @@ UID:2026-11-22T09:45:00/Portúgal Grand Prix (Kappakstur)
 DESCRIPTION:Portúgal Grand Prix (Kappakstur) - Moto3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portúgal Grand Prix (Kappakstur) - Moto2 - viaplay
-DTSTART:20261122T110000
-DTEND:20261122T120000
-DTSTAMP:20261122T110000Z
-UID:2026-11-22T11:00:00/Portúgal Grand Prix (Kappakstur)
-DESCRIPTION:Portúgal Grand Prix (Kappakstur) - Moto2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barcelona (Coppa Shell | World Final Race) - Ferrari Challenge Eur
  ope - viaplay
 DTSTART:20261122T110000
@@ -811,6 +787,14 @@ UID:2026-11-22T11:00:00/Emirates Dubai Sail Grand Prix
 DESCRIPTION:Emirates Dubai Sail Grand Prix - Sail GP
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Portúgal Grand Prix (Kappakstur) - Moto2 - viaplay
+DTSTART:20261122T110000
+DTEND:20261122T120000
+DTSTAMP:20261122T110000Z
+UID:2026-11-22T11:00:00/Portúgal Grand Prix (Kappakstur)
+DESCRIPTION:Portúgal Grand Prix (Kappakstur) - Moto2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burnley - Blackburn - Championship - viaplay
 DTSTART:20261122T115000
 DTEND:20261122T125000
@@ -819,12 +803,12 @@ UID:2026-11-22T11:50:00/Burnley - Blackburn
 DESCRIPTION:Burnley - Blackburn - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Energie Cottbus - Hertha Berlin - 2. Bundesliga - viaplay
+SUMMARY:Karlsruher - Osnabrück - 2. Bundesliga - viaplay
 DTSTART:20261122T122500
 DTEND:20261122T132500
 DTSTAMP:20261122T122500Z
-UID:2026-11-22T12:25:00/Energie Cottbus - Hertha Berlin
-DESCRIPTION:Energie Cottbus - Hertha Berlin - 2. Bundesliga
+UID:2026-11-22T12:25:00/Karlsruher - Osnabrück
+DESCRIPTION:Karlsruher - Osnabrück - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaiserslautern - Dynamo Dresden - 2. Bundesliga - viaplay
@@ -835,12 +819,12 @@ UID:2026-11-22T12:25:00/Kaiserslautern - Dynamo Dresden
 DESCRIPTION:Kaiserslautern - Dynamo Dresden - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karlsruher - Osnabrück - 2. Bundesliga - viaplay
+SUMMARY:Energie Cottbus - Hertha Berlin - 2. Bundesliga - viaplay
 DTSTART:20261122T122500
 DTEND:20261122T132500
 DTSTAMP:20261122T122500Z
-UID:2026-11-22T12:25:00/Karlsruher - Osnabrück
-DESCRIPTION:Karlsruher - Osnabrück - 2. Bundesliga
+UID:2026-11-22T12:25:00/Energie Cottbus - Hertha Berlin
+DESCRIPTION:Energie Cottbus - Hertha Berlin - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portúgal Grand Prix (Kappakstur) - MotoGP - viaplay
@@ -950,12 +934,12 @@ UID:2026-11-23T22:00:00/UEFA Nations League: League Phase Review
 DESCRIPTION:UEFA Nations League: League Phase Review - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Como - AEK Athen - UEFA Youth League - viaplay
+SUMMARY:Arsenal - Dortmund - UEFA Youth League - viaplay
 DTSTART:20261124T125500
 DTEND:20261124T135500
 DTSTAMP:20261124T125500Z
-UID:2026-11-24T12:55:00/Como - AEK Athen
-DESCRIPTION:Como - AEK Athen - UEFA Youth League
+UID:2026-11-24T12:55:00/Arsenal - Dortmund
+DESCRIPTION:Arsenal - Dortmund - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feyenoord - Porto - UEFA Youth League - viaplay
@@ -982,36 +966,12 @@ UID:2026-11-24T17:55:00/Luleå - Malmö
 DESCRIPTION:Luleå - Malmö - SHL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bristol City - Wrexham - Championship - viaplay
+SUMMARY:Charlton - Lincoln - Championship - viaplay
 DTSTART:20261124T193500
 DTEND:20261124T203500
 DTSTAMP:20261124T193500Z
-UID:2026-11-24T19:35:00/Bristol City - Wrexham
-DESCRIPTION:Bristol City - Wrexham - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield United - Southampton - Championship - viaplay
-DTSTART:20261124T193500
-DTEND:20261124T203500
-DTSTAMP:20261124T193500Z
-UID:2026-11-24T19:35:00/Sheffield United - Southampton
-DESCRIPTION:Sheffield United - Southampton - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portsmouth - West Ham - Championship - viaplay
-DTSTART:20261124T193500
-DTEND:20261124T203500
-DTSTAMP:20261124T193500Z
-UID:2026-11-24T19:35:00/Portsmouth - West Ham
-DESCRIPTION:Portsmouth - West Ham - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norwich - QPR - Championship - viaplay
-DTSTART:20261124T193500
-DTEND:20261124T203500
-DTSTAMP:20261124T193500Z
-UID:2026-11-24T19:35:00/Norwich - QPR
-DESCRIPTION:Norwich - QPR - Championship
+UID:2026-11-24T19:35:00/Charlton - Lincoln
+DESCRIPTION:Charlton - Lincoln - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Middlesbrough - Swansea - Championship - viaplay
@@ -1022,12 +982,36 @@ UID:2026-11-24T19:35:00/Middlesbrough - Swansea
 DESCRIPTION:Middlesbrough - Swansea - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlton - Lincoln - Championship - viaplay
+SUMMARY:Norwich - QPR - Championship - viaplay
 DTSTART:20261124T193500
 DTEND:20261124T203500
 DTSTAMP:20261124T193500Z
-UID:2026-11-24T19:35:00/Charlton - Lincoln
-DESCRIPTION:Charlton - Lincoln - Championship
+UID:2026-11-24T19:35:00/Norwich - QPR
+DESCRIPTION:Norwich - QPR - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portsmouth - West Ham - Championship - viaplay
+DTSTART:20261124T193500
+DTEND:20261124T203500
+DTSTAMP:20261124T193500Z
+UID:2026-11-24T19:35:00/Portsmouth - West Ham
+DESCRIPTION:Portsmouth - West Ham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield United - Southampton - Championship - viaplay
+DTSTART:20261124T193500
+DTEND:20261124T203500
+DTSTAMP:20261124T193500Z
+UID:2026-11-24T19:35:00/Sheffield United - Southampton
+DESCRIPTION:Sheffield United - Southampton - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol City - Wrexham - Championship - viaplay
+DTSTART:20261124T193500
+DTEND:20261124T203500
+DTSTAMP:20261124T193500Z
+UID:2026-11-24T19:35:00/Bristol City - Wrexham
+DESCRIPTION:Bristol City - Wrexham - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cardiff - Preston - Championship - viaplay
@@ -1046,28 +1030,20 @@ UID:2026-11-24T19:45:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolverhampton - Derby - Championship - viaplay
-DTSTART:20261124T195000
-DTEND:20261124T205000
-DTSTAMP:20261124T195000Z
-UID:2026-11-24T19:50:00/Wolverhampton - Derby
-DESCRIPTION:Wolverhampton - Derby - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slovan Bratislava - Real Betis - Champions League - viaplay
-DTSTART:20261124T195000
-DTEND:20261124T205000
-DTSTAMP:20261124T195000Z
-UID:2026-11-24T19:50:00/Slovan Bratislava - Real Betis
-DESCRIPTION:Slovan Bratislava - Real Betis - Champions League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leipzig - Lens - Champions League - viaplay
 DTSTART:20261124T195000
 DTEND:20261124T205000
 DTSTAMP:20261124T195000Z
 UID:2026-11-24T19:50:00/Leipzig - Lens
 DESCRIPTION:Leipzig - Lens - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolverhampton - Derby - Championship - viaplay
+DTSTART:20261124T195000
+DTEND:20261124T205000
+DTSTAMP:20261124T195000Z
+UID:2026-11-24T19:50:00/Wolverhampton - Derby
+DESCRIPTION:Wolverhampton - Derby - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Dortmund - Champions League - viaplay
@@ -1078,11 +1054,107 @@ UID:2026-11-24T19:50:00/Arsenal - Dortmund
 DESCRIPTION:Arsenal - Dortmund - Champions League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Slovan Bratislava - Real Betis - Champions League - viaplay
+DTSTART:20261124T195000
+DTEND:20261124T205000
+DTSTAMP:20261124T195000Z
+UID:2026-11-24T19:50:00/Slovan Bratislava - Real Betis
+DESCRIPTION:Slovan Bratislava - Real Betis - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goalshow - Champions League - viaplay
 DTSTART:20261124T220000
 DTEND:20261124T230000
 DTSTAMP:20261124T220000Z
 UID:2026-11-24T22:00:00/Goalshow
 DESCRIPTION:Goalshow - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - Man United - UEFA Youth League - viaplay
+DTSTART:20261125T125500
+DTEND:20261125T135500
+DTSTAMP:20261125T125500Z
+UID:2026-11-25T12:55:00/Sporting - Man United
+DESCRIPTION:Sporting - Man United - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG - Roma - UEFA Youth League - viaplay
+DTSTART:20261125T145500
+DTEND:20261125T155500
+DTSTAMP:20261125T145500Z
+UID:2026-11-25T14:55:00/PSG - Roma
+DESCRIPTION:PSG - Roma - UEFA Youth League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prag - Villarreal - Champions League - viaplay
+DTSTART:20261125T173500
+DTEND:20261125T183500
+DTSTAMP:20261125T173500Z
+UID:2026-11-25T17:35:00/Slavia Prag - Villarreal
+DESCRIPTION:Slavia Prag - Villarreal - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watford - Blackburn - Championship - viaplay
+DTSTART:20261125T193500
+DTEND:20261125T203500
+DTSTAMP:20261125T193500Z
+UID:2026-11-25T19:35:00/Watford - Blackburn
+DESCRIPTION:Watford - Blackburn - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bolton - West Brom - Championship - viaplay
+DTSTART:20261125T193500
+DTEND:20261125T203500
+DTSTAMP:20261125T193500Z
+UID:2026-11-25T19:35:00/Bolton - West Brom
+DESCRIPTION:Bolton - West Brom - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Birmingham - Championship - viaplay
+DTSTART:20261125T193500
+DTEND:20261125T203500
+DTSTAMP:20261125T193500Z
+UID:2026-11-25T19:35:00/Burnley - Birmingham
+DESCRIPTION:Burnley - Birmingham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk - Fenerbahçe - Champions League - viaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Shakhtar Donetsk - Fenerbahçe
+DESCRIPTION:Shakhtar Donetsk - Fenerbahçe - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético Madrid - Viking - Champions League - viaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Atlético Madrid - Viking
+DESCRIPTION:Atlético Madrid - Viking - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - Man United - Champions League - viaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Sporting - Man United
+DESCRIPTION:Sporting - Man United - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stoke - Millwall - Championship - viaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Stoke - Millwall
+DESCRIPTION:Stoke - Millwall - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille - Bayern München - Champions League - viaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Lille - Bayern München
+DESCRIPTION:Lille - Bayern München - Champions League
 END:VEVENT
 END:VCALENDAR
