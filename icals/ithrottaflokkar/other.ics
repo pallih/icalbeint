@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - other - ical
 BEGIN:VEVENT
-SUMMARY:Global Champions League | Quarter-Final - Jumping - Verone - euros
- port1
-DTSTART:20261119T192000
-DTEND:20261119T202000
-DTSTAMP:20261119T192000Z
-UID:2026-11-19T19:20:00/Global Champions League | Quarter-Final
-DESCRIPTION:Global Champions League | Quarter-Final - Jumping - Verone
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lillehammer - Men's HS 140 - | Qualifying - Lillehammer - Men's HS
   140 - eurosport1
 DTSTART:20261120T125500
@@ -33,10 +24,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Global Champions League | Semi-Final - Jumping - Verone - eurospor
  t1
-DTSTART:20261120T192000
-DTEND:20261120T202000
-DTSTAMP:20261120T192000Z
-UID:2026-11-20T19:20:00/Global Champions League | Semi-Final
+DTSTART:20261120T192400
+DTEND:20261120T202400
+DTSTAMP:20261120T192400Z
+UID:2026-11-20T19:24:00/Global Champions League | Semi-Final
 DESCRIPTION:Global Champions League | Semi-Final - Jumping - Verone
 END:VEVENT
 BEGIN:VEVENT
@@ -94,6 +85,14 @@ UID:2026-11-21T20:50:00/Global Champions Tour | Super Grand Prix
 DESCRIPTION:Global Champions Tour | Super Grand Prix - Jumping - Verone
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Emirates Dubai Sail Grand Prix - Sail GP - viaplay
+DTSTART:20261122T110000
+DTEND:20261122T120000
+DTSTAMP:20261122T110000Z
+UID:2026-11-22T11:00:00/Emirates Dubai Sail Grand Prix
+DESCRIPTION:Emirates Dubai Sail Grand Prix - Sail GP
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lillehammer - Women's HS 140 - | Day 2 - Lillehammer - Women's HS 
  140 - eurosport1
 DTSTART:20261122T110000
@@ -102,14 +101,6 @@ DTSTAMP:20261122T110000Z
 UID:2026-11-22T11:00:00/Lillehammer - Women's HS 140 - | Day 2
 DESCRIPTION:Lillehammer - Women's HS 140 - | Day 2 - Lillehammer - Women's
   HS 140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emirates Dubai Sail Grand Prix - Sail GP - viaplay
-DTSTART:20261122T110000
-DTEND:20261122T120000
-DTSTAMP:20261122T110000Z
-UID:2026-11-22T11:00:00/Emirates Dubai Sail Grand Prix
-DESCRIPTION:Emirates Dubai Sail Grand Prix - Sail GP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Women - Trofee Veldrijden - Beringen - eurosport2
@@ -146,5 +137,15 @@ DTSTAMP:20261122T144500Z
 UID:2026-11-22T14:45:00/Lillehammer - Men's HS 140 - | Day 2
 DESCRIPTION:Lillehammer - Men's HS 140 - | Day 2 - Lillehammer - Men's HS 
  140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kontiolahti - Men's Individual - Kontiolahti - Men's Individual - 
+ eurosport1
+DTSTART:20261126T150000
+DTEND:20261126T160000
+DTSTAMP:20261126T150000Z
+UID:2026-11-26T15:00:00/Kontiolahti - Men's Individual
+DESCRIPTION:Kontiolahti - Men's Individual - Kontiolahti - Men's Individua
+ l
 END:VEVENT
 END:VCALENDAR

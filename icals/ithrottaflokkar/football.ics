@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - football - ical
 BEGIN:VEVENT
-SUMMARY:KIF Örebro - Rosengård - OBOS Damallsvenskan - viaplay
-DTSTART:20261119T165000
-DTEND:20261119T175000
-DTSTAMP:20261119T165000Z
-UID:2026-11-19T16:50:00/KIF Örebro - Rosengård
-DESCRIPTION:KIF Örebro - Rosengård - OBOS Damallsvenskan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris FC - HB Køge - Meistaradeild kvenna - disney
-DTSTART:20261119T174500
-DTEND:20261119T184500
-DTSTAMP:20261119T174500Z
-UID:2026-11-19T17:45:00/Paris FC - HB Køge
-DESCRIPTION:Paris FC - HB Køge - Meistaradeild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Austria Vienna - Bayern Munich - Meistaradeild kvenna - disney
-DTSTART:20261119T174500
-DTEND:20261119T184500
-DTSTAMP:20261119T174500Z
-UID:2026-11-19T17:45:00/Austria Vienna - Bayern Munich
-DESCRIPTION:Austria Vienna - Bayern Munich - Meistaradeild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - OL Lyonnes - Meistaradeild kvenna - disney
-DTSTART:20261119T200000
-DTEND:20261119T210000
-DTSTAMP:20261119T200000Z
-UID:2026-11-19T20:00:00/Arsenal - OL Lyonnes
-DESCRIPTION:Arsenal - OL Lyonnes - Meistaradeild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barcelona - Servette - Meistaradeild kvenna - disney
-DTSTART:20261119T200000
-DTEND:20261119T210000
-DTSTAMP:20261119T200000Z
-UID:2026-11-19T20:00:00/Barcelona - Servette
-DESCRIPTION:Barcelona - Servette - Meistaradeild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Benfica - Roma - Meistaradeild kvenna - disney
-DTSTART:20261119T200000
-DTEND:20261119T210000
-DTSTAMP:20261119T200000Z
-UID:2026-11-19T20:00:00/Benfica - Roma
-DESCRIPTION:Benfica - Roma - Meistaradeild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dregið - UEFA Nations League - viaplay
 DTSTART:20261120T110000
 DTEND:20261120T120000
@@ -74,14 +26,6 @@ UID:2026-11-20T17:25:00/Darmstadt - Heidenheim
 DESCRIPTION:Darmstadt - Heidenheim - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arminia Bielefeld - Magdeburg - 2. Bundesliga - viaplay
-DTSTART:20261120T172500
-DTEND:20261120T182500
-DTSTAMP:20261120T172500Z
-UID:2026-11-20T17:25:00/Arminia Bielefeld - Magdeburg
-DESCRIPTION:Arminia Bielefeld - Magdeburg - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Union Berlin - Leverkusen - Frauen-Bundesliga - viaplay
 DTSTART:20261120T172500
 DTEND:20261120T182500
@@ -90,20 +34,20 @@ UID:2026-11-20T17:25:00/Union Berlin - Leverkusen
 DESCRIPTION:Union Berlin - Leverkusen - Frauen-Bundesliga
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arminia Bielefeld - Magdeburg - 2. Bundesliga - viaplay
+DTSTART:20261120T172500
+DTEND:20261120T182500
+DTSTAMP:20261120T172500Z
+UID:2026-11-20T17:25:00/Arminia Bielefeld - Magdeburg
+DESCRIPTION:Arminia Bielefeld - Magdeburg - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bayern München - Köln - Bundesliga - viaplay
 DTSTART:20261120T192000
 DTEND:20261120T202000
 DTSTAMP:20261120T192000Z
 UID:2026-11-20T19:20:00/Bayern München - Köln
 DESCRIPTION:Bayern München - Köln - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Troyes - Le Havre - Ligue 1 - livey
-DTSTART:20261120T194500
-DTEND:20261120T204500
-DTSTAMP:20261120T194500Z
-UID:2026-11-20T19:45:00/Troyes - Le Havre
-DESCRIPTION:Troyes - Le Havre - Ligue 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barnsley - Sheffield Wed. - EFL League One - synsportviaplay
@@ -170,6 +114,14 @@ UID:2026-11-21T12:10:00/Man. City - Fulham
 DESCRIPTION:Man. City - Fulham - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Millwall - QPR - Championship - viaplay
+DTSTART:20261121T122000
+DTEND:20261121T132000
+DTSTAMP:20261121T122000Z
+UID:2026-11-21T12:20:00/Millwall - QPR
+DESCRIPTION:Millwall - QPR - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Southampton - Derby - EFL Championship - synsportviaplay
 DTSTART:20261121T122000
 DTEND:20261121T132000
@@ -192,14 +144,6 @@ DTEND:20261121T132000
 DTSTAMP:20261121T122000Z
 UID:2026-11-21T12:20:00/Norwich - Cardiff
 DESCRIPTION:Norwich - Cardiff - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Millwall - QPR - Championship - viaplay
-DTSTART:20261121T122000
-DTEND:20261121T132000
-DTSTAMP:20261121T122000Z
-UID:2026-11-21T12:20:00/Millwall - QPR
-DESCRIPTION:Millwall - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alavés - Deportivo - LaLiga - disney
@@ -234,20 +178,28 @@ UID:2026-11-21T14:20:00/Goal Arena - The Bundesliga Konferenz
 DESCRIPTION:Goal Arena - The Bundesliga Konferenz - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Union Berlin - Leipzig - Bundesliga - viaplay
-DTSTART:20261121T142000
-DTEND:20261121T152000
-DTSTAMP:20261121T142000Z
-UID:2026-11-21T14:20:00/Union Berlin - Leipzig
-DESCRIPTION:Union Berlin - Leipzig - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elversberg - Freiburg - Bundesliga - viaplay
 DTSTART:20261121T142000
 DTEND:20261121T152000
 DTSTAMP:20261121T142000Z
 UID:2026-11-21T14:20:00/Elversberg - Freiburg
 DESCRIPTION:Elversberg - Freiburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach - Dortmund - Bundesliga - viaplay
+DTSTART:20261121T142000
+DTEND:20261121T152000
+DTSTAMP:20261121T142000Z
+UID:2026-11-21T14:20:00/Mönchengladbach - Dortmund
+DESCRIPTION:Mönchengladbach - Dortmund - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Berlin - Leipzig - Bundesliga - viaplay
+DTSTART:20261121T142000
+DTEND:20261121T152000
+DTSTAMP:20261121T142000Z
+UID:2026-11-21T14:20:00/Union Berlin - Leipzig
+DESCRIPTION:Union Berlin - Leipzig - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frankfurt - Hoffenheim - Bundesliga - viaplay
@@ -266,28 +218,12 @@ UID:2026-11-21T14:20:00/Leverkusen - Paderborn
 DESCRIPTION:Leverkusen - Paderborn - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mönchengladbach - Dortmund - Bundesliga - viaplay
-DTSTART:20261121T142000
-DTEND:20261121T152000
-DTSTAMP:20261121T142000Z
-UID:2026-11-21T14:20:00/Mönchengladbach - Dortmund
-DESCRIPTION:Mönchengladbach - Dortmund - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
 DTSTART:20261121T144000
 DTEND:20261121T154000
 DTSTAMP:20261121T144000Z
 UID:2026-11-21T14:40:00/Doc Zone
 DESCRIPTION:Doc Zone - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tottenham - Ipswich - Premier League - synsport3
-DTSTART:20261121T144000
-DTEND:20261121T154000
-DTSTAMP:20261121T144000Z
-UID:2026-11-21T14:40:00/Tottenham - Ipswich
-DESCRIPTION:Tottenham - Ipswich - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chelsea - Leeds - Premier League - synsport2
@@ -298,12 +234,36 @@ UID:2026-11-21T14:40:00/Chelsea - Leeds
 DESCRIPTION:Chelsea - Leeds - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tottenham - Ipswich - Premier League - synsport3
+DTSTART:20261121T144000
+DTEND:20261121T154000
+DTSTAMP:20261121T144000Z
+UID:2026-11-21T14:40:00/Tottenham - Ipswich
+DESCRIPTION:Tottenham - Ipswich - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lincoln - Wrexham - Championship - viaplay
 DTSTART:20261121T145000
 DTEND:20261121T155000
 DTSTAMP:20261121T145000Z
 UID:2026-11-21T14:50:00/Lincoln - Wrexham
 DESCRIPTION:Lincoln - Wrexham - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swansea - West Brom - Championship - viaplay
+DTSTART:20261121T145000
+DTEND:20261121T155000
+DTSTAMP:20261121T145000Z
+UID:2026-11-21T14:50:00/Swansea - West Brom
+DESCRIPTION:Swansea - West Brom - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bolton - Portsmouth - Championship - viaplay
+DTSTART:20261121T145000
+DTEND:20261121T155000
+DTSTAMP:20261121T145000Z
+UID:2026-11-21T14:50:00/Bolton - Portsmouth
+DESCRIPTION:Bolton - Portsmouth - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Middlesbrough - Bristol City - Championship - viaplay
@@ -322,14 +282,6 @@ UID:2026-11-21T14:50:00/Sheffield United - Watford
 DESCRIPTION:Sheffield United - Watford - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aston Villa - Sunderland - Premier League - synsport4
-DTSTART:20261121T145000
-DTEND:20261121T155000
-DTSTAMP:20261121T145000Z
-UID:2026-11-21T14:50:00/Aston Villa - Sunderland
-DESCRIPTION:Aston Villa - Sunderland - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stoke - Birmingham - Championship - viaplay
 DTSTART:20261121T145000
 DTEND:20261121T155000
@@ -338,20 +290,20 @@ UID:2026-11-21T14:50:00/Stoke - Birmingham
 DESCRIPTION:Stoke - Birmingham - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aston Villa - Sunderland - Premier League - synsport4
+DTSTART:20261121T145000
+DTEND:20261121T155000
+DTSTAMP:20261121T145000Z
+UID:2026-11-21T14:50:00/Aston Villa - Sunderland
+DESCRIPTION:Aston Villa - Sunderland - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bournemouth - Nott. Forest - Premier League - synsport5
 DTSTART:20261121T145000
 DTEND:20261121T155000
 DTSTAMP:20261121T145000Z
 UID:2026-11-21T14:50:00/Bournemouth - Nott. Forest
 DESCRIPTION:Bournemouth - Nott. Forest - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swansea - West Brom - Championship - viaplay
-DTSTART:20261121T145000
-DTEND:20261121T155000
-DTSTAMP:20261121T145000Z
-UID:2026-11-21T14:50:00/Swansea - West Brom
-DESCRIPTION:Swansea - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coventry - Crystal Palace - Premier League - synsportisland2
@@ -386,14 +338,6 @@ UID:2026-11-21T14:50:00/Wolverhampton - Charlton
 DESCRIPTION:Wolverhampton - Charlton - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bolton - Portsmouth - Championship - viaplay
-DTSTART:20261121T145000
-DTEND:20261121T155000
-DTSTAMP:20261121T145000Z
-UID:2026-11-21T14:50:00/Bolton - Portsmouth
-DESCRIPTION:Bolton - Portsmouth - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rayo Vallecano - Valencia - LaLiga - disney
 DTSTART:20261121T151500
 DTEND:20261121T161500
@@ -426,12 +370,12 @@ UID:2026-11-21T17:05:00/Laugardagsmörkin
 DESCRIPTION:Laugardagsmörkin - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schalke - Stuttgart - Bundesliga - viaplay
+SUMMARY:Schalke 04 - Stuttgart - Bundesliga - synsportviaplay
 DTSTART:20261121T172000
 DTEND:20261121T182000
 DTSTAMP:20261121T172000Z
-UID:2026-11-21T17:20:00/Schalke - Stuttgart
-DESCRIPTION:Schalke - Stuttgart - Bundesliga
+UID:2026-11-21T17:20:00/Schalke 04 - Stuttgart
+DESCRIPTION:Schalke 04 - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newcastle - Arsenal - Premier League - synsport
@@ -442,12 +386,12 @@ UID:2026-11-21T17:20:00/Newcastle - Arsenal
 DESCRIPTION:Newcastle - Arsenal - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schalke 04 - Stuttgart - Bundesliga - synsportviaplay
+SUMMARY:Schalke - Stuttgart - Bundesliga - viaplay
 DTSTART:20261121T172000
 DTEND:20261121T182000
 DTSTAMP:20261121T172000Z
-UID:2026-11-21T17:20:00/Schalke 04 - Stuttgart
-DESCRIPTION:Schalke 04 - Stuttgart - Bundesliga
+UID:2026-11-21T17:20:00/Schalke - Stuttgart
+DESCRIPTION:Schalke - Stuttgart - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sevilla - Real Betis - LaLiga - disney
@@ -482,20 +426,12 @@ UID:2026-11-21T19:45:00/Lille - Lyon
 DESCRIPTION:Lille - Lyon - Ligue 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Napoli - Torino - Serie A - livey
+SUMMARY:Monaco - Auxerre - Ligue 1 - livey
 DTSTART:20261121T194500
 DTEND:20261121T204500
 DTSTAMP:20261121T194500Z
-UID:2026-11-21T19:45:00/Napoli - Torino
-DESCRIPTION:Napoli - Torino - Serie A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lens - Toulouse - Ligue 1 - livey
-DTSTART:20261121T194500
-DTEND:20261121T204500
-DTSTAMP:20261121T194500Z
-UID:2026-11-21T19:45:00/Lens - Toulouse
-DESCRIPTION:Lens - Toulouse - Ligue 1
+UID:2026-11-21T19:45:00/Monaco - Auxerre
+DESCRIPTION:Monaco - Auxerre - Ligue 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RC Strasbourg - Brest - Ligue 1 - livey
@@ -506,12 +442,20 @@ UID:2026-11-21T19:45:00/RC Strasbourg - Brest
 DESCRIPTION:RC Strasbourg - Brest - Ligue 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monaco - Auxerre - Ligue 1 - livey
+SUMMARY:Lens - Toulouse - Ligue 1 - livey
 DTSTART:20261121T194500
 DTEND:20261121T204500
 DTSTAMP:20261121T194500Z
-UID:2026-11-21T19:45:00/Monaco - Auxerre
-DESCRIPTION:Monaco - Auxerre - Ligue 1
+UID:2026-11-21T19:45:00/Lens - Toulouse
+DESCRIPTION:Lens - Toulouse - Ligue 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli - Torino - Serie A - livey
+DTSTART:20261121T194500
+DTEND:20261121T204500
+DTSTAMP:20261121T194500Z
+UID:2026-11-21T19:45:00/Napoli - Torino
+DESCRIPTION:Napoli - Torino - Serie A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Madrid - Celta Vigo - LaLiga - disney
@@ -530,20 +474,20 @@ UID:2026-11-22T11:30:00/Juventus - Venezia
 DESCRIPTION:Juventus - Venezia - Serie A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Blackburn - Championship - viaplay
-DTSTART:20261122T115000
-DTEND:20261122T125000
-DTSTAMP:20261122T115000Z
-UID:2026-11-22T11:50:00/Burnley - Blackburn
-DESCRIPTION:Burnley - Blackburn - Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burnley - Blackburn - EFL Championship - synsportviaplay
 DTSTART:20261122T115000
 DTEND:20261122T125000
 DTSTAMP:20261122T115000Z
 UID:2026-11-22T11:50:00/Burnley - Blackburn
 DESCRIPTION:Burnley - Blackburn - EFL Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnley - Blackburn - Championship - viaplay
+DTSTART:20261122T115000
+DTEND:20261122T125000
+DTSTAMP:20261122T115000Z
+UID:2026-11-22T11:50:00/Burnley - Blackburn
+DESCRIPTION:Burnley - Blackburn - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karlsruher - Osnabrück - 2. Bundesliga - viaplay
@@ -554,20 +498,20 @@ UID:2026-11-22T12:25:00/Karlsruher - Osnabrück
 DESCRIPTION:Karlsruher - Osnabrück - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaiserslautern - Dynamo Dresden - 2. Bundesliga - viaplay
-DTSTART:20261122T122500
-DTEND:20261122T132500
-DTSTAMP:20261122T122500Z
-UID:2026-11-22T12:25:00/Kaiserslautern - Dynamo Dresden
-DESCRIPTION:Kaiserslautern - Dynamo Dresden - 2. Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Energie Cottbus - Hertha Berlin - 2. Bundesliga - viaplay
 DTSTART:20261122T122500
 DTEND:20261122T132500
 DTSTAMP:20261122T122500Z
 UID:2026-11-22T12:25:00/Energie Cottbus - Hertha Berlin
 DESCRIPTION:Energie Cottbus - Hertha Berlin - 2. Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaiserslautern - Dynamo Dresden - 2. Bundesliga - viaplay
+DTSTART:20261122T122500
+DTEND:20261122T132500
+DTSTAMP:20261122T122500Z
+UID:2026-11-22T12:25:00/Kaiserslautern - Dynamo Dresden
+DESCRIPTION:Kaiserslautern - Dynamo Dresden - 2. Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barcelona - Villarreal - LaLiga - disney
@@ -594,20 +538,20 @@ UID:2026-11-22T13:50:00/Rosengård - KIF Örebro
 DESCRIPTION:Rosengård - KIF Örebro - OBOS Damallsvenskan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bologna - Udinese - Serie A - livey
-DTSTART:20261122T140000
-DTEND:20261122T150000
-DTSTAMP:20261122T140000Z
-UID:2026-11-22T14:00:00/Bologna - Udinese
-DESCRIPTION:Bologna - Udinese - Serie A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sassuolo - Genoa - Serie A - livey
 DTSTART:20261122T140000
 DTEND:20261122T150000
 DTSTAMP:20261122T140000Z
 UID:2026-11-22T14:00:00/Sassuolo - Genoa
 DESCRIPTION:Sassuolo - Genoa - Serie A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bologna - Udinese - Serie A - livey
+DTSTART:20261122T140000
+DTEND:20261122T150000
+DTSTAMP:20261122T140000Z
+UID:2026-11-22T14:00:00/Bologna - Udinese
+DESCRIPTION:Bologna - Udinese - Serie A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris FC - Angers - Ligue 1 - livey
@@ -779,14 +723,6 @@ UID:2026-11-23T22:00:00/UEFA Nations League: League Phase Review
 DESCRIPTION:UEFA Nations League: League Phase Review - UEFA Nations League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arsenal - Dortmund - UEFA Youth League - viaplay
-DTSTART:20261124T125500
-DTEND:20261124T135500
-DTSTAMP:20261124T125500Z
-UID:2026-11-24T12:55:00/Arsenal - Dortmund
-DESCRIPTION:Arsenal - Dortmund - UEFA Youth League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arsenal - Dortmund - UEFA Youth League - synsport
 DTSTART:20261124T125500
 DTEND:20261124T135500
@@ -795,12 +731,12 @@ UID:2026-11-24T12:55:00/Arsenal - Dortmund
 DESCRIPTION:Arsenal - Dortmund - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Feyenoord - Porto - UEFA Youth League - viaplay
-DTSTART:20261124T145500
-DTEND:20261124T155500
-DTSTAMP:20261124T145500Z
-UID:2026-11-24T14:55:00/Feyenoord - Porto
-DESCRIPTION:Feyenoord - Porto - UEFA Youth League
+SUMMARY:Arsenal - Dortmund - UEFA Youth League - viaplay
+DTSTART:20261124T125500
+DTEND:20261124T135500
+DTSTAMP:20261124T125500Z
+UID:2026-11-24T12:55:00/Arsenal - Dortmund
+DESCRIPTION:Arsenal - Dortmund - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feyenoord - Porto - UEFA Youth League - synsport
@@ -811,12 +747,12 @@ UID:2026-11-24T14:55:00/Feyenoord - Porto
 DESCRIPTION:Feyenoord - Porto - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bodö/Glimt - LASK - Meistaradeild Evrópu - synsport2
-DTSTART:20261124T173500
-DTEND:20261124T183500
-DTSTAMP:20261124T173500Z
-UID:2026-11-24T17:35:00/Bodö/Glimt - LASK
-DESCRIPTION:Bodö/Glimt - LASK - Meistaradeild Evrópu
+SUMMARY:Feyenoord - Porto - UEFA Youth League - viaplay
+DTSTART:20261124T145500
+DTEND:20261124T155500
+DTSTAMP:20261124T145500Z
+UID:2026-11-24T14:55:00/Feyenoord - Porto
+DESCRIPTION:Feyenoord - Porto - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Galatasaray - Aston Villa - Champions League - viaplay
@@ -836,6 +772,14 @@ UID:2026-11-24T17:35:00/Galatasaray - Aston Villa
 DESCRIPTION:Galatasaray - Aston Villa - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bodö/Glimt - LASK - Meistaradeild Evrópu - synsport2
+DTSTART:20261124T173500
+DTEND:20261124T183500
+DTSTAMP:20261124T173500Z
+UID:2026-11-24T17:35:00/Bodö/Glimt - LASK
+DESCRIPTION:Bodö/Glimt - LASK - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
 DTSTART:20261124T193000
 DTEND:20261124T203000
@@ -844,20 +788,12 @@ UID:2026-11-24T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlton - Lincoln - Championship - viaplay
+SUMMARY:Sheffield United - Southampton - Championship - viaplay
 DTSTART:20261124T193500
 DTEND:20261124T203500
 DTSTAMP:20261124T193500Z
-UID:2026-11-24T19:35:00/Charlton - Lincoln
-DESCRIPTION:Charlton - Lincoln - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Middlesbrough - Swansea - Championship - viaplay
-DTSTART:20261124T193500
-DTEND:20261124T203500
-DTSTAMP:20261124T193500Z
-UID:2026-11-24T19:35:00/Middlesbrough - Swansea
-DESCRIPTION:Middlesbrough - Swansea - Championship
+UID:2026-11-24T19:35:00/Sheffield United - Southampton
+DESCRIPTION:Sheffield United - Southampton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Norwich - QPR - Championship - viaplay
@@ -868,20 +804,20 @@ UID:2026-11-24T19:35:00/Norwich - QPR
 DESCRIPTION:Norwich - QPR - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Middlesbrough - Swansea - Championship - viaplay
+DTSTART:20261124T193500
+DTEND:20261124T203500
+DTSTAMP:20261124T193500Z
+UID:2026-11-24T19:35:00/Middlesbrough - Swansea
+DESCRIPTION:Middlesbrough - Swansea - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Portsmouth - West Ham - Championship - viaplay
 DTSTART:20261124T193500
 DTEND:20261124T203500
 DTSTAMP:20261124T193500Z
 UID:2026-11-24T19:35:00/Portsmouth - West Ham
 DESCRIPTION:Portsmouth - West Ham - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheffield United - Southampton - Championship - viaplay
-DTSTART:20261124T193500
-DTEND:20261124T203500
-DTSTAMP:20261124T193500Z
-UID:2026-11-24T19:35:00/Sheffield United - Southampton
-DESCRIPTION:Sheffield United - Southampton - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bristol City - Wrexham - Championship - viaplay
@@ -900,12 +836,44 @@ UID:2026-11-24T19:35:00/Cardiff - Preston
 DESCRIPTION:Cardiff - Preston - Championship
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Charlton - Lincoln - Championship - viaplay
+DTSTART:20261124T193500
+DTEND:20261124T203500
+DTSTAMP:20261124T193500Z
+UID:2026-11-24T19:35:00/Charlton - Lincoln
+DESCRIPTION:Charlton - Lincoln - Championship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Instant Highlights - Champions League - viaplay
 DTSTART:20261124T194500
 DTEND:20261124T204500
 DTSTAMP:20261124T194500Z
 UID:2026-11-24T19:45:00/Instant Highlights
 DESCRIPTION:Instant Highlights - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava - Real Betis - Champions League - viaplay
+DTSTART:20261124T195000
+DTEND:20261124T205000
+DTSTAMP:20261124T195000Z
+UID:2026-11-24T19:50:00/Slovan Bratislava - Real Betis
+DESCRIPTION:Slovan Bratislava - Real Betis - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolverhampton - Derby - Championship - viaplay
+DTSTART:20261124T195000
+DTEND:20261124T205000
+DTSTAMP:20261124T195000Z
+UID:2026-11-24T19:50:00/Wolverhampton - Derby
+DESCRIPTION:Wolverhampton - Derby - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Dortmund - Champions League - viaplay
+DTSTART:20261124T195000
+DTEND:20261124T205000
+DTSTAMP:20261124T195000Z
+UID:2026-11-24T19:50:00/Arsenal - Dortmund
+DESCRIPTION:Arsenal - Dortmund - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leipzig - Lens - Champions League - viaplay
@@ -940,14 +908,6 @@ UID:2026-11-24T19:50:00/Como - AEK
 DESCRIPTION:Como - AEK - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Madrid - PSV - Meistaradeild Evrópu - synsport3
-DTSTART:20261124T195000
-DTEND:20261124T205000
-DTSTAMP:20261124T195000Z
-UID:2026-11-24T19:50:00/Real Madrid - PSV
-DESCRIPTION:Real Madrid - PSV - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Man. City - Napoli - Meistaradeild Evrópu - synsport2
 DTSTART:20261124T195000
 DTEND:20261124T205000
@@ -956,28 +916,12 @@ UID:2026-11-24T19:50:00/Man. City - Napoli
 DESCRIPTION:Man. City - Napoli - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolverhampton - Derby - Championship - viaplay
+SUMMARY:Real Madrid - PSV - Meistaradeild Evrópu - synsport3
 DTSTART:20261124T195000
 DTEND:20261124T205000
 DTSTAMP:20261124T195000Z
-UID:2026-11-24T19:50:00/Wolverhampton - Derby
-DESCRIPTION:Wolverhampton - Derby - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - Dortmund - Champions League - viaplay
-DTSTART:20261124T195000
-DTEND:20261124T205000
-DTSTAMP:20261124T195000Z
-UID:2026-11-24T19:50:00/Arsenal - Dortmund
-DESCRIPTION:Arsenal - Dortmund - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slovan Bratislava - Real Betis - Champions League - viaplay
-DTSTART:20261124T195000
-DTEND:20261124T205000
-DTSTAMP:20261124T195000Z
-UID:2026-11-24T19:50:00/Slovan Bratislava - Real Betis
-DESCRIPTION:Slovan Bratislava - Real Betis - Champions League
+UID:2026-11-24T19:50:00/Real Madrid - PSV
+DESCRIPTION:Real Madrid - PSV - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goalshow - Champions League - viaplay
@@ -1028,12 +972,12 @@ UID:2026-11-25T14:55:00/PSG - Roma
 DESCRIPTION:PSG - Roma - UEFA Youth League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sabah - Barcelona - Meistaradeild Evrópu - synsport2
+SUMMARY:Slavia Prag - Villarreal - Champions League - viaplay
 DTSTART:20261125T173500
 DTEND:20261125T183500
 DTSTAMP:20261125T173500Z
-UID:2026-11-25T17:35:00/Sabah - Barcelona
-DESCRIPTION:Sabah - Barcelona - Meistaradeild Evrópu
+UID:2026-11-25T17:35:00/Slavia Prag - Villarreal
+DESCRIPTION:Slavia Prag - Villarreal - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slavia Prag - Villarreal - Meistaradeild Evrópu - synsportviaplay
@@ -1044,12 +988,12 @@ UID:2026-11-25T17:35:00/Slavia Prag - Villarreal
 DESCRIPTION:Slavia Prag - Villarreal - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slavia Prag - Villarreal - Champions League - viaplay
+SUMMARY:Sabah - Barcelona - Meistaradeild Evrópu - synsport2
 DTSTART:20261125T173500
 DTEND:20261125T183500
 DTSTAMP:20261125T173500Z
-UID:2026-11-25T17:35:00/Slavia Prag - Villarreal
-DESCRIPTION:Slavia Prag - Villarreal - Champions League
+UID:2026-11-25T17:35:00/Sabah - Barcelona
+DESCRIPTION:Sabah - Barcelona - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
@@ -1060,12 +1004,12 @@ UID:2026-11-25T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Watford - Blackburn - Championship - viaplay
+SUMMARY:Burnley - Birmingham - Championship - viaplay
 DTSTART:20261125T193500
 DTEND:20261125T203500
 DTSTAMP:20261125T193500Z
-UID:2026-11-25T19:35:00/Watford - Blackburn
-DESCRIPTION:Watford - Blackburn - Championship
+UID:2026-11-25T19:35:00/Burnley - Birmingham
+DESCRIPTION:Burnley - Birmingham - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bolton - West Brom - Championship - viaplay
@@ -1076,12 +1020,12 @@ UID:2026-11-25T19:35:00/Bolton - West Brom
 DESCRIPTION:Bolton - West Brom - Championship
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burnley - Birmingham - Championship - viaplay
+SUMMARY:Watford - Blackburn - Championship - viaplay
 DTSTART:20261125T193500
 DTEND:20261125T203500
 DTSTAMP:20261125T193500Z
-UID:2026-11-25T19:35:00/Burnley - Birmingham
-DESCRIPTION:Burnley - Birmingham - Championship
+UID:2026-11-25T19:35:00/Watford - Blackburn
+DESCRIPTION:Watford - Blackburn - Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shakhtar Donetsk - Fenerbahçe - Champions League - viaplay
@@ -1092,52 +1036,12 @@ UID:2026-11-25T19:50:00/Shakhtar Donetsk - Fenerbahçe
 DESCRIPTION:Shakhtar Donetsk - Fenerbahçe - Champions League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlético Madrid - Viking - Champions League - viaplay
-DTSTART:20261125T195000
-DTEND:20261125T205000
-DTSTAMP:20261125T195000Z
-UID:2026-11-25T19:50:00/Atlético Madrid - Viking
-DESCRIPTION:Atlético Madrid - Viking - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sporting - Man United - Champions League - viaplay
-DTSTART:20261125T195000
-DTEND:20261125T205000
-DTSTAMP:20261125T195000Z
-UID:2026-11-25T19:50:00/Sporting - Man United
-DESCRIPTION:Sporting - Man United - Champions League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stoke - Millwall - Championship - viaplay
-DTSTART:20261125T195000
-DTEND:20261125T205000
-DTSTAMP:20261125T195000Z
-UID:2026-11-25T19:50:00/Stoke - Millwall
-DESCRIPTION:Stoke - Millwall - Championship
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Brugge - Liverpool - Meistaradeild Evrópu - synsport2
-DTSTART:20261125T195000
-DTEND:20261125T205000
-DTSTAMP:20261125T195000Z
-UID:2026-11-25T19:50:00/Club Brugge - Liverpool
-DESCRIPTION:Club Brugge - Liverpool - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sporting - Man. Utd. - Meistaradeild Evrópu - synsportviaplay
 DTSTART:20261125T195000
 DTEND:20261125T205000
 DTSTAMP:20261125T195000Z
 UID:2026-11-25T19:50:00/Sporting - Man. Utd.
 DESCRIPTION:Sporting - Man. Utd. - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lille - Bayern München - Champions League - viaplay
-DTSTART:20261125T195000
-DTEND:20261125T205000
-DTSTAMP:20261125T195000Z
-UID:2026-11-25T19:50:00/Lille - Bayern München
-DESCRIPTION:Lille - Bayern München - Champions League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter - Stuttgart - Meistaradeild Evrópu - synsport4
@@ -1156,11 +1060,365 @@ UID:2026-11-25T19:50:00/PSG - Roma
 DESCRIPTION:PSG - Roma - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club Brugge - Liverpool - Meistaradeild Evrópu - synsport2
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Club Brugge - Liverpool
+DESCRIPTION:Club Brugge - Liverpool - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stoke - Millwall - Championship - viaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Stoke - Millwall
+DESCRIPTION:Stoke - Millwall - Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - Man United - Champions League - viaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Sporting - Man United
+DESCRIPTION:Sporting - Man United - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético Madrid - Viking - Champions League - viaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Atlético Madrid - Viking
+DESCRIPTION:Atlético Madrid - Viking - Champions League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille - Bayern München - Champions League - viaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Lille - Bayern München
+DESCRIPTION:Lille - Bayern München - Champions League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
 DTSTART:20261125T220000
 DTEND:20261125T230000
 DTSTAMP:20261125T220000Z
 UID:2026-11-25T22:00:00/Meistaradeildarmörkin
 DESCRIPTION:Meistaradeildarmörkin - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kairat - Mjällby - UEFA Conference League - viaplay
+DTSTART:20261126T152500
+DTEND:20261126T162500
+DTSTAMP:20261126T152500Z
+UID:2026-11-26T15:25:00/Kairat - Mjällby
+DESCRIPTION:Kairat - Mjällby - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brann - AGF - Sambandsdeildin - Viaplay - synsportviaplay
+DTSTART:20261126T173500
+DTEND:20261126T183500
+DTSTAMP:20261126T173500Z
+UID:2026-11-26T17:35:00/Brann - AGF
+DESCRIPTION:Brann - AGF - Sambandsdeildin - Viaplay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brann - AGF - UEFA Conference League - viaplay
+DTSTART:20261126T173500
+DTEND:20261126T183500
+DTSTAMP:20261126T173500Z
+UID:2026-11-26T17:35:00/Brann - AGF
+DESCRIPTION:Brann - AGF - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiacos - AC Milan - Evrópudeildin - synsport
+DTSTART:20261126T173500
+DTEND:20261126T183500
+DTSTAMP:20261126T173500Z
+UID:2026-11-26T17:35:00/Olympiacos - AC Milan
+DESCRIPTION:Olympiacos - AC Milan - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brighton - Union Craiova - Sambandsdeildin - synsport3
+DTSTART:20261126T173500
+DTEND:20261126T183500
+DTSTAMP:20261126T173500Z
+UID:2026-11-26T17:35:00/Brighton - Union Craiova
+DESCRIPTION:Brighton - Union Craiova - Sambandsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marseille - Levski Sofia - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Marseille - Levski Sofia
+DESCRIPTION:Marseille - Levski Sofia - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viktoria Plzeň - Benfica - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Viktoria Plzeň - Benfica
+DESCRIPTION:Viktoria Plzeň - Benfica - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinamo Zagreb - Leverkusen - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Dinamo Zagreb - Leverkusen
+DESCRIPTION:Dinamo Zagreb - Leverkusen - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beşiktaş - Hapoel Be'er Sheva - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Beşiktaş - Hapoel Be'er Sheva
+DESCRIPTION:Beşiktaş - Hapoel Be'er Sheva - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pafos - Midtjylland - UEFA Conference League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Pafos - Midtjylland
+DESCRIPTION:Pafos - Midtjylland - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Egnatia Rrogozhinë - Lincoln Red Imps - UEFA Conference League - 
+ viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Egnatia Rrogozhinë - Lincoln Red Imps
+DESCRIPTION:Egnatia Rrogozhinë - Lincoln Red Imps - UEFA Conference Leagu
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hearts - Monaco - UEFA Conference League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Hearts - Monaco
+DESCRIPTION:Hearts - Monaco - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kauno Žalgiris - Riga - UEFA Conference League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Kauno Žalgiris - Riga
+DESCRIPTION:Kauno Žalgiris - Riga - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jablonec - Lugano - UEFA Conference League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Jablonec - Lugano
+DESCRIPTION:Jablonec - Lugano - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iberia 1999 - Getafe - UEFA Conference League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Iberia 1999 - Getafe
+DESCRIPTION:Iberia 1999 - Getafe - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ajax - Thun - UEFA Conference League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Ajax - Thun
+DESCRIPTION:Ajax - Thun - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salzburg - Ararat-Armenia - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Salzburg - Ararat-Armenia
+DESCRIPTION:Salzburg - Ararat-Armenia - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celta Vigo - Bournemouth - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Celta Vigo - Bournemouth
+DESCRIPTION:Celta Vigo - Bournemouth - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union Saint-Gilloise - Lech Poznań - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Union Saint-Gilloise - Lech Poznań
+DESCRIPTION:Union Saint-Gilloise - Lech Poznań - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Escaldes - FCK - Sambandsdeildin - synsport4
+DTSTART:20261126T195000
+DTEND:20261126T205000
+DTSTAMP:20261126T195000Z
+UID:2026-11-26T19:50:00/Inter Escaldes - FCK
+DESCRIPTION:Inter Escaldes - FCK - Sambandsdeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland - Jagiellonia - Evrópudeildin  - synsportviaplay
+DTSTART:20261126T195000
+DTEND:20261126T205000
+DTSTAMP:20261126T195000Z
+UID:2026-11-26T19:50:00/Sunderland - Jagiellonia
+DESCRIPTION:Sunderland - Jagiellonia - Evrópudeildin 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Palace - Real Sociedad - Evrópudeildin - synsport
+DTSTART:20261126T195000
+DTEND:20261126T205000
+DTSTAMP:20261126T195000Z
+UID:2026-11-26T19:50:00/Crystal Palace - Real Sociedad
+DESCRIPTION:Crystal Palace - Real Sociedad - Evrópudeildin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland - Jagiellonia Białystok - UEFA Europa League - viaplay
+DTSTART:20261126T195000
+DTEND:20261126T205000
+DTSTAMP:20261126T195000Z
+UID:2026-11-26T19:50:00/Sunderland - Jagiellonia Białystok
+DESCRIPTION:Sunderland - Jagiellonia Białystok - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lyon - Lillestrøm - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Lyon - Lillestrøm
+DESCRIPTION:Lyon - Lillestrøm - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Torreense - Celtic - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Torreense - Celtic
+DESCRIPTION:Torreense - Celtic - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEC - Rennes - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/NEC - Rennes
+DESCRIPTION:NEC - Rennes - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus - Omonia Nicosia - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Juventus - Omonia Nicosia
+DESCRIPTION:Juventus - Omonia Nicosia - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sparta Prag - AZ - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Sparta Prag - AZ
+DESCRIPTION:Sparta Prag - AZ - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Sturm Graz - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Hoffenheim - Sturm Graz
+DESCRIPTION:Hoffenheim - Sturm Graz - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ferencváros - Celje - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Ferencváros - Celje
+DESCRIPTION:Ferencváros - Celje - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doncaster - Huddersfield - League One - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Doncaster - Huddersfield
+DESCRIPTION:Doncaster - Huddersfield - League One
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braga - KuPS - UEFA Conference League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Braga - KuPS
+DESCRIPTION:Braga - KuPS - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSKA Sofia - Trabzonspor - UEFA Conference League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/CSKA Sofia - Trabzonspor
+DESCRIPTION:CSKA Sofia - Trabzonspor - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gent - Rauða Stjarnan - UEFA Conference League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Gent - Rauða Stjarnan
+DESCRIPTION:Gent - Rauða Stjarnan - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hajduk Split - Sint-Truiden - UEFA Conference League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Hajduk Split - Sint-Truiden
+DESCRIPTION:Hajduk Split - Sint-Truiden - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borac Banja Luka - Atalanta - UEFA Conference League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Borac Banja Luka - Atalanta
+DESCRIPTION:Borac Banja Luka - Atalanta - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordsjælland - Panathinaikos - UEFA Conference League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Nordsjælland - Panathinaikos
+DESCRIPTION:Nordsjælland - Panathinaikos - UEFA Conference League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFI - Anderlecht - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/OFI - Anderlecht
+DESCRIPTION:OFI - Anderlecht - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Twente - UEFA Conference League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Freiburg - Twente
+DESCRIPTION:Freiburg - Twente - UEFA Conference League
 END:VEVENT
 END:VCALENDAR
