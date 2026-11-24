@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Meistaradeild Evrópu - ical
 BEGIN:VEVENT
-SUMMARY:Bodö/Glimt - LASK - Meistaradeild Evrópu - synsport2
-DTSTART:20261124T173500
-DTEND:20261124T183500
-DTSTAMP:20261124T173500Z
-UID:2026-11-24T17:35:00/Bodö/Glimt - LASK
-DESCRIPTION:Bodö/Glimt - LASK - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Galatasaray - Aston Villa - Meistaradeild Evrópu - synsportviapla
  y
 DTSTART:20261124T173500
@@ -19,12 +11,36 @@ UID:2026-11-24T17:35:00/Galatasaray - Aston Villa
 DESCRIPTION:Galatasaray - Aston Villa - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bodö/Glimt - LASK - Meistaradeild Evrópu - synsport2
+DTSTART:20261124T173500
+DTEND:20261124T183500
+DTSTAMP:20261124T173500Z
+UID:2026-11-24T17:35:00/Bodö/Glimt - LASK
+DESCRIPTION:Bodö/Glimt - LASK - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meistaradeildarmessan - Meistaradeild Evrópu - synsport
 DTSTART:20261124T193000
 DTEND:20261124T203000
 DTSTAMP:20261124T193000Z
 UID:2026-11-24T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal - Dortmund - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20261124T195000
+DTEND:20261124T205000
+DTSTAMP:20261124T195000Z
+UID:2026-11-24T19:50:00/Arsenal - Dortmund
+DESCRIPTION:Arsenal - Dortmund - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como - AEK - Meistaradeild Evrópu - synsport4
+DTSTART:20261124T195000
+DTEND:20261124T205000
+DTSTAMP:20261124T195000Z
+UID:2026-11-24T19:50:00/Como - AEK
+DESCRIPTION:Como - AEK - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man. City - Napoli - Meistaradeild Evrópu - synsport2
@@ -43,28 +59,12 @@ UID:2026-11-24T19:50:00/Real Madrid - PSV
 DESCRIPTION:Real Madrid - PSV - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Como - AEK - Meistaradeild Evrópu - synsport4
-DTSTART:20261124T195000
-DTEND:20261124T205000
-DTSTAMP:20261124T195000Z
-UID:2026-11-24T19:50:00/Como - AEK
-DESCRIPTION:Como - AEK - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feyenoord - Porto - Meistaradeild Evrópu - synsport5
 DTSTART:20261124T195000
 DTEND:20261124T205000
 DTSTAMP:20261124T195000Z
 UID:2026-11-24T19:50:00/Feyenoord - Porto
 DESCRIPTION:Feyenoord - Porto - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arsenal - Dortmund - Meistaradeild Evrópu - synsportviaplay
-DTSTART:20261124T195000
-DTEND:20261124T205000
-DTSTAMP:20261124T195000Z
-UID:2026-11-24T19:50:00/Arsenal - Dortmund
-DESCRIPTION:Arsenal - Dortmund - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
@@ -99,14 +99,6 @@ UID:2026-11-25T19:30:00/Meistaradeildarmessan
 DESCRIPTION:Meistaradeildarmessan - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PSG - Roma - Meistaradeild Evrópu - synsport3
-DTSTART:20261125T195000
-DTEND:20261125T205000
-DTSTAMP:20261125T195000Z
-UID:2026-11-25T19:50:00/PSG - Roma
-DESCRIPTION:PSG - Roma - Meistaradeild Evrópu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Brugge - Liverpool - Meistaradeild Evrópu - synsport2
 DTSTART:20261125T195000
 DTEND:20261125T205000
@@ -115,12 +107,12 @@ UID:2026-11-25T19:50:00/Club Brugge - Liverpool
 DESCRIPTION:Club Brugge - Liverpool - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting - Man. Utd. - Meistaradeild Evrópu - synsportviaplay
+SUMMARY:PSG - Roma - Meistaradeild Evrópu - synsport3
 DTSTART:20261125T195000
 DTEND:20261125T205000
 DTSTAMP:20261125T195000Z
-UID:2026-11-25T19:50:00/Sporting - Man. Utd.
-DESCRIPTION:Sporting - Man. Utd. - Meistaradeild Evrópu
+UID:2026-11-25T19:50:00/PSG - Roma
+DESCRIPTION:PSG - Roma - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter - Stuttgart - Meistaradeild Evrópu - synsport4
@@ -129,6 +121,14 @@ DTEND:20261125T205000
 DTSTAMP:20261125T195000Z
 UID:2026-11-25T19:50:00/Inter - Stuttgart
 DESCRIPTION:Inter - Stuttgart - Meistaradeild Evrópu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting - Man. Utd. - Meistaradeild Evrópu - synsportviaplay
+DTSTART:20261125T195000
+DTEND:20261125T205000
+DTSTAMP:20261125T195000Z
+UID:2026-11-25T19:50:00/Sporting - Man. Utd.
+DESCRIPTION:Sporting - Man. Utd. - Meistaradeild Evrópu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meistaradeildarmörkin - Meistaradeild Evrópu - synsport
