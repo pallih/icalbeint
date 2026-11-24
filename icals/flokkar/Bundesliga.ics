@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Augsburg - Mainz - Bundesliga - viaplay
-DTSTART:20261122T142000
-DTEND:20261122T152000
-DTSTAMP:20261122T142000Z
-UID:2026-11-22T14:20:00/Augsburg - Mainz
-DESCRIPTION:Augsburg - Mainz - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flensburg-Handewitt - Rhein-Neckar Löwen - Bundesliga - viaplay
-DTSTART:20261122T152500
-DTEND:20261122T162500
-DTSTAMP:20261122T152500Z
-UID:2026-11-22T15:25:00/Flensburg-Handewitt - Rhein-Neckar Löwen
-DESCRIPTION:Flensburg-Handewitt - Rhein-Neckar Löwen - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werder Bremen - HSV - Bundesliga - viaplay
-DTSTART:20261122T162000
-DTEND:20261122T172000
-DTSTAMP:20261122T162000Z
-UID:2026-11-22T16:20:00/Werder Bremen - HSV
-DESCRIPTION:Werder Bremen - HSV - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Werder Bremen - Mönchengladbach - Bundesliga - viaplay
 DTSTART:20261127T192000
 DTEND:20261127T202000
@@ -34,12 +10,12 @@ UID:2026-11-27T19:20:00/Werder Bremen - Mönchengladbach
 DESCRIPTION:Werder Bremen - Mönchengladbach - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paderborn - Schalke - Bundesliga - viaplay
+SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
 DTSTART:20261128T142000
 DTEND:20261128T152000
 DTSTAMP:20261128T142000Z
-UID:2026-11-28T14:20:00/Paderborn - Schalke
-DESCRIPTION:Paderborn - Schalke - Bundesliga
+UID:2026-11-28T14:20:00/Mainz - Union Berlin
+DESCRIPTION:Mainz - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Elversberg - Bundesliga - viaplay
@@ -58,12 +34,12 @@ UID:2026-11-28T14:20:00/HSV - Bayern München
 DESCRIPTION:HSV - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
+SUMMARY:Paderborn - Schalke - Bundesliga - viaplay
 DTSTART:20261128T142000
 DTEND:20261128T152000
 DTSTAMP:20261128T142000Z
-UID:2026-11-28T14:20:00/Mainz - Union Berlin
-DESCRIPTION:Mainz - Union Berlin - Bundesliga
+UID:2026-11-28T14:20:00/Paderborn - Schalke
+DESCRIPTION:Paderborn - Schalke - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -88,5 +64,37 @@ DTEND:20261128T185500
 DTSTAMP:20261128T175500Z
 UID:2026-11-28T17:55:00/Rhein-Neckar Löwen - Bietigheim
 DESCRIPTION:Rhein-Neckar Löwen - Bietigheim - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg - Leipzig - Bundesliga - viaplay
+DTSTART:20261129T142000
+DTEND:20261129T152000
+DTSTAMP:20261129T142000Z
+UID:2026-11-29T14:20:00/Freiburg - Leipzig
+DESCRIPTION:Freiburg - Leipzig - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffenheim - Augsburg - Bundesliga - viaplay
+DTSTART:20261129T162000
+DTEND:20261129T172000
+DTSTAMP:20261129T162000Z
+UID:2026-11-29T16:20:00/Hoffenheim - Augsburg
+DESCRIPTION:Hoffenheim - Augsburg - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magdeburg - Eisenach - Bundesliga - viaplay
+DTSTART:20261129T165500
+DTEND:20261129T175500
+DTSTAMP:20261129T165500Z
+UID:2026-11-29T16:55:00/Magdeburg - Eisenach
+DESCRIPTION:Magdeburg - Eisenach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund - Leverkusen - Bundesliga - viaplay
+DTSTART:20261129T182000
+DTEND:20261129T192000
+DTSTAMP:20261129T182000Z
+UID:2026-11-29T18:20:00/Dortmund - Leverkusen
+DESCRIPTION:Dortmund - Leverkusen - Bundesliga
 END:VEVENT
 END:VCALENDAR
