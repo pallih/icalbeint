@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Fjölnir - Valur - Bónus deild kvenna - synsportisland
-DTSTART:20261124T190500
-DTEND:20261124T200500
-DTSTAMP:20261124T190500Z
-UID:2026-11-24T19:05:00/Fjölnir - Valur
-DESCRIPTION:Fjölnir - Valur - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Körfuboltakvöld Extra - Bónus deild karla - synsportisland2
-DTSTART:20261124T200000
-DTEND:20261124T210000
-DTSTAMP:20261124T200000Z
-UID:2026-11-24T20:00:00/Körfuboltakvöld Extra
-DESCRIPTION:Körfuboltakvöld Extra - Bónus deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kvenna 
  - synsportisland
 DTSTART:20261125T200000
@@ -84,12 +68,12 @@ UID:2026-11-26T21:20:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KV - Haukar - 1. deild karla - ap_kkitv_008_prod
+SUMMARY:Snæfell - Breiðablik - 1. deild karla - ap_kkitv_005_prod
 DTSTART:20261127T190500
 DTEND:20261127T200500
 DTSTAMP:20261127T190500Z
-UID:2026-11-27T19:05:00/KV - Haukar
-DESCRIPTION:KV - Haukar - 1. deild karla
+UID:2026-11-27T19:05:00/Snæfell - Breiðablik
+DESCRIPTION:Snæfell - Breiðablik - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍA - KFG - 1. deild karla - ap_kkitv_007_prod
@@ -100,28 +84,12 @@ UID:2026-11-27T19:05:00/ÍA - KFG
 DESCRIPTION:ÍA - KFG - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Þorlákshöfn - Hamar - 1. deild karla - ap_kkitv_006_prod
+SUMMARY:KV - Haukar - 1. deild karla - ap_kkitv_008_prod
 DTSTART:20261127T190500
 DTEND:20261127T200500
 DTSTAMP:20261127T190500Z
-UID:2026-11-27T19:05:00/Þór Þorlákshöfn - Hamar
-DESCRIPTION:Þór Þorlákshöfn - Hamar - 1. deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Snæfell - Breiðablik - 1. deild karla - ap_kkitv_005_prod
-DTSTART:20261127T190500
-DTEND:20261127T200500
-DTSTAMP:20261127T190500Z
-UID:2026-11-27T19:05:00/Snæfell - Breiðablik
-DESCRIPTION:Snæfell - Breiðablik - 1. deild karla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Víðir - Afturelding - 2. deild karla - ap_kkitv_004_prod
-DTSTART:20261127T190500
-DTEND:20261127T200500
-DTSTAMP:20261127T190500Z
-UID:2026-11-27T19:05:00/Víðir - Afturelding
-DESCRIPTION:Víðir - Afturelding - 2. deild karla
+UID:2026-11-27T19:05:00/KV - Haukar
+DESCRIPTION:KV - Haukar - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Þór Akureyri - Selfoss - 1. deild karla - ap_kkitv_002_prod
@@ -132,12 +100,28 @@ UID:2026-11-27T19:05:00/Þór Akureyri - Selfoss
 DESCRIPTION:Þór Akureyri - Selfoss - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Þór Þorlákshöfn - Hamar - 1. deild karla - ap_kkitv_006_prod
+DTSTART:20261127T190500
+DTEND:20261127T200500
+DTSTAMP:20261127T190500Z
+UID:2026-11-27T19:05:00/Þór Þorlákshöfn - Hamar
+DESCRIPTION:Þór Þorlákshöfn - Hamar - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skallagrímur - Fjölnir - 1. deild karla - ap_kkitv_003_prod
 DTSTART:20261127T190500
 DTEND:20261127T200500
 DTSTAMP:20261127T190500Z
 UID:2026-11-27T19:05:00/Skallagrímur - Fjölnir
 DESCRIPTION:Skallagrímur - Fjölnir - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víðir - Afturelding - 2. deild karla - ap_kkitv_004_prod
+DTSTART:20261127T190500
+DTEND:20261127T200500
+DTSTAMP:20261127T190500Z
+UID:2026-11-27T19:05:00/Víðir - Afturelding
+DESCRIPTION:Víðir - Afturelding - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Knicks - Heat - NBA - amazon
@@ -156,20 +140,20 @@ UID:2026-11-28T02:30:00/Spurs - Lakers
 DESCRIPTION:Spurs - Lakers - NBA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haukar - Þór Akureyri - 1. deild kvenna - ap_kkitv_002_prod
-DTSTART:20261128T125000
-DTEND:20261128T135000
-DTSTAMP:20261128T125000Z
-UID:2026-11-28T12:50:00/Haukar - Þór Akureyri
-DESCRIPTION:Haukar - Þór Akureyri - 1. deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reykdælir - Fylkir - 2. deild karla - ap_kkitv_001_prod
 DTSTART:20261128T125000
 DTEND:20261128T135000
 DTSTAMP:20261128T125000Z
 UID:2026-11-28T12:50:00/Reykdælir - Fylkir
 DESCRIPTION:Reykdælir - Fylkir - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Þór Akureyri - 1. deild kvenna - ap_kkitv_002_prod
+DTSTART:20261128T125000
+DTEND:20261128T135000
+DTSTAMP:20261128T125000Z
+UID:2026-11-28T12:50:00/Haukar - Þór Akureyri
+DESCRIPTION:Haukar - Þór Akureyri - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skallagrímur - KV - 1. deild kvenna - ap_kkitv_004_prod
@@ -186,23 +170,6 @@ DTEND:20261128T175000
 DTSTAMP:20261128T165000Z
 UID:2026-11-28T16:50:00/Keflavík - Selfoss
 DESCRIPTION:Keflavík - Selfoss - 1. deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selfoss - Keflavík - 1. deild kvenna - ap_kkitv_003_prod
-DTSTART:20261128T175000
-DTEND:20261128T185000
-DTSTAMP:20261128T175000Z
-UID:2026-11-28T17:50:00/Selfoss - Keflavík
-DESCRIPTION:Selfoss - Keflavík - 1. deild kvenna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vængir Júpíters - Laugdælir - 2. deild karla - ap_kkitv_009_pr
- od
-DTSTART:20261129T142000
-DTEND:20261129T152000
-DTSTAMP:20261129T142000Z
-UID:2026-11-29T14:20:00/Vængir Júpíters - Laugdælir
-DESCRIPTION:Vængir Júpíters - Laugdælir - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv
@@ -237,14 +204,6 @@ UID:2026-11-29T16:20:00/Breiðablik - Þór Akureyri
 DESCRIPTION:Breiðablik - Þór Akureyri - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Þorlákshöfn - Haukar - 2. deild karla - ap_kkitv_004_prod
-DTSTART:20261129T165000
-DTEND:20261129T175000
-DTSTAMP:20261129T165000Z
-UID:2026-11-29T16:50:00/Þór Þorlákshöfn - Haukar
-DESCRIPTION:Þór Þorlákshöfn - Haukar - 2. deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Smári - Njarðvík - 2. deild karla - ap_kkitv_005_prod
 DTSTART:20261129T165000
 DTEND:20261129T175000
@@ -253,12 +212,29 @@ UID:2026-11-29T16:50:00/Smári - Njarðvík
 DESCRIPTION:Smári - Njarðvík - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Þór Þorlákshöfn - Haukar - 2. deild karla - ap_kkitv_004_prod
+DTSTART:20261129T165000
+DTEND:20261129T175000
+DTSTAMP:20261129T165000Z
+UID:2026-11-29T16:50:00/Þór Þorlákshöfn - Haukar
+DESCRIPTION:Þór Þorlákshöfn - Haukar - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv
 DTSTART:20261129T174500
 DTEND:20261129T184500
 DTSTAMP:20261129T174500Z
 UID:2026-11-29T17:45:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vængir Júpíters - Laugdælir - 2. deild karla - ap_kkitv_009_pr
+ od
+DTSTART:20261129T175000
+DTEND:20261129T185000
+DTSTAMP:20261129T175000Z
+UID:2026-11-29T17:50:00/Vængir Júpíters - Laugdælir
+DESCRIPTION:Vængir Júpíters - Laugdælir - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Selfoss - KR - 2. deild karla - ap_kkitv_007_prod
@@ -275,5 +251,29 @@ DTEND:20261130T200500
 DTSTAMP:20261130T190500Z
 UID:2026-11-30T19:05:00/Þór Þorlákshöfn - ÍR
 DESCRIPTION:Þór Þorlákshöfn - ÍR - 1. deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ármann - Keflavík - Bónus deild kvenna - synsportisland2
+DTSTART:20261201T190500
+DTEND:20261201T200500
+DTSTAMP:20261201T190500Z
+UID:2026-12-01T19:05:00/Ármann - Keflavík
+DESCRIPTION:Ármann - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR - Fjölnir - Bónus deild kvenna - synsportisland3
+DTSTART:20261201T190500
+DTEND:20261201T200500
+DTSTAMP:20261201T190500Z
+UID:2026-12-01T19:05:00/KR - Fjölnir
+DESCRIPTION:KR - Fjölnir - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Njarðvík - Stjarnan - Bónus deild kvenna - synsportisland
+DTSTART:20261201T190500
+DTEND:20261201T200500
+DTSTAMP:20261201T190500Z
+UID:2026-12-01T19:05:00/Njarðvík - Stjarnan
+DESCRIPTION:Njarðvík - Stjarnan - Bónus deild kvenna
 END:VEVENT
 END:VCALENDAR
