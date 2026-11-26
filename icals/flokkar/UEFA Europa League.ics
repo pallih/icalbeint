@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - UEFA Europa League - ical
 BEGIN:VEVENT
+SUMMARY:Viktoria Plzeň - Benfica - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Viktoria Plzeň - Benfica
+DESCRIPTION:Viktoria Plzeň - Benfica - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Union Saint-Gilloise - Lech Poznań - UEFA Europa League - viaplay
 DTSTART:20261126T174000
 DTEND:20261126T184000
 DTSTAMP:20261126T174000Z
 UID:2026-11-26T17:40:00/Union Saint-Gilloise - Lech Poznań
 DESCRIPTION:Union Saint-Gilloise - Lech Poznań - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salzburg - Ararat-Armenia - UEFA Europa League - viaplay
-DTSTART:20261126T174000
-DTEND:20261126T184000
-DTSTAMP:20261126T174000Z
-UID:2026-11-26T17:40:00/Salzburg - Ararat-Armenia
-DESCRIPTION:Salzburg - Ararat-Armenia - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celta Vigo - Bournemouth - UEFA Europa League - viaplay
@@ -26,28 +26,12 @@ UID:2026-11-26T17:40:00/Celta Vigo - Bournemouth
 DESCRIPTION:Celta Vigo - Bournemouth - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viktoria Plzeň - Benfica - UEFA Europa League - viaplay
+SUMMARY:Salzburg - Ararat-Armenia - UEFA Europa League - viaplay
 DTSTART:20261126T174000
 DTEND:20261126T184000
 DTSTAMP:20261126T174000Z
-UID:2026-11-26T17:40:00/Viktoria Plzeň - Benfica
-DESCRIPTION:Viktoria Plzeň - Benfica - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinamo Zagreb - Leverkusen - UEFA Europa League - viaplay
-DTSTART:20261126T174000
-DTEND:20261126T184000
-DTSTAMP:20261126T174000Z
-UID:2026-11-26T17:40:00/Dinamo Zagreb - Leverkusen
-DESCRIPTION:Dinamo Zagreb - Leverkusen - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marseille - Levski Sofia - UEFA Europa League - viaplay
-DTSTART:20261126T174000
-DTEND:20261126T184000
-DTSTAMP:20261126T174000Z
-UID:2026-11-26T17:40:00/Marseille - Levski Sofia
-DESCRIPTION:Marseille - Levski Sofia - UEFA Europa League
+UID:2026-11-26T17:40:00/Salzburg - Ararat-Armenia
+DESCRIPTION:Salzburg - Ararat-Armenia - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beşiktaş - Hapoel Be'er Sheva - UEFA Europa League - viaplay
@@ -58,6 +42,22 @@ UID:2026-11-26T17:40:00/Beşiktaş - Hapoel Be'er Sheva
 DESCRIPTION:Beşiktaş - Hapoel Be'er Sheva - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marseille - Levski Sofia - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Marseille - Levski Sofia
+DESCRIPTION:Marseille - Levski Sofia - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinamo Zagreb - Leverkusen - UEFA Europa League - viaplay
+DTSTART:20261126T174000
+DTEND:20261126T184000
+DTSTAMP:20261126T174000Z
+UID:2026-11-26T17:40:00/Dinamo Zagreb - Leverkusen
+DESCRIPTION:Dinamo Zagreb - Leverkusen - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sunderland - Jagiellonia Białystok - UEFA Europa League - viaplay
 DTSTART:20261126T195000
 DTEND:20261126T205000
@@ -66,12 +66,28 @@ UID:2026-11-26T19:50:00/Sunderland - Jagiellonia Białystok
 DESCRIPTION:Sunderland - Jagiellonia Białystok - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lyon - Lillestrøm - UEFA Europa League - viaplay
+SUMMARY:OFI - Anderlecht - UEFA Europa League - viaplay
 DTSTART:20261126T195500
 DTEND:20261126T205500
 DTSTAMP:20261126T195500Z
-UID:2026-11-26T19:55:00/Lyon - Lillestrøm
-DESCRIPTION:Lyon - Lillestrøm - UEFA Europa League
+UID:2026-11-26T19:55:00/OFI - Anderlecht
+DESCRIPTION:OFI - Anderlecht - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Torreense - Celtic - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Torreense - Celtic
+DESCRIPTION:Torreense - Celtic - UEFA Europa League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juventus - Omonia Nicosia - UEFA Europa League - viaplay
+DTSTART:20261126T195500
+DTEND:20261126T205500
+DTSTAMP:20261126T195500Z
+UID:2026-11-26T19:55:00/Juventus - Omonia Nicosia
+DESCRIPTION:Juventus - Omonia Nicosia - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sparta Prag - AZ - UEFA Europa League - viaplay
@@ -90,14 +106,6 @@ UID:2026-11-26T19:55:00/Hoffenheim - Sturm Graz
 DESCRIPTION:Hoffenheim - Sturm Graz - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OFI - Anderlecht - UEFA Europa League - viaplay
-DTSTART:20261126T195500
-DTEND:20261126T205500
-DTSTAMP:20261126T195500Z
-UID:2026-11-26T19:55:00/OFI - Anderlecht
-DESCRIPTION:OFI - Anderlecht - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ferencváros - Celje - UEFA Europa League - viaplay
 DTSTART:20261126T195500
 DTEND:20261126T205500
@@ -114,19 +122,11 @@ UID:2026-11-26T19:55:00/NEC - Rennes
 DESCRIPTION:NEC - Rennes - UEFA Europa League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Torreense - Celtic - UEFA Europa League - viaplay
+SUMMARY:Lyon - Lillestrøm - UEFA Europa League - viaplay
 DTSTART:20261126T195500
 DTEND:20261126T205500
 DTSTAMP:20261126T195500Z
-UID:2026-11-26T19:55:00/Torreense - Celtic
-DESCRIPTION:Torreense - Celtic - UEFA Europa League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juventus - Omonia Nicosia - UEFA Europa League - viaplay
-DTSTART:20261126T195500
-DTEND:20261126T205500
-DTSTAMP:20261126T195500Z
-UID:2026-11-26T19:55:00/Juventus - Omonia Nicosia
-DESCRIPTION:Juventus - Omonia Nicosia - UEFA Europa League
+UID:2026-11-26T19:55:00/Lyon - Lillestrøm
+DESCRIPTION:Lyon - Lillestrøm - UEFA Europa League
 END:VEVENT
 END:VCALENDAR

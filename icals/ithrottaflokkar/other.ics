@@ -107,14 +107,14 @@ UID:2026-11-28T10:05:00/Ruka - Classic Sprint
 DESCRIPTION:Ruka - Classic Sprint - Ruka - Classic Sprint
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winterberg - Women’s Singles - | Run 2 - Winterberg - Women's Do
- ubles - eurosport2
+SUMMARY:Winterberg - Women's Doubles - | Run 2 - Winterberg - Women's Doub
+ les - eurosport2
 DTSTART:20261128T103000
 DTEND:20261128T113000
 DTSTAMP:20261128T103000Z
-UID:2026-11-28T10:30:00/Winterberg - Women’s Singles - | Run 2
-DESCRIPTION:Winterberg - Women’s Singles - | Run 2 - Winterberg - Women'
- s Doubles
+UID:2026-11-28T10:30:00/Winterberg - Women's Doubles - | Run 2
+DESCRIPTION:Winterberg - Women's Doubles - | Run 2 - Winterberg - Women's 
+ Doubles
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kontiolahti - Single Mixed Relay - Kontiolahti - Single Mixed Rela
@@ -275,14 +275,6 @@ UID:2026-11-29T15:05:00/Kontiolahti - Women's Sprint
 DESCRIPTION:Kontiolahti - Women's Sprint - Kontiolahti - Women's Sprint
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Round 1 - UK Championship - eurosport2
-DTSTART:20261129T190000
-DTEND:20261129T200000
-DTSTAMP:20261129T190000Z
-UID:2026-11-29T19:00:00/Round 1
-DESCRIPTION:Round 1 - UK Championship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Players Championship - Úrslit - Players Championship  - synsportv
  iaplay
 DTSTART:20261129T190000
@@ -290,6 +282,14 @@ DTEND:20261129T200000
 DTSTAMP:20261129T190000Z
 UID:2026-11-29T19:00:00/Players Championship - Úrslit
 DESCRIPTION:Players Championship - Úrslit - Players Championship 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 1 - UK Championship - eurosport2
+DTSTART:20261129T190000
+DTEND:20261129T200000
+DTSTAMP:20261129T190000Z
+UID:2026-11-29T19:00:00/Round 1
+DESCRIPTION:Round 1 - UK Championship
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 1 - UK Championship - eurosport1
@@ -322,5 +322,21 @@ DTEND:20261201T200000
 DTSTAMP:20261201T190000Z
 UID:2026-12-01T19:00:00/Round 1
 DESCRIPTION:Round 1 - UK Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2 - UK Championship - eurosport1
+DTSTART:20261202T130000
+DTEND:20261202T140000
+DTSTAMP:20261202T130000Z
+UID:2026-12-02T13:00:00/Round 2
+DESCRIPTION:Round 2 - UK Championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Round 2 - UK Championship - eurosport1
+DTSTART:20261202T190000
+DTEND:20261202T200000
+DTSTAMP:20261202T190000Z
+UID:2026-12-02T19:00:00/Round 2
+DESCRIPTION:Round 2 - UK Championship
 END:VEVENT
 END:VCALENDAR

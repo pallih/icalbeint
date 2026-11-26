@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - basketball - ical
 BEGIN:VEVENT
-SUMMARY:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kvenna 
- - synsportisland
-DTSTART:20261125T200000
-DTEND:20261125T210000
-DTSTAMP:20261125T200000Z
-UID:2026-11-25T20:00:00/Bónus körfuboltakvöld kvenna
-DESCRIPTION:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kve
- nna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philadelphia 76ers - Miami Heat - NBA - disney
-DTSTART:20261125T220000
-DTEND:20261125T230000
-DTSTAMP:20261125T220000Z
-UID:2026-11-25T22:00:00/Philadelphia 76ers - Miami Heat
-DESCRIPTION:Philadelphia 76ers - Miami Heat - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oklahoma City Thunder - Minnesota Timberwolves - NBA - disney
-DTSTART:20261126T003000
-DTEND:20261126T013000
-DTSTAMP:20261126T003000Z
-UID:2026-11-26T00:30:00/Oklahoma City Thunder - Minnesota Timberwolves
-DESCRIPTION:Oklahoma City Thunder - Minnesota Timberwolves - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portland Trail Blazers - San Antonio Spurs - NBA - disney
-DTSTART:20261126T030000
-DTEND:20261126T040000
-DTSTAMP:20261126T030000Z
-UID:2026-11-26T03:00:00/Portland Trail Blazers - San Antonio Spurs
-DESCRIPTION:Portland Trail Blazers - San Antonio Spurs - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vestri - Léttir - 2. deild karla - ap_kkitv_001_prod
-DTSTART:20261126T175000
-DTEND:20261126T185000
-DTSTAMP:20261126T175000Z
-UID:2026-11-26T17:50:00/Vestri - Léttir
-DESCRIPTION:Vestri - Léttir - 2. deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stofan - Íþróttaþættir - ruv2
 DTSTART:20261126T190000
 DTEND:20261126T200000
@@ -53,10 +11,10 @@ DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ísland - Bosnía - Undankeppni HM karla í körfubolta - ruv2
-DTSTART:20261126T192000
-DTEND:20261126T202000
-DTSTAMP:20261126T192000Z
-UID:2026-11-26T19:20:00/Ísland - Bosnía
+DTSTART:20261126T192024
+DTEND:20261126T202024
+DTSTAMP:20261126T192024Z
+UID:2026-11-26T19:20:24/Ísland - Bosnía
 DESCRIPTION:Ísland - Bosnía - Undankeppni HM karla í körfubolta
 END:VEVENT
 BEGIN:VEVENT
@@ -66,14 +24,6 @@ DTEND:20261126T222000
 DTSTAMP:20261126T212000Z
 UID:2026-11-26T21:20:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Snæfell - Breiðablik - 1. deild karla - ap_kkitv_005_prod
-DTSTART:20261127T190500
-DTEND:20261127T200500
-DTSTAMP:20261127T190500Z
-UID:2026-11-27T19:05:00/Snæfell - Breiðablik
-DESCRIPTION:Snæfell - Breiðablik - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ÍA - KFG - 1. deild karla - ap_kkitv_007_prod
@@ -92,20 +42,28 @@ UID:2026-11-27T19:05:00/KV - Haukar
 DESCRIPTION:KV - Haukar - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Þór Akureyri - Selfoss - 1. deild karla - ap_kkitv_002_prod
-DTSTART:20261127T190500
-DTEND:20261127T200500
-DTSTAMP:20261127T190500Z
-UID:2026-11-27T19:05:00/Þór Akureyri - Selfoss
-DESCRIPTION:Þór Akureyri - Selfoss - 1. deild karla
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Þór Þorlákshöfn - Hamar - 1. deild karla - ap_kkitv_006_prod
 DTSTART:20261127T190500
 DTEND:20261127T200500
 DTSTAMP:20261127T190500Z
 UID:2026-11-27T19:05:00/Þór Þorlákshöfn - Hamar
 DESCRIPTION:Þór Þorlákshöfn - Hamar - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snæfell - Breiðablik - 1. deild karla - ap_kkitv_005_prod
+DTSTART:20261127T190500
+DTEND:20261127T200500
+DTSTAMP:20261127T190500Z
+UID:2026-11-27T19:05:00/Snæfell - Breiðablik
+DESCRIPTION:Snæfell - Breiðablik - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Víðir - Afturelding - 2. deild karla - ap_kkitv_004_prod
+DTSTART:20261127T190500
+DTEND:20261127T200500
+DTSTAMP:20261127T190500Z
+UID:2026-11-27T19:05:00/Víðir - Afturelding
+DESCRIPTION:Víðir - Afturelding - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skallagrímur - Fjölnir - 1. deild karla - ap_kkitv_003_prod
@@ -116,12 +74,12 @@ UID:2026-11-27T19:05:00/Skallagrímur - Fjölnir
 DESCRIPTION:Skallagrímur - Fjölnir - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Víðir - Afturelding - 2. deild karla - ap_kkitv_004_prod
+SUMMARY:Þór Akureyri - Selfoss - 1. deild karla - ap_kkitv_002_prod
 DTSTART:20261127T190500
 DTEND:20261127T200500
 DTSTAMP:20261127T190500Z
-UID:2026-11-27T19:05:00/Víðir - Afturelding
-DESCRIPTION:Víðir - Afturelding - 2. deild karla
+UID:2026-11-27T19:05:00/Þór Akureyri - Selfoss
+DESCRIPTION:Þór Akureyri - Selfoss - 1. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Knicks - Heat - NBA - amazon
@@ -138,14 +96,6 @@ DTEND:20261128T033000
 DTSTAMP:20261128T023000Z
 UID:2026-11-28T02:30:00/Spurs - Lakers
 DESCRIPTION:Spurs - Lakers - NBA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reykdælir - Fylkir - 2. deild karla - ap_kkitv_001_prod
-DTSTART:20261128T125000
-DTEND:20261128T135000
-DTSTAMP:20261128T125000Z
-UID:2026-11-28T12:50:00/Reykdælir - Fylkir
-DESCRIPTION:Reykdælir - Fylkir - 2. deild karla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haukar - Þór Akureyri - 1. deild kvenna - ap_kkitv_002_prod
@@ -180,20 +130,20 @@ UID:2026-11-29T15:35:00/Stofan
 DESCRIPTION:Stofan - Íþróttaþættir
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tyrkland - Ísland - Undankeppni HM karla í körfubolta - ruv
-DTSTART:20261129T155000
-DTEND:20261129T165000
-DTSTAMP:20261129T155000Z
-UID:2026-11-29T15:50:00/Tyrkland - Ísland
-DESCRIPTION:Tyrkland - Ísland - Undankeppni HM karla í körfubolta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Víðir - Aþena - 2. deild karla - ap_kkitv_001_prod
 DTSTART:20261129T155000
 DTEND:20261129T165000
 DTSTAMP:20261129T155000Z
 UID:2026-11-29T15:50:00/Víðir - Aþena
 DESCRIPTION:Víðir - Aþena - 2. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tyrkland - Ísland - Undankeppni HM karla í körfubolta - ruv
+DTSTART:20261129T155000
+DTEND:20261129T165000
+DTSTAMP:20261129T155000Z
+UID:2026-11-29T15:50:00/Tyrkland - Ísland
+DESCRIPTION:Tyrkland - Ísland - Undankeppni HM karla í körfubolta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Breiðablik - Þór Akureyri - 1. deild kvenna - ap_kkitv_003_prod
@@ -253,14 +203,6 @@ UID:2026-11-30T19:05:00/Þór Þorlákshöfn - ÍR
 DESCRIPTION:Þór Þorlákshöfn - ÍR - 1. deild kvenna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ármann - Keflavík - Bónus deild kvenna - synsportisland2
-DTSTART:20261201T190500
-DTEND:20261201T200500
-DTSTAMP:20261201T190500Z
-UID:2026-12-01T19:05:00/Ármann - Keflavík
-DESCRIPTION:Ármann - Keflavík - Bónus deild kvenna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KR - Fjölnir - Bónus deild kvenna - synsportisland3
 DTSTART:20261201T190500
 DTEND:20261201T200500
@@ -269,11 +211,53 @@ UID:2026-12-01T19:05:00/KR - Fjölnir
 DESCRIPTION:KR - Fjölnir - Bónus deild kvenna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ármann - Keflavík - Bónus deild kvenna - synsportisland2
+DTSTART:20261201T190500
+DTEND:20261201T200500
+DTSTAMP:20261201T190500Z
+UID:2026-12-01T19:05:00/Ármann - Keflavík
+DESCRIPTION:Ármann - Keflavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Njarðvík - Stjarnan - Bónus deild kvenna - synsportisland
 DTSTART:20261201T190500
 DTEND:20261201T200500
 DTSTAMP:20261201T190500Z
 UID:2026-12-01T19:05:00/Njarðvík - Stjarnan
 DESCRIPTION:Njarðvík - Stjarnan - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Tindastóll - Bónus deild kvenna - synsportisland5
+DTSTART:20261202T175000
+DTEND:20261202T185000
+DTSTAMP:20261202T175000Z
+UID:2026-12-02T17:50:00/Haukar - Tindastóll
+DESCRIPTION:Haukar - Tindastóll - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valur - Grindavík - Bónus deild kvenna - synsportisland
+DTSTART:20261202T190500
+DTEND:20261202T200500
+DTSTAMP:20261202T190500Z
+UID:2026-12-02T19:05:00/Valur - Grindavík
+DESCRIPTION:Valur - Grindavík - Bónus deild kvenna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haukar - Hamar - 1. deild karla - ap_kkitv_001_prod
+DTSTART:20261202T200500
+DTEND:20261202T210500
+DTSTAMP:20261202T200500Z
+UID:2026-12-02T20:05:00/Haukar - Hamar
+DESCRIPTION:Haukar - Hamar - 1. deild karla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kvenna 
+ - synsportisland
+DTSTART:20261202T211500
+DTEND:20261202T221500
+DTSTAMP:20261202T211500Z
+UID:2026-12-02T21:15:00/Bónus körfuboltakvöld kvenna
+DESCRIPTION:Bónus körfuboltakvöld kvenna - Bónus körfuboltakvöld kve
+ nna
 END:VEVENT
 END:VCALENDAR
