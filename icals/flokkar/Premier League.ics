@@ -10,6 +10,14 @@ UID:2026-11-27T19:50:00/Nott. Forest - Chelsea
 DESCRIPTION:Nott. Forest - Chelsea - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Doc Zone - Premier League - synsport
+DTSTART:20261128T144000
+DTEND:20261128T154000
+DTSTAMP:20261128T144000Z
+UID:2026-11-28T14:40:00/Doc Zone
+DESCRIPTION:Doc Zone - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Man. Utd. - Brentford - Premier League - synsport2
 DTSTART:20261128T144000
 DTEND:20261128T154000
@@ -24,14 +32,6 @@ DTEND:20261128T154000
 DTSTAMP:20261128T144000Z
 UID:2026-11-28T14:40:00/Leeds - Coventry
 DESCRIPTION:Leeds - Coventry - Premier League
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc Zone - Premier League - synsport
-DTSTART:20261128T144000
-DTEND:20261128T154000
-DTSTAMP:20261128T144000Z
-UID:2026-11-28T14:40:00/Doc Zone
-DESCRIPTION:Doc Zone - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ipswich - Aston Villa - Premier League - synsport
@@ -74,20 +74,20 @@ UID:2026-11-29T13:45:00/Crystal Palace - Hull
 DESCRIPTION:Crystal Palace - Hull - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunderland - Tottenham - Premier League - synsport4
-DTSTART:20261129T135500
-DTEND:20261129T145500
-DTSTAMP:20261129T135500Z
-UID:2026-11-29T13:55:00/Sunderland - Tottenham
-DESCRIPTION:Sunderland - Tottenham - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fulham - Bournemouth - Premier League - synsport5
 DTSTART:20261129T135500
 DTEND:20261129T145500
 DTSTAMP:20261129T135500Z
 UID:2026-11-29T13:55:00/Fulham - Bournemouth
 DESCRIPTION:Fulham - Bournemouth - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunderland - Tottenham - Premier League - synsport4
+DTSTART:20261129T135500
+DTEND:20261129T145500
+DTSTAMP:20261129T135500Z
+UID:2026-11-29T13:55:00/Sunderland - Tottenham
+DESCRIPTION:Sunderland - Tottenham - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal - Man. City - Premier League - synsport
@@ -114,20 +114,20 @@ UID:2026-12-01T19:40:00/Coventry - Ipswich
 DESCRIPTION:Coventry - Ipswich - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liverpool - Sunderland - Premier League - synsport3
-DTSTART:20261202T191000
-DTEND:20261202T201000
-DTSTAMP:20261202T191000Z
-UID:2026-12-02T19:10:00/Liverpool - Sunderland
-DESCRIPTION:Liverpool - Sunderland - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chelsea - Crystal Palace - Premier League - synsport4
 DTSTART:20261202T191000
 DTEND:20261202T201000
 DTSTAMP:20261202T191000Z
 UID:2026-12-02T19:10:00/Chelsea - Crystal Palace
 DESCRIPTION:Chelsea - Crystal Palace - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool - Sunderland - Premier League - synsport3
+DTSTART:20261202T191000
+DTEND:20261202T201000
+DTSTAMP:20261202T191000Z
+UID:2026-12-02T19:10:00/Liverpool - Sunderland
+DESCRIPTION:Liverpool - Sunderland - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doc Zone - Premier League - synsport
@@ -154,14 +154,6 @@ UID:2026-12-02T19:20:00/Hull - Nott. Forest
 DESCRIPTION:Hull - Nott. Forest - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brentford - Arsenal - Premier League - synsportisland3
-DTSTART:20261202T195500
-DTEND:20261202T205500
-DTSTAMP:20261202T195500Z
-UID:2026-12-02T19:55:00/Brentford - Arsenal
-DESCRIPTION:Brentford - Arsenal - Premier League
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Newcastle - Man. Utd. - Premier League - synsport2
 DTSTART:20261202T195500
 DTEND:20261202T205500
@@ -170,12 +162,12 @@ UID:2026-12-02T19:55:00/Newcastle - Man. Utd.
 DESCRIPTION:Newcastle - Man. Utd. - Premier League
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bournemouth - Brighton - Premier League - synsport6
-DTSTART:20261202T200500
-DTEND:20261202T210500
-DTSTAMP:20261202T200500Z
-UID:2026-12-02T20:05:00/Bournemouth - Brighton
-DESCRIPTION:Bournemouth - Brighton - Premier League
+SUMMARY:Brentford - Arsenal - Premier League - synsportisland3
+DTSTART:20261202T195500
+DTEND:20261202T205500
+DTSTAMP:20261202T195500Z
+UID:2026-12-02T19:55:00/Brentford - Arsenal
+DESCRIPTION:Brentford - Arsenal - Premier League
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aston Villa - Everton - Premier League - synsportisland4
@@ -186,11 +178,35 @@ UID:2026-12-02T20:05:00/Aston Villa - Everton
 DESCRIPTION:Aston Villa - Everton - Premier League
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bournemouth - Brighton - Premier League - synsport6
+DTSTART:20261202T200500
+DTEND:20261202T210500
+DTSTAMP:20261202T200500Z
+UID:2026-12-02T20:05:00/Bournemouth - Brighton
+DESCRIPTION:Bournemouth - Brighton - Premier League
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Miðvikudagsmörkin - Premier League - synsport2
 DTSTART:20261202T222000
 DTEND:20261202T232000
 DTSTAMP:20261202T222000Z
 UID:2026-12-02T22:20:00/Miðvikudagsmörkin
 DESCRIPTION:Miðvikudagsmörkin - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tottenham - Fulham - Premier League - synsport
+DTSTART:20261203T194000
+DTEND:20261203T204000
+DTSTAMP:20261203T194000Z
+UID:2026-12-03T19:40:00/Tottenham - Fulham
+DESCRIPTION:Tottenham - Fulham - Premier League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fimmtudagsmessan - Premier League - synsport
+DTSTART:20261203T221000
+DTEND:20261203T231000
+DTSTAMP:20261203T221000Z
+UID:2026-12-03T22:10:00/Fimmtudagsmessan
+DESCRIPTION:Fimmtudagsmessan - Premier League
 END:VEVENT
 END:VCALENDAR
