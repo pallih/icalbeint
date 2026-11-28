@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Framundan í beinni// - Bundesliga - ical
 BEGIN:VEVENT
-SUMMARY:Werder Bremen - Mönchengladbach - Bundesliga - viaplay
-DTSTART:20261127T192000
-DTEND:20261127T202000
-DTSTAMP:20261127T192000Z
-UID:2026-11-27T19:20:00/Werder Bremen - Mönchengladbach
-DESCRIPTION:Werder Bremen - Mönchengladbach - Bundesliga
+SUMMARY:HSV - Bayern München - Bundesliga - viaplay
+DTSTART:20261128T142000
+DTEND:20261128T152000
+DTSTAMP:20261128T142000Z
+UID:2026-11-28T14:20:00/HSV - Bayern München
+DESCRIPTION:HSV - Bayern München - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mainz - Union Berlin - Bundesliga - viaplay
@@ -18,12 +18,12 @@ UID:2026-11-28T14:20:00/Mainz - Union Berlin
 DESCRIPTION:Mainz - Union Berlin - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HSV - Bayern München - Bundesliga - viaplay
+SUMMARY:Paderborn - Schalke - Bundesliga - viaplay
 DTSTART:20261128T142000
 DTEND:20261128T152000
 DTSTAMP:20261128T142000Z
-UID:2026-11-28T14:20:00/HSV - Bayern München
-DESCRIPTION:HSV - Bayern München - Bundesliga
+UID:2026-11-28T14:20:00/Paderborn - Schalke
+DESCRIPTION:Paderborn - Schalke - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Köln - Elversberg - Bundesliga - viaplay
@@ -32,14 +32,6 @@ DTEND:20261128T152000
 DTSTAMP:20261128T142000Z
 UID:2026-11-28T14:20:00/Köln - Elversberg
 DESCRIPTION:Köln - Elversberg - Bundesliga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paderborn - Schalke - Bundesliga - viaplay
-DTSTART:20261128T142000
-DTEND:20261128T152000
-DTSTAMP:20261128T142000Z
-UID:2026-11-28T14:20:00/Paderborn - Schalke
-DESCRIPTION:Paderborn - Schalke - Bundesliga
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goal Arena - The Bundesliga Konferenz - Bundesliga - viaplay
@@ -104,5 +96,21 @@ DTEND:20261130T185500
 DTSTAMP:20261130T175500Z
 UID:2026-11-30T17:55:00/Füchse Berlin - Hannover-Burgdorf
 DESCRIPTION:Füchse Berlin - Hannover-Burgdorf - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bietigheim - Gummersbach - Bundesliga - viaplay
+DTSTART:20261204T175500
+DTEND:20261204T185500
+DTSTAMP:20261204T175500Z
+UID:2026-12-04T17:55:00/Bietigheim - Gummersbach
+DESCRIPTION:Bietigheim - Gummersbach - Bundesliga
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern München - Paderborn - Bundesliga - viaplay
+DTSTART:20261204T192000
+DTEND:20261204T202000
+DTSTAMP:20261204T192000Z
+UID:2026-12-04T19:20:00/Bayern München - Paderborn
+DESCRIPTION:Bayern München - Paderborn - Bundesliga
 END:VEVENT
 END:VCALENDAR
